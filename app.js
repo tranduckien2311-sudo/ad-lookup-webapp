@@ -2181,17 +2181,19 @@
               </div>
               ${renderReasonBoxHtml(ad.summary)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
-                <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
-                  ad.id
-                )}" data-ad-side="faa" style="font-size:11px;padding:3px 8px;border-color:#10b981;color:#34d399;">
-                  📋 Copy Nguyên Văn FAA
-                </button>
                 ${renderPdfActionHtml(ad.id, ad, {
                   side: "faa",
                   viewLabel: "📎 Mở PDF FAA ↗",
                   uploadLabel: "📤 Upload PDF FAA",
                   style: "font-size:11px;padding:3px 8px;border-color:rgba(59,130,246,0.45);color:#60a5fa;"
                 })}
+                ${
+                  ad.sourceUrl
+                    ? `<a href="${escapeHtml(
+                        ad.sourceUrl
+                      )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="font-size:11px;padding:3px 8px;border-color:rgba(148,163,184,0.4);color:var(--text-secondary);">🔗 Link gốc FAA ↗</a>`
+                    : ""
+                }
               </div>
             </td>
           </tr>`;
@@ -2279,17 +2281,13 @@
               </div>
               ${renderReasonBoxHtml(easaSum)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
-                <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
-                  ad.id
-                )}" data-ad-side="easa" style="font-size:11px;padding:3px 8px;border-color:#10b981;color:#34d399;">
-                  📋 Copy Nguyên Văn EASA
-                </button>
                 ${renderPdfActionHtml(ad.id, ad, {
                   side: "easa",
                   viewLabel: "📎 Mở PDF EASA ↗",
                   uploadLabel: "📤 Upload PDF EASA",
                   style: "font-size:11px;padding:3px 8px;border-color:rgba(16,185,129,0.5);color:#34d399;"
                 })}
+                <a href="${escapeHtml(EASA_ARCHIVE_URL)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="font-size:11px;padding:3px 8px;border-color:rgba(148,163,184,0.4);color:var(--text-secondary);">🔗 EASA Archive ↗</a>
               </div>
             </td>
           </tr>`;
@@ -2383,17 +2381,19 @@
               </div>
               ${renderReasonBoxHtml(ad.summary)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
-                <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
-                  ad.id
-                )}" style="font-size:11px;padding:3px 8px;border-color:#10b981;color:#34d399;">
-                  📋 Copy Nguyên Văn Text
-                </button>
                 ${renderPdfActionHtml(ad.id, ad, {
                   side: "main",
                   viewLabel: "📎 Xem PDF ↗",
                   uploadLabel: "📤 Upload PDF",
                   style: "font-size:11px;padding:3px 8px;border-color:rgba(59,130,246,0.45);color:#60a5fa;"
                 })}
+                ${
+                  ad.sourceUrl
+                    ? `<a href="${escapeHtml(
+                        ad.sourceUrl.includes("ad.easa.europa.eu") ? EASA_ARCHIVE_URL : ad.sourceUrl
+                      )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="font-size:11px;padding:3px 8px;border-color:rgba(148,163,184,0.4);color:var(--text-secondary);">🔗 Link gốc ↗</a>`
+                    : ""
+                }
               </div>
             </td>
           </tr>
@@ -2478,20 +2478,21 @@
                     <span class="badge badge-standard" style="margin-left:4px;">Issued: ${escapeHtml(ad.issueDate)}</span>
                   </div>
                   <div style="display:flex;gap:6px;flex-wrap:wrap;" class="no-print">
-                    <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="faa" style="border-color:#10b981;color:#34d399;">
-                      📋 Copy Nguyên Văn FAA
-                    </button>
                     ${renderPdfActionHtml(ad.id, ad, {
                       side: "faa",
                       viewLabel: "📎 Mở PDF FAA ↗",
                       uploadLabel: "📤 Upload PDF FAA",
                       style: "border-color:#3b82f6;color:#60a5fa;"
                     })}
+                    ${
+                      ad.sourceUrl
+                        ? `<a href="${escapeHtml(ad.sourceUrl)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm">🔗 Trang gốc FAA ↗</a>`
+                        : ""
+                    }
                   </div>
                 </div>
-                <div style="padding:10px 12px;background:#090d16;border:1px solid #334155;border-radius:6px;font-family:monospace;font-size:12.5px;line-height:1.6;white-space:pre-wrap;color:#e2e8f0;">${escapeHtml(
-                  ad.subject + "\n\n" + ad.summary
-                )}</div>
+                <div style="font-weight:700;color:#93c5fd;margin-bottom:6px;font-size:13px;">${escapeHtml(ad.subject)}</div>
+                ${renderReasonBoxHtml(ad.summary)}
               </div>`;
             const easaBox = (lineNum) => `
               <!-- Dòng ${lineNum}: EASA AD -->
@@ -2503,20 +2504,17 @@
                     <span class="badge badge-standard" style="margin-left:4px;">Issued: ${escapeHtml(easaIss)}</span>
                   </div>
                   <div style="display:flex;gap:6px;flex-wrap:wrap;" class="no-print">
-                    <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="easa" style="border-color:#10b981;color:#34d399;">
-                      📋 Copy Nguyên Văn EASA
-                    </button>
                     ${renderPdfActionHtml(ad.id, ad, {
                       side: "easa",
                       viewLabel: "📎 Mở PDF EASA ↗",
                       uploadLabel: "📤 Upload PDF EASA",
                       style: "border-color:#10b981;color:#34d399;"
                     })}
+                    <a href="${escapeHtml(EASA_ARCHIVE_URL)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm">🔗 EASA Archive ↗</a>
                   </div>
                 </div>
-                <div style="padding:10px 12px;background:#090d16;border:1px solid rgba(16,185,129,0.35);border-radius:6px;font-family:monospace;font-size:12.5px;line-height:1.6;white-space:pre-wrap;color:#e2e8f0;">${escapeHtml(
-                  easaSubj + "\n\n" + easaSum
-                )}</div>
+                <div style="font-weight:700;color:#34d399;margin-bottom:6px;font-size:13px;">${escapeHtml(easaSubj)}</div>
+                ${renderReasonBoxHtml(easaSum)}
               </div>`;
             return `
             <div class="dash-card" style="border-left:5px solid #10b981;">
@@ -2562,27 +2560,25 @@
                   ${supList.length > 0 ? renderSupersededDropdownHtml(ad, false) : ""}
                 </div>
                 <div style="display:flex;gap:8px;flex-wrap:wrap;" class="no-print">
-                  <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
-                    ad.id
-                  )}" style="border-color:#10b981;color:#34d399;">
-                    📋 Copy Nguyên Văn AD
-                  </button>
                   ${renderPdfActionHtml(ad.id, ad, {
                     side: "main",
                     viewLabel: "📎 Xem PDF Hiện Hành ↗",
                     uploadLabel: "📤 Upload PDF",
                     style: "border-color:#3b82f6;color:#60a5fa;"
                   })}
+                  ${
+                    ad.sourceUrl
+                      ? `<a href="${escapeHtml(
+                          ad.sourceUrl.includes("ad.easa.europa.eu") ? EASA_ARCHIVE_URL : ad.sourceUrl
+                        )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm">🔗 Link AD gốc ↗</a>`
+                      : ""
+                  }
                 </div>
               </div>
 
-              <div class="detail-box" style="margin-bottom:12px;border-color:rgba(59,130,246,0.45);">
-                <div class="label" style="color:#60a5fa;font-size:12px;margin-bottom:6px;">
-                  📜 NGUYÊN VĂN NỘI DUNG AD (VERBATIM TEXT — COPY Y CHANG BẢN GỐC):
-                </div>
-                <div style="padding:10px 12px;background:#090d16;border:1px solid #334155;border-radius:6px;font-family:monospace;font-size:12.5px;line-height:1.6;white-space:pre-wrap;color:#e2e8f0;">${escapeHtml(
-                  ad.subject + "\n\n" + ad.summary
-                )}</div>
+              <div class="detail-box" style="margin-bottom:12px;">
+                ${renderAdEngineOrClassHtml(ad)}
+                ${renderReasonBoxHtml(ad.summary)}
               </div>
 
               <div class="detail-box">
@@ -3003,39 +2999,16 @@
         </div>
       </div>
 
-      <!-- 2. Verbatim Text Box (Read & Copy Exact Text from AD) -->
-      <div class="detail-box" style="border-color:var(--accent-blue);">
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
-          <div class="label" style="color:#60a5fa;font-size:12.5px;">
-            📜 NGUYÊN VĂN NỘI DUNG AD GỐC (${escapeHtml(
-              viewingDoc.adNumber
-            )} — ĐỌC TEXT VÀ COPY LẠI Y CHANG):
-          </div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap;">
-            <button type="button" class="btn btn-outline btn-sm" id="btnCopyAbstractBox" style="border-color:#10b981;color:#34d399;">
-              📋 Copy Nguyên Văn Khung Này
-            </button>
-          </div>
-        </div>
-        <textarea id="verbatimTextArea" class="form-control" rows="22" readonly style="display:block;width:100%;box-sizing:border-box;min-height:460px;resize:vertical;font-family:monospace;font-size:12.5px;line-height:1.6;background:#090d16;color:#e2e8f0;border-color:#334155;white-space:pre-wrap;">${escapeHtml(
-          initialVerbatimText
-        )}</textarea>
-        <div id="fullTextLoadStatus" style="font-size:11.5px;color:#93c5fd;margin-top:6px;">
-          ⏳ Đang tự động đọc toàn văn quy định gốc (Full Regulatory Text) của ${escapeHtml(
-            viewingDoc.adNumber
-          )} từ nguồn chính thức (GovInfo / EASA Archive)...
-        </div>
+      <!-- 2. Reason Box -->
+      <div class="detail-box">
+        ${renderReasonBoxHtml(viewingDoc.summary || ad.summary)}
       </div>
 
-      <!-- 3. Embedded PDF Attachment Viewer (Current AD or Superseded AD PDF) -->
+      <!-- 3. Direct Official AD Links & PDF Attachment (Current AD or Superseded AD PDF) -->
       <div class="detail-box no-print" style="border-color:rgba(16,185,129,0.5);">
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
           <div class="label" style="color:#34d399;font-size:12px;">
-            📎 BẢN PDF GỐC ĐÍNH KÈM CỦA ${escapeHtml(viewingDoc.adNumber)} (${escapeHtml(
-      hasDirectPdfFile(viewingDoc, modalSide)
-        ? getSafePdfUrl(viewingDoc) || getSafePdfUrl(ad) || "Official AD PDF"
-        : "Chưa có file PDF — Nhấn Upload PDF để tải lên"
-    )})
+            📎 LINK TÀI LIỆU &amp; BẢN PDF GỐC CỦA ${escapeHtml(viewingDoc.adNumber)}
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;">
             ${renderPdfActionHtml(ad.id, viewingDoc, {
@@ -3091,42 +3064,7 @@
       });
     });
 
-    const btnTogglePdf = document.getElementById("btnToggleInlinePdf");
-    const pdfBox = document.getElementById("inlinePdfViewerBox");
-    if (btnTogglePdf && pdfBox) {
-      btnTogglePdf.addEventListener("click", () => {
-        pdfBox.style.display = pdfBox.style.display === "none" ? "block" : "none";
-      });
-    }
-
-    const btnCopyBox = document.getElementById("btnCopyAbstractBox");
-    const taVerbatim = document.getElementById("verbatimTextArea");
-    if (btnCopyBox && taVerbatim) {
-      btnCopyBox.addEventListener("click", () => {
-        copyTextToClipboard(taVerbatim.value, viewingDoc.adNumber);
-      });
-    }
-
     document.getElementById("adDetailModal").classList.add("open");
-
-    // Automatically fetch full verbatim regulatory text from GovInfo or EASA PDF Archive if available
-    const statusEl = document.getElementById("fullTextLoadStatus");
-    if (taVerbatim) {
-      const { fullText, sourceLabel } = await fetchFullVerbatimText(ad, resolvedSide, activeSupObj);
-      if (sourceLabel !== "Local" && fullText && fullText.length > 80) {
-        taVerbatim.value = fullText;
-        taVerbatim.rows = 18;
-        if (statusEl) {
-          statusEl.textContent = `✔ Đã tải toàn bộ nguyên văn AD gốc của ${viewingDoc.adNumber} (${sourceLabel}). Nhấn "📋 Copy Nguyên Văn" để sao chép hết AD.`;
-          statusEl.style.color = "#34d399";
-        }
-        return;
-      }
-    }
-
-    if (statusEl) {
-      statusEl.textContent = `✔ Đang hiển thị nguyên văn nội dung gốc của ${viewingDoc.adNumber}. Bạn có thể bấm nút "📥 Mở Bản PDF..." bên dưới để xem toàn văn file PDF chính thức.`;
-    }
   }
 
   // Export CSV (Clean Verbatim Columns + Superseded PDFs)
@@ -3555,50 +3493,8 @@ ${bodyRows}
       }
     });
 
-    // Global click handlers for "Copy Nguyên Văn" and "Xem PDF & Nguyên văn AD Cũ"
-    document.body.addEventListener("click", async (e) => {
-      const btnCopy = e.target.closest(".btn-copy-verbatim");
-      if (btnCopy) {
-        e.stopPropagation();
-        const adId = btnCopy.getAttribute("data-ad-id");
-        const ad = adList.find((x) => x.id === adId);
-        const side = btnCopy.getAttribute("data-ad-side") || (isEasaPrimaryDual(ad) ? "easa" : "main");
-        if (ad) {
-          const label = side === "easa" ? ad.easaAdNumber || ad.adNumber : ad.adNumber;
-          const origLabel = btnCopy.textContent;
-          btnCopy.disabled = true;
-          btnCopy.textContent = "⏳ Đang lấy hết AD...";
-          let copiedOk = false;
-          try {
-            if (window.ClipboardItem && navigator.clipboard && navigator.clipboard.write && window.isSecureContext) {
-              try {
-                let fetchedText = "";
-                const clipItem = new ClipboardItem({
-                  "text/plain": fetchFullVerbatimText(ad, side).then(({ fullText }) => {
-                    fetchedText = fullText;
-                    return new Blob([fullText], { type: "text/plain" });
-                  })
-                });
-                await navigator.clipboard.write([clipItem]);
-                copiedOk = true;
-                showToast(`📋 Đã copy toàn bộ ${label} (${fetchedText.length.toLocaleString()} ký tự)!`);
-              } catch (clipErr) {}
-            }
-            if (!copiedOk) {
-              const { fullText } = await fetchFullVerbatimText(ad, side);
-              copiedOk = await copyTextToClipboard(fullText, `${label} (toàn bộ AD)`);
-              if (!copiedOk) {
-                openAdModal(ad.id, null, side);
-              }
-            }
-          } finally {
-            btnCopy.disabled = false;
-            btnCopy.textContent = origLabel;
-          }
-        }
-        return;
-      }
-
+    // Global click handlers for "Xem PDF & Chi tiết AD cũ"
+    document.body.addEventListener("click", (e) => {
       const btnSupModal = e.target.closest(".btn-open-sup-modal");
       if (btnSupModal) {
         e.stopPropagation();
