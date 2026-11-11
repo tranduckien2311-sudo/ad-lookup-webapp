@@ -394,23 +394,98 @@
   function getDisplayReasonSummary(rawText) {
     let t = String(rawText || "").trim();
     if (!t) return "";
-    // Remove any accidental footer noise or Required Action(s) tail from EASA summaries
+    // Remove accidental footer noise or Required Action(s) / Ref. Publications / Remarks tail
     t = t
       .replace(/\s*Page \d+ of \d+\s+TE\.CAP\.[\s\S]*?An agency of the European Union(?:\s+EASA AD No\.?:?\s*[0-9A-Za-z\-]+)?/gi, " ")
-      .replace(/\r?\n\s*Required Action\(s\)[\s\S]*$/i, "")
+      .replace(/\r?\n?\s*Required Action\(s\)[\s\S]*$/i, "")
+      .replace(/\r?\n?\s*Ref\.\s*Publications:[\s\S]*$/i, "")
+      .replace(/\r?\n?\s*Remarks:[\s\S]*$/i, "")
       .trim();
-    // Since Applicability is shown right under Phân loại, keep Nội dung AD focused on Reason when Reason exists
-    if (/^Applicability:/i.test(t) && /\bReason:/i.test(t)) {
+    // Focus strictly on Reason when Applicability / Definitions precede Reason
+    if (/\bReason:/i.test(t)) {
       const idxR = t.search(/\bReason:/i);
-      if (idxR > 0) t = t.slice(idxR).trim();
+      if (idxR >= 0) t = t.slice(idxR).trim();
+    } else if (/^Applicability:/i.test(t)) {
+      t = t.replace(/^Applicability:\s*/i, "").trim();
     }
+    // Strip leading "Reason:" label because the box itself renders "📝 Reason:"
+    t = t.replace(/^Reason:\s*/i, "").trim();
     // For FAA abstracts with "This AD was prompted by ... This AD requires ...", show Reason/Context cleanly
-    if (!/^Reason:/i.test(t) && /This AD was prompted by/i.test(t)) {
+    if (/This AD was prompted by/i.test(t)) {
       const idxReq = t.search(/\s+This AD requires\b|\s+The FAA is issuing this AD to address/i);
-      const contextPart = idxReq > 40 ? t.slice(0, idxReq).trim() : t;
-      return contextPart;
+      if (idxReq > 40) t = t.slice(0, idxReq).trim();
     }
     return t;
+  }
+
+  function renderReasonBoxHtml(rawText) {
+    const reasonText = getDisplayReasonSummary(rawText);
+    if (!reasonText) return "";
+    return `<div style="font-size:11px;color:#fde68a;background:rgba(245,158,11,0.08);border:1px solid rgba(245,158,11,0.28);border-radius:4px;padding:6px 8px;line-height:1.45;max-height:128px;overflow-y:auto;white-space:pre-wrap;"><strong style="color:#fbbf24;">📝 Reason:</strong> ${escapeHtml(
+      reasonText
+    )}</div>`;
+  }
+
+  async function fetchFullVerbatimText(ad, side = "main", activeSupObj = null) {
+    const splitInfo = getSplitAdParts(ad);
+    const isDualEasaView = !activeSupObj && splitInfo.isDual && side === "easa";
+    const doc = activeSupObj
+      ? activeSupObj
+      : isDualEasaView
+      ? {
+          adNumber: splitInfo.easaLabel,
+          subject: ad.easaSubject || ad.subject,
+          summary: ad.easaSummary || ad.summary,
+          issuedDate: ad.easaIssuedDate || ad.issueDate || ad.issuedDate,
+          effectiveDate: ad.easaEffectiveDate || ad.effectiveDate,
+          pdfUrl: getSafeEasaUrl(ad),
+          easaUrl: getSafeEasaUrl(ad),
+          fullTextHtmlUrl: ""
+        }
+      : ad;
+
+    const fallbackText = `${doc.adNumber}\nTitle: ${doc.subject || ad.subject}\nIssued Date: ${
+      doc.issuedDate || doc.issueDate || ad.issueDate || "-"
+    }\nEffective Date: ${doc.effectiveDate || ad.effectiveDate || "-"}\n\n${doc.summary || ad.summary || ""}`;
+
+    const targetHtmUrl =
+      !isDualEasaView &&
+      (doc.fullTextHtmlUrl ||
+        (doc.pdfUrl && String(doc.pdfUrl).includes("govinfo.gov/content/pkg/")
+          ? String(doc.pdfUrl).replace("/pdf/", "/html/").replace(/\.pdf$/i, ".htm")
+          : ""));
+
+    if (targetHtmUrl) {
+      try {
+        const resp = await fetch(`/api/ad-fulltext?url=${encodeURIComponent(targetHtmUrl)}`);
+        if (resp.ok) {
+          const data = await resp.json();
+          if (data && data.fullText && data.fullText.length > 80) {
+            return { fullText: data.fullText, sourceLabel: "GovInfo", fallbackText };
+          }
+        }
+      } catch (e) {}
+    }
+
+    const easaPdfTargetUrl = [doc.pdfUrl, doc.easaUrl, !isDualEasaView ? "" : ad.easaUrl].find(
+      (u) =>
+        u &&
+        (String(u).includes("easa.europa.eu/download/AD-tmp-storage/") ||
+          String(u).startsWith("/db/uploaded-pdfs/"))
+    );
+    if (easaPdfTargetUrl) {
+      try {
+        const resp = await fetch(`/api/easa-fulltext?url=${encodeURIComponent(easaPdfTargetUrl)}`);
+        if (resp.ok) {
+          const data = await resp.json();
+          if (data && data.fullText && data.fullText.length > 80) {
+            return { fullText: data.fullText, sourceLabel: "EASA PDF", fallbackText };
+          }
+        }
+      } catch (e) {}
+    }
+
+    return { fullText: fallbackText, sourceLabel: "Local", fallbackText };
   }
 
   function updateFilterHighlights() {
@@ -2042,9 +2117,7 @@
               <div style="font-weight:700;color:#93c5fd;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(ad.subject)}
               </div>
-              <div style="font-size:12px;color:var(--text-primary);background:rgba(15,23,42,0.75);padding:8px 10px;border-radius:6px;border:1px solid var(--border-color);line-height:1.5;font-family:monospace;white-space:pre-wrap;max-height:145px;overflow-y:auto;">
-                ${escapeHtml(getDisplayReasonSummary(ad.summary))}
-              </div>
+              ${renderReasonBoxHtml(ad.summary)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
                 <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
                   ad.id
@@ -2142,9 +2215,7 @@
               <div style="font-weight:700;color:#34d399;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(easaSubj)}
               </div>
-              <div style="font-size:12px;color:var(--text-primary);background:rgba(15,23,42,0.75);padding:8px 10px;border-radius:6px;border:1px solid rgba(16,185,129,0.35);line-height:1.5;font-family:monospace;white-space:pre-wrap;max-height:145px;overflow-y:auto;">
-                ${escapeHtml(getDisplayReasonSummary(easaSum))}
-              </div>
+              ${renderReasonBoxHtml(easaSum)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
                 <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
                   ad.id
@@ -2248,9 +2319,7 @@
               <div style="font-weight:700;color:#93c5fd;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(ad.subject)}
               </div>
-              <div style="font-size:12px;color:var(--text-primary);background:rgba(15,23,42,0.75);padding:8px 10px;border-radius:6px;border:1px solid var(--border-color);line-height:1.5;font-family:monospace;white-space:pre-wrap;max-height:145px;overflow-y:auto;">
-                ${escapeHtml(getDisplayReasonSummary(ad.summary))}
-              </div>
+              ${renderReasonBoxHtml(ad.summary)}
               <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;" onclick="event.stopPropagation();">
                 <button type="button" class="btn btn-outline btn-sm btn-copy-verbatim" data-ad-id="${escapeHtml(
                   ad.id
@@ -2486,15 +2555,15 @@
         const appAdsCount = appCountByType[ac.type] || 0;
         return `
           <tr>
-            <td><strong style="color:#60a5fa;font-family:monospace;font-size:14px;">${escapeHtml(ac.reg)}</strong></td>
-            <td style="font-family:monospace;font-weight:700;color:#fcd34d;">MSN ${escapeHtml(ac.msn)}</td>
-            <td><strong>${escapeHtml(ac.type)}</strong></td>
-            <td>${escapeHtml(ac.family)}</td>
-            <td><span class="badge badge-standard">${escapeHtml(ac.engine)}</span></td>
-            <td>${Number(ac.fh).toLocaleString()} FH</td>
-            <td>${Number(ac.fc).toLocaleString()} FC</td>
-            <td><strong>${escapeHtml(ac.base || "SGN")}</strong></td>
-            <td><span class="badge status-closed">${appAdsCount} AD Applicable</span></td>
+            <td data-label="Tàu bay"><strong style="color:#60a5fa;font-family:monospace;font-size:14px;">${escapeHtml(ac.reg)}</strong></td>
+            <td data-label="MSN" style="font-family:monospace;font-weight:700;color:#fcd34d;">MSN ${escapeHtml(ac.msn)}</td>
+            <td data-label="Biến thể"><strong>${escapeHtml(ac.type)}</strong></td>
+            <td data-label="Họ tàu">${escapeHtml(ac.family)}</td>
+            <td data-label="Động cơ"><span class="badge badge-standard">${escapeHtml(ac.engine)}</span></td>
+            <td data-label="FH">${Number(ac.fh).toLocaleString()} FH</td>
+            <td data-label="FC">${Number(ac.fc).toLocaleString()} FC</td>
+            <td data-label="Base"><strong>${escapeHtml(ac.base || "SGN")}</strong></td>
+            <td data-label="AD áp dụng"><span class="badge status-closed">${appAdsCount} AD Applicable</span></td>
           </tr>
         `;
       })
@@ -2537,41 +2606,41 @@
           const easaSum = ad.easaSummary || ad.summary || "";
           const renderFleetFaaRow = (isFirst) => `
           <tr class="dual-row-faa ${isFirst ? "dual-row-top" : "dual-row-bottom"}" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="faa">
-            <td><strong style="color:#60a5fa;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
-            <td><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
+            <td data-label="Tàu bay"><strong style="color:#60a5fa;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
+            <td data-label="MSN / Loại tàu"><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
             acInfo.type
           )}</strong></td>
-            <td>${escapeHtml(acInfo.engine)}</td>
-            <td>
+            <td data-label="Động cơ">${escapeHtml(acInfo.engine)}</td>
+            <td data-label="Số hiệu AD">
               ${isFirst ? `<div class="dual-group-badge">🔗 Cùng 1 nội dung (${easaFirst ? "EASA ↔ FAA" : "FAA ↔ EASA"})</div>` : ""}
               <div class="ad-num-cell" style="color:#93c5fd;">🇺🇸 ${escapeHtml(splitInfo.faaLabel)}</div>
               <div style="font-size:11.5px;color:#93c5fd;margin-top:3px;">${escapeHtml(ad.subject)}</div>
             </td>
-            <td style="font-family:monospace;font-weight:700;">📅 ${escapeHtml(ad.effectiveDate)}</td>
-            <td style="font-family:monospace;font-size:11.5px;max-width:420px;">
-              ${escapeHtml(ad.summary)}
+            <td data-label="Ngày Effective" style="font-family:monospace;font-weight:700;">📅 ${escapeHtml(ad.effectiveDate)}</td>
+            <td data-label="Reason" style="max-width:420px;">
+              ${renderReasonBoxHtml(ad.summary)}
             </td>
-            <td onclick="event.stopPropagation();">
+            <td data-label="File PDF" onclick="event.stopPropagation();">
               ${renderPdfActionHtml(ad.id, ad, { side: "faa", viewLabel: "🇺🇸 PDF ↗", uploadLabel: "📤 Upload" })}
             </td>
           </tr>`;
           const renderFleetEasaRow = (isFirst) => `
           <tr class="dual-row-easa ${isFirst ? "dual-row-top" : "dual-row-bottom"}" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="easa">
-            <td><strong style="color:#34d399;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
-            <td><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
+            <td data-label="Tàu bay"><strong style="color:#34d399;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
+            <td data-label="MSN / Loại tàu"><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
             acInfo.type
           )}</strong></td>
-            <td>${escapeHtml(acInfo.engine)}</td>
-            <td>
+            <td data-label="Động cơ">${escapeHtml(acInfo.engine)}</td>
+            <td data-label="Số hiệu AD">
               ${isFirst ? `<div class="dual-group-badge">🔗 Cùng 1 nội dung (${easaFirst ? "EASA ↔ FAA" : "FAA ↔ EASA"})</div>` : ""}
               <div class="ad-num-cell" style="color:#34d399;">🇪🇺 ${escapeHtml(splitInfo.easaLabel)}</div>
               <div style="font-size:11.5px;color:#34d399;margin-top:3px;">${escapeHtml(easaSubj)}</div>
             </td>
-            <td style="font-family:monospace;font-weight:700;color:#34d399;">📅 ${escapeHtml(easaEff)}</td>
-            <td style="font-family:monospace;font-size:11.5px;max-width:420px;">
-              ${escapeHtml(easaSum)}
+            <td data-label="Ngày Effective" style="font-family:monospace;font-weight:700;color:#34d399;">📅 ${escapeHtml(easaEff)}</td>
+            <td data-label="Reason" style="max-width:420px;">
+              ${renderReasonBoxHtml(easaSum)}
             </td>
-            <td onclick="event.stopPropagation();">
+            <td data-label="File PDF" onclick="event.stopPropagation();">
               ${renderPdfActionHtml(ad.id, ad, {
                 side: "easa",
                 viewLabel: "🇪🇺 PDF ↗",
@@ -2584,20 +2653,20 @@
         }
         return `
           <tr data-ad-id="${escapeHtml(ad.id)}">
-            <td><strong style="color:#60a5fa;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
-            <td><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
+            <td data-label="Tàu bay"><strong style="color:#60a5fa;font-family:monospace;">${escapeHtml(acInfo.reg)}</strong></td>
+            <td data-label="MSN / Loại tàu"><span style="color:#fcd34d;font-family:monospace;">MSN ${escapeHtml(acInfo.msn)}</span> • <strong>${escapeHtml(
           acInfo.type
         )}</strong></td>
-            <td>${escapeHtml(acInfo.engine)}</td>
-            <td>
+            <td data-label="Động cơ">${escapeHtml(acInfo.engine)}</td>
+            <td data-label="Số hiệu AD">
               <div class="ad-num-cell">${renderAdNumberSplitHtml(ad, true)}</div>
               <div style="font-size:11.5px;color:#93c5fd;margin-top:3px;">${escapeHtml(ad.subject)}</div>
             </td>
-            <td style="font-family:monospace;font-weight:700;">📅 ${escapeHtml(ad.effectiveDate)}</td>
-            <td style="font-family:monospace;font-size:11.5px;max-width:420px;">
-              ${escapeHtml(ad.summary)}
+            <td data-label="Ngày Effective" style="font-family:monospace;font-weight:700;">📅 ${escapeHtml(ad.effectiveDate)}</td>
+            <td data-label="Reason" style="max-width:420px;">
+              ${renderReasonBoxHtml(ad.summary)}
             </td>
-            <td onclick="event.stopPropagation();">
+            <td data-label="File PDF" onclick="event.stopPropagation();">
               ${renderPdfActionHtml(ad.id, ad, { side: "main", viewLabel: "📎 Xem PDF ↗", uploadLabel: "📤 Upload PDF" })}
             </td>
           </tr>
@@ -2980,56 +3049,17 @@
 
     // Automatically fetch full verbatim regulatory text from GovInfo or EASA PDF Archive if available
     const statusEl = document.getElementById("fullTextLoadStatus");
-    const targetHtmUrl =
-      !isDualEasaView &&
-      (viewingDoc.fullTextHtmlUrl ||
-        (viewingDoc.pdfUrl && viewingDoc.pdfUrl.includes("govinfo.gov/content/pkg/")
-          ? viewingDoc.pdfUrl.replace("/pdf/", "/html/").replace(/\.pdf$/i, ".htm")
-          : ""));
-
-    if (targetHtmUrl && taVerbatim) {
-      try {
-        const resp = await fetch(`/api/ad-fulltext?url=${encodeURIComponent(targetHtmUrl)}`);
-        if (resp.ok) {
-          const data = await resp.json();
-          if (data && data.fullText && data.fullText.length > 80) {
-            taVerbatim.value = data.fullText;
-            taVerbatim.rows = 18;
-            if (statusEl) {
-              statusEl.textContent = `✔ Đã tải nguyên văn toàn bộ văn bản gốc của ${viewingDoc.adNumber} từ GovInfo. Bạn có thể bôi đen hoặc nhấn "📋 Copy Nguyên Văn" để sao chép y chang.`;
-              statusEl.style.color = "#34d399";
-            }
-            return;
-          }
+    if (taVerbatim) {
+      const { fullText, sourceLabel } = await fetchFullVerbatimText(ad, resolvedSide, activeSupObj);
+      if (sourceLabel !== "Local" && fullText && fullText.length > 80) {
+        taVerbatim.value = fullText;
+        taVerbatim.rows = 18;
+        if (statusEl) {
+          statusEl.textContent = `✔ Đã tải toàn bộ nguyên văn AD gốc của ${viewingDoc.adNumber} (${sourceLabel}). Nhấn "📋 Copy Nguyên Văn" để sao chép hết AD.`;
+          statusEl.style.color = "#34d399";
         }
-      } catch (e) {}
-    }
-
-    const easaPdfTargetUrl = [viewingDoc.pdfUrl, viewingDoc.easaUrl].find(
-      (u) =>
-        u &&
-        (String(u).includes("easa.europa.eu/download/AD-tmp-storage/") ||
-          String(u).startsWith("/db/uploaded-pdfs/"))
-    );
-    if (easaPdfTargetUrl && taVerbatim) {
-      if (statusEl) {
-        statusEl.textContent = `⏳ Đang đọc nguyên văn PDF chính thức của ${viewingDoc.adNumber}...`;
+        return;
       }
-      try {
-        const resp = await fetch(`/api/easa-fulltext?url=${encodeURIComponent(easaPdfTargetUrl)}`);
-        if (resp.ok) {
-          const data = await resp.json();
-          if (data && data.fullText && data.fullText.length > 80) {
-            taVerbatim.value = data.fullText;
-            taVerbatim.rows = 18;
-            if (statusEl) {
-              statusEl.textContent = `✔ Đã trích xuất nguyên văn toàn bộ file PDF chính thức của ${viewingDoc.adNumber}. Bạn có thể bôi đen hoặc nhấn "📋 Copy Nguyên Văn" để sao chép y chang.`;
-              statusEl.style.color = "#34d399";
-            }
-            return;
-          }
-        }
-      } catch (e) {}
     }
 
     if (statusEl) {
@@ -3464,20 +3494,24 @@ ${bodyRows}
     });
 
     // Global click handlers for "Copy Nguyên Văn" and "Xem PDF & Nguyên văn AD Cũ"
-    document.body.addEventListener("click", (e) => {
+    document.body.addEventListener("click", async (e) => {
       const btnCopy = e.target.closest(".btn-copy-verbatim");
       if (btnCopy) {
         e.stopPropagation();
         const adId = btnCopy.getAttribute("data-ad-id");
-        const side = btnCopy.getAttribute("data-ad-side") || "";
+        const side = btnCopy.getAttribute("data-ad-side") || (isEasaPrimaryDual(adList.find((x) => x.id === adId)) ? "easa" : "main");
         const ad = adList.find((x) => x.id === adId);
         if (ad) {
-          if (side === "easa") {
-            const subj = ad.easaSubject || ad.subject;
-            const sum = ad.easaSummary || ad.summary;
-            copyTextToClipboard(`${ad.easaAdNumber || ad.adNumber} — ${subj}\n\n${sum}`, ad.easaAdNumber || ad.adNumber);
-          } else {
-            copyTextToClipboard(`${ad.adNumber} — ${ad.subject}\n\n${ad.summary}`, ad.adNumber);
+          const origLabel = btnCopy.textContent;
+          btnCopy.disabled = true;
+          btnCopy.textContent = "⏳ Đang tải hết AD...";
+          try {
+            const { fullText } = await fetchFullVerbatimText(ad, side);
+            const label = side === "easa" ? ad.easaAdNumber || ad.adNumber : ad.adNumber;
+            await copyTextToClipboard(fullText, `${label} (toàn bộ AD)`);
+          } finally {
+            btnCopy.disabled = false;
+            btnCopy.textContent = origLabel;
           }
         }
         return;
@@ -3664,16 +3698,6 @@ ${bodyRows}
     document.getElementById("btnCloseDetailModal").addEventListener("click", () => {
       document.getElementById("adDetailModal").classList.remove("open");
     });
-
-    const btnCopyModalVerbatim = document.getElementById("btnCopyModalVerbatim");
-    if (btnCopyModalVerbatim) {
-      btnCopyModalVerbatim.addEventListener("click", () => {
-        const ta = document.getElementById("verbatimTextArea");
-        if (ta) copyTextToClipboard(ta.value, "toàn bộ nội dung AD");
-      });
-    }
-
-    document.getElementById("btnPrintEvaluation").addEventListener("click", () => window.print());
 
     document.getElementById("btnToggleTheme").addEventListener("click", () => {
       document.body.classList.toggle("light-mode");

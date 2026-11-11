@@ -266,7 +266,7 @@
             <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="resultCounterText">Hiển thị 0 kết quả</span>
           </div>
           <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
-            <button class="btn btn-primary btn-sm" id="btnExportFilteredAds" title="Xuất danh sách AD đang hiển thị theo bộ lọc hiện tại ra file Excel">
+            <button class="btn btn-primary btn-sm mobile-hide" id="btnExportFilteredAds" title="Xuất danh sách AD đang hiển thị theo bộ lọc hiện tại ra file Excel">
               📥 Xuất Excel danh sách AD đang lọc
             </button>
             <button class="btn btn-outline btn-sm" id="btnToggleAllSuperseded">
@@ -313,7 +313,7 @@
           <select id="evalFilterAircraftReg" class="form-control" style="min-width:200px;max-width:100%;border-color:rgba(59,130,246,0.55);">
             <option value="ALL">✈️ Tất cả 108 tàu bay VJC</option>
           </select>
-          <button class="btn btn-outline btn-sm" onclick="window.print()">
+          <button class="btn btn-outline btn-sm mobile-hide" onclick="window.print()">
             🖨️ In Danh Sách Nguyên Văn AD
           </button>
         </div>
@@ -446,24 +446,21 @@
   <div class="modal-backdrop" id="adDetailModal">
     <div class="modal-dialog" style="max-width:1140px;">
       <div class="modal-header">
-        <div>
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;" id="modalBadges"></div>
-          <h2 style="font-size:17px;font-weight:800;" id="modalTitle">AD Detail</h2>
+        <div style="flex:1 1 0%;min-width:0;">
+          <div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:4px;" id="modalBadges"></div>
+          <h2 style="font-size:17px;font-weight:800;overflow-wrap:anywhere;word-break:break-word;" id="modalTitle">AD Detail</h2>
         </div>
-        <button class="btn btn-outline btn-sm no-print" id="btnCloseDetailModal">✕ Đóng</button>
+        <button class="btn btn-outline btn-sm no-print" id="btnCloseDetailModal" style="flex-shrink:0;white-space:nowrap;">✕ Đóng</button>
       </div>
       <div class="modal-body" id="modalBodyContent"></div>
       <div class="modal-footer no-print">
-        <div style="display:flex;gap:8px;flex-wrap:wrap;">
-          <button class="btn btn-primary" id="btnCopyModalVerbatim">📋 Copy Toàn Bộ Nguyên Văn AD</button>
-          <button class="btn btn-outline" id="btnPrintEvaluation">🖨️ In Nguyên Văn AD</button>
-          <label class="btn btn-outline" style="cursor:pointer;">
+        <div class="mobile-hide" style="display:flex;gap:8px;flex-wrap:wrap;">
+          <label class="btn btn-outline mobile-hide" id="attachLocalPdfLabel" style="cursor:pointer;">
             📎 Đính kèm / Thay thế File PDF (.pdf)
             <input type="file" id="attachLocalPdfInput" accept="application/pdf" style="display:none;" />
           </label>
         </div>
-        <div style="display:flex;gap:8px;">
-          <a href="#" target="_blank" rel="noopener" class="btn btn-primary" id="btnModalPdfLink">📄 Mở / Tải Bản PDF Gốc ↗</a>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;">
           <a href="#" target="_blank" rel="noopener" class="btn btn-outline" id="btnModalSourceLink">🔗 Trang Công bố Gốc ↗</a>
         </div>
       </div>

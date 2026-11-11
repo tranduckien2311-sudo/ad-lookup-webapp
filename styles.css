@@ -734,8 +734,19 @@ body.light-mode .ad-num-cell {
   border-bottom: 1px solid var(--border-color);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   gap: 12px;
+}
+
+.modal-header > :not(button) {
+  flex: 1 1 0%;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.modal-header > button {
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 .modal-body {
@@ -1274,22 +1285,160 @@ body.light-mode .ad-table tbody tr.dual-row-bottom {
     letter-spacing: 0.4px;
   }
 
+  /* Hide desktop-only export / print / copy / upload buttons cleanly on phones */
+  .mobile-hide,
+  #btnExportFilteredAds,
+  .btn-copy-verbatim,
+  #btnCopyAbstractBox,
+  .btn-upload-ad-pdf,
+  #attachLocalPdfLabel {
+    display: none !important;
+  }
+
+  /* Tab 3 Fleet tables responsive cards & dropdown fix on phones */
+  #tab-fleet .table-toolbar > div {
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 6px !important;
+  }
+  #fleetSelectFilter {
+    width: 100%;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  #tab-fleet .ad-table,
+  #tab-fleet .ad-table tbody,
+  #tab-fleet .ad-table tr,
+  #tab-fleet .ad-table td {
+    display: block;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  #tab-fleet .ad-table thead {
+    display: none;
+  }
+  #tab-fleet .ad-table tbody tr {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    background: var(--bg-surface);
+  }
+  #tab-fleet .ad-table tbody tr td {
+    padding: 4px 0 !important;
+    border-bottom: 1px dashed rgba(148, 163, 184, 0.14);
+    overflow-wrap: anywhere;
+  }
+  #tab-fleet .ad-table tbody tr td:last-child {
+    border-bottom: none;
+    padding-bottom: 0 !important;
+  }
+  #tab-fleet .ad-table tbody tr td[data-label]::before {
+    content: attr(data-label) ": ";
+    font-size: 10.5px;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-right: 6px;
+  }
+  /* Compact inline grid look for Fleet Registry cards */
+  #tab-fleet .dash-card .ad-table tbody tr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 12px;
+  }
+  #tab-fleet .dash-card .ad-table tbody tr td {
+    width: auto !important;
+    flex: 1 1 42%;
+    border-bottom: none;
+    padding: 2px 0 !important;
+  }
+  #tab-fleet .dash-card .ad-table tbody tr td:last-child {
+    flex: 1 1 100%;
+    padding-top: 4px !important;
+  }
+
   /* Modal full-height responsive on phones */
   .modal-backdrop {
     padding: 0;
     align-items: flex-end;
+    justify-content: stretch;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
   }
   .modal-dialog {
+    width: 100% !important;
     max-width: 100% !important;
+    min-width: 0 !important;
     max-height: 95vh;
     border-radius: 14px 14px 0 0;
+    box-sizing: border-box;
+    overflow: hidden;
   }
   .modal-header {
-    padding: 12px 14px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 12px 12px;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .modal-header > :not(button) {
+    flex: 1 1 0%;
+    min-width: 0 !important;
+    max-width: 100%;
+  }
+  .modal-header > button {
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+  #modalBadges {
+    max-width: 100%;
+    flex-wrap: wrap !important;
+  }
+  #modalBadges .badge {
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.3;
+  }
+  #modalTitle {
+    font-size: 14.5px !important;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
   .modal-body {
-    padding: 12px 14px;
+    width: 100%;
+    min-width: 0 !important;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 12px 12px;
     gap: 12px;
+    overflow-x: hidden;
+  }
+  .modal-body > *,
+  .modal-body .detail-grid,
+  .modal-body .detail-box,
+  .modal-body .detail-box .label {
+    min-width: 0 !important;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+  .modal-body .detail-grid {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .modal-body .table-responsive {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0 !important;
+    overflow-x: auto;
   }
   .modal-footer {
     padding: 10px 14px;

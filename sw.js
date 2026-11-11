@@ -1,4 +1,4 @@
-const CACHE_NAME = "vjc-aeroad-pwa-v16";
+const CACHE_NAME = "vjc-aeroad-pwa-v19";
 const APP_SHELL = [
   "./",
   "./index.html",
