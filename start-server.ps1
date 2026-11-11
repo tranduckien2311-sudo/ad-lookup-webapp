@@ -445,6 +445,9 @@ try {
     if (Test-Path $FilePath -PathType Leaf) {
       $Ext = [System.IO.Path]::GetExtension($FilePath).ToLower()
       $Res.ContentType = if ($MimeTypes.ContainsKey($Ext)) { $MimeTypes[$Ext] } else { "application/octet-stream" }
+      if ($Ext -in @(".html", ".js", ".css", ".webmanifest")) {
+        $Res.Headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+      }
       $Bytes = [System.IO.File]::ReadAllBytes($FilePath)
       $Res.ContentLength64 = $Bytes.Length
       $Res.StatusCode = 200

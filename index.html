@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css?v=23" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -269,7 +269,7 @@
       <div class="table-card">
         <div class="table-toolbar">
           <div>
-            <strong>Bảng Cơ Sở Dữ Liệu AD (EASA • FAA • CAAV) — Nguyên Văn Nội Dung &amp; PDF Đính Kèm</strong>
+            <strong>Bảng Cơ Sở Dữ Liệu AD (EASA • FAA • CAAV) — Reason &amp; Link PDF AD Gốc</strong>
             <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="resultCounterText">Hiển thị 0 kết quả</span>
           </div>
           <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
@@ -368,7 +368,7 @@
 
       <div class="table-card">
         <div class="table-toolbar">
-          <strong>Danh Sách AD Applicable Trên Từng Tàu Bay VJC (Kèm Nguyên Văn Nội Dung &amp; File PDF)</strong>
+          <strong>Danh Sách AD Applicable Trên Từng Tàu Bay VJC (Kèm Reason &amp; File PDF)</strong>
           <div style="display:flex;gap:10px;align-items:center;">
             <label for="fleetSelectFilter" style="font-size:12px;color:var(--text-muted);">Chọn tàu bay:</label>
             <select id="fleetSelectFilter" class="form-control" style="padding:4px 10px;">
@@ -385,7 +385,7 @@
                 <th>Động cơ</th>
                 <th>Số hiệu AD &amp; Cơ quan</th>
                 <th>Ngày Effective</th>
-                <th>Nguyên văn Nội dung AD (Verbatim Text)</th>
+                <th>Reason</th>
                 <th>File PDF</th>
               </tr>
             </thead>
@@ -670,6 +670,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=23"></script>
 </body>
 </html>
