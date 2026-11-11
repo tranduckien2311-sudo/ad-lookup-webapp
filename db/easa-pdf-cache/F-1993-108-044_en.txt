@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-108-044(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Wings - Modification Reinforcement of aileron support frames The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft MSN's 005 to 043 included. In order to prevent initiation and propagation of damage evidenced during the fatigue tests, the following measures are rendered mandatory on the effective date of the present
+
+Airworthiness Directive : - Before 14,000 flights, replace the number 1, 2 and 3 aileron support frames on the wing rear spar by reinforced ones and re-position electrical cable raceways and hydraulic lines in this area in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-57-1002. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-57-1002. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-57-1002 (or any further approved revision) EFFECTIVE DATE : UPON RECEIPT n/C AIRBUS INDUSTRIE July 07, 1993 93-108-044(B) A320 Aircraft

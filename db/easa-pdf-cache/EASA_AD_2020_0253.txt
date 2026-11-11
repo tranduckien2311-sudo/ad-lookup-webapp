@@ -1,0 +1,49 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0253
+
+Airworthiness Directive
+
+AD No.: 2020-0253
+
+Issued: 12 November 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines
+
+Effective Date: 26 November 2020 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 72 – Engine – Low Pressure Compressor Blades / Discs – Inspection / Re-lubrication / Restoration
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: RB211 Trent 768-60, Trent 772-60, Trent 772B-60 and Trent 772C-60 engines, all serial numbers. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: Where, in this AD, reference is made to a Rolls-Royce SB with an ‘A’ (Alert) in the number, it should be recognised that a later revision may not have that ‘A’. This kind of change does not effectively alter the publication references for the purpose of this AD. The inspection NMSB: Rolls-Royce Trent 700 Alert Non-Modification Service Bulletin (NMSB) RB.211-72-AK492. The restoration NMSB: Rolls-Royce Trent 700 Alert NMSB RB.211-72-AK522. Page 1 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0253 Affected blade: Low pressure (LP) compressor blades, having Part Number (P/N) FW23741 or P/N KH23403, and a serial number (s/n) as listed in Appendix 1 of the inspection NMSB. Affected disc: LP compressor discs, having P/N FK22541, P/N FW16259 or P/N KH20338, and an s/n as listed in Appendix 2 of the inspection NMSB.
+
+Reason: In-service experience has shown that certain LP compressor blades installed on Trent 700 engines may have been subjected to maintenance actions that caused damage, making the affected blades more susceptible to cracking. This condition, if not detected and corrected, could lead to blade or disc failure and consequent engine in-flight shut-down, possibly resulting in reduced control of the aeroplane. To address this potential unsafe condition, Rolls-Royce issued the inspection NMSB to provide inspection instructions. Rolls-Royce also issued the restoration NMSB to provide in-shop restoration instructions. For the reasons described above, this AD requires repetitive on-wing ultra-sonic (US) inspections of the blade roots of the affected blades, subsequent re-lubrication of the affected blades and discs and, depending on findings, accomplishment of applicable corrective action(s). This AD also requires in-shop restoration of the affected blades and discs to a serviceable condition, which constitutes terminating action for the repetitive US inspections and re-lubrications as required by this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) Within 200 engine flight cycles (EFC) after the effective date of this AD, and, thereafter, at intervals not to exceed 350 EFC, accomplish an on-wing US inspection of the blade root of each affected blade and re-lubricate each affected blade and disc in accordance with the instructions of the inspection NMSB. Corrective Action(s): (2) If, during any inspection are required by paragraph (1) of this AD, any affected blade is found with unacceptable indications as specified in the inspection NMSB, before next flight, replace the affected blade with a new LP compressor blade that is eligible for installation. In-shop Restoration: (3) During the next shop visit after the effective date of this AD, restore the affected blades and discs to a serviceable condition in accordance with the instructions of Section 3 of the restoration NMSB. For an engine that, on the effective date of this AD, is in a shop visit, before release to service of that engine, restore the affected blades and discs to a serviceable condition in accordance with the instructions of Section 3 of the restoration NMSB. Page 2 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0253 Terminating Action: (4) Restoration of all affected blades and affected discs on an engine, as required by paragraph (3) of this AD, constitutes terminating action for the repetitive US inspections and re-lubrications as required by paragraph (1) of this AD for that engine. Parts Installation: (5) From the effective date of this AD, it is allowed to install affected blades or discs on any engine, provided that, before installation, each affected blade has passed a US inspection (no unacceptable indications found) and each affected blade and affected disc is re-lubricated, in accordance with the instructions of Section 3 of the inspection NMSB; and that, following installation, the affected blades and discs are inspected as required by paragraph (1) this AD. Reporting: (6) If, during any inspection as required by paragraph (1) of this AD, an affected blade is rejected, report the inspection results to Rolls-Royce. This can be accomplished by using the reporting instructions as specified in Appendix 3 of the inspection NMSB.
+
+Ref. Publications: Rolls-Royce Trent 700 Alert NMSB RB.211-72-AK492 original issue dated 02 October 2020. Rolls-Royce Trent 700 Alert NMSB RB.211-72-AK522 original issue dated 02 October 2020. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 12 October 2020 as PAD 20-163 for consultation until 09 November 2020. The Comment Response Documents can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 3 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2020-0253 5. For any question concerning the technical content of the requirements in this AD, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. If you do not have a designated representative or Rolls-Royce Care account, please contact Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424 or send an email through https://www.rolls-royce.com/contact-us/civil-aerospace.aspx identifying the correspondence as being related to
+
+Airworthiness Directives. Page 4 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

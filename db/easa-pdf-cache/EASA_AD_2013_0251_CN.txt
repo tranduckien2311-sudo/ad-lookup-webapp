@@ -1,0 +1,34 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2013-0251-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2013-0251-CN
+
+Issued: 17 November 2023 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 and A340 aeroplanes
+
+Effective Date: 01 December 2023 TCDS Number(s): EASA.A.004 and EASA.A.015 Foreign AD: Not applicable Cancellation: This Notice cancels EASA AD 2013-0251 dated 15 October 2013, including its Correction dated 16 October 2013.
+
+ATA 27 – CANCELLED: Flight Controls – Spoiler Servo Control / Hydraulic Locking Function – Operational Test
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all Manufacturer Serial Numbers (MSN). Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-643 and A340-642 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: None. Page 1 of 3 TE.CAP.00116-007 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2013-0251-CN
+
+Reason: During post-flight maintenance checks accomplished on an A330 and on an A340 aeroplane, it was identified that seven spoiler servo-controls MZ series had lost their hydraulic locking function. The results of the subsequent technical investigation accomplished in shop by the part supplier confirmed the system failure was due to a sheared seal on the blocking valve, ensuring the blocking function of the spoiler. It is suspected that the seal damage may have occurred during accomplishment of a modification to fit a new design of maintenance cover on wing, required by EASA AD 2008-0160. This condition, if not detected and corrected, in combination with one engine inoperative at take- off, could result in reduced control of the aeroplane. Prompted by these findings, Airbus issued All Operators Telex (AOT) A330-27A3185 and AOT A340- 27A4181 to request a one-time operational test of the Hydraulic Locking Function for aeroplanes on which MZ type Spoiler Servo Control (SSC) Part Number (P/N) MZ4339390-12 or P/N MZ4306000-12 are fitted, and EASA issued AD 2012-0009 to require accomplishment of this test. After that AD was issued, Airbus re-assessed the situation and determined that it is necessary to introduce repetitive inspections of the SSC, irrespective of SSC type. Airbus issued three SBs for those repetitive inspections on all A330-200, A330-300, and A340 aeroplanes, and EASA issued AD 2013-0251, later corrected, to require repetitive operational tests of the hydraulic locking function of the SSC installed on the Blue and Yellow hydraulic circuits, irrespective of SSC type, and, depending on test results, replacement of the SSC. Since that AD was issued, Airbus issued A330 Airworthiness Limitations Section (ALS) Part 3 Revision 08 and A340 ALS Part 3 Revision 06, taking over the instructions to accomplish the repetitive operational tests cited above, and EASA issued AD 2023-0199 and AD 2023-0200 to require accomplishment of the actions specified in the ALS. For the reasons described above, this Notice cancels EASA AD 2013-0251, including its correction.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Airbus AOT A330-27A3185 dated 04 January 2012. Airbus AOT A340-27A4181 dated 04 January 2012. Airbus SB A330-27-3195 original issue dated 07 December 2012. Airbus SB A340-27-4188 original issue dated 07 December 2012. Airbus SB A340-27-5059 original issue dated 10 April 2013. Page 2 of 3 TE.CAP.00116-007 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA AD Cancellation Notice No.: 2013-0251-CN
+
+Remarks: 1. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 2. For any question concerning the technical content of this AD-CN, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00116-007 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

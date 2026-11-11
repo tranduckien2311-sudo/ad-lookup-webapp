@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0033
+
+Airworthiness Directive
+
+AD No.: 2021-0033
+
+Issued: 25 January 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 08 February 2021 TCDS Number(s): EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 27 – Flight Controls – Trimmable Horizontal Stabilizer Actuator Lower Attachment Parts – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343, A330-743L, A330-841 and A330-941 aeroplanes, all manufacturer serial numbers (MSN); and Airbus A340-211, A340-212, A340-213, A340-311, A340-312 and A340-313 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operators Transmission (AOT) A27L014-20 Revision 01. Affected AMM task: Airbus Aircraft Maintenance Manual (AMM) task 27-44-00-210-801-A, AMM task 27-44-51-400-801-A, or AMM task 27-44-51-400-801-C, as applicable, all at Revision dated July 2019 or earlier. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0033 Groups: Group 1 are all MSN up to 01965 inclusive, except MSN 01795, 01813, 01824, 01844, 01861, 01863, 01865, 01874, 01888, 01902, 01907, 01924, 01930, 01934, 01952, 01953 and 01956 to 01964 inclusive. Group 2 aeroplanes are MSN 01795, 01813, 01824, 01844, 01861, 01863, 01865, 01874, 01888, 01902, 01907, 01924, 01930, 01934, 01952, 01953, 01956 to 01964 inclusive, and MSN 01966 and later, on which the affected AMM task, as defined in this AD, has been accomplished. Group 3 aeroplanes are MSN 01795, 01813, 01824, 01844, 01861, 01863, 01865, 01874, 01888, 01902, 01907, 01924, 01930, 01934, 01952, 01953, 01956 to 01964 inclusive, and MSN 01966 and later, on which the affected AMM task, as defined in this AD, has not been accomplished.
+
+Reason: Occurrences were reported of incorrect installation of Trimmable Horizontal Stabilizer Actuator (THSA) lower attachment parts, as listed in the AOT. The investigation concluded that of this incorrect installation was due to human errors during production and maintenance. This condition, if not detected and corrected, could lead to the loss of THSA primary load path and consequent activation of THSA secondary load path (which is designed to withstand full loads only for a limited period of time), possibly resulting in reduced control of the aeroplane. To address this unsafe condition, Airbus amended the applicable production and maintenance procedures. In addition, Airbus published the AOT, as defined in this AD, to provide inspection instructions. For the reasons described above, this AD requires a one-time detailed inspection (DET) of the THSA lower attachment parts to verify proper installation and, depending on findings, accomplishment of applicable corrective action(s). This AD also prohibits the use of certain AMM task instructions.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection: (1) For Group 1 and Group 2 aeroplanes: Within 1 000 flight hours after the effective date of this AD, accomplish a DET of the THSA lower attachment parts in accordance with the instructions of the AOT. Corrective Action(s): (2) If, during the DET as required by paragraph (1) of this AD, any discrepancies are identified, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of the AOT. Credit: (3) DET and, depending on findings, corrective actions on aeroplane accomplished before the effective date of this AD in accordance with the instructions of Airbus AOT A27L014-20 at Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2021-0033 original issue are acceptable to comply with the requirements of paragraph (1) and (2) of this AD for that aeroplane. Use of AMM Task: (4) For Group 1, Group 2 and Group 3 aeroplanes: From the effective date of this AD, do not accomplish on any aeroplane the instructions of the affected AMM task, as defined in this AD. (5) For Group 1, Group 2 and Group 3 aeroplanes: From the effective date of this AD, it is allowed to use the instructions of the AOT, as defined in this AD, or to use the instructions of Airbus AMM task 27-44-00-210-801-A or AMM task 27-44-51-400-801-A (or -C), as applicable, provided that the task contains the instructions of the AOT. Note 1: Airbus plan to publish a revision of the applicable AMM in April 2021, which should contain the correct instructions as specified in the AOT, for Airbus AMM task 27-44-00-210-801-A and AMM task 27-44-51-400-801-A (or -C), as applicable.
+
+Ref. Publications: Airbus AOT A27L014-20 original issue dated 26 May 2020, or Revision 01 dated 24 November 2020. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 01 July 2020 as PAD 20-102 for consultation until 15 July 2020, republished on 02 July 2020 as PAD 20-102R1 for additional consultation until 15 July 2020 and republished on 17 December 2020 as PAD 20-102R2 for additional consultation until 31 December 2020. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

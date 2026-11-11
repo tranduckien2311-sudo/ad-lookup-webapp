@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0063
+
+Airworthiness Directive
+
+AD No.: 2017-0063
+
+Issued: 12 April 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 26 April 2017 TCDS Numbers: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2014-0136 dated 13 June 2014.
+
+ATA 53 – Fuselage – Frame 40 Skin Panel Junction – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and Airbus A340-211, A340-212, A340-213, A340-312 and A340-313, all MSN, on which Airbus modification (mod) 44360 has been embodied in production.
+
+Reason: During full scale fatigue test of the Frame (FR) 40 to fuselage skin panel junction, fatigue damage was found. Corrective actions consisted of in-service installation of an internal reinforcing strap on the related junction, as currently required by DGAC France AD 1999-448-126(B), which refers to Airbus Service Bulletin (SB) A340-53-4104 Revision 02, and AD 2001-070(B), which refers to Airbus SB A330-53-3093 Revision 04; retrofit improvement of internal reinforcing strap fatigue life through recommended Airbus SB A330-53-3145; and introducing a design improvement in production through Airbus mod 44360. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0063 After those actions were implemented, cracks were found on both left hand (LH) and right hand (RH) sides on internal strap, butt strap, keel beam fitting, or forward fitting FR40 flange. These findings were made during embodiment of a FR40 web repair on an A330 aeroplane, and during keel beam replacement on an A340 aeroplane, where the internal strap was removed and a special detailed inspection (SDI) was performed on several holes. This condition, if not detected and corrected, could affect the structural integrity of the centre fuselage of the aeroplane. Prompted by these findings, Airbus issued SB A330-53-3215 and SB A340-53-4215, providing inspection instructions. Consequently, EASA issued AD 2014-0136 to require repetitive SDI (rototest) of 10 fastener holes located at the FR40 lower shell panel junction on both LH and RH sides and, depending on findings, accomplishment of applicable corrective action(s). Since that AD was issued, prompted by the results of complementary fatigue analyses, it was determined that post-mod 55792 aeroplanes could be also affected by crack initiation and propagation at this area of the fuselage. These analyses demonstrated that post-mod 55792 aeroplanes must follow the same maintenance program as aeroplanes in post-mod 55306 and pre-mod 55792 configuration. Consequently, Airbus published SB A330-53-3215 Revision 02 and SB A340-53-4215 Revision 02 to expand the Effectivity accordingly. For the reasons described above, this AD retains the requirements of EASA AD 2014-0136, which is superseded, which now also apply to aeroplanes in post-mod 55792 configuration.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: For the purpose of this AD, Airbus SB A330-53-3215 Revision 02 and SB A340-53-4215 Revision 02 are hereafter collectively referred to as ‘the applicable SB’ in this AD. Repetitive Inspections: (1) Before exceeding the applicable threshold(s) as defined in the applicable SB, depending on aeroplane utilisation and configuration, to be counted from aeroplane first flight, and, thereafter, at intervals not to exceed the values defined in the applicable SB, depending on aeroplane utilisation and configuration, accomplish an SDI of the 10 fasteners holes located at FR40 lower shell panel junction on both LH and RH sides in accordance with the instructions of the applicable SB. Corrective Action(s): (2) If, during any SDI, as required by paragraph (1) of this AD, a crack is detected, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of the applicable SB. (3) If, during any SDI, as required by paragraph (1) of this AD, the diameter of a fastener hole is found to be outside the tolerances of the transition fit as specified in the applicable SB, before next flight, contact Airbus to obtain a Repair Design Approval Sheet (RDAS) and accomplish the Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0063 instructions of that repair accordingly, including post-repair follow-on action(s), if any are specified in that RDAS. Credit for Previous Action(s): (4) Inspection and corrective action(s) on an aeroplane, accomplished before 27 June 2014 [the effective date of EASA AD 2014-0136] in accordance with the instructions of Airbus Technical Disposition (TD) Reference LR57D11023360, are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD for that aeroplane. (5) Inspections and corrective action(s) on an aeroplane, accomplished before the effective date of this AD in accordance with the instructions Airbus SB A330-53-3215 original issue or Revision 01, or SB A340-53-4215 original issue or Revision 01, as applicable, are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD for that aeroplane. Terminating Action(s): (6) None.
+
+Ref. Publications: Airbus SB A330-53-3215 original issue dated 21 June 2013, or Revision 01 dated 17 April 2014, or Revision 02 dated 23 November 2016. Airbus SB A340-53-4215 original issue dated 21 June 2013, or Revision 01 dated 17 April 2014, or Revision 02 dated 23 November 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 24 January 2017 as PAD 17-012 for consultation until 21 February 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

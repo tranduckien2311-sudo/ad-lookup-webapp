@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0151-E Emergency
+
+Airworthiness Directive
+
+AD No.: 2019-0151-E
+
+Issued: 28 June 2019 Note: This Emergency
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319 and A320 aeroplanes
+
+Effective Date: 29 June 2019 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2019-0147 dated 21 June 2019.
+
+ATA 32 – Landing Gear – Main Landing Gear Sliding Tubes – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie.
+
+Applicability: Airbus A319-111, A319-112, A319-115, A319-131, A320-214 and A320-232 aeroplanes, manufacturer serial numbers (MSN) 0921, 2007, 2015, 2172, 2202, 2205, 2237, 2238, 2269, 2285, 2293, 2298, 2454, 2499, 2525, 2545, 2551, 2561 and 2638.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: SAFRAN Landing Systems UK Ltd Service Bulletin (SB) 200-32-335. The AOT: Airbus Alert Operators Transmission (AOT) A32N016-19. Affected part: Main landing gear (MLG) sliding tubes, having Part Number (P/N) 201371304 and a serial number (s/n) listed in Appendix 1 of the AOT. Serviceable part: - A sliding tube which is not an affected part; or Page 1 of 4 TE.CAP.00111-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0151-E - an affected part which passed a one-time inspection (no defects found) in accordance with the instructions of the SB; or - an affected part which, after failing a one-time inspection (defect found) in accordance with the instructions of the SB, has been repaired, prior to installation, in accordance with approved instructions provided by Airbus or by SAFRAN Landing Systems.
+
+Reason: An occurrence was reported where, during pushback of an aeroplane, a MLG sliding tube axle fractured. Investigation results revealed an incorrect accomplishment of a repair at the previous overhaul of the chromium plated axle diameters, which resulted in the overheat damage to the sliding tube axle journal(s). This initiated a crack which, under fatigue effects, led to fracture of the MLG sliding tube axle. A limited number of MLG sliding tubes has been identified that may have been subject to the same incorrect repair. This condition, if not detected, could lead to MLG sliding tube axle fracture, possibly resulting in MLG collapse, damage to the aeroplane, and injury to occupants. To address this potential unsafe condition, SAFRAN Landing Systems issued the SB (later revised), providing the list of affected parts and inspection instructions. Consequently, EASA issued AD 2019-0147 to require a one-time inspection of affected parts and, depending on findings, accomplishment of applicable corrective action(s). Since that AD was issued, after chrome removal on one affected part, a crack was found on the inner chromed land area. Airbus issued the AOT to provide instructions for repetitive magnetic particle inspections (MPI), pending accomplishment of the SB. In addition, further investigation identified that a limited number of MLG sliding tubes were incorrectly repaired, thereby reducing the number of affected aeroplanes. For the reasons described above, this AD retains part of the requirements of EASA AD 2019-0147, which is superseded, amends the Applicability, and requires additional repetitive inspections, and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) Before next flight after the effective date of this AD (see Note 1 of this AD), and, thereafter, at intervals not to exceed 200 flight cycles (FC) or 30 days, whichever occurs first, accomplish an MPI of each affected part in accordance with the instructions of the AOT. Note 1: A single non-commercial ferry flight (up to three flight cycles) may be carried out to return the aeroplane to a location where the first MPI can be accomplished. (2) Within 3 months after 28 June 2019 [the effective date of EASA AD 2019-0147], accomplish a one-time inspection of each affected part in accordance with the instructions of the SB, or the AOT. Page 2 of 4 TE.CAP.00111-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0151-E Corrective Action(s): (3) If, during any inspection as required by paragraph (1) or (2) of this AD, discrepancies are detected on an affected part, as identified in the SB or in the AOT, as applicable, before next flight, contact Airbus or SAFRAN Landing Systems for approved repair instructions and, within the compliance time specified therein, accomplish those instructions accordingly. Alternative Method of Compliance: (4) Replacing each affected part on an aeroplane with a serviceable part is an acceptable alternative method of compliance with the requirements of paragraph (3) of this AD for that aeroplane. Terminating Action: (5) Accomplishment of the one-time inspection of each affected part on an aeroplane, as required by paragraph (2) of this AD, and, depending on findings, of the applicable corrective action(s) on those parts, as required by paragraph (3) of this AD, or replacement of each affected part on an aeroplane, as specified in paragraph (4) of this AD, constitutes terminating action for the repetitive MPI as required by paragraph (1) of this AD for that aeroplane. Reporting: (6) Within 30 days after the inspection as required by paragraph (2) of this AD, report the inspection results to SAFRAN Landing Systems. Using the inspection report in accordance with the instructions of the SB is acceptable to comply with this requirement.
+
+Ref. Publications: Airbus AOT A32N016-19 original issue dated 27 June 2019. SAFRAN Landing Systems UK Ltd SB 200-32-335 original issue dated 03 May 2019, or Revision 1 dated 17 May 2019. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The results of the safety assessment have indicated the need for immediate publication and notification, without the full consultation process. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. Page 3 of 4 TE.CAP.00111-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0151-E 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00111-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

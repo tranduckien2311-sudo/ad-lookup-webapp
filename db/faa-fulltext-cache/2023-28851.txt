@@ -1,0 +1,462 @@
+[Federal Register Volume 89, Number 2 (Wednesday, January 3, 2024)]
+[Rules and Regulations]
+[Pages 258-261]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-28851]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1882; Project Identifier MCAI-2023-00651-T; 
+Amendment 39-22632; AD 2023-25-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2022-07-
+15, which applied to all Airbus SAS Model A318, A319, A320, and A321 
+series airplanes. AD 2022-07-15 required replacing affected braking and 
+steering control units (BSCUs) and revising the operator's existing 
+FAA-approved minimum equipment list (MEL). This AD was prompted by a 
+determination that a type 1 relay combined with an affected BSCU would 
+induce BSCU freezing. This AD removes certain airplanes from the 
+applicability, retains the requirements of AD 2022-07-15, requires an 
+inspection for the relay type installed and replacement of type 1 
+relays with type 2 relays, limits the installation of affected BSCUs on 
+certain airplanes and prohibits the installation of affected BSCUs for 
+certain other airplanes as specified in a European Union Aviation 
+Safety Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective February 7, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 7, 
+2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of May 2, 
+2022 (87 FR 22438, April 15, 2022).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-1882; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material incorporated by reference in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; website easa.europa.eu. You 
+may find this material on the EASA website at ad.easa.europa.eu.
+     For Airbus service information incorporated by reference 
+in this AD, contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point 
+Emile Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 
+93 36 96; fax +33 5 61 93 44 51; email airbus.com">account.airworth-eas@airbus.com; 
+website airbus.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2023-1882.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+telephone 206-231-3667; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2022-07-15,
+
+[[Page 259]]
+
+Amendment 39-22003 (87 FR 22438, April 15, 2022) (AD 2022-07-15). AD 
+2022-07-15 applied to all Airbus SAS Model A318-111, -112, -121, and -
+122 airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, -
+133, -151N, -153N, and -171N airplanes; Model A320-211, -212, -214, -
+216, -231, -232, -233, -251N, -252N, -253N, -271N, -272N, -273N 
+airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, -
+232, -251N, -251NX, -252N, -252NX, -253N, -253NX, -271N, -271NX, -272N, 
+and -272NX airplanes. AD 2022-07-15 required replacing affected BSCUs 
+and revising the operator's existing FAA-approved MEL. The FAA issued 
+AD 2022-07-15 to address loss of braking performance with significant 
+increase in airplane stopping distance, possibly resulting in a runway 
+excursion.
+    The NPRM published in the Federal Register on September 27, 2023 
+(88 FR 66307). The NPRM was prompted by AD 2023-0093R1, dated May 15, 
+2023, issued by EASA, which is the Technical Agent for the Member 
+States of the European Union (EASA AD 2023-0093R1) (also referred to as 
+the MCAI). The MCAI notes that the previous detection of several BSCU 
+channel failures could induce, in the event of dual channel failures, 
+loss of anti-skid function together with the reversion to the alternate 
+braking mode, and loss of nose wheel steering, and lead to loss of 
+braking performance with significant increase in airplane stopping 
+distance, possibly resulting in a runway excursion. The MCAI states 
+that further investigation identified a type 1 relay installed in a 
+position where a type 2 relay should have been installed. The 
+combination of a type 1 relay with an affected BSCU could induce BSCU 
+freezing. EASA therefore determined that it is necessary to replace 
+type 1 relays with type 2 relays.
+    The MCAI also states that type 1 relays are no longer installed on 
+Model A320 Current Engine Option (CEO) airplanes (i.e., Model A318 
+series airplanes; A319-111, -112, -113, -114, -115, -131, -132, and -
+133 airplanes; A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes; and A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes). Type 1 relays were required to be replaced on Model A320 
+CEO airplanes by AD 96-04-06, Amendment 39-9518 (61 FR 6927, February 
+23, 1996). AD 96-04-06 corresponded to DGAC France AD F-1993-163-043, 
+dated September 29, 1993. Model A320 CEO airplanes are therefore not 
+included in the applicability of this AD.
+    Further, the MCAI states that some relays installed at functional 
+item number (FIN) locations 24GG and 25GG were not in conformity with 
+the Airplane Inspection Report on certain airplanes.
+    In addition, it was determined that certain airplanes have been 
+delivered with a BSCU P/N E21327107.
+    In the NPRM, the FAA proposed to remove certain airplanes from the 
+applicability, retain the requirements of AD 2022-07-15, require an 
+inspection for the relay type installed and replacement of type 1 
+relays with type 2 relays, limit the installation of affected BSCUs on 
+certain airplanes and prohibit the installation of affected BSCUs for 
+certain other airplanes, as specified in EASA AD 2023-0093R1 described 
+previously. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2023-1882.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from United Airlines, which supported 
+the NPRM without change.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comment received, and determined that air safety requires adopting this 
+AD as proposed. Accordingly, the FAA is issuing this AD to address the 
+unsafe condition on this product. Except for minor editorial changes, 
+this AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2023-0093R1 specifies procedures for replacing affected 
+BSCUs if a fault signature is triggered, and implementing the 
+instructions of master minimum equipment list (MMEL) updates on the 
+basis of which the operator's existing MEL must be amended-that is, 
+procedures for revising the operator's existing FAA-approved MEL with 
+the provisions in the MMEL updates specified in the EASA AD. EASA AD 
+2023-0093R1 also specifies procedures for a general visual inspection 
+of the FINs 24GG and 25GG to identify the relay type installed, and 
+replacement of each type 1 relay with a type 2 relay. EASA AD 2023-
+0093R1 also limits the installation of affected parts.
+    Airbus Alert Operators Transmission A32N025-22, Rev 01, dated May 
+10, 2023, including Appendixes 1 through 3, dated May 2023, defines 
+BSCU fault signatures that may be triggered on the airplane, and 
+specifies procedures for replacing affected parts, among other actions.
+    This AD also requires Airbus Alert Operators Transmission A32N025-
+22, Rev 00, dated February 24, 2022, including Appendixes 1 through 4, 
+dated February 21, 2022, which the Director of the Federal Register 
+approved for incorporation by reference as of May 2, 2022 (87 FR 22438, 
+April 15, 2022).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 349 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                            Parts                               Cost on U.S.
+              Action                      Labor cost         cost      Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2022-07-   Up to 5 work-hours x        $0  Up to $425...........  Up to $148,325.
+ 15.                                 $85 per hour = $425.
+Relay inspection and replacement    Up to 9 work-hours x         0  Up to $765...........  Up to $266,985.
+ (new actions).                      $85 per hour = $765.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 260]]
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2022-07-15, Amendment 39-22003 
+(87 FR 22438, April 15, 2022); and
+0
+b. Adding the following new AD:
+
+2023-25-05 Airbus SAS: Amendment 39-22632; Docket No. FAA-2023-1882; 
+Project Identifier MCAI-2023-00651-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective February 7, 2024.
+
+(b) Affected ADs
+
+    This AD replaces AD 2022-07-15, Amendment 39-22003 (87 FR 22438, 
+April 15, 2022) (AD 2022-07-15).
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes, certificated in any 
+category, identified in paragraphs (c)(1) through (3) of this AD.
+    (1) All Model A319-151N, A319-153N, and A319-171N airplanes.
+    (2) All Model A320-251N, A320-252N, A320-253N, A320-271N, A320-
+272N, and A320-273N airplanes.
+    (3) All Model A321-251N, A321-251NX, A321-252N, A321-252NX, 
+A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N, and A321-
+272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear; and America Code 92, Electrical System Installation.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the detection of several channel 
+failures on the braking and steering control unit (BSCU), inducing, 
+in case of dual channel failures, loss of anti-skid function 
+together with the reversion to the alternate braking mode, and loss 
+of nose wheel steering. This AD was further prompted by the 
+determination that a type 1 relay combined with an affected BSCU 
+could induce BSCU freezing. The FAA is issuing this AD to address 
+these conditions, which could lead to loss of braking performance 
+with significant increase in airplane stopping distance, possibly 
+resulting in a runway excursion.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2023-0093R1, dated May 15, 2023 (EASA AD 2023-0093R1).
+
+(h) Exceptions to EASA AD 2023-0093R1
+
+    (1) Where EASA AD 2023-0093R1 refers to ``10 March 2022 [the 
+effective date of EASA AD 2022-0032 at original issue],'' this AD 
+requires using May 2, 2022 (the effective date of AD 2022-07-15).
+    (2) Where EASA AD 2023-0093R1 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (3) Where EASA AD 2023-0093R1 defines ``the AOT 1'' as ``Airbus 
+Alert Operators Transmission (AOT 1) A32N025-22,'' this AD requires 
+using Airbus Alert Operators Transmission A32N025-22, Rev 00, dated 
+February 24, 2022, including Appendixes 1 through 4, dated February 
+21, 2022, or Airbus Alert Operators Transmission A32N025-22, Rev 01, 
+dated May 10, 2023, including Appendixes 1 through 3, dated May 
+2023.
+    (4) Where paragraphs (2) and (3) of EASA AD 2023-0093R1 specify 
+``in accordance with the instructions of the AOT 1,'' replace those 
+words with ``in accordance with the `Remove and replace BSCU P/N 
+E21327307' step in paragraph 5.6., `Instructions,' of Airbus Alert 
+Operators Transmission A32N025-22, Rev 00, dated February 24, 2022, 
+including Appendixes 1 through 4, dated February 21, 2022, or of 
+Airbus Alert Operators Transmission A32N025-22, Rev 01, dated May 
+10, 2023, including Appendixes 1 through 3, dated May 2023.'' No 
+other actions in Airbus Alert Operators Transmission A32N030-23, Rev 
+00, dated February 27, 2023, including Appendixes 1 and 2, dated 
+February 21, 2023 (referenced in EASA AD 2023-0093R1 and not 
+incorporated by reference in this AD), or Airbus Alert Operators 
+Transmission A32N025-22, Rev 01, dated May 10, 2023, including 
+Appendixes 1 through 3, dated May 2023, are required for compliance 
+for the replacement.
+    (5) Where paragraph (4) of EASA AD 2023-0093R1 requires 
+operators to ``implement the instructions of the MMEL [master 
+minimum equipment list] update,'' this AD requires replacing those 
+words with ``implement the operator's existing FAA-approved minimum 
+equipment list (MEL) with the provisions specified in `The MMEL 
+update' as identified in EASA AD 2023-0093R1.''
+    (6) Where paragraph (4) of EASA AD 2023-0093R1 specifies to 
+``inform all flight crews, and, thereafter, operate the airplane 
+accordingly,'' this AD does not require those actions as those 
+actions are already required by existing FAA operating regulations.
+    (7) This AD does not adopt the ``Remarks'' section of EASA AD 
+2023-0093R1.
+
+(i) No Reporting Requirement
+
+    Although certain service information specified in EASA AD 2023-
+0093R1 specifies to report certain information and send affected 
+parts to the manufacturer, this AD does not require those actions.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch FAA, has the authority to
+
+[[Page 261]]
+
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the International 
+Validation Branch, send it to the attention of the person identified 
+in paragraph (k) of this AD. Information may be emailed to [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office. (ii) AMOCs approved 
+previously for AD 2022-07-15 are approved as AMOCs for the 
+corresponding provisions of EASA AD 2023-0093R1 that are required by 
+paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j)(2) of this AD, if any service information contains 
+paragraphs that are labeled as RC, the instructions in RC 
+paragraphs, including subparagraphs under an RC paragraph, must be 
+done to comply with this AD; any paragraphs, including subparagraphs 
+under those paragraphs, that are not identified as RC are 
+recommended. The instructions in paragraphs, including subparagraphs 
+under those paragraphs, not identified as RC may be deviated from 
+using accepted methods in accordance with the operator's maintenance 
+or inspection program without obtaining approval of an AMOC, 
+provided the instructions identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to instructions identified as RC require 
+approval of an AMOC.
+
+(k) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 206-231-3667; email 
+[email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 7, 2024.
+    (i) Airbus Alert Operators Transmission A32N025-22, Rev 01, 
+dated May 10, 2023, including Appendixes 1 through 3, dated May 
+2023.
+    (ii) European Union Aviation Safety Agency (EASA) AD 2023-
+0093R1, dated May 15, 2023.
+    (4) The following service information was approved for IBR on 
+May 2, 2022 (87 FR 22438, April 15, 2022).
+    (i) Airbus Alert Operators Transmission A32N025-22, Rev 00, 
+dated February 24, 2022, including Appendixes 1 through 4, dated 
+February 21, 2022.
+    (ii) [Reserved]
+    (5) For EASA AD 2023-0093R1, contact EASA, Konrad-Adenauer-Ufer 
+3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (6) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 
+36 96; fax +33 5 61 93 44 51; email airbus.com">account.airworth-eas@airbus.com; 
+website airbus.com.
+    (7) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (8) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on December 14, 2023.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-28851 Filed 1-2-24; 8:45 am]
+BILLING CODE 4910-13-P

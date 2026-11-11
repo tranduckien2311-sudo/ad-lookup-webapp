@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA AD No : 2012-0020 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2012-0020 Date: 30 January 2012 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type Approval Holder’s Name: Type/Model designation(s): d AIRBUS A330 aeroplanes e TCDS Number: EASA.A.004 Foreign AD: Not applicable d
+
+Supersedure: This AD supersedes DGAC France ADs F-2001-518(B) dated 31 October 2001, F-2001-530(B) dated 14 November 2001, F-2001-545(B) R1 dated 16 October e 2002, F-2002-552(B) dated 13 November 2002, and F-2003-140 R1 dated 17 March 2004. This AD also supersedes EASA ADs 2007-0008 dated 9 January 2007, 2007-0309 dated 18 December 2007, 2009-0138 dated 24 June 2009 and s 2010-0205 dated 08 October 2010. r Time Limits and Maintenance Checks – Ageing Systems
+
+ATA 05 Maintenance – ALS Part 4 – Amendment e
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) p
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-223F, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330- u 323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers. S
+
+Reason: The mandatory instructions and airworthiness limitations applicable to the Ageing Systems Maintenance (ASM) are specified in Airbus A330 ALS Part 4, which is approved by the European Aviation Safety Agency (EASA). The revision 03 of Airbus A330 ALS Part 4 introduces more restrictive maintenance requirements and/or airworthiness limitations. Failure to comply with the instructions of ALS Part 4 could result in an unsafe condition. This AD requires the implementation of the maintenance requirements and/or airworthiness limitations as specified in Airbus A330 ALS Part 4 revision 03, approved on 09 September 2011. In addition, this AD supersedes DGAC France ADs and EASA ADs listed in the “Supersedure” section above, whose requirements have been transferred into Airbus A330 ALS Part 4. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2012-0020
+
+Effective Date: 13 February 2012 Required Action(s) Required as indicated, unless previously accomplished: and Compliance (1) Within the compliance times defined in the Record of Revisions (ROR) Time(s): pages of the Airbus A330 ALS Part 4 revision 03: Comply with all applicable instructions and airworthiness limitations included in Airbus A330 ALS Part 4 revision 03. (2) Compliance with the requirements of paragraph (1) of this AD can be demonstrated by: (2.1) Revising as follows the approved Aircraft Maintenance Programme from which the operator or the owner ensures the continuing airworthiness of each operated aeroplane: Incorporate all instructions and associated airworthiness limitations specified in Airbus A330 ALS Part 4 revision 03, and that are relevant to the respective combination of aeroplane model and weight variant, d and (2.2) Complying with the approved Aircraft Maintenance Programme e described in paragraph (2.1) of this AD.
+
+Ref. Publications: Airbus A330 ALS Part 4 revision 03, approved by EASA on 09 September d 2011. The use of later approved variations or revisions of this document is e acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve s Alternative Methods of Compliance for this AD. r 2. This AD was posted on 02 December 2011 as PAD 11-130 for consultation until 30 December 2011. The Comment Response Document can be found at http://ad.easa.europa.eu/. e 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in p this AD, please contact: AIRBUS – Airworthiness Office – EIAAII; E-mail: Sched.Maint@airbus.com u S EASA Form 110 Page 2/2

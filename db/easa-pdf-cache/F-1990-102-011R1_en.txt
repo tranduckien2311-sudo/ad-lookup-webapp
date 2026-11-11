@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-102-011(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Auxiliary power unit GARRETT GTCP 36-300(A) P/N 3800278-2 The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft series 100 and 200 equipped with GARRETT auxiliary power unit (APU) GTCP36-300 (A) P/N 3800278-2 subject of AIRBUS INDUSTRIE modification 21237 (SB A320-49-1003) and which have not incorporated AIRBUS INDUSTRIE modification 22084 (installation of a secondary containment shield). In order to prevent from the consequences of an APU turbine rotor separation (experienced during BOEING 737-500 APU development bench test at GARRETT), the following measures are rended mandatory on the effective date of this
+
+Airworthiness Directive : 1/ APU operation in flight is prohibited, except if required by an emergency situation. 2/ Insert in Flight Manual of the aircraft the Temporary Revision 9.99.99/55. 3/ Before June 30, 1990, incorporate GARRETT SB Alert GTCP 36-49-A5973 (AIRBUS Modification 22084). Incorporation of GARRETT alert SB GTCP 36-49-A5973 (installation of a secondary containment shield) cancels requirements of paragraphs 1 and 2 of the present
+
+Airworthiness Directive. Note : Before incorporation of SB GARRETT Alert GTCP 36-49-A5973, on ground, APU is authorized only for parking or for taxi operations provided that the area located under the air inlet up to 4 meters forward, 8 meters aftward, and 10 meters each side remains inaccessible for any people. During taxi operations and in case of APU autoshutdown, the aircraft must return to the gate for APU inspection. Cf. : GARRETT ALERT SB GTCP 36-49-A5973 (modification AIRBUS 22084) AIRBUS INDUSTRIE aircraft flight Manual Temporary revision 9.99.99/55 The present AD was the subject of a telegraphic communication on May 18, 90 The present Rev.1 cancels and replaces the original AD 90-102-011(B) dated May 30, 1990. EFFECTIVE DATE : MAY 30, 1990 (date of the original AD) e/C AIRBUS INDUSTRIE January 23, 91 90-102-011(B) R1 A320 aircraft

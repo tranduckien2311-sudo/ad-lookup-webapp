@@ -1,0 +1,68 @@
+[Federal Register Volume 63, Number 181 (Friday, September 18, 1998)]
+[Rules and Regulations]
+[Page 49819]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 98-25005]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 97-ANE-29-AD; Amendment 39-10286; AD 98-02-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International CFM56-5B/2P Series 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document makes a correction to Airworthiness Directive 
+(AD) 98-02-04 applicable to CFM International (CFMI) CFM56-5B/2P series 
+turbofan engines that was published in the Federal Register on January 
+21, 1998 (63 FR 3031). The low pressure turbine (LPT) case part number 
+(P/N) in the compliance section is incorrect. This document corrects 
+that P/N. In all other respects, the original document remains the 
+same.
+
+EFFECTIVE DATE: September 18, 1998.
+
+FOR FURTHER INFORMATION CONTACT: Robert J. Ganley, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803-5299; telephone (781) 
+238-7138; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: A final rule airworthiness directive 
+applicable to CFM International (CFMI) CFM56-5B/2P series turbofan 
+engines, was published in the Federal Register on January 21, 1998 (63 
+FR 3031). The following correction is needed:
+
+
+Sec. 39.13  [Corrected]
+
+    On page 3031, in the third column, in the Compliance Section, in 
+the Applicability paragraph, in the fifth line, ``338-117-004-0'' is 
+corrected to read ``338-117-404-0''.
+    On page 3031, in the third column, in the Compliance Section, in 
+paragraph (a), in the second line, ``338-117-004-0'' is corrected to 
+read ``338-117-404-0''.
+    On page 3031, in the third column, in the Compliance Section, in 
+paragraph (d), in the third line, ``338-117-004-0'' is corrected to 
+read ``338-117-404-0''.
+
+    Issued in Burlington, Massachusetts, on September 11, 1998.
+David A. Downey,
+Assistant Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 98-25005 Filed 9-17-98; 8:45 am]
+BILLING CODE 4910-13-U

@@ -1,0 +1,393 @@
+[Federal Register Volume 80, Number 148 (Monday, August 3, 2015)]
+[Rules and Regulations]
+[Pages 45851-45853]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-18535]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0826; Directorate Identifier 2014-NM-221-AD; 
+Amendment 39-18222; AD 2015-15-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A318, A319, and A320 series airplanes modified by a 
+particular supplemental type certificate (STC). This AD was prompted by 
+reports of cracks found during inspections of the in-flight 
+entertainment system radome assembly. This AD requires repetitive 
+detailed inspections for cracks in the radome assembly, and replacement 
+of the radome if necessary. We are issuing this AD to detect and 
+correct cracks in the radome assembly, which could result in the radome 
+(or pieces) separating from the airplane and striking the tail, 
+consequently reducing the controllability of the airplane.
+
+DATES: This AD is effective September 8, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of September 8, 
+2015.
+
+ADDRESSES: For service information identified in this AD, contact Live 
+TV, 7415 Emerald Dunes Drive, Orlando, FL 32822; telephone 407-812-
+2643; email: [email protected]; Internet: http://www.LiveTV.net. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425 227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0826.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0826; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Barry Culler, Aerospace Engineer, 
+Airframe Branch, ACE-117A, FAA, Atlanta Aircraft Certification Office 
+(ACO), 1701 Columbia Avenue, College Park, GA 30337; phone: 404-474-
+5546; fax: 404-474-5605; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A318, 
+A319, and A320 series airplanes modified by a particular STC. The NPRM 
+published in the Federal Register on April 15, 2015 (80 FR 20175). The 
+NPRM was prompted by reports of cracks found during inspections of the 
+in-flight entertainment system radome assembly that had in-flight 
+entertainment systems installed using an STC issued to Live TV (STC 
+ST00788SE, http://rgl.faa.gov/Regulatory_and_Guidance_Library/
+rgstc.nsf/0/6df40775b10ef09a86257ae200613cfe/$FILE/ST00788SE.pdf). 
+Investigation of the cause of the cracks revealed that radome 
+manufacturing variation, due to a lack of dimensional controls on the 
+radome manufacturing drawings, can result in the introduction of 
+preload stress on the radome during its assembly with the skirt 
+fairing. Preload stress combined with flight or handling stress, such 
+as maintenance personnel stepping on the radome fairing assembly, might 
+initiate a crack. The radome manufacturing drawings were revised on 
+September 13, 2010, to add a control dimension, which was incorporated 
+into production at radome serial number 498. The NPRM proposed to 
+require detailed inspections for cracks in the radome assembly, and 
+replacement of the radome if necessary. We are issuing this AD to 
+detect and correct cracks in the radome assembly, which could result in 
+the radome (or pieces) separating from the airplane and striking the 
+tail, consequently reducing the controllability of the airplane.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (80 FR 20175, April 15, 
+2015) or on the determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 20175, April 15, 2015) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 20175, April 15, 2015).
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Live TV Service Bulletin A320-53-006, Rev 01, dated 
+September 10, 2014. The service information describes procedures for 
+repetitive detailed inspections for cracks in the outer ply of the 
+radome, and replacement of the radome with a new or serviceable radome 
+if any crack is found. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section 
+of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 120 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 45852]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+          Action                   Labor cost           Parts cost      Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspections..............  1 work-hour x $85 per                 N/A  $85 per inspection    $10,200 per
+                            hour = $85 per                             cycle.                inspection cycle.
+                            inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the inspections. We have 
+no way of determining the number of aircraft that might need this 
+replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement...................................  8 work-hours x $85 per hour = $               $0            $680
+                                                 680.
+----------------------------------------------------------------------------------------------------------------
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW., Washington, DC 20591. ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2015-15-12 Airbus: Amendment 39-18222; Docket No. FAA-2015-0826; 
+Directorate Identifier 2014-NM-221-AD.
+
+(a) Effective Date
+
+    This AD is effective September 8, 2015.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplane models identified in paragraphs 
+(c)(1), (c)(2), and (c)(3) of this AD, certificated in any category, 
+with Live TV radomes having part number (P/N) 5063-100-XX (XX 
+designates the color option) and a serial number in the range of 001 
+through 497 inclusive, and modified by supplemental type certificate 
+(STC) ST00788SE, http://rgl.faa.gov/Regulatory_and_Guidance_Library/
+rgstc.nsf/0/6df40775b10ef09a86257ae200613cfe/$FILE/ST00788SE.pdf.
+    (1) Airbus Model A318-111 and -112 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-111, -211, -212, -214, -231, -232, and -
+233 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracks found during 
+inspections of the in-flight entertainment system radome assembly. 
+We are issuing this AD to detect and correct cracks in the in-flight 
+entertainment system radome assembly, which could result in the 
+radome (or pieces) separating from the airplane and striking the 
+tail, consequently reducing the controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections and Corrective Actions
+
+    Within 3,900 flight hours after the effective date of this AD: 
+Perform a detailed inspection for cracks of the radome assembly, in 
+accordance with the Accomplishment Instructions of Live TV Service 
+Bulletin
+
+[[Page 45853]]
+
+A320-53-006, Rev 01, dated September 10, 2014. Repeat the inspection 
+thereafter at intervals not to exceed 3,900 flight hours. If any 
+crack is found during any inspection required by this paragraph, 
+before further flight, replace the radome with a new or serviceable 
+radome, in accordance with the Accomplishment Instructions of Live 
+TV Service Bulletin A320-53-006, Rev 01, dated September 10, 2014.
+
+(h) Reporting Requirement
+
+    If any crack is found during any inspection required by 
+paragraph (g) of this AD, submit a report of the findings to Live 
+TV, Attn: Oscar Hernandez, email: 
+[email protected]; at the applicable time 
+specified in paragraph (h)(1) or (h)(2) of this AD. The report must 
+include the information specified in the service bulletin reporting 
+form provided in Live TV Service Bulletin A320-53-006, Rev 01, dated 
+September 10, 2014.
+    (1) If the inspection was accomplished on or after the effective 
+date of this AD: Submit the report within 30 days after the 
+inspection.
+    (2) If the inspection was accomplished before the effective date 
+of this AD: Submit the report within 30 days after the effective 
+date of this AD.
+
+(i) Special Flight Permit
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(j) Paperwork Reduction Act Burden Statement
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty 
+for failure to comply with a collection of information subject to 
+the requirements of the Paperwork Reduction Act unless that 
+collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 5 minutes per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW., Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Atlanta Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) If any service information contains steps that are 
+identified as RC (Required for Compliance), those steps must be done 
+to comply with this AD; any steps that are not identified as RC are 
+recommended. Those steps that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the steps identified as RC can be done 
+and the airplane can be put back in a serviceable condition. Any 
+substitutions or changes to steps identified as RC require approval 
+of an AMOC.
+
+(l) Related Information
+
+    For more information about this AD, contact Barry Culler, 
+Aerospace Engineer, Airframe Branch, ACE-117A, FAA, Atlanta Aircraft 
+Certification Office (ACO), 1701 Columbia Avenue, College Park, GA 
+30337; phone: 404-474-5546; fax: 404 474 5605; email: 
+[email protected].
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Live TV Service Bulletin A320-53-006, Rev 01, dated 
+September 10, 2014.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact Live 
+TV, 7415 Emerald Dunes Drive, Orlando, FL 32822; telephone 407-812-
+2643; email: [email protected]; Internet: http://www.LiveTV.net.
+    (4) You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425 227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on July 17, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-18535 Filed 7-31-15; 8:45 am]
+ BILLING CODE 4910-13-P

@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2006 – 0307 Date: 10 October 2006 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : AIRBUS SAS A330 aircraft TCDS Number : EASA A.004 Foreign AD : Not applicable. Supersedure : DGAC AD F-2004-024, EASA Approval Number 2004-1043.
+
+ATA 05 Time limits/Maintenance checks - Airworthiness Limitations Items (ALI)
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE)
+
+Applicability: AIRBUS A330 aircraft, all certified models, all serial numbers.
+
+Reason: As required by JAR 25.1529, appendix H §25.4, the certification requirements for damage-tolerant structure are provided in AIRBUS A330 Airworthiness Limitations Section (ALS) Part 2 Document (Damage-Tolerant Airworthiness Limitation Items - DT ALI). These A330 DT ALIs are currently listed in the A330 ALI document reference AI/SE-M4/95A.0089/97 which is approved by the European Aviation Safety Agency (EASA). This
+
+Airworthiness Directive (AD) mandates the ALI requirements as defined in AIRBUS document AI/SE-M4/95A.0089/97 issue 14 which: - introduces new weight variants, - revises the applicability of some tasks, - adds new ALI requirements, - revises some ALI requirements with more restrictive thresholds and intervals.
+
+Effective Date: 24 October 2006 Compliance: Within 2 months after the effective date of this directive, amend the aircraft’s maintenance program to include the requirements defined in the AIRBUS A330 Airworthiness Limitation Items document at issue 14 referenced AI/SE- . M4/95A.0089/97 unless specified differently below 1/3
+
+--- PAGE 2 ---
+Special Compliance Times For aircraft that have already exceeded or are close to exceeding the new or revised published limits, special compliance times have been agreed by EASA for the following tasks, that are to be counted from the effective date of this AD without exceeding the previous threshold and/or interval as defined in the referenced A330 ALI document at issue 13 as required by DGAC AD F-2004-024 (EASA Approval No. 2004-1043): Special Compliance Task Number Changes Time 521101-01-01 New task with Threshold of 11,000 FC 250 FC 533115-01-05 Threshold reduced from 13,700 FC to 250 FC applicable to 13,400 FC GROUP 32A and GROUP 33C aircraft 545111-02-01 Threshold and Interval reduced from 4,750 FH applicable to 33,250 FH to 28,500 FH. GE 250FC / 750FH 571104-01-02 New task with Threshold of 16,350 FC / (whichever occurs first) applicable to Group 49,000 FH 33A Pre 44360 Pre 52094 and Group 33B Pre 44360 Pre 52094 aircraft 712102-01-01 Threshold and Interval reduced from 2,000 FH for Threshold 14,000 FH to 12,000 FH and Interval 712103-01-01 Threshold reduced from 22,260 FH to 3,000 FH for Threshold 19,080 FH Interval reduced from 14,350 FH to 2,000 FH for Interval 12,300 FH 712103-01-02 Threshold and Interval reduced from 900 FC / 6,000 FH (whichever occurs first) 7,560 FC / 26,460 FH to 6,600 FC / for Threshold and (whichever occurs first) 19,800 FH Interval 712103-01-03 Threshold and Interval reduced from 3,000 FH for Threshold 23,100 FH to 19,800 FH and Interval 712104-01-01 Threshold and Interval reduced from 1,400 FC / 6,000 FH (whichever occurs first) 4,000 FC / 14,000 FH to 2,520 FC / for Threshold and (whichever occurs first) 7,560 FH Interval 712105-01-01 Threshold and Interval reduced from 4,000 FH for Threshold 28,000 FH to 24,000 FH and Interval 712106-01-01 Threshold and Interval reduced from 4,000 FH for Threshold 28,000 FH to 24,000 FH and Interval 712202-01-01 Threshold and Interval reduced from 4,000 FH for Threshold 28,000 FH to 24,000 FH and Interval 2/3
+
+--- PAGE 3 ---
+Special Compliance Task Number Changes Time 712204-01-01 Threshold and Interval reduced from 1,400 FC / 6,000 FH (whichever occurs 8,000 FC / 28,000 FH to 4,130 FC / first) for Threshold (whichever occurs first) 12,390 FH and Interval 712204-02-01 Threshold and Interval reduced from 4,000 FH for 28,000 FH to 24,000 FH Threshold and Interval
+
+Ref. Publications: AIRBUS A330 ALI issue 14 referenced AI/SE-M4/95A.0089/97 approved under EASA.A.C.01277 on 17 January 2006 or a later approved revision. Remarks : 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative Methods of Compliance (AMOCs) for this AD 2. This AD was posted as PAD 06-181 for consultation on 11 July 2006 with a comment period until 21 July 2006.The Comment Response Document can be found at http://ad.easa.eu.int/ 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For questions concerning the technical contents of this AD’s requirements, contact: AIRBUS Airworthiness Office – EAL - Fax : 33 5 61 93 45 80. 3/3

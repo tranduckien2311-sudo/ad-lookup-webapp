@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0103
+
+Airworthiness Directive
+
+AD No.: 2020-0103 [Correction: 08 May 2020]
+
+Issued: 07 May 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 21 May 2020 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 25 – Equipment / Furnishings – Emergency Locator Transmitter Protection – Modifications
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, A321-252N, A321-253N, A321-271N, A321-272N, A321-251NX, A321-252NX, A321-253NX, A321-271NX and A321-272NX aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part: Emergency Locator Transmitter (ELT) having Part Number (P/N) 01N65900. The applicable SB: Airbus Service Bulletin (SB) A320-25-1BQP or A320-25-1BQN, as applicable. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0103 Groups: Group 1 are aeroplanes that have an affected part installed (see Note 1 of this AD). Group 2 are aeroplanes that do not have an affected part installed. Note 1: Aeroplanes having Airbus modification (mod) 33345 or 34334 embodied in production, or having Airbus SB A320-23-1242, A320-23-1376, A320-25-1746, A320-25-1750, A320-25-1824 or A320-25-1B41 embodied in service, are Group 1, provided that the affected part was not replaced since modification.
+
+Reason: The results of engineering investigations by laboratory test on ELT batteries highlighted that a lack of protection against current injection of 28 Volts DC or 115 Volts AC on a non-rechargeable ELT lithium battery could, even after significant delay, induce a battery fire. This condition, if not corrected, could lead to local (temporary) fire, possibly resulting in damage to the aeroplane and injury to occupants. To address this potential unsafe condition, Airbus issued the applicable SB to provide modification instructions to improve the ELT battery current injection protection. For the reasons described above, this AD requires a modification by installing a diode in the aeroplane circuit connecting the ELT battery. This AD is republished to correct typographical errors in Note 1.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) For Group 1 aeroplanes: Within 24 months after the effective date of this AD, modify the aeroplane in accordance with the instructions of the applicable SB. (2) An aeroplane on which Airbus mod 165755 (diode installation) and mod 34334 were embodied in production is not affected by the requirements of paragraph (1) of this AD. Parts Installation: (3) For Group 2 aeroplanes: From the effective date of this AD, it is allowed to install an affected part on any aeroplane, provided that the aeroplane is concurrently modified in accordance with the instructions of the applicable SB.
+
+Ref. Publications: Airbus SB A320-25-1BQP original issue dated 05 December 2019. Airbus SB A320-25-1BQN original issue dated 05 December 2019. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0103
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 20 March 2020 as PAD 20-054 for consultation until 17 April 2020. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

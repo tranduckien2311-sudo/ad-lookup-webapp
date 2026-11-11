@@ -1,0 +1,632 @@
+[Federal Register Volume 76, Number 136 (Friday, July 15, 2011)]
+[Rules and Regulations]
+[Pages 41669-41673]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2011-17205]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0139; Directorate Identifier 2010-CE-057-AD; 
+Amendment 39-16743; AD 2011-14-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; B/E Aerospace, Continuous Flow 
+Passenger Oxygen Mask Assembly, Part Numbers 174006-( ), 174080-( ), 
+174085-( ), 174095-( ), 174097-( ), and 174098-( )
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for the 
+products listed above, except for those that are currently affected by 
+similar action through any of five ADs applicable to Boeing products. 
+This AD requires an inspection/records check to determine the 
+manufacturer and part number of the oxygen mask assemblies installed, 
+an inspection to determine the manufacturing date and modification 
+status if certain oxygen mask assemblies are installed, and corrective 
+action for certain oxygen mask assemblies. This AD was prompted by a 
+report that several oxygen mask assemblies with broken in-line flow 
+indicators were found following a mask deployment. We are issuing this 
+AD to prevent the in-line flow indicators of the oxygen mask assembly 
+from fracturing and separating, which could inhibit oxygen flow to the 
+masks. This condition could consequently result in occupants developing 
+hypoxia following a depressurization event.
+
+DATES: This AD is effective August 19, 2011.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of August 19, 
+2011.
+
+ADDRESSES: For service information identified in this AD, contact B/E 
+Aerospace, 10800 Pflumm Road, Lenexa, Kansas 66215; telephone: (913) 
+338-9800; fax: (913) 469-8419; Internet: http://www.beaerospace.com. 
+You may review copies of the referenced service information at the FAA, 
+Small Airplane Directorate, 901 Locust, Kansas City, Missouri 64106. 
+For information on the availability of this material at the FAA, call 
+(816) 329-4148.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: David Fairback, Aerospace Engineer, 
+Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Room 
+100, Wichita, Kansas 67209; telephone: (316) 946-4154; fax: (316) 946-
+4107; e-mail: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an airworthiness directive (AD) that would apply to 
+the specified products. That NPRM published in the Federal Register on 
+February 23, 2011 (76 FR 9984). That NPRM proposed to require an 
+inspection/records check to determine the manufacturer and part number 
+of the oxygen mask assemblies installed, an inspection to determine the 
+manufacturing date and modification status if certain oxygen mask 
+assemblies are installed, and corrective action for certain oxygen mask 
+assemblies.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment. B/E Aerospace supports the 
+NPRM.
+
+Request To Address Past Production Cut Over Point Airplanes
+
+    The Boeing Company (Boeing) stated that a statement should be 
+included in the final rule AD action to address installation of the 
+affected oxygen mask assemblies on Boeing airplanes that are not 
+included in existing Boeing service bulletins because these airplanes 
+are past production cut over point.
+    Boeing stated that, due to long-time lag between production cut 
+over change and the release of the AD, there is a high likelihood that 
+on Boeing airplanes past production cut over point, but prior to 
+release of this AD due to lack of awareness of the pending AD release, 
+operators could have installed one of the affected oxygen mask 
+assemblies during routine maintenance. The Applicability section of the 
+proposed AD could mislead operators to not take corrective actions on 
+Boeing airplanes even if they had unknowingly installed affected oxygen 
+mask assemblies on airplanes past production cut over prior to release 
+of the AD. This could also apply to installation of affected oxygen 
+mask assemblies on Boeing airplanes through supplemental type 
+certificate (STC) or through field approval.
+    We agree with the commenter. However, the unsafe condition on 
+Boeing airplanes will be addressed separately from this AD. If 
+additional action is necessary to address Boeing's concerns, additional 
+rulemaking may be taken specific to Boeing airplanes.
+    We have not changed the final rule AD action based on this comment.
+
+Request for Applicability Clarification
+
+    Boeing stated that there is confusion between the statements in the 
+Differences Between the Proposed AD and the Service Information section 
+and the Applicability section in the proposed AD. The statements are 
+contradictory and could mislead operators. In the proposed AD, it is 
+stated in the Differences Between the Proposed AD and the Service 
+Information section that oxygen mask
+
+[[Page 41670]]
+
+assemblies affected by AD 2007-26-06, AD 2008-08-08, AD 2008-12-05, AD 
+2008-13-21, or AD 2010-14-06 are not affected by this proposed AD. In 
+the Applicability section of the proposed AD, it is stated that the AD 
+applies to B/E Aerospace, Continuous Flow Passenger Oxygen Mask 
+Assembly; Part Numbers 174006-( ), 174080-( ), 174085-( ), 174095-( ), 
+174097-( ), and 174098-( ) as listed in B/E Aerospace Service Bulletin 
+174080-35-04, Rev 000, dated September 6, 2010, that are installed on 
+any aircraft except for those Boeing airplanes specified in the ADs 
+referenced in paragraphs (b)(1), (b)(2), (b)(3), (b)(4), and (b)(5) of 
+this AD.
+    The Differences Between the Proposed AD and the Service Information 
+section excludes mask assemblies by part number from the proposed AD if 
+they are included in the previously referenced ADs. The Applicability 
+section provides relief for Boeing airplanes covered by the previously 
+referenced ADs. This information is contradictory and needs to be 
+clarified in the final rule AD action.
+    We agree with the commenter. The statement in the Differences 
+Between the Proposed AD and the Service Information section is 
+incorrect. The template used for preparing final rule AD actions does 
+not include the Differences Between the Proposed AD and the Service 
+Information section, which is part of the Discussion section and not 
+part of the actual AD. The Applicability section in the proposed AD is 
+correct. We regret any confusion this may have caused.
+    We have not changed the final rule AD action based on this comment.
+
+Request To Exclude Certain Airplanes From the Applicability Section
+
+    Airbus, jetBlue Airways, and All Nippon Airways stated Airbus 
+airplanes in compliance with B/E Aerospace Service Bulletin 174080-35-
+02, Rev. 1, as specified in European Aviation Safety Agency (EASA) AD 
+2010-0165, dated August 5, 2010, should be excluded from the 
+applicability of the proposed AD.
+    The commenters state that this change would harmonize the EASA AD 
+with the FAA AD and avoid duplicate work.
+    We partially agree with the commenters. We do not agree to exclude 
+Airbus airplanes affected by the EASA AD because the EASA AD does not 
+include all of the oxygen mask assembly part numbers that contain the 
+potentially defective in-line flow indicators. We do agree that 
+duplicate work should be avoided and that credit for compliance with 
+the EASA AD could be given, but only if it can be positively determined 
+that no oxygen mask assembly part number listed in B/E Aerospace 
+Service Bulletin 174080-35-04, Rev 000, dated September 6, 2010, or 
+listed in EASA AD 2010-0165, dated August 5, 2010, is installed by STC 
+or alternation.
+    We have revised the final rule AD action to include a statement in 
+paragraph (g)(1) giving conditional credit for compliance with the EASA 
+AD 2010-0165, dated August 5, 2010, or EASA AD 2010-0165R1, correction 
+dated January 31, 2011.
+
+Request To Allow an Additional Method of Compliance
+
+    Airbus stated that compliance with the final rule AD action should 
+include inspection of the oxygen mask assembly container for a 
+manufacture date of oxygen mask assemblies that were fitted at time of 
+production delivery providing that no replacement of masks occurred up 
+to the effective date of the final rule AD action.
+    Airbus stated that they received a statement from B/E Aerospace 
+stating that ``container assemblies that were manufactured after March 
+1, 2006, do not contain masks that were manufactured before March 1, 
+2006.'' Airbus confirms that no modification is performed on the 
+container assemblies and/or subassemblies before aircraft delivery.
+    We partially agree with the commenter. We agree that inspection of 
+the oxygen mask assembly container for manufacture date is adequate 
+only if it can be verified that the original oxygen masks in the 
+container assembly are installed. We disagree that relying on the 
+container assembly manufacture date alone addresses the safety concern 
+because the masks in the container assembly may have been changed after 
+it was manufactured.
+    We have revised the final rule AD action based on this comment to 
+include inspection of the container assembly date only if it can be 
+positively determined that the passenger oxygen masks within the 
+container assembly have not been modified since it was manufactured.
+
+Request To Change Replacement Compliance Time
+
+    Airbus stated that replacement of the in-line flow indicator before 
+further flight after the inspection would only be necessary if, during 
+the physical check of the oxygen mask assembly, it is found broken. 
+Based on difficulties in getting spare parts from the supplier in 
+sufficient time, the compliance time for modifying the affected oxygen 
+masks should be changed to 36 months after the effective date of the AD 
+or within 6,500 hours time-in-service (TIS) after the effective date of 
+the AD, whichever occurs first.
+    We agree with the commenter. Changing the compliance time for 
+modifying the affected oxygen masks will still address the safety 
+concern of the unsafe condition identified in the proposed AD.
+    We have revised the final rule AD action to change the replacement/
+modification compliance time in paragraph (h).
+
+Request To Include Other Oxygen Mask Assemblies in the Applicability 
+Section
+
+    BOS Aviation Ltd. stated that the Applicability section should also 
+include additional in-line flow indicator part numbers because faulty 
+in-line flow indictors are fitted to more masks than identified in B/E 
+Aerospace Service Bulletin 174080-35-04, Rev 000, dated September 6, 
+2010. BOS Aviation Ltd. stated that some technical documentation 
+suggests that a very popular series of AVOX oxygen masks contain the 
+same in-line flow indicator, although it masquerades under AVOX part 
+number 804273-01. They also stated that examination of the failure mode 
+of the suspect in-line flow indicator showed that the failure was where 
+the two halves are glued together, not as was suggested at the ``weak'' 
+sharp molded joint stated in the B/E Aerospace service bulletin and 
+other communication.
+    We do not agree with the commenter. AVOX stopped using the B/E 
+Aerospace in-line flow indicator in their passenger oxygen masks 
+several years before 2002 when the AVOX part number 804273-01 was 
+introduced. The B/E Aerospace part number 118023-02 in-line flow 
+indicator is not glued; it is welded together. The photos provided by 
+BOS Aviation Ltd. show that the failure did not occur at the weld since 
+the opaque material is still bonded to the transparent material.
+    The FAA issued Special Alert Information Bulletin (SAIB) NM-11-25 
+to address an issue with AVOX in-line flow indicators that is different 
+from the B/E Aerospace in-line flow indicators.
+    We have not changed the final rule AD action based on this comment.
+
+Request To Include Other In-Line Flow Indicators in the Applicability 
+Section
+
+    BOS Aviation Ltd. stated that the manufacturer date window be 
+removed from the final rule AD action because several suspect part 
+number in-line flow indicators are in service that were manufactured 
+before the January 1, 2002
+
+[[Page 41671]]
+
+date specified in B/E Aerospace Service Bulletin 174080-35-04, Rev 000, 
+dated September 6, 2010. BOS Aviation Ltd. stated that the date is not 
+carried on the in-flow indicator, thereby making it difficult to 
+confirm the age of the in-line flow indicator regardless of the age of 
+the oxygen mask. The same ambiguity applies if there has been any 
+repair to the unit.
+    We do not agree with the commenter. Based on the failure data we 
+have, we determined that no AD action is necessary for other in-line 
+flow indicators or for in-line flow indicators manufactured before 
+2002.
+    We have not changed the final rule AD action based on this comment.
+
+Request To Show Compliance Through Permanent Marking
+
+    BOS Aviation Ltd. requested that the personal safety unit (PSU) (as 
+well as the actual oxygen mask assembly) be marked to show compliance 
+with the AD; thereby negating the need to open the PSU and drop the 
+oxygen mask assembly to confirm compliance in the future.
+    We partially agree with the commenter. We agree that the oxygen 
+mask assembly needs to be marked to show it has been modified as 
+specified in the service bulletin. However, we do not agree to require 
+marking of the oxygen mask stowage container to show compliance with 
+the AD when compliance can be confirmed by checking the maintenance 
+records.
+    We have not changed the final rule AD action based on this comment.
+
+Request To Add Additional Guidance
+
+    BOS Aviation Ltd. stated that the FAA should instruct owner/
+operators to use standard maintenance practices when doing the actions 
+required in the final rule AD action. This should be done for a myriad 
+of good reasons that relate primarily to safety, none of which goes 
+away simply because the maintenance is carried out as a result of an AD 
+or a service bulletin.
+    We partially agree with the commenter. We agree that standard 
+maintenance practices should always be used. Appropriate personnel and 
+procedures must be used for the inspection and modification required by 
+this AD to ensure safety and not create additional hazards. We disagree 
+that language should be added to the AD to emphasize safety when doing 
+actions required in an AD.
+    We have not changed the final rule AD action based on this comment.
+
+Request To Update Cost of Compliance Section
+
+    BOS Aviation Ltd. stated that B/E Aerospace has offered to supply 
+replacement in-line flow indicators to operators free of charge. The 
+FAA assessed the cost of compliance based on the manpower requirement 
+stated in B/E Aerospace Service Bulletin 174080-35-04, Rev 000, dated 
+September 6, 2011, and is grossly underestimated. In many applications, 
+the suspect oxygen masks are contained in a PSU that is live and 
+installed in operational aircraft. The proposed AD requires opening and 
+disassembling the oxygen mask assembly in order to carry out the 
+inspection, in addition to modifying any defective oxygen mask. To do 
+this task safely and following various manufacturers' maintenance 
+instructions, the oxygen mask assembly should be removed from the 
+aircraft, taken to an oxygen clean environment, and made safe in 
+preparation for maintenance.
+    Once open, depending on type, the oxygen mask assemblies are 
+tightly wrapped with their tube specifically coiled and packaged with 
+the in-line flow indicator not immediately visible, which then requires 
+``unpacking'' the box that may contain up to four masks. The box then 
+requires proper ``re-packing'' before reinstallation and test in the 
+aircraft.
+    BOS Aviation Ltd. stated that they have conducted tests that would 
+suggest the accomplishment time (as presented in AD 2007-26-06 for 
+example) is probably adequate for an aircraft of a half or a third the 
+capacity of the 747. Moreover, where aircraft PSUs use chemical oxygen 
+generators, the issue to ensure safety with respect to the oxygen 
+generating canister becomes paramount and increases the workhours 
+required. Our estimate, at the very best, for accomplishing the AD on 
+an airplane's set of PSUs on a 150 seat narrow body airplane, will 
+require a minimum of 3 days down time, not including transport of the 
+PSUs to a suitable workshop for accomplishment of the AD.
+    We do not agree with the commenter. The cost estimate of $19,400,00 
+for the estimated number of affected oxygen mask assemblies is based on 
+the following:
+     The cost estimate for the AD assumes that all of the 
+400,000 part number in-line flow indicators manufactured on or after 
+January 1, 2002, and before March 1, 2006, are replaced for compliance 
+with this AD. In reality, most of these in-line flow indicators are 
+installed in Boeing and Airbus airplanes and will be replaced in 
+compliance with the previously referenced ADs. The exact number that 
+will be replaced in accordance with this AD is unknown, but it will be 
+less than the estimated 400,000.
+     The cost estimate assumes 30 minutes are required to do 
+the actions required in this AD for each affected oxygen mask assembly. 
+This estimate is much higher than the 3-minute time proposed in B/E 
+Aerospace Service Bulletin 174080-35-04, Rev 000, dated September 6, 
+2010.
+     For the oxygen mask assemblies to be maintained in an 
+airworthy condition, a recurrent inspection for each oxygen mask is 
+necessary. The 6,500-hour TIS/36-month compliance time of this AD will 
+allow many operators to do the actions required in this AD at the same 
+time as the recurrent inspection.
+    We have not changed the final rule AD action based on this comment.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     [Agr]re consistent with the intent that was proposed in 
+the NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 400,000 oxygen mask assemblies.
+    We estimate the following costs to comply with this AD:
+
+[[Page 41672]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+              Action                    Labor cost           Parts cost      Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Replace the in-line flow           0.5 work-hour x $85              $6.00             $48.50        $19,400,000
+ indicator per mask.                per hour = $42.50.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2011-14-08 B/E Aerospace: Amendment 39-16743; Docket No. FAA-2011-
+0139; Directorate Identifier 2010-CE-057-AD.
+
+Effective Date
+
+    (a) This AD is effective August 19, 2011.
+
+Affected ADs
+
+    (b) None. This AD does not revise or supersede any existing ADs. 
+The following ADs address the unsafe condition described in 
+paragraph (e) of this AD for certain installations on certain Boeing 
+airplanes:
+    (1) AD 2007-26-06, Amendment 39-15308 (72 FR 71210, December 17, 
+2007), for certain Boeing Model 747-200B, 747-300, and 747-400 
+series airplanes identified in Boeing Service Bulletin 747-35-2119, 
+dated November 30, 2006;
+    (2) AD 2008-08-08, Amendment 39-15460 (73 FR 19982, April 14, 
+2008), for certain Boeing Model 757-200, 757-200CB, 757-200PF, and 
+757-300 series airplanes identified in Boeing Special Attention 
+Service Bulletin 757-35-0028, dated April 9, 2007;
+    (3) AD 2008-12-05, Amendment 39-15548 (73 FR 32996, June 11, 
+2008), for certain Boeing Model 777-200, 777-200LR, 777-300, and 
+777-300ER series airplanes identified in Boeing Special Attention 
+Service Bulletin 777-35-0019, dated March 9, 2006;
+    (4) AD 2008-13-21, Amendment 39-15584 (73 FR 37781, July 2, 
+2008), for certain Boeing Model 767-200, 767-300, and 767-400ER 
+series airplanes identified in Boeing Special Attention Service 
+Bulletin 767-35-0054, dated July 6, 2006; and
+    (5) AD 2010-14-06, Amendment 39-16351 (75 FR 38014, July 1, 
+2010), for certain The Boeing Company Model 737-200, 737-300, 737-
+400, and 737-500 series airplanes identified in Boeing Special 
+Attention Service Bulletin 737-35-1099, Revision 1, dated April 23, 
+2009.
+
+Applicability
+
+    (c) This AD applies to B/E Aerospace, Continuous Flow Passenger 
+Oxygen Mask Assembly; Part Numbers 174006-( ), 174080-( ), 174085-( 
+), 174095-( ), 174097-( ), and 174098-( ) as listed in B/E Aerospace 
+Service Bulletin 174080-35-04, Rev 000, dated September 6, 2010, 
+that are installed on any aircraft except for those Boeing airplanes 
+specified in the ADs referenced in paragraphs (b)(1), (b)(2), 
+(b)(3), (b)(4), and (b)(5) of this AD.
+
+    Note 1:  The service bulletin lists the part numbers with a 
+suffix of ``XX.'' The TSO Index lists the part numbers with the 
+suffix of ``( ).'' For the purposes of this AD, we have used ``( 
+).''
+
+Subject
+
+    (d) Joint Aircraft System Component (JASC)/Air Transport 
+Association (ATA) of America Code 35: Oxygen.
+
+Unsafe Condition
+
+    (e) This AD was prompted by a report that several oxygen mask 
+assemblies with broken in-line flow indicators were found following 
+a mask deployment. We are issuing this AD to prevent the in-line 
+flow indicators of the oxygen mask assembly from fracturing and 
+separating, which could inhibit oxygen flow to the masks. This 
+condition could consequently result in occupants developing hypoxia 
+following a depressurization event.
+
+Compliance
+
+    (f) Comply with this AD within the compliance times specified, 
+unless already done.
+
+Records Check/Inspection
+
+    (g) Within 36 months after August 19, 2011 (the effective date 
+of this AD) or within 6,500 hours time-in-service (TIS) after August 
+19, 2011 (the effective date of this AD), whichever occurs first, do 
+the following:
+    (1) Do a records check to determine if any oxygen mask assembly 
+part number listed in B/E Aerospace Service Bulletin 174080-35-04, 
+Rev 000, dated September 6, 2010, is installed in the aircraft.
+    (i) If you cannot positively determine the manufacturer and part 
+number of any oxygen mask assembly installed, do a general visual 
+inspection to determine if any oxygen mask assembly part number 
+listed in B/E Aerospace Service Bulletin 174080-35-04, Rev. 000, 
+dated September 6, 2010, is installed in the aircraft.
+    (ii) If you can positively determine that no oxygen mask 
+assembly part number listed in B/E Aerospace Service Bulletin 
+174080-35-04, Rev 000, dated September 6, 2010, is installed, no 
+further action is required by this AD.
+    (iii) If you can positively determine that any Airbus airplane 
+affected by this AD is in compliance with European Aviation Safety 
+Agency (EASA) AD 2010-0165, dated August 5, 2010, or EASA AD 2010-
+0165R1, correction dated January 31, 2011, and that no oxygen mask 
+assembly part number listed in B/E Aerospace Service Bulletin 
+174080-35-04, Rev 000, dated September 6, 2010 is
+
+[[Page 41673]]
+
+installed by STC or alteration, no further action is required by 
+this AD.
+    (iv) If you can positively determine through inspection of the 
+oxygen mask container assembly that the date of manufacture is after 
+March 1, 2006, and you can verify that the original oxygen masks in 
+the container assembly are installed, no further action is required 
+by this AD.
+    (2) If, as a result of any of the records checks/inspections 
+required in paragraph (g)(1) of this AD, you determine that an 
+oxygen mask assembly part number listed in B/E Aerospace Service 
+Bulletin 174080-35-04, Rev 000, dated September 6, 2010, is 
+installed, inspect the oxygen mask assembly to determine if the in-
+line flow indicator must be replaced following paragraph II.A. of B/
+E Aerospace Service Bulletin 174080-35-04, Rev 000, dated September 
+6, 2010. If you can positively determine that the in-line flow 
+indicator does not require replacement, no further action is 
+required by this AD.
+
+Modification/Replacement
+
+    (h) After the inspection in paragraph (g)(2) of this AD and it 
+was determined the in-line flow indicator must be replaced, within 
+36 months after August 19, 2011 (the effective date of this AD) or 
+within 6,500 hours TIS after August 19, 2011 (the effective date of 
+this AD), whichever occurs first, modify the oxygen mask assembly by 
+replacing the in-line flow indicator following B/E Aerospace Service 
+Bulletin 174080-35-04, Rev 000, dated September 6, 2010. As an 
+alternative to modifying the oxygen mask assembly, you may replace 
+the oxygen mask assembly with an airworthy oxygen mask assembly FAA-
+approved for installation on the aircraft.
+
+Parts Installation
+
+    (i) As of August 19, 2011 (the effective date of this AD), do 
+not install a B/E Aerospace oxygen mask having a part number listed 
+in B/E Aerospace Service Bulletin 174080-35-04, Rev 000, dated 
+September 6, 2010, with a manufacturing date on or after January 1, 
+2002, and before March 1, 2006, on any aircraft, unless it has been 
+modified following the requirements of paragraph (h) of this AD.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j)(1) The Manager, Wichita Aircraft Certification Office (ACO), 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in the Related Information 
+section of this AD.
+    (2) Before using any approved AMOC, notify your Principal 
+Maintenance Inspector or Principal Avionics Inspector, as 
+appropriate, or lacking a principal inspector, your local Flight 
+Standards District Office.
+
+Related Information
+
+    (k) For more information about this AD, contact David Fairback, 
+Aerospace Engineer, Wichita ACO, FAA, 1801 Airport Road, Room 100, 
+Wichita, Kansas 67209; telephone: (316) 946-4154; fax: (316) 946-
+4107; e-mail: [email protected].
+    (l) For service information identified in this AD, contact B/E 
+Aerospace, 10800 Pflumm Road, Lenexa, Kansas 66215; telephone: (913) 
+338-9800; fax: (913) 469-8419; Internet: http://www.beaerospace.com. 
+You may review copies of the referenced service information at the 
+FAA, Small Airplane Directorate, 901 Locust, Kansas City, Missouri 
+64106. For information on the availability of this material at the 
+FAA, call (816) 329-4148.
+
+Material Incorporated by Reference
+
+    (m) You must use B/E Aerospace Service Bulletin 174080-35-04, 
+Rev 000, dated September 6, 2010, to do the actions required by this 
+AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information under 5 U.S.C. 
+552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact B/E 
+Aerospace, 10800 Pflumm Road, Lenexa, Kansas 66215; telephone: (913) 
+338-9800; fax: (913) 469-8419; Internet: http://www.beaerospace.com.
+    (3) You may review copies of the referenced service information 
+at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, 
+Missouri 64106. For information on the availability of this material 
+at the FAA, call 816-329-4148.
+    (4) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at an NARA facility, call 202-741-6030, or go to http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+
+    Issued in Kansas City, Missouri, on July 1, 2011.
+Earl Lawrence,
+Manager, Small Airplane Directorate, Aircraft Certification Service.
+[FR Doc. 2011-17205 Filed 7-14-11; 8:45 am]
+BILLING CODE 4910-13-P

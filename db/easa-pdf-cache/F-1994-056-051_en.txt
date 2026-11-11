@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 94-056-051(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Cargo fire extinguisher bottle electrical connections This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, MSN 002 to 402 included, on which AIRBUS INDUSTRIE optional modification 20071 or AIRBUS INDUSTRIE Service Bulletin A320-26-1020 has been embodied (installation of a cargo compartment fire extinguisher bottle). In order to prevent, in case of a fire in the forward or aft cargo compartment, an incorrect distribution of the fire extinguisher agent due to a cross-connection of the electrical wires controlling discharge of the fire extinguisher bottle in the forward cargo compartment and in the aft cargo compartment, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 450 flight hours, unless already accomplished, perform the electrical continuity test of the cargo compartment fire extinguisher bottle discharge circuit in accordance with instructions of AOT AIRBUS INDUSTRIE A320/AOT 26-10 dated April 05, 1993. No further actions are required after application of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE A320/AOT 26-10. Ref. : AOT AIRBUS INDUSTRIE A320/AOT 26-10 dated April 05, 1993 EFFECTIVE DATE : MARCH 26, 1994 n/C AIRBUS INDUSTRIE March 16, 1994 94-056-051(B) A320 Aircraft

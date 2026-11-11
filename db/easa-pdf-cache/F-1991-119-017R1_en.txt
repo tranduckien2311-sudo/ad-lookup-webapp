@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 91-119-017(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Trimmable horizontal surface relay 36 CE 3 This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all models without AIRBUS INDUSTRIE Modification 21659 (embodied on production line since aircraft MSN 110) or without AIRBUS INDUSTRIE Service Bulletin A320-27-1012. Relay 36 CE 3 (energized by the SEC 2 when this computer is active on pitch mode), has been found, in one case, stuck in the energized position. This failure leads to the incapacity of SEC 2 monitoring channel to neutralize any erratic action of SEC 2 which can lead to a THS movement. In order to restore a situation compatible with the certified Airworthiness level, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive. For aircraft up to MSN 109 included, replace this relay by an STPI relay P/N D0003002100100 date code higher or equal (*) than 88/41 A at the first opportunity and : - For aircraft which have already performed 1,400 flights or more since retrofit of SEC P/N B372ABM0606/B372BAM0404, install new relay before exceeding 1,600 flights since above mentioned SEC retrofit. - For aircraft which have performed less than 1,400 flights since retrofit of SEC P/N B372ABM0606/B372BAM0404, install new relay not later than the 800th following flight without exceeding 1,600 flights since above mentioned SEC retrofit. The updating between original
+
+Airworthiness Directive and this present revision has been the subject of a telegraphic communication dated 12th June, 1991. Cf. : S.B. AIRBUS INDUSTRIE A320-27-1012 AOT AIRBUS INDUSTRIE A320/27-03 Rev. 3 dated 12 June 1991 TELEX Aero 95/DT dated 12 June 1991 EFFECTIVE DATE : UPON RECEIPT (*) The telegraphic diffusion was giving for the STPI RELAY P/N D003002100100 a date code "higher than 88/41 A". It must be read "higher or equal than 88/41 A" as it is written in the present
+
+Airworthiness Directive. y/C AIRBUS INDUSTRIE June 26, 1991 91-119-017(B) R1 A320 Aircraft

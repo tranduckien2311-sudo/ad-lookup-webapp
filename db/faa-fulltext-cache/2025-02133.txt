@@ -1,0 +1,576 @@
+[Federal Register Volume 90, Number 22 (Tuesday, February 4, 2025)]
+[Rules and Regulations]
+[Pages 8885-8889]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-02133]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0471; Project Identifier MCAI-2023-01213-T; 
+Amendment 39-22920; AD 2024-26-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-622R, 
+C4-605R Variant F, F4-605R, and F4-622R airplanes; Model A310 series 
+airplanes; Model A318, A319, A320, and A321 series airplanes; Model 
+A330-200, -200 Freighter, and -300 series airplanes; Model A330-841 and 
+-941 airplanes; and Model A340-211, -212, -213, -311, -312, -313, -541, 
+and -642 airplanes. This AD was prompted by chemical oxygen generators 
+that failed to activate in service and during maintenance activities. 
+This AD requires replacing affected oxygen generators and prohibits the 
+installation of affected parts, as specified in a European Union 
+Aviation Safety Agency (EASA) AD, which is incorporated by reference. 
+The FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective March 11, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 11, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-0471; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 
+000; email [email protected]; website easa.europa.eu. You may find 
+this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2024-0471.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 206-
+231-3225; email [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-622R, C4-620, C4-605R 
+Variant F, F4-605R and F4-622R airplanes, Model 300 F4-608ST airplanes, 
+Model A310-203, -203C, -204, -221, -222, -304, -308, -322, -324, and -
+325 airplanes, Model A318-111, -112, -121, and -122 airplanes, Model 
+A319-111, -112, -113, -114, -115, -131, -132, -133, -151N, -153N, and -
+171N airplanes, Model A320-211, -212, -214, -215, -216, -231, -232, -
+233, -251N, -252N, -253N, -271N, -272N, and -273N airplanes, Model 
+A321-111, -112, -131, -211, -212, -213, -231, -232, -251N, -252N, -
+253N, -271N, -272N, -251NX, -252NX, -253NX, -271NX, and -272NX 
+airplanes, Model A330-201, -202, -203, -223, -243, -223F, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, -743L, -841, and -941 
+airplanes, and Model A340-211, -212, -213, -311, -312, -313, -541, -
+542, -642, and -643 airplanes. Model A300 F4-608ST, A300 C4-620, A310-
+203C, A310-308, A320-215, A330-743L, A340-542, and A340-643 airplanes 
+are not certificated by the FAA and are not included on the U.S. type 
+certificate data sheet; this AD therefore does not include those 
+airplanes in the applicability. The NPRM published in the Federal 
+Register on March 22, 2024 (89 FR 20360). The NPRM was prompted by AD 
+2023-0209, dated November 22, 2023, issued by EASA, which is the 
+Technical Agent for the Member States of the European Union (EASA AD 
+2023-0209). EASA AD 2023-0209 states occurrences were reported of 
+chemical oxygen generators failing to activate in service and during 
+maintenance activities. Subsequent investigations identified poor 
+reactivity of the start powder used inside the oxygen generator. This 
+condition, if not corrected, could lead to a reduction of the available 
+oxygen capacity of the airplane, possibly resulting in injury to the 
+airplane occupants.
+    In the NPRM, the FAA proposed to require replacing affected oxygen 
+generators, as specified in EASA AD 2023-0209. The NPRM also proposed 
+to prohibit the installation of affected parts. The FAA is issuing this 
+AD to address the unsafe condition on these products.
+
+Actions Since the NPRM Was Issued
+
+    Since the FAA issued the NPRM, EASA superseded EASA AD 2023-0209
+
+[[Page 8886]]
+
+and issued EASA AD 2024-0198, dated October 18, 2024 (EASA AD 2024-
+0198) (also referred to as the MCAI), to correct an unsafe condition 
+for the airplanes identified in EASA AD 2023-0209, as well as Model 
+A321-253NY airplanes. The MCAI states that a new airplane model (A321-
+253NY) has been certified, and although affected parts could be 
+installed on Model A321-253NY airplanes in service, no Model A321-253NY 
+airplane has yet been delivered to operators. The MCAI also states that 
+for airplanes previously affected by EASA AD 2023-0209, this EASA AD 
+retains the requirements of that AD, with no additional actions.
+    The FAA has confirmed that there are no Model A321-253NY airplanes 
+on the U.S. Register, and no new actions are required by EASA AD 2024-
+0198. Therefore, the FAA has revised paragraphs (g) and (h)(1) of this 
+AD to refer to EASA AD 2024-0198.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-0471.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Delta Air Lines (Delta) and United 
+Airlines (United). The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Requests To Remove Requirement To Return Parts
+
+    Delta and United requested removal of the requirement to return 
+affected oxygen generators to Collins Aerospace, as specified in 
+paragraph (h)(3) of the proposed AD. Delta stated that oxygen 
+generators removed before the effective date of the AD will have 
+already been shipped for offsite disposal in accordance with Delta's 
+procedures,\1\ which specify that an oxygen generator removed as 
+unserviceable and not intended to be reinstalled on an airplane is 
+manually activated to allow the release of oxygen prior to shipment for 
+offsite disposal.
+---------------------------------------------------------------------------
+
+    \1\ Delta follows Federal Aviation Regulations (Reference DOT 
+HM-224B (49 CFR parts 173, 175 and 178)) and federal and local 
+hazardous waste disposal for handling and shipping requirements.
+---------------------------------------------------------------------------
+
+    Delta added that the service information referenced in EASA AD 
+2023-0209 specifies to return affected oxygen generators to Collins 
+Aerospace with the instruction ``DO NOT activate the generator (it must 
+be shipped not activated, but secured with safety pin, for the purpose 
+of the investigation).'' Delta stated that this instruction will result 
+in significant changes to current procedures that comply with DOT 
+HM224B and hazardous waste disposal requirements, and may also infringe 
+on some state-specific hazardous waste requirements.
+    United concurred with the requirements of the proposed AD, except 
+for the requirement to ship affected oxygen generators to the original 
+equipment manufacturer (OEM). United stated that transporting 
+discrepant oxygen generators increases the risk to an operator of being 
+noncompliant with HAZMAT/DG regulations.\2\ United asserted that 
+returning suspect oxygen generators would not enhance the level of 
+safety for airline operators, but would do the opposite. According to 
+United, Collins Aerospace confirmed that their testing showed that the 
+suspect failure condition has been contained to a few lots, and that 
+the return of suspect units from participating operators will further 
+validate the containment of the total population of affected units. 
+United therefore concluded that the return of affected oxygen 
+generators should be voluntary.
+---------------------------------------------------------------------------
+
+    \2\ 49 CFR 173.168.
+---------------------------------------------------------------------------
+
+    The FAA agrees to remove the requirement to return affected oxygen 
+generators to Collins Aerospace due to the risk of noncompliance with 
+HAZMAT/DG regulations. Although EASA has indicated that returning 
+affected parts will help determine the cause of the unsafe condition, 
+the FAA has determined that the data obtained from the returned parts 
+does not outweigh the risk of noncompliance with HAZMAT/DG regulations. 
+Therefore, paragraph (h)(4) of this AD has been revised to only require 
+reporting inspection results to the OEM.
+
+Request To Specify AMM Task for Oxygen Generator Replacement
+
+    Delta requested that an exception be added to specify the 
+applicable AMM task required to replace affected generators for oxygen 
+container/generator removal and installation. Paragraph (1) of EASA AD 
+2023-0209 specifies replacing affected parts in accordance with the 
+instructions of the AOT. The AOT referenced in EASA AD 2023-0209 
+requires in paragraph 5.6 that operators remove and replace the 
+affected oxygen generator in accordance with Collins Aerospace Service 
+Bulletin XXCXX-35-001, dated October 6, 2023, and AMM instructions for 
+removal/installation of the emergency oxygen generators. Because both 
+instructions are required for compliance, and because the instructions 
+do not provide the exact same instructions, Delta stated it is 
+difficult to determine which instructions to follow. Delta asserted 
+that AMM tasks for removing the affected units provide standard 
+practices to effectively replace the oxygen generator, and no 
+additional instructions from the Collins service bulletin are 
+necessary. Additionally, many operators, including Delta, have 
+supplemental type certificates (STCs) for interior modifications that 
+might involve replacing the oxygen container with an oxygen panel or 
+some other part label. These STCs will have separate instructions from 
+those called out in the AOT, but they can still contain affected oxygen 
+generators and therefore must be inspected.
+    The FAA agrees with the request, for the reasons provided by the 
+commenter. The replacement required by this AD can be done using the 
+applicable AMM task for oxygen container/generator removal and 
+installation. The FAA has added paragraph (h)(4) to this AD to specify 
+that where the service information referenced in EASA AD 2024-0198 
+specifies a method of compliance for removal and installation of the 
+oxygen container/generator in accordance with the service information 
+or aircraft maintenance manual, for this AD, either method is 
+acceptable.
+
+Request To Clarify Mandatory RC Steps
+
+    Paragraph (1) of EASA AD 2023-0209 specified replacing affected 
+parts in accordance with ``the instructions of the AOT,\3\'' but the 
+exception in paragraph (h)(2) of the proposed AD specified replacing 
+affected parts in accordance with ``paragraph 5.6 of the AOT.'' Because 
+paragraphs 5.1, 5.4, 5.5, and 5.6 of the AOT are RC (required for 
+compliance), Delta noted a potential conflict in paragraph (i)(3) of 
+the proposed AD, which stated ``if any service information referenced 
+in EASA AD 2023-0209 contains paragraphs that are labeled as RC, the 
+instructions in RC paragraphs, including subparagraphs under an RC 
+paragraph, must be done to comply with this AD.'' Delta therefore 
+requested that the proposed AD clarify whether only paragraph 5.6 of 
+the AOT would be required, or whether paragraphs 5.1, 5.4, and 5.5 are 
+would also be required.
+---------------------------------------------------------------------------
+
+    \3\ EASA AD 2023-0209 defines the AOT as Airbus All Operators 
+Transmission (AOT) A35L021-23, AOT A35N020-23, and AOT A35W022-23, 
+all dated October 10, 2023.
+---------------------------------------------------------------------------
+
+    The FAA provides the following clarification. The FAA acknowledges 
+that paragraph (i)(3) of the proposed AD should also have included an 
+exception to paragraph (h)(2) of the proposed AD
+
+[[Page 8887]]
+
+(paragraph (h)(3) in this AD). The FAA has revised paragraph (i)(3) of 
+this AD accordingly.
+
+Request for Revised/Alternative Identification Criteria
+
+    Delta requested that an exception be added to the proposed AD to 
+allow operators to identify affected units by the part number (PN) and 
+date of manufacture, instead of the part number and serial number as 
+specified in EASA AD 2023-0209. EASA AD 2023-0209 defines an affected 
+part as ``any chemical oxygen generator having part number (PN) E63320-
+00, PN E63340-00 or PN E63440-00 and a serial number (SN) BEBJF002-XXX, 
+BEBJ-F007-XXX, BEBJ-F008-XXX or BEBJ-F011-XXX (where `XXX' represents 
+any numerical sequence and is the specific number of this generator).'' 
+Delta stated that Collins Aerospace, Airbus, and EASA have verified 
+that the list of affected oxygen generator part numbers and serial 
+numbers correspond to units manufactured in 2010. Delta asserted that 
+chemical oxygen generators are life limited by the FAA and therefore 
+tracked based on the date of manufacture. Therefore, Delta requested 
+using the conservative criterion of the date of manufacturer to 
+identify affected oxygen generators.
+    The FAA disagrees with the request. The FAA has found no clear 
+correlation between the date of manufacture and the OEM's serial 
+number. Therefore, to ensure that all affected units are correctly 
+identified, operators must use serial numbers, as specified in EASA AD 
+2024-0198.
+
+Request To Clarify Serviceable Parts
+
+    Delta requested that an additional exception be added to the 
+proposed AD to further clarify parts eligible for installation, using 
+the EASA AD definition of serviceable part: ``any oxygen generator, 
+eligible for installation, which is not an affected part.'' Delta 
+noted, however, that paragraph 5.6 of the AOT requires that an affected 
+generator be replaced by an unaffected oxygen generator ``with the same 
+PN,'' with no requirement that it should not be an affected part and 
+restricting it to the same part number.
+    The FAA agrees with the request. The FAA has revised paragraph 
+(h)(3) of this AD to specify to replace each affected part with an 
+oxygen generator, eligible for installation, which is not an affected 
+part.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, and any other changes described previously, this AD is adopted 
+as proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2024-0198 specifies procedures for replacing affected 
+oxygen generators, which includes reporting and returning affected 
+parts to the manufacturer. EASA AD 2024-0198 also prohibits the 
+installation of affected parts. This material is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in ADDRESSES.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,975 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                              Cost per          Cost on U.S.
+              Action                      Labor cost         Parts cost        product           operators
+----------------------------------------------------------------------------------------------------------------
+Replacement.......................  1 work-hour x $85 per            $500            $585  $585 per oxygen
+                                     hour = $85.                                            generator.*
+Reporting.........................  1 work-hour x $85 per               0              85  $167,875.
+                                     hour = $85.
+----------------------------------------------------------------------------------------------------------------
+* Based upon various airplane sizes and configurations there could, on average, be 30 affected generators per
+  airplane.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+
+[[Page 8888]]
+
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-26-05 Airbus SAS: Amendment 39-22920; Docket No. FAA-2024-0471; 
+Project Identifier MCAI-2023-01213-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 11, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes, certificated in any 
+category, identified in paragraphs (c)(1) through (8) of this AD.
+    (1) Model A300 B4-601, B4-603, B4-620, B4-622, B4-605R, B4-622R, 
+C4-605R Variant F, F4-605R, and F4-622R airplanes.
+    (2) Model A310-203, -204, -221, -222, -304, -322, -324, and -325 
+airplanes.
+    (3) Model A318-111, -112, -121, and -122 airplanes.
+    (4) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, -153N, and -171N airplanes.
+    (5) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, -
+252N, -253N, -271N, -272N, and -273N airplanes.
+    (6) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -252N, -253N, -271N, -272N, -251NX, -252NX, -253NX, -271NX, -
+272NX, and A321-253NY airplanes.
+    (7) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, -841, and -941 
+airplanes.
+    (8) Model A340-211, -212, -213, 311, -312, -313, -541, and -642 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reported occurrences of chemical oxygen 
+generators failing to activate in service and during maintenance 
+activities. The FAA is issuing this AD to address poor reactivity of 
+the start powder used inside the affected oxygen generators. The 
+unsafe condition, if not addressed, could lead to a reduction of the 
+available oxygen capacity of the airplane and could result in injury 
+to airplane occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2024-0198, dated October 18, 2024 (EASA AD 2024-0198).
+
+(h) Exceptions to EASA AD 2024-0198
+
+    (1) Where EASA AD 2024-0198 refers to December 6, 2023 (the 
+effective date of EASA AD 2023-0209, dated November 22, 2023), this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2024-0198 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (3) Where paragraph (1) of EASA AD 2024-0198 specifies to 
+``replace each affected part with a serviceable part in accordance 
+with the instructions of the AOT,'' this AD requires replacing that 
+text with ``replace each affected part with an oxygen generator, 
+eligible for installation, which is not an affected part, in 
+accordance with paragraph 5.6 of the AOT.''
+    (4) Where the service information referenced in EASA AD 2024-
+0198 specifies a method of compliance for removal and installation 
+of the oxygen container/generator in accordance with the service 
+information or aircraft maintenance manual, for this AD, either 
+method is acceptable.
+    (5) The service information referenced in EASA AD 2024-0198 
+specifies to report inspection results to Airbus and return affected 
+oxygen generators to Collins Aerospace. For this AD, reporting 
+inspection results is required at the applicable time specified in 
+paragraph (h)(5)(i) or (ii) of this AD, but returning affected 
+oxygen generators to Collins Aerospace is not required by this AD.
+    (i) If the affected oxygen generator was replaced on or after 
+the effective date of this AD: Submit the report within 40 days 
+after the replacement.
+    (ii) If the affected oxygen generator was replaced before the 
+effective date of this AD: Submit the report within 40 days after 
+the effective date of this AD.
+    (6) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0198.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, mail it to the address 
+identified in paragraph (j) of this AD. Information may be emailed 
+to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (h)(3), (h)(4), and (i)(2) of this AD, if any service 
+information referenced in EASA AD 2024-0198 contains paragraphs that 
+are labeled as RC, the instructions in RC paragraphs, including 
+subparagraphs under an RC paragraph, must be done to comply with 
+this AD; any paragraphs, including subparagraphs under those 
+paragraphs, that are not identified as RC are recommended. The 
+instructions in paragraphs, including subparagraphs under those 
+paragraphs, not identified as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the 
+instructions identified as RC can be done and the airplane can be 
+put back in an airworthy condition. Any substitutions or changes to 
+instructions identified as RC require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Dan Rodina, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 206-231-3225; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0198, 
+dated October 18, 2024.
+    (ii) [Reserved]
+    (3) For EASA AD material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected];
+
+[[Page 8889]]
+
+website easa.europa.eu. You may find this EASA AD on the EASA 
+website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations, or email [email protected].
+
+    Issued on December 19, 2024.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02133 Filed 2-3-25; 8:45 am]
+BILLING CODE 4910-13-P

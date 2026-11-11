@@ -1,0 +1,44 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2026-0172-E Emergency
+
+Airworthiness Directive
+
+AD No.: 2026-0172-E
+
+Issued: 04 September 2026 Note: This Emergency
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): D ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines E
+
+Effective Date: 08 September 2026 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable D
+
+Supersedure: None E
+
+ATA 79 – Engine Oil – Oil Pump – De-Pairing S
+
+Manufacturer(s): Rolls-Royce plc R
+
+Applicability: E RB211 Trent 768-60, 772-60, 772B-60 and Trent 772C-60 engines, all serial numbers (s/n). These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes. P
+
+Definitions: For the purpose of this AD, the following definitions apply: U The NMSB: Rolls-Royce Alert Non-Modification Service Bulletin (NMSB) RB211−79−AL440. S The NMSB has an ‘A’ (Alert) in the number, but an earlier or later revision may not have that ‘A’. This kind of change does not effectively alter the publication references. Serviceable part: Oil pump having Part Number (P/N) LR47390D, LR37940P, LR37940DD, LR47390B or P/N LR37940N identified as “not affected parts” in section 1.D of NMSB. Page 1 of 3 TE.CAP.00111-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2026-0172-E Affected part: Oil pump having P/N LR47390D, LR37940P, LR37940DD, LR47390B or P/N LR37940N which are not serviceable parts. Affected engine: An engine that has an affected part installed.
+
+Reason: Occurrences of non-conformances were reported, leading to low-oil-pressure events on low life oil pumps. Subsequent investigation identified a potential failure mode affecting the oil pump input-coupling shear neck. This condition, if not corrected, could lead to a dual in-flight shutdown on aeroplanes equipped with two affected engines, resulting in reduced control of the aeroplane. To address this potential unsafe condition, Rolls-Royce issued the NMSB providing instructions for de-pairing of engines on twin-engine aeroplanes, ensuring that no affected parts are installed on D both engines. E For the reasons described above, this AD requires de-pairing of the engines and ensures that only one affected part is installed on twin-engine aeroplanes. This AD is considered to be an interim action, and further AD action may follow. D
+
+Required Action(s) and Compliance Time(s): E Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: S De-pairing of engines: (1) From the effective date of this AD do not operate an aeroplane having two affected engines installed. R Additional Requirements(s): E (2) Replacement of an affected part with a serviceable part on an engine is an acceptable method to comply with the de-pairing instructions of the paragraph (1) of this AD. P (3) From the effective date of this AD, it is allowed to reinstall an affected part removed from an affected engine as specified in paragraph (2) of this AD, provided it has been rectified in section 3.B of the NMSB before reinstallation. U (4) Replacement of one of the affected engines with a non-affected engine is an acceptable method to comply with the de-pairing instructions of requirement of paragraph (1) of this AD. S (5) From the effective date of this AD, it is allowed to reinstall an engine removed as specified in paragraph (4) of this AD, provided that the affected part has been replaced with a serviceable part in accordance with approved maintenance instructions.
+
+Ref. Publications: Rolls-Royce Alert NMSB RB211−79−AL440 original issue dated 04 September 2026. Page 2 of 3 TE.CAP.00111-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2026-0172-E The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The results of the safety assessment have indicated the need for immediate publication and notification, without the full consultation process. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on D a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than E those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. D 5. For any question concerning the technical content of the requirements in this AD, please E contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. If you do not have a designated representative or Rolls-Royce Care account, please contact S Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424, R or send an email through http://www.rolls-royce.com/contact/civil_team.jsp identifying the correspondence as being related to
+
+Airworthiness Directives. E P U S Page 3 of 3 TE.CAP.00111-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

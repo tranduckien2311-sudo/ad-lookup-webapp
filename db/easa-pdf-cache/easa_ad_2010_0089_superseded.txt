@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2010-0089 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2010-0089 Date: 10 May 2010 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by D the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : E AIRBUS A330 and A340 aeroplanes TCDS Number : EASA.A.004, EASA.A.015 D Foreign AD : Not applicable Supersedure : None E Indicating & Recording Systems – Flight Warning Computer
+
+ATA 31 (FWC) – Software Installation S
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) R
+
+Applicability: Airbus A330 aeroplanes, models -201, -202, -203, -223, -243, -301, -302, - 303, -321, -322, -323, -341, -342 and -343, all manufacturer serial numbers except those on which Airbus modification 51790 has been embodied in production or Airbus Service Bulletin (SB) A330-31-3066 or E SB A330-31-3082 or SB A330-31-3093 or SB A330-31-3105 has been embodied in Service. Airbus A340 aeroplanes, models -211, -212, -213, -311, -312, -313, all P manufacturer serial numbers.
+
+Reason: Further to the accident which occurred to a Boeing 747-131 (flight TWA800), the FAA published SFAR 88 (Special Federal Aviation Regulation 88). U By mail referenced 04/00/02/07/01-L296 of March 4th, 2002 and 04/00/02/07/03-L024 of February 3rd, 2003 the JAA recommended to the National Aviation Authorities (NAA) the application of a similar regulation. S The aim of this regulation is to require all holders of type certificates for transport aircraft certified after 01 January 1958 with a capacity of 30 passengers or more, or a payload of 3 402 kg or more, to carry out a definition review against explosion hazards. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2010-0089 To be compliant with SFAR88/JAA INT/POL 25/12 requirements, this AD requires the installation of the updated FWC software standard which ensures correct operation of the APU bleed leak detection system before each flight.
+
+Effective Date: 24 May 2010 Required action(s) Required as indicated, unless already accomplished: and Compliance (1) No later than 6 months after the effective date of this AD install on Time(s): both FWC: - the FWC software standard T3 (part number (P/N) LA2E20202T30000) in accordance with the instructions defined in Airbus SB A330-31-3146, or D - the FWC software standard L11 (P/N LA2E0060D110000) in accordance with the instructions defined in Airbus SB A340-31-4125, as applicable to the aeroplane model. E (2) Compliance with the requirements of paragraph (1) of this AD requires the prior or concurrent accomplishment of the instructions contained in the concurrent requirements section of SB A330-31-3146 or SB D A340-31-4125, as applicable to the aeroplane model.
+
+Ref. Publications: Airbus Service Bulletin A330-31-3146 at Original issue, Airbus Service Bulletin A340-31-4125 at Original issue. E The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve S Alternative Methods of Compliance for this AD. 2. This AD was posted on 23 February 2010 as PAD 10-020 for consultation until 23 March 2010. The Comment Response Document . can be found at http://ad.easa.europa.eu/ R 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification . Directorate, EASA. E-mail: ADs@easa.europa.eu E 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS SAS – Airworthiness Office - EAL. Fax: +33 5 61 93 45 80. . E-mail: airworthiness.A330-A340@airbus.com P U S EASA Form 110 Page 2/2

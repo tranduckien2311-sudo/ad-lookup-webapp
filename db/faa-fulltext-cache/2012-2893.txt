@@ -1,0 +1,297 @@
+[Federal Register Volume 77, Number 27 (Thursday, February 9, 2012)]
+[Rules and Regulations]
+[Pages 6666-6667]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2012-2893]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0946; Directorate Identifier 2011-NE-02-AD; 
+Amendment 39-16926; AD 2012-02-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International, S.A. Turbofan 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+CFM International, S.A. model CFM56-5B series turbofan engines. This AD 
+was prompted by a normal quality sampling at CFM International, S.A. 
+that isolated a production batch of fan blades with nonconforming 
+geometry of mid-span shroud tips of the fan blades. This AD requires 
+removing from service certain serial number (S/N) fan blades. We are 
+issuing this AD to prevent an inflight shutdown (IFSD) of one or more 
+engines following foreign object damage (FOD) or a bird strike.
+
+DATES: This AD is effective March 15, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in the AD as of March 15, 
+2012.
+
+ADDRESSES: For service information identified in this AD, contact CFM 
+International, Inc., Aviation Operations Center, 1 Neumann Way, M/D 
+Room 285, Cincinnati, OH 45125; International Phone: 1-(513) 552-3272; 
+USA Phone: (877) 432-3272; International Fax: 1-(513) 552-3329; USA 
+Fax: (877) 432-3329; email: [email protected]; or CFM International S.A., 
+Customer Support Center, International Phone: 33 1 64 14 88 66; Fax: 33 
+1 64 79 85 55; email: [email protected]. You may review copies of 
+the referenced service information at the FAA, Engine & Propeller 
+Directorate, 12 New England Executive Park, Burlington, MA. For 
+information on the availability of this material at the FAA, call (781) 
+238-7125.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: (800) 647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Martin Adler, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: (781) 238-
+7157; fax: (781) 238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM published in the Federal Register on October 18, 2011 (76 FR 
+64293). That NPRM proposed to require removing from service within 
+5,000 flight hours (FHs) after the effective date of the AD, any fan 
+blade, P/N 338-002-114-0, that has an S/N listed in CFM International 
+Service Bulletin (SB) No. CFM56-5B S/B 72-0777, Revision 1, dated April 
+11, 2011. After the effective date of the AD, it would also prohibit 
+installing any fan blade, P/N 338-002-114-0, that has an S/N listed in 
+Appendix A of CFM International SB No. CFM56-5B S/B 72-0777, Revision 
+1, dated April 11, 2011.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment.
+
+Request to Reword the Unsafe Condition Statement
+
+    One commenter, CFM International, S.A., requested that we reword 
+the unsafe condition statement ``This defect would cause the upper 
+panel of the fan blade to be liberated following FOD or a bird strike 
+and likely result in an in-flight shutdown (IFSD)'' to ``This non-
+conforming condition could increase the potential for damage during a 
+foreign object impact. This secondary damage could include liberation 
+of the upper panel of the blade, which increases the potential for in-
+flight shutdown.'' The commenter stated that the outcome of FOD or bird 
+strike event will not necessarily result in an outer panel release, 
+therefore it is suggested that the sentence be replaced to more 
+accurately reflect the possible outcome.
+    We agree. The unsafe condition increases the likelihood of 
+separation after an event, but will not result in separation in every 
+case. We changed paragraph (d) of the AD, which is the only place in 
+the final rule that this information appears, to state that this defect 
+could cause the upper panel of the fan blade to be liberated following 
+FOD or a bird strike and likely result in an IFSD.
+
+Request for Terminating Action
+
+    One commenter, American Airlines, requested that we establish a 
+terminating action that would specify a point at which the AD would be 
+considered closed. This would allow the airline to limit the time that 
+it must verify compliance with the AD and reduce operating costs.
+    We do not agree. The AD as written clearly limits the fan blade 
+serial numbers affected. The affected blades must never be installed in 
+operating engines. We have no mechanism to assure that the affected fan 
+blades have been completely purged from all inventories and so we can 
+not stipulate when the AD is no longer applicable. We did not change 
+the AD.
+
+[[Page 6667]]
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 16 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 6 
+work-hours per engine to perform the required actions and that the 
+average labor rate is $85 per work-hour. Required parts will cost about 
+$47,830 per engine. Based on these figures, we estimate the total cost 
+of this AD to U.S. operators to be $773,440.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-02-03 CFM International, S.A.: Amendment 39-16926; Docket No. 
+FAA-2011-0946; Directorate Identifier 2011-NE-02-AD.
+
+(a) Effective Date
+
+    This AD is effective March 15, 2012.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to CFM International, S.A. CFM56-5B1/3, CFM56-
+5B2/3, CFM56-5B3/3, CFM56-5B4/3, CFM56-5B5/3, CFM56-5B6/3, CFM56-
+5B7/3, CFM56-5B8/3, CFM56-5B9/3, CFM56-5B3/3B1, and CFM56-5B4/3B1 
+engines equipped with fan blades part number (P/N) 338-002-114-0 
+that have a serial number (S/N) listed in Appendix A of CFM 
+International Service Bulletin (SB) No. CFM56-5B S/B 72-0777, 
+Revision 1, dated April 11, 2011.
+
+(d) Unsafe Condition
+
+    This AD was prompted by a normal quality sampling at CFM 
+International. S.A. that isolated a production batch of fan blades 
+with nonconforming geometry of mid-span shroud tips of the fan 
+blades. This defect could cause the upper panel of the fan blade to 
+be liberated following foreign object damage (FOD) or a bird strike, 
+and likely result in an inflight shutdown (IFSD). We are issuing 
+this AD to prevent an IFSD of one or more engines following FOD or a 
+bird strike.
+
+(e) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(f) Remove Fan Blades From Service
+
+    For engines that have fan blades, P/N 338-002-114-0, with S/Ns 
+listed in Appendix A of CFM International SB No. CFM56-5B S/B 72-
+0777, Revision 1, dated April 11, 2011, remove the fan blades from 
+service within 5,000 flight hours after the effective date of this 
+AD.
+
+(g) Installation Prohibition
+
+    After the effective date of this AD, do not install any fan 
+blade, P/N 338-002-114-0, that has a S/N listed in Appendix A of CFM 
+International SB No. CFM56-5B S/B 72-0777, Revision 1, dated April 
+11, 2011, onto any engine.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, may approve AMOCs for 
+this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request.
+
+(i) Related Information
+
+    For more information about this AD, contact Martin Adler, 
+Aerospace Engineer, Engine Certification Office, FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, MA 
+01803; phone: (781) 238-7157; fax: (781) 238-7199; email: 
+[email protected].
+
+(j) Material Incorporated by Reference
+
+    (1) You must use the following service information to identify 
+the fan blade S/Ns affected by this AD. The Director of the Federal 
+Register approved the incorporation by reference (IBR) under 5 
+U.S.C. 552(a) and 1 CFR part 51 of the following service 
+information.
+    (2) CFM International Service Bulletin No. CFM56-5B S/B 72-0777, 
+Revision 1, dated April 11, 2011.
+    (3) For service information identified in this AD, contact CFM 
+International, Inc., Aviation Operations Center, 1 Neumann Way, M/D 
+Room 285, Cincinnati, OH 45125; International Phone: 1-(513) 552-
+3272; USA Phone: (877) 432-3272; International Fax: 1-(513) 552-
+3329; USA Fax: (877) 432-3329; email: [email protected]; or CFM 
+International SA, Customer Support Center, International Phone: 33 1 
+64 14 88 66; Fax: 33 1 64 79 85 55; e-mail: [email protected].
+    (4) You may review copies of the referenced service information 
+at the FAA, Engine & Propeller Directorate, 12 New England Executive 
+Park, Burlington, MA 01803. For information on the availability of 
+this material at the FAA, call 781-238-7125.
+    (5) You may also review copies of the service information that 
+is incorporated by reference at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on January 19, 2012.
+Peter A. White,
+Manager, Engine & Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-2893 Filed 2-8-12; 8:45 am]
+BILLING CODE 4910-13-P

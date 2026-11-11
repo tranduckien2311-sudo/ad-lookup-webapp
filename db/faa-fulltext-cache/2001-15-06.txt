@@ -1,0 +1,249 @@
+[Federal Register Volume 66, Number 141 (Monday, July 23, 2001)]
+[Rules and Regulations]
+[Pages 38145-38146]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 01-18257]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-415-AD; Amendment 39-12340; AD 2001-15-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A319, A320, and A321 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment supersedes an existing airworthiness directive 
+(AD), applicable to certain Airbus Model A319, A320, and A321 series 
+airplanes, that currently requires modification of the forward and aft 
+evacuation slide systems by replacing the Velcro restraints for the 
+support logs with frangible link restraints. This amendment reduces the 
+time to accomplish the modification from 3 years to 9 months. This 
+amendment is prompted by issuance of mandatory continuing airworthiness 
+information by a foreign civil airworthiness authority. The actions 
+specified by this AD are intended to prevent the ingestion of sill 
+support-log material into the aspirator of the evacuation slide, which 
+could result in failure of the slide to inflate.
+
+DATES: Effective August 27, 2001.
+    The incorporation by reference of Airbus Service bulletin A320-25-
+1215, dated April 29, 1999, as listed in the regulations was approved 
+previously by the Director of the Federal Register as of March 30, 2000 
+(65 FR 9212, February 24, 2000).
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or the Office of the 
+Federal Register, 800 North Capitol Street, NW., suite 700, Washington, 
+DC.
+
+FOR FURTHER INFORMATION CONTACT: Tim Dulin, Aerospace Engineer, ANM-
+116, FAA, International Branch, FAA, 1601 Lind Avenue, SW., Renton, 
+Washington 98055-4056; telephone (425) 227-2141; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) by superseding AD 2000-04-06, 
+amendment 39-11588 (65 FR 9212, February 24, 2000), which is applicable 
+to certain Airbus Model A319, A320, and A321 series airplanes, was 
+published in the Federal Register on April 30, 2001 (66 FR 21291). The 
+action proposed to continue to require modification of the forward and 
+aft evacuation slide systems by replacing the Velcro restraints for the 
+support logs with frangible link restraints. The action also proposed 
+to reduce the time to accomplish the modification from 3 years to 9 
+months.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. No comments were submitted in response 
+to the proposal or the FAA's determination of the cost to the public.
+
+Conclusion
+
+    The FAA has determined that air safety and the public interest 
+require the adoption of the rule as proposed.
+
+Cost Impact
+
+    There are approximately 202 Model A319, A320, and A321 series 
+airplanes of U.S. registry that will be affected by this AD.
+    The modification that is currently required by AD 2000-04-06 and 
+retained in this AD was previously reported to take approximately 1 
+work hour per airplane to accomplish. That modification, however, is 
+now estimated to take approximately 5 work hours per airplane to 
+accomplish. The average labor rate is $60 per work hour. There is no 
+charge for required parts. Based on these figures, the cost impact of 
+the AD on U.S. operators is estimated to be $60,600, or $300 per 
+airplane.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+[[Page 38146]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by removing amendment 39-11588 (65 FR 
+9212, February 4, 2000), and by adding a new airworthiness directive 
+(AD), amendment 39-12340, to read as follows:
+
+2001-15-06  Airbus Industrie: Amendment 39-12340. Docket 2000-NM-
+415-AD. Supersedes AD 2000-04-06, Amendment 39-11588.
+
+    Applicability: Model A319, A320, and A321 series airplanes; 
+certificated in any category; equipped with any emergency evacuation 
+slide having a part number (P/N) listed as:
+
+D31516-103
+D31516-105
+D31516-107
+D31516-109
+D31517-103
+D31517-105
+D31517-107
+D31517-109
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent the ingestion of sill support-log material into the 
+aspirator of the escape slide which could result in failure of the 
+escape slide to inflate, accomplish the following:
+
+Modification
+
+    (a) Within 9 months after the effective date of this AD, modify 
+the forward and aft emergency evacuation slides by replacing the 
+Velcro restraints for the support logs with frangible link 
+restraints, in accordance with Airbus Service Bulletin A320-25-1215, 
+dated April 29, 1999.
+
+    Note 2: Airbus Service Bulletin A320-25-1215 refers to Air 
+Cruisers Service Bulletin 004-25-51, dated February 26, 1999, as an 
+additional source of service information for accomplishment of the 
+modification.
+
+Spares
+
+    (b) As of the effective date of this AD, no person shall install 
+on any airplane an emergency evacuation slide having P/N D31516-103, 
+D31516-105, D31516-107, D31516-109, D31517-103, D31517-105, D31517-
+107, or D31517-109.
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, International Branch, ANM-116, FAA, 
+Transport Airplane Directorate. Operators shall submit their 
+requests through an appropriate FAA Principal Maintenance Inspector, 
+who may add comments and then send it to the Manager, International 
+Branch, ANM-116.
+
+    Note 3: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the International Branch, ANM-116.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (e) The modification shall be done in accordance with Airbus 
+Service Bulletin A320-25-1215, dated April 29, 1999. The 
+incorporation by reference of that document was previously approved 
+by the Director of the Federal Register as of March 30, 2000 (65 FR 
+9212, February 24, 2000). Copies may be obtained from Airbus 
+Industrie, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France. Copies may be inspected at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+    Note 4: The subject of this AD is addressed in French 
+airworthiness directive 2000-359-152(B) R1, dated December 29, 2000.
+
+Effective Date
+
+    (f) This amendment becomes effective on August 27, 2001.
+
+    Issued in Renton, Washington, on July 16, 2001.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-18257 Filed 7-20-01; 8:45 am]
+BILLING CODE 4910-13-P

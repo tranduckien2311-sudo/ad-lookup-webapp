@@ -1,0 +1,494 @@
+[Federal Register Volume 78, Number 231 (Monday, December 2, 2013)]
+[Rules and Regulations]
+[Pages 71992-71996]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-28192]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0698; Directorate Identifier 2012-NM-136-AD; 
+Amendment 39-17682; AD 2013-24-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) 2006-06-14 for 
+certain Airbus Model A318-100 and A319-100 series airplanes, A320-111 
+airplanes, A320-200 series airplanes, and A321-100 and A321-200 series 
+airplanes. AD 2006-06-14 required operators to review the airplane's 
+maintenance records to determine the part numbers of the magnetic fuel 
+level indicators (MFLIs) of the wing fuel tanks, and perform related 
+investigative and corrective actions if necessary. This new AD also 
+requires an inspection (improved method) to determine the part numbers 
+of the MFLIs, and, if necessary, replacement of the MFLI or repair. 
+This AD was prompted by information that the related investigative 
+actions of AD 2006-06-14 are not fully effective and that an affected 
+MFLI could still be installed on airplanes on which the
+
+[[Page 71993]]
+
+related investigative actions were accomplished. We are issuing this AD 
+to prevent an ignition source in the wing fuel tank in the event of a 
+lightning strike, which could result in a fire or explosion.
+
+DATES: This AD becomes effective January 6, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 6, 
+2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of May 1, 
+2006 (71 FR 15023, March 27, 2006).
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-0698; or in person at the 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-1405; 
+fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to the specified products. The 
+NPRM published in the Federal Register on August 20, 2013 (78 FR 
+51117), and proposed to supersede AD 2006-06-14, Amendment 39-14523 (71 
+FR 15023, March 27, 2006). The NPRM proposed to correct an unsafe 
+condition for the specified products.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2012-0119, dated July 4, 2012 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+    In 2005, several in-service occurrences were reported of finding 
+wear and/or detachment of the top stop of magnetic fuel level 
+indicators (MFLI), either observed during tank maintenance 
+activities, or on MFLI returned to the MFLI manufacturer. The 
+investigation results indicated that the wear of the top stop 
+retaining `S' shaped wire had been caused by repetitive impact with 
+the float, resulting in complete detachment of the top stop.
+    This condition, if not detected and corrected, could lead an 
+MFLI top stop to come into contact with a probe, which could, in the 
+event of a lightning strike, create an ignition source in the fuel 
+tank vapour space, possibly resulting in a fuel tank explosion and 
+consequent loss of the aeroplane.
+    DGAC France issued AD F-2005-108 (EASA approval 2005-6026) 
+[http://ad.easa.europa.eu/ad/F-2005-108] [corresponding FAA AD 2006-
+06-14] to require identification (by inspection) and replacement of 
+the affected metallic MFLI (3508802-xx series with the `S' shaped 
+retaining wire) with a metallic MFLI with the top stop retained by a 
+`trapped wire', or with a composite MFLI.
+    Since that [French] AD was issued, it has been identified that 
+the inspection procedure (visual check) detailed in Airbus Service 
+Bulletin (SB) A320-28-1138 was not fully effective, and that 
+affected MFLI could still be fitted on aeroplanes which have passed 
+the inspection in accordance with the instructions of this SB.
+    For the reasons described above, this [EASA] AD, which 
+supersedes DGAC France AD F-2005-108, requires a one-time inspection 
+(improved method) to identify the type of MFLI installed and, 
+depending on findings, replacement or repair, as applicable. This 
+[EASA] AD also prohibits the installation of the affected MFLI on 
+any aeroplane as replacement parts.
+
+    The repair may also include locating and removing any missing top 
+stop, and inspecting for any damage caused to the fuel tank by a 
+missing top stop. You may examine the MCAI in the AD docket on the 
+Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-
+0698-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (78 FR 51117, August 20, 
+2013) or on the determination of the cost to the public.
+
+Change to ``Applicability,'' Paragraph (c) of This Final Rule
+
+    We have removed Airbus Model A320-215 and A320-216 airplanes from 
+paragraph (c) of this final rule. These airplane models are not listed 
+on a U.S. type certificate data sheet (TCDS). If those airplane models 
+are later certificated in the U.S. and listed on a U.S. TCDS, we may 
+consider further action then.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (78 FR 51117, August 20, 2013) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 51117, August 20, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD affects 755 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                    Labor cost            Parts cost      Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Part numbers review [retained    Between 1 and 8 work-   None.............  Between $85 and    Between $64,175
+ actions from AD 2006-06-14,      hours x $85 per hour                       $680.              and $513,400
+ Amendment 39[dash]14523 (71 FR   = Between $85 and
+ 15023, March 27, 2006)].         $680.
+
+[[Page 71994]]
+
+ 
+Inspection for part numbers      21 work-hours x $85     $0...............  $1,785...........  $1,347,675.
+ [new action].                    per hour = $1,785.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacement or 
+repair that would be required based on the results of the inspection. 
+We have no way of determining the number of aircraft that might need 
+the replacement or repair:
+
+                                               On-condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                       Cost per
+                    Action                                    Labor cost                 Parts cost    product
+----------------------------------------------------------------------------------------------------------------
+Replacement or repair.........................  4 work-hours x $85 per hour = $340....           $0         $340
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-0698-0002; or in 
+person at the Docket Operations office between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2006-06-14, Amendment 39-14523 (71 FR 15023, March 27, 2006), and 
+adding the following new AD:
+
+2013-24-08 Airbus: Amendment 39-17682. Docket No. FAA-2013-0698; 
+Directorate Identifier 2012-NM-136-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective January 6, 
+2014.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2006-06-14, Amendment 39-14523 (71 FR 
+15023, March 27, 2006).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A318-111, A318-112, A318-121, 
+A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-
+131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, 
+A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-
+211, A321-212, A321-213, A321-231, and A321-232 airplanes; 
+certificated in any category; all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28: Fuel.
+
+(e) Reason
+
+    This AD was prompted by a report of several in-service incidents 
+of wear and detachment of the top-stops from magnetic fuel level 
+indicators (MFLI) in a wing fuel tank. We are issuing this AD to 
+prevent an ignition source in the wing fuel tank in the event of a 
+lighting strike, which could result in a fire or explosion.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Retained Review of Airplane Maintenance Records/Investigative and 
+Corrective Actions
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+2006-06-14, Amendment 39-14523 (71 FR 15023, March 27, 2006). For 
+Model A318-111 and -112 airplanes; Model
+
+[[Page 71995]]
+
+A319-111, -112, -113, -114, -115, -131, -132, and -133 airplanes; 
+A320-111 airplanes; Model A320-211, -212, -214, -231, -232, and -233 
+airplanes; Model A321-111, -112, and -131 airplanes; and Model A321-
+211, -212, -213, -231, and -232 airplanes; on which Airbus 
+Modification 27496 has not been installed in production: Within 65 
+months or 6,500 flight hours after May 1, 2006 (the effective date 
+of AD 2006-06-14), whichever is first, review the airplane's 
+maintenance records to determine the part number (P/N) of each MFLI 
+of the wing fuel tanks in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-28-1138, dated March 
+18, 2005. If the P/N cannot be identified, or the P/N is identified 
+in the ``old P/N'' column of the table in paragraph 1.L., 
+``Interchangeability/Mixability,'' of Airbus Service Bulletin A320-
+28-1138, dated March 18, 2005, before further flight, do the 
+applicable related investigative and corrective actions by 
+accomplishing all of the actions in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-28-1138, 
+dated March 18, 2005.
+
+(h) Retained Parts Installation Prohibition
+
+    This paragraph restates the requirements paragraph (g) of AD 
+2006-06-14, Amendment 39-14523 (71 FR 15023, March 27, 2006). For 
+Model A318-111 and -112 airplanes; Model A319-111, -112, -113, -114, 
+-115, -131, -132, and -133 airplanes; A320-111 airplanes; Model 
+A320-211, -212, -214, -231, -232, and -233 airplanes; Model A321-
+111, -112, and -131 airplanes; and Model A321-211, -212, -213, -231, 
+and -232 airplanes; on which Airbus Modification 27496 has not been 
+installed in production: As of May 1, 2006 (the effective date of AD 
+2006-06-14), no person may install on any airplane any MFLI of the 
+wing fuel tanks with a P/N identified in the ``old P/N'' column of 
+the table in paragraph 1.L., ``Interchangeability/Mixability,'' of 
+Airbus Service Bulletin A320-28-1138, dated March 18, 2005.
+
+(i) New Requirement of This AD: Inspection
+
+    For all airplanes, except as provided by paragraph (k) of this 
+AD: At the next scheduled fuel tank entry after the effective date 
+of this AD, or within 49,000 flight hours after May 1, 2006 (the 
+effective date of AD 2006-06-14, Amendment 39-14523 (71 FR 15023, 
+March 27, 2006)), whichever occurs first, perform a special detailed 
+inspection of the wing tank to determine which type of magnetic fuel 
+level indicators (MFLI) are installed, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-28-1209, 
+dated December 12, 2011. A review of airplane maintenance records is 
+acceptable in lieu of this inspection, if the part number and the 
+type of the installed MFLI can be conclusively determined from that 
+review. Paragraphs (i)(1) through (i)(11) of this AD identify the 
+affected MLFI part numbers.
+    (1) 3508802-24.
+    (2) 3508802-25.
+    (3) 3508802-26.
+    (4) 3508802-27.
+    (5) 3508802-28.
+    (6) 3508802-34.
+    (7) 3508802-39.
+    (8) 3508802-74.
+    (9) 3508802-75.
+    (10) 3508802-76.
+    (11) 3508802-91.
+
+    Note 1 to paragraph (i) of this AD:  The affected MFLI have the 
+`S'-shaped lock-wire design.
+
+(j) New Requirement of This AD: Replacement or Repair
+
+    If, during the inspection required by paragraph (i) of this AD, 
+a MFLI with the `S' shaped lock-wire design (Part Number (P/N) 
+listed in paragraphs (i)(1) through (i)(11) of this AD) is found, 
+then at the next scheduled fuel tank entry after the effective date 
+of this AD, or within 49,000 flight hours after May 1, 2006 (the 
+effective date of AD 2006-06-14, Amendment 39-14523 (71 FR 15023, 
+March 27, 2006)), whichever occurs first, replace the affected MFLI 
+with a serviceable part and accomplish the corrective actions 
+(repair), as applicable, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-28-1209, dated December 
+12, 2011. For the purpose of this AD, a serviceable part is a 
+composite MFLI, or a metallic MFLI with the top stop retained by a 
+`trapped wire,' as applicable to the location identified in Table 1 
+of paragraph (j) of this AD.
+
+  Table 1 of Paragraph (j) of This AD--Metallic MFLI With the Top Stop
+    Retained by a `Trapped Wire,' Including Applicable Location (FIN)
+------------------------------------------------------------------------
+                 MFLI P/N                     Applicable Location (FIN)
+------------------------------------------------------------------------
+3508802-35................................  56/57QM
+3508802-36................................  58/59QM
+3508802-37................................  60/61QM
+3508802-38................................  62/63QM
+------------------------------------------------------------------------
+
+(k) New Requirement of This AD: Exception for Paragraph (i) of This AD
+
+    Airplanes on which Airbus Modification (mod) 27496 has been 
+embodied in production, and on which no wing tank MFLI replacement 
+with a part number listed in paragraphs (i)(1) through (i)(11) of 
+this AD has been made since first flight, are not affected by the 
+requirement of paragraph (i) of this AD.
+
+(l) New Requirement of This AD: Parts Installation Prohibition
+
+    As of the effective date of this AD, do not install on any 
+airplane a MFLI with a part number listed in paragraphs (i)(1) 
+through (i)(11) of this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone (425) 227-1405; fax (425) 227-1149. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or its delegated agent, or by the Design Approval Holder with a 
+State of Design Authority's design organization approval). For a 
+repair method to be approved, the repair approval must specifically 
+refer to this AD. You are required to assure the product is 
+airworthy before it is returned to service.
+
+(n) Special Flight Permits
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(o) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+European Aviation Safety Agency (EASA) Airworthiness Directive 2012-
+0119, dated July 4, 2012, for related information. You may examine 
+the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-0698-0002.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+January 6, 2014.
+    (i) Airbus Service Bulletin A320-28-1209, dated December 12, 
+2011.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+May 1, 2006 (71 FR 15023, March 27, 2006).
+    (i) Airbus Service Bulletin A320-28-1138, dated March 18, 2005.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+
+[[Page 71996]]
+
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on November 15, 2013.
+John Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-28192 Filed 11-29-13; 8:45 am]
+BILLING CODE 4910-13-P

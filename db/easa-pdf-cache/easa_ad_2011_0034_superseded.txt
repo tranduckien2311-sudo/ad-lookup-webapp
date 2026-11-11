@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+EASA AD No : 2011-0034 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2011-0034 Date: 02 March 2011 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. D Type/Model designation(s) : Type Approval Holder’s Name : A319, A320 and A321 aeroplanes AIRBUS E TCDS Number : EASA.A.064 Foreign AD : Not applicable D Supersedure : None E Wings – Outer Wing Refuelling Aperture Electrical Bonding –
+
+ATA 57 Inspection / Modification S
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A319-111, A319-112, A319-132, A320-111, A320-211, A320-212, R A320-214, A320-232, A321-111, A321-211, A321-212 and A321-231 aeroplanes, manufacturer serial numbers (MSN): 0039, 0078, 0109, 0118, 0120, 0153, 0174, 0187, 0203, 0215, 0218, 0226, 0227, 0228, 0236, 0237, 0269, 0270, 0278, 0285, 0286, 0287, 0288, 0294, E 0301, 0337, 0377, 0462, 0463, 0464, 0465, 0520, 0523, 0528, 0876, 0888, 0921, 0935, 0974, 1014, 1102, 1130, 1160, 1162, 1177, 1215, 1250, 1287, 1336, 1388, 1404, 1444, 1449, 1476, 1505, 1524, 1564, 1605, 1616, 1622, 1640, 1645, 1658, 1677, 1691, 1729, and 1905. P
+
+Reason: Cases of corrosion findings have been reported on the overwing refuelling aperture (used to fill the fuel tank by gravity) on the wing top skin. The reported corrosion was on the mating surface of the aperture flange, U underneath the refuel adaptor. Corrosion findings have been repaired on a case by case basis in accordance with approved data. For certain aeroplanes (identified by MSN in the applicability section of this AD), the provided repair contained instructions to apply primer coating on the S mating surface. Since doing those repairs, it has been found that this primer coating may prevent proper electrical bonding provision between the overwing refuelling cap adaptor and the wing skin. This condition, if not corrected, could, in combination with a lightning strike in this area, create a source of ignition in a fuel tank, possibly resulting in a fire or explosion and consequent loss of the aeroplane. For the reasons described above, this AD requires a one-time electrical EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2011-0034 bonding check between the gravity fill re-fuel adaptor and the top skin panels on the affected aeroplanes and, in case of findings, the application of the associated corrective actions.
+
+Effective Date: 16 March 2011 Required Action(s) Required as indicated, unless previously accomplished: and Compliance Within 24 months after the effective date of this AD, carry out an electrical Time(s): bonding check between the gravity fill re-fuel adaptor and the top skin panels on both wings and, in case of discrepancies, before next flight, apply the associated corrective actions, all actions to be done in accordance with the instructions defined in Airbus Service Bulletin A320-57-1152.
+
+Ref. Publications: Airbus Service Bulletin A320-57-1152 at Original issue. The use of later approved revisions of this document is acceptable for D compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. E 2. This AD was posted on 28 January 2011 as PAD 11-008 for consultation until 25 February 2011. No comments were received during the consultation period. D 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification . Directorate, EASA. E-mail ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in E this AD, please contact: AIRBUS – Airworthiness Office – EAS Fax +33 5 . 61 93 44 51, E-mail: account.airworth-eas@airbus.com S R E P U S EASA Form 110 Page 2/2

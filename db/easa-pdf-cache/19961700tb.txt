@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-170-082(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 and A321 Aircraft Fuel pump strainer This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE aircraft models A320-111, A320-211, A320-212, A320-214, A320-231, A320-232 and A320-233 without AIRBUS INDUSTRIE modification N° 23024 or AIRBUS INDUSTRIE Service Bulletin A320-28-1044 up to and including revision 9, and aircraft models A321-111, A321-112 and A321-131, without AIRBUS INDUSTRIE modification n° 25640 or AIRBUS INDUSTRIE Service Bulletin A320-28-1044 R9. In order to avoid possible blockage of the fuel pump strainer by ice crystals resulting in fuel pump low pressure, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 24 months, introduce a 4 mesh filter instead of a 8 mesh one for all fuel pumps in accordance with AIRBUS INDUSTRIE Service Bulletin A320-28-1044 rev. 9. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-28-1044 Rev. 9 (or any further approved revision) EFFECTIVE DATE : SEPTEMBER 07, 1996 d/JYR AIRBUS INDUSTRIE August 28, 1996 96-170-082(B) A320 and A321 Aircraft

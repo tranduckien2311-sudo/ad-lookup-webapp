@@ -1,0 +1,38 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0128
+
+Airworthiness Directive
+
+AD No.: 2017-0128
+
+Issued: 24 July 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 aeroplanes
+
+Effective Date: 07 August 2017 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD supersedes DGAC France AD 1996-234-087(B) Revision 1, dated 30 October 2002.
+
+ATA 53 – Fuselage – Gusset Frame Attachment Holes – Inspection / Repair
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A320-211 and A320-231 aeroplanes, manufacturer serial numbers 0029, 0045, 0046, 0049 to 0057 inclusive, 0059, 0064 and 0065.
+
+Reason: During fatigue test on simulated flights, cracks developed on the inner flange of door frame 66 at stringer 18 and 20 positions. These cracks were located in the gusset plate attachment holes and were hidden by the plates. This condition, if not detected and corrected, could affect the structural integrity of the fuselage. To address this potential unsafe condition, Airbus issued Service Bulletin (SB) A320-53-1071, later revised, to provide instructions to inspect and repair the gusset plate attachment holes at frame 66, at stringers 18, 20 and 22 both left hand (LH) and right hand (RH) side of the fuselage (hereafter collectively referred to as “the attachment holes” in this AD), and SB A320-53-1072, providing instructions for reworking of the attachment holes. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0128 Consequently, DGAC France issued AD 1996-234-087, later revised, requiring repetitive inspections and, depending on findings, repair of the attachment holes, and including reference to a reworking procedure, which constitutes optional terminating action for the repetitive inspections of the attachment holes. Since that AD was issued, based on results from a full scale fatigue test, it was determined that the inspection intervals must be reduced. Airbus issued SB A320-53-1071 Revision 03, modifying the inspection threshold and intervals, and not changing the inspection instructions. For the reason described above, this AD retains the requirement of DGAC France AD 1996-234-087 R1, which is superseded, and requires reduction of the repetitive inspection interval.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Repetitive inspections: (1) Within the compliance time as specified in Table 1 of this AD, as applicable, and, thereafter, at intervals not to exceed 10 900 flight cycles (FC), accomplish a special detailed inspection (SDI) of the attachment holes in accordance with the instructions of Airbus SB A320-53-1071. Table 1: Inspection Threshold Aeroplane Condition Compliance Time (see Note 1 of this AD) None Before exceeding 39 000 FC since aeroplane first flight Before exceeding 39 000 FC since aeroplane first flight, or One SDI accomplished within 1 500 FC after the effective date of this AD, whichever occurs later, but not exceeding 20 000 FC since the first SDI Within 10 900 FC since last SDI, or before exceeding 49 900 FC Two SDIs accomplished since aeroplane first flight, whichever occurs first Note 1: The condition as specified in Table 1 of this AD refers to the number of SDIs accomplished on the aeroplane, before the effective date of this AD, in accordance with the instructions of Airbus SB A320-53-1071 (any revision). Corrective Action(s): (2) If, during any SDI as required by paragraph (1) of this AD, any crack is found on an attachment hole, before next flight, repair the area of the affected attachment hole in accordance with the instructions of Airbus SB A320-53-1071. (3) If, during any SDI as required by paragraph (1) of this AD, any crack is found on any other hole of the gusset plate, before next flight, contact Airbus for approved repair instructions and accomplish those instructions accordingly. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0128 Terminating Action: (4) Repair of an attachment hole area on an aeroplane, as required by paragraph (2) of this AD, constitutes terminating action for the repetitive inspections of that attachment hole area as required by paragraph (1) of this AD for that aeroplane. (5) Repair of an aeroplane, as required by paragraph (3) of this AD, does not constitute terminating action for the repetitive inspections as required by paragraph (1) of this AD for that aeroplane, unless specified otherwise in the instructions provided by Airbus. (6) Modification of an aeroplane in accordance with the instructions of Airbus SB A320-53-1072 constitutes terminating action for the repetitive SDIs as required by paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus SB A320-53-1071 original issue dated 07 November 1995, or Revision 01 dated 04 July 2002, or Revision 02 dated 05 May 2016, or Revision 03 dated 20 July 2017. Airbus SB A320-53-1072 original issue dated 07 November 1995, or Revision 01 dated 04 July 2002, or Revision 02 dated 05 May 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 13 June 2017 as PAD 17-072 for consultation until 11 July 2017. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

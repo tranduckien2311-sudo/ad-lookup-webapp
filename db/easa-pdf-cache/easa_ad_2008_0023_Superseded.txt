@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2008 – 0023 Date: 06 February 2008 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : AIRBUS A330 Aircraft TCDS Number : EASA A.004 Foreign AD : Not applicable Supersedure : EASA AD 2006-0307 Time limits / Maintenance checks - Damage-Tolerant Airworthiness
+
+ATA 05 Limitation Items (DT ALI) Manufacturer: AIRBUS (formerly AIRBUS INDUSTRIE)
+
+Applicability: AIRBUS A330 aircraft, all certified models, all serial numbers.
+
+Reason: The limitations for Damage-Tolerant Airworthiness Limitation Items (DT ALI) are currently listed in AIRBUS A330 ALI document reference AI/SE-M4/95A.0089/97, which is referenced in AIRBUS A330 Airworthiness Limitations Section (ALS) Part 2. This
+
+Airworthiness Directive (AD) mandates compliance with the requirements defined in AIRBUS A330 ALI document reference AI/SE-M4/95A.0089/97 issue 15 which introduces more restrictive limitations. This AD supersedes EASA AD 2006-0307, which mandated AIRBUS A330 ALI issue 14 referenced AI/SE-M4/95A.0089/97 approved under EASA.A.C.01277 on 17 January 2006.
+
+Effective Date: 20 February 2008 Compliance: From the effective date of this AD, the following measures are required as indicated: Each Operator must: − Review and assess the content of AIRBUS A330 ALI document reference AI/SE-M4/95A.0089/97 issue 15, and 1/2
+
+--- PAGE 2 ---
+− Incorporate all applicable changes to requirements included in AIRBUS A330 ALI document reference AI/SE-M4/95A.0089/97 issue 15, into the approved maintenance programme, and − Comply with any action required by AIRBUS A330 ALI document reference AI/SE-M4/95A.0089/97 issue 15, for example new or reduced thresholds / interval, or more stringent inspections.
+
+Ref. Publications: AIRBUS A330 ALI Issue 15 referenced AI/SE-M4/95A.0089/97 approved under EASA.A.C.07222 on 09 July 2007 The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance for this AD. 2. This AD was posted on 12 December 2007 as PAD 07-192R1 for consultation until 28 December 2007. The Comment Response Document can be found at http://ad.easa.europa.eu/. 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . 4. For any question concerning the technical content of the requirements in this AD, please contact: [AIRBUS SAS – Airworthiness Office – EAL, Fax: + 33 5 61 93 45 80 or + 33 5 61 93 44 51; E-mail: airworthiness.A330-A340@airbus.com .] 2/2

@@ -1,0 +1,475 @@
+[Federal Register Volume 70, Number 196 (Wednesday, October 12, 2005)]
+[Rules and Regulations]
+[Pages 59263-59266]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 05-20064]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-20221; Directorate Identifier 2004-NM-173-AD; 
+Amendment 39-14329; AD 2005-20-32]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A330-200 and -300 and 
+A340-200 and -300 Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200 and -300 and A340-200 and -300 series airplanes. 
+This AD requires inspecting to determine the part number and serial 
+number of the left- and right-hand elevator assemblies, performing 
+related investigative and corrective actions if necessary, and re-
+protecting the elevator assembly. This AD results from reports that 
+areas on the top skin panel of the right-hand elevator have disbonded 
+due to moisture penetration. We are issuing this AD to prevent 
+disbonding of the elevator assembly, which could reduce the structural 
+integrity of the elevator and result in reduced controllability of the 
+airplane.
+
+DATES: This AD becomes effective November 16, 2005.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of November 16, 
+2005.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://dms.dot.gov or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street SW., Nassif Building, 
+room PL-401, Washington, DC.
+    Contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Tim Backman, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2797; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at http://dms.dot.gov or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that would apply to all Airbus Model A330, 
+A340-200, and A340-300 series airplanes. That NPRM was published in the 
+Federal Register on February 1, 2005 (70 FR 5073). That NPRM proposed 
+to require inspecting to determine the part number and serial number of 
+the left- and right-hand elevator assemblies, performing related 
+investigative and corrective actions if necessary, and re-protecting 
+the elevator assembly.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Request To Allow Records Check as a Method of Compliance
+
+    One commenter believes that it is unnecessary to inspect its fleet 
+to determine that none of the airplanes in its fleet are subject to the 
+proposed AD. The commenter states that its airplanes were delivered new 
+from Airbus in July 2003, after Airbus had changed its production 
+processes to prevent moisture penetration of the elevator. The delivery 
+records for these airplanes show the part number and serial number of 
+the left- and right-hand elevator assemblies. The commenter notes that 
+it has not replaced the elevator assemblies on any airplane in its 
+fleet. Further, the Illustrated Parts Catalog shows that the elevator 
+assemblies that would be affected by the proposed AD cannot legally be 
+installed on the airplanes in its fleet. The commenter asserts that its 
+airplanes are in compliance with the intent of the proposed AD, and 
+that it will be able to ensure continuing compliance by inspecting all 
+incoming spare elevator
+
+[[Page 59264]]
+
+assemblies and any elevators on airplanes purchased from other 
+operators to ensure that the elevator assemblies are not subject to the 
+proposed AD. The commenter states that these measures will provide a 
+level of safety equivalent to the level that would be provided by the 
+proposed AD.
+    The airplane manufacturer also comments that airplane records 
+should contain the part number and serial number of each elevator 
+assembly, even in the event that the elevator assembly has been 
+replaced. The airplane manufacturer states that a records check would 
+be better than an inspection for determining the part number and serial 
+number of the elevator assemblies, especially considering that very few 
+airplanes with the subject part number/serial number combinations could 
+be registered in the U.S.
+    We infer that the first commenter's request is the same as the 
+second commenter's--remove the requirement to inspect the elevator 
+assemblies to determine the part number and serial number, or allow a 
+records check as a method of compliance with this AD.
+    We concur with the commenters' request to allow a records check as 
+a method of compliance with this AD. We have revised paragraph (g) of 
+this AD to state that a review of maintenance records is acceptable in 
+lieu of an inspection, provided that the part number and serial number 
+of the elevator assemblies can be conclusively determined from that 
+review.
+
+Request To Revise Compliance Times
+
+    One commenter, the airplane manufacturer, requests that we revise 
+paragraph (g)(1) of the proposed AD to remove the reference to ``the 
+date of issuance of the original Airworthiness Certificate or the date 
+of issuance of the original Export Certificate of Airworthiness.'' 
+(This term was used in lieu of the term ``the first flight of the 
+airplane,'' which the Direction G[eacute]n[eacute]rale de l'Aviation 
+Civile (DGAC) uses to establish the compliance times specified in 
+French airworthiness directive F-2004-118 R1, dated October 13, 2004.) 
+The commenter states that it does not see any advantage in the FAA's 
+terminology. The commenter states that the reference for the service 
+life of the airplane is the first flight--the point at which flight 
+hours and flight cycles begin to count. The commenter states that the 
+first flight of an airplane cannot be ``interpreted differently by 
+different operators'' (as the FAA states under ``Differences Among the 
+Proposed AD, the French Airworthiness Directive, and the Service 
+Information'' in the proposed AD). The commenter states that the date 
+of the first flight is recorded in the airplane's logbook.
+    We agree with the commenter's request. We find that, for the 
+airplane models affected by this AD, operators should be able to 
+readily determine the date of the first flight of the airplane. We have 
+revised paragraph (g)(1) of this AD accordingly.
+    The same commenter also takes issue with the grace period of 18 
+months after the effective date of the AD, which is specified in 
+paragraph (g)(2) of the proposed AD. The commenter states that this 
+date will be long after the January 31, 2006, compliance date specified 
+in French airworthiness directive F-2004-118 R1.
+    We do not concur. We would use a calendar date to express a 
+compliance time only when engineering analysis establishes a direct 
+relationship between the date and either the compliance threshold or 
+the grace period. In this case, this relationship does not exist, and 
+we find that a grace period of 18 months after the effective date of 
+this AD represents an appropriate interval of time for affected 
+airplanes to continue to operate without compromising safety. Also, we 
+note that the compliance time of January 31, 2006, specified in French 
+airworthiness directive F-2004-118 R1 is approximately 18 months after 
+the effective date of the original issue of French airworthiness 
+directive F-2004-118, July 31, 2004. Thus, the 18-month grace period is 
+consistent with the grace period allowed by the DGAC in French 
+airworthiness directive F-2004-118 R1. We have not changed the AD in 
+this regard.
+
+Request To Refer to Service Bulletins for Repair Instructions
+
+    One commenter, the airplane manufacturer, notes that paragraph 
+(f)(1) of the proposed AD would require repairs to be done in 
+accordance with a method approved by the FAA, the Direction Generale de 
+l'Aviation Civile (DGAC) (which is the airworthiness authority for 
+France), or the DGAC's delegated agent, where the service bulletins 
+specify to contact Airbus. The commenter states that any repair 
+solution provided by Airbus would be DGAC approved through Airbus's 
+privileges as a Delegation Option Authorization (DOA) organization. For 
+this reason, the commenter states that the instructions specified in 
+the service bulletins should be followed.
+    We infer that the commenter is asking that we remove paragraph 
+(f)(1) from this AD. We do not agree. We cannot specify in an AD that 
+operators may contact the manufacturer for repair instructions when the 
+nature of that repair is unknown. Doing so would be delegating our 
+rulemaking authority to the manufacturer. We acknowledge that Airbus is 
+able to approve repairs, as allowed by Airbus's delegation 
+authorization from the European Aviation Safety Agency (EASA). We find 
+that requiring repair ``according to a method approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; or 
+the Direction G[eacute]n[eacute]rale de l'Aviation Civile (or its 
+delegated agent),'' as specified in paragraph (f)(1) of this AD, meets 
+the intent of the commenter's request (i.e., it allows repair in 
+accordance with a method approved by Airbus), without compromising the 
+terms of our rulemaking authority. We have not changed the AD in this 
+regard.
+
+Request To Require Reporting
+
+    One commenter, the airplane manufacturer, notes that paragraph 
+(f)(2) of the proposed AD states that reporting information to the 
+manufacturer is not required. The commenter requests that we revise the 
+proposed AD to require inspection results be sent to Airbus. The 
+commenter states that receiving the inspection results will allow it to 
+gain as much information from the field as possible to allow continuous 
+improvement.
+    We do not concur with the commenter's request. The Office of 
+Management and Budget (OMB) must approve information collection 
+requirements under the provisions of the Paperwork Reduction Act (PRA) 
+of 1980 (44 U.S.C. 3501 et seq.). The PRA requires government agencies 
+to consider the extent of the paperwork burden that will accompany any 
+new rule. The PRA is intended to reduce these burdens by requiring 
+agencies not only to analyze the information collection and reporting 
+costs they are imposing on the private sector, but to use those 
+analyses to minimize the cost. We require operators to submit 
+information relevant to AD actions only when our analyses indicate that 
+such information is needed to ensure safety or to document compliance. 
+We cannot require operators to submit information to improve processes. 
+We have not changed the AD in this regard.
+
+Explanation of Change to Applicability
+
+    We have revised the applicability of this AD to identify model 
+designations as published in the most recent type certificate data 
+sheet for the affected models.
+
+[[Page 59265]]
+
+Clarification of Alternative Method of Compliance (AMOC) Paragraph
+
+    We have revised this action to clarify the appropriate procedure 
+for notifying the principal inspector before using any approved AMOC on 
+any airplane to which the AMOC applies.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    This AD affects about 20 airplanes of U.S. registry. The inspection 
+to determine the part number and serial number of installed elevator 
+assemblies takes about 1 work hour per airplane, at an average labor 
+rate of $65 per work hour. Based on these figures, the estimated cost 
+of this AD for U.S. operators is $1,300, or $65 per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+adding the following new airworthiness directive (AD):
+
+2005-20-32 Airbus: Amendment 39-14329. Docket No. FAA-2005-20221; 
+Directorate Identifier 2004-NM-173-AD.
+
+Effective Date
+
+    (a) This AD becomes effective November 16, 2005.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all Airbus Model A330-201, -202, -203, -
+223, -243, -301, -321, -322, -323, -341, -342, and -343 airplanes; 
+and Model A340-211, -212, -213, -311, -312, and -313 airplanes; 
+certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD was prompted by reports that areas on the top skin 
+panel of the right-hand elevator have disbonded due to moisture 
+penetration. We are issuing this AD to prevent disbonding of the 
+elevator assembly, which could reduce the structural integrity of 
+the elevator and result in reduced controllability of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Service Bulletin References
+
+    (f) The term ``service bulletin,'' as used in this AD, means the 
+Accomplishment Instructions of Airbus Service Bulletin A330-55-3032 
+(for Model A330-201, -202, -203, -223, -243, -301, -321, -322, -323, 
+-341, -342, and -343 airplanes) or Airbus Service Bulletin A340-55-
+4029 (for Model A340-211, -212, -213, -311, -312, and -313 
+airplanes), both dated December 22, 2003, as applicable.
+    (1) Where the service bulletins recommend contacting Airbus for 
+appropriate action: Before further flight, repair the condition 
+according to a method approved by the Manager, International Branch, 
+ANM-116, Transport Airplane Directorate, FAA; or the Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile (or its delegated 
+agent).
+    (2) Although the service bulletins specify submitting certain 
+information to the manufacturer, this AD does not include that 
+requirement.
+
+Determining Part Number, Serial Number
+
+    (g) At the later of the times specified in paragraphs (g)(1) and 
+(g)(2) of this AD: Perform an inspection to determine the part 
+number and serial number of the left- and right-hand elevator 
+assemblies. A review of airplane maintenance records is acceptable 
+in lieu of this inspection if the part number and serial number of 
+each elevator assembly can be conclusively determined from that 
+review. If neither elevator assembly has a part number and serial 
+number combination identified in Table 1 of this AD, no further 
+action is required by this paragraph. If either elevator assembly 
+has a part number and serial number combination identified in Table 
+1 of this AD, do paragraph (h) of this AD.
+    (1) Within 10 years after the date of the first flight of the 
+airplane, or before the accumulation of 12,000 total flight cycles, 
+whichever is first.
+    (2) Within 18 months after the effective date of this AD.
+
+                           Table 1.--Affected Elevator Part Numbers and Serial Numbers
+----------------------------------------------------------------------------------------------------------------
+                                                 Affected part
+                     Part                           numbers                   Affected serial numbers
+----------------------------------------------------------------------------------------------------------------
+Left-hand elevator assembly..................      F55280000000,  CG1002 through CG1091 inclusive, CG1093,
+                                                    F55280000004   CG1094, CG2001.
+
+[[Page 59266]]
+
+ 
+Right-hand elevator assembly.................      F55280000001,  CG1002 through CG1094 inclusive, CG2001.
+                                                    F55280000005
+----------------------------------------------------------------------------------------------------------------
+
+Inspections
+
+    (h) If the left- or right-hand elevator assembly has a part 
+number and serial number combination identified in Table 1 of this 
+AD: Before further flight after accomplishing paragraph (g) of this 
+AD, do the actions in paragraphs (h)(1), (h)(2), and (h)(3) of this 
+AD, as applicable.
+    (1) Perform an endoscopic inspection to detect damage (such as a 
+scratch, disbonding, or a tear), and a tap test and a thermographic 
+inspection to detect signs of moisture penetration, to the upper and 
+lower elevator panels on both sides of the airplane, in accordance 
+with the service bulletin.
+    (2) If any damage is found, before further flight, do all 
+applicable corrective actions (including but not limited to 
+repeating the thermographic inspection to determine the size of the 
+damaged area, and performing a tap test around the areas where 
+moisture is indicated), in accordance with the service bulletin.
+    (3) Re-protect the elevator assembly (including performing a 
+general visual inspection to determine if the drainage holes are 
+clean, a general visual inspection to determine the condition of the 
+sealant covering the static discharges contour, and applicable 
+corrective actions), in accordance with the service bulletin.
+
+    Note 1: For the purposes of this AD, a general visual inspection 
+is: ``A visual examination of an interior or exterior area, 
+installation, or assembly to detect obvious damage, failure, or 
+irregularity. This level of inspection is made from within touching 
+distance unless otherwise specified. A mirror may be necessary to 
+ensure visual access to all surfaces in the inspection area. This 
+level of inspection is made under normally available lighting 
+conditions such as daylight, hangar lighting, flashlight, or 
+droplight and may require removal or opening of access panels or 
+doors. Stands, ladders, or platforms may be required to gain 
+proximity to the area being checked.''
+
+Parts Installation
+
+    (i) As of the effective date of this AD, no person may install, 
+on any airplane, an elevator assembly having a part number and 
+serial number combination identified in Table 1 of this AD unless 
+the actions required by paragraph (h) of this AD are accomplished.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (j)(1) The Manager, International Branch, ANM-116, has the 
+authority to approve AMOCs for this AD, if requested in accordance 
+with the procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with 14 CFR 
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+
+Related Information
+
+    (k) French airworthiness directive F-2004-118 R1, dated October 
+13, 2004, also addresses the subject of this AD.
+
+Material Incorporated by Reference
+
+    (l) You must use Airbus Service Bulletin A330-55-3032, excluding 
+Appendix 01, dated December 22, 2003; or Airbus Service Bulletin 
+A340-55-4029, excluding Appendix 01, dated December 22, 2003; as 
+applicable; to perform the actions that are required by this AD, 
+unless the AD specifies otherwise. The Director of the Federal 
+Register approved the incorporation by reference of these documents 
+in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Contact 
+Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, France, 
+for a copy of this service information. You may review copies at the 
+Docket Management Facility, U.S. Department of Transportation, 400 
+Seventh Street SW., room PL-401, Nassif Building, Washington, DC; on 
+the Internet at http://dms.dot.gov; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at the NARA, call (202) 741-6030, or go to http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on September 29, 2005.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-20064 Filed 10-11-05; 8:45 am]
+BILLING CODE 4910-13-P

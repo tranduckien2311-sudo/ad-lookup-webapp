@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0233
+
+Airworthiness Directive
+
+AD No.: 2017-0233
+
+Issued: 23 November 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 30 November 2017 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 22 – Auto Flight – Flight Management System / Aircraft Flight Manual – Amendment / Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Reason: Operators of A330 aeroplanes fitted with a Flight Management Guidance Envelope Computer (FMGEC) standard P5H3 have reported some occurrences of dual Flight Management System (FMS) reset with the loss of Flight Plan (F-PLN) data. These events have been identified in all flight phases, including Take-Off transition. This condition, if not corrected, particularly in the context of Required Navigation Performance – Authorization Required (RNP-AR) operations of the aeroplane, could lead to a large reduction in safety margins due to terrain and/or surrounded traffic proximity, and out of the context of RNP-AR operations could lead to an increased pilot workload. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0233 To address this potential unsafe condition, Airbus issued Aircraft Flight Manual (AFM) Temporary Revision (TR) 774 issue 1 to provide instructions to prohibit RNP-AR operations. In addition, Airbus developed modification (mod) 207362 to allow FMS software downgrading from P5 to P4A standard, and issued Alert Operator Transmission (AOT) A22L002-17 providing instructions to implement that mod on in-service aeroplanes. As a long term action, Airbus intend to publish Service Bulletin (SB) A330-22-3264, which will supersede AOT A22L002-17, to provide the same instructions for FMS software downgrade. For the reasons described above, this AD requires amendment of the applicable AFM and operating the aeroplane accordingly, and requires FMS software downgrading of aeroplanes with FMGEC standard P5H3.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: Group 1 aeroplanes are those that have FMGEC standard P5H3 (Airbus mod 204758 Part Number (P/N) FMGEC C13226HA07 with P/N FMS operational SW PS4087700-906) embodied in production, or embodied in service in accordance with Airbus SB A330-22-3225, or SB A330-22-3209, or SB A330-22-3244, or SB A330-22-3247, or SB A330-22-3262, except those that have RNP-AR. Group 2 aeroplanes have the same configuration as those in Group 1, but in addition have RNP-AR (Airbus mod 203441, or mod 203442, or mod 200624) embodied in production or Airbus SB A330-34-3345, or SB A330-34-3308, or SB A330-34-3262 embodied in service. Group 3 aeroplanes are those in any other configuration. AFM amendment: (1) For Group 2 aeroplanes: Within 30 days after the effective date of this AD, amend the applicable AFM to incorporate Airbus A330 AFM TR 774 issue 1, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the applicable AFM to incorporate later AFM revision, which includes AFM TR 774 issue 1, is acceptable to comply with the requirements of paragraph (1) of this AD. Modification: (3) For Group 1 and Group 2 aeroplanes: Within 2 months after the effective date of this AD, modify the aeroplane by installing FMS software P4A (P/N FMS operational SW PS4087700-905) on FMGEC standard P5H3 (P/N FMGEC C13226HA07 with P/N FMS operational SW PS4087700-906) as specified in, and in accordance with the instructions of Airbus AOT A22L002-17, or Airbus SB A330-22-3264. (4) For Group 2 aeroplanes: After modification of an aeroplane as required by paragraph (3) of this AD, the AFM amendment as required by paragraph (1) of this AD can be removed from the AFM of that aeroplane. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0233 Part Installation / Modification: (5) For Group 3 aeroplanes: From the effective date of this AD, it is allowed to modify any aeroplane into Group 1 or Group 2 configuration (see Note 1 of this AD), provided that, concurrently, that aeroplane is also modified in accordance with the instructions of Airbus AOT A22L002-17 or Airbus SB A330-22-3264.
+
+Ref. Publications: Airbus A330 AFM TR 774 issue 1 EASA approved on 13 October 2017. Airbus AOT A22L002-17 original issue dated 20 October 2017. Airbus SB A330-22-3225 original issue dated 10 October 2016 and Revision 1 dated 20 July 2017. Airbus SB A330-22-3209 original issue dated 01 July 2016 and Revision 1 dated 27 September 2017. Airbus SB A330-22-3244 original issue dated 03 May 2017. Airbus SB A330-22-3247 original issue dated 27 September 2017. Airbus SB A330-22-3262 original issue dated 16 November 2017. Airbus SB A330-34-3345 original issue dated 21 February 2017, Revision 1 dated 05 May 2017 and Revision 2 dated 27 September 2017. Airbus SB A330-34-3308 original issue dated 08 August 2014. Airbus SB A330-34-3262 original issue dated 04 October 2011, Revision 1 dated 14 November 2011, Revision 2 dated February 2014 ,Revision 3 dated 10 November 2014 and Revision 4 dated 21 July 2015. Airbus SB A330-22-3264 [to be issued]. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL; E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

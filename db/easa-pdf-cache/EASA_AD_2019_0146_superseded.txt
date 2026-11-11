@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0146
+
+Airworthiness Directive
+
+AD No.: 2019-0146
+
+Issued: 21 June 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third of that Regulation. countries that participate in the activities of EASA under Article 129 This AD issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, exemption]. Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 D Design Approval Holder’s Name: Type/Model designation(s): CFM INTERNATIONAL S.A. CFM56-5B, CFM56-5C and CFM56-7B E engines
+
+Effective Date: 28 June 2019 D TCDS Number(s): EASA.E.003 and EASA.E.004 Foreign AD: Not applicable E
+
+Supersedure: None
+
+ATA 72 – Engine – Rotating Air High Pressure Turbine Front Seal – Replacement S
+
+Manufacturer(s): SAFRAN Aircraft Engines, formerly SNECMA (France); General Electric Aircraft Engines (United R States)
+
+Applicability: E CFM56-5B1, CFM56-5B2, CFM56-5B4, CFM56-5B5, CFM56-5B6, CFM56-5B7, CFM56-5B1/P, CFM56-5B2/P, CFM56-5B3/P, CFM56-5B4/P, CFM56-5B5/P, CFM56-5B6/P, CFM56-5B7/P, CFM56-5B8/P, CFM56-5B9/P, CFM56-5B3/P1, CFM56-5B4/P1, CFM56-5B1/2P, CFM56-5B2/2P, CFM56-5B3/2P, CFM56-5B4/2P, CFM56-5B6/2P, CFM56-5B9/2P, CFM56-5B3/2P1 and P CFM56-5B4/2P1 engines, all serial numbers (s/n); CFM56-5C2, CFM56-5C2/4, CFM56-5C2/F, CFM56-5C2/F4, CFM56-5C2/G, CFM56-5C2/G4, CFM56-5C2/P, CFM56-5C3/F, CFM56-5C3/F4, CFM56-5C3/G, CFM56-5C3/G4, CFM56-5C3/P, U CFM56-5C4, CFM56-5C4/1, CFM56-5C4/P and CFM56-5C4/1P engines, all s/n; and CFM56-7B20, CFM56-7B22, CFM56-7B24, CFM56-7B26, CFM56-7B27, CFM56-7B22/B1, S CFM56-7B24/B1, CFM56-7B26/B1, CFM56-7B26/B2, CFM56-7B27/B1, CFM56-7B27/B3, CFM56-7B20/2, CFM56-7B22/2, CFM56-7B24/2, CFM56-7B26/2, CFM56-7B27/2 and CFM56-7B27A engines, all s/n. Page 1 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0146 These engines are known to be installed on, but not limited to, Airbus A318, A319, A320, A321 and A340 aeroplanes, and Boeing 737-600, 737-700, 737-800 and 737-900 aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable S/B: CFM International CFM56-5B Service Bulletin (S/B) 72-1074, CFM56-5C S/B 72- 0794, or CFM56-7B S/B 72-1042, as applicable. Affected part: A rotating air high pressure turbine (HPT) front seal, having part number (P/N) 1795M36P01 or P/N 1795M36P02, and having s/n GWNDN949 to GWNSE969 inclusive, or having s/n GWN000CE to GWN0990L inclusive; excluding those for which it can be shown it has never been D removed from its original HPT disk and re-installed onto a different HPT disk; and excluding those having s/n GWN08ND7, GWN0923A, GWN0971E, GWN098A1, GWN098W6, GWN098W8, GWN098WA or GWN0990G. E Serviceable part: Any rotating air HPT front seal that is not an affected part. Groups: Group 1 engines are those that have an affected part installed. Group 2 engines are those D that do not have an affected part installed. Re-installation: For an affected part, first in-service re-installation on an HPT disk other than the HPT disk on which that affected part was originally installed in production. E
+
+Reason: Occurrences have been reported of finding cracked rotating air HPT front seals during in-shop S inspections. Subsequent investigation determined that certain rotating air HPT front seals, if removed from an HPT disk and re-installed on a different HPT disk, may be susceptible to similar cracks. R This condition, if not detected and corrected, could lead to engine in-flight shut-down, possibly resulting in reduced control of the aeroplane. E To address this potential unsafe condition, CFM International issued the applicable S/B, providing instructions to replace the affected parts. P For the reason stated above, this AD requires replacing the affected parts, and prohibits re-installation thereof.
+
+Required Action(s) and Compliance Time(s): U Required as indicated, unless accomplished previously: Part Replacement: S (1) For Group 1 engines: Within the compliance time as defined in Table 1 of this AD, as applicable, replace the affected part with a serviceable part in accordance with the instructions of the applicable S/B. Page 2 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0146 Table 1 – Affected Parts Replacement Engine(s) Compliance time (A, B, C or D, whichever occurs later, as (all models) applicable) A: Within 6 500 engine cycles (EC) since re-installation CFM56-5B B: Within 500 EC after the effective date of this AD, but not and exceeding 7 000 EC since re-installation CFM56-7B C: Within 50 EC after the effective date of this AD A: Within 4 000 EC since re-installation B: Within 250 EC after the effective date of this AD, but not exceeding 4250 EC since re-installation D CFM56-5C C: Within 1 500 EC since last seal piece-part fluorescent penetrant inspection D: Within 25 EC after the effective date of this AD E Limitations: (2) From the effective date of this AD, do not operate an aircraft having two CFM56-5B engines D installed, equipped with an affected part having accumulated 6 500 EC or more since re- installation. (3) From the effective date of this AD, do not operate an aircraft having two CFM56-7B engines E installed, equipped with an affected part having accumulated 6 500 EC or more since re- installation. S (4) From the effective date of this AD, do not operate an aircraft having two or more CFM56-5C engines installed, equipped with an affected part having accumulated 4 000 EC or more since re-installation. R Part(s) installation: (5) Do not install an affected part on any engine, as required by paragraph (5.1) or (5.2) of this AD, as applicable: E (5.1) For Group 1 engines: After removal of each affected part from an engine as required by paragraph (1) of this AD. P (5.2) For Group 2 engines: From the effective date of this AD.
+
+Ref. Publications: U CFM International S.A. CFM56-5B S/B 72-1074 original issue dated 27 July 2018, or Revision 01 dated 05 December 2018. CFM International S.A. CFM56-5C S/B 72-0794 original issue dated 14 September 2018, or Revision S 01 dated 02 January 2019. Page 3 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0146 CFM International S.A. CFM56-7B S/B 72-1042 original issue dated 27 July 2018, or Revision 01 dated 02 January 2019. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication D 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. E 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety D reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: CFM International S.A., Customer Support Centre, Telephone: +33 1 64 14 88 66, E Fax: +33 1 64 79 85 55, E-mail: cfm.csc@safrangroup.com; or S CFM Inc. Aviation Operations Centre, Telephone: +1 513-552-3272, or +1 877-432-3272, Fax: +1 877-432-3329, E-mail: geae.aoc@ge.com, or aviation.fleetsupport@ge.com. R E P U S Page 4 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

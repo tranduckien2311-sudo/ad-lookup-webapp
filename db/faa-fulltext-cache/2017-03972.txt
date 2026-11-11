@@ -1,0 +1,470 @@
+[Federal Register Volume 82, Number 41 (Friday, March 3, 2017)]
+[Rules and Regulations]
+[Pages 12407-12410]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-03972]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6893; Directorate Identifier 2015-NM-181-AD; 
+Amendment 39-18812; AD 2017-05-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A318-112 airplanes; Model A319-111, -112, -115, -132, and 
+-133 airplanes; Model A320-214, -232, and -233 airplanes; and Model 
+A321-211, -212, -213, -231, and -232 airplanes. This AD was prompted by 
+a quality control review on the final assembly line, which determined 
+that the wrong aluminum alloy was used to manufacture several 
+structural parts. This AD requires a one-time eddy current conductivity 
+measurement of certain cabin and cargo compartment structural parts to 
+determine if an incorrect aluminum alloy was used, and replacement if 
+necessary. We are issuing this AD to address the unsafe condition on 
+these products.
+
+DATES: This AD is effective April 7, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of April 7, 
+2017.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; Internet: 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6893.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6893; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A318-
+112 airplanes; Model A319-111, -112, -115, -132, and -133 airplanes; 
+Model A320-214, -232, and -233 airplanes; and Model A321-211, -212, -
+213, -231, and -232 airplanes. The NPRM published in the Federal 
+Register on May 26, 2016 (81 FR 33438). The NPRM was prompted by a 
+quality control review on the final assembly line, which determined 
+that the wrong aluminum alloy was used to manufacture several 
+structural parts. The NPRM proposed to require a one-time eddy current 
+conductivity measurement of certain cabin and cargo compartment 
+structural parts to determine if an incorrect aluminum alloy was used, 
+and replacement if necessary. We are issuing this AD to detect and 
+replace structural parts made of incorrect aluminum alloy. This 
+condition could result in reduced structural integrity of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2015-0218, dated November 3, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A318-112 airplanes; Model A319-111, -112, -115, -132, and -133 
+airplanes; Model A320-214, -232, and -233 airplanes; and Model A321-
+211, -212, -213, -231, and -232 airplanes. The MCAI states:
+
+    Following an Airbus quality control review on the final assembly 
+line, it was discovered that wrong aluminum alloy were delivered
+
+[[Page 12408]]
+
+by a supplier for several structural parts. The results of the 
+investigations highlighted that 0.04% of the stock could be impacted 
+by this wrong material.
+    Structural investigations demonstrated the capability to sustain 
+the static limits loads, and sufficient fatigue life up to a certain 
+inspection threshold.
+    This condition, if not detected and corrected, could reduce the 
+structural integrity of the aeroplane.
+    To address this potential unsafe condition, Airbus issued 
+Service Bulletin (SB) A320-53-1298 and SB A320-53-1299 to provide 
+inspection instructions.
+    For the reasons described above, this [EASA] AD requires a one-
+time Special Detailed Inspection (SDI) [eddy current conductivity 
+measurements] of certain cabin and cargo compartment parts for 
+material identification and, depending on findings, replacement with 
+serviceable parts.
+
+You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6893.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Support for the NPRM
+
+    One commenter, Jerry Curtis, expressed support for the NPRM.
+
+Request To Refer to the Latest Service Information
+
+    Airbus requested that we refer to the latest service information: 
+Airbus Service Bulletins A320-53-1298 and A320-53-1299, both Revision 
+01, both dated June 9, 2016. We referred to Airbus Service Bulletins 
+A320-53-1298 and A320-53-1299, both dated February 16, 2015, as the 
+appropriate sources of service information for accomplishing the 
+actions specified in the NPRM.
+    We agree with the request to refer to the latest service 
+information. Airbus Service Bulletins A320-53-1298 and A320-53-1299, 
+both Revision 01, both dated June 9, 2016, include updated information 
+and specify that no additional work is necessary for airplanes modified 
+by the original issue. We have revised this AD to refer to Airbus 
+Service Bulletins A320-53-1298 and A320-53-1299, both Revision 01, both 
+dated June 9, 2016. We have also added credit for actions done before 
+the effective date of this AD using Airbus Service Bulletins A320-53-
+1298 and A320-53-1299, both dated February 16, 2015.
+
+Request To Correct a Certain Part Number (P/N)
+
+    Allegiant Air asked if the part number, P/N D5358526421400, in the 
+ninth row of table 1 to paragraphs (g) and (h) of the proposed AD under 
+``Affected P/N'' is correct. Allegiant Air stated that the affected 
+part number is the same as the acceptable replacement part number.
+    We acknowledge the commenter's concern; however, we have confirmed 
+that both part numbers in the ninth row of table 1 to paragraphs (g) 
+and (h) of this AD are the same and are correct as written. Therefore, 
+we have not changed this AD in this regard.
+
+Additional Change to NPRM
+
+    We have added paragraph (i) to this AD to clarify that no reporting 
+is required.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the change described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Airbus Service Bulletins A320-53-1298 and A320-53-1299, 
+both Revision 01, both including Appendixes 01 through 03, both dated 
+June 9, 2016. The service information describes procedures for a one-
+time eddy current conductivity measurement of certain cabin and cargo 
+compartment structural parts to determine if an incorrect aluminum 
+alloy was used, and replacement of any affected part with a serviceable 
+part. These documents are distinct since they apply to different parts 
+of the airplane (cabin and cargo compartment). This service information 
+is reasonably available because the interested parties have access to 
+it through their normal course of business or by the means identified 
+in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 167 airplanes of U.S. registry.
+    We also estimate that it takes about 1 work-hour per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Based on these figures, we estimate the cost of 
+this AD on U.S. operators to be $14,195, or $85 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all available costs in our 
+cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 12409]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2017-05-02 Airbus: Amendment 39-18812; Docket No. FAA-2016-6893; 
+Directorate Identifier 2015-NM-181-AD.
+
+(a) Effective Date
+
+    This AD is effective April 7, 2017.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1) through (c)(4) of this AD, certificated in any category; 
+manufacturer serial numbers 3586, 3588, 3589, 3590, 3595, 3604, 
+3608, 3614, 3615, 3620, 3632, 3634, 3638, 3647, 3651, 3657, 3660, 
+3661, 3663, 3671, 3675, 3680, 3683 through 3687 inclusive, 3689, 
+3691, 3694, 3700, 3702, 3704, 3705, 3710, 3720, 3727, 3728, 3733, 
+3735, 3742, 3744, 3746, 3754, 3757, 3759, 3763, 3768, 3770, 3772, 
+3774, 3775, 3779, 3788, 3790, 3794, 3797, 3799, 3801, 3803, 3808, 
+3810, 3818, 3822, 3824, 3826 through 4329 inclusive, 4331 through 
+6051 inclusive, 6053 through 6061 inclusive, 6063 through 6072 
+inclusive, 6074 through 6100 inclusive, 6102 through 6115 inclusive, 
+6117 through 6126 inclusive, 6128 through 6136 inclusive, 6138 
+through 6143 inclusive, 6145 through 6150 inclusive, 6152 through 
+6159 inclusive, 6161 and 6162.
+    (1) Airbus Model A318-112 airplanes.
+    (2) Airbus Model A319-111, -112, -115, -132, and -133 airplanes.
+    (3) Airbus Model A320-214, -232, and -233 airplanes.
+    (4) Airbus Model A321-211, -212, -213, -231, and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a quality control review of the final 
+assembly line which determined that the wrong aluminum alloy was 
+used to manufacture several structural parts. We are issuing this AD 
+to detect and replace structural parts made of incorrect aluminum 
+alloy. This condition could result in reduced structural integrity 
+of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) One-Time Measurement
+
+    Within 6 years after the effective date of this AD, but not 
+exceeding 12 years since the date of issuance of the original 
+certificate of airworthiness or the date of issuance of the original 
+export certificate of airworthiness: Do a one-time eddy current 
+conductivity measurement (with 60 kilohertz (kHz) and 480 kHz) of 
+the cabin and cargo compartment structural parts identified in the 
+``Affected P/N'' column of table 1 to paragraphs (g) and (h) of this 
+AD to determine if an incorrect aluminum alloy was used, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletins A320-53-1298, Revision 01, including Appendixes 01, 02, 
+and 03, dated June 9, 2016 (for cabin parts); and A320-53-1299, 
+Revision 01, including Appendixes 01, 02, and 03, dated June 9, 2016 
+(for cargo parts).
+
+  Table 1 to Paragraphs (g) and (h) of This AD--Parts To Be Inspected/
+                                Installed
+------------------------------------------------------------------------
+        Affected P/N          Acceptable replacement P/N       Area
+------------------------------------------------------------------------
+D5347120720000               D5347120720051               Cabin.
+D5347120720100               D5347120720151               Cabin.
+D5347120920000               D5347120920051               Cabin.
+D5347120920100               D5347120920151               Cabin.
+D5347118820400               D5347118820451               Cabin.
+D5347717620000               D5347717620051               Cargo.
+D5357020620000               D5357020620051               Cargo.
+D5358526421200               D5358526421251               Cargo.
+D5358526421400               D5358526421400               Cargo.
+D5358526421000               D5358526421051               Cargo.
+D5358513120001               D5358513120051               Cargo.
+------------------------------------------------------------------------
+
+(h) Replacement
+
+    If during the inspection required by paragraph (g) of this AD, 
+any affected part having a part number (P/N) specified in table 1 to 
+paragraphs (g) and (h) of this AD is found to have a measured value 
+greater than that specified in Figure A-GFAAA, Sheet 02, 
+``Inspection Flowchart,'' of the applicable service information 
+identified in paragraph (g) of this AD: Before further flight, 
+replace with an acceptable replacement part having a part number 
+specified in table 1 to paragraphs (g) and (h) of this AD, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletins A320-53-1298, Revision 01, including Appendixes 01, 02, 
+and 03, dated June 9, 2016 (for cabin parts); and A320-53-1299, 
+Revision 01, including Appendixes 01, 02, and 03, dated June 9, 2016 
+(for cargo parts).
+
+(i) No Reporting
+
+    Although reporting of inspection results is specified as a 
+``Required for Compliance'' (RC) action in Airbus Service Bulletins 
+A320-53-1298, Revision 01, including Appendixes 01, 02, and 03, 
+dated June 9, 2016; and A320-53-1299, Revision 01, including 
+Appendixes 01, 02, and 03, dated June 9, 2016; this AD does not 
+require any report.
+
+(j) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using Airbus Service Bulletin 
+A320-53-1298, dated February 16, 2015; and Airbus Service Bulletin 
+A320-53-1299, dated February 16, 2015; as applicable.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone: 425-227-1405; fax: 425-227-1149. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as provided by 
+paragraph (i) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2015-0218, dated November 3, 2015, for related 
+information. This MCAI may be found in the AD docket on the Internet 
+at
+
+[[Page 12410]]
+
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2016-6893.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(3) and (m)(4) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-53-1298, Revision 01, including 
+Appendixes 01 through 03, dated June 9, 2016.
+    (ii) Airbus Service Bulletin A320-53-1299, Revision 01, 
+including Appendixes 01 through 03, dated June 9, 2016.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet: http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on February 16, 2017.
+Thomas Groves,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2017-03972 Filed 3-2-17; 8:45 am]
+BILLING CODE 4910-13-P

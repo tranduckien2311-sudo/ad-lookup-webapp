@@ -1,0 +1,395 @@
+[Federal Register Volume 66, Number 91 (Thursday, May 10, 2001)]
+[Rules and Regulations]
+[Pages 23838-23840]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 01-11223]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2000-NM-389-AD; Amendment 39-12221; AD 2001-09-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A330-243, -341, -342, and 
+-343 Series Airplanes Equipped With Rolls Royce Trent 700 Series 
+Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD) that 
+is applicable to Airbus Model A330-243, -341, -342, and -343 series 
+airplanes equipped with Rolls Royce Trent 700 series engines. This 
+action requires repetitive inspections of certain components, and 
+corrective action, if necessary. This action is necessary to detect and 
+correct fatigue cracking of the hinge assemblies and the 12 o'clock 
+beam structure of the thrust reverser C-duct, which could cause failure 
+of the thrust reverser hinge, resulting in separation of the thrust 
+reverser from the airplane. This action is intended to address the 
+identified unsafe condition.
+
+DATES: Effective May 25, 2001.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of May 25, 2001.
+    Comments for inclusion in the Rules Docket must be received on or 
+before June 11, 2001.
+
+ADDRESSES: Submit comments in triplicate to the Federal Aviation 
+Administration (FAA), Transport Airplane Directorate, ANM-114, 
+Attention: Rules Docket No. 2000-NM-389-AD, 1601 Lind Avenue, SW., 
+Renton, Washington 98055-4056. Comments may be inspected at this 
+location between 9 a.m. and 3 p.m., Monday through Friday, except 
+Federal holidays. Comments may be submitted via fax to (425) 227-1232. 
+Comments may also be sent via the Internet using the following address: 
+[email protected]. Comments sent via fax or the Internet must 
+contain ``Docket No. 2000-NM-389-AD'' in the subject line and need not 
+be submitted in triplicate. Comments sent via the Internet as attached 
+electronic files must be formatted in Microsoft Word 97 for Windows or 
+ASCII text.
+    The service information referenced in this AD may be obtained from 
+Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France. This information may be examined at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Tim Backman, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2797; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: The Direction Generale de l'Aviation Civile 
+(DGAC), which is the airworthiness authority for France, notified the 
+FAA that an unsafe condition may exist on Airbus Model A330-243, -341, 
+-342, and -343 series airplanes equipped with Rolls Royce Trent 700 
+series engines. The DGAC advises that, during flight tests, 
+unexpectedly high fatigue loads were measured on the hinges integrated 
+on the 12 o'clock beam which forms the upper edge of the thrust 
+reverser C-duct. The hinges are unable to withstand these high fatigue 
+loads for the design life of the airplane. Resulting fatigue cracks, if 
+not detected and corrected, could cause failure of the thrust reverser 
+hinge, which could result in separation of the thrust reverser from the 
+airplane.
+
+Explanation of Relevant Service Information
+
+    Airbus has issued Service Bulletin A330-78-3006, Revision 05, dated 
+March 6, 2001, which describes procedures for a general visual 
+inspection of the hinge assemblies and the beam structure of the upper 
+extreme edge of the thrust reverser unit C-duct for cracks, and 
+corrective action, if necessary; a detailed visual inspection, if 
+applicable, of hinges 2, 3, 4, and 5 in the same area for cracks, and 
+corrective action, if necessary; and repetitions of these inspections, 
+as applicable, at applicable intervals. Accomplishment of the actions 
+specified in the service bulletin is intended to adequately address the 
+identified unsafe condition. The DGAC classified this service bulletin 
+as mandatory and issued French airworthiness directive 1997-118-047(B) 
+R2, dated September 20, 2000, in order to assure the continued 
+airworthiness of these airplanes in France.
+    Airbus Service Bulletin A330-78-3006, Revision 05, dated March 6, 
+2001, references Rolls Royce Service Bulletin RB.211-78-B115, Revision 
+2, dated October 29, 1999, as an additional source of service 
+information for
+
+[[Page 23839]]
+
+accomplishment of the inspections and corrective actions.
+
+FAA's Conclusions
+
+    These airplane models are manufactured in France and are type 
+certificated for operation in the United States under the provisions of 
+section 21.29 of the Federal Aviation Regulations (14 CFR 21.19) and 
+the applicable bilateral airworthiness agreement. Pursuant to this 
+bilateral airworthiness agreement, the DGAC has kept the FAA informed 
+of the situation described above. The FAA has examined the findings of 
+the DGAC, reviewed all available information, and determined that AD 
+action is necessary for products of this type design that are 
+certificated for operation in the United States.
+
+Explanation of Requirements of the Rule
+
+    Since an unsafe condition has been identified that is likely to 
+exist or develop on other airplanes of the same type design that may be 
+registered in the United States at some time in the future, this AD is 
+being issued to detect and correct fatigue cracking of the hinge 
+assemblies and the 12 o'clock beam structure of the thrust reverser C-
+duct, which could cause failure of the thrust reverser hinge, resulting 
+in separation of the thrust reverser from the airplane. This AD 
+requires accomplishment of the actions specified in the Airbus service 
+bulletin described previously.
+
+Cost Impact
+
+    None of the airplanes affected by this action are on the U.S. 
+Register. All airplanes included in the applicability of this rule 
+currently are operated by non-U.S. operators under foreign registry; 
+therefore, they are not directly affected by this AD action. However, 
+the FAA considers that this rule is necessary to ensure that the unsafe 
+condition is addressed in the event that any of these subject airplanes 
+are imported and placed on the U.S. Register in the future.
+    Should an affected airplane be imported and placed on the U.S. 
+Register in the future, it would require approximately 5 work hours to 
+accomplish the required inspections, at an average labor rate of $60 
+per work hour. Based on these figures, the cost impact of this AD would 
+be $300 per airplane, per inspection cycle.
+
+Determination of Rule's Effective Date
+
+    Since this AD action does not affect any airplane that is currently 
+on the U.S. register, it has no adverse economic impact and imposes no 
+additional burden on any person. Therefore, prior notice and public 
+procedures hereon are unnecessary and the amendment may be made 
+effective in less than 30 days after publication in the Federal 
+Register.
+
+Comments Invited
+
+    Although this action is in the form of a final rule and was not 
+preceded by notice and opportunity for public comment, comments are 
+invited on this rule. Interested persons are invited to comment on this 
+rule by submitting such written data, views, or arguments as they may 
+desire. Communications shall identify the Rules Docket number and be 
+submitted in triplicate to the address specified under the caption 
+ADDRESSES. All communications received on or before the closing date 
+for comments will be considered, and this rule may be amended in light 
+of the comments received. Factual information that supports the 
+commenter's ideas and suggestions is extremely helpful in evaluating 
+the effectiveness of the AD action and determining whether additional 
+rulemaking action would be needed.
+    Submit comments using the following format:
+     Organize comments issue-by-issue. For example, discuss a 
+request to change the compliance time and a request to change the 
+service bulletin reference as two separate issues.
+     For each issue, state what specific change to the proposed 
+AD is being requested.
+     Include justification (e.g., reasons or data) for each 
+request.
+    Comments are specifically invited on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify the rule. All comments submitted will be 
+available, both before and after the closing date for comments, in the 
+Rules Docket for examination by interested persons. A report that 
+summarizes each FAA-public contact concerned with the substance of this 
+AD will be filed in the Rules Docket.
+    Commenters wishing the FAA to acknowledge receipt of their comments 
+submitted in response to this rule must submit a self-addressed, 
+stamped postcard on which the following statement is made: ``Comments 
+to Docket Number 2000-NM-389-AD.'' The postcard will be date stamped 
+and returned to the commenter.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+2001-09-14  Airbus Industrie: Amendment 39-12221. Docket 2000-NM-
+389-AD.
+
+    Applicability: Model A330-243, -341, -342 and -343 series 
+airplanes; certificated in any category; that are equipped with 
+Rolls Royce Trent 700 series engines.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (b) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+
+[[Page 23840]]
+
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To detect and correct fatigue cracking of the hinge assemblies 
+and the 12 o'clock beam structure of the thrust reverser C-duct, 
+which could cause failure of the thrust reverser hinge, resulting in 
+separation of the thrust reverser from the airplane, accomplish the 
+following:
+
+Initial and Repetitive Inspections
+
+    (a) Perform a general visual inspection of the hinge assemblies 
+and the 12 o'clock beam structure of the right and left thrust 
+reversers for cracks, in accordance with Airbus Service Bulletin 
+A330-78-3006, Revision 05, dated March 6, 2001, according to the 
+criteria in Table 1 of this AD, below:
+
+                       Table 1--Initial Inspection
+------------------------------------------------------------------------
+                   If--                            Then inspect--
+------------------------------------------------------------------------
+Neither Airbus Modification 46879 nor       Before the accumulation of
+ 47358 has been embodied on the airplane.    1,200 total flight cycles,
+                                             or within 6 months after
+                                             the effective date of this
+                                             AD, whichever occurs first.
+Either Airbus Modification 46879 or 47358   Before the accumulation of
+ have been embodied on the airplane.         2,000 total flight cycles,
+                                             or 6 months after the
+                                             effective date of this AD,
+                                             whichever occurs first.
+------------------------------------------------------------------------
+
+    (1) If no crack is found during the general visual inspection 
+required by paragraph (a) of this AD, before further flight, perform 
+a detailed visual inspection of the lugs of hinges 2, 3, 4, and 5 of 
+the right and left thrust reversers for cracks in accordance with 
+Airbus Service Bulletin A330-78-3006, Revision 05, dated March 6, 
+2001.
+    (i) If no crack is found as a result of the detailed visual 
+inspection mandated by paragraph (a)(1) of this AD, repeat the 
+general visual inspection mandated by paragraph (a) of this AD 
+according to the schedule in Table 2 of this AD.
+    (ii) If a crack is found as a result of the detailed visual 
+inspection mandated by paragraph (a)(1) of this AD:
+    (A) Before further flight, replace the affected thrust reverser 
+with a new or serviceable thrust reverser in accordance with Airbus 
+Service Bulletin A330-78-3006, Revision 05, dated March 6, 2001.
+    (B) Repeat the general visual inspection mandated in paragraph 
+(a) of this AD according to the schedule in Table 2 of this AD.
+    (2) If a crack is found during the general visual inspection 
+required by paragraph (a) of this AD, accomplish the actions 
+required by paragraphs (a)(2)(i) and (a)(2)(ii) of this AD.
+    (i) Before further flight, replace the affected thrust reverser 
+with a new or serviceable thrust reverser in accordance with Airbus 
+Service Bulletin A330-78-3006, Revision 05, dated March 6, 2001.
+    (ii) Repeat the general visual inspection mandated in paragraph 
+(a) of this AD according to the schedule in Table 2 of this AD, 
+below:
+
+                    Table 2.--Repetitive Inspections
+------------------------------------------------------------------------
+                                             Then repeat the inspection
+                   If--                     at intervals not to exceed--
+------------------------------------------------------------------------
+Neither Airbus Modification 46879 nor       1,200 flight cycles.
+ 47358 has been embodied on the airplane.
+Either Airbus Modification 46879 or 47358   2,000 flight cycles.
+ has been embodied on the airplane.
+------------------------------------------------------------------------
+
+
+    Note 2: For the purposes of this AD, a general visual inspection 
+is defined as: ``A visual examination of an interior or exterior 
+area, installation, or assembly to detect obvious damage, failure, 
+or irregularity. This level of inspection is made under normally 
+available lighting conditions such as daylight, hangar lighting, 
+flashlight, or drop-light, and may require removal or opening of 
+access panels or doors. Stands, ladders, or platforms may be 
+required to gain proximity to the area being checked.''
+
+
+    Note 3: For the purposes of this AD, a detailed visual 
+inspection is defined as: ``An intensive visual examination of a 
+specific structural area, system, installation, or assembly to 
+detect damage, failure, or irregularity. Available lighting is 
+normally supplemented with a direct source of good lighting at 
+intensity deemed appropriate by the inspector. Inspection aids such 
+as a mirror, magnifying lenses, etc., may be used. Surface cleaning 
+and elaborate access procedures may be required.''
+
+Alternative Methods of Compliance
+
+    (b) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA. Operators shall submit their 
+requests through an appropriate FAA Principal Maintenance Inspector, 
+who may add comments and then send it to the Manager, International 
+Branch, ANM-116.
+
+    Note 4: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the International Branch, ANM-116.
+
+Special Flight Permits
+
+    (c) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the airplane to a location where 
+the requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (d) The actions shall be done in accordance with Airbus Service 
+Bulletin A330-78-3006, Revision 05, dated March 6, 2001. This 
+incorporation by reference was approved by the Director of the 
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Copies may be obtained from Airbus Industrie, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+    Note 5: The subject of this AD is addressed in French 
+airworthiness directive 1997-118-047(B) R2, dated September 20, 
+2000.
+
+Effective Date
+
+    (e) This amendment becomes effective on May 25, 2001.
+
+
+    Issued in Renton, Washington, on April 30, 2001.
+Donald L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 01-11223 Filed 5-9-01; 8:45 am]
+BILLING CODE 4910-13-P

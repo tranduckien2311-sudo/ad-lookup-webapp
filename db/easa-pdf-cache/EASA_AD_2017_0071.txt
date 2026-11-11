@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0071
+
+Airworthiness Directive
+
+AD No.: 2017-0071
+
+Issued: 26 April 2017 Note: This
+
+Airworthiness Directive (PAD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE plc RB211 Trent 700 engines
+
+Effective Date: 10 May 2017 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2017-0003 dated 09 January 2017.
+
+ATA 72 – Engine – Compressor Intermediate Case – Inspection / Repair
+
+Manufacturer(s): Rolls-Royce plc (RR)
+
+Applicability: RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, all serial numbers. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Reason: It has been determined that certain compressor intermediate cases (CIC), repaired by RR Repair FRSC005, have a higher probability of cracking, due to increased residual stresses which were applied during the weld repair process. This condition, if not detected and corrected, could lead to CIC failure, possibly resulting in damage to, and/or reduced control of, the aeroplane. To address this potential unsafe condition, RR issued Alert Non-Modification Service Bulletin (NMSB) RB.211-72-AH976 (later revised), providing inspection instructions and identifying the affected CIC and modules. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0071 Consequently, EASA issued AD 2017-0003 to require a one-time fluorescent-penetrant inspection (FPI) of each affected CIC and, depending on findings, accomplishment of a repair. Since that AD was issued, as some doubt existed whether all post-repair FRSC005 engines were identified in the original NMSB, a visual inspection of the compressor intermediate case was deemed necessary, and RR issued NMSB RB.211-72-AH976 Revision 2 accordingly. For the reason described above, this AD retains the requirements of EASA AD 2017-0003, which is superseded, but adds a visual inspection to determine if ‘FRSC005’ is etched on the compressor intermediate case.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: Where in this AD, reference is made to an RR SB or NMSB with an ‘A’ (Alert) in the number, it should be recognised that an earlier or later revision may not have that ‘A’. This kind of change does not effectively alter the publication references for the purpose of this AD. Note 2: RR NMSB RB.211-72-AH976 Revision 2 is hereafter referred to as ‘the NMSB’ in this AD. Inspection: (1) During the next qualified shop visit (see Note 3 of this AD), or within 6 000 engine flight cycles, whichever occurs first after the effective date of this AD, visually inspect the compressor intermediate case and, for those engines with ‘FRSC005’ etched on it, accomplish an FPI of the CIC in accordance with the instructions of the NMSB. Note 3: For the purpose of this AD, a qualified shop visit is where the engine is undergoing a non-modular rework level of engine refurbishment. Corrective action(s): (2) If, during the FPI as required by paragraph (1) of this AD, a CIC is found cracked, before release to service of the engine, accomplish RR Repair FRSC372 on that CIC, or replace it with a serviceable CIC. Credit: (3) Inspection and corrective action(s) of an engine, accomplished before the effective date of this AD in accordance with the instructions of RR Alert NMSB RB.211-72-AH976 at original issue or Revision 1, is acceptable to comply with the requirements of paragraphs (1) and (2) of this AD. Part(s) Installation: (4) From the effective date of this AD, it is allowed to install an intermediate module or a CIC on an engine, provided that, prior to installation, it is determined that ‘FRSC005’ is not etched on the compressor intermediate case, or the CIC has passed an FPI in accordance with the instructions of the NMSB. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0071
+
+Ref. Publications: Rolls-Royce Alert NMSB RB.211-72-AH976 dated 03 November 2016, or Revision 1 dated 17 November 2016, or Revision 2 dated 16 March 2017. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 17 March 2017 as PAD 17-033 for consultation until 14 April 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact your designated Rolls-Royce representative, or download the publication from your Rolls Royce Care account at https://customers.rolls-royce.com. If you do not have a designated representative or Rolls Royce Care account, please contact Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424, or send an email through http://www.rolls-royce.com/contact/civil_team.jsp identifying the correspondence as being related to
+
+Airworthiness Directives. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

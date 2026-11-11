@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0038
+
+Airworthiness Directive
+
+AD No.: 2018-0038 [Correction: 02 March 2018]
+
+Issued: 07 February 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 aeroplanes
+
+Effective Date: 21 February 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 26 – Fire Protection – Cargo Fire Extinguishing Bottles – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A320-214, A320-251N and A320-271N aeroplanes, manufacturer serial numbers (MSN) 07126, 07141, 07189, 07200, 07221, 07226, 07235, 07245, 07251, 07256, 07264, 07272, 07279, 07319, 07337 and 07340.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operator Transmission (AOT) A26N003-16 at Revision 01.
+
+Reason: During a periodic check on the final assembly line, a torque wrench (dynamometric key), previously used for installing the cargo fire extinguishing bottle system, was found out of tolerance. As a consequence, an incorrect torque value may have been applied to the screws maintaining the fire extinguishing bottle in place. Vibration during normal operation of the aeroplane could further loosen these screws. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0038 This condition, if not detected and corrected, could lead to disconnection of a cargo fire extinguishing bottle, possibly resulting in loss of the fire protection system in the lower deck cargo compartment. Prompted by this finding, Airbus issued AOT A26N003-16 (later revised) to provide instructions to apply the correct torque value(s). For the reason described above, this AD requires a one-time inspection of the screws of each cargo fire extinguishing bottle installation and, depending on findings, replacement of screws and re-installation of the system. This AD is re-published to replace the term “dynamometric key” with the term “torque wrench”, and to correct a typing error in the issue date.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) Within 30 days after the effective date of this AD, inspect each cargo fire extinguishing bottle installation in accordance with the instructions of the AOT. Note: No credit can be taken for applying the AOT at original issue, which contained incorrect torque values. Corrective Action(s): (2) If, during the inspection as required by paragraph (1) of this AD, any screw damage is detected, before next flight, replace each affected screw in accordance with the instructions of the AOT. (3) If, during the inspection as required by paragraph (1) of this AD, no damage is detected, before next flight, re-install the screws in accordance with the instructions of the AOT.
+
+Ref. Publications: Airbus AOT A26N003-16 Revision 01, dated 12 June 2017. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0038 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

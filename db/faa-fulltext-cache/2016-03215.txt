@@ -1,0 +1,566 @@
+[Federal Register Volume 81, Number 32 (Thursday, February 18, 2016)]
+[Rules and Regulations]
+[Pages 8134-8138]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-03215]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-0467; Directorate Identifier 2016-NM-008-AD; 
+Amendment 39-18395; AD 2016-04-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2015-26-02 for 
+all Airbus Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes; and Airbus Model A340-200, A340-300, A340-500, and A340-600 
+series airplanes. AD 2015-26-02 required, for certain airplanes, 
+identification of the part number, serial number, and standard of the 
+ram air turbine (RAT) pump, RAT module, RAT actuator, and RAT lower 
+gearbox assembly; replacement of the balance
+
+[[Page 8135]]
+
+weight screw, modification of the actuator coil spring, modification of 
+the actuator, an inspection of the anti-stall valve for correct 
+installation in the RAT pump housing; and corrective actions if 
+necessary. For certain other airplanes, AD 2015-26-02 required re-
+identification or replacement of the RAT module. This new AD requires 
+the same actions as AD 2015-26-02. This new AD was prompted by a report 
+of a typographical error in the regulatory text of AD 2015-26-02. We 
+are issuing this AD to prevent loss of the impeller function and RAT 
+pump pressurization capability, which, if preceded by a total engine 
+flame-out, could result in loss of control of the airplane.
+
+DATES: This AD becomes effective March 4, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 2, 
+2016 (80 FR 81174, December 29, 2015).
+    We must receive comments on this AD by April 4, 2016.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For Airbus service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com.
+    For Hamilton Sundstrand service information identified in this 
+final rule, contact Hamilton Sundstrand, Technical Publications, Mail 
+Stop 302-9, 4747 Harrison Avenue, P.O. Box 7002, Rockford, IL 61125-
+7002; telephone 860-654-3575; fax 860-998-4564; email 
+[email protected]; Internet http://www.hamiltonsundstrand.com.
+    You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+0467.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+0467; or in person at the Docket Operations office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    On December 9, 2015, we issued AD 2015-26-02, Amendment 39-18350 
+(80 FR 81174, December 29, 2015) (``AD 2015-26-02''). AD 2015-26-02 
+applied to all Airbus Model A330-200, A330-200 Freighter, and A330-300 
+series airplanes; and Airbus Model A340-200, A340-300, A340-500, and 
+A340-600 series airplanes. AD 2015-26-02 was prompted by a report 
+indicating that, during a production flight test, the RAT did not 
+pressurize the green hydraulic system. AD 2015-26-02 required for 
+certain airplanes, identification of the part number, serial number, 
+and standard of the RAT pump, RAT module, RAT actuator, and RAT lower 
+gearbox assembly; replacement of the balance weight screw, modification 
+of the actuator coil spring, modification of the actuator, an 
+inspection of the anti-stall valve for correct installation in the RAT 
+pump housing; and corrective actions if necessary. For certain other 
+airplanes, AD 2015-26-02 required re-identification or replacement of 
+the RAT module. We issued AD 2015-26-02 to prevent loss of the impeller 
+function and RAT pump pressurization capability, which, if preceded by 
+a total engine flame-out, could result in loss of control of the 
+airplane.
+    Since we issued AD 2015-26-02, we received a report of a 
+typographical error in the regulatory text of AD 2015-26-02. Paragraph 
+(m) of AD 2015-26-02 inadvertently referred to paragraph (n) and should 
+have referred to paragraph (o), ``Parts Installation Prohibition.''
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2013-0274, dated November 15, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A330-200, A330-200 Freighter, and A330-300 series airplanes; and Airbus 
+Model A340-200, A340-300, A340-500, and A340-600 series airplanes. The 
+MCAI states:
+
+    During a production flight test of an A330-300 aeroplane, the 
+Ram Air Turbine (RAT) did not pressurize the green hydraulic system. 
+Investigation revealed that the impeller drive (hex) shaft had a 
+reduced length of engagement with the pump drive shaft. This caused 
+the impeller drive shaft to disengage from the pump and disconnect 
+the impeller. It was determined that the disconnection was the 
+result of internal hex dimensions on the pump impeller shaft, which 
+had been changed in a manufacturing drawing. From the investigation 
+analysis, it was possible to identify a list of affected parts.
+    This condition, if not detected and corrected, could lead to the 
+loss of impeller function and RAT pump pressurization capability, 
+possibly resulting, in case of total engine flame out, to the loss 
+of control of the aeroplane.
+    To address this unsafe condition, a new design RAT pump shaft 
+has been developed with a decreased hexagonal shaft housing depth, 
+which increases the hexagonal drive shaft engagement in the impeller 
+shaft to carry the impeller torque. Airbus issued Service Bulletin 
+(SB) A330-29-3122, SB A340-29-4093 and SB A340-29-5021 to provide 
+instructions for in-service replacement of the affected RAT 
+hydraulic pumps, or re-identification of the RAT pump and complete 
+RAT module, as applicable.
+    For the reasons described above, this [EASA] AD requires 
+identification and replacement [modification] or re-identification 
+of all affected RAT hydraulic pumps on A330 and A340-200/300 
+aeroplanes, and replacement [modification] of all affected RAT 
+modules on A340-500/ -600 aeroplanes.
+
+    For affected pumps, the required actions also include concurrent 
+actions, as applicable, including replacement of the balance weight 
+screw, modification of the actuator coil spring, modification of the 
+actuator, an inspection of the anti-stall valve for correct 
+installation in the RAT pump housing and re-installation if necessary. 
+For affected pumps, corrective actions include replacement of the RAT 
+hydraulic pump, and re-identification of the part number of the
+
+[[Page 8136]]
+
+RAT module. You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+0467.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information:
+     Airbus Service Bulletin A330-29-3122, dated October 25, 
+2012.
+     Airbus Service Bulletin A340-29-4093, dated October 25, 
+2012.
+    This service information describes procedures for identifying the 
+part number, serial number, and standard of the RAT pump, RAT module, 
+RAT actuator, and RAT lower gearbox assembly; replacing the balance 
+weight screw, modifying the actuator coil spring, modifying the 
+actuator, and doing an inspection of the anti-stall valve for correct 
+installation; and re-identifying the part numbers of the RAT hydraulic 
+pump and RAT module.
+    Airbus also issued Service Bulletin A330-29-3126, dated June 12, 
+2014; and Service Bulletin A340-29-4097, dated June 12, 2014, which 
+describe procedures for identifying the part number and serial number 
+of the RAT actuator; modifying the RAT actuators; and re-identifying 
+the part numbers of the RAT module.
+    In addition, Airbus issued Service Bulletin A340-29-5021, dated 
+October 2, 2012; and Service Bulletin A340-29-5025, dated June 16, 
+2014, which describe procedures for replacing (modifying) the RAT 
+module.
+    Hamilton Sundstrand has issued Service Bulletin ERPS06M-29-19, 
+dated August 6, 2012, which identifies the serial numbers of the 
+suspect hydraulic pump.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+FAA's Determination of the Effective Date
+
+    We are superseding AD 2015-26-02 to correct a typographical error 
+in the regulatory text. No other changes have been made to AD 2015-26-
+02. Therefore, we determined that notice and opportunity for prior 
+public comment are unnecessary.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2016-0467; Directorate 
+Identifier 2016-NM-008-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 66 airplanes of U.S. registry.
+    We also estimate that it will take about 14 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $78,540, or $1,190 per product.
+    In addition, we estimate that any necessary follow-on actions will 
+take about 18 work-hours and require parts costing up to $427,301, for 
+a cost of $428,831 per product. We have no way of determining the 
+number of aircraft that might need this action.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2015-26-02, Amendment 39-18350 (80 FR 81174, December 29, 2015), and 
+adding the following new AD:
+
+2016-04-01 Airbus: Amendment 39-18395; Docket No. FAA-2016-0467; 
+Directorate Identifier 2016-NM-008-AD.
+
+(a) Effective Date
+
+    This AD becomes effective March 4, 2016.
+
+[[Page 8137]]
+
+(b) Affected ADs
+
+    (1) This AD replaces AD 2015-26-02, Amendment 39-18350 (80 FR 
+81174, December 29, 2015).
+    (2) This AD affects AD 2012-21-19, Amendment 39-17235 (77 FR 
+65812, October 31, 2012); and AD 2012-21-20, Amendment 39-17236 (77 
+FR 65799, October 31, 2012).
+
+(c) Applicability
+
+    This AD applies to all Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1) and (c)(2) of this AD, all 
+manufacturer serial numbers.
+    (1) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, and -343 airplanes.
+    (2) Model A340-211, -212, -213, -311, -312, -313, -541, and -642 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 29, Hydraulic 
+Power.
+
+(e) Reason
+
+    This AD was prompted by a report indicating that, during a 
+production flight test, the ram air turbine (RAT) did not pressurize 
+the green hydraulic system. We are issuing this AD to prevent loss 
+of the impeller function and RAT pump pressurization capability, 
+which, if preceded by a total engine flame-out, could result in loss 
+of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Identification of RAT Components
+
+    For Airbus Model A330-201, -202, -203, -223, -223F, -243, -243F, 
+-301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes; 
+and Model A340-211, -212, -213, -311, -312, and -313 airplanes: 
+Except as provided by paragraph (i) of this AD, within 36 months 
+after the effective date of this AD, identify the part number, 
+serial number, and standard (through the mod-dots) of the RAT pump, 
+RAT module, RAT actuator, and RAT lower gearbox assembly, in 
+accordance with the Accomplishment Instructions of the applicable 
+Airbus service information specified in paragraphs (g)(1) and (g)(2) 
+of this AD. A review of airplane maintenance records is acceptable 
+in lieu of this identification if the part number, serial number, 
+and standard can be conclusively determined from that review.
+    (1) For Airbus Model A330-201, -202, -203, -223, -223F, -243, -
+243F, -301, -302, -303, -321, -322, -323, -341, -342, and -343 
+airplanes: Airbus Service Bulletin A330-29-3122, dated October 25, 
+2012.
+    (2) For Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes: Airbus Service Bulletin A340-29-4093, dated October 25, 
+2012.
+
+(h) Corrective and Concurrent Actions
+
+    If the serial number of the RAT hydraulic pump is included in 
+table 7, ``Suspect Hydraulic Pump Serial Numbers,'' of Hamilton 
+Sundstrand Service Bulletin ERPS06M-29-19, dated August 6, 2012: 
+Within 36 months after the effective date of this AD, do all 
+applicable corrective actions, in accordance with the Accomplishment 
+Instructions of the applicable Airbus service information specified 
+in paragraphs (g)(1) and (g)(2) of this AD. Prior to or concurrently 
+with doing the corrective actions required by this paragraph, do the 
+actions specified in paragraphs (h)(1) through (h)(4) of this AD, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-29-3122, dated October 25, 2012 (for Model A330-200, -
+200 Freighter, and -300 series airplanes); or Airbus Service 
+Bulletin A340-29-4093, dated October 25, 2012 (for Airbus Model 
+A340-211, -212, -213, -311, -312, and -313 airplanes).
+    (1) Replace the balance weight screw.
+    (2) Modify the actuator coil spring.
+    (3) Modify the actuator.
+    (4) Do a general visual inspection of the anti-stall valve for 
+correct installation in the RAT pump housing, and if any incorrect 
+installation is found, before further flight, correctly install the 
+anti-stall valve.
+
+(i) Exception to Service Information Specifications
+
+    Airbus Service Bulletin A330-29-3122, dated October 25, 2012 
+(for Model A330-200, -200 Freighter, and -300 series airplanes), 
+refers to Hamilton Sundstrand Service Bulletin ``EPRPS06M-29-13'' as 
+an additional source of guidance for doing certain actions required 
+by paragraph (h) of this AD. The first ``P'' in the citation should 
+have been omitted; the correct reference is to Hamilton Sundstrand 
+Service Bulletin ``ERPS06M-29-13.''
+
+(j) Re-Identification of Part Numbers
+
+    If the serial number of the RAT hydraulic pump is not included 
+in table 7, ``Suspect Hydraulic Pump Serial Numbers,'' of Hamilton 
+Sundstrand Service Bulletin ERPS06M-29-19, dated August 6, 2012: 
+Within 36 months after the effective date of this AD, re-identify 
+the part numbers of the RAT hydraulic pump and RAT module, in 
+accordance with the Accomplishment Instructions of the applicable 
+Airbus service information specified in paragraphs (g)(1) and (g)(2) 
+of this AD.
+
+(k) Service Information for Optional Actions
+
+    Accomplishment of the actions required by paragraphs (g), (h), 
+and (j) of this AD, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-29-3126, dated June 12, 
+2014; or Airbus Service Bulletin A340-29-4097, dated June 12, 2014, 
+as applicable, constitutes compliance with the requirements of 
+paragraphs (g), (h), and (j) of this AD.
+
+(l) RAT Module Replacement (Modification)
+
+    For Airbus Model A340-541 and -642 airplanes having RAT module 
+part number (P/N) 772722D, 772722E, 772722F, or 772722G: Within 36 
+months after the effective date of this AD, replace (modify) the RAT 
+module, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A340-29-5021, dated October 2, 2012. As an option, 
+accomplishment of the RAT module replacement (modification), in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A340-29-5025, dated June 16, 2014, constitutes compliance 
+with the requirement of this paragraph.
+
+(m) Exception to Paragraphs (g), (h), and (j) of This AD
+
+    The actions required by paragraphs (g), (h), and (j) of this AD 
+are not required for airplanes on which Airbus Modification 202537 
+was embodied in production, provided it can be determined that, 
+since the airplane's first flight, no RAT hydraulic pump or RAT 
+module having a part number identified in paragraph (o) of this AD 
+is installed on that airplane.
+
+(n) Terminating Action for Certain Requirements of Other ADs
+
+    (1) For Airbus Model A330-201, -202, -203, -223, -223F, -243, -
+243F, -301, -302, -303, -321, -322, -323, -341, -342, and -343 
+airplanes; and Model A340-211, -212, -213, -311, -312, and -313 
+airplanes: Accomplishment of the actions required by paragraphs (g), 
+(h), and (j) of this AD constitutes compliance with the requirements 
+of paragraphs (g)(1) and (g)(2) of AD 2012-21-19, Amendment 39-17235 
+(77 FR 65812, October 31, 2012); and paragraphs (g)(1) and (g)(2) of 
+AD 2012-21-20, Amendment 39-17236 (77 FR 65799, October 31, 2012).
+    (2) For Airbus Model A340-541 and -642 airplanes: Accomplishment 
+of the actions required by paragraph (l) of this AD constitutes 
+compliance with the requirements of paragraphs (h)(1) and (h)(2) of 
+AD 2012-21-20, Amendment 39-17236 (77 FR 65799, October 31, 2012).
+
+(o) Parts Installation Prohibition
+
+    (1) For Airbus Model A330-201, -202, -203, -223, -223F, -243, -
+243F, -301, -302, -303, -321, -322, -323, -341, -342, and -343 
+airplanes; and A340-211, -212, -213, -311, -312, and -313 airplanes: 
+After modification of the RAT module as required by paragraph (h) of 
+this AD, no person may install any complete RAT module having a part 
+number identified in paragraph (o)(1)(i) of this AD, or any RAT 
+hydraulic pump having the part number identified in paragraph 
+(o)(1)(ii) of this AD, on any airplane.
+    (i) RAT module P/N 766351, 768084, 770379, 770952, 770952A, 
+770952B, 1702934, 1702934A, or 1702934B.
+    (ii) RAT hydraulic pump P/N 5909522 (Parker P/N 4207902).
+    (2) For Airbus Model A340-541 and -642 airplanes: After 
+modification of the RAT module as required by paragraph (l) of this 
+AD, no person may install any complete RAT module having P/N 
+772722D, 772722E, 772722F, or 772722G, on any airplane.
+
+(p) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as
+
+[[Page 8138]]
+
+appropriate. If sending information directly to the International 
+Branch, send it to ATTN: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office. The AMOC approval letter must 
+specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(q) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA Airworthiness Directive 2013-0274, dated November 15, 2013, for 
+related information. This MCAI may be found in the AD docket on the 
+Internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2016-0467.
+
+(r) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 2, 2016 (80 FR 81174, December 29, 2015).
+    (i) Airbus Service Bulletin A330-29-3122, dated October 25, 
+2012.
+    (ii) Airbus Service Bulletin A330-29-3126, dated June 12, 2014.
+    (iii) Airbus Service Bulletin A340-29-4093, dated October 25, 
+2012.
+    (iv) Airbus Service Bulletin A340-29-4097, dated June 12, 2014.
+    (v) Airbus Service Bulletin A340-29-5021, dated October 2, 2012.
+    (vi) Airbus Service Bulletin A340-29-5025, dated June 16, 2014.
+    (vii) Hamilton Sundstrand Service Bulletin ERPS06M-29-19, dated 
+August 6, 2012.
+    (4) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (5) For Hamilton Sundstrand service information identified in 
+this AD, contact Hamilton Sundstrand, Technical Publications, Mail 
+Stop 302-9, 4747 Harrison Avenue, P.O. Box 7002, Rockford, IL 61125-
+7002; telephone 860-654-3575; fax 860-998-4564; email 
+[email protected]; Internet http://www.hamiltonsundstrand.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on February 8, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-03215 Filed 2-17-16; 8:45 am]
+BILLING CODE 4910-13-P

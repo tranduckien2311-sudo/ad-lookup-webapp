@@ -1,0 +1,657 @@
+[Federal Register Volume 78, Number 6 (Wednesday, January 9, 2013)]
+[Rules and Regulations]
+[Pages 1735-1739]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2012-31587]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1315; Directorate Identifier 2012-NM-191-AD; 
+Amendment 39-17310; AD 2012-26-15]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Honeywell International Inc. Air Data 
+Pressure Transducers
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Honeywell International Inc. air data pressure transducers as installed 
+on various aircraft. This AD requires various tests or checks of 
+equipment having certain air data pressure transducers, and removal of 
+equipment if necessary. As an option to the tests or checks, this AD 
+allows removal of affected equipment having certain air data pressure 
+transducers. This AD was prompted by a report of a pressure measurement 
+error in the pressure transducer used in various air data systems, 
+which translates into air data parameter errors. We are issuing this AD 
+to detect and correct inaccuracies of the pressure sensors, which could 
+result in altitude, computed airspeed, true airspeed, and Mach 
+computation errors. These errors could reduce the ability of the 
+flightcrew to maintain the safe flight of the aircraft and could result 
+in consequent loss of control of the aircraft.
+
+DATES: This AD is effective January 24, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of January 24, 
+2013.
+    We must receive comments on this AD by February 25, 2013.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    For Honeywell service information identified in this AD, contact 
+Honeywell Aerospace, Technical Publications and Distribution, M/S 2101-
+201, P.O. Box 52170, Phoenix, AZ 85072-2170; telephone 602-365-5535; 
+fax 602-365-5577; Internet http://www.honeywell.com. For Airbus service 
+information identified in this AD for Model A330 series airplanes, 
+contact Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. For Airbus service information identified in 
+this AD for Model A318, A319, A320, and A321 series airplanes, contact 
+Airbus, Airworthiness Office--EAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may review copies of the referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Office (phone: 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Blake Higuchi, Aerospace Engineer, 
+Systems and Equipment Branch, ANM-130L, FAA, Los Angeles Aircraft 
+Certification Office, 3960 Paramount Boulevard, Lakewood, CA 90712-
+4137; phone: 562-627-5315; fax: 562-627-5210; email: 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 1736]]
+
+Discussion
+
+    We received a report of a pressure measurement error in the air 
+data pressure sensor used in various air data systems, which translates 
+into air data parameter errors, possibly related to sleeks (micro-
+scratches on the polished glass tube pressure port) and the anodic bond 
+of the glass tube to the sensor die. Errors in the pressure sensor 
+measurements could impact other aircraft systems using the pressure 
+measurements. The primary concern is the impact on the air data system 
+and the associated airspeed (Mach, computed airspeed, and true 
+airspeed) and computations. This error in the static pressure 
+measurement will result in a higher indicated altitude than the actual 
+altitude and a higher indicated airspeed than actual airspeed. This 
+error in the pitot pressure sensor will result in a lower indicated 
+airspeed than actual airspeed. The error in the pressure sensor 
+measurement is a result of a leak within the pressure sensor's vacuum 
+reference that is compared with the actual applied pressure. This 
+condition, if not corrected, could reduce the ability of the flightcrew 
+to maintain the safe flight of the aircraft and could result in 
+consequent loss of control of the aircraft.
+
+Relevant Service Information
+
+    We reviewed Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-A01, 
+dated November 6, 2012. This service bulletin describes procedures for 
+an indicated altitude test of equipment (i.e., air data modules (ADM), 
+air data computers, air data attitude heading reference systems, and 
+digital air data computers) having certain air data pressure 
+transducers, repetitive pressure sensor tests if necessary, and removal 
+of equipment if necessary. This service bulletin also specifies 
+optional actions, including repetitive pitot-static certification 
+testing and removal of equipment having certain air data pressure 
+transducers.
+    We have also reviewed Airbus Alert Operators Transmission (AOT) 
+A34N001-12, including Appendices A and B, dated November 15, 2012, for 
+Airbus Model A318/A319/A320/A321 series airplanes; and Airbus AOT 
+A34N001-12, including Appendices A and B, dated November 15, 2012, for 
+Airbus Model A330 series airplanes. These AOTs describe procedures for 
+doing a repetitive ADM check or a functional test of the ADM accuracy, 
+and replacing the ADM if necessary.
+
+FAA's Determination
+
+    We are issuing this AD because we evaluated all the relevant 
+information and determined the unsafe condition described previously is 
+likely to exist or develop in other products of these same type 
+designs.
+
+AD Requirements
+
+    This AD requires accomplishing the actions specified in the service 
+information described previously, except as discussed under 
+``Differences Between the AD and the Service Information.'' The AD also 
+requires sending the test or check results (both pass and fail) to the 
+FAA and Honeywell.
+
+Differences Between the AD and the Service Information
+
+    The service information that follows specifies certain corrective 
+actions for various conditions. However we differ from these actions 
+and conditions in that this AD requires removing affected equipment and 
+returning the equipment to Honeywell if those conditions are found.
+     Airbus Alert Operators Transmission (AOT) A34N001-12, 
+including Appendices A and B, dated November 15, 2012, for Airbus Model 
+A318/A319/A320/A321 series airplanes; and Airbus AOT A34N001-12, 
+including Appendices A and B, dated November 15, 2012, for Airbus Model 
+A330 series airplanes; specifies to replace the ADM if the ADM check 
+fails.
+     Honeywell Service Bulletin ACM/ADC/ADAHRS-34-A01, dated 
+November 6, 2012, specifies to refer to ``applicable procedures'' if 
+the indicated altitude test exceeds 75 feet (23 meters).
+     Honeywell Service Bulletin ACM/ADC/ADAHRS-34-A01, dated 
+November 6, 2012, specifies to remove the affected equipment if the 
+pressure test is greater than 0.70 millibar (mB).
+    In addition, the service information that follows is missing 
+corrective actions for certain conditions; however, this AD requires 
+removing affected equipment and returning the equipment to Honeywell 
+for those conditions that are missing corrective actions.
+     Airbus Alert Operators Transmission (AOT) A34N001-12, 
+including Appendices A and B, dated November 15, 2012, for Airbus Model 
+A318/A319/A320/A321 series airplanes; and Airbus AOT A34N001-12, 
+including Appendices A and B, dated November 15, 2012, for Airbus Model 
+A330 series airplanes; does not specify any corrective action if the 
+functional test of the ADM accuracy fails.
+     Honeywell Service Bulletin ACM/ADC/ADAHRS-34-A01, dated 
+November 6, 2012, does not specify any corrective action if the pitot 
+static certification test fails.
+
+Interim Action
+
+    We consider this AD interim action. The manufacturer is currently 
+developing a modification that will address the unsafe condition 
+identified in this AD. Once this modification is developed, approved, 
+and available, we might consider additional rulemaking.
+
+FAA's Justification and Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because 
+inaccuracies of the pressure sensors could result in altitude, computed 
+airspeed, true airspeed, and Mach computation errors. These errors 
+could reduce the ability of the flightcrew to maintain the safe flight 
+of the aircraft and could result in consequent loss of control of the 
+aircraft. Therefore, we find that notice and opportunity for prior 
+public comment are impracticable and that good cause exists for making 
+this amendment effective in less than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety and was not preceded by notice and an opportunity for public 
+comment. However, we invite you to send any written data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include the docket number FAA-2012-1315 and 
+Directorate Identifier 2012-NM-191-AD at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this AD. We will 
+consider all comments received by the closing date and may amend this 
+AD because of those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 90 appliances installed on, but 
+not limited to, various aircraft of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 1737]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                           Cost per
+              Action                    Labor cost        Parts cost        product      Cost on U.S.  operators
+----------------------------------------------------------------------------------------------------------------
+Indicated altitude test..........  2 work-hours x $85               $0            $170  Up to $15,300.
+                                    per hour = $170.
+Removal..........................  2 work-hours x $85                0             170  Up to $15,300.
+                                    per hour = $170.
+Pitot static certification test..  3 work-hours x $85                0             255  Up to $22,950.
+                                    per hour = $255.
+ADM check or test................  2 work-hours x $85                0             170  Up to $15,300.
+                                    per hour = $170.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary pressure sensor 
+tests or removals that would be required based on the results of the 
+tests or checks. We have no way of determining the number of aircraft 
+that might need these pressure sensor tests or removals:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Pressure sensor test..........................  2 work-hours x $85 per hour =                 $0            $170
+                                                 $170.
+Removal.......................................  2 work-hours x $85 per hour =                  0             170
+                                                 $170.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation Programs'' 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2012-26-15 Honeywell International Inc.: Amendment 39-17310; Docket 
+No. FAA-2012-1315; Directorate Identifier 2012-NM-191-AD.
+
+(a) Effective Date
+
+    This AD is effective January 24, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to air data pressure transducers, as installed 
+in air data computers (ADC), air data modules (ADM), air data 
+attitude heading reference systems (ADAHRS), and digital air data 
+computers (DADC) having the part numbers and serial numbers 
+identified in Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-
+A01, dated November 6, 2012. This appliance is installed on, but not 
+limited to, the aircraft specified in paragraphs (c)(1) through 
+(c)(11) of this AD.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes; Model 
+A319-111, -112, -113, -114, -115, -131, -132, and -133 airplanes; 
+Model A320-111, -211, -212, -214, -231, -232, and -233 airplanes; 
+Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes; Model A330-223F, -243F, -201, -202, -203, -223, -243, -
+301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes; 
+and Model A340-211, -212, -213, -311, -312, -313, -541, and -642 
+airplanes.
+    (2) AGUSTA S.p.A. Model AW139 helicopters.
+    (3) Bell Helicopter Textron Canada Limited Model 429 
+helicopters.
+    (4) The Boeing Company Model 767-200, -300, -300F, and -400ER 
+series airplanes; and Model 777-200, -200LR, -300, -300ER, and 777F 
+series airplanes.
+    (5) Cessna Aircraft Company Model 560XL (560 Excel and 560 XLS) 
+airplanes.
+    (6) Dassault Aviation Model Mystere-Falcon 900 airplanes and 
+Model FALCON 2000 airplanes.
+    (7) Empresa Brasileira de Aeronautica S.A. (Embraer) Model EMB-
+135BJ airplanes.
+    (8) Gulfstream Aerospace Corporation Model GIV-X and GV-SP 
+airplanes.
+    (9) Learjet Inc. Model 45 airplanes.
+    (10) Pilatus Aircraft LTD. Model PC-12/47E airplanes.
+    (11) Viking Air Limited (Type Certificate previously held by 
+Bombardier Inc.; de Havilland, Inc.) Model (Twin Otter) DHC-6-400 
+airplanes.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 34, Navigation.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a pressure measurement error 
+in the pressure transducer used in various air data systems, which 
+translates into air data parameter
+
+[[Page 1738]]
+
+errors. We are issuing this AD to detect and correct inaccuracies of 
+the pressure sensors, which could result in altitude, computed 
+airspeed, true airspeed, and Mach computation errors. These errors 
+could reduce the ability of the flightcrew to maintain the safe 
+flight of the aircraft and could result in consequent loss of 
+control of the aircraft.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Actions
+
+    Within 30 days after the effective date of this AD: Do the 
+actions in either paragraph (g)(1) or (g)(2) of this AD, except as 
+provided by paragraphs (h) and (i) of this AD.
+    (1) Remove the affected equipment (i.e., ADC, ADM, ADAHRS, and 
+DADC), as identified in paragraph (c) of this AD, and return the 
+equipment to Honeywell at the applicable address specified in table 
+1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and 
+(i)(2) of this AD. Before continued operations, the operator must 
+ensure that all of the required equipment is properly installed in 
+the aircraft.
+
+ Table 1 to Paragraphs (g)(1), (g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and
+             (i)(2) of This AD--Addresses for Returned Parts
+------------------------------------------------------------------------
+    For part numbers identified in--            Return parts to--
+------------------------------------------------------------------------
+Tables 12 and 13 of Honeywell Service    Honeywell Aerospace, 23500 West
+ Bulletin ADM/ADC/ADAHRS-34-A01, dated    105th Street, Olathe, KS
+ November 6, 2012.                        66061.
+Tables 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,   Honeywell Aerospace, 1850 West
+ and 14 of Honeywell Service Bulletin     Rose Garden Lane, Phoenix, AZ
+ ADM/ADC/ADAHRS-34-A01, dated November    85027.
+ 6, 2012.
+------------------------------------------------------------------------
+
+    (2) Do a pitot-static certification test, and repeat the test 
+thereafter at intervals not to exceed 30 days, in accordance with 
+paragraph 1.C.(4)(a)3 of Honeywell Alert Service Bulletin ADM/ADC/
+ADAHRS-34-A01, dated November 6, 2012. If any pitot-static 
+certification test fails, remove the affected equipment (i.e., ADC, 
+ADM, ADAHRS, or DADC) and return the equipment to Honeywell at the 
+applicable address specified in table 1 to paragraphs (g)(1), 
+(g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and (i)(2) of this AD. Before 
+continued operations, the operator must ensure that all of the 
+required equipment is properly installed in the aircraft.
+
+(h) Optional Actions for Certain The Boeing Company Airplanes, 
+Gulfstream Aerospace Corporation Airplanes, and PILATUS AIRCRAFT LTD., 
+Airplanes
+
+    For The Boeing Company Model 777-200, -200LR, -300, -300ER, and 
+777F series airplanes; Gulfstream Aerospace Corporation Model GIV-X 
+and GV-SP airplanes; and PILATUS AIRCRAFT LTD., Model PC-12/47E 
+airplanes: In lieu of doing the actions required by paragraph (g) of 
+this AD, within 30 days after the effective date of this AD, do an 
+indicated altitude test, in accordance with the Accomplishment 
+Instructions of Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-
+A01, dated November 6, 2012.
+    (1) If the indicated altitude exceeds 75 feet (23 meters) from 
+the current aircraft elevation, before further flight, remove the 
+affected equipment (i.e., ADC, ADM, ADAHRS, or DADC) and return the 
+equipment to Honeywell at the applicable address specified in table 
+1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and 
+(i)(2) of this AD. Before continued operations, the operator must 
+ensure that all of the required equipment is properly installed in 
+the aircraft.
+    (2) If the indicated altitude is equal to or less than 75 feet 
+(23 meters) of the aircraft elevation, before further flight, do a 
+pressure sensor test, in accordance with the Accomplishment 
+Instructions of Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-
+A01, dated November 6, 2012.
+    (i) If the pressure error is greater than 0.70 millibar (mB), 
+before further flight, remove the affected equipment (i.e., ADC, 
+ADM, ADAHRS, or DADC) and return the equipment to Honeywell at the 
+applicable address specified in table 1 to paragraphs (g)(1), 
+(g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and (i)(2) of this AD. Before 
+continued operations, the operator must ensure that all of the 
+required equipment is properly installed in the aircraft.
+    (ii) If the pressure error is greater than 0.50 mB, but less 
+than or equal to 0.70 mB, repeat the test within 30 days after the 
+most recent test.
+    (iii) If the pressure error is greater than or equal to 0.25 mB, 
+but less than or equal to 0.50 mB, repeat the test within 120 days 
+after the most recent test.
+
+(i) Optional Actions for Certain Airbus Airplanes
+
+    For Airbus Model A318, A319, A320, and A321 airplanes having a 
+manufacturer serial number (MSN) and an ADM identified in Appendix A 
+of Airbus Alert Operators Transmission (AOT) A34N001-12, including 
+Appendices A and B, dated November 15, 2012, for Airbus Model A318/
+A319/A320/A321 series airplanes; and for Airbus Model A330 series 
+airplanes having an MSN and ADM identified in Appendix A of Airbus 
+AOT A34N001-12, including Appendices A and B, dated November 15, 
+2012, for Airbus Model A330 series airplanes: In lieu of doing the 
+actions required by paragraph (g) of this AD, within 30 days after 
+the effective date of this AD, do the actions specified in paragraph 
+(i)(1) or (i)(2) of this AD.
+    (1) Do an ADM check to determine the raw pressure data values 
+from integrated standby instrument system (ISIS) and the affected 
+ADMs, in accordance with Appendix B, ``Air Data Module Check 
+Procedure and Reporting Table,'' of Airbus AOT A34N001-12, including 
+Appendices A and B, dated November 15, 2012, for Airbus Model A318/
+A319/A320/A321 series airplanes; or Airbus AOT A34N001-12, including 
+Appendices A and B, dated November 15, 2012, for Airbus Model A330 
+series airplanes. These checks must be performed by authorized 
+maintenance personnel.
+    (i) If ``P--ISIS--P--ADM'' is greater than 22, before further 
+flight, remove the affected ADM and return the ADM to Honeywell at 
+the applicable address specified in table 1 to paragraphs (g)(1), 
+(g)(2), (h)(1), (h)(2)(i), (i)(1)(i), and (i)(2) of this AD. Before 
+continued operations, the operator must ensure that all of the 
+required equipment is properly installed in the aircraft.
+    (ii) If ``P--ISIS--P--ADM'' is greater than or equal to 16, but 
+equal to or less than 22, within 30 days after the most recent 
+check, do the ADM check specified in paragraph (i)(1) of this AD.
+    (iii) If ``P--ISIS--P--ADM'' is less than 16, within 120 days 
+after the most recent check, do the ADM check specified in paragraph 
+(i)(1) of this AD.
+    (2) Perform a functional test of the ADM accuracy, in accordance 
+with Airbus AOT A34N001-12, including Appendices A and B, dated 
+November 15, 2012, for Airbus Model A318/A319/A320/A321 series 
+airplanes; or Airbus AOT A34N001-12, including Appendices A and B, 
+dated November 15, 2012, for Airbus Model A330 series airplanes. 
+Repeat the test thereafter at intervals not to exceed 30 days. If 
+any test fails, before further flight, remove the affected ADM and 
+return the ADM to Honeywell at the applicable address specified in 
+table 1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2)(i), (i)(1)(i), 
+and (i)(2) of this AD. Before continued operations, the operator 
+must ensure that all of the required equipment is properly installed 
+in the aircraft.
+
+(j) Reporting
+
+    (1) For any airplane on which any test specified in paragraph 
+(h) of this AD has been done: At the applicable time specified in 
+paragraph (j)(1)(i) or (j)(1)(ii) of this AD, submit a report of the 
+findings (both pass and fail) of the test specified in paragraph (h) 
+of this AD to Honeywell by email [email protected] or 
+fax 602-365-1871. The report must include the information specified 
+in Appendix A of Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-
+A01, dated November 6, 2012.
+    (i) If the test was done on or after the effective date of this 
+AD: Submit the report within 15 days after the test.
+
+[[Page 1739]]
+
+    (ii) If the test was done before the effective date of this AD: 
+Submit the report within 15 days after the effective date of this 
+AD.
+    (2) For any airplane on which any test specified in paragraph 
+(h) of this AD, or any check specified in paragraph (i)(1) of this 
+AD, has been done: At the applicable time specified in paragraph 
+(j)(2)(i) or (j)(2)(ii) of this AD, submit a report of the findings 
+(both pass and fail) of the test specified in paragraph (h) of this 
+AD; or the check specified in paragraph (i)(1) of this AD; as 
+applicable; to the Manager, Los Angeles Aircraft Certification 
+Office (ACO), FAA, 3960 Paramount Boulevard, Lakewood, CA 90712-
+4137.
+    (i) If the test or check was done on or after the effective date 
+of this AD: Submit the report within 15 days after the test or 
+check.
+    (ii) If the test or check was done before the effective date of 
+this AD: Submit the report within 15 days after the effective date 
+of this AD.
+    (3) For Airbus Model A318, A319, A320, A321, A330-200 Freighter, 
+A330-200, and A330-300 series airplanes: At the applicable time 
+specified in paragraph (j)(3)(i) or (j)(3)(ii) of this AD, submit a 
+report of the findings (both pass and fail) of the check required by 
+paragraph (i)(1) of this AD to Honeywell by email 
+[email protected] or fax 602-365-1871. The report must 
+include the information specified in the reporting sheet in Appendix 
+B, ``Air Data Module Check Procedure and Reporting Table,'' of 
+Airbus AOT A34N001-12, including Appendices A and B, dated November 
+15, 2012, for Airbus Model A318/A319/A320/A321 series airplanes; or 
+Airbus AOT A34N001-12, including Appendices A and B, dated November 
+15, 2012, for Airbus Model A330 series airplanes.
+    (i) If the check was done on or after the effective date of this 
+AD: Submit the report within 15 days after the check.
+    (ii) If the check was done before the effective date of this AD: 
+Submit the report within 15 days after the effective date of this 
+AD.
+
+(k) Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install air 
+data pressure transducers in air data computers, air data modules, 
+air data attitude heading reference systems, and digital air data 
+computers, having the part numbers and serial numbers identified in 
+Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-A01, dated 
+November 6, 2012, on any aircraft.
+
+(l) Paperwork Reduction Act Burden Statement
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty 
+for failure to comply with a collection of information subject to 
+the requirements of the Paperwork Reduction Act unless that 
+collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 5 minutes per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW., Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles ACO, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the ACO, send it to the attention of the person 
+identified in the Related Information section of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(n) Related Information
+
+    For more information about this AD, contact Blake Higuchi, 
+Aerospace Engineer, Systems and Equipment Branch, ANM-130L, FAA, Los 
+Angeles ACO, 3960 Paramount Boulevard, Lakewood, CA 90712-4137; 
+phone: 562-627-5315; fax: 562-627-5210; email: 
+[email protected].
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Honeywell Alert Service Bulletin ADM/ADC/ADAHRS-34-A01, 
+dated November 6, 2012.
+    (ii) Airbus Alert Operators Transmission (AOT) A34N001-12, 
+including Appendices A and B, dated November 15, 2012, for Airbus 
+Model A318/A319/A320/A321 series airplanes.
+    (iii) Airbus AOT A34N001-12, including Appendices A and B, dated 
+November 15, 2012, for Airbus Model A330 series airplanes.
+    (3) For Honeywell service information identified in this AD, 
+contact Honeywell Aerospace, Technical Publications and 
+Distribution, M/S 2101-201, P.O. Box 52170, Phoenix, AZ 85072-2170; 
+telephone 602-365-5535; fax 602-365-5577; Internet http://www.honeywell.com. For Airbus service information identified in this 
+AD for Model A330 series airplanes, contact Airbus SAS--
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 
+45 80; email [email protected]; Internet http://www.airbus.com. For Airbus service information identified in this AD 
+for Model A318, A319, A320, and A321 series airplanes, contact 
+Airbus, Airworthiness Office--EAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 21, 2012.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-31587 Filed 1-8-13; 8:45 am]
+BILLING CODE 4910-13-P

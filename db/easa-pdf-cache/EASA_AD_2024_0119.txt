@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2024-0119
+
+Airworthiness Directive
+
+AD No.: 2024-0119
+
+Issued: 27 June 2024 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: 11 July 2024 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 26 – Fire Protection – Engine Pylon Fire Detector – Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343 and A330-743L aeroplanes, all manufacturer serial numbers having Airbus modification (mod) 205716 or mod 205715 embodied.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-26-3073 Revision 01. Affected part: Engine pylon fire detector having Part Number (P/N) 10-3001-00 or P/N 10-3002-00, and a serial number (s/n) listed in Appendix A of the SB, except those marked with an additional ‘A’ engraved in the direct vicinity of the s/n (see Note 1 of this AD). Note 1: The engraved ‘A’ is in addition to the ‘A’ part of the s/n of an affected part (i.e. AExxxxx). Refer to Appendix 1 of this AD, showing the typical location of the engraved ‘A’. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2024-0119 Serviceable part: Engine pylon fire detector, eligible for installation in accordance with Airbus instructions, which is not an affected part. Groups: Group 1 aeroplanes are those which have an affected part installed. Group 2 aeroplanes are those which do not have an affected part installed.
+
+Reason: Occurrences were reported of contamination of the advanced pneumatic detector pressure switch of engine pylon fire detectors. This condition, if not corrected, could affect the reliability of the engine pylon fire detector, possibly leading to an undetected fire, and consequent reduced control of the aeroplane. To address this potential unsafe condition, Collins Aerospace issued SB APD-26-A, providing instructions for inspection of the affected parts, and Airbus issued the SB, providing instructions to replace affected parts with serviceable parts. For the reason described above, this AD requires replacement of the affected parts, and prohibits (re)installation of affected parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Replacement: (1) For Group 1 aeroplanes: Within 36 month after the effective date of this AD, replace each affected part with a serviceable part in accordance with the instructions of the SB. Parts Installation: (2) Do not install (see Note 2 of this AD) an affected part on any aeroplane as required by paragraph (2.1) or (2.2) of this AD, as applicable. (2.1) For Group 1 aeroplanes: After replacement of the affected parts as required by paragraph (1) of this AD. (2.2) For Group 2 aeroplanes: From the effective date of this AD. Note 2: Removing an affected part from an aeroplane and, during the same maintenance visit, re-installing that part on the same location of the same aeroplane, is not considered “install” as specified in paragraph (2) of this AD.
+
+Ref. Publications: Airbus SB A330-26-3073 Revision 01 dated 17 June 2024. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD. Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2024-0119
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 22 March 2024 as PAD 24-036 for consultation until 19 April 2024. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2024-0119 Appendix 1 Marking of Parts Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

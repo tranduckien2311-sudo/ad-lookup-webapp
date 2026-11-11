@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-057-041(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Check for ram air turbine ball bearing integrity This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 -111, -211, -212, -214, -231 and -232 aircraft models without AIRBUS INDUSTRIE modification 24701 or AIRBUS INDUSTRIE Service Bulletin A320-29-1065. In order to prevent a Ram Air Turbine becoming detached from its leg, as a consequence of Ram Air Turbine ball bearing deterioration, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive at the original issue : In order to check for integrity of this ball bearing, and before corrective actions are defined : 1/ Before and after next ground functional check of the Ram Air Turbine (RAT), or after next flight deployment of the Ram Air Turbine, or within 450 flight-hours following May 09, 1993, which of these three occurs first, perform a first inspection of the Ram Air Turbine in accordance with AIRBUS INDUSTRIE Service Bulletin A320-29-1061. As per inspection result replace, if necessary, the Ram Air Turbine before next flight. 2/ After each functional ground check of the Ram Air Turbine, or after each flight Ram Air Turbine deployment, repeat this inspection in accordance with AIRBUS INDUSTRIE Service Bulletin A320-29-1061. As per inspection result replace, if necessary the Ram Air Turbine before next flight. 3/ Before November 30, 1997, unless already accomplished, modify the Ram Air Turbine in accordance with AIRBUS INDUSTRIE Service Bulletin A320-29-1065. .../... n/JYR AIRBUS INDUSTRIE April 23, 1997 93-057-041(B) R2 A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 93-057-041(B) R2 Page n° 2 GSAC Note : No further action according to this
+
+Airworthiness Directive is required after accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-29-1065. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-29-1061 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-29-1065 (or any further approved revision) This Revision 2 replaces Revision 1 of this AD. EFFECTIVE DATES : Original AD : MAY 09, 1993 Revision 1 : JUNE 17, 1995 Revision 2 : MAY 03, 1997

@@ -1,0 +1,31 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007- 0052 [Corrected: 28 February 2007] Date: 23 February 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type Approval Holder’s Name: Type/Model designation(s): D RB211 Trent 500, 700 and 800 series Engines ROLLS-ROYCE PLC E TCDS Number: UK CAA 1056 / EASA:- E042 / UK CAA 1051 Foreign AD: Not applicable. D
+
+Supersedure: None. E Engine - IP Compressor Shaft - Visual Borescope Inspection
+
+ATA 72 of Balance Land S Manufacturer: Rolls-Royce PLC R
+
+Applicability: Models RB211 Trent 553-61, 556-61, 556B-61, 560-61, 553A2-61, 556A2-61, 556B2-61, 560A2-61. These engines are known to be installed E on, but not limited to, Airbus A340-500/600 series aeroplanes. Models RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines. These engines are known to be installed on, but not limited to, Airbus P A330 series aeroplanes. Models RB211 Trent 895-17, 892-17, 892B-17, 884-17, 884B-17, 877-17 and 875-17. These engines are known to be installed on, but not limited U to, Boeing 777 series aeroplanes.
+
+Reason: This
+
+Airworthiness Directive requires inspections for cracks in the rear S balance land of the IP Compressor Rotor. The inspections comprise an on-wing one-off inspection by borescope for RR Trent 800 engines which must be completed within a short timescale, and in-shop inspections to be completed at each opportunity for RR Trent 500, 700 and 800 engines (the in-shop inspection may be carried out in lieu of the on-wing inspection for the Trent 800 engines if it is accomplished within the timescale applicable to the on-wing inspection). This action is necessary following the discovery of IP Compressor Rotor rear balance land cracking on an in-service Trent 800 engine. Stress analysis of the damaged rotor has shown a possible threat to the rotor grity, the cracking therefore presents a potential unsafe condition. inte 1/2
+
+--- PAGE 2 ---
+The cause of the cracking is currently not fully understood but evidence suggests it relates to an unusual balance weight condition. Correction 1: This AD was temporarily posted on the website as Emergency AD 2007-0052-E, and then it was considered more appropriate issuing it as AD 2007-0052. Correction 2: Raised to correct typographical errors in the previous correction note (2006 changed to 2007).
+
+Effective Date: 09 March 2007 Action and 1) Inspection- On-wing Compliance Applicable to RR Trent 800 engines not previously inspected per Rolls- Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-72-AF260 original issue (or later approved issue): D Within 400 flight cycles of the Effective Date of this AD inspect the IP Compressor rotor rear balance land for cracks in accordance with Rolls- Royce RB211 Propulsion System Alert Non Modification Service Bulletin E RB211-72-AF313 original issue (or later approved issue) section 3 Accomplishment Instructions. Engines on which cracking is found should be rejected from service. D 2) Inspection- In-shop Applicable to RR Trent 500, 700 and 800 engines at each shop visit in which the engine is sufficiently disassembled to access the IP E Compressor Module rear face: Inspect the IP Compressor rotor rear balance land for cracks in S accordance with Rolls-Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-72-AF260 original issue (or later approved issue) section 3 Accomplishment Instructions. R
+
+Ref. Publications: Rolls-Royce RB211 Propulsion System Non Modification Service Bulletin E RB211-72-AF313 original issue. Rolls-Royce RB211 Propulsion System Non Modification Service Bulletin RB211-72-AF260 original issue. P
+
+Remarks: 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative U Methods of Compliance (AMOCs) for this AD. 2. The required actions and the risk allowance have granted publication and notification of an immediate AD, ruling out the public consultation S process. 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to Mr. M. Capaccio,
+
+Airworthiness Directive Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For any questions concerning the technical content of the requirements in this AD, please contact Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936. 2/2

@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 95-145-070 (B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 and 321 Aircraft Hydraulic fire shut-off valve Westland - Sitec P/N E03000 This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 and 321 aircraft all models having received AIRBUS INDUSTRIE modification 22155 or WESTLAND-SITEC Service Bulletin E010WS-29-2 which installed Fire Shutt-off Valves P/N E03000 and having not received AIRBUS INDUSTRIE modification 25221 or AIRBUS INDUSTRIE Service Bulletin A320-29-1071. In order to detect an improper functioning of the fire shut-off valves which may result in an incomplete closure/opening, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive, unless already accomplished : - Not later than November 30, 1995 perform on the 2 hydraulic shut-off valves a one-time functional test (dynamic test) followed by a check of the stopping of the FSOV electrical motors in accordance with the instructions given in AIRBUS INDUSTRIE AOT 29-15 dated May 30, 1995. Ref. : AIRBUS INDUSTRIE AOT 29-15 dated May 30, 1995 AIRBUS INDUSTRIE Service bulletin A320-29-1071 WESTLAND-SITEC Service Bulletin E010WS-29-2 This Revision 1 replaces original AD 95-145-070(B) dated July 19, 1995. EFFECTIVE DATES : Original AD : JULY 29, 1995 Revision 1 : JANUARY 13, 1996 v/JYR AIRBUS INDUSTRIE January 03, 1996 95-145-070 (B) R1 A320 et A321 Aircraft

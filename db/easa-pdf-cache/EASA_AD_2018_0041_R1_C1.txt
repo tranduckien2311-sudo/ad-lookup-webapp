@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0041R1
+
+Airworthiness Directive
+
+AD No.: 2018-0041R1 [Correction: 04 April 2018]
+
+Issued: 23 March 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 and A321 aeroplanes
+
+Effective Date: Revision 01: 23 March 2018 Original Issue: 09 February 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA Emergency AD 2018-0041-E dated 09 February 2018.
+
+ATA 72 – Engine – Operational Restrictions
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A320-271N, A321-271N and A321-272N aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected engines: International Aero Engines (IAE) model PW1127G-JM, PW1127GA-JM, PW1130G-JM, PW1133G-JM and PW1133GA-JM engines, serial numbers (ESN) P770450 to P770614 inclusive, except those embodying IAE Service Bulletin (SB) PW1000G-C-72-00-0099-00A-930A-D.
+
+Reason: Several occurrences of engine in-flight shut-down (IFSD) and Rejected Take-Off (RTO) were reported on certain Airbus A320 neo family aeroplanes. Investigations determined that an engine modification, embodied from engine ESN P770450 onwards, induces excessive loads on the high pressure compressor (HPC) aft hub knife edge seal resulting in cracks initiation and subsequent knife edge seal failure, making those engines more susceptible to IFSD. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0041R1 This condition, if not corrected, could lead to dual engine IFSD on aeroplanes having two of these engines installed. To address this potentially unsafe condition, Airbus issued Alert Operators Transmission (AOT) A71N014-18, providing instructions to de-pair the affected engines and discontinue Extended range Two-engine aeroplanes Operations (ETOPS) for aircraft fitted with affected engines, and EASA issued Emergency AD 2018-0041-E, requiring implementation of operational restrictions. Since that AD was issued, IAE developed a new modification, embodied in production from ESN P770615 onwards, which reinforces the design of the high pressure compressor aft hub, and issued SB PW1000G-C-72-00-0099-00A-930A-D, providing instructions to modify in-service engines. Airbus revised AOT A71N014-18 accordingly. For the reasons described above, this AD is revised to limit the population of affected engines. This AD is republished to correct typographical errors in the referenced publication number, and to correct the definition of affected engines, removing the engine model PW1127G1-JM, which was erroneously added in Revision 1 of this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Operational Restrictions: (1) No later than 3 flight cycles (FC) after 09 February 2018 [the effective date of the original issue of this AD] do not operate an aeroplane having two affected engines installed. (2) No later than 1 FC after 09 February 2018 [the effective date of original issue of this AD], do not operate an aeroplane having one affected engine installed on ETOPS operations. (3) Inserting a copy of this AD into the ETOPS Configuration, Maintenance and Procedures (CMP) of an aeroplane and, thereafter, operating that aeroplane accordingly, is an acceptable method to comply with the requirements of paragraph (2) of this AD for that aeroplane. (4) An aeroplane embodying Airbus modification 163917 is not affected by the requirements (1) to (3) of this AD provided it is determined that no affected engine is installed on that aeroplane.
+
+Ref. Publications: Airbus AOT A71N014-18 original issue dated 09 February 2018, and Revision 1 dated 23 March 2018. IAE SB PW1000G-C-72-00-0099-00A-930A-D issue 1 dated 21 February 2018, and issue 2 dated 15 March 2018. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0041R1
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The results of the safety assessment have indicated the need for immediate publication and notification, without the full consultation process. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com . Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

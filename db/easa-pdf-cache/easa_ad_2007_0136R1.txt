@@ -1,0 +1,37 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2007-0136R1 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007-0136R1 Date: 07 April 2009 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : ROLLS-ROYCE PLC RB211 Trent 700 series engines TCDS Number : EASA.E.042 Foreign AD : Not applicable Revision: This AD revises EASA AD 2007-0136, dated 14 May 2007.
+
+ATA 72 Engine – IP Compressor Shaft - Inspection
+
+Manufacturer(s): Rolls-Royce PLC
+
+Applicability: Models RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines. These engines are known to be installed on, but not limited to, Airbus A330 series aeroplanes. This
+
+Airworthiness Directive requires inspections for cracks in the stage 2-3
+
+Reason: interstage spacer of the IP Compressor Rotor during shop visit. This action is necessary following the discovery of IP Compressor Rotor stage 2-3 interstage spacer cracking on an in-service Trent 700 engine. Stress analysis of the damaged rotor has shown a possible threat to the rotor integrity. Therefore, the cracking presents a potential unsafe condition. Revision 1 of this
+
+Airworthiness Directive introduces an alleviation to remove the requirement for inspection when circumstances are such that inspections are unnecessary. Revision status information for the referenced RR Service Bulletins is also updated.
+
+Effective Date: 29 May 2007 EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2007-0136R1 Required Action(s) Inspection - In-shop: and Compliance a) If the IP Compressor rotor is not removed from the IP Compressor Casing: Time(s): Inspection of the IP compressor drum stage 2-3 interstage spacer is required in accordance with Rolls-Royce RB211 Propulsion System Alert NMSB 72-AE753 Revision 2 (or later approved issue) at every shop visit for drums that have accumulated in excess of 1000 cycles since new or since last inspection (to NMSB 72-AE753 (all approved issues) or NMSB 72-AF197 (all approved issues)). If an engine has had a surge event since new or last inspection, then inspection must be completed in accordance with NMSB 72-AE753 Revision 2 (or later approved issue) regardless of the number of cycles accumulated. b) If the IP Compressor rotor is removed from the IP Compressor Casing: Inspect the IP compressor drum stage 2-3 interstage spacer by Eddy Current Inspection in accordance with Rolls-Royce RB211 Propulsion System Alert NMSB 72-AF197 revision 1 (or later approved issue). Inspection must be carried out at current shop visit if the IP compressor drum has not yet been reinstalled into the IP compressor casings at the Effective Date of this
+
+Airworthiness Directive. IP Compressor drums on which cracking is identified by the above means must not be returned to service.
+
+Ref. Publications: Rolls-Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-72-AF197 revision 1. Rolls-Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-72-AE753 revision 2. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original AD was published as PAD 07-059 on 16 April 2007 for consultation until 10 May 2007. No comments were received during this period. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936. EASA Form 110 Page 2/2

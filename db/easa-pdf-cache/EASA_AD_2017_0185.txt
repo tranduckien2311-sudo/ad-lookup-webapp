@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0185
+
+Airworthiness Directive
+
+AD No.: 2017-0185
+
+Issued: 22 September 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 06 October 2017 TCDS Numbers: EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 32 – Landing Gear – Parts with 300M Material Properties outside of Specification Requirements – Identification / Replacement [Life Limit]
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and, Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: In 2006, Messier-Dowty identified a deficiency in the fatigue performance of 300M high strength steel used in forgings. The root cause for this fatigue deficiency was the processing during preparation of the material. After investigation, it was determined that the following material sources (S) were affected by this fatigue deficiency: Electralloy (S1), RSM (S2A, S2B or S2C), Latrobe (S3) and Aubert et Duval (S4). Consequently, reduced lives were calculated for certain landing gear main fittings, bogie beams and sliding pistons, determined to be affected by the 300M material properties quality issue. These Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0185 components are installed on Main, Nose and Centre Landing Gears (MLG, NLG, CLG) of A330 and A340 aeroplanes. This condition, if not corrected, could lead to structural failure of a landing gear, possibly resulting in loss of control of the aeroplane during take-off or landing. To initially address this potential unsafe condition, Airbus published reduced life limits for the affected parts from material sources S1, S2 and S3 in the applicable Airworthiness Limitation Section (ALS) Part 1. Later, it was determined that ALS Part 1 was an inappropriate place for recording the reduced lives and Airbus published Service Bulletin (SB) A330-32-3281, SB A340-32-4310, and SB A340-32-5119, as applicable, to provide identification and replacement instructions for affected parts made of all material sources S1, S2, S3 and S4. This action was also accomplished to simplify Airbus ALS Part 1. For the reasons described above, this AD requires implementation of the reduced life limits for the affected parts and replacement of any parts that are close to, or have exceeded the applicable reduced life limit.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: Airbus SB A330-32-3281 Revision 02, SB A340-32-4310 Revision 02, and SB A340-32-5119 Revision 01, as applicable to aeroplane type and model, are hereafter collectively referred to as ‘the applicable SB’ in this AD. Note 2: For the purpose of this AD, an affected main fitting, bogie beam and sliding piston of MLG, NLG or CLG is a part with a Part Number (P/N) and serial number (s/n) combination listed in the applicable SB. Note 3: For the purpose of this AD, a serviceable part is a landing gear main fitting, bogie beam or sliding piston that has not exceeded the applicable life limit as specified in the applicable SB or the ALS Part 1, since first installation on an aeroplane. Part Identification: (1) Within 3 months after the effective date of this AD, identify the P/N and the s/n of each main fitting, bogie beam and sliding piston of the MLG, NLG and CLG installed on the aeroplane, identify the Weight Variant (WV) of the aeroplane and determine the applicable reduced life limit, in accordance with the instructions of the applicable SB. A review of aeroplane maintenance records is acceptable for identification of the installed main fittings, bogie beams and sliding pistons of MLG, NLG and CLG, provided the P/N and s/n of each component can be conclusively identified by that review. Part Replacement [Reduced Life Limit]: (2) Before exceeding the applicable life limit, or within 3 months after the effective date of this AD, whichever occurs later, replace each affected part (see Note 2 of this AD) with a serviceable part (see Note 3 of this AD). Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0185 Spare Part Installation: (3) From the effective date of this AD, in case of replacement on an aeroplane of a landing gear main fitting, bogie beam or sliding piston, it is allowed to install an affected part (see Note 2 of this AD) on that aeroplane, provided it is a serviceable part (see Note 3 of this AD) and that, following installation, the affected part is replaced as required by this AD.
+
+Ref. Publications: Airbus SB A330-32-3281 Revision 02 dated 16 June 2017. Airbus SB A340-32-4310 Revision 02 dated 16 June 2017. Airbus SB A340-32-5119 Revision 01 dated 05 February 2017. A330 ALS Part 1 Revision 8 published on 11 April 2016. A340 ALS Part 1 Revision 8 published on 11 April 2016. The use of later approved revisions or variations of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 08 March 2017 as PAD 17-028 for consultation until 05 April 2017 and republished on 22 August 2017 as PAD 17-028R1 for additional consultation until 19 September 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, E-mail:airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

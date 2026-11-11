@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0152
+
+Airworthiness Directive
+
+AD No.: 2017-0152
+
+Issued: 17 August 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 31 August 2017 TCDS Numbers: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 28 – Fuel – Trim Tank Overflow – Functional Test
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, and, Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all manufacturer serial numbers (MSN) up to MSN 1711 inclusive.
+
+Reason: It was discovered that the production functional test to verify the “Tank Pressures during Refuel Overflow” was not performed on the Trim Tank (TT) of A330 and A340 aeroplanes up to MSN 1711. This test ensures that there is no blockage of the vent pipes. This condition, if not corrected, could lead, in combination with a high level sensor failure, to an over-pressurisation of the TT during refuelling or during aft fuel transfer, possibly resulting in a TT rupture and consequent reduced control of the aeroplane. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0152 To address this potential unsafe condition, Airbus published Service Bulletin (SB) A330-28-3130, SB A340-28-4140 and SB A340-28-5061, to provide functional test instructions. For the reasons described above, this AD requires a one-time functional test of the TT overflow and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: Airbus SB A330-28-3130, SB A340-28-4140 and SB A340-28-5061, as applicable, are hereafter collectively referred to as “the applicable SB” in this AD. Inspection: (1) Within 42 months after the effective date of this AD, accomplish a TT overflow functional test in accordance with the instructions of the applicable SB. Corrective Action(s): (2) If, during the functional test as required by paragraph (1) of this AD, the TT maximum allowable pressure is exceeded, before next flight, contact Airbus for approved corrective action instructions and accomplish those instructions accordingly. (3) If, during the functional test as required by paragraph (1) of this AD, the trim surge tank maximum allowable pressure is exceeded, before next flight, accomplish a visual inspection of the aperture leading to the flame arrestors (NACA duct), and a detailed inspection of the flame arrestor in accordance with the instructions of the applicable SB. (4) If, during any inspection as required by paragraph (3) of this AD, any discrepancy is detected as specified in the applicable SB, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of the applicable SB.
+
+Ref. Publications: Airbus SB A330-28-3130 original issue dated 18 May 2017. Airbus SB A340-28-4140 original issue dated 18 May 2017. Airbus SB A340-28-5061 original issue dated 18 May 2017. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0152 2. This AD was posted on 11 July 2017 as PAD 17-095 for consultation until 08 August 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

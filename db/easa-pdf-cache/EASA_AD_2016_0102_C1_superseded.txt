@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0102
+
+Airworthiness Directive
+
+AD No.: 2016-0102 [Correction: 07 June 2016]
+
+Issued: 01 June 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): d AIRBUS A330 and A340 aeroplanes e
+
+Effective Date: 08 June 2016 TCDS Numbers: EASA.A.004 and EASA.A.015 d Foreign AD: Not applicable
+
+Supersedure: None e
+
+ATA 53 – Fuselage – Fuselage Bulk Cargo Door Frames – Inspection / Repair s
+
+Manufacturer(s): r Airbus (formerly Airbus Industrie) e
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 p aeroplanes, and Airbus A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, u manufacturer serial number (MSN) 0400 and higher.
+
+Reason: S In the frame of the certification of the A330 Extended Service Goal exercise, it has been identified that Tartaric Sulfuric Anodising (TSA) / Chromic Acid Anodising (CAA) surface treatment is present in some frame holes, from aeroplane MSN 0400 and later MSN, following production process modification. On bulk cargo door frames (FR) 67 and FR 69 Right Hand Side, the door fitting attachment holes have this TSA / CAA treatment, which leads to a detrimental effect on fatigue behaviour. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0102 This condition, if not detected and corrected, could lead to critical cracks in the primary structure, possibly resulting in in-flight loss of a bulk cargo door, consequent decompression and potential damage to the aeroplane that could reduce the control of the aeroplane. To address this potential unsafe condition, Airbus issued Alert Operators Transmission (AOT) A53L012-16 to provide instructions to inspect the fuselage bulk cargo door frames at specific locations. For the reasons described above, this AD requires repetitive non-destructive test (rototest and high-frequency eddy-current (HFEC)) inspection or visual detailed (DET) inspections of the affected areas, and, depending on findings, accomplishment of a repair. This AD is considered an interim measure, and further AD action may follow. This AD is republished to correct the Applicability, where the Model A340-313 had inadvertently d been omitted.
+
+Required Action(s) and Compliance Time(s): e Required as indicated, unless accomplished previously: d (1) Within the compliance times specified in Table 1 of this AD, accomplish a rototest inspection of the holes for the bulk cargo door support fittings at FR 67 and FR 69 and an HFEC inspection of the holes for the door latch fitting at FR 69, or a DET inspection of both same areas (bulk cargo e door support fittings at FR 67 and FR 69 and door latch fitting at FR 69), in accordance with the instructions of Airbus AOT A53L012-16. s Table 1 – Initial Inspection r Flight Cycles (FC) accumulated since aeroplane Compliance time first flight, on the effective date of this AD e 12 500 or more Within 200 FC or 2 months, whichever occurs first after the effective date of this AD p Less than 12 500 Within 200 FC or 2 months, whichever occurs first after exceeding 12 500 FC u (2) Following the initial inspection as required by paragraph (1) of this AD, at intervals not to exceed the value as specified in Table 2 of this AD, as applicable, depending on the selected S previous inspection method, inspect the holes for the bulk cargo door support fittings at FR 67 and FR 69 and the holes for the door latch fitting at FR 69, in accordance with the instructions of Airbus AOT A53L012-16. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0102 Table 2 – Repetitive Inspections Inspection Method Inspection Interval DET 150 FC Rototest 2 900 FC HFEC (3) If, during any inspection as required by paragraph (1) or (2) of this AD, as applicable, any discrepancy is detected, before next flight, contact Airbus for approved repair instructions and, within the compliance time(s) specified in those instructions, accomplish those instructions accordingly. (4) Accomplishment of a repair on an aeroplane, as required by paragraph (3) of this AD, does not constitute terminating action for the inspections as required by this AD for that aeroplane, d unless otherwise specified in the Airbus repair instructions. e (5) Within 30 days after the inspections as required by paragraphs (1) and (2) of this AD, when confirmed that no discrepancy is detected, report the inspection results to Airbus in accordance with the instructions of Airbus AOT A53L012-16. d
+
+Ref. Publications: Airbus AOT A53L012-16 original issue dated 30 May 2016. e The use of later approved revisions of this document is acceptable for compliance with the s requirements of this AD. r
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of e Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD p with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, u Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please S contact: AIRBUS – Airworthiness Office – EIAL, E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

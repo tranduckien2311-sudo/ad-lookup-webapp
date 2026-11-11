@@ -1,0 +1,574 @@
+[Federal Register Volume 81, Number 203 (Thursday, October 20, 2016)]
+[Rules and Regulations]
+[Pages 72515-72519]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-24191]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-0465; Directorate Identifier 2015-NM-096-AD; 
+Amendment 39-18679; AD 2016-20-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200 and -300 series airplanes; and Model A340-200 and 
+-300 series airplanes. This AD was prompted by a determination that the 
+compliance times for certain post-repair inspections and certain 
+allowable damage limits (ADLs) must be reduced in order to address 
+fatigue. This AD requires identifying any repairs and ADLs used to 
+assess or control any structural damage on certain structural areas, 
+and corrective action if necessary. We are issuing this AD to prevent 
+fatigue damage on primary structure and structural repairs, which could 
+result in reduced structural integrity of the airplane.
+
+DATES: This AD is effective November 25, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 25, 
+2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet: http://www.airbus.com. You may view this referenced service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221. It is also available on the 
+Internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2016-0465.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+0465; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone: 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1138; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A330-
+200 and -300 series airplanes; and Model A340-200 and -300 series 
+airplanes. The NPRM published in the Federal Register on February 18, 
+2016 (81 FR 8160) (``the NPRM''). The NPRM was prompted by a 
+determination that the compliance times for certain post-repair 
+inspections and certain ADLs must be reduced in order to address 
+fatigue. The NPRM proposed to require identifying any repairs and ADLs 
+used to assess or control any structural damage on certain structural 
+areas, and corrective action if necessary. We are issuing this AD to 
+prevent fatigue damage on primary structure and structural repairs, 
+which could result in reduced structural integrity of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2015-0101R1, dated June 12, 2015 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the
+
+[[Page 72516]]
+
+MCAI''), to correct an unsafe condition for certain Airbus Model A330-
+200 and -300 series airplanes; and Model A340-200 and -300 series 
+airplanes. The MCAI states:
+
+    Result of a fleet survey accomplished in 2008 identified that 
+the nature of flight missions of A330 and A340-200/300 fleets had 
+significantly changed in comparison with assumed usage during the 
+type certification. Consequently, it was decided to recalculate the 
+Structural Repair Manual (SRM) fatigue values to ensure that the 
+given threshold and intervals remain valid.
+    The results of this recalculation identified reduced thresholds 
+and intervals applicable for repairs and Allowable Damage Limits 
+(ADL) affecting the following areas:
+
+--Door cut-out corners of door surrounding panels (forward cargo 
+door, forward passenger (PAX) door, mid PAX door, emergency exit 
+door/PAX door 3, aft cargo door, bulk cargo door, aft PAX door), on 
+both Left Hand (LH) and Right Hand (RH) sides,
+--Stringer (STGR) 9 junction between Frame (FR) 10 and FR13 on both 
+LH and RH sides, and
+--Fuselage skin doubler repairs on both LH and RH sides.
+
+    Failing to apply the reduced thresholds and intervals, could 
+adversely affect the structural integrity of the aeroplane.
+    To address this unsafe condition, Airbus issued SRM revision 
+dated April 2013 and temporary revision (TR) 53-001 for the STGR9 
+junction between FR10 and FR13 area (and subsequent revisions) to 
+introduce reduced thresholds and intervals for the affected ADLs and 
+repairs and issued a set of Service Bulletins (SB) to identify the 
+ADLs used and repairs made, as well as to enable operators to update 
+aeroplane repair records.
+    Consequently EASA issued AD * * *, to require identification of 
+any repairs and/or ADL used to assess or control any structural 
+damage on certain structural areas and, depending on findings, 
+accomplishment of corrective action(s) [including revising the 
+maintenance or inspection program as applicable to incorporate 
+revised thresholds and intervals and repair].
+    Since that [EASA] AD was issued, data review confirmed that A330 
+freighter versions are not affected by the unsafe condition.
+    This [EASA] AD is revised to remove A330-223F and A330-243F from 
+the Applicability.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+0465.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response.
+
+Requests To Revise Paragraph (g) of the Proposed AD To Include Physical 
+Inspection as Alternative to Records Check
+
+    Delta Air Lines (DAL) and American Airlines requested that we 
+revise the proposed AD to include a physical inspection of affected 
+areas of the airplane in case the maintenance records are unavailable 
+or inconclusive as an alternative to the records check specified in 
+paragraph (g) of the proposed AD. DAL pointed out that their 
+maintenance record search for applied SRM ADLs had inconclusive 
+results. DAL also pointed out that other U.S. operators may not be able 
+to comply with the proposed AD by performing a maintenance records 
+check. American Airlines provided no further justification.
+    We agree that an alternative inspection method in lieu of a 
+maintenance records check could be appropriate. When the repair records 
+and/or applied SRM ADL are unavailable or inconclusive, then an 
+alternative method of inspection can be done using a method approved by 
+the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA). We have revised 
+paragraph (g) of this AD to include an alternative method of inspection 
+in the case of inconclusive or unavailable records.
+    We have also revised paragraph (h)(2) of this AD to clarify the 
+affected repairs for that paragraph.
+
+Additional Change Made in This AD
+
+    We have converted Tables 1 and 2 of the proposed AD into text. 
+These changes are for formatting purposes only and do not change the 
+intent of those requirements.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following Airbus service information. The service 
+information describes procedures for updating the airplane repair 
+records with revised thresholds and intervals. These documents are 
+distinct since they apply to different airplane models in different 
+configurations.
+     Airbus Service Bulletin A330-53-3232, dated November 4, 
+2014.
+     Airbus Service Bulletin A330-53-3233, dated September 26, 
+2014.
+     Airbus Service Bulletin A330-53-3234, dated December 8, 
+2014.
+     Airbus Service Bulletin A330-53-3235, Revision 01, dated 
+January 14, 2015.
+     Airbus Service Bulletin A340-53-4222, dated November 25, 
+2014.
+     Airbus Service Bulletin A340-53-4223, dated September 26, 
+2014.
+     Airbus Service Bulletin A340-53-4224, dated December 15, 
+2014.
+     Airbus Service Bulletin A340-53-4225, Revision 01, dated 
+January 14, 2015.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 95 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+               Action                        Labor cost           Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+Records review......................  2 work-hours x $85 per               $0             $170          $16,150
+                                       hour = $170.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 72517]]
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-20-13 Airbus: Amendment 39-18679. Docket No. FAA-2016-0465; 
+Directorate Identifier 2015-NM-096-AD.
+
+(a) Effective Date
+
+    This AD is effective November 25, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs (c)(1) 
+and (c)(2) of this AD, certificated in any category, manufacturer 
+serial numbers (MSNs) 1 through 1,600 inclusive.
+    (1) Airbus Model A330-201, -202, -203, -223, -243, -301, -302, -
+303, -321, -322, -323, -341, -342, and -343 airplanes.
+    (2) Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a determination that the compliance 
+times for certain post-repair inspections and certain allowable 
+damage limits (ADLs) must be reduced in order to address fatigue. We 
+are issuing this AD to prevent fatigue damage on primary structure 
+and structural repairs, which could result in reduced structural 
+integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Records Review
+
+    (1) At the applicable times in paragraphs (g)(1)(i) through 
+(g)(1)(x) of this AD, review the airplane maintenance records to 
+identify any structural repair manual (SRM) ADLs used to assess or 
+control any structural damage or any structural repair accomplished 
+as specified in an SRM, as applicable, that have been applied on the 
+applicable areas as specified in paragraphs (g)(2)(i) through 
+(g)(2)(iv) of this AD. If the review of the airplane maintenance 
+records is inconclusive or the records are unavailable, inspect the 
+airplane to identify any SRM ADL used to assess or control any 
+structural damage or any structural repair accomplished in 
+accordance with a SRM, as applicable, using a method approved by 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA).
+    (i) For Model A330-200 pre-mod 49144 airplanes, with left-hand 
+(LH) and right-hand (RH) mid passenger (PAX) door surround panels, 
+as specified in Airbus Service Bulletin A330-53-3232, dated November 
+4, 2014: Within 12 months after the effective date of this AD.
+    (ii) For Model A330-200 pre-mod 49144 airplanes, with forward 
+cargo door, emergency exit door/PAX door 3, aft cargo door, bulk 
+cargo door, and aft PAX door surround panels; as specified in Airbus 
+Service Bulletin A330-53-3232, dated November 4, 2014: Within 24 
+months after the effective date of this AD.
+    (iii) For Model A330-300 pre-mod 49144 airplanes and Model A340-
+200 and -300 pre-mod 49144 airplanes, with mid PAX door surround 
+panels, forward cargo door, emergency exit door/PAX door 3, aft 
+cargo door, bulk cargo door, and aft PAX door surround panels; as 
+specified in Airbus Service Bulletin A330-53-3232, dated November 4, 
+2014; or Airbus Service Bulletin A340-53-4222, dated November 25, 
+2014; as applicable: Within 24 months after the effective date of 
+this AD.
+    (iv) For Model A330-201, -202, -203, -223, -243, -301, -302, -
+303, -321, -322, -323, -341, -342, and -343 and Model A340-211, -
+212, -213, -311, -312, and -313, all post-mod 40347 airplanes, with 
+forward PAX door surround panels with an ADL with a temporary life 
+limit; as specified in Airbus Service Bulletin A330-53-3233, dated 
+September 26, 2014; or Airbus Service Bulletin A340-53-4223, dated 
+September 26, 2014; as applicable: Within 12 months after the 
+effective date of this AD.
+    (v) For Model A330-201, -202, -203, -223, -243, -301, -302, -
+303, -321, -322, -323, -341, -342, and -343 and Model A340-211, -
+212, -213, -311, -312, and -313, all post-mod 40347 airplanes, with 
+forward PAX door surround panels with an ADL with a Permanent 
+Acceptance; as specified in Airbus Service Bulletin A330-53-3233, 
+dated September 26, 2014; or Airbus Service Bulletin A340-53-4223, 
+dated September 26, 2014; as applicable: Within 24 months after the 
+effective date of this AD.
+    (vi) For Model A330-201, -202, -203, -223, -243, -301, -302, -
+303, -321, -322, -323, -341, -342, and -343 airplanes and Model 
+A340-211, -212, -213, -311, -312, and -313 airplanes; stringer 9 
+junction between frame (FR) 10 and FR13; as specified in Airbus 
+Service Bulletin A330-53-3235, Revision 01, dated January 14, 2015; 
+or Airbus Service Bulletin A340-53-4225, Revision 01, dated January 
+14, 2015; as applicable: Within 12 months after the effective date 
+of this AD.
+    (vii) For Model A340-200 and -300 Weight Variant (WV)00s 
+airplanes; forward and rear fuselage; as specified in Airbus Service 
+Bulletin A340-53-4224, dated December 15, 2014: Within 12 months 
+after the effective date of this AD.
+    (viii) For Model A340-200 and -300 WV00s airplanes; nose forward 
+and center fuselage; as specified in Airbus Service Bulletin A340-
+53-4224, dated December 15, 2014: Within 24 months after the 
+effective date of this AD.
+    (ix) For Model A330-200 and -300 pre-mod 49144 airplanes, and 
+Model A340-200
+
+[[Page 72518]]
+
+and -300 WV20s airplanes; forward and rear fuselage, nose forward 
+and center fuselage; as specified in Airbus Service Bulletin A330-
+53-3234, dated December 8, 2014; or Airbus Service Bulletin A340-53-
+4224, dated December 15, 2014; as applicable: Within 24 months after 
+the effective date of this AD.
+    (x) For Model A330-200 and -300 post-mod 49144 airplanes and 
+Model A340-200 and -300 post-mod 49144 airplanes; nose forward and 
+center fuselage; as specified in Airbus Service Bulletin A330-53-
+3234, dated December 8, 2014; or Airbus Service Bulletin A340-53-
+4224, dated December 15, 2014; as applicable: Within 24 months after 
+the effective date of this AD.
+    (2) Applicable areas (on both LH and RH sides) are identified in 
+paragraphs (g)(2)(i) through (g)(2)(iv) of this AD.
+    (i) Door cut-out corners of door surrounding panels (forward 
+cargo door, mid PAX door, emergency exit door/PAX door 3, aft cargo 
+door, bulk cargo door, aft PAX door), as specified in Airbus Service 
+Bulletin A330-53-3232, dated November 4, 2014; or Airbus Service 
+Bulletin A340-53-4222, dated November 25, 2014; as applicable.
+    (ii) Forward PAX door surround panels, as specified in Airbus 
+Service Bulletin A330-53-3233, dated September 26, 2014; or Airbus 
+Service Bulletin A340-53-4223, dated September 26, 2014; as 
+applicable.
+    (iii) Fuselage skin doubler repairs, as specified in Airbus 
+Service Bulletin A330-53-3234, dated December 8, 2014; or Airbus 
+Service Bulletin A340-53-4224, dated December 15, 2014; as 
+applicable.
+    (iv) Stringer 9 junction between FR10 and FR13, as specified in 
+Airbus Service Bulletin A330-53-3235, Revision 01, dated January 14, 
+2015; or Airbus Service Bulletin A340-53-4225, Revision 01, dated 
+January 14, 2015; as applicable.
+
+(h) Corrective Actions
+
+    If, during any review or inspection required by paragraph (g)(1) 
+of this AD, it is determined that an SRM ADL was used on an area 
+specified in paragraphs (g)(2)(i) through (g)(2)(iv) of this AD to 
+assess or control any structural damage, or any structural repair of 
+an area specified in paragraphs (g)(2)(i) through (g)(2)(iv) of this 
+AD was accomplished as specified in the instructions of the 
+applicable SRM revision dated before April 2013 or SRM temporary 
+revision (TR) dated before November 28, 2014: Within the applicable 
+compliance time specified in paragraphs (g)(1)(i) through (g)(1)(x) 
+of this AD, do the actions specified in paragraphs (h)(1) or (h)(2) 
+of this AD, as applicable.
+    (1) Revise the maintenance or inspection program, as applicable, 
+with the applicable revised thresholds and intervals for the 
+identified structural repairs embodied on the airplane, and 
+accomplish all updated inspections, in accordance with the 
+Accomplishment Instructions of the applicable service information 
+identified in paragraphs (g)(2)(i) through (g)(2)(iv) of this AD, 
+except as required by paragraphs (h)(1)(i) and (h)(1)(ii) of this 
+AD.
+    (i) Where the applicable service information identified in 
+paragraphs (g)(2)(i) through (g)(2)(iv) of this AD specifies to 
+contact Airbus for specific assessment, revise the maintenance or 
+inspection program and accomplish all updated inspections, as 
+applicable, using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA.
+    (ii) Where the applicable service information identified in 
+paragraphs (g)(2)(i) through (g)(2)(iv) of this AD specifies 
+``current SRM,'' no SRM revision dated before April 2013 or SRM TR 
+dated before November 28, 2014, is considered a ``current SRM.''
+    (2) For any repair that was previously allowed in any revision 
+of the Airbus A330 or A340 SRM, as applicable, dated before April 
+2013; or in any SRM TR dated before November 28, 2014, to the 
+applicable SRM, and is no longer allowed by the applicable SRM 
+revision dated on or after April 2013: Make an assessment using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the EASA; or Airbus's EASA 
+DOA; and perform necessary corrective actions at the applicable 
+times identified therein.
+
+(i) Limitation on Repair/Replacement
+
+    As of the effective date of this AD, for any structural damage 
+in the areas identified in paragraphs (g)(2)(i) through (g)(2)(iv) 
+of this AD that has exceeded the ADL, no repair or replacement may 
+be done using an Airbus A330 or A340 SRM dated before April 2013, or 
+any Airbus A330 or A340 SRM TR dated before November 28, 2014.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone: 425-227-1138; fax: 425-227-1149. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (h)(1)(i), (h)(1)(ii), and (h)(2) of this AD: If any 
+service information contains procedures or tests that are identified 
+as RC, those procedures and tests must be done to comply with this 
+AD; any procedures or tests that are not identified as RC are 
+recommended. Those procedures and tests that are not identified as 
+RC may be deviated from using accepted methods in accordance with 
+the operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(k) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA AD 2015-0101R1, dated June 12, 2015, for related information. 
+This MCAI may be found in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-
+2016-0465.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-53-3232, dated November 4, 
+2014.
+    (ii) Airbus Service Bulletin A330-53-3233, dated September 26, 
+2014.
+    (iii) Airbus Service Bulletin A330-53-3234, dated December 8, 
+2014.
+    (iv) Airbus Service Bulletin A330-53-3235, Revision 01, dated 
+January 14, 2015.
+    (v) Airbus Service Bulletin A340-53-4222, dated November 25, 
+2014.
+    (vi) Airbus Service Bulletin A340-53-4223, dated September 26, 
+2014.
+    (vii) Airbus Service Bulletin A340-53-4224, dated December 15, 
+2014.
+    (viii) Airbus Service Bulletin A340-53-4225, Revision 01, dated 
+January 14, 2015.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: [email protected]; Internet: 
+http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+[[Page 72519]]
+
+
+    Issued in Renton, Washington, on September 28, 2016.
+Dionne Palermo,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-24191 Filed 10-19-16; 8:45 am]
+ BILLING CODE 4910-13-P

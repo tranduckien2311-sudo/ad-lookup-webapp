@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 91-152-019(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Hydraulic fire shut off valve This
+
+Airworthiness Directive applies to all A320 AIRBUS INDUSTRIE aircraft, all models without AIRBUS INDUSTRIE modification 22155. In order to prevent a possible internal short circuit of hydraulic fire shut off valve actuator leading to power supply circuit breaker popping out and in consequence the valve failing to close, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1/ Identify all suspect fire shut off valves as per AIRBUS INDUSTRIE All Operators Telex ref. AOT 29-04 June 1, 1991 Revision 01 or any later revision. 2/ Carry out an operational test of suspect fire shut off valves at next scheduled maintenance check or within 350 flight hours as per instructions of AIRBUS INDUSTRIE All Operators Telex ref. AOT 29-04 June 1, 1991 Revision 01 or any later revision. Repeat this test at intervals not exceeding 350 flight hours up to replacement of suspect valve by a valve EO 1100 Amendment A or EO 1100 Amendment AB or EO 1100 Amendment C or A06 A00. 3/ In the event that the test fails, before next flight replace the actuator and verify its correct operation by performing the operational test as defined in § 2 of this AD. If the installed actuator is not an actuator EO 1100 Amendment A or EO 1100 Amendment AB or EO 1100 Amendment C or A06 A00, then the operational test must be repeated at intervals not exceeding 350 flight hours in accordance with § 2 of this AD. Ref. : AOT 29-04 June 1, 1991 Revision 01 or later approved revision EFFECTIVE DATE : JULY 20, 1991 e/C AIRBUS INDUSTRIE July 10, 1991 91-152-019(B) A320 aircraft

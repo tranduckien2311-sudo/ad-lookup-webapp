@@ -1,0 +1,19 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-084-097(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Wing - Inspection Pressurized floor pick-up angles on rear spar This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all certified models an all serial numbers without AIRBUS INDUSTRIE modification N° 21283 or AIRBUS INDUSTRIE Service Bulletin A320-57-1025 Revision 2. In order to detect fatigue cracks on the pressurized floor pick-up angle on rear spar which could affect the structural integrity of the airplane, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1) Before accumulation of 20,000 flights, perform an eddy current inspection of the pressurized floor pick-up angles on rear spar in accordance with AIRBUS INDUSTRIE Service Bulletin A320-57-1090. 2) In case no crack is detected, repeat the inspection defined in paragraph 1 of this
+
+Airworthiness Directive at intervals not exceeding 10,000 flights. 3) In case crack(s) is (are) detected, replace affected pick-up angle(s) and the corresponding diaphragms at thresholds given in AIRBUS INDUSTRIE Service Bulletin A320-57-1090 and in accordance with instructions given in AIRBUS INDUSTRIE A320-57-1025 Revision 2, and repeat inspection described in paragraph 1 of this
+
+Airworthiness Directive on the other pick-up angles at interval not exceeding 10,000 flights. NOTE : The requirements of this
+
+Airworthiness Directive are cancelled after replacement of all pick-up angles and all diaphragms in accordance with AIRBUS INDUSTRIE Service Bulletin A320-57- 1025 Revision 2. .../... v/JYR AIRBUS INDUSTRIE March 12, 1997 97-084-097(B) A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 97-084-097(B) Page n° 2 GSAC Ref. : AIRBUS INDUSTRIE Service Bulletin A320-57-1025 Revision 2 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-57-1090 (or any further approved revision) EFFECTIVE DATE : MARCH 22,1997

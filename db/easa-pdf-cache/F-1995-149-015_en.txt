@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 95-149-015(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A330 Aircraft Flight controls - Spoiler servo-controls (LH/RH) This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A330 aircraft models -301; -321; -322; -341 and -342 which have not received the AIRBUS INDUSTRIE modifications 42724 or AIRBUS INDUSTRIE modification 43709, or AIRBUS INDUSTRIE Service Bulletin A330-27-3034. In order to prevent any external hydraulic leakage of one of these spoiler servo-controls due to a loosening of the inlet filter which can lead to the loss of the associated hydraulic circuit, the following measures are rendered mandatory from the effective date of this
+
+Airworthiness Directive, unless accomplished previously. - Within 18 months from the effective date of this
+
+Airworthiness Directive, replace the inlet filter in each of the 12 spoiler servo-controls located at surface position 1 to 6 (LH and RH) and secure with lockwire in accordance with the instructions given in AIRBUS INDUSTRIE Service Bulletin A330-27-3034. Ref. : AIRBUS INDUSTRIE Service Bulletin A330-27-3034 EFFECTIVE DATE : JULY 29, 1995 d/JYR AIRBUS INDUSTRIE July 19, 1995 95-149-015(B) A330 Aircraft

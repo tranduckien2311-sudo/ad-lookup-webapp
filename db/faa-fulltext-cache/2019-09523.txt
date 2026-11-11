@@ -1,0 +1,620 @@
+[Federal Register Volume 84, Number 90 (Thursday, May 9, 2019)]
+[Rules and Regulations]
+[Pages 20252-20256]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-09523]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-1005; Product Identifier 2018-NM-109-AD; Amendment 
+39-19627; AD 2019-08-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2016-16-01, 
+which applied to certain Airbus SAS Model A330-200 Freighter, -200, and 
+-300 series airplanes. AD 2016-16-01 required an inspection of affected 
+structural parts in the cargo and cabin compartments to determine if 
+proper heat treatment has been done, and replacement or repair if 
+necessary. This AD retains the requirements of AD 2016-16-01 and 
+requires inspection of additional locations of the cabin compartment 
+structure. This AD was prompted by a report of a manufacturing defect 
+(i.e., improperly heat-treated materials) that affects the durability 
+of affected parts in the cargo and cabin compartments. We are issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective June 13, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 13, 
+2019.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 45 80; email [email protected]; 
+internet http://www.airbus.com. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 2200 South 216th 
+St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2018-1005.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+1005; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2016-16-01, Amendment 39-18599 (81 FR 51325, 
+August 4, 2016; corrected September 1, 2016 (81 FR 60246)) (``AD 2016-
+16-01''). AD 2016-16-01 applied to certain Airbus SAS Model A300-200 
+Freighter, -200, and -300 series airplanes. The NPRM published in the 
+Federal Register on December 10, 2018 (83 FR 63444). The NPRM was 
+prompted by a report of a manufacturing defect (i.e., improperly heat-
+treated materials) that affects the durability of affected parts in the 
+cargo and cabin compartments. The NPRM proposed to continue to require 
+an inspection of affected structural parts in the cargo and cabin 
+compartments to determine if proper heat treatment has been done, and 
+replacement or repair if necessary. The NPRM also proposed to require 
+inspection of additional locations of the cabin compartment structure. 
+We are issuing this AD to address crack initiation and propagation in 
+affected parts in the cargo and cabin compartments, which could result 
+in reduced structural integrity of the fuselage.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, issued EASA AD 2018-
+0147, dated July 13, 2018 (referred to after this as the Mandatory 
+Continuing Airworthiness Information, or ``the MCAI''), to correct an 
+unsafe condition for certain Airbus SAS Model A330-200 Freighter, -200, 
+and -300 series airplanes. The MCAI states:
+
+    It was determined that several structural parts, intended for 
+cargo or cabin compartment installation, were manufactured from 
+improperly heat-treated materials. A subsequent review identified 
+that some of those parts were installed on aeroplanes manufactured 
+between November 2011 and February 2013. Consequently, Airbus 
+implemented measures into manufacturing processes to ensure 
+detection and to prevent further installation of such non-conforming 
+parts. A detailed safety assessment was accomplished to identify the 
+possible impact of these parts on the aeroplane structure. The 
+result of this structural analysis demonstrated the capability of 
+the affected structure to sustain static limit loads, but failed to 
+confirm that the affected structures meet the certified fatigue 
+life.
+    This condition, if not detected and corrected, could lead to 
+crack initiation and propagation, possibly resulting in reduced 
+structural integrity of the fuselage.
+    To address this unsafe condition, Airbus published the 
+applicable SBs [service bulletins] to provide inspection 
+instructions for affected structural cargo and cabin parts, 
+respectively. Consequently, EASA issued AD 2015-0212 [which 
+corresponds to FAA AD 2016-16-01] to require a one-time special 
+detailed inspection (SDI) [eddy current inspection] to measure the 
+electrical conductivity of affected parts, to identify the presence 
+or absence of heat treatment, and, depending on findings, applicable 
+corrective action(s) [replacement or repair].
+    Since that [EASA] AD was issued, Airbus identified that some 
+additional affected parts, located in the cabin compartment 
+structure, have been missed and need to be inspected. Consequently, 
+Airbus issued SB A330-53-3228 Revision 01 to introduce the locations 
+of those missed structural parts to be inspected.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2015-0212, which is superseded, and expands 
+the number and locations of structural parts to be inspected.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+1005.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response.
+
+Request To Delay Issuance of AD
+
+    American Airlines (American) stated its support for the NPRM, but 
+noted that Airbus Service Bulletin A330-53-3228, Revision 01, dated 
+April 11, 2018,
+
+[[Page 20253]]
+
+included several errors, including mislabeled parts, parts depicted in 
+the wrong locations, and incorrect figure references. American reported 
+that Airbus has verified the errors, which Airbus indicated would be 
+addressed in a revised service bulletin. To avoid the need for requests 
+for alternative methods of compliance (AMOCs), American requested that 
+we delay issuance of the AD until revised service information has been 
+released.
+    We acknowledge the commenter's concerns. The amount of 
+clarification needed would be too complex to include in this AD. We 
+expect to work with Airbus and EASA to issue a global AMOC that 
+addresses any known errors. In addition, we have added paragraph (n) in 
+this AD, ``Exception to Service Information Specifications,'' to 
+provide operators with information on how to address any other issues, 
+if needed. We have redesignated subsequent paragraphs accordingly. We 
+have also revised paragraphs (j), (k), (l)(2), and (m) of this AD to 
+refer to this exception.
+    In light of the critical nature of the identified unsafe condition, 
+we do not consider it warranted to delay the issuance of this final 
+rule. If Airbus provides a revision to Airbus Service Bulletin A330-53-
+3228, Revision 01, dated April 11, 2018, we will review it in 
+consideration of an AMOC for this AD, or we may consider future 
+rulemaking action.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A330-53-3227, Revision 02, dated 
+July 25, 2018, which describes procedures for inspecting affected 
+structural parts in the cargo compartment to determine if proper heat 
+treatment has been done, and replacing discrepant parts.
+    Airbus has also issued Service Bulletin A330-53-3228, Revision 01, 
+dated April 11, 2018, which describes procedures for inspecting 
+affected structural parts in the cabin compartment to determine if 
+proper heat treatment has been done, doing additional work (inspecting 
+additional locations of the cabin compartment structure), and doing 
+related investigative and corrective actions. Related investigative 
+actions include an eddy current inspection to verify the measurement 
+from the inspection to determine if proper heat treatment has been 
+done. Corrective actions include replacing discrepant parts.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 20 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on  U.S.
+                Actions                        Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2016-16-01...  11 work-hours x $85 per               $0            $935         $18,700
+                                         hour = $935.
+New additional work...................  5 work-hours x $85 per                 0             425           8,500
+                                         hour = $425.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary on-condition 
+action that would be required based on the results of any required 
+actions. We have no way of determining the number of aircraft that 
+might need this on-condition action:
+
+                 Estimated Costs of On-Condition Action
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+45 work-hours x $85 per hour = $3,825.          $0 \*\           $3,825
+------------------------------------------------------------------------
+* We have received no definitive data on the parts cost for the on-
+  condition action.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all known costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs
+
+[[Page 20254]]
+
+applicable to transport category airplanes and associated appliances to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2016-16-01, Amendment 39-18599 (81 FR 51325, August 4, 2016; corrected 
+September 1, 2016 (81 FR 60246)), and adding the following new AD:
+
+2019-08-06 Airbus SAS: Amendment 39-19627; Docket No. FAA-2018-1005; 
+Product Identifier 2018-NM-109-AD.
+
+(a) Effective Date
+
+    This AD is effective June 13, 2019.
+
+(b) Affected ADs
+
+    This AD replaces AD 2016-16-01, Amendment 39-18599 (81 FR 51325, 
+August 4, 2016; corrected September 1, 2016 (81 FR 60246)) (``AD 
+2016-16-01'').
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes, certificated in any 
+category, identified in paragraphs (c)(1), (c)(2), and (c)(3) of 
+this AD, manufacturer serial numbers 1175, 1180, 1287 through 1475 
+inclusive, 1478, 1480, 1483, and 1506.
+    (1) Model A330-223F and -243F airplanes.
+    (2) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report of a manufacturing defect 
+(i.e., improperly heat-treated materials) that affects the 
+durability of affected parts in the cargo and cabin compartments. We 
+are issuing this AD to address crack initiation and propagation in 
+affected parts in the cargo and cabin compartments, which could 
+result in reduced structural integrity of the fuselage.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspection of Affected Structure in the Cargo Compartment, 
+With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2016-16-01, with revised service information. Within 72 months since 
+first flight of the airplane, do an eddy current inspection (i.e., 
+conductivity measurement) of affected structural parts in the cargo 
+compartment to determine if proper heat treatment has been done as 
+identified in, and in accordance with, the Accomplishment 
+Instructions of Airbus Service Bulletin A330-53-3227, dated August 
+18, 2015; or Airbus Service Bulletin A330-53-3227, Revision 02, 
+dated July 25, 2018. As of the effective date of this AD, only 
+Airbus Service Bulletin A330-53-3227, Revision 02, dated July 25, 
+2018, may be used.
+
+(h) Retained Replacement of Non-Conforming Parts in the Cargo 
+Compartment, With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2016-16-01, with revised service information. If, during the 
+inspection required by paragraph (g) of this AD, an affected 
+structural part in the cargo compartment is identified to have a 
+measured value greater than 26 megasiemens per meter (MS/m), or 
+greater than 44.8% International Annealed Copper Standard (IACS), 
+before further flight, replace the affected structural part with a 
+serviceable part, in accordance with the Accomplishment Instructions 
+of Airbus Service Bulletin A330-53-3227, dated August 18, 2015; or 
+Airbus Service Bulletin A330-53-3227, Revision 02, dated July 25, 
+2018. As of the effective date of this AD, only Airbus Service 
+Bulletin A330-53-3227, Revision 02, dated July 25, 2018, may be 
+used.
+
+(i) Retained Repair of Non-Conforming Parts in the Cargo Compartment, 
+With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2016-16-01, with revised service information. If, during the 
+inspection required by paragraph (g) of this AD, an affected 
+structural part in the cargo compartment is identified to have a 
+measured value other than those specified in Figure A-GFAAA, Sheet 
+01, ``Inspection Flowchart,'' of Airbus Service Bulletin A330-53-
+3227, dated August 18, 2015; or Airbus Service Bulletin A330-53-
+3227, Revision 02, dated July 25, 2018; before further flight, 
+repair using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus SAS's EASA Design Organization 
+Approval (DOA). If approved by the DOA, the approval must include 
+the DOA-authorized signature. As of the effective date of this AD, 
+only Airbus Service Bulletin A330-53-3227, Revision 02, dated July 
+25, 2018, may be used to identify the measured value.
+
+(j) Retained Inspection of Affected Structure in the Cabin Compartment, 
+With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2016-16-01, with revised service information. Within 72 months since 
+first flight of the airplane, do an eddy current inspection of 
+affected structural parts in the cabin compartment to determine if 
+proper heat treatment has been done as identified in, and in 
+accordance with, the Accomplishment Instructions of Airbus Service 
+Bulletin A330-53-3228, dated August 18, 2015; or Airbus Service 
+Bulletin A330-53-3228, Revision 01, dated April 11, 2018, except as 
+required by paragraph (n) of this AD. As of the effective date of 
+this AD, only Airbus Service Bulletin A330-53-3228, Revision 01, 
+dated April 11, 2018, except as required by paragraph (n) of this 
+AD, may be used.
+
+(k) Retained Replacement of Non-Conforming Parts in the Cabin 
+Compartment, With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2016-16-01, with revised service information. If, during the 
+inspection required by paragraph (j) of this AD, an affected 
+structural part in the cabin compartment is identified to have a 
+measured value greater than 26 MS/m or greater than 44.8% IACS, 
+before further flight, replace the affected structural part with a 
+serviceable part, in accordance with the Accomplishment Instructions 
+of Airbus Service Bulletin A330-53-3228, dated August 18, 2015; or 
+Airbus Service Bulletin A330-53-3228, Revision 01, dated April 11, 
+2018, except as required by paragraph (n) of this AD. As of the 
+effective date of this AD, only Airbus Service Bulletin A330-53-
+3228, Revision 01, dated April 11, 2018, except as required by 
+paragraph (n) of this AD, may be used.
+
+[[Page 20255]]
+
+(l) Retained Repair of Non-Conforming Parts in the Cabin Compartment, 
+With Revised Service Information and New Alternative Actions
+
+    This paragraph restates the requirements of paragraph (l) of AD 
+2016-16-01, with revised service information and new alternative 
+actions. If, during the inspection required by paragraph (j) of this 
+AD, an affected structural part in the cabin compartment is 
+identified to have a measured value other than those specified in 
+Figure A-GFAAA, Sheet 01, ``Inspection Flowchart,'' of Airbus 
+Service Bulletin A330-53-3228, dated August 18, 2015; or to have a 
+measured value between 22 MS/m and 26 MS/m or between 37.9 and 44.8% 
+IACS, as specified in Airbus Service Bulletin A330-53-3228, Revision 
+01, dated April 11, 2018; before further flight, do the actions 
+specified in paragraph (l)(1) or (l)(2) of this AD. As of the 
+effective date of this AD, only Airbus Service Bulletin A330-53-
+3228, Revision 01, dated April 11, 2018, may be used to identify the 
+measured value.
+    (1) Repair using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the EASA; or Airbus 
+SAS's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (2) Do an eddy current inspection to verify the measurement, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-53-3228, Revision 01, dated April 11, 2018, except as 
+required by paragraph (n) of this AD.
+    (i) If an affected structural part in the cabin compartment is 
+identified to have a measured value between 22 MS/m and 26 MS/m or 
+between 37.9 and 44.8% IACS, before further flight, repair using a 
+method approved by the Manager, International Section, Transport 
+Standards Branch, FAA; or the EASA; or Airbus SAS's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (ii) If an affected structural part in the cabin compartment is 
+identified to have a measured value greater than 26 MS/m or greater 
+than 44.8% IACS, before further flight, do the replacement specified 
+in paragraph (k) of this AD.
+
+(m) New Requirement of This AD: Inspection of Additional Cabin 
+Locations
+
+    For an airplane on which the cabin compartment structure was 
+inspected and corrective actions were done before the effective date 
+of this AD as specified in the Accomplishment Instructions of Airbus 
+Service Bulletin A330-53-3228, dated August 18, 2015: Before 
+exceeding 108 months since the airplane's first flight, do an eddy 
+current conductivity test of the forward cabin overhead compartment, 
+and do all applicable related investigative and corrective actions, 
+in accordance with the applicable ``additional work'' task in the 
+Accomplishment Instructions of Airbus Service Bulletin A330-53-3228, 
+Revision 01, dated April 11, 2018, except as required by paragraph 
+(n) of this AD. Do all applicable related investigative and 
+corrective actions before further flight. Where Airbus Service 
+Bulletin A330-53-3228, Revision 01, dated April 11, 2018, specifies 
+to contact Airbus for appropriate action: Before further flight, 
+accomplish corrective actions in accordance with the procedures 
+specified in paragraph (q)(2) of this AD.
+
+(n) Exception to Service Information Specifications
+
+    Any required action specified in Airbus Service Bulletin A330-
+53-3228, Revision 01, dated April 11, 2018, that cannot be 
+accomplished as specified therein must be accomplished using a 
+method approved in accordance with the procedures specified in 
+paragraph (q)(1) of this AD.
+
+(o) No Reporting
+
+    Although Airbus Service Bulletin A330-53-3227, Revision 02, 
+dated July 25, 2018; and Airbus Service Bulletin A330-53-3228, 
+Revision 01, dated April 11, 2018; specify to submit certain 
+information to the manufacturer, and specify that action as ``RC'' 
+(required for compliance), this AD does not include that 
+requirement.
+
+(p) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions specified in 
+paragraphs (g), (h), and (i) of this AD, if those actions were 
+performed before the effective date of this AD using the following 
+service information.
+    (i) Airbus Service Bulletin A330-53-3227, dated August 18, 2015, 
+which was incorporated by reference in AD 2016-16-01.
+    (ii) Airbus Service Bulletin A330-53-3227, Revision 01, dated 
+July 5, 2016.
+    (2) This paragraph provides credit for the actions specified in 
+paragraphs (j), (k), and (l) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A330-53-3228, dated August 18, 2015, which was incorporated 
+by reference in AD 2016-16-01.
+
+(q) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (r)(2) of this AD. Information 
+may be emailed to [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (ii) AMOC letters ANM-116-17-118, dated February 2, 2017; and 
+AIR-676-18-369, dated September 17, 2018; approved previously for AD 
+2016-16-01, are approved as AMOCs for the corresponding provisions 
+of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or the EASA; or Airbus SAS's EASA DOA. If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (i), (l), (m), and (p) of this AD: If any service 
+information contains procedures or tests that are identified as RC, 
+those procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(r) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0147, dated July 13, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-1005.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (s)(4) and (s)(5) of this AD.
+
+(s) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+June 13, 2019.
+    (i) Airbus Service Bulletin A330-53-3227, Revision 02, dated 
+July 25, 2018.
+    (ii) Airbus Service Bulletin A330-53-3228, Revision 01, dated 
+April 11, 2018.
+    (4) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; 
+internet http://www.airbus.com.
+    (5) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+[[Page 20256]]
+
+
+    Issued in Des Moines, Washington, on April 25, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-09523 Filed 5-8-19; 8:45 am]
+ BILLING CODE 4910-13-P

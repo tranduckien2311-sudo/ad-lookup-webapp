@@ -1,0 +1,521 @@
+[Federal Register Volume 73, Number 230 (Friday, November 28, 2008)]
+[Rules and Regulations]
+[Pages 72310-72314]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E8-27298]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-23605; Directorate Identifier 2005-NE-48-AD; 
+Amendment 39-15743; AD 2008-24-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc Models RB211 Trent 768-
+60, Trent 772-60, and Trent 772B-60 Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) for Rolls-Royce plc (RR) models RB211 Trent 768-60, Trent 772-60, 
+and Trent 772B-60 turbofan engines that have not incorporated RR 
+Service Bulletin (SB) No. RB.211-72-E708, SB No. RB.211-72-F227, or SB 
+No. RB.211-72-E965, at original issue or later revision. That AD 
+currently requires initial and repetitive borescope inspections of the 
+high-pressure/intermediate-pressure (HP/IP) turbine bearing internal 
+oil vent tube, scavenge tube, and tube heat shields for wear and 
+cracking, and removing tubes from service if found with any cracks 
+beyond serviceable limits. That AD also currently requires installation 
+of a new or modified HP/IP turbine bearings support as terminating 
+action for the repetitive borescope inspections. This AD has the same 
+requirements, and adds a repetitive inspection of the vent flow 
+restrictor for blockage. This AD results from RR revising their alert 
+service bulletin for inspection of the HP/IP turbine bearing internal 
+oil vent tube, scavenge tube, and tube heat shields for damage, to 
+include a repetitive inspection of the vent flow restrictor for 
+blockage. We are issuing this AD to prevent oil ejecting from the HP/IP 
+turbine bearings chamber and igniting. Burning oil can cause the 
+intermediate-pressure (IP) shaft to fracture, the IP turbine to 
+overspeed, and possible uncontained failure of the engine.
+
+DATES: Effective December 15, 2008. The Director of the Federal 
+Register approved the incorporation by reference of certain 
+publications listed in the regulations as of December 15, 2008.
+    We must receive any comments on this AD by January 27, 2009.
+
+ADDRESSES: Use one of the following addresses to comment on this AD.
+     Federal eRulemaking Portal: Go to http://www.regulations.gov and follow the instructions for sending your 
+comments electronically.
+     Mail: Docket Management Facility, U.S. Department of 
+Transportation, 1200 New Jersey Avenue, SE., West Building Ground 
+Floor, Room W12-140, Washington, DC 20590-0001.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+     Fax: (202) 493-2251.
+    Contact Rolls-Royce plc, PO Box 31, Derby, England, DE248BJ; 
+telephone: 011-44-1332-242424; fax: 011-44-1332-245418, for the service 
+information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: James Lawrence, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7175; fax (781) 238-7199.
+
+[[Page 72311]]
+
+
+SUPPLEMENTARY INFORMATION: On February 24, 2006, the FAA issued AD 
+2006-05-03, Amendment 39-14500 (71 FR 11153, March 6, 2006). That AD 
+requires initial and repetitive borescope inspections of the HP/IP 
+turbine bearing internal oil vent tube, scavenge tube, and tube heat 
+shields for wear and cracking, and removing tubes from service if found 
+with any cracks beyond serviceable limits. That AD also requires 
+installation of a new or modified HP/IP turbine bearings support as 
+terminating action for the repetitive borescope inspections. That AD 
+was the result of two reports of RR RB211 Trent 700 series engines 
+found with the HP/IP internal oil vent tube and scavenge tube fretted 
+by damaged heat shields on the tubes. That condition, if not corrected, 
+could result in oil ejecting from the HP/IP turbine bearings chamber 
+and igniting. Burning oil can cause the IP shaft to fracture, the IP 
+turbine to overspeed, and possible uncontained failure of the engine.
+
+Actions Since AD 2006-05-03 Was Issued
+
+    Since AD 2006-05-03 was issued, the European Aviation Safety Agency 
+(EASA), which is the Technical Agent for the Member States of the 
+European Community, notified us that they issued EASA AD 2007-0255, 
+dated September 14, 2007, to supersede EASA AD 2005-0024, dated October 
+14, 2005. EASA AD 2007-0255 carries forward the requirements from EASA 
+AD 2005-0024. EASA AD 2007-0255 adds repetitive inspections of the vent 
+flow restrictor for blockage, based on RR issuing Alert Service 
+Bulletin (ASB) No. RB.211-72-AE792, Revision 3. ASB Revision 3, and now 
+Revision 4, add repetitive visual inspections of the vent flow 
+restrictor for blockage. This AD requires the same actions as EASA AD 
+2007-0255.
+
+Relevant Service Information
+
+    We have reviewed and approved the technical contents of RR ASB No. 
+RB.211-72-AE792, Revision 4, dated August 2, 2007. That ASB describes 
+procedures for initial and repetitive borescope inspections of the HP/
+IP turbine bearing internal oil vent tube, scavenge tube, and tube heat 
+shields for wear and cracking, and removing tubes from service if found 
+with any cracks beyond serviceable limits. That ASB also describes 
+procedures for performing repetitive inspections of the vent flow 
+restrictor for blockage. That ASB also references recently published RR 
+SB No. RB.211-72-F227 and RR SB No. RB.211-72-E965 as terminating 
+actions for the inspection requirements.
+
+Bilateral Airworthiness Agreement
+
+    This engine model is manufactured in the United Kingdom and is type 
+certificated for operation in the United States under the provisions of 
+section 21.29 of the Federal Aviation Regulations (14 CFR 21.29) and 
+the applicable bilateral airworthiness agreement. Under this bilateral 
+airworthiness agreement, the EASA has kept the FAA informed of the 
+situation described above. We have examined the findings of the EASA, 
+reviewed all available information, and determined that AD action is 
+necessary for products of this type design that are certificated for 
+operation in the United States.
+
+FAA's Determination and Requirements of This AD
+
+    Although no airplanes that are registered in the United States use 
+these RR RB211 Trent 768-60, Trent 772-60, and Trent 772B-60 turbofan 
+engines, the possibility exists that the engines could be used on 
+airplanes that are registered in the United States in the future. The 
+unsafe condition described previously is likely to exist or develop on 
+other RR RB211 Trent 768-60, Trent 772-60, and Trent 772B-60 turbofan 
+engines of the same type design. We are issuing this AD to prevent oil 
+ejecting from the HP/IP turbine bearings chamber and igniting. Burning 
+oil can cause the IP shaft to fracture, the IP turbine to overspeed, 
+and possible uncontained failure of the engine. This AD requires:
+     Initial and repetitive borescope inspections of the HP/IP 
+turbine bearing internal oil vent tube, scavenge tube, and tube heat 
+shields for wear and cracking; and
+     Removing tubes from service if found with any cracks 
+beyond serviceable limits; and
+     Performing repetitive inspections of the vent flow 
+restrictor for blockage; and
+     As terminating action to the repetitive inspections 
+required by the AD, at the next 05 module overhaul, but before May 31, 
+2010, removing the HP/IP bearings support and replacing with 
+serviceable parts.
+    You must use the service information described previously to 
+perform the inspections required by this AD.
+
+FAA's Determination of the Effective Date
+
+    Since there are currently no domestic operators of this engine 
+model, notice and opportunity for public comment before issuing this AD 
+are unnecessary. Therefore, a situation exists that allows the 
+immediate adoption of this regulation.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety and was not preceded by notice and an opportunity for public 
+comment; however, we invite you to send us any written relevant data, 
+views, or arguments regarding this AD. Send your comments to an address 
+listed under ADDRESSES. Include ``AD Docket No. FAA-2006-23605; 
+Directorate Identifier 2005-NE-48-AD'' in the subject line of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify it.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact 
+with FAA personnel concerning this AD. Using the search function of the 
+Web site, anyone can find and read the comments in any of our dockets, 
+including, if provided, the name of the individual who sent the comment 
+(or signed the comment on behalf of an association, business, labor 
+union, etc.). You may review the DOT's complete Privacy Act Statement 
+in the Federal Register published on April 11, 2000 (65 FR 19477-78).
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is the same as 
+the Mail address provided in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures
+
+[[Page 72312]]
+
+the Administrator finds necessary for safety in air commerce. This 
+regulation is within the scope of that authority because it addresses 
+an unsafe condition that is likely to exist or develop on products 
+identified in this rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary at the 
+address listed under ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Under the authority delegated to me by the Administrator, the Federal 
+Aviation Administration amends part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Amendment 39-14500 71 FR 
+11153, March 6, 2006, and by adding a new airworthiness directive, 
+Amendment 39-15743, to read as follows:
+
+2008-24-03 Rolls-Royce plc: Amendment 39-15743. Docket No. FAA-2006-
+23605; Directorate Identifier 2005-NE-48-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective December 
+15, 2008.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2006-05-03, Amendment 39-14500.
+
+Applicability
+
+    (c) This AD applies to Rolls-Royce plc (RR) models RB211 Trent 
+768-60, Trent 772-60, and Trent 772B-60 turbofan engines that have 
+not incorporated RR Service Bulletin (SB) No. RB.211-72-E708, SB No. 
+RB.211-72-F227, or SB No. RB.211-72-E965, at original issue or later 
+revision. These engines are installed on, but not limited to, Airbus 
+A330-243, A330-341, A330-342, and A330-343 airplanes.
+
+Unsafe Condition
+
+    (d) This AD results from RR revising their alert service 
+bulletin for inspection of the high-pressure/intermediate-pressure 
+(HP/IP) turbine bearing internal oil vent tube, scavenge tube, and 
+tube heat shields for damage, to include a repetitive inspection of 
+the vent flow restrictor for blockage. We are issuing this AD to 
+prevent oil ejecting from the HP/IP turbine bearings chamber and 
+igniting. Burning oil can cause the intermediate-pressure (IP) shaft 
+to fracture, the IP turbine to overspeed, and possible uncontained 
+failure of the engine.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+
+On-Wing Initial Borescope Inspection
+
+    (f) Borescope inspect and assess the condition of the HP/IP 
+turbine support assembly internal oil vent and scavenge tubes and 
+heat shields, using Section 3. of the Accomplishment Instructions 
+Part A, of RR Alert Service Bulletin (ASB) No. RB.211-72-AE792, 
+Revision 4, dated August 2, 2007, and Table 1 of this AD.
+    (g) The threshold life of the 05 module for the initial 
+borescope inspection is 10,000 operating hours since new or since 
+overhaul, or 2,500 cycles since new or since overhaul, whichever 
+occurs first.
+
+             Table 1--On-Wing Borescope Inspection Criteria
+------------------------------------------------------------------------
+                   For:                                Action:
+------------------------------------------------------------------------
+(1) 05 modules that exceed the threshold    Inspect within 1 month after
+ life on the effective date of this AD:      the effective date of this
+                                             AD.
+(2) 05 modules that are below the           Inspect by the threshold
+ threshold life on the effective date of     life or within 3 months
+ this AD:                                    from the effective date of
+                                             this AD, whichever occurs
+                                             later.
+------------------------------------------------------------------------
+
+On-Wing Repetitive Borescope Inspections
+
+    (h) Determine the serviceability and establish the repetitive 
+inspection intervals using Table 2 of this AD.
+
+   Table 2--Determination of Serviceability and Repetitive Inspection
+                                Interval
+------------------------------------------------------------------------
+                   For:                                Action:
+------------------------------------------------------------------------
+(1) Outer heat shields of the vent or       Re-inspect within intervals
+ scavenge tube with no visible damage:       of 10,000 operating hours
+                                             or 2,500 cycles, whichever
+                                             occurs first.
+(2) Outer heat shields of the vent or       Re-inspect within intervals
+ scavenge tube with partial cracking up to   of 6,400 operating hours or
+ 90 degrees around the circumference or 10   1,600 cycles, whichever
+ mm along the length of either outer heat    occurs first.
+ shield:
+(3) Outer heat shields of the vent or       Re-inspect within intervals
+ scavenge tube with partial cracking in      of 1,600 operating hours or
+ excess of item (2) above, but less than     400 cycles, whichever
+ 360 degrees around the circumference of     occurs first.
+ either outer heat shield:
+(4) Outer heat shields of the vent or       Re-inspect or reject using
+ scavenge tube with cracking around the      Table 3 of this AD.
+ complete circumference of either outer
+ heat shield, or if there is any missing
+ material from either outer heat shield:
+------------------------------------------------------------------------
+
+
+[[Page 72313]]
+
+
+   Table 3--Inspection and Rejection Criteria for Heat Shields Meeting
+              Conditions in Item (4) of Table 2 of This AD
+------------------------------------------------------------------------
+                Condition:                             Action:
+------------------------------------------------------------------------
+(1) If the insulation blanket is in place   Inspect within intervals of
+ inside the heat shield and preventing       1,600 operating hours or
+ fretting between the heat shield and the    400 cycles, whichever
+ tube.                                       occurs first.
+(2) If either vent or scavenge tube has     Inspect within intervals of
+ fretting at the outer heat shield           400 operating hours or 100
+ position where the maximum depth of         cycles, whichever occurs
+ fretting at any point around the full 360   first.
+ degrees of each tube is less than 0.46 mm
+ (0.018 inch).
+(3) If it is not possible to determine the  Reject from service within
+ maximum depth of fretting around the full   50 cycles of the inspection
+ 360 degrees of each tube and item (1)       being carried out.
+ above is not applicable, then the HP/IP
+ turbine support assembly must be rejected
+ from service.
+(4) If either vent or scavenge tube has     Reject within 10 cycles of
+ fretting at the outer heat shield           the inspection being
+ position and the maximum depth of           carried out.
+ fretting is greater than 0.46 mm (0.018
+ inch) then the HP/IP turbine support
+ assembly must be rejected from service.
+------------------------------------------------------------------------
+
+    (i) For HP/IP turbine support assemblies which have been 
+previously inspected using the superseded AD, or this AD:
+    (1) Re-inspect the internal oil vent and scavenge tubes and heat 
+shields before exceeding the intervals established in Table 2 of 
+this AD.
+    (2) Determine the serviceability and intervals to the next 
+inspection using Table 2 of this AD.
+
+Inspections of the Vent Flow Restrictor After On-Wing Borescope 
+Inspection
+
+    (j) After a high-power ground run or not later than 25 cycles 
+after heat shield inspection, inspect the vent flow restrictor, 
+using Section 3. of the Accomplishment Instructions of RR SB No. 
+RB.211-72-AE792, Revision 4, dated August 2, 2007.
+
+Repetitive Inspections of the Vent Flow Restrictor After On-Wing 
+Borescope Inspection
+
+    (k) After each on-wing borescope inspection, specified in 
+paragraphs (f) through (h) of this AD, repeat the inspection of the 
+vent flow restrictor, as specified in paragraph (j) of this AD.
+
+In-Shop Borescope Inspection
+
+    (l) For 05 modules in-shop which are not undergoing strip and 
+overhaul:
+    (1) Borescope inspect and assess the condition of the HP/IP 
+turbine support assembly internal oil vent and scavenge tubes and 
+heat shields.
+    (2) Inspect the vent tubes and the vent flow restrictor for 
+carbon, after performing a high-power ground run.
+    (3) Use Section 3. of the Accomplishment Instructions Part B, of 
+RR ASB No. RB.211-72-AE792, Revision 4, dated August 2, 2007, and 
+Table 4 of this AD to do the inspections.
+    (4) Determine the serviceability and establish the interval to 
+next inspection of the HP/IP turbine support assembly internal oil 
+vent and scavenge tubes and heat shields, using Table 4 of this AD:
+
+                     Table 4--Re-Inspection Criteria
+------------------------------------------------------------------------
+                   For:                                Action:
+------------------------------------------------------------------------
+(i) Outer heat shields of the vent and      Re-inspect at a threshold of
+ scavenge tubes with no visible damage:      10,000 operating hours time-
+                                             since-new or time-since-
+                                             overhaul, or 2,500 cycles-
+                                             since-new or cycles-since-
+                                             overhaul, whichever occurs
+                                             first.
+(ii) Outer heat shields of the vent and     Re-inspect at a not to
+ scavenge tubes with cracking up to 90       exceed interval of 6,400
+ degrees around the circumference or 10 mm   operating hours or 1,600
+ along the length of either outer heat       cycles, whichever occurs
+ shield:                                     first.
+(iii) Outer heat shields of the vent and    Reject the tube and perform
+ scavenge tubes with visible cracking        the terminating action
+ greater than 90 degrees of the              specified in paragraph (n)
+ circumference or 10 mm along the length     of this AD.
+ of either outer heat shield:
+------------------------------------------------------------------------
+
+    (m) For 05 modules in-shop which are undergoing strip and 
+overhaul, carry out the terminating action specified in paragraph 
+(n) of this AD.
+
+Terminating Action
+
+    (n) As terminating action to the repetitive inspections required 
+by this AD, at the next 05 module overhaul, but before May 31, 2010, 
+remove the affected HP/IP bearings supports and replace with 
+serviceable parts. Information on serviceable parts can be found in 
+RR SB No. RB.211-72-E708, Revision 2, dated September 6, 2005, or in 
+RR SB No. RB.211-72-F227, Revision 1, dated October 8, 2007, or in 
+RR SB No. RB.211-72-E965, Revision 1, dated October 4, 2005. To 
+obtain these SBs, see paragraph (r) of this AD for RR contact 
+information.
+
+Definition
+
+    (o) For the purposes of this AD, serviceable parts are new or 
+reworked bearings supports which reduce the adverse effects of HP3 
+cooling air turbulence on the HP/IP turbine bearing internal oil 
+vent and scavenge tubes and tube heat shields, as described in RR SB 
+No. RB.211-72-E708, Revision 2, dated September 6, 2005, or in RR SB 
+No. RB.211-72-F227, Revision 1, dated October 8, 2007, or in RR SB 
+No. RB.211-72-E965, Revision 1, dated October 4, 2005.
+
+Alternative Methods of Compliance
+
+    (p) The Manager, Engine Certification Office, has the authority 
+to approve alternative methods of compliance for this AD if 
+requested using the procedures found in 14 CFR 39.19.
+
+Related Information
+
+    (q) European Aviation Safety Agency AD 2007-0255, dated 
+September 14, 2007, also addresses the subject of this AD.
+
+Material Incorporated by Reference
+
+    (r) You must use the service information specified in Table 5 of 
+this AD to perform the inspections required by this AD. The Director 
+of the Federal Register approved the incorporation by reference of 
+the documents listed in Table 5 of this AD in accordance with 5 
+U.S.C. 552(a) and 1 CFR part 51. Contact Rolls-Royce plc, PO Box 31, 
+Derby, England, DE248BJ; telephone: 011-44-1332-242424; fax: 011-44-
+1332-245418, for a copy of this service information. You may review 
+copies at the FAA, New England Region, 12 New England Executive 
+Park, Burlington, MA; or at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call
+
+[[Page 72314]]
+
+202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+                                       Table 5--Incorporation by Reference
+----------------------------------------------------------------------------------------------------------------
+ Rolls-Royce Alert Service Bulletin No.             Page             Revision                 Date
+----------------------------------------------------------------------------------------------------------------
+RB.211-72-AE792, including Appendix A..  All......................          4   August 2, 2007.
+    Total Pages: 31
+----------------------------------------------------------------------------------------------------------------
+
+
+    Issued in Burlington, Massachusetts, on November 12, 2008.
+Peter A. White,
+Assistant Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+ [FR Doc. E8-27298 Filed 11-26-08; 8:45 am]
+BILLING CODE 4910-13-P

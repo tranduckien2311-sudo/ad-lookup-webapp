@@ -1,0 +1,480 @@
+[Federal Register Volume 91, Number 103 (Friday, May 29, 2026)]
+[Rules and Regulations]
+[Pages 31893-31896]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-10806]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-1360; Project Identifier AD-2024-00710-Q,T; 
+Amendment 39-23345; AD 2026-10-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Goodrich Cabin Attendant Seats
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+Goodrich cabin attendant seats installed on Airbus SAS Model A330-200 
+series, A330-200 Freighter series, A330-300 series, A330-743L, A330-
+841, A330-941, A340-200 series, A340-300 series, A340-541, A340-542, 
+A340-641, and A340-642 airplanes. This AD was prompted by a report that 
+track attachments used on certain part-numbered seats are non-
+compliant. This AD requires replacing all seat track attachments and 
+hardware and re-identifying the seat with a new part number. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 6, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of July 6, 2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-1360; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For Goodrich material identified in this AD, contact 
+Goodrich Aircraft Interior Products, 1275 North Newport Road, Colorado 
+Springs, CO 80916-2779; phone: 719-380-0391; email: 
+[email protected]; website: collinsaerospace.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-1360.
+
+FOR FURTHER INFORMATION CONTACT: David Kim, Aviation Safety Engineer, 
+FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: 562-627-5274; 
+email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Goodrich cabin 
+attendant seats installed on Airbus SAS Model A330-200 series, A330-200 
+Freighter series, A330-300 series, A330-841, A330-941, A340-200 series, 
+A340-300 series, A340-541, and A340-642 airplanes. The NPRM was 
+published in the Federal Register on July 11, 2025 (90 FR 30829). The 
+NPRM was prompted by a report that track attachments used on certain 
+part-numbered seats are non-compliant. In the NPRM, the FAA proposed to 
+require replacing all seat track attachments and hardware and re-
+identifying the seat with a new part number. The FAA is issuing this AD 
+to address cabin attendant seats that might detach from the airplane 
+due to non-compliance with the seat requirement to withstand certain 
+forces. This condition, if not addressed, could result in injury to the 
+occupant or a blocked exit during an emergency evacuation.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from three commenters, including Aviation 
+Insight Pte Ltd, an individual, and an anonymous commenter, who 
+supported the NPRM without change.
+    The FAA also received comments from Airbus, Collins Aerospace, and 
+Delta Air Lines (Delta). The following presents these comments and the 
+FAA's response.
+
+Request To Change References to Service Information
+
+    Two commenters requested that the FAA revise the referenced service 
+information to refer to the most recent service information. Collins 
+Aerospace requested that the FAA update the references in the proposed 
+AD for ``Goodrich Service Bulletin 2057-25-071, Revision A, dated 
+November 27, 2017'' to ``Goodrich Service Bulletin 2057-25-075, 
+Revision A, dated September 26, 2019.''
+    Delta noted that updated revisions of Goodrich Service Bulletin 
+2157-25-092, Revision C, dated May 18, 2022, exist and requested that 
+Goodrich Service Bulletin 2157-25-092, Revision D, dated April 4, 2024, 
+be referenced. Delta also requested that credit be given for Goodrich 
+Service Bulletin 2157-25-092, Revision A, dated September 13, 2016. 
+Delta stated that across all revisions of Goodrich Service Bulletin 
+2157-25-092, the primary change pertains to warranty considerations, 
+the modification involving the seats has remained largely consistent 
+throughout, and the re-identification of the seat remained the same 
+throughout all the revisions. Delta also requested that a note be added 
+to specify that if the service bulletin label installed from previous 
+accomplishment is worn out, it is allowed to re-install the SB label 
+showing the revision to which the original work was done.
+    The FAA partially agrees with the request to update service 
+information references for ``Goodrich Service Bulletin 2057-25-071, 
+Revision A, dated November 27, 2017'' to ``Goodrich Service Bulletin 
+2057-25-075, Revision A, dated September 26, 2019.'' The FAA notes that 
+Goodrich Service Bulletin 2057-25-075 supersedes, i.e., replaces
+
+[[Page 31894]]
+
+Goodrich Service Bulletin 2057-25-071. In addition, the FAA has 
+reviewed Goodrich Service Bulletin 2057-25-075, Revision C, dated June 
+20, 2025, which is the newest revision of the service information. 
+Revision C of Goodrich Service Bulletin 2057-25-075, does not add any 
+new actions to the Accomplishment Instructions. Therefore, the FAA has 
+revised this final rule to refer to Goodrich Service Bulletin 2057-25-
+075, Revision C, dated June 20, 2025. The FAA has also added Goodrich 
+Service Bulletin 2057-25-071, Revision A, dated November 27, 2017; 
+Revision B, dated September 24, 2018; and Revision C, dated October 21, 
+2019; and Goodrich Service Bulletin 2057-25-075, Revision NC, dated 
+September 13, 2019; Revision A, dated September 26, 2019; and Revision 
+B, dated April 4, 2024, as credit service information to paragraph (h) 
+of this AD.
+    The FAA agrees with Delta's request to use updated revisions of 
+Goodrich Service Bulletin 2157-25-092 and allow credit for the previous 
+revisions. The FAA has reviewed Goodrich Service Bulletin 2157-25-092, 
+Revision E, dated June 20, 2025, which is the newest revision of the 
+service information and which does not add any new actions to the 
+Accomplishment Instructions. Therefore, the FAA has revised this final 
+rule to refer to Goodrich Service Bulletin 2157-25-092, Revision E, 
+dated June 20, 2025. The FAA has also added Goodrich Service Bulletin 
+2157-25-092, Revision A, dated September 13, 2016; Goodrich Service 
+Bulletin 2157-25-092, Revision C, dated May 18, 2022; and Goodrich 
+Service Bulletin 2157-25-092, Revision D, dated April 4, 2024, as 
+credit service information to paragraph (h) of this AD.
+    Regarding Delta's request to add a note to the credit paragraph to 
+allow re-installing labels, the FAA does not agree as it is not 
+necessary. Operators may re-install service bulletin labels provided it 
+can be conclusively determined from a records review which revision was 
+done.
+    Additionally, the other service information referenced in the NPRM 
+has been updated in this AD to refer to the newest revision of that 
+service information; the requirements of this service information have 
+not changed, and therefore, will not change the requirements of this 
+AD. The changed references can be found in this AD in the Additional 
+Changes section of this final rule.
+
+Request To Update Applicability
+
+    Airbus stated that for the Goodrich A330/A340 Cabin Attendant Seats 
+(CAS) Models 2157, 2071, and 2201 installed under Airbus Design 
+Organization Approval (DOA), the certification is covered by Airbus's 
+Modifications (MOD) and Goodrich Declaration of Design and Performance. 
+Airbus noted that in 2016, the Goodrich A330/A340 CAS Models 2157, 2071 
+and 2201 (track mounted variants only) had been modified by MOD 
+introducing a new track stud option. Airbus added this change requested 
+by the supplier Goodrich based on an obsolescence of the original stud 
+design (stud part number 2D1125-7).
+    Airbus stated the root cause of the Goodrich-declared obsolescence 
+is based on a failed Goodrich internal test campaign using the original 
+stud part number in a different context, without Airbus or the European 
+Union Aviation Safety Agency (EASA) involvement. Airbus explained the 
+test had been performed on a modified CAS part number not used and not 
+controlled by Airbus and that the original CAS certification of the 
+Airbus CAS part numbers covered by declaration of design and 
+performance (DDP) passed all requirements and tests successfully. 
+Airbus further stated there is no change to the Airbus CAS part numbers 
+other than documented by the DDP and associated documentation.
+    Airbus concluded that the CAS as installed under Airbus DOA are in 
+compliance with Joint Aviation Requirements (JAR)/Federal Aviation 
+Regulation (FAR) 25.562 and that there is no design deficiency 
+identified so far. Airbus also concluded that since Airbus certifies 
+all affected CAS independently of Technical Standard Order (TSO) 
+approval, this non-compliance does not affect Airbus aircraft as all 
+certification tests have been successfully completed. The FAA infers 
+that Airbus is requesting that the applicability of the proposed AD be 
+revised to exclude Airbus Model A330 and A340 airplanes with CAS 
+installed under the Airbus DOA.
+    The FAA disagrees with Airbus's request. Initial certification of 
+the 2157, 2071, and 2201 seat models was completed under the Airbus 
+DOA. Per Goodrich, the suspect track attachment 2D1125-7 was introduced 
+via a minor change in 2005 at Airbus's request and was substantiated 
+without testing. The 2D1125-7 cast track attachment was introduced and 
+implemented on models delivered to Airbus under the Airbus DOA. Later 
+testing on the cast track attachment showed the 2D1125-7 cast track 
+attachment does not meet 14 CFR 25.562 and, therefore, the seat models 
+are applicable. The FAA has not revised the applicability of this AD.
+
+Additional Changes
+
+    This final rule has also been updated with revised service 
+information as follows:
+     Goodrich Service Bulletin 2071-25-046, Revision C, dated 
+January 14, 2020, has been changed to Goodrich Service Bulletin 2071-
+25-046, Revision G, dated August 22, 2025; and
+     Goodrich Service Bulletin 2201-25-013, Revision E, dated 
+May 20, 2024, has been changed to Goodrich Service Bulletin 2201-25-
+013, Revision F, dated June 20, 2025.
+    Additionally, the FAA has also added Goodrich Service Bulletin 
+2071-25-046, Revision C, dated January 14, 2020; Revision D, dated 
+April 4, 2024; Revision E, dated May 23, 2025; and Revision F, dated 
+June 20, 2025; and Goodrich Service Bulletin 2201-25-013, Revision E, 
+dated May 20, 2024, as credit service information to paragraph (h) of 
+this AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Explanation of Applicability
+
+    Although Model A330-743L, A340-542, and A340-641 airplanes are not 
+on the U.S. registry, the affected seats could be installed on the A330 
+and A340 variants that are not on the U.S. type certificate data sheet 
+(TCDS). Therefore, the FAA has included Model A330-743L, A340-542, and 
+A340-641 airplanes in the applicability.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed the following material:
+     Goodrich Service Bulletin 2057-25-075, Revision C, dated 
+June 20, 2025;
+     Goodrich Service Bulletin 2071-25-046, Revision G, dated 
+August 22, 2025;
+     Goodrich Service Bulletin 2157-25-092, Revision E, dated 
+June 20, 2025; and
+     Goodrich Service Bulletin 2201-25-013, Revision F, dated 
+June 20, 2025.
+    This material specifies procedures for replacing all seat track 
+attachments and hardware and then re-identifying the seat with a new 
+part number. These
+
+[[Page 31895]]
+
+documents apply to different airplane configurations. This service 
+information is also identified as the property of UTC Aerospace Systems 
+and Collins Aerospace.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 59 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Replacement and seat re-identification...  15 work-hours x $85 per           $1,500       $2,775        $163,725
+                                            hour = $1,275.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-10-05 Goodrich: Amendment 39-23345; Docket No. FAA-2025-1360; 
+Project Identifier AD-2024-00710-Q,T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 6, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Goodrich cabin attendant seats, part numbers 
+2057-11XXXXXX with floor seating option, except for 2057-1 hard 
+point mounted seats; 2201-1XXYY and -2XXYY; 2157-7XXXXXXX and -
+9XXXXXXX; and 2071-2XXXX and -A2XXXX. These seats are installed on 
+the Airbus SAS airplanes, certificated in any category, listed in 
+paragraphs (c)(1) and (2) of this AD.
+    (1) Model A330-201, -202, -203, -223, -243, -223F, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, -743L, -841, and -
+941 airplanes.
+    (2) Model A340-211, -212, -213, -311, -312, -313, -541, -542, -
+641, and -642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that track attachments used on 
+certain cabin attendant seats are non-compliant. The FAA is issuing 
+this AD to prevent the cabin attendant seat from detaching from the 
+airplane. The unsafe condition, if not addressed, could result in 
+injury to the occupant or a blocked exit during an emergency 
+evacuation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Seat Track Attachment Replacement
+
+    Within 2 years after the effective date of this AD, replace the 
+seat track attachments and hardware and re-identify the seat with a 
+new part number in accordance with the applicable service 
+information identified in paragraphs (g)(1) through (4) of this AD, 
+except you are not required to discard parts. Instead, remove those 
+parts from service.
+    (1) Goodrich Service Bulletin 2057-25-075, Revision C, dated 
+June 20, 2025.
+    (2) Goodrich Service Bulletin 2071-25-046, Revision G, dated 
+August 22, 2025.
+    (3) Goodrich Service Bulletin 2157-25-092, Revision E, dated 
+June 20, 2025.
+    (4) Goodrich Service Bulletin 2201-25-013, Revision F, dated 
+June 20, 2025.
+
+(h) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using the material listed in (h)(1) 
+through (5) of this AD.
+    (1) Goodrich Service Bulletin 2057-25-071, Revision A, dated 
+November 27, 2017; Revision B, dated September 24, 2018; and 
+Revision C, dated October 21, 2019.
+    (2) Goodrich Service Bulletin 2057-25-075, Revision NC, dated 
+September 13, 2019; Revision A, dated September 26, 2019; and 
+Revision B, dated April 4, 2024.
+    (3) Goodrich Service Bulletin 2071-25-046; Revision B, dated 
+December 10, 2019; Revision C, dated January 14, 2020; Revision D, 
+dated April 4, 2024; Revision E, dated May 23, 2025; and Revision F, 
+dated June 20, 2025.
+    (4) Goodrich Service Bulletin 2157-25-092, Revision A, dated 
+September 13, 2016; Revision B, dated January 12, 2021; Revision C, 
+dated May 18, 2022; and Revision D, dated April 4, 2024.
+    (5) Goodrich Service Bulletin 2201-25-013, Revision E, dated May 
+20, 2024.
+
+[[Page 31896]]
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, AIR-770, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the manager of the West Certification Branch, send it to the 
+attention of the person identified in paragraph (j)(1) of this AD. 
+Information may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the responsible Flight 
+Standards Office.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact David Kim, 
+Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, 
+CA 90712; phone: 562-627-5274; email: [email protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Goodrich Service Bulletin 2057-25-075, Revision C, dated 
+June 20, 2025.
+    (ii) Goodrich Service Bulletin 2071-25-046, Revision G, dated 
+August 22, 2025.
+    (iii) Goodrich Service Bulletin 2157-25-092, Revision E, dated 
+June 20, 2025.
+    (iv) Goodrich Service Bulletin 2201-25-013, Revision F, dated 
+June 20, 2025.
+
+    Note 1 to paragraph (k)(2):  This service information is also 
+identified as the property of UTC Aerospace Systems and Collins 
+Aerospace.
+
+    (3) For Goodrich material identified in this AD, contact 
+Goodrich Aircraft Interior Products, 1275 North Newport Road, 
+Colorado Springs, CO 80916-2779; phone: 719-380-0391; email: 
+[email protected]; website: collinsaerospace.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on May 21, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-10806 Filed 5-28-26; 8:45 am]
+BILLING CODE 4910-13-P

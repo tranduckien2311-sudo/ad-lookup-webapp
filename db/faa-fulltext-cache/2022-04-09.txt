@@ -1,0 +1,892 @@
+[Federal Register Volume 87, Number 39 (Monday, February 28, 2022)]
+[Rules and Regulations]
+[Pages 10958-10964]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-04146]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0345; Product Identifier 2019-NM-154-AD; Amendment 
+39-21951; AD 2022-04-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; AVOX System Inc. (Formerly Scott 
+Aviation) Oxygen Cylinder and Valve Assemblies and Oxygen Valve 
+Assemblies
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain AVOX System Inc. (formerly Scott Aviation) oxygen cylinder and 
+valve assemblies, and oxygen valve assemblies, installed on but not 
+limited to various transport airplanes. This AD was prompted by reports 
+of cylinder and valve assemblies having oxygen leakage from the valve 
+assembly vent hole, caused by the absence of a guide that maintains 
+appropriate spacing between certain parts. This AD requires an 
+inspection of the oxygen valve assemblies, and oxygen cylinder and 
+valve assemblies, to determine the serial number of the valve, 
+cylinder, and entire assembly. For assemblies and parts with certain 
+serial numbers, this AD requires a detailed inspection for correct 
+spacing of the gap between the bottom of the packing retainer and top 
+of the valve body on the assemblies, and replacement of assemblies 
+having unacceptable gaps. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective April 4, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of April 4, 
+2022.
+
+ADDRESSES: For service information identified in this final rule, 
+contact AVOX Systems Inc., 225 Erie Street, Lancaster, NY 14086; 
+telephone 716-683-5100; internet https://www.safranaerosystems.com. You 
+may view this service information at the FAA, Airworthiness Products 
+Section, Operational Safety Branch, 2200 South 216th St., Des Moines, 
+WA. For information on the availability of this material at the FAA, 
+call 206-231-3195. It is also available at https://www.regulations.gov 
+by searching for and locating Docket No. FAA-2020-0345.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2020-0345; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Elizabeth Dowling, Aerospace Engineer, 
+Mechanical Systems and Administrative Services Section, FAA, New York 
+ACO Branch, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+telephone 516-228-7300; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain AVOX System 
+Inc. (formerly Scott Aviation) oxygen cylinder and valve assemblies, 
+and oxygen valve assemblies, installed on but not limited to various 
+transport airplanes. The NPRM published in the Federal Register on May 
+1, 2020 (85 FR 25353). The NPRM was prompted by reports of cylinder and 
+valve assemblies having oxygen leakage from the valve assembly vent 
+hole, caused by the absence of a guide that maintains appropriate 
+spacing between certain parts. In the NPRM, the FAA proposed to require 
+an inspection of the oxygen valve assemblies, and oxygen cylinder and 
+valve assemblies, to determine the serial number of the valve, 
+cylinder, and entire assembly. For assemblies and parts with certain 
+serial numbers, the NPRM proposed to require a detailed inspection for 
+correct spacing of the gap between the bottom of the packing retainer 
+and top of the valve body on the assemblies, and replacement of 
+assemblies having unacceptable gaps (removing affected assemblies and 
+installing serviceable assemblies). The NPRM also proposed to require 
+reporting and returning of affected parts to the manufacturer. The FAA 
+is issuing this AD to address oxygen leakage from the cylinder, which 
+could result in decreased or insufficient oxygen supply during a 
+depressurization event; and heating or flow friction, which could cause 
+an ignition event in the valve assembly.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from one commenter, Air Line Pilots 
+Association, International (ALPA), who supported the NPRM without 
+change.
+    The FAA received additional comments from five commenters, 
+including American Airlines (AAL), Delta Air Lines (DAL), FedEx Express 
+(FedEx), United Airlines (UAL), and an individual. The following 
+presents the comments received on the NPRM and the FAA's response to 
+each comment.
+
+Request To Revise Applicability
+
+    AAL and UAL suggested revising the applicability statement to 
+include more aircraft manufacturers and models. AAL suggested adding 
+all airplane models that affected assemblies could be installed on, in 
+particular, Boeing Model 737-NG (Next Generation models are 737-600, -
+700, -700C, -800, -900, and -900ER series), 737-MAX, 777-200, and 777-
+300 series airplanes. UAL also suggested adding Model 737-NG airplanes. 
+AAL stated that the applicability statement as proposed in the NPRM 
+could mislead operators into believing that the AD would apply only to 
+the airplanes identified in paragraphs (c)(1) through (12) of the AD. 
+UAL believed the suggested change will be beneficial and assist 
+operators in determining if their fleets are affected.
+
+[[Page 10959]]
+
+    The FAA disagrees with the commenters' request. The FAA does not 
+have a comprehensive list of all possible affected aircraft. To address 
+the incomplete list, paragraph (c) of this AD identifies specific 
+airplane models in paragraph (c) of this AD, but also notes that the 
+assemblies are ``not limited to.'' The FAA has not changed the AD in 
+this regard.
+
+Request To Revise Compliance Time for Parts
+
+    AAL stated that the 60-day compliance time should apply only to 
+valve assemblies that are installed on the aircraft and not ones in 
+stock. AAL believes the unsafe condition only exists when an assembly 
+is installed on an airplane, and for those assemblies that are not 
+installed on an airplane, the proposed requirements in paragraph (k) of 
+the proposed AD would ensure that the unsafe condition is addressed 
+before that assembly is installed on an aircraft.
+    The FAA disagrees with the request to revise the compliance time. 
+The FAA agrees that an affected spare part that is uninstalled and 
+stored off an aircraft would not cause an unsafe condition on an 
+aircraft. The 60-day compliance time applies to parts already installed 
+on an aircraft, and paragraph (k) requires that action to be done on 
+affected spare parts before installation, which could result in a spare 
+part being inspected before the 60-day compliance time. In developing 
+the compliance time for this AD, the FAA considered the urgency 
+associated with the subject unsafe condition and the availability of 
+required parts. The FAA determined that the 60-day compliance time for 
+parts already installed on an aircraft is appropriate for accomplishing 
+the actions required by this AD while maintaining an adequate level of 
+safety. The FAA has not changed this AD in this regard.
+
+Request To Remove Inspection for Serial Numbers or Include Only Valve 
+P/Ns
+
+    AAL requested that the inspection to verify the serial number of 
+the oxygen cylinder and entire assembly not be required. DAL requested 
+that paragraphs (c), (h), (i), and (k) of the proposed AD be revised to 
+remove reference to cylinder part numbers (P/Ns) and apply only to 
+valve assembly P/Ns. AAL stated that it reviewed the service 
+information and it seems that the defective part is only the valve 
+assembly or ``hand valve.'' DAL also reasoned that the unsafe condition 
+applies only to the valve assembly and not the cylinder. AAL then 
+reasoned that the inspection to verify the serial number should apply 
+only to the valve assembly or ``hand valve.'' AAL also stated that 
+paragraph (i) of the proposed AD also seems to require the actions of 
+paragraph (h)(1) through (3) of the proposed AD if a serial number of a 
+cylinder was affected and a valve assembly not affected, even though it 
+seems that it should not require those actions.
+    The FAA disagrees with the request. The parts of the oxygen 
+cylinder and valve assemblies are interrelated, and valves from matched 
+sets could have fit-up issues between parts or be mixed up or swapped 
+during maintenance operations. The serial number inspection as proposed 
+would address this interchangeability. The valve and cylinder that are 
+part of those assemblies must also be inspected to address the unsafe 
+condition, not just the assemblies themselves. Therefore, the FAA 
+specifies to inspect the oxygen valve assemblies, and oxygen cylinder 
+and valve assemblies, to determine the serial number of the valve, 
+cylinder, and entire assembly. The FAA has not changed this AD in this 
+regard.
+
+Request To Clarify Which Components Need To Be Identified
+
+    UAL requested a change to the wording of which components need the 
+serial number inspection. UAL stated that the statement in paragraph 
+(h) of the proposed AD can be misconstrued as requiring that each of 
+the three components (valve, cylinder, and entire assembly) be 
+inspected individually for suspect serial numbers. UAL inferred that 
+the intention is to inspect for the serial number of the entire 
+cylinder and valve assembly, and not the individual components. UAL 
+also stated that, for new oxygen cylinder assemblies from AVOX, there 
+are individual placards that itemize the P/N and serial number for each 
+component, and that for some cylinder assemblies, the serialization of 
+the entire cylinder and valve assembly is nearly identical in format to 
+the serialization of sub-component valve assemblies, which could lead 
+to inaccurate reporting of results. The FAA infers that UAL suggested 
+that the relevant numbers on the placards could be confused with other 
+numbers.
+    The FAA disagrees. Each part and assembly stated in paragraph (h) 
+of this AD are interrelated and must be inspected. The valve and 
+cylinder components that are part of those assemblies must also be 
+inspected for serial numbers, not just the assemblies themselves. If 
+the serial number markings are unclear or missing, the service 
+information contains information on identifying the parts and part 
+assemblies. The FAA has not changed this AD in this regard.
+
+Request To Revise Conditions for Gap Inspection and Related Actions
+
+    AAL and DAL requested changes to address concerns about what 
+actions are required if a part is missing a blue dot. DAL stated that 
+it seems best to prohibit all affected serial numbers to avoid a case 
+where an inspected and marked part is installed, but the blue dot 
+fades. AAL pointed to paragraph (i) of the proposed AD that would 
+clarify that only the affected serial numbers of the valve assembly 
+would need additional work, and, for valve assemblies marked with a 
+blue dot, a detailed inspection for correct spacing of the gap between 
+the bottom of the packing retainer and top of the valve body would not 
+be required. AAL stated that, as written, the proposed AD seems to 
+suggest that an inspection of the gap would be required regardless of 
+the presence of a blue dot.
+    The FAA disagrees with the request. The service information 
+specifies that if there is a doubt on the condition of a part, such as 
+missing serial numbers or a blue dot not definitively identified, then 
+the follow-on inspections are required to ensure that no discrepant or 
+affected part is missed. Paragraph (k) of this AD prohibits 
+installation of assemblies with affected serial numbers unless the 
+actions of paragraph (i) of this AD are accomplished. The FAA has not 
+changed this AD in this regard.
+
+Request To Remove Inspection Report Requirement
+
+    DAL requested that the compliance times for the inspection report 
+be removed from paragraph (j)(1) of the proposed NPRM, and if not, the 
+inspection report itself be removed. AAL requested removing the 
+proposed requirement to submit an inspection report after accomplishing 
+the requirements (i.e., gap inspection) of paragraph (i) of the 
+proposed AD. FedEx stated reporting should not be required for units 
+that pass the inspection, and that sending units that failed the 
+inspection to the vendor should be sufficient for reporting those 
+failures. FedEx noted that any reporting requirements should consider 
+the difficulties in reporting findings in a short period of time and 
+noted that the inspector might not have access to the internet, email, 
+and a device capable of printing and scanning. FedEx opined that its 
+proposal would maintain accurate reporting and accommodate the 
+realities of a global workplace. AAL and DAL stated that the reporting 
+seems unnecessary and does not contribute to any additional level of 
+safety. AAL
+
+[[Page 10960]]
+
+added that the NPRM would give operators the responsibility of ensuring 
+that any affected part is returned to the manufacturer, and asserted 
+that an equivalent level of safety would be maintained even if the 
+reporting is not accomplished. DAL reasoned that if a cylinder valve 
+assembly is unacceptable, it would be in the operator's best interest 
+to report that finding to AVOX anyways so that it can receive a 
+replacement assembly.
+    The FAA disagrees. In this case, the inspection results need to be 
+reported to assist in tracking affected parts that are in circulation. 
+In addition, reporting all findings gives assurance that an inspection 
+was performed on an assembly with a given serial number. The FAA has 
+not changed this AD in this regard.
+
+Request To Remove Compliance Time for Returning Parts
+
+    AAL, DAL, and UAL requested revising paragraph (j)(2) of the 
+proposed AD to remove a compliance time for returning discrepant parts 
+to the manufacturer. AAL stated that a compliance time would not 
+contribute to the level of safety. AAL also stated that all discrepant 
+assemblies would be returned in a timely manner that is sufficient to 
+the operator. DAL stated that it would be an unnecessary burden on 
+operators to wait for AVOX's response before sending an unacceptable or 
+discrepant part back within the compliance time in exchange for a free-
+of-charge replacement. DAL also stated that it would also be in the 
+operator's best interest to send in the assembly so that it can qualify 
+for a free-of-charge replacement if AVOX determines the part is 
+unacceptable or discrepant. UAL stated it also believes the instruction 
+to contact AVOX for shipping instructions could impede compliance with 
+the 30-day limit to ship discrepant parts back to AVOX. UAL also stated 
+that it wants to know how, for accurate AD-compliance reporting, it 
+would be determined that a part is being shipped back as a result of 
+this finding from AD-required inspections, or as a result of other, 
+normal repair order processes.
+    The FAA agrees to clarify. Paragraph (j)(2) of this AD requires 
+returning the assembly to the manufacturer in accordance with paragraph 
+3.D.(2) or 3.D.(3), as applicable, of the applicable service 
+information. However, the service information does not include 
+instructions to wait for a response from AVOX before returning the 
+part. In addition, the FAA has revised paragraph (j)(2) of this AD to 
+clarify that contacting AVOX for shipping instructions in not required. 
+AVOX is tracking parts that are returned to it during accomplishment of 
+the AD for data collection or analysis of manufacturing issues, and 
+AVOX is also re-conditioning parts where possible. The FAA determined 
+that having a 30-day compliance time for returning the part after an 
+inspection finding is appropriate for this AD. However, under the 
+provisions of paragraph (m) of this AD, an operator may request an 
+approval of an alternative method of compliance (AMOC). The FAA has not 
+changed this AD in this regard.
+
+Request To Allow Later Revisions of Service Information
+
+    AAL requested that all the references to the AVOX service 
+information be revised to allow use of subsequent revisions. AAL 
+reasoned that this revision would reduce the number of AMOC requests 
+each time a referenced service bulletin is revised.
+    The FAA disagrees. In an AD, the FAA may not refer to any document 
+that does not yet exist. In general terms, the FAA is required by the 
+Office of the Federal Register (OFR) regulations for approval of 
+materials incorporated by reference, as specified in 1 CFR 51.1(f), to 
+either publish the service document contents as part of the actual AD 
+language; or submit the service document to the OFR for approval as 
+referenced material, in which case the FAA may only refer to such 
+material in the text of an AD. The AD may refer to the service document 
+only if the OFR approved it for incorporation by reference. See 1 CFR 
+part 51. The FAA disagrees with revising the AD to include specific 
+airplane models based on the corresponding service information because 
+the agency does not have a comprehensive list of the applicable 
+aircraft to which specific AVOX service information could apply. The 
+FAA has not changed this AD in this regard.
+
+Request To Clarify AD Applicability With Reference to Service 
+Information
+
+    A commenter requested clarifying paragraph (c) of the proposed AD 
+by including reference to the service information that was identified 
+in paragraph (h) of the proposed AD. The commenter suggested revising 
+the paragraph so that the applicability would include information on 
+the service information definition of the affected units. AAL also 
+requested adding the airplane configuration information in the text of 
+the AD to add further clarification to operators and release the 
+technical data in a more organized fashion.
+    The FAA disagrees. The definition of the affected units does not 
+need to be moved to paragraph (c) of the AD. The effectivity of the 
+service information is limited to specific airplane models, but the 
+applicability of this AD applies to all aircraft. Because the affected 
+parts could be installed on additional aircraft models, the FAA has 
+determined that the affected parts could later be installed on aircraft 
+that were initially delivered with acceptable parts, thereby subjecting 
+those aircraft to the unsafe condition. The FAA has not changed this AD 
+in this regard.
+
+Request To Revise Compliance Time for Parts Identification
+
+    DAL and UAL requested revising the compliance time proposed in 
+paragraph (h) of the proposed NPRM. DAL and UAL stated that since many 
+operators have parked their aircraft or severely reduced usage of 
+aircraft, an extension of the compliance time (either with additional 
+calendar days or adding an option for flight hours and flight cycles), 
+would allow operators additional time for compliance. UAL also stated 
+that the supply chain could be affected due to potential increased 
+shipping time and workforce reductions.
+    The FAA disagrees with the request to extend the compliance time. 
+The FAA acknowledges the effects that the pandemic response might have 
+on operators' fleet use, supply chain, and maintenance personnel. In 
+developing an appropriate compliance time for this action, the FAA 
+considered the degree of urgency associated with addressing the subject 
+unsafe condition, the manufacturer's recommendation for an appropriate 
+compliance time, and the practical aspect of accomplishing the required 
+inspection within a period of time that corresponds to the normal 
+scheduled maintenance for most affected operators. In addition, the FAA 
+notes that some aircraft may have been in service during the pandemic 
+and must comply within the required compliance time. Operators do have 
+the option to inspect the airplane before the first flight following 
+storage if the airplane is in storage for more than 27 months. However, 
+under the provisions of paragraph (m) of this AD, the FAA will consider 
+requests for an extension of the compliance time if sufficient data are 
+submitted to substantiate that the new compliance time would provide an 
+acceptable level of safety. The FAA has not changed this AD in this 
+regard.
+
+Request To Allow Use of Alternatives for Parts Marking
+
+    FedEx requested that the specification to use oil-based blue ink 
+markers be
+
+[[Page 10961]]
+
+modified to allow alternative methods and colors such as black 
+indelible ink. FedEx stated that oil-based blue paint markers are not 
+readily available or kept in stock regularly. FedEx suggested that a 
+list of part numbers for approved, aircraft grade, oil-based paint be 
+provided.
+    The FAA disagrees. While the FAA realizes this is a limitation, 
+there must be one standard to help avoid confusion. The procedures 
+required by this AD specify actions based on the presence or absence of 
+a blue dot in a specific location. The FAA has not seen any 
+difficulties in obtaining the paint markers. However, under the 
+provisions of paragraph (m) of this AD, any person may request an 
+approval of an AMOC. The FAA has not revised this AD in this regard.
+
+Request To Allow Alternative Means of Measuring Gaps
+
+    FedEx requested that the proposed AD be revised to allow use of 
+feeler gauges, calipers, and other means of measuring the gap in 
+imperial units of measure. FedEx stated that the service information 
+specifies use of pin gauges that are made for metric units of measure, 
+and that acquiring those metric pin gauges is an extra expense and 
+logistical complication. FedEx recommended adding a tolerance to the 
+gap measurement and specifying a fractional imperial measure (\3/32\-
+inch) that is close to the metric unit specified. FedEx suggested that 
+if a tolerance or other measurement is not added, then a manufacturer 
+part number (MPN) for a specific tool or supplier should be provided.
+    The FAA disagrees. Using other means of measuring could introduce 
+or increase variables that could affect the accuracy of the 
+measurement. The FAA understands that not everyone has the same 
+resources, tools, or supplies; however, the FAA also understands that 
+this means of measurement is easily accessible. Under the provisions of 
+paragraph (m) of this AD, operators may request approval of an AMOC if 
+sufficient data are submitted to substantiate that the tolerance would 
+provide an acceptable level of safety. The FAA has not changed this AD 
+in this regard.
+
+Request To Revise Procedure for Shipping an Assembly
+
+    FedEx requested that the proposed AD be revised to allow operators 
+to use their own procedures for shipping dangerous goods such as 
+unopened cylinder valve assemblies (CVAs) instead of the procedure 
+specified in the service information. FedEx explained that it has 
+established and accepted procedures for shipping dangerous goods, and 
+that the disposition of an unopened CVA would be done by a department 
+separate from the one doing the inspection. FedEx stated that following 
+the procedures in the service information would require additional 
+coordination time, and that the wording of the procedures would not 
+function properly with its AD compliance mechanisms.
+    The FAA agrees to clarify. The design approval holder (DAH) of the 
+affected valve assemblies has specified a method for shipping, or 
+returning, an unopened CVA that has been found to be unacceptable or 
+discrepant, specifically a shipping method that is compliant with DOT 
+standard HM-224B. If FedEx has procedures that are compliant with DOT 
+standard HM-224B, then those procedures are acceptable for compliance 
+with this AD. For procedures that are not compliant with DOT standard 
+HM-224B, under the provisions of paragraph (m) of this AD, the FAA will 
+consider requests for an AMOC. The FAA has not changed this AD in this 
+regard.
+
+Request for Clarification on Applicability of AD
+
+    FedEx requested clarification on whether the proposed AD is written 
+``against'' the MPN or the serial numbers within that MPN. FedEx 
+explained the effects on the operator's workload and also on the 
+operational impact of a unit's overhaul cycle in conjunction with a 60-
+day compliance time and the scope of the applicability. FedEx added 
+that a 180-day compliance time would be more reasonable.
+    The FAA agrees to clarify. The applicability of this AD is written 
+against the MPN and specific serial numbers, in addition to manufacture 
+dates of the assemblies. The FAA disagrees to revise the compliance 
+time because the FAA has determined that requirement based on a risk 
+calculation. The FAA has not changed this AD in that regard.
+
+Request To Clarify Requirement if Component Number(s) Cannot Be 
+Determined
+
+    UAL requested clarification on what actions are required in the 
+event the P/N or serial number information cannot be determined. UAL 
+stated that as a result of in-service activity, that information might 
+be illegible, unintentionally obliterated, or missing from the placard. 
+UAL added that under its normal practices, whenever a part or serial 
+number cannot be determined, the part is considered suspect, made 
+unserviceable, and removed from service. UAL stated that, when the P/N 
+of the entire cylinder and valve assembly can be determined but not the 
+serial number, and the date of manufacture is between January and 
+November 2018, it wants to still be able to establish conformity by 
+inspecting for the presence of the blue dot and accomplish the 
+applicable service information instruction if the blue dot is missing. 
+UAL also stated that depending on the FAA's response to this request, 
+it may apply for an AMOC.
+    The FAA agrees to clarify. The service information states to 
+inspect for the manufacturing date, serial number, and the presence of 
+a blue dot. The service information then states that if there is doubt 
+or a determination cannot be made (such as the numbers or dot is not 
+clearly identified), to proceed with the follow-on inspection for 
+proper gap spacing (this follow-on inspection is required by paragraph 
+(i) of this AD). The FAA has not changed this AD in this regard.
+
+Request for Clarification on Compliance Time and Method for Inspection 
+Report
+
+    UAL requested clarification on how a 30-day requirement for the 
+inspection report was determined, and if a ``comprehensive'' report is 
+acceptable. UAL stated that it understands the need for the information 
+gathered from the reports; however, it does not understand why or how a 
+30-day compliance time was established. UAL also stated that it assumed 
+that reporting of the results should be done as a single, comprehensive 
+report and not piece-wise (individually for each assembly or aircraft), 
+and that the report does not need to be an exact copy of the report 
+form in the service information.
+    The FAA agrees to clarify. The FAA determined that the 30-day 
+compliance time is appropriate for this AD. Also, the manufacturer is 
+collecting information for analysis of manufacturing issues. The format 
+of the report may be done as UAL assumed, as long as all documents are 
+labeled correctly. However, under the provisions of paragraph (m) of 
+this AD, an operator may request an approval of an AMOC. The FAA has 
+not changed this AD in this regard.
+
+Request To Provide Clarification on Reporting Form
+
+    UAL requested clarification on the definition of ``manufacture 
+date'' in a recording column of a report form in the service 
+information. UAL stated that it is implied that ``manufacture date'' in 
+that column is the manufacture date of
+
+[[Page 10962]]
+
+the entire cylinder and valve assembly and not of the valve assembly.
+    The FAA agrees to clarify. The ``manufacturer date'' is not limited 
+to the date of the entire cylinder and valve assembly, but is the 
+manufacture date of each part or assembly that might be recorded in the 
+inspection report, such as the assemblies listed in Appendix 1 of the 
+service information. The FAA has not changed this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed AVOX Systems Inc. Alert Service Bulletins 
+10015804-35-01, Revision 02, dated October 16, 2019; 10015804-35-02, 
+Revision 2, dated October 31, 2019; and 10015804-35-03, Revision 02, 
+dated October 15, 2019. This service information describes procedures 
+for an inspection to determine the serial numbers of the oxygen 
+cylinder and valve assemblies, and the oxygen valve assemblies, a 
+detailed inspection for correct spacing of the gap between the bottom 
+of the packing retainer and top of the valve body on the assemblies, 
+parts marking, inspection report, and return of parts to the 
+manufacturer. These documents are distinct since they apply to 
+different assembly part numbers. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in 
+ADDRESSES.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects up to 3,034 oxygen cylinder 
+and valve assemblies, and oxygen valve assemblies, installed on various 
+transport category airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+              Action                    Labor cost             Parts cost             product        operators
+----------------------------------------------------------------------------------------------------------------
+Serial number inspection.........  1 work-hour x $85    None....................             $85        $257,890
+                                    per hour = $85.
+Reporting........................  1 work-hour x $85    0.......................              85         257,890
+                                    per hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary follow-on 
+actions that would be required based on the results of the inspection. 
+The FAA has no way of determining the number of aircraft that might 
+need these actions:
+
+                                              On-Condition Costs *
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                Action                          Labor cost                   Parts cost               product
+----------------------------------------------------------------------------------------------------------------
+Detailed inspection...................  1 work-hour x $85 per      None.........................             $85
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+* The FAA has received no definitive data on the cost of on-condition replacements.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators. The FAA does not control warranty coverage for 
+affected operators. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to take 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities
+
+[[Page 10963]]
+
+under the criteria of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2022-04-09 AVOX Systems Inc. (formerly Scott Aviation): Amendment 
+39-21951; Docket No. FAA-2020-0345; Product Identifier 2019-NM-154-
+AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective April 4, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to AVOX Systems Inc. (formerly Scott Aviation) 
+oxygen cylinder and valve assemblies having part number (P/N) 
+89794077, 89794015, 891511-14, 806835-01, 807982-01, or 808433-01; 
+and oxygen valve assemblies (body and gage assemblies) having P/N 
+807206-01. These assemblies might be installed on, but not limited 
+to, the aircraft identified in paragraphs (c)(1) through (12) of 
+this AD, certificated in any category.
+    (1) Airbus SAS Model A300 B2-1A, B2-1C, B2K-3C, B2-203, B4-2C, 
+B4-103, and B4-203 airplanes.
+    (2) Airbus SAS Model A300 B4-601, B4-603, B4-620, B4-622, B4-
+605R, B4-622R, F4-605R, F4-622R, and C4-605R Variant F airplanes.
+    (3) Airbus SAS Model A310-203, -204, -221, -222, -304, -322, -
+324, and -325 airplanes.
+    (4) Airbus SAS Model A318-111, -112, -121, and -122 airplanes.
+    (5) Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -
+132, -133, and -151N airplanes.
+    (6) Airbus SAS Model A320-211, -212, -214, -216, -231, -232, -
+233, -251N, -252N, -253N, -271N, -272N, and -273N airplanes.
+    (7) Airbus SAS Model A321-111, -112, -131, -211, -212, -213, -
+231, -232, -251N, -252N, -253N, -271N, -272N, -251NX, -252NX, -
+253NX, -271NX, and -272NX airplanes.
+    (8) Airbus SAS Model A330-201, -202, -203, -223, -243, -301, -
+302, -303, -321, -322, -323, -341, -342, -343, and -941 airplanes.
+    (9) Airbus Model A340-211, -212, -213, -311, -312, -313, -541, 
+and -642 airplanes.
+    (10) ATR--GIE Avions de Transport R[eacute]gional Model ATR42-
+200, -300, -320, and -500 airplanes.
+    (11) ATR--GIE Avions de Transport R[eacute]gional Model ATR72-
+101, -102, -201, -202, -211, -212, and -212A airplanes.
+    (12) The Boeing Company Model 747-8 series airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen 
+System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cylinder and valve assemblies 
+having oxygen leakage from the valve assembly vent hole, caused by 
+the absence of a guide that maintains appropriate spacing between 
+certain parts. The FAA is issuing this AD to address oxygen leakage 
+from the cylinder, which could result in decreased or insufficient 
+oxygen supply during a depressurization event; and heating or flow 
+friction, which could cause an ignition event in the valve assembly.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of Detailed Inspection
+
+    For the purposes of this AD, a detailed inspection is an 
+intensive examination of a specific item, installation, or assembly 
+to detect damage, failure, or irregularity. Available lighting is 
+normally supplemented with a direct source of good lighting at an 
+intensity deemed appropriate. Inspection aids such as mirror, 
+magnifying lenses, etc., may be necessary. Surface cleaning and 
+elaborate procedures may be required.
+
+(h) Identification of Affected Cylinder and Valve Assemblies
+
+    Within 60 days after the effective date of this AD, inspect the 
+oxygen valve assemblies, and oxygen cylinder and valve assemblies, 
+to determine if the serial numbers of the valve, cylinder, and 
+entire assembly, are listed in Appendix 1, ``Affected Shipments,'' 
+of the applicable service information identified in paragraphs 
+(h)(1) through (3) of this AD. A review of airplane maintenance 
+records is acceptable in lieu of this inspection if the serial 
+numbers can be conclusively determined from that review.
+    (1) AVOX Systems Inc. Alert Service Bulletin 10015804-35-01, 
+Revision 02, dated October 16, 2019.
+    (2) AVOX Systems Inc. Alert Service Bulletin 10015804-35-02, 
+Revision 2, dated October 31, 2019.
+    (3) AVOX Systems Inc. Alert Service Bulletin 10015804-35-03, 
+Revision 02, dated October 15, 2019.
+
+(i) Inspection of the Gap, Parts Marking Actions, and Replacement
+
+    If, during any inspection or records review required by 
+paragraph (h) of this AD, any oxygen valve assembly, valve or 
+cylinder of an oxygen cylinder and valve assembly, or oxygen 
+cylinder and valve assembly having an affected serial number is 
+found: Before further flight, do a detailed inspection for correct 
+spacing of the gap between the bottom of the packing retainer and 
+top of the valve body, in accordance with paragraph 3.C. of the 
+Accomplishment Instructions of the applicable service information 
+identified in paragraphs (h)(1) through (3) of this AD.
+    (1) If the gap is found to be acceptable, as defined in the 
+applicable service information identified in paragraphs (h)(1) 
+through (3) of this AD, before further flight, do the parts marking 
+actions in accordance with paragraph 3.D.(1) of the Accomplishment 
+Instructions of the applicable service information identified in 
+paragraphs (h)(1) through (3) of this AD.
+    (2) If the gap is found to be unacceptable, as defined in the 
+applicable service information identified in paragraphs (h)(1) 
+through (3) of this AD, before further flight, remove the affected 
+assembly, in accordance with paragraphs 3.D.(2) or 3.D.(3), as 
+applicable, of the Accomplishment Instructions of the applicable 
+service information identified in paragraphs (h)(1) through (3) of 
+this AD; and replace with a serviceable assembly.
+
+(j) Reporting and Return of Parts
+
+    (1) Report the results of the inspection required by paragraph 
+(i) of this AD within the applicable time specified in paragraph 
+(j)(1)(i) or (ii) of this AD. Report the results in accordance with 
+paragraph 3.D.(1)(a) of the Accomplishment Instructions of the 
+applicable service information identified in paragraphs (h)(1) 
+through (3) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+    (2) If, during the inspection required by paragraph (i) of this 
+AD, any gap is found to be unacceptable, within the applicable time 
+specified in paragraph (j)(2)(i) or (ii) of this AD, return the 
+assembly to the manufacturer in accordance with paragraph 3.D.(2) or 
+3.D.(3), as applicable, of the Accomplishment Instructions of the 
+applicable service information identified in paragraphs (h)(1) 
+through (3) of this AD, except you are not required to contact AVOX 
+for shipping instructions.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Return the assembly within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Return the assembly within 30 days after the effective date 
+of this AD.
+
+(k) Parts Installation Limitation
+
+    As of the effective date of this AD, no AVOX Systems Inc. oxygen 
+valve assembly, or valve or cylinder that is part of an oxygen 
+cylinder and valve assembly, or oxygen cylinder and valve assembly 
+having an affected serial number identified in Appendix 1, 
+``Affected Shipments,'' of any AVOX Systems Inc. service information
+
+[[Page 10964]]
+
+identified in paragraphs (h)(1) through (3) of this AD may be 
+installed on any airplane unless the requirements of paragraph (i) 
+of this AD have been accomplished on that affected assembly.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in 
+paragraphs (h) or (i) of this AD, if those actions were performed 
+before the effective date of this AD using the service information 
+specified in paragraphs (l)(1) through (5) of this AD.
+    (1) AVOX Systems Inc. Service Bulletin 10015804-35-01, dated 
+March 6, 2019.
+    (2) AVOX Systems Inc. Alert Service Bulletin 10015804-35-01, 
+Revision 01, dated July 9, 2019.
+    (3) AVOX Systems Inc. Alert Service Bulletin 10015804-35-02, 
+Revision 1, dated September 4, 2019.
+    (4) AVOX Systems Inc. Service Bulletin 10015804-35-03, dated 
+April 11, 2019.
+    (5) AVOX Systems Inc. Alert Service Bulletin 10015804-35-03, 
+Revision 01, dated May 21, 2019.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, New York ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to ATTN: Program 
+Manager, Continuing Operational Safety, FAA, New York ACO Branch, 
+1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 516-
+228-7300; fax 516-794-5531.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(n) Related Information
+
+    (1) For more information about this AD, contact Elizabeth 
+Dowling, Aerospace Engineer, Mechanical Systems and Administrative 
+Services Section, FAA, New York ACO Branch, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590; telephone 516-228-7300; email [email protected].
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) AVOX Systems Inc. Alert Service Bulletin 10015804-35-01, 
+Revision 02, dated October 16, 2019.
+    (ii) AVOX Systems Inc. Alert Service Bulletin 10015804-35-02, 
+Revision 2, dated October 31, 2019.
+    (iii) AVOX Systems Inc. Alert Service Bulletin 10015804-35-03, 
+Revision 02, dated October 15, 2019.
+    (3) For service information identified in this AD, contact AVOX 
+Systems Inc., 225 Erie Street, Lancaster, NY 14086; telephone 716-
+683-5100; internet https://www.safranaerosystems.com.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, [email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on February 11, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-04146 Filed 2-25-22; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,33 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0234-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2015-0234-CN
+
+Issued: 28 April 2017 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320 and A321 aeroplanes
+
+Effective Date: 28 April 2017 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Cancellation: This Notice cancels EASA AD 2015-0234 dated 08 December 2015.
+
+ATA 52 – CANCELLED: Doors – Main Landing Gear Door Tie Rod Assembly – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A319-115, A319-132, A320-214, A320-216, A320-232, A321-211, A321-213 and A321-231 aeroplanes, manufacturer serial numbers (MSN) as listed in Airbus Service Bulletin (SB) A320-52-1167.
+
+Reason: A production quality issue was identified concerning tie rod assemblies, having Part Number starting with D52840212000 or D52840212002, which are installed on the main landing gear (MLG) hinged fairing assembly. This quality issue affects the cadmium plating surface treatment which was inadvertently omitted from the rod end threads of the assembly. The absence of cadmium plating reduces the corrosion protection scheme. This condition, if not detected and corrected, was initially assessed as leading to galvanic corrosion of the tie rod end threads, possibly resulting in rod end failure, loss of a MLG door, and consequent injury to persons on ground. To address this unsafe condition, Airbus identified the affected MSN and issued SB A320-52-1167 to provide inspection instructions. Page 1 of 2 TE.CAP.00116-004 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0234-CN Consequently, EASA issued AD 2015-0234, requiring a one-time inspection of the affected MLG hinged fairing tie rod assemblies, and, depending on findings, replacement of the affected tie rod assembly. Since that AD was issued, tests performed by the tie rod assembly manufacturers determined that the assemblies, even without cadmium plating surface treatment on the rod end threads, can withstand the expected environmental conditions. The consequence is that the unsafe condition, as initially determined, does not exist. For the reasons described above, this Notice cancels EASA AD 2015-0234.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Airbus SB A320-52-1167 original issue, dated 06 August 2015.
+
+Remarks: 1. This AD-CN was posted on 21 March 2017 as PAD 17-038-CN for consultation until 18 April 2017. No comments were received during the consultation period. 2. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 3. For any question concerning the technical content of this AD-CN, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 2 of 2 TE.CAP.00116-004 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,37 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-271-039(B) R3 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Electric terminal blocks This
+
+Airworthiness Directive is applicable to AIRBUS INDUSTRIE A320 aircraft, from MSN 263 to MSN 384 included. Following in service incidents affecting internal wiring cut off, a batch of doubtful terminal blocks manufactured by SOURIAU has been identified. The following measures are rendered mandatory upon receipt of this
+
+Airworthiness Directive : 1/ Within 400 flight hours from January 06, 1993 (effective date of revision 2 of this
+
+Airworthiness Directive), on the following terminal blocks : LOCATION TERMINAL BLOCK NSA 83VU 1831VT48 937901MA2205 83VU 1831VT49 937901MA2205 84VU 1840VT28 937901MA2205 84VU 18340T29 937901MA2205 106VU 1159VT5 937901MA2204 106VU 1159VT9 937901MA2204 A - Note the date code. B - Replace before further flight terminal blocks which have date code between 9129 and 9149 included, and perform tests required by paragraph 4 of the AOT A320/AOT24-02 dated December 21, 1992. 2/ Except if already done, pending accomplishment of paragraph 1 of this
+
+Airworthiness Directive, for aircraft 268 to 384 included already delivered : A- Auto land and cat 3 approaches must be conducted only in dual autopilot. B- Insert a copy of this
+
+Airworthiness Directive in the aircraft flight manual. v/JYR …/… AIRBUS INDUSTRIE March 13, 1996 92-271-039(B) R3 A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 92-271-039(B) R3 Page n° 2 GSAC NOTE 1 : Embodiment of paragraph 1 of this
+
+Airworthiness Directive cancels requirements of paragraph 2. NOTE 2 : Aircraft 316, 340, 344, 348, 351, 355, 356, 358, 360, 362, 363, 366, 367, 368, 372 to 384 included are checked by the manufacturer before delivery in respect of instructions given in paragraph 1 of this
+
+Airworthiness Directive, and thus are not concerned by this
+
+Airworthiness Directive. Aircraft MSN 364 is an A321 not concerned by this
+
+Airworthiness Directive. NOTE 3 : For the sole few aircraft still potentially affected, incorporation of this
+
+Airworthiness Directive revision in the flight manual cancels and replaces T.R 9.99.99/90 issue 2 dated December 22, 1992. Ref. : - A320 Airplane Flight Manual temporary revision TR 9.99.99/90R2 dated December 22, 1992 - AIRBUS INDUSTRIE all operator telex A320 AOT 24-02 dated December 21, 1992. This Revision 3 replaces
+
+Airworthiness Directive 92-271-039(B) Revision 2. The
+
+Airworthiness Directive 92-271-039(B) has been the subject of a telegraphic diffusion on December 11, 1992. The
+
+Airworthiness Directive 92-271-039(B)R1 has been the subject of a telegraphic diffusion on December 14, 1992. The
+
+Airworthiness Directive 92-271-039(B)R2 has been the subject of a telegraphic diffusion on December 23, 1992. EFFECTIVE DATES : Original issue ; Revision 1 ; Revision 2 : From the date of diffusion of telegraphic airworthiness directive Revision 3 : MARCH 23, 1996

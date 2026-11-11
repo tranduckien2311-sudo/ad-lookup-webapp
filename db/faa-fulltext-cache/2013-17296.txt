@@ -1,0 +1,489 @@
+[Federal Register Volume 78, Number 146 (Tuesday, July 30, 2013)]
+[Rules and Regulations]
+[Pages 45842-45845]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-17296]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1114; Directorate Identifier 2012-NE-21-AD; 
+Amendment 39-17511; AD 2013-14-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International, S. A. Turbofan 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+CFM International, S. A. (CFM) model CFM56-5 and CFM56-5B series 
+turbofan engines. This AD was prompted by corrosion of the delta-P 
+valve in the hydro-mechanical unit (HMU) fuel control caused by 
+exposure to type TS-1 fuel. This AD requires cleaning, inspection, and 
+repair of affected HMUs. We are issuing this AD to prevent seizure of 
+the HMU, leading to failure of one or more engines and damage to the 
+airplane.
+
+DATES: This AD is effective September 3, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in the AD as of September 3, 
+2013.
+
+ADDRESSES: The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+    For service information identified in this AD, contact CFM 
+International Inc., Aviation Operations Center, 1 Neumann Way, M/D Room 
+285, Cincinnati, OH 45125; International phone: 513-552-3272; USA 
+phone: 877-432-3272; International fax: 513-552-3329; USA fax: 877-432-
+3329; email: [email protected]; or CFM International SA, Customer Support 
+Center, International phone: 33 1 64 14 88 66; fax: 33 1 64 79 85 55; 
+email: [email protected]. You may view this service information at 
+the FAA, Engine & Propeller Directorate, 12 New England Executive Park, 
+Burlington, MA. For information on the availability of this material at 
+the FAA, call 781-238-7125.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is provided in the ADDRESSES 
+section. Comments will be available in the AD docket shortly after 
+receipt.
+
+FOR FURTHER INFORMATION CONTACT: Martin Adler, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: 781-238-7157; 
+fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM was published in the Federal Register on January 14, 2013 (78 
+FR
+
+[[Page 45843]]
+
+2644). The NPRM proposed to require cleaning, inspection, and repair of 
+the affected HMUs.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment.
+
+Agreement With the Proposed AD
+
+    American Airlines supports the NPRM (78 FR 2644, January 14, 2013) 
+and does not foresee being impacted by this AD now or in the future.
+
+Request To Include Minimum Threshold for TS-1 Fuel Usage
+
+    Seven commenters requested that the NPRM (78 FR 2644, January 14, 
+2013) be modified to include a minimum threshold for TS-1 fuel usage 
+similar to the service bulletins (SBs). The reason for this request is 
+that the NPRM differs from the service information. The data does not 
+support the more restrictive applicability called for by the NPRM. The 
+European Aviation Safety Agency (EASA) AD 2012-0123, dated July 9, 
+2012, is less restrictive as well. There have been no events since 
+implementation of the EASA AD and since the latest versions of the CFM 
+SBs. Several carriers questioned whether the data supports having no 
+threshold and if in-flight shutdown events truly apply to the worldwide 
+fleet.
+    We partially agree with including a minimum usage threshold. We 
+have no technical objections to the usage threshold utilized in the CFM 
+SBs. However, since there are no U.S. operators using TS-1 fuel, there 
+is no benefit to increasing the complexity of the AD. We did not change 
+the AD.
+
+Request To Reduce Applicability To Match EASA AD
+
+    Five commenters requested that the NPRM (78 FR 2644, January 14, 
+2013) be modified to reduce the applicability to match the EASA AD. The 
+reason for this request is that the data does not support the more 
+restrictive applicability called for by the NPRM. The EASA AD 
+applicability is less restrictive. There have been no events since 
+implementation of the EASA AD and the latest versions of the CFM SBs.
+    We do not agree. No U.S. operators use TS-1 fuel. Therefore, there 
+is no benefit to increasing the complexity of the AD. We did not change 
+the AD.
+
+Request To Eliminate TS-1 Fuel Usage Recording
+
+    Five air carriers requested that the NPRM (78 FR 2644, January 14, 
+2013) be modified to eliminate TS-1 fuel usage recording. The reason 
+for this request is that the additional record keeping will add cost 
+and complexity. This will be a burden to the operators.
+    We do not agree. TS-1 fuel usage records are required for 
+enforcement of the AD. In addition, many operators already track fuel 
+usage for business purposes. The creation and retention of TS-1 fuel 
+records required by this AD is not considered an undue burden. We did 
+not change the AD.
+
+Request To Delay Issuance of AD
+
+    CFM and Airbus requested that we delay issuing the AD until mid-
+2013. The reason for this request is that CFM is conducting additional 
+testing and analysis to further validate the usage threshold called out 
+in the SBs.
+    We do not agree. We have no technical objections to the usage 
+threshold utilized in the CFM SBs. However, since there are no U.S. 
+operators using TS-1 fuel, there is no benefit to increasing the 
+complexity of the AD. We did not change the AD.
+
+Request Clarification of Differences Between NPRM and EASA AD
+
+    Lufthansa Technik noted that there are significant differences 
+between the NPRM (78 FR 2644, January 14, 2013) and the EASA AD. 
+Lufthansa Technik questioned whether the agencies have differing 
+opinions of the technical issue.
+    We do not agree. The technical understanding of the issue is 
+consistent, but differences in procedure and policy result in the 
+differences between the NPRM (78 FR 2644, January 14, 2013) and the 
+EASA AD.
+
+Request To Define Parameters for Recording TS-1 Fuel Usage
+
+    Lufthansa Technik pointed out that the specific parameters to 
+record TS-1 fuel usage are not well defined and asked if it is the 
+intention to track fuel volume or the number of fuel uploads. The 
+reason for this request is to clarify units to be measured for TS-1 
+fuel usage.
+    We do not agree. The actions are required regardless of the amount 
+of TS-1 exposure. The intent is to track if an HMU has been exposed to 
+TS-1 fuel. We did not change the AD.
+
+Request To Allow Earlier Versions of the SB To Be Used
+
+    Lufthansa Technik and Virgin America Airlines requested that use of 
+earlier revisions of the SBs be allowed. Earlier revisions of the SB 
+allow cleaning or replacement of the delta-P valve. The latest 
+revisions only allow replacement of the delta-P valve. Cleaning has 
+proven effective at eliminating the issue, so replacement in all cases 
+is not required. Also, the general inspection procedure has not changed 
+from the initial release of the SBs to the one called out by the AD.
+    We agree. Cleaining of the HMU delta-P valve is effective at 
+mitigating the risk of this issue and should be allowed. We changed 
+this AD to reference the following service information to do the 
+inspection: paragraph 3.A(2) of CFM SB CFM56-5 S/B 73-0182, Revision 6, 
+dated March 8, 2012; or CFM SB CFM56-5B S/B 73-0122, Revision 8, dated 
+March 8, 2012.
+
+Request To Clarify Reporting Requirements
+
+    TAP Portugal asks if the AD includes a usage threshold calculation, 
+would time spent in storage be discounted from the calculation? The 
+reason for this request is to seek clarification on threshold 
+calculation.
+    We do not agree. The AD does not include a usage threshold. We did 
+not change the AD.
+
+Request Change to Applicability
+
+    TAP Portugal requested that the AD also apply to the CFM56-5C 
+engine. The reason for this request is that there are many 
+interchangable parts between CFM56-5C and the affected engines.
+    We do not agree. The data received for HMU corrosion and subsequent 
+engine shutdown have all come from CFM56-5A and CFM56-5B engines, which 
+are used on a different family of airplanes than CFM56-5C. At this 
+time, there is insufficient data to support adding the CFM56-5C to the 
+Applicability paragraph. We did not change the AD.
+
+Request Clarification for the Definition of Overhaul
+
+    Air France requested that we clarify the definition of overhaul. 
+HMU overhaul is defined in the Component Maintenance Manual as specific 
+maintenance which may or may not align with the maintenance required by 
+this AD. This could cause conflicts and confusion when attempting to 
+comply with the AD.
+    We agree. The intent of the AD when referring to overhaul is 
+anytime the HMU delta-P valve is inspected, cleaned, or replaced. We 
+added the following defintion to the AD: ``For the purposes of this AD, 
+overhaul is defined as HMU maintenance, which includes inspection, 
+cleaning, or replacement of the HMU delta-P valve.''
+
+Request Increase in Compliance Time
+
+    Rossiya Airlines requested an increase in initial compliance time 
+for an HMU
+
+[[Page 45844]]
+
+with more than 8,000 hours to be 24 months or 4,200 hours. The 
+utilization rate of Rossiya Airlines is above 3,800 hours per year. The 
+current compliance equates to less than one year in which to fully 
+comply with the AD. The reason for this request is that the number of 
+spare and rotable engines does not support the compliance time rate 
+requirement.
+    We partially agree with increasing the initial compliance time. The 
+intent of the initial compliance time was to allow sufficient time for 
+all of the high-time impacted HMUs to be replaced. The 2,000-hour 
+allowance did not take into account the high-time utilization rates of 
+some operators. The initial inspection compliance times are revised to 
+allow up to 4,000 hours from the effective date of the AD. We disagree 
+with increasing the initial inspection compliance times to 4,200 hours 
+because that does not mitigate the unsafe condition.
+
+Request To Delete Initial Cleaning Requirement
+
+    Lufthansa Technik noted that the lack of records for prior TS-1 
+fuel usage will make determination of usage extremely difficult. In 
+addition, this determination will need to be made for all engines and 
+HMUs worldwide. The reason for this request is that lease components, 
+lease engines, and component pools transferred between operators might 
+have exposed an HMU to TS-1 fuel. The exposed HMU might then get 
+transferred to a region where TS-1 fuel is not used, such as the United 
+States.
+    We do not agree. An initial inspection of the HMU is required 
+unless it can be shown that the HMU has never been exposed to TS-1 
+fuel. We did not change the AD.
+
+Request for Consideration of Costs to Worldwide Fleet
+
+    Air France requested that we include consideration for the costs to 
+the worldwide fleet. The NPRM (78 FR 2644, January 14, 2013) stated 
+that there is no impact to U.S. operators; however, European operators 
+would be impacted. The reason for this request is to expand cost 
+considerations to include the worldwide fleet.
+    We do not agree. The AD only applies to U.S.-registered aircraft. 
+Foreign operators must comply with the regulations of their local 
+authority. The cost considerations listed in the AD reflect the impact 
+to U.S. operators only. We did not change the AD.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously. We determined that these 
+changes will not increase the economic burden on any operator or 
+increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD will not affect any products of U.S. 
+registry. Based on these figures, we estimate this AD to have no cost 
+impact to U.S. operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2013-14-06 CFM International, S. A.: Amendment 39-17511; Docket No. 
+FAA-2012-1114; Directorate Identifier 2012-NE-21-AD.
+
+(a) Effective Date
+
+    This AD is effective September 3, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to CFM International S.A. (CFM) model CFM56-5 
+and CFM56-5B series turbofan engines with any of the hydro-
+mechanical unit (HMU) fuel control part numbers (P/Ns) in paragraphs 
+(c)(1) and (c)(2) of this AD, installed:
+    (1) CFM56-5: CFM P/Ns 1348M79P02; 1348M79P03; 1348M79P04; 
+1348M79P06; 1348M79P07; 1348M79P08; 1348M79P09; 1348M79P10; 
+1348M79P11; 1348M79P12; 1348M79P13; and 1348M79P14.
+    (2) CFM56-5B: CFM P/Ns: 1348M79P08; 1348M79P09; 1348M79P10; 
+1348M79P11; 1348M79P12; 1348M79P13; and 1348M79P14.
+
+(d) Unsafe Condition
+
+    This AD was prompted by corrosion of the delta-P valve in the 
+HMU fuel control caused by exposure to type TS-1 fuel. We are 
+issuing this AD to prevent seizure of the HMU, leading to failure of 
+one or more engines, and damage to the airplane.
+
+(e) Compliance
+
+    Unless already done, do the following:
+
+(f) Record Type TS-1 Fuel Usage
+
+    (1) From the effective date of this AD, record all TS-1 fuel 
+usage.
+    (2) If the HMU never uses TS-1 fuel, no further action is 
+required.
+
+(g) Initial Inspection
+
+    If the HMU has operated on TS-1 fuel, inspect the HMU for 
+corrosion as follows:
+    (1) For an HMU that has operated for fewer than 6,000 hours 
+since new (HSN) or hours since last overhaul, inspect the HMU before 
+10,000 HSN or hours since last overhaul, whichever comes later.
+    (2) For an HMU that has operated for 6,000 or more HSN or hours 
+since last overhaul, inspect the HMU within 24 months or 4,000 hours 
+after the effective date of this AD, whichever comes first.
+
+[[Page 45845]]
+
+    (3) Use paragraph 3.A(2) of CFM Service Bulletin (SB) No. CFM56-
+5 S/B 73-0182, Revision 6, dated March 8, 2012, or CFM SB No. CFM56-
+5B S/B 73-0122, Revision 8, dated March 8, 2012, to do the 
+inspection.
+
+(h) Repetitive Inspections
+
+    Repeat the inspection required in paragraph (g)(3) of this AD 
+before 10,000 hours since last overhaul if, after last overhaul, the 
+HMU is exposed to TS-1 fuel.
+
+(i) Credit for Previous Actions
+
+    If the HMU has not been exposed to TS-1 fuel since the last 
+overhaul, then the initial inspection in paragraph (g) of this AD is 
+not required.
+
+(j) Definitions
+
+    For the purposes of this AD, overhaul is defined as HMU 
+maintenance, which includes inspection, cleaning, or replacement of 
+the HMU delta-P valve.
+
+(k) Paperwork Reduction Act Burden Statement
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty 
+for failure to comply with a collection of information subject to 
+the requirements of the Paperwork Reduction Act unless that 
+collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 5 minutes per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW., Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, may approve AMOCs for 
+this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Martin Adler, 
+Aerospace Engineer, Engine Certification Office, FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, MA 
+01803; phone: 781-238-7157; fax: 781-238-7199; email: 
+[email protected].
+    (2) Refer to European Aviation Safety Agency, AD 2012-0123, 
+dated July 9, 2012, for more information. You may examine this AD on 
+the Internet at http://www.regulations.gov.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) CFM International, S. A. (CFM) Service Bulletin No. CFM56-5 
+S/B 73-0182, Revision 6, dated March 8, 2012.
+    (ii) CFM Service Bulletin No. CFM56-5B S/B 73-0122, Revision 8, 
+dated March 8, 2012.
+    (3) For CFM International, S. A. service information identified 
+in this AD, contact CFM International Inc., Aviation Operations 
+Center, 1 Neumann Way, M/D Room 285, Cincinnati, OH 45125; 
+International phone: 513-552-3272; USA phone: 877-432-3272; 
+International fax: 513-552-3329; USA fax: 877-432-3329; email: 
+[email protected]; or CFM International SA, Customer Support Center, 
+International phone: 33 1 64 14 88 66; International fax: 33 1 64 79 
+85 55; email: [email protected].
+    (4) You may view this service information at FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, 
+MA. For information on the availability of this material at the FAA, 
+call 781-238-7125.
+    (5) You may view this service information at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on July 9, 2013.
+Robert J. Ganley,
+Acting Assistant Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2013-17296 Filed 7-29-13; 8:45 am]
+BILLING CODE 4910-13-P

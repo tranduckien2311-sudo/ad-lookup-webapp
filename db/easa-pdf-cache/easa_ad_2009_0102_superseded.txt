@@ -1,0 +1,48 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2009-0102 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2009-0102 Date: 30 April 2009 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : 4 7 1 AIRBUS A330 aeroplanes 0 - 0 TCDS Number : EASA.A.004 1 0 2 Foreign AD : Not applicable D A Supersedure : This AD supersedes EASA AD 2006-0125 dated 31 May 2006 and EASA AD 2008-0023 dated 06 February 2008 A S A E Time Limits and Maintenance Checks – Damage Tolerant
+
+ATA 05 Y Airworthiness Limitation Items – ALS Part 2 – Amendment B D E
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) D E
+
+Applicability: AIRBUS A330-201, A330-202, A330-203, A330-223, A330-243, A330- S 301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, R A330-342 and A330-343 models, all serial numbers. E P
+
+Reason: The airworthiness limitations applicable to the Damage Tolerant U Airworthiness Limitation Items (DT ALI) are currently given in AIRBUS S A330 ALI Document reference AI/SE-M4/95A.0089/97, which is approved by the European Aviation Safety Agency (EASA) and referenced in AIRBUS Airworthiness Limitations Section (ALS) Part 2. The issue 16 of AIRBUS A330 ALI Document introduces more restrictive maintenance requirements/airworthiness limitations. Failure to comply with this issue 16 constitutes an unsafe condition. This new AD retains the requirements of EASA AD 2008-0023 and AD 2006-0125, which are superseded, and requires the implementation of the new airworthiness limitations as specified in AIRBUS A330 ALI Document issue 16.
+
+Effective Date: 14 May 2009 EASA Form 110 Page 1/5
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2009-0102 Required action(s) From the effective date of this AD, the following measures are required and Compliance as indicated: Time(s): 1. Except as provided in paragraphs 2. and 3. of this AD, within the compliance times defined in the Record Of Revisions (ROR) page of AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16, each Operator must: − Review and assess the content of AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16, and − Incorporate all applicable changes to maintenance requirements and/or associated airworthiness limitations included in AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16, into the approved aircraft maintenance programme, and 4 − Comply with any action required by AIRBUS A330 ALI 7 Document reference AI/SE-M4/95A.0089/97 issue 16, for 1 example new or reduced airworthiness limitations. 0 - : 2. Corrections to task reference 572067-01-06 0 1 The threshold and the task applicability stated in the following Table 1 0 supersede those given in AIRBUS A330 ALI Document reference 2 AI/SE-M4/95A.0089/97 issue 16: D Table 1 A A Threshold S (Flight Hours (FH) or Task reference Applicability A Flight Cycles (FC) E whichever occurs first, GROUP 33A Y POST 41114 B PRE 54219 D PRE 53883 572067-01-06 60 000 FH or 21 100 FC E OR D GROUP 33B E PRE 54219 S PRE 53883 R 3. Special compliance times: E P When the 12-month compliance time stated in the ROR page of U AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue S 16 cannot be accomplished, adapted special compliance times have been established and approved by EASA for the tasks and aeroplanes listed in the Tables 2 and 3 of this AD. − The first accomplishment of tasks listed in Table 2 of this AD must occur no later than the earlier of the two stated limitations since the aeroplane first flight. − The next accomplishment of the task listed in Table 3 of this AD must occur no later than the earlier of the two stated limitations since last accomplishment. The 12-month compliance time stated in the ROR page of AIRBUS A330 ALI Document (Reference AI/SE-M4/95A.0089/97) Issue 16 is not applicable to the implementation of the reduced intervals of tasks reference 574109-02-02, 575022-01-05, 575053-01-02 and 575055-01-02. For these tasks, the interval stated in AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16 must be applied from 04 November 2008. EASA Form 110 Page 2/5
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2009-0102 When the first accomplishment of these tasks has occurred: - before the threshold defined in the AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16, and - application of the new interval necessitates repetitive inspections prior to either the threshold in the AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16 or the adapted threshold in Table 2 of this AD, this first repetitive inspection may be deferred in order to coincide with either the threshold stated in AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16 or the adapted threshold given in Table 2 of this AD.
+
+Ref. Publications: AIRBUS A330 ALI Document reference AI/SE-M4/95A.0089/97 issue 16, approved on 04 November 2008. The use of later approved revisions of this document is acceptable for compliance with the requirements of the AD. 4 7
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve 1 Alternative Methods of Compliance for this AD. 0 - 2. This AD was posted on 19 February 2009 as PAD 09-042 for 0 1 consultation until 19 March 2009. The Comment Response Document 0 . can be found at: http://ad.easa.europa.eu/ 2 3. Enquiries regarding this AD should be referred to the Airworthiness D Directives, Safety Management & Research Section, Certification A . Directorate, EASA. E-mail: ADs@easa.europa.eu A 4. For any question concerning the technical content of the requirements S in this AD, please contact: A AIRBUS SAS – Airworthiness Office – EAL. Fax: +33 5 61 93 45 80. E Y B D E D E S R E P U S EASA Form 110 Page 3/5
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2009-0102 EASA
+
+AD No: 2009-0102 – Table 2 Adapted Threshold Task reference Applicability (whichever occurs first, from aeroplane first flight) FH FC 533107-01-03 49 338 17 191 MSN 067 49 326 17 187 MSN 069 49 756 17 098 MSN 110 533115-01-04 48 663 13 904 MSN 095 47 201 14 175 MSN 111 48 377 12 327 MSN 138 45 267 14 200 MSN 144 533115-01-05 33 392 13 400 MSN 256 41 625 09 957 MSN 370 572006-01-02 32 200 13 800 MSN 267 15 300 15 200 MSN 484, MSN 490 572006-02-04 54 700 16 600 MSN 030 54 400 16 700 MSN 037 4 55 700 16 500 MSN 045 7 45 700 17 900 MSN 050 1 45 800 17 900 MSN 060, MSN 062 0 - 50 500 17 400 MSN 069 0 51 600 17 300 MSN 073 1 0 51 200 17 400 MSN 077, MSN 110 2 51 300 17 400 MSN 107 572030-01-05 47 700 15 400 MSN 082 D 572034-01-05 41 200 13 400 MSN 087 A 572035-01-05 41 600 13 500 MSN 087 A 45 400 13 000 MSN 095 S 45 100 13 100 MSN 111 A 37 200 14 000 MSN 113 E 38 500 13 900 MSN 118 Y 37 700 14 000 MSN 121, MSN 155 B 32 900 14 100 MSN 203 D 572051-01-07 42 100 16 400 MSN 112 E 50 400 15 800 MSN 116, MSN 119 D 42 700 16 300 MSN 122 E 36 400 16 900 MSN 162 S 572054-01-06 38 100 15 400 MSN 099 R 575011-01-05 53 100 16 100 MSN 030 E 52 700 16 100 MSN 037 P 54 000 16 000 MSN 045 U 44 200 17 300 MSN 050, MSN 060 S 54 200 16 100 MSN 059 44 300 17 300 MSN 062, MSN 064, MSN 112 43 900 17 300 MSN 065 48 700 16 900 MSN 067 48 900 16 900 MSN 069 50 000 16 800 MSN 073 MSN 077, MSN 100, MSN 107, 49 900 16 800 MSN 110 35 800 17 900 MSN 098 45 000 17 200 MSN 122 575022-01-05 53 100 16 100 MSN 030 52 700 16 200 MSN 037 54 000 16 000 MSN 045 44 200 17 300 MSN 050 …/… 54 100 16 100 MSN 059 575022-01-05 44 300 17 300 MSN 060, MSN 062 44 400 17 300 MSN 064, MSN 112 EASA Form 110 Page 4/5
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2009-0102 EASA
+
+AD No: 2009-0102 – Table 2 Adapted Threshold Task reference Applicability (whichever occurs first, from aeroplane first flight) FH FC 43 900 17 400 MSN 065 48 500 16 800 MSN 067 48 600 16 800 MSN 069 49 700 16 700 MSN 073 49 300 16 700 MSN 077, MSN 100, MSN 110 49 400 16 700 MSN 107 45 000 17 200 MSN 122 545140-01-01 545140-02-01 47 400 10 000 MSN 054 (alternative tasks) 545140-01-08 39 600 7 900 MSN 232 545140-02-08 43 400 7 800 MSN 238 (alternative 43 600 7 800 MSN 247 tasks) 39 000 7 900 MSN 259 4 7 46 500 7 800 MSN 343 1 0 - EASA
+
+AD No: 2009-0102 – Table 3 0 Adapted interval 1 for the next task accomplishment only 0 2 Task reference Applicability (whichever occurs first, from last accomplishment of the task) D FH FC A 572068-01-05 25 800 6 200 MSN 055 A 25 100 6 300 MSN 070 S A E Y B D E D E S R E P U S EASA Form 110 Page 5/5

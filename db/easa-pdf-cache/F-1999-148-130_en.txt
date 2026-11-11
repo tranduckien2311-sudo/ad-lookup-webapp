@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-148-130(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320/A321 Aircraft Passenger doors safety pin greasing (ATA 52) APPLICABILITY : AIRBUS INDUSTRIE A320 and A321 aircraft, all certified models, all serial numbers having received AIRBUS INDUSTRIE Service Bulletin A320-52-1057 at Revision 5 dated February 27,1998 [this Service Bulletin is mandated by
+
+Airworthiness Directive 94-239-060 (B)]. New production aircraft with modification 24389 embodied are not affected by this
+
+Airworthiness Directive. REASON : On AIRBUS INDUSTRIE Service Bulletin A320-52-1057 at Revision 5 dated February 27, 1998 the instruction task asking for greasing of the rods, fittings and locking devices is incorrect which could induce the jamming of passenger doors during opening. COMPLIANCE : Before August 31, 2000 perform the greasing task in accordance with AIRBUS INDUSTRIE Service Bulletin A320-52-1057 at Revision 6. REF. : Service Bulletin A320-52-1057 Revision 6 (or any further approved revision)
+
+Airworthiness Directive 94-239-060(B) EFFECTIVE DATE : APRIL 17, 1999 n/ JJD AIRBUS INDUSTRIE April 07, 1999 1999-148-130(B) A320/A321 Aircraft

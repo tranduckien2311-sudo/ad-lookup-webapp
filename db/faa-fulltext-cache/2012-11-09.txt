@@ -1,0 +1,683 @@
+[Federal Register Volume 77, Number 123 (Tuesday, June 26, 2012)]
+[Rules and Regulations]
+[Pages 38000-38004]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2012-15683]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0102; Directorate Identifier 2012-NM-004-AD; 
+Amendment 39-17072; AD 2012-11-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Various Transport Category Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for certain transport category airplanes. That AD currently requires 
+either activating all chemical oxygen generators in the lavatories 
+until the generator oxygen supply is expended, or removing the oxygen 
+generator(s); and, for each chemical oxygen generator, after the 
+generator is expended (or removed), removing or restowing the oxygen 
+masks and closing the mask dispenser door. This new AD requires 
+installing a supplemental oxygen system in affected lavatories, which 
+terminates the requirements of the existing AD. This AD was prompted by 
+reports that the current design of the oxygen generators presents a 
+hazard that could jeopardize flight safety. We are issuing this AD to 
+eliminate a hazard that could jeopardize flight safety, and to ensure 
+that all lavatories have a supplemental oxygen supply.
+
+DATES: This AD is effective August 10, 2012.
+
+ADDRESSES:
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jeff Gardlin, Aerospace Engineer, 
+Airframe and Cabin Safety Branch, ANM-115, FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, Washington 98057-3356; 
+phone: 425-227-2136; fax: 425-227-1149; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2011-04-09, Amendment 39-16630 (76 FR 12556, 
+March 8, 2011). That AD applies to the specified products. The NPRM 
+published in the Federal Register on February 27, 2012 (77 FR 11418). 
+That NPRM proposed to continue to require either activating all 
+chemical oxygen generators in the lavatories until the generator oxygen 
+supply is expended, or removing the oxygen generator(s); and, for each 
+chemical oxygen generator, after the generator is expended (or 
+removed), removing or restowing the oxygen masks and closing the mask 
+dispenser door. That NPRM also proposed to require installing a 
+supplemental oxygen system in affected lavatories, which would 
+terminate the requirements of the existing AD.
+
+Change to NPRM (77 FR 11418, February 27, 2012)
+
+    We have redesignated Note 1 of the NPRM (77 FR 11418, February 27, 
+2012) as new paragraph (h) of this AD, reidentified Note 2 as Note 1, 
+and reidentified subsequent paragraphs accordingly.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+(77 FR 11418, February 27, 2012) and the FAA's response to each 
+comment.
+
+Request To Extend Compliance Time
+
+    Airbus, Boeing, Bombardier, Embraer, American Airlines (AA), Delta 
+Air Lines, Southwest Airlines (SWA), United Airlines (UA), and All 
+Nippon Airways (ANA) requested that we revise the NPRM (77 FR 11418, 
+February 27, 2012) to extend the 24-month compliance time. Airbus, 
+Embraer, Air Line Pilots Association (ALPA) International, AA, and 
+Boeing noted that the Lavatory Oxygen Aviation Rulemaking Committee 
+(ARC) chartered on this subject established some notional life-cycle 
+times from the initiation of a design through a fleet retrofit. The 
+requested compliance time ranged from 36 to 60 months. The ARC 
+considered even a 4-year compliance time aggressive. Commenters also 
+noted that there are no actual designs at present; any schedule is at 
+risk until the design is proven and validated.
+    We partially agree with the request. Because of the lack of a 
+retrofit design and the magnitude of the retrofit, and new 
+configuration(s), on such a large number of affected airplanes, we 
+agree that the proposed compliance time of 24 months is insufficient. 
+We also agree that the ARC's detailed assessment would not have 
+supported a 24-month compliance time. We disagree, however, to extend 
+the compliance time to 48 months, or longer. Some of the commenters' 
+concerns, as identified by the ARC, have been alleviated in the AD (for 
+example, streamlining the compliance process), and it is clear there 
+are workable design approaches that can be implemented without taking 
+airplanes out of service. Nonetheless, since no actual designs are yet 
+approved, the retrofit process cannot begin until a design is approved. 
+We have extended the compliance time in paragraph (l) of this final 
+rule to 37 months after the effective date of the AD.
+
+Request To Retain Proposed Compliance Times
+
+    The Association of Flight Attendants (AFA) and ALPA encouraged the 
+issuance of the final rule with the compliance times as proposed. AFA 
+requested that we also incorporate interim measures. The commenters 
+noted that the total time that lavatories will have been without oxygen 
+would be about 3.5 years, even with a 24-month compliance time. AFA 
+pointed out that the FAA's assessment of the safety risk was based on a 
+finite time, and that we originally estimated a two- to four-year 
+period to restore oxygen. Thus, retaining the proposed 24-month 
+compliance time is appropriate.
+    With respect to the compliance time, we disagree with the request. 
+Based on the number of affected airplanes and the lack of a design 
+solution yet approved for any of them, a 24-month compliance time is 
+not feasible. On the other hand, we acknowledge that compliance will be 
+due later than the original estimate
+
+[[Page 38001]]
+
+of a maximum of 4 years. But the adjusted compliance time is still 
+within the confidence level of the risk assessment--which was 
+conservative--conducted in support of AD 2011-04-09, Amendment 39-16630 
+(76 FR 12556, March 8, 2011). As explained previously, we have extended 
+the compliance time to 37 months. With respect to interim measures, we 
+understand the rationale for the request, and operators may, in fact, 
+elect to employ some interim measures. However, any interim measures 
+that would be required would take resources away from implementing the 
+terminating action, and we believe available resources should be 
+directed at restoring oxygen to the lavatories. We have therefore 
+determined that interim measures should not be mandated, and that a 37-
+month compliance time will provide an adequate level of safety.
+
+Request To Delay AD Issuance Pending Service Information Issuance
+
+    ANA and AA requested that we delay issuing the AD until service 
+information is available. ANA stated that, considering lead time for 
+parts and preparation for the modification, the compliance time should 
+be determined after the service information is released. ANA suggested 
+it would need at least 36 months for appropriate maintenance planning 
+after the service information is released.
+    We disagree with the request. Although there are no specific 
+designs available for the affected airplanes, there are system types in 
+service that will satisfy the requirements of the AD. Airframe 
+manufacturers and aftermarket modifiers are working on acceptable 
+designs, and we expect that there will be more than one solution 
+available. The FAA's goal is to retrofit supplemental oxygen systems as 
+quickly as practical. Waiting for service information would 
+unnecessarily delay that retrofit. We therefore find it necessary to 
+proceed with issuing this final rule.
+
+Request To Mandate Development of Service Information and Parts
+
+    Delta Air Lines requested that we require design approval holders 
+to develop and make available the necessary modification instructions 
+and hardware. Delta noted that other large-scale retrofit projects have 
+been complicated by a lack of readily available modification hardware 
+and service instructions.
+    We disagree with the request. At this point, the FAA is confident 
+that there will be several modification options available to operators. 
+All affected airframe manufacturers, as well as oxygen system suppliers 
+and airplane modifiers, have discussed their intended approaches with 
+the FAA and appear to have viable solutions. In addition, Section 21.99 
+of the Federal Aviation Regulations (14 CFR 21.99) already requires 
+design approval holders to make design information available to correct 
+an unsafe condition. Thus, the additional regulatory burden of tracking 
+and enforcing a design approval holder requirement is not justified in 
+this case. But if this situation changes, we may consider additional 
+rulemaking to extend the time to comply with the requirements of the 
+AD. We have not changed the final rule regarding this issue.
+
+Request To Revise Applicability
+
+    Boeing requested that we revise the applicability of the NPRM (77 
+FR 11418, February 27, 2012). Specifically, Boeing requested removing 
+airplanes that have systems without chemical oxygen generators (COGs) 
+installed in the lavatory, and by limiting the applicability to 
+airplanes modified in accordance with AD 2011-04-09, Amendment 39-16630 
+(76 FR 12556, March 8, 2011), those with COGs not installed per Special 
+Federal Aviation Regulation (SFAR) 111, Amendment Nos. 21-94, 25-133, 
+121-354, and 129-50 (76 FR 12550, March 8, 2011), and those with COGs 
+installed in the lavatory. Since AD 2011-04-09 already proposed to 
+permit installation of non-COG systems using normally available 
+approval means, Boeing considered the continued tracking of AD 
+compliance for that type of system unwarranted. Further, Boeing stated 
+there might be confusion as to whether AD 2011-04-09 would apply to any 
+airplane with such a system installed.
+    We partially agree with the request. We agree that continued 
+tracking of the non-COG installation as an AD-related action is overly 
+burdensome. Such systems were not the subject of AD 2011-04-09, 
+Amendment 39-16630 (76 FR 12556, March 8, 2011) (which required removal 
+of the supplemental oxygen). We disagree, however, to change the 
+applicability of this AD, because the AD already captures the intent of 
+the request in terms of identifying affected airplanes based on whether 
+they are in compliance with AD 2011-04-09 or have a chemical oxygen 
+generator installed in any lavatory. An operator wishing to install a 
+COG system at a later date will need to use the alternative method of 
+compliance (AMOC) process. But we agree that, with appropriate 
+limitations, subsequent modifications to a non-COG system can be 
+handled under part 43 of the Federal Aviation Regulations (14 CFR part 
+43). We have added a provision in paragraph (l)(2) in this final rule 
+that permits alterations and repairs to an approved non-COG system in 
+accordance with 14 CFR part 43, provided the operator's maintenance 
+program contains an airworthiness limitation that prohibits the 
+installation of COGs in lavatories.
+
+Request To Utilize Alternative Oxygen Dosage Measurement
+
+    AVOX Systems (AVOX) requested that we build in a streamlined 
+process for oxygen systems using the blood oxygen saturation level 
+(SaO2) as the means of determining adequate oxygen dosage. 
+This method will likely result in somewhat smaller oxygen supplies, 
+which will in turn allow the systems to more easily fit into the 
+existing spaces, with little or no modification.
+    The regulations characterize oxygen dosage in terms of tracheal 
+partial pressure, an indirect method of determining adequate oxygen 
+supply. We infer that AVOX requested this because the FAA has approved 
+SaO2 via equivalent level of safety findings in accordance 
+with Section 21.21(b)(1) of the Federal Aviation Regulations (14 CFR 
+21.21(b)(1)), but this has required extensive testing on the part of 
+the applicants to show that the approach meets the intent of the 
+requirements. It appears that AVOX would like the FAA to use the 
+knowledge gained from those actions to allow approval of future 
+projects in an expedited manner, without the same level of testing. We 
+agree that, in this case, use of the SaO2 method can be 
+useful; this method is specifically discussed in FAA Policy Statement 
+PS ANM-25-04--which was mentioned in the NPRM (77 FR 11418, February 
+27, 2012) as a possible method of compliance with the requirements of 
+this AD. FAA Policy Statement PS-ANM-25-04, issued December 21, 2011 
+(http://rgl.faa.gov/RegulatoryandGuidanceLibrary/rgPolicy.nsf/0/06EE1CEFE9804A2F8625796E005C017F?OpenDocument&Highlight=ps-anm-25-04), 
+is based on the recommendations of an Aviation Rulemaking Committee 
+(ARC) and provides guidance to applicants that want to begin restoring 
+oxygen to lavatories in advance of rulemaking. This policy will be used 
+in making approvals of COG installations that will be used to comply 
+with this AD. The FAA may also propose new airworthiness standards for 
+the safe installations of COGs using the ARC recommendations. It is not 
+necessary to change the AD because the information that we can provide 
+is already available
+
+[[Page 38002]]
+
+in the policy statement. We have not changed the final rule regarding 
+this issue.
+
+Request To Clarify Certain References
+
+    Boeing noted that not all regulations affecting a supplemental 
+oxygen system are identified in paragraph (k) of the NPRM (77 FR 11418, 
+February 27, 2012), and could lead operators to conclude that only the 
+identified paragraphs need to be complied with. Boeing requested that 
+we revise paragraph (k)(2) of the NPRM to refer to all of part 25 and 
+part 121 (14 CFR part 25 and 14 CFR part 121), rather than specific 
+sections.
+    We partially agree with the request. We agree that the current 
+listing of rules could be misinterpreted, because there is already 
+regulatory relief provided, and the listing is not complete. The 
+listing matches the regulations for which relief was granted, both in 
+AD 2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011), and 
+Special Federal Aviation Regulation No. 111, Amendment Nos. 21-94, 25-
+133, 121-354, and 129-50 (76 FR 12550, March 8, 2011), and so in that 
+sense this list is consistent. But to avoid any confusion, we have 
+revised paragraph (l) in this final rule (which was paragraph (k) in 
+the NPRM (77 FR 11418, February 27, 2012)) to refer to ``all 
+applicable'' regulations. In actual practice, this will not change the 
+compliance requirements, so there is no additional burden on any 
+operator to comply with the requirements of this AD.
+
+Request To Include Training Requirements
+
+    AFA requested that we revise the NPRM (77 FR 11418, February 27, 
+2012) to include additional requirements that mandate communication and 
+training for crewmembers on the proper procedures to follow in the 
+event of a rapid decompression before the AD-mandated actions have been 
+accomplished on the airplane. AFA also recommended that crew members be 
+notified of the progress of operators toward showing compliance; many 
+operators have already done something similar, but a number have not.
+    We disagree with the request. As previously determined, the risks 
+are very low for the time periods involved. The resources needed to 
+implement AFA's recommended interim steps could be better used in 
+rapidly incorporating a final design solution. We have not changed the 
+final rule regarding this issue.
+
+Request To Revise Cost Estimate
+
+    Delta Air Lines requested that we revise the cost analysis to be 
+more specific to different airplane types and system options, and to 
+characterize the costs per lavatory. The current cost estimate is an 
+average over the entire fleet, and so by definition is not accurate for 
+each affected airplane.
+    We disagree with the request. The variation in cost per airplane 
+over the fleet is typical of any cost assessment. While the costs could 
+be presented on a per-lavatory basis, this would also be an average, 
+and not necessarily correct for any given lavatory. In addition, the 
+cost estimates are based on the forecasted most cost-effective 
+approach. An operator can use a more expensive approach, but the cost 
+estimate would not account for that increased cost. We have not changed 
+the final rule regarding this issue.
+
+Request To Clarify Configuration
+
+    ANA noted that paragraph (k) of the NPRM (77 FR 11418, February 27, 
+2012) would allow operators to choose between two methods of 
+compliance: with or without chemical oxygen generators. ANA requested 
+that we clarify what configuration will be selected on production 
+airplanes.
+    We disagree with the request. The decision on which configuration 
+to use is up to the operators and their suppliers. The FAA has criteria 
+for either approach, and either is acceptable. We have not changed the 
+final rule regarding this issue.
+
+Request To Clarify Certain AMOC Provisions
+
+    AA requested that paragraph (k)(2)(i) of the NPRM (77 FR 11418, 
+February 27, 2012) be revised to include a provision relieving the need 
+for AMOC approval for non-COG installations. AA interprets the existing 
+provisions as meaning that an AMOC is not required and wants this 
+stated explicitly.
+    We disagree with the request. Information regarding AMOCs related 
+to non-COG installations was provided in paragraph (k)(2)(ii) of the 
+NPRM (77 FR 11418, February 27, 2012) and is retained in this final 
+rule (in redesignated paragraph (l)(2)(ii)). There is therefore no need 
+to change the final rule regarding this issue.
+
+Request To Standardize Application of Certain Provision
+
+    AA supports the provision specified in paragraph (k)(2)(ii) of the 
+NPRM (77 FR 11418, February 27, 2012) (redesignated as paragraph 
+(l)(2)(ii) in this final rule), but is concerned that, because the 
+provision is unusual, it may not be uniformly applied in the field.
+    We agree that this is an unusual provision. To that end, we have 
+prepared an Information for Operators (InFO) bulletin 12LAV to help 
+explain this provision, as well as other outreach measures to help 
+ensure standardization. We find it is not necessary to change the final 
+rule to provide further explanation.
+
+Approval Process for Compliance With AD, Using Chemical Oxygen 
+Generators
+
+    Because of the issues addressed by AD 2011-04-09, Amendment 39-
+16630 (76 FR 12556, March 8, 2011), COG installations will require new 
+considerations in order to be found acceptable as methods of compliance 
+with this AD. The approval for COG installations will therefore be in a 
+manner approved by the FAA as discussed below.
+
+Approval Process for Compliance With AD, Using Other Systems
+
+    Chemical oxygen generators are one type of system used to provide 
+supplemental oxygen. While the majority of transport category airplanes 
+use this system in lavatories, there are other systems as well. If 
+another system type is used to meet this AD, the original unsafe 
+condition is not a concern. In that case, the means of compliance is 
+straightforward, and we have determined that the approval method could 
+be more flexible than is usually the case for an AD. For example, 
+delegated organizations cannot normally make compliance findings for 
+ADs; service information associated with ADs must be adhered to 
+exactly, or else an AMOC must be approved. For this AD, if the type of 
+system is other than a COG, then we have determined that these 
+restrictions could be relaxed. Therefore, paragraph (l)(2) of this AD 
+contains provisions to permit existing approval processes to be used, 
+as long as the means of compliance is other than a COG. This provision 
+takes precedence over current limitations in operators' authority to 
+use their organizational delegations when showing compliance with an 
+AD. In addition, if an operator uses service information that is 
+approved for such installations, deviations from the service 
+information can be addressed using the operator's normal procedures 
+without requiring an AMOC.
+
+Oversight Office
+
+    Paragraph (l) of this AD refers to the FAA oversight office 
+responsible for approval of modifications used to show compliance. This 
+will typically be the
+
+[[Page 38003]]
+
+aircraft certification office having geographic oversight of the 
+applicant. In the case of service instructions from design approval 
+holders of other countries, this would be the Transport Standards 
+Staff. We anticipate that modifications to meet this AD will require 
+either supplemental type certificate or amended type certificate 
+approval.
+
+Minimum Equipment List (MEL)
+
+    Although there were no comments on this issue, the FAA has 
+identified a potential conflict with the minimum equipment list 
+provisions of Sections 121.628 and 129.14 of the Federal Aviation 
+Regulations (14 CFR 121.628 and 14 CFR 129.14). Since any equipment 
+mandated to be operative by airworthiness directive is excluded from 
+the MEL unless the airworthiness directive specifically provides such 
+allowance, we have revised this final rule to add a new paragraph (m) 
+to allow the use of the MEL, as applicable. We have re-identified 
+subsequent paragraphs accordingly.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously--and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (77 FR 11418, February 27, 2012) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 11418, February 27, 2012).
+
+Costs of Compliance
+
+    We estimate that this AD affects 5,500 airplanes of U.S. registry. 
+We estimate the following costs to comply with the actions specified in 
+this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                               Cost on U.S.
+             Action                     Labor cost         Parts cost   Cost per product         operators
+----------------------------------------------------------------------------------------------------------------
+Activate COG/expend oxygen       Up to 2 work-hours x              $0  Up to $170.......  Up to $935,000.
+ supply [actions retained from    $85 per hour = up to
+ AD 2011[dash]04[dash]09,         $170.
+ Amendment 39[dash]16630 (76 FR
+ 12556, March 8, 2011)].
+Oxygen system installation (new  24 work-hours x $85 per        6,000  $8,040...........  $44,220,000.
+ action).                         hour = $2,040.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011, and adding 
+the following new AD:
+
+2012-11-09 Transport category airplanes: Amendment 39-17072; Docket 
+No. FAA-2012-0102; Directorate Identifier 2012-NM-004-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 10, 2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2011-04-09, Amendment 39-16630 (76 FR 
+12556, March 8, 2011).
+
+(c) Applicability
+
+    This AD applies to transport category airplanes, in passenger-
+carrying operations, as specified in paragraph (c)(1) or (c)(2) of 
+this AD.
+    (1) Airplanes that are in compliance with the requirements of AD 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011).
+    (2) Airplanes equipped with any chemical oxygen generator 
+installed in any lavatory and are:
+    (i) Operating under 14 CFR part 121; or
+    (ii) U.S.-registered and operating under 14 CFR part 129, with a 
+maximum passenger capacity of 20 or greater.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC)/Air Transport Association 
+(ATA) of America Code 35, Oxygen.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the determination that the current 
+design of chemical oxygen generators presents a hazard that could 
+jeopardize flight safety. We are issuing this AD to eliminate this 
+hazard and ensure that all lavatories have a supplemental oxygen 
+supply.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 38004]]
+
+(g) Retained Oxygen Generator
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011). Within 
+21 days after March 14, 2011 (the effective date of AD 2011-04-09, 
+Amendment 39-16630 (76 FR 12556, March 8, 2011)), do the actions 
+specified in paragraphs (g)(1) and (g)(2) of this AD.
+    (1) Activate all chemical oxygen generators in the lavatories 
+until the generator oxygen supply is expended. An operator may also 
+remove the oxygen generator(s), in accordance with existing 
+maintenance practice, in lieu of activating it.
+    (2) For each chemical oxygen generator, after the generator is 
+expended (or removed), remove or re-stow the oxygen masks and close 
+the mask dispenser door.
+
+    Note 1 to paragraph (g) of this AD: Design approval holders are 
+not expected to release service instructions for the action 
+specified in paragraph (g) of this AD.
+
+(h) Retained Information About Hazardous Material
+
+    This paragraph restates the information in Note 1 of AD 2011-04-
+09, Amendment 39-16630 (76 FR 12556, March 8, 2011). Chemical oxygen 
+generators are considered a hazardous material and subject to 
+specific requirements under Title 49 CFR for shipping. Oxygen 
+generators must be expended prior to disposal but are considered a 
+hazardous waste; therefore, disposal must be in accordance with all 
+Federal, State, and local regulations. Expended oxygen generators 
+are forbidden in air transportation as cargo. For more information, 
+contact 1-800-HMR-4922.
+
+(i) Retained Compliance With Federal Aviation Regulations of AD 2011-
+04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011)
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011). 
+Notwithstanding the requirements of Sections 25.1447, 121.329, 
+121.333, and 129.13 of the Federal Aviation Regulations (14 CFR 
+25.1447, 121.329, 121.333, and 129.13), operators complying with 
+this AD are authorized to operate affected airplanes until 
+accomplishment of the actions specified in paragraph (l) of this AD.
+
+(j) Retained Parts Installation of AD 2011-04-09, Amendment 39-16630 
+(76 FR 12556, March 8, 2011)
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011). After 
+March 14, 2011 (the effective date of AD 2011-04-09), and until 
+accomplishment of the actions specified in paragraph (l) of this AD, 
+no person may install a chemical oxygen generator in any lavatory on 
+any affected airplane.
+
+(k) Retained Special Flight Permit of AD 2011-04-09, Amendment 39-16630 
+(76 FR 12556, March 8, 2011)
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2011-04-09, Amendment 39-16630 (76 FR 12556, March 8, 2011). Special 
+flight permits, as described in Section 21.197 and Section 21.199 of 
+the Federal Aviation Regulations (14 CFR 21.197 and 21.199), are not 
+allowed for the accomplishment of the actions specified in paragraph 
+(g) of this AD.
+
+(l) New Requirements of This AD: Oxygen System Restoration
+
+    Within 37 months after the effective date of this AD, install a 
+supplemental oxygen system that meets all applicable sections of 
+parts 25 and 121 of the Federal Aviation Regulations (14 CFR part 25 
+and 14 CFR part 121) in each lavatory, as specified in paragraph 
+(l)(1) or (l)(2) of this AD, as applicable.
+    (1) If compliance with paragraph (l) of this AD is achieved 
+using a chemical oxygen generator, the actions specified in 
+paragraph (l) of this AD must be done in accordance with a method 
+approved by the Manager of the responsible FAA oversight office 
+having responsibility over the modification. For a method to be 
+approved, it must meet the certification basis of the airplane, and 
+the approval must specifically refer to this AD.
+    (2) If compliance with paragraph (l) of this AD is achieved 
+without a chemical oxygen generator, the specifications of 
+paragraphs (l)(2)(i) and (l)(2)(ii) of this AD apply. Any repairs or 
+alterations to a system installed and approved in accordance with 
+this paragraph may be accomplished in accordance with 14 CFR part 
+43, provided the operator's maintenance program contains an 
+airworthiness limitation that prohibits the installation of chemical 
+oxygen generators in lavatories.
+    (i) The modification must receive FAA approval in accordance 
+with 14 CFR part 21 as a major design change. Notwithstanding 
+operations specification restrictions to the contrary, 
+organizational approval holders may exercise their full authority in 
+approving installations that meet the installation requirements of 
+this AD.
+    (ii) Deviation from approved service instructions and subsequent 
+modifications may be handled by normal operator procedures without 
+requiring approval of an alternative method of compliance.
+
+(m) Minimum Equipment List (MEL)
+
+    Notwithstanding the requirements of 14 CFR 121.628(b)(2) and 14 
+CFR 129.14, the equipment required by paragraph (l) of this AD may 
+be included in the Minimum Equipment List, as applicable.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Transport Standards Staff, ANM-110, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the Transport Standards Staff, send it to 
+the attention of the person identified in the Related Information 
+section of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(o) Related Information
+
+    For more information about this AD, contact Jeff Gardlin, 
+Aerospace Engineer, Airframe and Cabin Safety Branch, ANM-115, FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+Washington 98057-3356; phone: 425-227-2136; fax: 425-227-1149; 
+email: [email protected].
+
+(p) Material Incorporated by Reference
+
+    None.
+
+    Issued in Renton, Washington, on May 23, 2012.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-15683 Filed 6-25-12; 8:45 am]
+BILLING CODE 4910-13-P

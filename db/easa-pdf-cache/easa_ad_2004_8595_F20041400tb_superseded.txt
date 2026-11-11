@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page : AIRWORTHINESS DIRECTIVE August 18, 2004 1/2 B No F-2004-140 Direction This
+
+Airworthiness Directive is published by the DGAC on behalf of Translation of « Consigne de Navigabilité » of same EASA, Airworthiness Authority of the State of Design for the affected générale number. product, part or appliance. In case of difficulty, reference should be made to de the French issue. l’aviation civile France No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive, GSAC unless otherwise agreed with the Authority of the State of Registry. publication Corresponding foreign
+
+Airworthiness Directive(s):
+
+Airworthiness Directive(s) replaced: Not applicable None Person in charge of airworthiness: Type(s): D AIRBUS SAS A330 aircraft Type certificate(s) No. A.004 TCDS No A.004 E ATA chapter: Subject: 25 Equipment/Furnishings - Inspection of cockpit instrument panel D : 1. EFFECTIVITY E AIRBUS aircraft A330, all certified models, all serial numbers. S 2. REASONS: One A330 operator has reported damage of a bracket PN F2511012920000, which is one of the 8 parts used to attach the cockpit instrument panel to the aircraft structure. R This bracket has been found cracked on two aircraft and, in one case, both vertical flanges of this bracket were found completely broken. Investigations have revealed that the damage is a bending crack caused by the assembly procedure E (tightening of the bracket), combined with lateral load introduced by differential pressure and inertial effects. This hidden failure, breaking of this bracket, combined with failure of horizontal beam, can lead to collapse the left part of the cockpit panel which could result in the worst case in a reduced controllability of the aircraft. P In order to prevent the risk of having the bracket fully broken, and further damage to the surrounding structure, this
+
+Airworthiness Directive (AD) requires a mandatory repetitive detailed visual inspection of the affected bracket. U : 3. MANDATORY ACTIONS AND COMPLIANCE TIMES The following measures are rendered mandatory from the effective date of this AD: S 3.1. Before accumulation of 16 500 flight cycles (FC), perform a detailed visual inspection of the LH bracket PN 2511012920000 without removal of fasteners in accordance with instructions given in AIRBUS Service Bulletin (SB) A330-25-3227. 3.2. If the two flanges of the bracket are fully broken, contact AIRBUS before next flight. n/CG
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE August 18, 2004 2/2 B No F-2004-140 ck is found during this inspection, replace the bracket PN F2511012920000 by bracket 3.3. If any cra PN F2511012920095 in accordance with instructions given in AIRBUS SB A330-25-3227 and repeat the inspection of new bracket installed at intervals not exceeding 16 500 FC. ck has been detected, repeat the inspection mentioned in § 3.1. at intervals not exceeding 3.4. If no cra 13 800 FC. ort any cracked or broken bracket occurrence to AIRBUS. 3.5. Rep : 4. REFERENCE PUBLICATION D AIRBUS Service Bulletin A330-25-3227 (Any further approved revision is acceptable). E : 5. EFFECTIVE DATE August 28, 2004. D : 6. REMARK s AD’s requirements, contact: For questions concerning the technical contents of thi E AIRBUS SAS - Bureau de Navigabilité - EAL - Fax : 33 5 61 93 45 80. : 7. APPROVAL S No 2004-8595 dated August 10, 2004. This AD is approved under EASA reference R E P U S

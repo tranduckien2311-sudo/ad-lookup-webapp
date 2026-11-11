@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-203-032(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage - Modification Reinforcement of structure between frames 1 and 2 The present
+
+Airworthiness Directive applies to A320 AIRBUS INDUSTRIE aircraft MSN listed hereafter. In order to prevent initiation and propagation of damage evidenced during fatigue tests, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : Before accumulation of : a/ 12,000 flights for aircraft MSN 005 to 012 included, b/ 15,000 flights for aircraft MSN 013 to 024 included, reinforce structure between frames 1 and 2 in accordance with AIRBUS INDUSTRIE Service Bulletin A320-53-1002. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-53-1002. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1002 EFFECTIVE DATE : OCTOBER 10, 1992 n/C AIRBUS INDUSTRIE September 30, 1992 92-203-032(B) A320 Aircraft

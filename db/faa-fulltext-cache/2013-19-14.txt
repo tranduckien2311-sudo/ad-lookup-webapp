@@ -1,0 +1,635 @@
+[Federal Register Volume 78, Number 220 (Thursday, November 14, 2013)]
+[Rules and Regulations]
+[Pages 68347-68352]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-26565]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0329; Directorate Identifier 2012-NM-032-AD; 
+Amendment 39-17596; AD 2013-19-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directives (ADs) 2009-04-07 
+and 2011-02-09 for certain
+
+[[Page 68348]]
+
+Airbus Model A330-200, A330-200 Freighter, A300-300, A340-200, A340-
+300, A340-500, and A340-600 series airplanes. AD 2009-04-07 required 
+revising the airplane flight manual (AFM) to include appropriate 
+operational procedures to prevent the air data inertial reference unit 
+(ADIRU) from providing erroneous data to other airplane systems. AD 
+2011-02-09 required revising the AFM to provide appropriate operational 
+procedures to prevent the airplane flight directors (FDs), autopilot 
+(AP), and auto-thrust re-engagement in the event of airspeed sources 
+providing similar but erroneous data. This new AD requires that 
+operators modify or replace all three flight control primary computers 
+(FCPCs) with new software standards. Since we issued ADs 2009-04-07 and 
+2011-02-09, we have determined that new software standards for the 
+FCPCs are necessary to inhibit autopilot re-engagement under unreliable 
+airspeed conditions. This new AD also removes certain airplanes from 
+the applicability. We are issuing this AD to prevent autopilot 
+engagement under unreliable airspeed conditions, which could result in 
+reduced controllability of the airplane.
+
+DATES: This AD becomes effective December 19, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of December 19, 
+2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+February 9, 2011 (76 FR 4219, January 25, 2011).
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of March 
+5, 2009 (74 FR 7549, February 18, 2009).
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov or in person at the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS--
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email [email protected]; Internet http://www.airbus.com.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; telephone 425-227-
+1138; fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to the specified products. The 
+NPRM was published in the Federal Register on April 16, 2013 (78 FR 
+22432), and proposed to supersede AD 2009-04-07, Amendment 39-15813 (74 
+FR 7549, February 18, 2009); and AD 2011-02-09, Amendment 39-16583 (76 
+FR 4219, January 25, 2011). The NPRM proposed to correct an unsafe 
+condition for the specified products.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+AD 2011-0199R1, dated February 17, 2012 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for the specified products. The MCAI 
+states:
+
+    It has been determined that, when there are significant 
+differences between all airspeed sources, the flight controls of an 
+Airbus A330 or A340 aeroplane will revert to alternate law, the 
+autopilot (AP) and the auto-thrust (A/THR) automatically disconnect, 
+and the Flight Directors (FD) bars are automatically removed.
+    Further analyses have shown that, after such an event, if two 
+airspeed sources become similar while still erroneous, the flight 
+guidance computers will display the FD bars again, and enable the 
+re-engagement of AP and A/THR. However, in some cases, the AP orders 
+may be inappropriate, such as possible abrupt pitch command.
+    In order to prevent such events which may, under specified 
+circumstances, constitute an unsafe condition, EASA issued AD 2010-
+0271 [http://ad.easa.europa.eu/ad/2010-0271] [which corresponds to 
+FAA AD 2011-02-09, Amendment 39-16583 (76 FR 4219, January 25, 
+2011)] to require an amendment of the Flight Manual to ensure that 
+flight crews apply the appropriate operational procedure.
+    Since that [EASA] AD was issued, new FCPC software standards 
+have been developed that will inhibit autopilot engagement under 
+unreliable airspeed conditions.
+    Consequently, EASA issued AD 2011-0199 to require software 
+standard upgrade of the three FCPCs by either modification or 
+replacement, as follows:
+
+--Software standard P11A/M20A on FCPC 2K2 hardware for A330-200/-300 
+aeroplanes [with electrical rudder], through Airbus Service Bulletin 
+(SB) A330-27-3176,
+--software standard P12A/M21A on FCPC 2K1 hardware and M21A on FCPC 
+2K0 hardware for A330-200/-300 aeroplanes [with mechanical rudder], 
+through Airbus SB A330-27-3177,
+--software standard L22A on FCPC 2K1 hardware and L22A on FCPC 2K0 
+hardware for A340-200/-300 aeroplanes [with mechanical rudder], 
+through Airbus SB A340-27-4174, and
+-- software standard L21A on FCPC 2K2 hardware for A340-300 
+aeroplanes [with electrical rudder], through Airbus SB A340-27-4162.
+* * * * *
+    EASA has also issued MCAI 2013-0107, dated May 17, 2013, which 
+states:
+
+    An A330 aeroplane experienced a sudden nose down movement while 
+in cruise. This event was preceded by an automatic autopilot 
+disconnection, which triggered the ``NAV IR1 FAULT'' Electronic 
+Centralised Aircraft Monitor (ECAM) Caution. Investigation results 
+highlighted that at the time of the event, the Air Data Reference 1 
+(ADR) part of ADIRU1 was providing erroneous and temporary wrong 
+parameters in a random manner. This abnormal behavior of the ADR1 
+led to several consequences such as unjustified stall and over speed 
+warnings, loss of attitude information on Captain Primary Flight 
+Display (PFD) and several ECAM warnings. Among the abnormal 
+parameters, the provided Angle of Attack (AoA) value was such that 
+the flight control computers commanded the sudden nose down 
+movement.
+    Further investigation results concluded that this event was 
+caused by erroneous and undetected AoA values (spikes) generated by 
+the ADIRU1.
+    This condition, if not corrected, could lead to further similar 
+occurrences, possibly resulting in loss of control of the aeroplane.
+    To address this potential unsafe condition and as an interim 
+solution, EASA issued Emergency AD 2009-0012-E [http://ad.easa.europa.eu/ad/2009-0012-E] to require implementation of an 
+aircraft Flight Manual (AFM) operational procedure, to isolate both 
+the Inertial Reference (IR) and ADR in case a faulty IR is detected.
+    Since that [EASA] AD was issued, a final fix solution was 
+developed, consisting of new FCPC software standards, which prevents 
+the potential unsafe condition and cancels the AFM operational 
+procedure required by EASA AD 2009-0012-E. Consequently, EASA issued 
+AD 2011-0199R1 to require this software standard upgrade of the 
+three FCPCs by either modification or replacement, for A330 and 
+A340-200/-300 aeroplanes.
+    Due to similar design, Airbus A340-500/-600 aeroplanes are also 
+impacted by this issue, and Airbus developed Service Bulletin (SB) 
+A340-27-5051 which gives instructions for a software standard 
+upgrade of the three FCPCs, irrespective of ADIRU manufacturer.
+    For the reasons described above, this AD requires a software 
+standard upgrade of the three FCPCs for A340-500/-600 aeroplanes, 
+which cancels the operational procedure imposed by EASA AD 2009-
+0012-E.
+
+You may obtain further information by examining the MCAI in the AD 
+docket on the Internet at http://www.regulations.gov/
+
+[[Page 68349]]
+
+!documentDetail;D=FAA-2013-0329-0003.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received.
+
+Support for the NPRM (78 FR 22432, April 16, 2013)
+
+    The Air Line Pilots Association International supported the intent 
+of the NPRM (78 FR 22432, April 16, 2013).
+    Michael Carrera agreed with the requirements of the NPRM (78 FR 
+22432, April 16, 2013).
+
+Request To Include EASA AD 2013-0107, Dated May 17, 2013, in the NPRM 
+(78 FR 22432, April 16, 2013)
+
+    Airbus stated that EASA has issued AD 2013-0107, issued May 17, 
+2013, and requested that we include the equivalent actions in this AD. 
+Airbus stated that the requirements of EASA AD 2013-0107 are for Model 
+A340-500 and -600 airplanes and are equivalent to the requirements of 
+this AD for Model A330 and A340-200 and -300 airplanes. Airbus stated 
+that the actions required by EASA AD 2013-0107 enables a supersedure 
+action required by FAA AD 2009-04-07, Amendment 39-15813 (74 FR 7549, 
+February 18, 2009). Airbus also stated that for Model A340-541 and 
+A340-642 airplanes, the actions required by EASA AD 2013-0107 terminate 
+the requirements of paragraph (g) of the NPRM (78 FR 22432, April 16, 
+2013) and AD 2009-04-07.
+    We agree that EASA AD 2013-0107 mandates similar actions for Model 
+A340-541 and A340-642 airplanes and eliminates the same revisions of 
+the AFM as mandated by FAA AD 2009-04-07, Amendment 39-15813 (74 FR 
+7549, February 18, 2009). Although there are no Model A340-541 or A340-
+642 airplanes currently registered in the U.S., we have included the 
+requirements of EASA AD 2013-0107 (which specifies to modify or replace 
+certain FCPCs in accordance with Airbus Service Bulletin A340-27-5051) 
+in this final rule, and have added Model A340-541 and A340-642 
+airplanes to paragraph (c)(2) of this final rule. We have also added 
+new paragraph (j) to this final rule to include actions specified in 
+Airbus Mandatory Service Bulletin A340-27-5051, dated July 16, 2012, 
+for Model A340-541 and A340-642 series airplanes. Subsequent paragraphs 
+have been redesignated accordingly. In addition, we have clarified 
+paragraphs (i)(3) and (i)(4) of this final rule to state that the 
+actions specified in paragraphs (i)(3) and (i)(4) of this final rule 
+apply to Model A340-200 and -300 series airplanes.
+
+Request To Include the Equivalent Mandatory Actions of EASA AD 2012-
+0271, Dated December 21, 2012, in the NPRM (78 FR 22432, April 16, 
+2013)
+
+    Airbus stated that EASA has issued AD 2012-0271, dated December 21, 
+2012, on the same subject and requested that the equivalent mandatory 
+actions be included in this AD. EASA AD 2012-0271 requires installation 
+of the FCPC multi role transport tanker (MRTT2) standard applicable to 
+Model A330 airplanes on which Airbus Service Bulletin A330-27-3156 has 
+been embodied. Airbus stated that this requirement for Model A330 MRTT 
+airplanes is equivalent to one in the NPRM (78 FR 22432, April 16, 
+2013) for other Model A330 airplanes. The commenter stated that this 
+action enables the supersedure of the actions required by FAA AD 2009-
+04-07, Amendment 39-15813 (74 FR 7549, February 18, 2009); and AD 2011-
+02-09, Amendment 39-16583 (76 FR 4219, January 25, 2011); and 
+terminates the requirements of paragraphs (g) and (h) of the NPRM (78 
+FR 22432, April 16, 2013).
+    We disagree with including the requested actions in this final 
+rule. EASA AD 2012-0271, issued December 21, 2012, requires 
+modification or replacement of the three FCPCs to install software 
+standard MRTT2 on Model A330-200 airplanes with commercial designation 
+MRTT. We have not type-validated Model A330-200 MRTT airplanes and that 
+model is not on the FAA type certificate data sheet. We have not taken 
+actions in regard to EASA AD 2012-0271 related to Model A330-200 MRTT 
+airplanes for that reason. No change has been made to this final rule 
+in this regard.
+
+Request To Update AFM Temporary Revision (TR) References
+
+    Airbus requested that we update the references for the AFM TRs. 
+Airbus stated that the references for the AFM TRs have been changed.
+    We disagree with changing the references for the AFM TRs in this 
+final rule. The new designation of the AFM TRs was introduced after the 
+publication of AD 2009-04-07, Amendment 39-15813 (74 FR 7549, February 
+18, 2009). Changing the references could cause misunderstanding or 
+confusion. No change has been made to this final rule in this regard.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (78 FR 22432, April 16, 2013) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 22432, April 16, 2013).
+
+Related AD
+
+    Accomplishing the actions specified in paragraphs (i)(1) through 
+(i)(4) of this final rule is compliant with the optional actions 
+specified in paragraphs (l) and (o)(1) through (o)(4) of AD 2013-05-08, 
+Amendment 39-17380 (78 FR 27015, May 9, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD affects about 59 products of U.S. 
+registry.
+    The actions that are required by AD 2009-04-07, Amendment 39-15813 
+(74 FR 7549, February 18, 2009), and retained in this AD take about 1 
+work-hour per product, at an average labor rate of $85 per work hour. 
+Required parts cost about $0 per product. Based on these figures, the 
+estimated cost of the actions that were required by AD 2009-04-07 is 
+$85 per product.
+    The actions that are required by AD 2011-02-09, Amendment 39-16583 
+(76 FR 4219, January 25, 2011), and retained in this AD take about 1 
+work-hour per product, at an average labor rate of $85 per work hour. 
+Required parts cost about $0 per product. Based on these figures, the 
+estimated cost of the actions currently required by AD 2011-02-09 is 
+$85 per product.
+    We estimate that it takes about 5 work-hours per product to comply 
+with the new basic requirements of this AD. The average labor rate is 
+$85 per work-hour. Required parts would cost about $0 per product. 
+Where the service information lists required parts costs that are 
+covered under warranty, we have assumed that there will be no charge 
+for these parts. As we do not control warranty coverage for affected 
+parties, some parties may incur costs higher than estimated here. Based 
+on these figures, we estimate the cost of this AD on U.S. operators to 
+be $25,075, or $425 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue
+
+[[Page 68350]]
+
+rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-0329; or in person at the 
+Docket Operations office between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+MCAI, the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+(a) Removing airworthiness directive (AD) 2009-04-07, Amendment 39-
+15813 (74 FR 7549, February 18, 2009), and AD 2011-02-09, Amendment 39-
+16583 (76 FR 4219, January 25, 2011); and
+0
+(b) Adding the following new AD:
+
+2013-19-14 Airbus: Amendment 39-17596. Docket No. FAA-2013-0329; 
+Directorate Identifier 2012-NM-032-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective December 19, 
+2013.
+
+ (b) Affected ADs
+
+    This AD supersedes AD 2009-04-07, Amendment 39-15813 (74 FR 
+7549, February 18, 2009); and AD 2011-02-09, Amendment 39-16583 (76 
+FR 4219, January 25, 2011).
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, as identified in paragraphs (c)(1) and (c)(2) of this AD.
+    (1) Model A330-223F, -243F, -201, -202, -203, -223, -243, -301, 
+-302, -303, -321, -322, -323, -341, -342, and -343 airplanes; except 
+those on which Airbus Modification 201654 has been embodied in 
+production, or Airbus Service Bulletin A330-27-3156 has been 
+incorporated in service.
+    (2) All Model A340-211, -212, -213, -311, -312, -313, -541, and 
+642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+controls.
+
+(e) Reason
+
+    This AD was prompted by the possibility that, due to significant 
+differences among all airspeed sources, the flight controls will 
+revert to alternate law, the autopilot (AP) and the auto-thrust (A/
+THR) automatically disconnect, and the flight director (FD) bars are 
+automatically removed. Then, if two airspeed sources become similar 
+while still erroneous, the flight guidance computers will display 
+the FD bars again, and enable the re-engagement of the AP and A/THR. 
+In some cases, however, the AP orders may be inappropriate, such as 
+possible abrupt pitch command. We are issuing this AD to prevent 
+autopilot engagement under unreliable airspeed conditions, which 
+could result in reduced controllability of the airplane.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Retained Airplane Flight Manual (AFM) Revision: Certain NAV Faults 
+or ATT Flag on PFD
+
+    This paragraph restates the actions required by paragraph (f) of 
+AD 2009-04-07, Amendment 39-15813 (74 FR 7549, February 18, 2009). 
+For all airplanes except Model A330-223F and -243F airplanes: Within 
+14 days after March 5, 2009 (the effective date of AD 2009-04-07), 
+revise the applicable section of the A330 or A340 (Airbus) Flight 
+Manual (FM) by inserting a copy of A330 (Airbus) Temporary Revision 
+(TR) 4.02.00/46, or A340 (Airbus) TR 4.02.00/54, both Issue 3, both 
+dated January 13, 2009, as applicable. Thereafter, operate the 
+airplane according to the limitations and procedures in the TRs. 
+When information identical to that in the TR has been included in 
+the general revisions of the FM, the general revisions may be 
+inserted in the FM, and the TR may be removed.
+
+(h) Retained AFM Revision: Alternate Law Associated With AP and A/THR 
+Disconnection
+
+    This paragraph restates the actions required by paragraph (g) of 
+AD 2011-02-09, Amendment 39-16583 (76 FR 4219, January 25, 2011). 
+Within 15 days after February 9, 2011 (the effective date of AD 
+2011-02-09), do the actions in paragraph (h)(1) or (h)(2) of this 
+AD.
+    (1) Revise the Limitations and Abnormal Sections of the Airbus 
+A330/A340 AFM to include the following statement and operate the 
+airplane according to these limitations and procedures. This may be 
+done by inserting a copy of this AD in the AFM. When a statement 
+identical to that in figure 1 to paragraph (h)(1) of this AD has 
+been included in the general revisions of the Limitations and 
+Abnormal Sections of the AFM, the general revisions may be inserted 
+into the AFM, and the copy of this AD may be removed from the AFM.
+BILLING CODE 4910-13-P
+
+[[Page 68351]]
+
+[GRAPHIC] [TIFF OMITTED] TR14NO13.007
+
+BILLING CODE 4910-13-C
+    (2) Revise the Limitations and Abnormal Sections of the Airbus 
+A330/A340 AFM to include the information in Airbus A330/A340 TR 
+TR149 (for Model A330 airplanes) or TR TR150 (for Model A340-200 and 
+-300 series airplanes), both Issue 1.0, both dated December 20, 
+2010. These TRs introduce procedures for operation of the auto pilot 
+and auto-thrust disconnect. Operate the airplane according to the 
+limitations and procedures in the TRs. This may be done by inserting 
+copies of Airbus A330/A340 TR TR149 or TR150, both Issue 1.0, both 
+dated December 20, 2010; as applicable; into the Airbus A330/A340 
+AFM. When these TRs have been included in general revisions of the 
+AFM, the general revisions may be inserted in the AFM, and the TRs 
+may be removed.
+
+(i) New Software Standard Upgrade for Model A330 Series Airplanes, and 
+Model A340-200 and -300 Series Airplanes
+
+    Within 10 months after the effective date of this AD, upgrade 
+(by modification or replacement, as applicable) the three flight 
+control primary computers (FCPCs), as specified in paragraphs 
+(i)(1), (i)(2), (i)(3), and (i)(4) of this AD, as applicable. 
+Accomplishment of the applicable requirements of this paragraph 
+terminates the requirements of paragraphs (g) and (h) of this AD. 
+Accomplishing the actions specified in paragraphs (i)(1) through 
+(i)(4) of this AD are compliant with the optional actions specified 
+in paragraphs (l) and (o)(1) through (o)(4) of AD 2013-05-08, 
+Amendment 39-17380 (78 FR 27015, May 9, 2013).
+    (1) For Model A330 series airplanes: Upgrade to software 
+standard P11A/M20A on FCPC 2K2 hardware, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A330-27-3176, Revision 02, dated April 24, 2012.
+    (2) For Model A330 series airplanes: Upgrade to software 
+standard P12A/M21A on FCPC 2K1 hardware, and software standard M21A 
+on FCPC 2K0 hardware, in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A330-27-3177, 
+dated December 21, 2011.
+    (3) For Model A340-200 and -300 series airplanes: Upgrade to 
+software standard L22A on FCPC 2K1 hardware, and software standard 
+L22A on FCPC 2K0 hardware, in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A340-27-4174, 
+dated November 21, 2011.
+    (4) For Model A340-200 and -300 series airplanes: Upgrade to 
+software standard L21A on FCPC 2K2 hardware, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A340-27-4162, Revision 01, dated September 17, 2012.
+
+(j) New Software Standard Upgrade for Model A340-541 and -642 Series 
+Airplanes
+
+    (1) Within 10 months after the effective date of this AD, modify 
+or replace the three FCPCs to integrate software standard W12 on 
+FCPC 2K2 hardware, in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A340-27-5051, 
+dated July 16, 2012. Accomplishment of the applicable requirements 
+of this paragraph terminates the requirements of paragraphs (g) and 
+(h) of this AD.
+    (2) After accomplishing the modification in accordance with 
+paragraph (j)(1) of this AD, do not install an FCPC on the airplane 
+unless the FCPC is 2K2 hardware with integrating software standard 
+W12.
+
+(k) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions specified in 
+paragraph (i)(1) of this AD, if those actions were performed before 
+the effective date of this AD using Airbus Mandatory Service 
+Bulletin A330-27-3176, dated July 26, 2011; or Airbus Mandatory 
+Service Bulletin A330-27-3176, Revision 01, dated March 27, 2012; 
+which are not incorporated by reference in this AD.
+    (2) This paragraph provides credit for the actions specified in 
+paragraph (i)(4) of this AD, if those actions were performed before 
+the effective date of this AD using Airbus
+
+[[Page 68352]]
+
+Mandatory Service Bulletin A340-27-4162, dated January 10, 2012, 
+which is not incorporated by reference in this AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+Washington 98057-3356; telephone 425-227-1138; fax 425-227-1149. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) European Aviation Safety Agency Airworthiness Directives 
+2011-0199R1, dated February 17, 2012; and 2013-0107, dated May 17, 
+2013; for related information. The MCAI can be found in the AD 
+docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-0329-0003.
+    (2) Service information that is referenced in this AD that is 
+not incorporated by reference in this AD may be viewed at the 
+addresses identified in paragraphs (n)(6) and (n)(7) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 19, 2013.
+    (i) Airbus Mandatory Service Bulletin A330-27-3176, Revision 02, 
+dated April 24, 2012.
+    (ii) Airbus Mandatory Service Bulletin A330-27-3177, dated 
+December 21, 2011.
+    (iii) Airbus Mandatory Service Bulletin A340-27-4162, Revision 
+01, dated September 17, 2012.
+    (iv) Airbus Mandatory Service Bulletin A340-27-4174, dated 
+November 21, 2011.
+    (v) Airbus Mandatory Service Bulletin A340-27-5051, dated July 
+16, 2012.
+    (4) The following service information was approved for IBR on 
+February 9, 2011 (76 FR 4219, January 25, 2011).
+    (i) Airbus A330/A340 Temporary Revision TR149, Issue 1.0, dated 
+December 20, 2010, to the Airbus A330/A340 Airplane Flight Manual.
+    (ii) Airbus A330/A340 Temporary Revision TR150, Issue 1.0, dated 
+December 20, 2010, to the Airbus A330/A340 Airplane Flight Manual.
+    (5) The following service information was approved for IBR on 
+March 5, 2009 (74 FR 7549, February 18, 2009).
+    (i) Airbus A330 Temporary Revision 4.02.00/46, Issue 3, dated 
+January 13, 2009, to the Airbus A330 Airplane Flight Manual.
+    (ii) Airbus A340 Temporary Revision 4.02.00/54, Issue 3, dated 
+January 13, 2009, to the Airbus A340 Airplane Flight Manual.
+    (6) For service information identified in this AD, contact 
+Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (7) You may view copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on September 13, 2013.
+Jeffrey E. Duven,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-26565 Filed 11-13-13; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,43 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2010-0187R1
+
+Airworthiness Directive
+
+AD No.: 2010-0187R1
+
+Issued: 03 March 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: Revision 1: 10 March 2016 Original Issue: 05 October 2010 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable Revision: This AD revises EASA AD 2010-0187 dated 21 September 2010, which superseded DGAC France AD F-1997-118-047(B) R2 dated 30 September 2000.
+
+ATA 78 – Exhaust – Thrust Reverser Beam and Hinge Assemblies – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Reason: During flight tests, unexpectedly high fatigue loads were measured on the hinges integrated on the 12 o’clock beam which form the upper extreme edge of the Rolls-Royce (RR) Trent 700 engine thrust reverser (T/R) unit C duct. This condition, if not detected and corrected, could lead to separation of a T/R from the aeroplane, possibly resulting in damage to the aeroplane and injury to persons on the ground. To address this potential unsafe condition, DGAC France issued AD 97-118-047 (later revised twice) to require repetitive inspections of the T/R C-ducts. Page 1 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2010-0187R1 After DGAC France AD F-1997-118-047(B) R2 was issued, EASA certified Airbus A330-243F aeroplanes and EASA issued AD 2010-0187, superseding DGAC France AD F-1997-118-047R2, to extend the Applicability for the requirements accordingly. This AD is revised for clarification, identifying all affected T/R C-Ducts by P/N, and introducing some editorial changes (without changing the requirements) by applying the current AD writing standards.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: (1) For aeroplanes fitted with T/R C-ducts having a P/N as listed in Appendix 1 of this AD, before exceeding the applicable threshold as specified in Appendix 1 of this AD, and, thereafter, at intervals not to exceed the applicable value as specified in Appendix 1 of this AD, visually inspect the hinge assemblies and along the beam structure of the right hand (RH) and left hand (LH) engine T/R in accordance with the instructions of Airbus Service Bulletin (SB) A330-78-3006 Revision 09 (or later). (2) If, during any inspection as required by paragraph (1) of this AD, any discrepancy is detected, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of Airbus SB A330-78-3006 Revision 09 (or later). (3) Accomplishment of corrective action(s) on an aeroplane, as required by paragraph (2) of this AD, does not constitute terminating action for the repetitive inspections required by paragraph (1) of this AD for that aeroplane. (4) From the effective date of this AD, it is allowed to install on any aeroplane a T/R C-ducts having a P/N as listed in Appendix 1 of this AD, provided that, following installation, the T/R C-ducts on that aeroplane are inspected as required by this AD.
+
+Ref. Publications: Airbus SB A330-78-3006 from Revision 04 dated 26 July 2000 up to Revision 09 dated 21 October 2009, Revision 10 dated 15 November 2012, and Revision 11 dated 12 October 2015. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2010-0187R1 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2010-0187R1 Appendix 1 – Inspection of affected T/R C-ducts P/N Inspection Threshold - since first installation on P/N Interval an aeroplane of an affected T/R C-duct HDTR3410L HDTR3411L HDTR3414L HDTR3417L HDTR3410R HDTR3411R 1 200 Flight Cycles (FC) 1 200 FC HDTR3412R HDTR3413R HDTR3416R HDTR3417R HDTR3420R HDTR3412L HDTR3413L HDTR3415L HDTR3416L 2 000 FC 2 000 FC HDTR3414R HDTR3415R HDTR3418R HDTR3419R Page 4 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

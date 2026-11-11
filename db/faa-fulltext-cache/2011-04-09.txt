@@ -1,0 +1,357 @@
+[Federal Register Volume 76, Number 45 (Tuesday, March 8, 2011)]
+[Rules and Regulations]
+[Pages 12556-12558]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2011-5292]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0157; Directorate Identifier 2010-NM-261-AD; 
+Amendment 39-16630; AD 2011-04-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Various Transport Category Airplanes 
+Equipped With Chemical Oxygen Generators Installed in a Lavatory
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document publishes in the Federal Register an amendment 
+adopting airworthiness directive (AD) 2011-04-09 that was sent 
+previously by individual notices to the known U.S. owners and operators 
+of affected airplanes identified above. This AD requires modifying the 
+chemical oxygen generators in the lavatory. This AD was prompted by 
+reports that the current design of these oxygen generators presents a 
+hazard that could jeopardize flight safety. We are issuing this AD to 
+eliminate this hazard.
+
+DATES: This AD becomes effective March 14, 2011 to all persons except 
+those persons to whom it was made immediately effective by AD 2011-04-
+09, which contained the requirements of this amendment.
+    We must receive comments on this AD by April 22, 2011.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue, SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Jeff Gardlin, Aerospace Engineer, 
+Cabin Safety Branch, ANM-115, FAA, Transport Airplane Directorate, 1601 
+Lind Avenue, SW., Renton, Washington 98057-3356; telephone 425-227-
+2136; fax 425-227-1149; e-mail [email protected]; or
+    Robert Hettman, Aerospace Engineer, Propulsion and Mechanical 
+Systems Branch, ANM-112, FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington 98057-3356; telephone (425) 227-2683; 
+fax (425) 227-1149; e-mail [email protected].
+
+SUPPLEMENTARY INFORMATION: On February 10, 2011, we issued AD 2011-04-
+09, which applies to certain passenger-carrying transport category 
+airplanes operating in 14 CFR part 121 air carrier service; or U.S.-
+registered and operating under 14 CFR part 129, with a maximum 
+passenger capacity of 20 or greater; and equipped with any chemical 
+oxygen generator installed in any lavatory.
+
+Background
+
+    This AD was prompted by reports that the current design of these 
+oxygen generators presents a hazard that could jeopardize flight 
+safety. We are issuing this AD to eliminate this hazard.
+
+FAA's Determination and Requirements of This AD
+
+    Since the unsafe condition described is likely to exist or develop 
+on other airplanes of the same type design, we issued AD 2011-04-09 to 
+eliminate a hazard with chemical oxygen generators in the lavatory, 
+which, if not corrected, could jeopardize flight safety. The AD 
+requires either activating all chemical oxygen generators in the 
+lavatories until the generator oxygen supply is expended, or removing 
+the oxygen generator(s); and, for each chemical oxygen generator, after 
+the generator is expended (or removed), removing or re-stowing the 
+oxygen masks and closing the mask dispenser door.
+    We have determined that notice and opportunity for prior public 
+comment on AD 2011-04-09 were contrary to the public interest, and good 
+cause existed to make the AD effective immediately by individual 
+notices issued on February 10, 2011, to the known U.S. owners and 
+operators of certain passenger-carrying transport category airplanes 
+operating in 14 CFR part 121 air carrier service; or U.S.-registered 
+and operating under 14 CFR part 129, with a maximum passenger capacity 
+of 20 or greater; and equipped with any chemical oxygen generator 
+installed in any lavatory.
+    These conditions still exist, and the AD is hereby published in the 
+Federal Register as an amendment to section 39.13 of the Federal 
+Aviation Regulations (14 CFR 39.13) to make it effective to all 
+persons.
+
+Differences Between This Federal Register Version and the Individual 
+Notices
+
+    This Federal Register version of the AD is different from the 
+individual notices previously issued. These individual notices 
+contained a time-limited flight crew notification procedure. This 
+procedure required that the pilot in command be notified that the 
+oxygen generators in the lavatories had been rendered inoperative, and 
+instructed the pilot in command to brief the crew that in the event of 
+a rapid
+
+[[Page 12557]]
+
+decompression the lavatories needed to be checked. Since flight crews 
+have been made aware of this AD by the actions in the individual 
+notices, and these procedures were to be applied for a limited time (30 
+days) only, the procedures are considered no longer necessary, and are 
+not included in this AD. Flight crews are still made aware of 
+corrective actions taken as a result of this AD since maintenance 
+activities are recorded and available to the flight crew using existing 
+maintenance procedures.
+
+Related Rulemaking
+
+    We are currently planning to issue a special Federal Aviation 
+Regulation (SFAR) to address the regulatory compliance issues resulting 
+from carrying out the actions required by this AD until the type 
+certification and operational rules are modified.
+    This AD is applicable to U.S.-registered transport category 
+airplanes operating under 14 CFR part 129 as identified in paragraph 
+(c) of this AD. We will monitor actions taken by other airworthiness 
+authorities to implement the requirements of this AD into their own 
+fleets to determine if additional rulemaking actions are necessary.
+
+Action by the State of Design
+
+    This AD is applicable to all transport category airplanes 
+identified in paragraph (c) of this AD. For the purposes of the FAA's 
+responsibility to notify other airworthiness authorities of continued 
+airworthiness issues under International Civil Aviation Organization 
+(ICAO) Annex 8, this AD is considered an action by the State of Design 
+for United States products.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not provide you with notice and an opportunity to 
+provide your comments before it becomes effective. However, we invite 
+you to send any written data, views, or arguments about this AD. Send 
+your comments to an address listed under the ADDRESSES section. Include 
+``Docket No. FAA-2011-0157; Directorate Identifier 2010-NM-261-AD'' at 
+the beginning of your comments. We specifically invite comments on the 
+overall regulatory, economic, environmental, and energy aspects of this 
+AD. We will consider all comments received by the closing date and may 
+amend this AD because of those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979), and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    You can find our regulatory evaluation and the estimated costs of 
+compliance in the AD Docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2011-04-09 Transport Category Airplanes: Amendment 39-16630. Docket 
+No. FAA-2011-0157; Directorate Identifier 2010-NM-261-AD.
+
+Effective Date
+
+    (a) This AD becomes effective March 14, 2011, to all persons 
+except those persons to whom it was made immediately effective by AD 
+2011-04-09, issued on February 10, 2011, which contained the 
+requirements of this amendment.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to transport category airplanes, in 
+passenger-carrying operations, that are equipped with any chemical 
+oxygen generator installed in any lavatory, and are:
+    (1) Operating under 14 CFR part 121; or
+    (2) U.S.-registered and operating under 14 CFR part 129, with a 
+maximum passenger capacity of 20 or greater.
+
+Subject
+
+    (d) Joint Aircraft System Component (JASC)/Air Transport 
+Association (ATA) of America Code 35, Oxygen.
+
+Unsafe Condition
+
+    (e) This AD was prompted by reports that the current design of 
+chemical oxygen generators in the lavatories presents a hazard that 
+could jeopardize flight safety. We are issuing this AD to eliminate 
+this hazard.
+
+Compliance
+
+    (f) Comply with this AD within the compliance times specified, 
+unless already done.
+
+Oxygen Generator Deactivation
+
+    (g) Within 21 days after the effective date of this AD, do the 
+actions specified in paragraphs (g)(1) and (g)(2) of this AD.
+    (1) Activate all chemical oxygen generators in the lavatories 
+until the generator oxygen supply is expended. An operator may also 
+remove the oxygen generator(s), in accordance with existing 
+maintenance practice, in lieu of activating it.
+    (2) For each chemical oxygen generator, after the generator is 
+expended (or removed), remove or re-stow the oxygen masks and close 
+the mask dispenser door.
+
+    Note 1:  Chemical oxygen generators are considered a hazardous 
+material and subject to specific requirements under Title 49 CFR for 
+shipping. Oxygen generators must be expended prior to disposal but 
+are considered a hazardous waste; therefore, disposal must be in 
+accordance with all Federal, State, and local regulations. Expended 
+oxygen generators are forbidden in air transportation as cargo. For 
+more information, contact 1-800-HMR-4922.
+
+
+
+[[Page 12558]]
+
+
+    Note 2:  Design approval holders are not expected to release 
+service instructions for this action.
+
+Compliance with Federal Aviation Regulations
+
+    (h) Notwithstanding the requirements of Sections 25.1447, 
+121.329, 121.333, and 129.13 of the Federal Aviation Regulations (14 
+CFR 25.1447, 121.329, 121.333, and 129.13), operators complying with 
+this AD are authorized to operate affected airplanes until this 
+action is superseded by other rulemaking.
+
+Parts Installation
+
+    (i) After the effective date of this AD, no person may install a 
+chemical oxygen generator in any lavatory on any affected airplane.
+
+Special Flight Permit
+
+    (j) Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (k)(1) The Manager, Transport Standards Staff, ANM-110, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. Send information to an individual 
+identified in either paragraph (k)(1)(i) or (k)(1)(ii) of this AD.
+    (i) Jeff Gardlin, Aerospace Engineer, Cabin Safety Branch, ANM-
+115, FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., 
+Renton, Washington 98057-3356; telephone (425) 227-2136; fax (425) 
+227-1149; e-mail [email protected].
+    (ii) Robert Hettman, Aerospace Engineer, Propulsion and 
+Mechanical Systems Branch, ANM-112, FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington 98057-3356; 
+telephone (425) 227-2683; fax (425) 227-1149; e-mail 
+[email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector or, lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+Contact Information
+
+    (l) For technical information about this AD, contact:
+    (1) Jeff Gardlin, Aerospace Engineer, Cabin Safety Branch, ANM-
+115, FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., 
+Renton, Washington 98057-3356; telephone (425) 227-2136; fax (425) 
+227-1149; e-mail [email protected].
+    (2) Robert Hettman, Aerospace Engineer, Propulsion and 
+Mechanical Systems Branch, ANM-112, FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue, SW., Renton, Washington 98057-3356; 
+telephone (425) 227-2683; fax (425) 227-1149; e-mail 
+[email protected].
+    (m) For FAA Flight Standards information about this AD, contact 
+the manager at your local certificate management office (CMO) or 
+certificate management team (CMT).
+
+    Issued in Renton, Washington, on March 2, 2011.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2011-5292 Filed 3-7-11; 8:45 am]
+BILLING CODE 4910-13-P

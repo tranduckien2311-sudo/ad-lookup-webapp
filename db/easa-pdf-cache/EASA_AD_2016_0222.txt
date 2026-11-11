@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0222
+
+Airworthiness Directive
+
+AD No.: 2016-0222
+
+Issued: 07 November 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 21 November 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 57 – Wings – Bottom Panel 2 at Rib 2 Interface – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232 and A320-233 aeroplanes, all manufacturer serial numbers on which Airbus modification (mod) 39729 was embodied in production, except aeroplanes on which mod 152155 or mod 152200 was embodied in production.
+
+Reason: During installation in production of new wing box ribs on post-mod 39729 aeroplanes, it was discovered that the centre wing lower rib foot angle was not matching with the bottom skin panel inner surface. This condition, if not detected and corrected, could induce fatigue cracking of the skin panel at the rib foot attachment, with possible detrimental effect on wing structural integrity. This condition was initially addressed by Airbus on the production line through adaptation mod 152155, then through mod 152200. For affected aeroplanes in service, Airbus issued Service Bulletin Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0222 (SB) A320-57-1205, providing instructions for repetitive detailed inspections (DET) or special detailed inspections (SDI), and SB A320-57-1207, providing modification instructions. For the reasons described above, this AD requires repetitive inspections (DET or SDI) of the wing bottom skin lower surface for crack detection and, depending on findings, the accomplishment of applicable corrective action(s). This AD also includes reference to an optional modification (Airbus SB A320-57-1207), providing terminating action for the repetitive inspections required by this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: (1) Before exceeding the thresholds as defined in Table 1 of this AD, as applicable, or within 3 months after the effective date of this AD, whichever occurs later, and, thereafter, at intervals not exceeding the values as defined in Table 2 of this AD, as applicable, depending on the inspection method (see Note 1 of this AD), accomplish a DET or SDI of the wing bottom skin lower surface in accordance with the instructions of Airbus SB A320-57-1205. Note 1: The next interval applicable is the one associated with the inspection method used at the last inspection. (2) If, during any inspection as required by paragraph (1) of this AD, any crack is found, before next flight, contact Airbus for approved repair instructions and, within the compliance time specified in those instructions, accomplish the repair accordingly. Table 1 – Inspection Threshold Compliance Time Aeroplane Model(s) / Configuration (flight hours (FH) or flight cycles (FC), whichever occurs first since aeroplane first flight) A318, A319 and A320 pre-mod 155374 14 500 FC or 29 000 FH (see Notes 2 and 3 of this AD) A318, A319 and A320 post-mod 155374 13 600 FC or 27 300 FH (see Notes 2 and 3 of this AD) A319 (used as VIP or CJ) post-mod 28162, 7 400 FC or 32 000 FH 28238 and 28342 A318 (used as VIP or Elite) post-mod 14 500 FC or 43 500 FH 39195 Note 2: Airbus mod 155374 defines minimum aeroplane configuration for operation on Commonwealth of Independent States (CIS) runway profiles. Note 3: The pre- and post-mod 155374 groups aeroplanes, as defined in Tables 1 and 2 of this AD, exclude those used as VIP or Elite. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0222 Table 2 – Repetitive Inspection Intervals DET (FC or FH, SDI (FC or FH, Aeroplane Model(s) / Configuration whichever occurs first) whichever occurs first) A318, A319 and A320 (see Note 3 of this AD) 4 000 FC or 8 000 FH 5 000 FC or 10 000 FH A319 (used as VIP or CJ) post-mod 28162, 2 000 FC or 8 600 FH 2 500 FC or 11 000 FH 28238 and 28342 A318 (used as VIP or Elite) post-mod 39195 4 000 FC or 12 000 FH 5 000 FC or 15 000 FH (3) Repair of an aeroplane, as required by paragraph (2) of this AD, does not constitute terminating action for the repetitive inspections required by paragraph (1) of this AD for that aeroplane, unless otherwise specified in the instructions provided by Airbus. (4) Modification of an aeroplane in accordance with the instructions of Airbus SB A320-57-1207 constitutes terminating action for the repetitive inspections required by paragraph (1) of this AD for that aeroplane. If, during modification of an aeroplane as specified in this paragraph, accomplishment of (a part of) the modification instructions is not possible due to configuration difficulties, contact Airbus for approved instructions and accomplish those instructions accordingly.
+
+Ref. Publications: Airbus SB A320-57-1205 original issue, dated 26 May 2016. Airbus SB A320-57-1207 original issue, dated 26 May 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 23 June 2016 as PAD 16-095 for consultation until 21 July 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

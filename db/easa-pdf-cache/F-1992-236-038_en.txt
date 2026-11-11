@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-236-038(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Lavatory smoke detection The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all models without AIRBUS INDUSTRIE modification 22561. In order to detect damage and/or internal contamination of the flexible hoses, which connect the lavatory smoke detector to the air extract duct, and which could reduce the performance of the smoke detection system, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 450 flight hours unless already accomplished, inspect at each lavatory the flexible hoses which connect the smoke detector to the air extract duct, and perform a detector sensitivity check according to instructions described by AIRBUS INDUSTRIE All Operators Telex reference AOT 26-07 dated October 06, 1992. Ref. : AIRBUS INDUSTRIE AOT 26-07 dated October 06, 1992 This
+
+Airworthiness Directive has been the subject of a Telegraphic diffusion on October 28, 1992. EFFECTIVE DATE : UPON ON RECEIPT n/C AIRBUS INDUSTRIE November 10, 1992 92-236-038(B) A320 Aircraft

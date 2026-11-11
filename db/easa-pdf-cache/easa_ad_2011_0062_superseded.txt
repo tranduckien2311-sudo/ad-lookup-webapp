@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA AD No : 2011-0062 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2011-0062 Date: 04 April 2011 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : d AIRBUS A330 aeroplanes e TCDS Number : EASA.A.004 Foreign AD : Not applicable d Supersedure : None e Engine – Engine Air Intake Cowl Assembly – Piccolo Tube – s
+
+ATA 71 Inspection r
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) e
+
+Applicability: Airbus A330 aeroplanes, models -243, -243F, -341, -342 and -343, all manufacturer serial numbers. p
+
+Reason: During shop visit, several primary assembly structures of A330 aeroplanes Trent 700 air intake cowl have been found with cracks in the forward u bulkhead web, web stiffeners and outer boundary angles. Several attachment links have been found severely worn, and some had become detached. In 2 cases, the Thermal Anti Ice (TAI) Piccolo tube was found fractured. Investigations are still ongoing to determine the root cause(s). S If not detected and corrected, a broken Piccolo tube in conjunction with forward bulkhead damage could ultimately lead to in flight detachment of the outer barrel, which would constitute an unsafe condition. For the reasons described above, this AD requires to perform inspections of RR Trent 700 nose cowls and, depending on findings, to do the applicable corrective action(s). These inspections include internal inspection of Piccolo tube, detailed inspection of Piccolo tube mount links, inspection of aft side of forward bulkhead and outer boundary angle.
+
+Effective Date: 18 April 2011 EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2011-0062 Required action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within the threshold indicated in Table 1 of this AD, as applicable, do Time(s): a boroscope inspection of each Air Intake Cowl Assembly of each engine to detect cracked or fractured Piccolo tube, Piccolo tube mount links or damaged forward bulkhead and outer boundary angle, in accordance with the instructions of Airbus Service Bulletin (SB) A330-71-3025. Table 1 Flight Cycles (FC) accumulated Threshold at the effective date of this AD by the air intake cowl since its first installation on an aeroplane Less than 5 000 FC Within 24 months after the air intake cowl has accumulated 5 000 FC d More than or equal to 5 000 FC Within 24 months after the effective date of this AD e (2) Depending on findings and within the timeframe given in Airbus SB A330-71-3025, do the applicable corrective actions (further inspections and/or affected air intake cowl replacement followed by d repetitive inspections) in accordance with the instructions of Airbus SB A330-71-3025.
+
+Ref. Publications: Airbus Service Bulletin A330-71-3025 at original issue. e The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD. s
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve r Alternative Methods of Compliance for this AD. 2. This AD was posted on 03 February 2011 as PAD 11-012 for consultation until 03 March 2011. The Comment Response Document e . can be found at http://ad.easa.europa.eu/ 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification p . Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAL; u . E-mail: airworthiness.A330-A340@airbus.com S EASA Form 110 Page 2/2

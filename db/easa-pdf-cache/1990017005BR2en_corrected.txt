@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-017-005(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Fuel probes The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE airplane A320-100 and -200 series without modification 21862 (AIRBUS INDUSTRIE Service Bulletin A320-28-1024) or modification 21987. In order to insure a sufficient clearance between the cable fixing bracket and the fuel probes 23QT1 and 23QT2 and also between fuel probe 28QT1 and the adjacent vent pipe bonding lead, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 100 flight hours, unless already accomplished, verify or adjust the clearance of the three fuel probes in accordance with AOT 28/89/03 dated November 20, 1989 or Service Bulletin A320-28-102. Réf. AOT 28/89/03 dated November 20, 1989 AIRBUS INDUSTRIE Bulletin A320-28-1024 (MOD 21862) The present AD was the subject in FRG of LTA N° 90- 27 The present Rev.2 cancels and replaces AD 90-017-005(B)R1 dated January 23, 1991. EFFECTIVE DATE : FEBRUARY 17, 1990 (same as the original AD) e/C AIRBUS INDUSTRIE March 6, 91 90-017-005(B) R2 A320 Aircraft

@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-228-037(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Connection of fuel return line in pylon Check of sealant in pylon The present
+
+Airworthiness Directive applies to A320 AIRBUS INDUSTRIE aircraft MSN 002 to 180, 183 to 194, 196 to 315, 317 to 321, 323 to 325, 328 to 334 included. In order to prevent an incorrect tightening of the connection of the fuel return line in the pylon, which could lead to a fuel leak, which if associated with a deteriorated sealant in the pylon, could lead to fuel leaking onto the engine, provoking the possibility of an engine fire, the following measures are rendered mandatory. - At the next scheduled maintenance or within 500 flight hours from the effective date of this
+
+Airworthiness Directive : . check the tightening of the connection on the fuel return line, and perform a leak check of the concerned zone in accordance with the instructions described in AIRBUS INDUSTRIE AOT 28-04 Revision 1 dated September 09, 1992. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE AOT 28-04 Revision 1 dated September 09, 1992. Ref. : AIRBUS INDUSTRIE AOT 28-04 Revision 1 dated September 09, 1992. EFFECTIVE DATE : NOVEMBER 07, 1992 n/C AIRBUS INDUSTRIE October 28, 1992 92-228-037(B) A320 Aircraft

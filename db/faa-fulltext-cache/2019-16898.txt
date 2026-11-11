@@ -1,0 +1,493 @@
+[Federal Register Volume 84, Number 153 (Thursday, August 8, 2019)]
+[Rules and Regulations]
+[Pages 38850-38853]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-16898]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0527; Product Identifier 2019-NM-112-AD; Amendment 
+39-19684; AD 2019-14-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A319-111, -112, -115, and -131 airplanes, and 
+Model A320-214 and -232 airplanes. This AD was prompted by a report of 
+the fracture of a main landing gear (MLG) sliding tube axle, and an 
+investigation that determined the cause to be an incorrect repair. This 
+AD requires a repetitive magnetic particle inspection (MPI) of affected 
+MLG sliding tubes for discrepancies; a one-time Barkhausen noise 
+inspection (BNI) or alternative non-destructive test (NDT) inspection, 
+and a detailed visual inspection of affected MLG sliding tube axles for 
+discrepancies; and corrective actions if necessary, as specified in a 
+European Union Aviation Safety Agency (EASA) AD, which is incorporated 
+by reference. Accomplishing the BNI and applicable corrective actions, 
+or replacing the affected parts, constitutes terminating action for the 
+repetitive MPI. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD becomes effective August 23, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 23, 
+2019.
+    We must receive comments on this AD by September 23, 2019.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    For the material incorporated by reference (IBR) in this AD, 
+contact the EASA, at Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 89990 1000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available in the AD docket on the internet at 
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2019-0527.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0527; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, the regulatory evaluation, any comments received, and other 
+information. The street address for Docket Operations is listed above. 
+Comments will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA Emergency AD 2019-0151-E, dated June 
+28, 2019 (``EASA Emergency AD 2019-0151-E'') (also referred to as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for certain Airbus SAS Model A319-111, -
+112, -115, and -131 airplanes, and Model A320-214 and -232 airplanes. 
+The MCAI states:
+
+    An occurrence was reported where, during pushback of an 
+aeroplane, a MLG sliding tube axle fractured. Investigation results 
+revealed an incorrect accomplishment of a repair at the previous 
+overhaul of the chromium plated axle diameters, which resulted in 
+the overheat damage to the sliding tube axle journal(s). This 
+initiated a crack which, under fatigue effects, led to fracture of 
+the MLG sliding tube axle. A limited number of MLG sliding tubes has 
+been identified that may have been subject to the same incorrect 
+repair.
+    This condition, if not detected, could lead to MLG sliding tube 
+axle fracture, possibly resulting in MLG collapse, damage to the 
+aeroplane, and injury to occupants.
+    To address this potential unsafe condition, SAFRAN Landing 
+Systems issued the SB [service bulletin] (later revised), providing 
+the list of affected parts and inspection instructions. 
+Consequently, EASA issued AD 2019-0147 to require a one-time 
+inspection of affected parts and, depending on findings, 
+accomplishment of applicable corrective action(s).
+    Since that [EASA] AD was issued, after chrome removal on one 
+affected part, a crack was found on the inner chromed land area. 
+Airbus issued the AOT [Alert Operators Transmission] to provide 
+instructions for repetitive magnetic particle inspections
+
+[[Page 38851]]
+
+(MPI), pending accomplishment of the SB. In addition, further 
+investigation identified that a limited number of MLG sliding tubes 
+were incorrectly repaired, thereby reducing the number of affected 
+aeroplanes.
+    For the reasons described above, this [EASA Emergency] AD 
+retains part of the requirements of EASA AD 2019-0147, which is 
+superseded, amends the Applicability, and requires additional 
+repetitive inspections, and, depending on findings, accomplishment 
+of applicable corrective action(s).
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA Emergency AD 2019-0151-E describes procedures for a repetitive 
+MPI of affected MLG sliding tubes for discrepancies (e.g., cracks or 
+damage), a one-time BNI of affected MLG sliding tube axles for 
+discrepancies (e.g., cracks or damage), and corrective actions, i.e., 
+repair, if necessary. Corrective actions include repair or replacement 
+of affected parts. EASA Emergency AD 2019-0151-E also describes an 
+optional method of compliance for accomplishing corrective actions by 
+replacing affected parts with serviceable parts, and terminating 
+actions for the repetitive MPI, which consist of accomplishing the BNI 
+and applicable corrective actions, or replacing the affected parts.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to a bilateral agreement with the State of Design Authority, the FAA 
+has been notified of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this AD because the agency 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA 
+Emergency AD 2019-0151-E described previously, as incorporated by 
+reference, except for any differences identified as exceptions in the 
+regulatory text of this AD. This AD also requires sending the 
+inspection results to Safran Landing Systems.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA worked with Airbus and EASA to develop a process to 
+use certain EASA ADs as the primary source of information for 
+compliance with requirements for corresponding FAA ADs. As a result, 
+EASA Emergency AD 2019-0151-E is incorporated by reference in the FAA 
+final rule. This AD, therefore, requires compliance with the provisions 
+specified in EASA Emergency AD 2019-0151-E, except for any differences 
+identified as exceptions in the regulatory text of this AD. Using 
+common terms that are the same as the heading of a particular section 
+in the EASA Emergency AD does not mean that operators need comply only 
+with that section. For example, where the AD requirement refers to 
+``all required actions and compliance times,'' compliance with this AD 
+requirement is not limited to the section titled ``Required Action(s) 
+and Compliance Time(s)'' in the EASA Emergency AD. Service information 
+specified in EASA Emergency AD 2019-0151-E that is required for 
+compliance with EASA Emergency AD 2019-0151-E is available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2019-0527.
+
+FAA's Justification and Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies waiving notice and comment prior to adoption of this rule 
+because failure to detect and correct cracks or damage in the MLG 
+sliding tube axle could lead to MLG sliding tube axle fracture, 
+possibly resulting in MLG collapse. Therefore, the FAA finds good cause 
+that notice and opportunity for prior public comment are impracticable. 
+In addition, for the reasons stated above, the FAA finds that good 
+cause exists for making this amendment effective in less than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and the FAA did not precede it by notice and opportunity for 
+public comment. The FAA invites you to send any written relevant data, 
+views, or arguments about this AD. Send your comments to an address 
+listed under the ADDRESSES section. Include ``Docket No. FAA-2019-0527; 
+Product Identifier 2019-NM-112-AD'' at the beginning of your comments. 
+The FAA specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this AD. The FAA will 
+consider all comments received by the closing date and may amend this 
+AD based on those comments.
+    The FAA will post all comments received, without change, to http://www.regulations.gov, including any personal information you provide. 
+The FAA will also post a report summarizing each substantive verbal 
+contact received about this AD.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1 airplane of U.S. registry. 
+The FAA estimates the following costs to comply with this AD:
+
+                                     Estimated Costs for Required Actions *
+----------------------------------------------------------------------------------------------------------------
+                                                          Cost per
+              Labor cost                 Parts cost        product               Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 14 work-hours x $85 per hour =               $0          $1,190  Up to $1,190
+ Up to $1,190.
+----------------------------------------------------------------------------------------------------------------
+* Table does not include estimated costs for reporting.
+
+    The FAA estimates that it takes about 1 work-hour per product to 
+comply with the reporting requirement in this AD. The average labor 
+rate is $85 per hour. Based on these figures, the FAA estimates the 
+cost of reporting the inspection results on U.S. operators to be $85 
+per product.
+    The FAA has received no definitive data that would enable us to 
+provide cost estimates for the optional actions and on-condition 
+actions specified in this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to
+
+[[Page 38852]]
+
+respond to, nor shall a person be subject to penalty for failure to 
+comply with a collection of information subject to the requirements of 
+the Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB control number. The control number for the 
+collection of information required by this AD is 2120-0056. The 
+paperwork cost associated with this AD has been detailed in the Costs 
+of Compliance section of this document and includes time for reviewing 
+instructions, as well as completing and reviewing the collection of 
+information. Therefore, all reporting associated with this AD is 
+mandatory. Comments concerning the accuracy of this burden and 
+suggestions for reducing the burden should be directed to the FAA at 
+800 Independence Ave. SW, Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2019-14-06 Airbus SAS: Amendment 39-19684; Docket No. FAA-2019-0527; 
+Product Identifier 2019-NM-112-AD.
+
+(a) Effective Date
+
+    This AD becomes effective August 23, 2019.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A319-111, -112, -115, and -
+131 airplanes, and Airbus SAS Model A320-214 and -232 airplanes, 
+certificated in any category, as identified in European Union 
+Aviation Safety Agency (EASA) Emergency AD 2019-0151-E, dated June 
+28, 2019 (``EASA Emergency AD 2019-0151-E'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+gear.
+
+(e) Reason
+
+    This AD was prompted by a report of the fracture of a main 
+landing gear (MLG) sliding tube axle, and an investigation that 
+determined the cause to be an incorrect repair. The FAA is issuing 
+this AD to address cracks and damage in the MLG sliding tube axle, 
+which if not detected and corrected, could lead to MLG sliding tube 
+axle fracture, possibly resulting in MLG collapse.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA Emergency AD 2019-0151-E.
+
+(h) Exceptions to EASA Emergency AD 2019-0151-E
+
+    (1) For purposes of determining compliance with the requirements 
+of this AD: Where EASA Emergency AD 2019-0151-E refers to its 
+effective date, this AD requires using the effective date of this 
+AD.
+    (2) The ``Remarks'' section of EASA Emergency AD 2019-0151-E 
+does not apply to this AD.
+    (3) For purposes of determining compliance with the requirements 
+of this AD: Where paragraph (2) of EASA Emergency AD 2019-0151-E 
+refers to ``28 June, 2019,'' this AD requires using the effective 
+date of this AD.
+    (4) Where paragraph (6) of EASA Emergency AD 2019-0151-E 
+specifies to report the inspection results, this AD requires 
+reporting the inspection results at the applicable time specified in 
+paragraph (h)(4)(i) or (h)(4)(ii) of this AD. If operators have 
+reported findings as part of obtaining any corrective actions 
+approved by Airbus SAS's EASA Design Organization Approval (DOA), 
+operators are not required to report those findings as specified in 
+this paragraph.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+
+(i) Special Flight Permit
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed except as specified in Note 1 of EASA 
+Emergency AD 2019-0151-E.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (k) of this AD. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+
+[[Page 38853]]
+
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA Emergency AD 2019-0151-E that contains RC 
+procedures and tests: Except as required by paragraph (j)(2) of this 
+AD, RC procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+    (4) Paperwork Reduction Act Burden Statement: A federal agency 
+may not conduct or sponsor, and a person is not required to respond 
+to, nor shall a person be subject to a penalty for failure to comply 
+with a collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 1 
+hour per response, including the time for reviewing instructions, 
+completing and reviewing the collection of information. All 
+responses to this collection of information are mandatory. Comments 
+concerning the accuracy of this burden and suggestions for reducing 
+the burden should be directed to the FAA at: 800 Independence Ave. 
+SW, Washington, DC 20591, Attn: Information Collection Clearance 
+Officer, AES-200.
+
+(k) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) Emergency AD 
+2019-0151-E, dated June 28, 2019.
+    (ii) [Reserved]
+    (3) For EASA Emergency AD 2019-0151-E, contact the EASA, Konrad-
+Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 89990 
+6017; email [email protected]; internet www.easa.europa.eu. You may 
+find this EASA Emergency AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this EASA Emergency AD at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195. EASA Emergency AD 2019-0151-E may be found in the AD 
+docket on the internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2019-0527.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, call 202-
+741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on July 16, 2019.
+Suzanne Masterson,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-16898 Filed 8-7-19; 8:45 am]
+ BILLING CODE 4910-13-P

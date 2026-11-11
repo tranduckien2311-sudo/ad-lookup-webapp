@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page : AIRWORTHINESS DIRECTIVE May 26, 2004 1/2 B No F-2004-072 Direction This
+
+Airworthiness Directive is published by the DGAC : Translation of « Consigne de Navigabilité » of same générale number. on behalf of EASA, the Primary Airworthiness Authority for the In case of difficulty, reference should be made to de X affected product. l’aviation the French issue. as the Registration Airworthiness Authority for the affected civile aircraft.. France GSAC No person may operate an aircraft to which an
+
+Airworthiness Directive applies, publication except in accordance with the requirements of that
+
+Airworthiness Directive, unless otherwise agreed with the Authority of the State of Registry. Corresponding foreign
+
+Airworthiness Directive(s): Airw orthiness Directive(s) replaced: Not applicable None Person in charge of airworthiness: Type(s): AIRBUS SAS A318, A319, A320 and A321 aircraft d Type certificate(s) No. 180 TCDS No 180 e ATA chapter: Subject: 25 Equipment/Furnishings - Passenger door emergency escape slides d 1. EFFECTIVITY : e AIRBUS A318, A319, A320 and A321 aircraft, all certified models, all serial numbers equipped with an emergency slide with part numbers (PN) : s  foward passenger door emergency escape slide : PN D31516-111, -113, -115, -117, -311 or -313 r  aft passenger door emergency escape slide : PN D31517-111, -113, -115, -117, -311 or -313 Note: No action is required by this
+
+Airworthiness Directive (AD) on the aircraft, on which no above listed slide PN has been installed after embodiement of AIRBUS modification 33429 in production, or e AIRBUS Service Bulletin (SB) A320-25-1338 in service. p 2. REASONS : Several incomplete inflation of emergency escape slides have been experienced by the manufacturer during tests deployment in their facility. u Investigations revealed that the inflation hose ruptured at its end fitting due to interferrence with slide fabric during inflation. S An incomplete emergency escape slide inflation would delay passengers evacuation. This AD mandates the application of SB A320-25-1338, which introduces an inflation hose retainer. 3. MANDATORY ACTION AND COMPLIANCE TIME: Before June 30, 2007, modify all door emergency escape slides in accordance with SB A320-25-1338. 4. REFERENCE PUBLICATION: AIRBUS Service Bulletin A320-25-1338 (Any later approved revision of this document is acceptable). n/GH
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE May 26, 2004 2/2 B No F-2004-072 5. EFFECTIVE DATE: June 05, 2004. 6. REMARK: For questions concerning the technical contents of this AD’s requirements, contact: AIRBUS SAS – Fax 33 5 61 93 44 51. 7. APPROVAL: This AD is approved under EASA reference No 2004-5335 dated May 17, 2004. d e d e s r e p u S

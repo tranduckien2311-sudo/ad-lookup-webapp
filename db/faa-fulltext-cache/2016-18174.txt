@@ -1,0 +1,451 @@
+[Federal Register Volume 81, Number 149 (Wednesday, August 3, 2016)]
+[Rules and Regulations]
+[Pages 51097-51100]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-18174]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-3983; Directorate Identifier 2015-NM-009-AD; 
+Amendment 39-18582; AD 2016-14-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that 
+published in the Federal Register. That AD applies to certain Airbus 
+Model A330-200 Freighter series airplanes; Model A330-200 and A330-300 
+series airplanes; Model A340-200 and A340-300 series airplanes; Model 
+A340-500 series airplanes; and Model A340-600 series airplanes. Table 1 
+to paragraph (j) of the regulatory text contains typographical errors 
+regarding certain part numbers (P/Ns). This document corrects those 
+errors. In all other respects, the original document remains the same.
+
+DATES: This final rule is effective August 16, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of August 16, 
+2016 (81 FR 44983, July 12, 2016).
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    For Hamilton Sundstrand service information identified in this 
+final rule, contact Hamilton Sundstrand, Technical Publications, Mail 
+Stop 302-9, 4747 Harrison Avenue, P.O. Box 7002, Rockford, IL 61125-
+7002; telephone 860-654-3575; fax 860-998-4564; email 
+[email protected]; Internet http://www.hamiltonsundstrand.com.
+    You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+3983.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Docket Management Facility, U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: Airworthiness Directive 2016-14-01, 
+Amendment 39-18582 (81 FR 44983, July 12, 2016) (``AD 2016-14-01''), 
+currently requires identification of the manufacturer, part number, and 
+serial number of the ram air turbine (RAT), and re-identification and 
+modification of the RAT if necessary, for certain Airbus Model A330-200 
+Freighter series airplanes; Model A330-200 and A330-300 series 
+airplanes; Model A340-200 and A340-300 series airplanes; Model A340-500 
+series airplanes; and Model A340-600 series airplanes.
+
+Need for the Correction
+
+    As published, table 1 to paragraph (j) of the regulatory text 
+contains typographical errors in two part numbers. Table 1 to paragraph 
+(j) of the AD incorrectly refers to RAT P/Ns 1720934C and 1720934D. 
+Those part numbers should have been 1702934C and 1702934D.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information, which 
+describes procedures for identifying the supplier, part number, and 
+serial number of the
+
+[[Page 51098]]
+
+installed RAT actuator; modifying the RAT; and re-identifying the RAT 
+actuator and RAT.
+     Service Bulletin A330-29-3126, dated June 12, 2014.
+     Service Bulletin A340-29-4097, dated June 12, 2014.
+     Service Bulletin A340-29-5025, dated June 16, 2014.
+    Hamilton Sundstrand has issued Service Bulletins ERPS06M-29-21, 
+Revision 1, dated April 14, 2015; and ERPS33T-29-7, dated June 6, 2014. 
+This service information describes procedures for identifying the 
+affected RAT actuator and RAT part numbers and serial numbers, 
+modifying affected actuators, and re-identifying affected RAT actuators 
+and RATs.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Correction of Publication
+
+    This document corrects an error and correctly adds the AD as an 
+amendment to 14 CFR 39.13. Although no other part of the preamble or 
+regulatory information has been corrected, we are publishing the entire 
+rule in the Federal Register.
+    The effective date of this AD remains August 16, 2016.
+    Since this action only corrects typographical errors, it has no 
+adverse economic impact and imposes no additional burden on any person. 
+Therefore, we have determined that notice and public procedures are 
+unnecessary.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Correction
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Corrected]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-14-01 Airbus: Amendment 39-18582; Docket No. FAA-2016-3983; 
+Directorate Identifier 2015-NM-009-AD.
+
+(a) Effective Date
+
+    This AD becomes effective on August 16, 2016.
+
+(b) Affected ADs
+
+    This AD affects the ADs specified in paragraphs (b)(1), (b)(2), 
+and (b)(3) of this AD.
+    (1) AD 2012-21-19, Amendment 39-17235 (77 FR 65812, October 31, 
+2012) (``AD 2012-21-19'').
+    (2) AD 2012-21-20, Amendment 39-17236 (77 FR 65799, October 31, 
+2012) (``AD 2012-21-20'').
+    (3) AD 2016-04-01, Amendment 39-18395 (81 FR 8134, February 18, 
+2016) (``AD 2016-04-01'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs (c)(1) 
+through (c)(7) of this AD, certificated in any category.
+    (1) Airbus Model A330-223F and -243F airplanes, all manufacturer 
+serial numbers; except those on which Airbus Modification 204067 has 
+been embodied in production.
+    (2) Airbus Model A330-201, -202, -203, -223, and -243 airplanes, 
+all manufacturer serial numbers; except those on which Airbus 
+Modification 204067 has been embodied in production.
+    (3) Airbus Model A330-301, -302, -303, -321, -322, -323, -341, -
+342, and -343 airplanes, all manufacturer serial numbers; except 
+those on which Airbus Modification 204067 has been embodied in 
+production.
+    (4) Airbus Model A340-211, -212, and -213, airplanes, all 
+manufacturer serial numbers.
+    (5) Airbus Model A340-311, -312, and -313 airplanes, all 
+manufacturer serial numbers.
+    (6) Airbus Model A340-541 airplanes, all manufacturer serial 
+numbers.
+    (7) Airbus Model A340-642 airplanes, all manufacturer serial 
+numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 29, Hydraulic 
+Power.
+
+(e) Reason
+
+    This AD was prompted by a report indicating that, during an 
+operational test of a ram air turbine (RAT), the RAT did not deploy 
+in automatic mode. We are issuing this AD to prevent non-deployment 
+of the RAT, which, if preceded by a total engine flame-out, or 
+during a total loss of normal electrical power generation, could 
+result in reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Identification and Replacement for Certain Airbus Model A330, and 
+A340-200 and -300 Airplanes
+
+    For Airbus Model A330-200 Freighter series airplanes, Model 
+A330-200 and -300 series airplanes, and Model A340-200 and -300 
+series airplanes: Within 30 months after the effective date of this 
+AD, identify the supplier, part number, and serial number of the 
+installed RAT actuator, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-29-3126, dated June 12, 
+2014; or Airbus Service Bulletin A340-29-4097, dated June 12, 2014; 
+as applicable.
+    (1) If the supplier identified is Arkwin Industries, and the 
+identified RAT actuator part number and serial number are listed in 
+Hamilton Sundstrand Service Bulletin ERPS06M-29-21, Revision 1, 
+dated April 14, 2015, and the serial number is included in table 2 
+of Hamilton Sundstrand Service Bulletin ERPS06M-29-21, Revision 1, 
+dated April 14, 2015, with a description of ``correctly shimmed'': 
+Within 30 months after the effective date of this AD, re-identify 
+the actuator and the RAT, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-29-3126, dated June 12, 
+2014; or Airbus Service Bulletin A340-29-4097, dated June 12, 2014; 
+as applicable.
+    (2) If the supplier identified is Arkwin Industries, and the 
+identified actuator RAT part number and serial number are listed in 
+Hamilton Sundstrand Service Bulletin ERPS06M-29-21, Revision 1, 
+dated April 14, 2015, and the serial number is included in table 2 
+of Hamilton Sundstrand Service Bulletin ERPS06M-29-21, Revision 1, 
+dated April 14, 2015, with a description of ``incorrectly shimmed'': 
+Within 30 months after the effective date of this AD, remove the 
+actuator from the RAT, install a modified actuator, and re-identify 
+the RAT, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-29-3126, dated June 12, 2014; or Airbus 
+Service Bulletin A340-29-4097, dated June 12, 2014; as applicable.
+    (3) If the supplier identified is Arkwin Industries, and the 
+identification plate for the RAT actuator is missing, or the part 
+number and serial number are not listed in Hamilton Sundstrand 
+Service Bulletin ERPS06M-29-21, Revision 1, dated April 14, 2015: 
+Within 30 months after the effective date of this AD, remove the 
+actuator from the RAT, install a modified actuator, and re-identify 
+the RAT, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-29-3126, dated June 12, 2014; or Airbus 
+Service Bulletin A340-29-4097, dated June 12, 2014; as applicable.
+
+(h) Identification and Replacement for Certain Airbus Model A340-500 
+and -600 Airplanes
+
+    For Airbus Model A340-500 and -600 airplanes: Within 30 months 
+after the effective date of this AD, identify the part number and 
+serial number of the installed RAT actuator, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A340-29-5025, 
+dated June 16, 2014.
+    (1) If the identified RAT actuator part number and serial number 
+are listed in Hamilton Sundstrand Service Bulletin ERPS33T-29-7, 
+dated June 6, 2014, and the serial number is included in table 2 of 
+Hamilton Sundstrand Service Bulletin ERPS33T-29-7, dated June 6, 
+2014, with a description of ``correctly shimmed'': Within 30 months 
+after the effective date of this AD, re-identify the actuator and 
+the RAT, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A340-29-5025, dated June 16, 2014.
+
+[[Page 51099]]
+
+    (2) If the identified RAT actuator part number and serial number 
+are listed in Hamilton Sundstrand Service Bulletin ERPS33T-29-7, 
+dated June 6, 2014, and the serial number is included in table 2 of 
+Hamilton Sundstrand Service Bulletin ERPS33T-29-7, dated June 6, 
+2014, with a description of ``incorrectly shimmed'': Within 30 
+months after the effective date of this AD, remove the actuator from 
+the RAT, install a modified actuator, and re-identify the RAT, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A340-29-5025, dated June 16, 2014.
+    (3) If the identification plate for the RAT actuator is missing, 
+or the part number and serial number are not listed in Hamilton 
+Sundstrand Service Bulletin ERPS33T-29-7, dated June 6, 2014: Within 
+30 months after the effective date of this AD, remove the actuator 
+from the RAT, install a modified actuator, and re-identify the RAT, 
+in accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A340-29-5025, dated June 16, 2014.
+
+(i) Terminating Action for Certain Requirements of Other ADs
+
+    (1) For Airbus Model A330-200 Freighter, A330-200, and A330-300 
+series airplanes; and Model A340-200 and -300 series airplanes: 
+Accomplishment of the actions required by paragraph (g)(1), (g)(2), 
+or (g)(3) of this AD constitutes compliance with the requirements of 
+paragraph (g)(1) of AD 2012-21-19, paragraph (g) of AD 2012-21-20, 
+and paragraphs (g), (h), and (i) of AD 2016-04-01, for that airplane 
+only.
+    (2) For Airbus Model A340-500 and -600 series airplanes: 
+Accomplishment of the actions required by paragraphs (h)(1), (h)(2), 
+and (h)(3) of this AD constitutes compliance with the requirements 
+of paragraphs (h)(1) and (h)(2) of AD 2012-21-20, and paragraph (j) 
+of 2016-04-01, for that airplane only.
+
+(j) Parts Installation Limitations
+
+    As of the effective date of this AD, no person may install any 
+RAT actuator or any RAT having a part number identified in table 1 
+to paragraph (j) of this AD on any airplane, unless it meets the 
+conditions specified in paragraph (j)(1) or (j)(2) of this AD, as 
+applicable.
+
+                           Table 1 to Paragraph (j) of This AD--Affected Part Numbers
+----------------------------------------------------------------------------------------------------------------
+     Affected Airbus airplane models                RAT part No.                    RAT actuator part No.
+----------------------------------------------------------------------------------------------------------------
+Model A330-200 and -300 series airplanes  1702934C, 1702934D, 766351A,      5912958, 5915768
+                                           768084A, 770379A, 770952C,
+                                           770952D, 770952E.
+Model A330-200 Freighter series           1702934C, 1702934D, 766351A,      5912958, 5915768
+ airplanes.                                768084A, 770379A, 770952C,
+                                           770952D, 770952E.
+Model A340-200 and -300 series airplanes  1702934C, 1702934D, 766351A,      5912958, 5915768
+                                           768084A, 770379A, 770952C,
+                                           770952D, 770952E.
+Model A340-500 and -600 series airplanes  772722H, 772722J, 772722L.......  5912536, 5915769
+----------------------------------------------------------------------------------------------------------------
+
+    (1) For Airbus Model A330-200 Freighter series airplanes; Model 
+A330-200, and A330-300 series airplanes; and Model A340-200 and -300 
+series airplanes: The RAT actuator or RAT has a serial number listed 
+as affected and modified in Hamilton Sundstrand Service Bulletin 
+ERPS06M-29-21, Revision 1, dated April 14, 2015, and the RAT has 
+been re-identified in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-29-3126, dated June 12, 
+2014; or Airbus Service Bulletin A340-29-4097, dated June 12, 2014.
+    (2) For Airbus Model A340-500 and -600 series airplanes: The RAT 
+actuator or the RAT has a serial number listed as affected and 
+modified in Hamilton Sundstrand Service Bulletin ERPS33T-29-7, dated 
+June 6, 2014, and the RAT has been re-identified in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A340-29-
+5025, dated June 16, 2014.
+
+(k) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the RAT and RAT actuator 
+identification specified in paragraphs (g)(1), (g)(2), and (g)(3) of 
+this AD if that identification was performed before the effective 
+date of this AD using Hamilton Sundstrand Service Bulletin ERPS06M-
+29-21, dated May 27, 2014, which is not incorporated by reference in 
+this AD.
+    (2) This paragraph provides credit for the RAT or RAT actuator 
+identification and modification specified in paragraph (j)(1) of 
+this AD, if those actions were performed before the effective date 
+of this AD using Hamilton Sundstrand Service Bulletin ERPS06M-29-21, 
+dated May 27, 2014, which is not incorporated by reference in this 
+AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): If any Airbus service 
+information contains procedures or tests that are identified as RC, 
+those procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0008, dated January 15, 
+2015, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-3983.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(4) and (n)(5) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+August 16, 2016 (81 FR 44983, July 12, 2016).
+
+[[Page 51100]]
+
+    (i) Airbus Service Bulletin A330-29-3126, dated June 12, 2014.
+    (ii) Airbus Service Bulletin A340-29-4097, dated June 12, 2014.
+    (iii) Airbus Service Bulletin A340-29-5025, dated June 16, 2014.
+    (iv) Hamilton Sundstrand Service Bulletin ERPS06M-29-21, 
+Revision 1, dated April 14, 2015.
+    (v) Hamilton Sundstrand Service Bulletin ERPS33T-29-7, dated 
+June 6, 2014.
+    (4) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (5) For Hamilton Sundstrand service information identified in 
+this AD, contact Hamilton Sundstrand, Technical Publications, Mail 
+Stop 302-9, 4747 Harrison Avenue, P.O. Box 7002, Rockford, IL 61125-
+7002; telephone 860-654-3575; fax 860-998-4564; email 
+[email protected]; Internet http://www.hamiltonsundstrand.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on July 25, 2016.
+Victor Wicklund,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+
+[FR Doc. 2016-18174 Filed 8-2-16; 8:45 am]
+ BILLING CODE 4910-13-P

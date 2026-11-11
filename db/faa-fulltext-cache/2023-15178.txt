@@ -1,0 +1,435 @@
+[Federal Register Volume 88, Number 137 (Wednesday, July 19, 2023)]
+[Rules and Regulations]
+[Pages 46068-46071]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-15178]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0011; Project Identifier MCAI-2022-00211-T; 
+Amendment 39-22478; AD 2023-12-19]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2013-07-
+03, which applied to all Airbus SAS Model A330-200, A330-200 Freighter, 
+A330-300, A340-200, and A340-300 series airplanes; and Model A340-541 
+and A340-642 airplanes. AD 2013-07-03 required repetitive inspections 
+for degradation of the bogie pivot pins and for any cracks and damage 
+of the pivot pin bushes of the main and central landing gear; an 
+inspection of the affected bogie pivot pins for corrosion and base 
+metal cracks; and repairing or replacing bogie pivot pins and pivot pin 
+bushes, if necessary. This AD was prompted by development of a 
+modification that address the unsafe condition and a determination that 
+a parts installation prohibition is necessary. This AD continues to 
+require certain actions in AD 2013-07-03, add an optional modification 
+that would terminate the repetitive inspections, and add a parts 
+installation prohibition, as specified in a European Union Aviation 
+Safety Agency (EASA), which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective August 23, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of August 23, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-0011; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For material incorporated by reference in this AD, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2023-0011.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+telephone 206-231-3229; email [email protected].
+
+[[Page 46069]]
+
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2013-07-03, Amendment 39-17407 (78 FR 
+21227, April 10, 2013) (AD 2013-07-03). AD 2013-07-03 applied to all 
+Airbus SAS Model A330-200, A330-200 Freighter, A330-300, A340-200, and 
+A340-300 series airplanes; and Model A340-541 and A340-642 airplanes. 
+AD 2013-07-03 required repetitive inspections for degradation of the 
+bogie pivot pins and for any cracks and damage of the pivot pin bushes 
+of the main and central landing gear; an inspection of the affected 
+bogie pivot pins for corrosion and base metal cracks; and repairing or 
+replacing bogie pivot pins and pivot pin bushes, if necessary. The FAA 
+issued AD 2013-07-03 to detect and correct cracks and damage to the 
+main and central landing gear, which could result in the collapse of 
+the landing gear and adversely affect the airplane's continued safe 
+flight and landing.
+    The NPRM published in the Federal Register on January 13, 2023 (88 
+FR 2283). The NPRM was prompted by AD 2022-0025R2, dated August 9, 
+2022, issued by EASA (EASA AD 2022-0025R2) (also referred to as the 
+MCAI). The MCAI states that since EASA issued AD 2012-0053, dated March 
+30, 2012, Airbus developed mod 207165 and mod 207649, introducing a new 
+bogie pivot pin for certain main landing gear. The MCAI includes the 
+modification as an optional terminating action for the repetitive 
+inspections. The MCAI also determined that a parts installation 
+prohibition is necessary. The MCAI also states that main and central 
+landing gear overhauls contains actions that are equivalent to those 
+required by EASA AD 2012-0053, dated March 30, 2012, and therefore, 
+credit is provided for those actions.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2023-0011.
+    In the NPRM, the FAA proposed to continue to require certain 
+actions in AD 2013-07-03, add an optional modification that would 
+terminate the repetitive inspections, and add a parts installation 
+prohibition, as specified in EASA AD 2022-0025R2. The FAA is issuing 
+this AD to address cracks and damage to the main and central landing 
+gear. The unsafe condition, if not addressed, could result in the 
+collapse of the landing gear and consequent damage to the airplane and 
+injury to occupants.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Air Line Pilots Association, 
+International (ALPA), who supported the NPRM without change.
+    The FAA received additional comments from Delta Air Lines (Delta). 
+The following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request for Additional Exception to the MCAI
+
+    Delta requested an exception to provide a terminating action as a 
+means of compliance with the proposed optional terminating action of 
+paragraph (g) of the proposed AD. Delta stated that service information 
+specified in EASA 2022-0025R2 for modifying the main landing gear (MLG) 
+while on the airplane wing references other information that seems to 
+allow for modification of the MLG while it is off the wing. Delta 
+received confirmation from Airbus that it is acceptable to replace 
+unmodified MLG with MLG that has been previously modified off the wing. 
+Delta also pointed out that the service information specified in EASA 
+2022-0025R2 specified an AMM task that is intended for use while the 
+MLG is on the wing and an exception would need to accommodate a 
+reference to an AMM task that is intended for use while the MLG is off 
+the wing.
+    The FAA agrees to add an exception to paragraph (h) of this AD that 
+allows for installing a MLG that was modified off the wing. Installing 
+a previously modified MLG that was modified off the wing is acceptable 
+for the optional terminating action that terminates the repetitive 
+inspections required by this AD.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, and any other changes described previously, this AD is adopted 
+as proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2022-0025R2 specifies procedures for repetitive detailed 
+inspections for degradation of the bogie pivot pins and for any cracks 
+and damage of the pivot pin bushes of the main and central landing 
+gear; an non-destructive test (NDT) inspection (i.e., magnetic particle 
+inspection) of the affected bogie pivot pins for corrosion and base 
+metal cracks; and corrective actions if necessary (i.e., repairing or 
+replacing bogie pivot pins and pivot pin bushes). EASA AD 2022-0025R2 
+also provides an optional modification, which terminates the repetitive 
+inspections. EASA AD 2022-0025R2 also includes a parts installation 
+prohibition for the affected parts. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 115 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+               Action                        Labor cost           Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2013-07-03.  22 work-hours x $85 per              $0           $1,870         $215,050
+                                       hour = $1,870.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 46070]]
+
+
+                 Estimated Costs for New Optional Action
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+24 work-hours x $85 per hour =    Up to $30,150.....  Up to $32,190.
+ $2,040.
+------------------------------------------------------------------------
+
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+Up to 8 work-hours x $85 per      Up to $2,122......  Up to $2,802.
+ hour = $680.
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2013-07-03, Amendment 39-17407 
+(78 FR 21227, April 10, 2013); and
+0
+b. Adding the following new AD:
+
+2023-12-19 Airbus SAS: Amendment 39-22478; Docket No. FAA-2023-0011; 
+Project Identifier MCAI-2022-00211-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 23, 2023.
+
+(b) Affected ADs
+
+    This AD replaces AD 2013-07-03, Amendment 39-17407 (78 FR 21227, 
+April 10, 2013) (AD 2013-07-03).
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (5) of this AD; certificated in any 
+category.
+    (1) Model A330-201, -202, -203, -223, -223F, -243 and -243F 
+airplanes.
+    (2) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (3) Model A340-211, -212, and -213 airplanes.
+    (4) Model A340-311, -312, and -313 airplanes.
+    (5) Model A340-541 and -642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+gear.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracks in the bogie pivot pin 
+of the main and central landing gear bogie beams. Investigation 
+indicated these findings were the result of material heating due to 
+friction between the bogie pivot pin and bush, leading to chrome 
+detachment and chrome dragging on the bogie pivot pin. Since 
+issuance of AD 2013-07-03, an optional terminating modification was 
+developed and it was also determined that a parts installation 
+prohibition is necessary. The FAA is issuing this AD to address 
+cracks and damage to the main and central landing gear. The unsafe 
+condition, if not addressed, could result in the collapse of the 
+landing gear and consequent damage to the airplane and injury to 
+occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2022-0025R2, dated August 9, 2022 (EASA AD 2022-0025R2).
+
+(h) Exceptions to EASA AD 2022-0025R2
+
+    (1) Where EASA AD 2022-0025R2 refers to March 1, 2022 (the 
+effective date of EASA AD 2022-0025, dated February 15, 2022), this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2022-0025R2 refers to April 13, 2012 (the 
+effective date of EASA AD 2012-0053, dated March 30, 2012), this AD 
+requires using May 15, 2013 (the effective date of AD 2013-07-03).
+    (3) Where paragraph (4) of EASA AD 2022-0025R2 specifies 
+corrective actions for the non-destructive test (NDT) inspection, 
+replace the text ``the base metal of the affected part is found 
+corroded'' with ``the bogie pivot pin is found corroded or the base 
+metal is found cracked.''
+    (4) This AD does not adopt the ``Remarks'' section of EASA AD 
+2022-0025R2.
+    (5) For the terminating modification specified in paragraph (7) 
+of EASA AD 2022-0025R2, replacement of the unmodified main landing 
+gear (MLG) with MLG that has been previously modified off the 
+airplane is acceptable for compliance, provided the modification was 
+done as specified in the applicable Safran Landing Systems Service 
+Bulletin A33/34-32-315, dated November 28, 2017; A33/34-32-319, 
+dated September 13, 2018; or A33/34-32-320, dated September 13, 
+2018; and the test after the modification was done as specified in 
+AMM task 32-11-11-400-801-A.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA AD 2022-
+0025R2 specifies to submit certain information to the
+
+[[Page 46071]]
+
+manufacturer, this AD does not include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the International 
+Validation Branch, send it to the attention of the person identified 
+in paragraph (k) of this AD. Information may be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2013-07-03 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2022-0025R2 that 
+are required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(k) Additional Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY; telephone 206-231-3229; email 
+[email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2022-0025R2, 
+dated August 9, 2022.
+    (ii) [Reserved]
+    (3) For EASA AD 2022-0025R2, contact EASA, Konrad-Adenauer-Ufer 
+3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on June 21, 2023.
+Michael Linegang,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-15178 Filed 7-18-23; 8:45 am]
+BILLING CODE 4910-13-P

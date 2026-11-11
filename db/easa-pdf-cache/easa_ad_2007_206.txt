@@ -1,0 +1,33 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE AD No : 2007-0206 Date: 06 August 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : ROLLS-ROYCE PLC RB211 TRENT 768-60, 772-60, 772B-60 TCDS Number: UK CAA 1050 Foreign AD: Not applicable
+
+Supersedure: UK CAA AD G-2004-0010, EASA Approval No 2004-3674
+
+ATA 72 Engine – HP Compressor – Test/Modification
+
+Manufacturer(s): ROLLS-ROYCE PLC
+
+Applicability: Models RB211 Trent 768-60, 772-60 and 772B-60 engines. These engines are known to be installed, but not limited to Airbus A330 aeroplanes.
+
+Reason: There have been a number of low power surges in service on Trent 700 engines. These surges occurred with the aeroplane on the ground as take-off power was being set or during taxi. The cause of the surges has been identified as excessive wear on the HPC casing front location feature. This causes increased HPC tip clearances resulting in loss of surge margin. Engines affected by this problem are also at risk of failure to respond due to surge on acceleration during descent, prior to flap selection. Routine ground testing for adequate surge margin will assure safe in-flight operation and embodiment of there designed HPC casing front location feature will remove the problem. This AD supersedes UK CAA AD G-2004-0010, EASA Approval Nr. 2004-3674, by extending the Terminating Action compliance limit of 4 500 cycles to 6 300 cycles from the Effective Date of the
+
+Airworthiness Directive. This Limit is required to ensure the Terminating Action modification is carried out at the next HP compressor overhaul. The limit is revised as a result of the agreed extension of the HP compressor drum life from 4 200 to 6 000 cycles. 1/2
+
+--- PAGE 2 ---
+Note: the AD number has been changed because the original AD carried a CAA UK number and this superseding AD is now issued under the EASA AD system.
+
+Effective Date: 4 December 2003 (the effective date of AD G-2004-0010) Compliance: 1) In-Service Test Carry out a surge test in accordance with Rolls-Royce Alert Service Bulletin RB211-71-AD509 revision 3 or later approved revision, Section 3 Accomplishment 000 cycles Instructions before the engine exceeds 2 000 cycles since new or 1 since HP Compressor overhaul, and subsequently at intervals of not more than; (a) 130 cycles or (b) 160 cycles if Rolls-Royce Alert Service Bulletin RB211-73-AE224 original issue or later approved revision, or later standard of engine control software is embodied. Note: For the purposes of this
+
+Airworthiness Directive, testing carried out in accordance with superseded AD 005-09-2001, AD G-2003-0014, or AD G-2004- 0010 (Rolls-Royce Alert Service Bulletin RB211-71-AD509 revision 3, revision 2, revision1 or original issue) is deemed to be valid. 2) Interim Action Fit an EEC incorporating a revised standard of engine control software as specified in Rolls-Royce Alert Service Bulletin RB211-73-AE224 original issue or later approved revision, or later standard of engine control software, before 1 July 2005. 3) Terminating Action Fit redesigned HP compressor stage 1 casing and intermediate case outer location ring in accordance with Rolls-Royce Service Bulletin RB211-72-D574 original issue or later approved revision, Section 3 Accomplishment Instructions within 6 300 cycles of the Effective Date of this
+
+Airworthiness Directive or before 30 June 2012 whichever is the sooner. Incorporation of this modification removes the requirement to carry out 1) In-Service Test and 2) Interim Action and therefore constitutes the terminating action for this
+
+Airworthiness Directive.
+
+Ref. Publications: Rolls-Royce Alert Service Bulletin RB211-71-AD509 revision 3 or later approved issue, Rolls-Royce Alert Service Bulletin RB211-73-AE224 original issue or later approved revision, Rolls-Royce Service Bulletin RB211-72-D574 original issue or later approved revision Remarks : 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative Methods of Compliance (AMOC) for this AD. 2. This AD was posted on 12 July 2007 as PAD 07-120 for consultation until 26 July 2007. No comments were received during this period. 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the AD Focal Point - Certification Directorate, EASA. . E-mail: ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: Rolls-Royce plc, PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332242424 Fax: +44 (0) 1332 249936. 2/2

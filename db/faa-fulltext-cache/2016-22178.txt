@@ -1,0 +1,447 @@
+[Federal Register Volume 81, Number 180 (Friday, September 16, 2016)]
+[Rules and Regulations]
+[Pages 63691-63694]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-22178]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9108; Directorate Identifier 2016-NM-133-AD; 
+Amendment 39-18655; AD 2016-19-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200, Model A330-300, Model A340-200, and Model A340-
+300 series airplanes. This AD requires an inspection to determine the 
+part number and serial number of certain escape slides on the left and 
+right sides of the airplane, and replacement if necessary. This AD was 
+prompted by a report indicating that the aspirator on certain escape 
+slides might have been damaged because of incorrect packing during 
+overhaul. We are issuing this AD to detect and correct damaged 
+aspirators on escape slides. Failure of an aspirator to inflate an 
+escape slide could prevent deployment of the escape slide during an 
+emergency, possibly resulting in reduced evacuation capacity from the 
+airplane and consequent injury to occupants.
+
+DATES: This AD becomes effective October 3, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 3, 
+2016.
+    We must receive comments on this AD by October 31, 2016.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this final rule, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 
+93 45 80; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9108.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9108; or in person at the Docket Operations office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2016-0137R1, dated July 21, 2016 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200 Freighter, Model A330-200, Model A330-300, Model A340-200, and 
+Model A340-300 series airplanes. The MCAI states:
+
+    It has been reported that some door 3, Type 1, escape slides 
+Part Number (P/N) 7A1509-series may have sustained damage to the 
+slide aspirator, due to an incorrect packing during last overhaul. 
+This damage affects the air inlet end of the slide aspirator by 
+either permanently deforming the inlet, or leading to cracks in the 
+supply line to the aspirator nozzle.
+    This condition, if not detected and corrected, could lead to 
+failure of the slide aspirator to perform its intended function to 
+inflate the evacuation slide, preventing slide deployment during an 
+emergency, possibly resulting in reduced evacuation capacity from 
+the aeroplane and consequent injury to occupants.
+    Prompted by these findings, Airbus issued Alert Operators 
+Transmission (AOT) A25L009-16 to provide instructions to identify 
+and replace the affected slides.
+    Consequently, EASA issued AD 2016-0137, requiring identification 
+of the door 3, Type 1, slide installed on the aeroplane, and, 
+depending on findings, the replacement of the slide with a 
+serviceable part.
+    Since that [EASA] AD was issued, it was identified that affected 
+slides cannot be installed on aeroplanes embodying optional Airbus 
+mod 40161.
+    For the reason described above, this [EASA] AD is revised to 
+reduce the Applicability, by excluding aeroplanes that have embodied 
+Airbus mod 40161 in production.
+
+You may examine the MCAI on the Internet at http://www.regulations.gov 
+by searching for and locating Docket No. FAA-2016-9108.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission A25L009-16, dated 
+July 7, 2016. The service information describes procedures for the 
+identifying the part number and serial number of door 3, Type 1, escape 
+slides and replacing the escape slides. This service information is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+the ADDRESSES section.
+
+[[Page 63692]]
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+FAA's Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because 
+failure of an aspirator to inflate a door 3, Type 1, escape slide could 
+prevent deployment of the escape slide during an emergency, possibly 
+resulting in reduced evacuation capacity from the airplane and 
+consequent injury to occupants. Therefore, we determined that notice 
+and opportunity for public comment before issuing this AD are 
+impracticable and that good cause exists for making this amendment 
+effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2016-9108; Directorate 
+Identifier 2016-NM-133-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD based on 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 104 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+               Action                        Labor cost           Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+Inspection..........................  1 work-hour x $85 per                $0              $85           $8,840
+                                       hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacement 
+that will be required based on the results of the inspection. We have 
+no way of determining the number of airplanes that might need this 
+replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement..................................  2 work-hours x $85 per hour =           $45,000          $45,170
+                                                $170.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-19-06 Airbus: Amendment 39-18655; Docket No. FAA-2016-9108; 
+Directorate Identifier 2016-NM-133-AD.
+
+[[Page 63693]]
+
+(a) Effective Date
+
+    This AD becomes effective October 3, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1) through (c)(4) of this AD, 
+all manufacturer serial numbers, except those that have embodied 
+Airbus Modification 40161 in production.
+    (1) Airbus Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Airbus Model A330-301, -302, -303, -321, -322, -323, -341, -
+342, and -343 airplanes.
+    (3) Airbus Model A340-211, -212, and -213 airplanes.
+    (4) Airbus Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Reason
+
+    This AD was prompted by a report indicating that the aspirator 
+on certain door 3, Type 1, escape slides might have been damaged 
+because of incorrect packing during overhaul. We are issuing this AD 
+to detect and correct damaged aspirators on door 3, Type 1, escape 
+slides. Failure of an aspirator to inflate a door 3, Type 1, escape 
+slide could prevent deployment of the escape slide during an 
+emergency, possibly resulting in reduced evacuation capacity from 
+the airplane and consequent injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection To Determine Part Number and Serial Number
+
+    Within 30 days after the effective date of this AD: Do an 
+inspection to determine the part number and serial number of the 
+door 3, Type 1, escape slides on the left and right sides of the 
+airplane, in accordance with the instructions of Airbus Alert 
+Operators Transmission (AOT) A25L009-16, dated July 7, 2016. A 
+review of airplane maintenance records is acceptable in lieu of this 
+inspection if the part number and serial number of the door 3, Type 
+1, escape slides can be conclusively determined from that review.
+
+    Note 1 to paragraph (g) of this AD:  Airbus AOT A25L009-16, 
+dated July 7, 2016, lists the corresponding airplane manufacturer 
+serial numbers on which the affected slides (specified in table 1 to 
+paragraphs (g), (i), and (j) of this AD) were re-installed after the 
+last maintenance. That list of airplane manufacturer serial numbers 
+is for information only because a potentially affected slide might 
+have been removed from an airplane and later re-installed on another 
+airplane.
+
+
+   Table 1 to Paragraphs (g), (i), and (j) of This AD--Affected Slides
+------------------------------------------------------------------------
+          Slide part No.                      Slide serial No.
+------------------------------------------------------------------------
+7A1509-027........................  AD0918, AD0975, AD0979, AD1111, and
+                                     AD1155.
+7A1509-037........................  AD0488, AD0759, AD0942, AD0960,
+                                     AD1025, AD1033, AD1034, AD1080, and
+                                     AD1184.
+7A1509-123........................  AD1231, AD1232, AD1450, AD1565,
+                                     AD1730, AD1737, AD1805, AD1822, and
+                                     AD1860.
+7A1509-125........................  AD1769, AD1780, AD1781, AD1816,
+                                     AD1834, AD1841, AD1862, AD1869,
+                                     AD2066, AD2103, AD2104, AD2178,
+                                     AD2223, AD2263, AD2279, AD2301,
+                                     AD2407, AD2409, and AD2497.
+------------------------------------------------------------------------
+
+(h) Corrective Action
+
+    If, during the inspection required by paragraph (g) of this AD, 
+any door 3, Type 1, escape slide having a part number and a serial 
+number identified in table 1 to paragraphs (g), (i), and (j) of this 
+AD is found: At the applicable compliance time specified in 
+paragraph (h)(1) or paragraph (h)(2) of this AD, replace each 
+affected door 3, Type 1, escape slide with a serviceable escape 
+slide, in accordance with the instructions of Airbus Alert Operators 
+Transmission A25L009-16, dated July 7, 2016.
+    (1) For affected slides on both the left and right sides of the 
+airplane: Within 30 days after the effective date of this AD, after 
+identification as required by paragraph (g) of this AD, replace at 
+least one slide; and, within 10 months or 4,100 flight hours, 
+whichever occurs first after the effective date of this AD, replace 
+the second slide.
+    (2) For one affected slide on either the left or right side of 
+the airplane: Within 10 months or 4,100 flight hours, whichever 
+occurs first after the effective date of this AD, replace the slide.
+
+(i) Serviceable Escape Slide
+
+    For the purpose of this AD, a serviceable escape slide is a 
+brand new escape slide or one that has a part number and serial 
+number identified in table 1 to paragraphs (g), (i) and (j) of this 
+AD and was overhauled after May 1, 2016.
+
+(j) Parts Installation Limitation
+
+    As of the effective date of this AD, an affected slide having a 
+part number and serial number identified in table 1 to paragraphs 
+(g), (i), and (j) of this AD may be installed on any airplane at the 
+door 3, Type 1, position, provided it can be positively determined 
+that the slide was overhauled after May 1, 2016.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(l) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA Airworthiness Directive 2016-0137R1, dated July 21, 2016, for 
+related information. You may examine the MCAI on the Internet at 
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2016-9108.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A25L009-16, dated July 
+7, 2016.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For
+
+[[Page 63694]]
+
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on September 6, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-22178 Filed 9-15-16; 8:45 am]
+ BILLING CODE 4910-13-P

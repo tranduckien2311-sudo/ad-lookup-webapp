@@ -1,4 +1,4 @@
-const CACHE_NAME = "vjc-aeroad-pwa-v20";
+const CACHE_NAME = "vjc-aeroad-pwa-v21";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -12,7 +12,9 @@ const APP_SHELL = [
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).catch(() => {})
+    caches.open(CACHE_NAME).then((cache) =>
+      Promise.allSettled(APP_SHELL.map((url) => cache.add(url).catch(() => null)))
+    )
   );
   self.skipWaiting();
 });
@@ -32,7 +34,7 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
 
-  // Network-first for API and static app files, falling back to cache offline
+  // Network-first for API and static app files, falling back to cache offline cleanly
   event.respondWith(
     fetch(req)
       .then((res) => {
@@ -44,6 +46,7 @@ self.addEventListener("fetch", (event) => {
             url.pathname.endsWith(".html") ||
             url.pathname.endsWith(".css") ||
             url.pathname.endsWith(".js") ||
+            url.pathname.endsWith(".webmanifest") ||
             url.pathname.endsWith("/"))
         ) {
           const clone = res.clone();
@@ -51,6 +54,14 @@ self.addEventListener("fetch", (event) => {
         }
         return res;
       })
-      .catch(() => caches.match(req).then((cached) => cached || caches.match("./index.html")))
+      .catch(async () => {
+        const cached = await caches.match(req);
+        if (cached) return cached;
+        if (req.mode === "navigate") {
+          const shell = await caches.match("./index.html");
+          if (shell) return shell;
+        }
+        return Response.error();
+      })
   );
 });

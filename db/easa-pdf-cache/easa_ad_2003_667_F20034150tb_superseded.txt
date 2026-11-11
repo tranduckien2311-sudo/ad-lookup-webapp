@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE November 12, 2003 1/2 B No F-2003-415 This
+
+Airworthiness Directive is published by the DGAC : Translation of "consigne de navigabilité" of same Direction number. on behalf of EASA, the Primary Airworthiness Authority for the In case of difficulty, reference should be made to générale X affected product. the French text. de l’aviation as the Registration Airworthiness Authority for the affected civile aircraft. France No person may operate an aircraft to which an
+
+Airworthiness Directive applies, GSAC except in accordance with the requirements of that
+
+Airworthiness Directive, publication unless otherwise agreed with the Authority of the State of Registry.
+
+Airworthiness Directive(s) replaced: Corresponding foreign
+
+Airworthiness Directive(s): Not applicable 2002-529 dated October 30, 2002 Person in charge of airworthiness: Type(s): AIRBUS A330 aircraft D Type certificate(s) No. 184 TCDS No. 184 ATA chapter(s): Subject: E Fuselage - Reinforcement of circumferential joint of frame 53.3 53 D : 1. EFFECTIVITY AIRBUS A330 aircraft models -301, -321, -322, -323, -341, -342 and -343, all serial numbers, except those E on which AIRBUS modification 41652 has been embodied in production or AIRBUS Service Bulletin (SB) A330-53-3127 Revision 01 has been embodied in service. S 2. REASONS: During the fatigue tests (EF2) of the fuselage, initiation and development of cracks were evidenced at the circumferential joint of frame 53.3. R This situation, if not corrected, could lead to a reduction in the structural integrity of the fuselage. E This new
+
+Airworthiness Directive (AD): - takes up the requirements of AD 2002-529, P - renders mandatory the reduction of the modification embodiment threshold, and - introduces a new revision of this modification via Revision 01 of SB A330-53-3127 further to embodiment difficulties encountered in service. U 3. MANDATORY ACTIONS AND COMPLIANCE TIMES: S The following measures are rendered mandatory from November 09, 2002 [on the effective date of this AD irworthiness Directive2002-529]. Unless already accomplished, Before accumulation of 14,7900 flight cycles (FC) or 512,4100 flight hours (FH) since the first flight of the aircraft, whichever occurs first, reinforce the structure of the center fuselage at the upper circumferential joint of frame 53.3 (between LH stringer 13 and RH stringer 13), in accordance with the instructions given in SB A330-53-3127, Revision 01. …/… n/CG
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE B November 12, 2003 2/2 No F-2003-415 : In order to reduce the extent of the repairs and the downtime of the aircraft, it is recommended by Note 1 AIRBUS to embody SB A330-53-3127 Revision 01 at latest within the 7,06,900 FC or 24,5200 FH, whichever occurs first. : Embodiment of SB A330-53-3127 Revision 01 cancels the requirements of tasks ALI Note 2 (Airworthiness Limitations Items) 53-30-11 and 53-30-17. : The SB A330-53-3127 original issue should not be applied. The operators that have already Note 3 applied it should contact AIRBUS. 4. REFERENCE PUBLICATION: D AIRBUS Service Bulletin A330-53-3127 Revision 01 (Any later approved revision of this SB is acceptable). E 5. EFFECTIVE DATE: November 22, 2003. D 6. REMARK: For questions concerning the technical contents of this AD’s requirements, contact : E AIRBUS – Gérard MEUREY – Facsimile: 33 5 61 93 45 80. S R E P U S

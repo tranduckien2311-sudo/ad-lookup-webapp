@@ -1,0 +1,217 @@
+[Federal Register Volume 88, Number 106 (Friday, June 2, 2023)]
+[Rules and Regulations]
+[Pages 36236-36237]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-11705]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0434; Product Identifier 91-NM-255-AD; Amendment 
+39-22450; AD 92-02-14 R1]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; removal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is removing Airworthiness Directive (AD) 92-02-14, 
+which applied to certain Airbus SAS Model A320 series airplanes. AD 92-
+02-14 required inspection for correct installation of the flexible 
+control cables on the overwing emergency escape slides. The FAA issued 
+AD 92-02-14 to prevent failure of the overwing emergency escape slides 
+to deploy, which would compromise use of the exit during an emergency. 
+Since the FAA issued AD 92-02-14, no new occurrences of incorrect cable 
+installations have been reported, and existing maintenance activities 
+are adequate to prevent new occurrences. Therefore, the FAA has 
+determined that AD 92-02-14 is no longer necessary. Accordingly, AD 92-
+02-14 is removed.
+
+DATES: This AD becomes effective June 2, 2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-0434; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Validation Branch, FAA, 2200 South 216th St., Des Moines, 
+WA 98198; phone 206-231-3225; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by removing AD 92-02-14, Amendment 39-8150 (57 FR 5375, 
+February 14, 1992) (AD 92-02-14). AD 92-02-14 applied to certain Airbus 
+SAS Model A320 series airplanes. The NPRM was published in the Federal 
+Register on March 24, 2023 (88 FR 17751). The NPRM was prompted by the 
+determination that AD 92-02-14 is no longer necessary. AD 92-02-14 
+required inspection for correct installation of the flexible control 
+cables on the overwing emergency escape slides. The FAA issued AD 92-
+02-14 to prevent failure of the overwing emergency escape slides to 
+deploy, which would compromise use of the exit during an emergency. 
+Since the FAA issued AD 92-02-14, no new occurrences of incorrect cable 
+installations have been reported, and existing maintenance activities 
+are adequate to prevent new occurrences. The NPRM proposed to remove AD 
+92-02-14. The FAA is issuing this AD to remove AD 92-02-14.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from The Air Line Pilots Association, 
+International (ALPA), in support of the NPRM without change.
+
+[[Page 36237]]
+
+Justification for Determination of the Effective Date
+
+    Section 553(d) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to make rules effective in less than 
+thirty days, upon a finding of ``good cause.'' Since the FAA issued AD 
+92-02-14, no new occurrences of incorrect cable installations have been 
+reported, and existing maintenance activities are adequate to prevent 
+new occurrences. Therefore, the FAA is issuing this AD to remove AD 92-
+02-14, and the FAA did not receive any adverse comments or useful 
+information about this AD from U.S. operators that necessitates waiting 
+30 days for relief from this requirement. Accordingly, the FAA finds 
+that good cause exists pursuant to 5 U.S.C. 553(d) for making this 
+amendment effective in less than 30 days.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comment 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+    This AD removes all actions of AD 92-02-14. Therefore, the 
+requirements of AD 92-02-14 are terminated.
+
+Related Costs of Compliance
+
+    This AD adds no costs. This AD removes AD 92-02-14 from 14 CFR part 
+39; therefore, operators are no longer required to show compliance with 
+that AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 92-02-14, Amendment 39-8150 
+(57 FR 5375, February 14, 1992), and
+0
+b. Adding the following new AD:
+
+92-02-14 R1 Airbus SAS: Amendment 39-22450; Docket No. FAA-2023-
+0434; Product Identifier 92-NM-155-AD.
+
+(a) Effective Date
+
+    This AD is effective June 2, 2023.
+
+(b) Affected AD
+
+    This AD replaces AD 92-02-14, Amendment 39-8150 (57 FR 5375, 
+February 14, 1992).
+
+(c) Applicability
+
+    This action applies to Airbus Model A320-211, A320-212, and 
+A320-231 airplanes, certificated in any category, manufacturer 
+serial numbers 002 through 162 inclusive, 167, and 171 through 174 
+inclusive.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Terminating Action
+
+    This AD terminates all requirements of AD 92-02-14.
+
+(f) Related Information
+
+    For more information about this AD, contact Dan Rodina, 
+Aerospace Engineer, International Validation Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; phone 206-231-3225; email 
+[email protected].
+
+(g) Material Incorporated by Reference
+
+    None.
+
+    Issued on May 26, 2023.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2023-11705 Filed 6-1-23; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+AIRWORTHINESS United Kingdom DIRECTIVE Civil Aviation Authority
+
+AD No: G-2003-0004 Issue Date: 25 November 2003 This AD is issued by the UK CAA as the Primary Airworthiness Authority (ICAO Annex 8 Authority of State of Design) for the affected product(s). In accordance with Article 9(7)(b) of the Air Navigation Order 2000 as amended the following action required by this
+
+Airworthiness Directive (AD) is mandatory for applicable aircraft registered in the United Kingdom. No person may operate an aircraft to which an AD applies except in accordance with the requirements of that AD unless otherwise agreed with the Authority of the State of Registry. Type Approval Holders Name: Type/Model Designation(s): ROLLS-ROYCE plc RB211 Trent 700 CORRECTION to AD No G-2003-0004 dated 18 September 2003 Type Certificate Data Sheet No: 1050
+
+ATA 72 - ENGINE – GROUP A (CRITICAL) PARTS – FOCUSED INSPECTIONS
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: Model RB211 Trent 700 Series engines installed on, but not limited to, Airbus A330 aeroplanes certificated in any category.
+
+Reason: To prevent Group A (Critical) rotating engine part failure, which could result in an uncontained engine failure and damage to the aeroplane. Reason for correction: This correction has been issued to clarify that compliance action should only be carried out at an appropriate level of engine workshop visit, and to ensure common text with the Time Limits Manual reference.
+
+Effective Date: 26 September 2003 Compliance/Action: A Within 40 days from the effective date of this Directive, at each engine workshop visit inspect the Group A components listed in Table 1 of the Directive when these components are disassembled to piece-part level. This shall be carried out in accordance with the disassembly procedures contained in the Engine Manual and referenced in Time Limits Manual 05-20-01, dated 20 September 2002. The inspections to be carried out on these Group A components are those referred to as, “Focus Inspect” in the relevant Engine Manual inspection task, and are applicable when the following conditions are satisfied: (1) The component has been completely disassembled to piece-part level in accordance with the appropriate disassembly procedures contained in the Engine Manual, and ….. The part has accumulated in excess of 100 flight cycles in service since the last piece-part inspection, or ….. (2) The component removal was for damage or a cause directly related to its removal, or ….. (3) Where serviceable used components, for which the inspection history is not fully known, are being returned to service. continued on next page
+
+--- PAGE 2 ---
+AD No: G-2003-0004 page 2 of 2 The list of Group A Parts is specified below: Part Nomenclature Part No. Engine Manual Inspection Task Low Pressure Compressor Rotor Disc All 72-31-16-200-801 Low Pressure Compressor Rotor Shaft All 72-31-20-200-801 Intermediate Pressure Compressor Rotor Shaft All 72-32-31-200-801 Intermediate Pressure Rear Shaft All 72-33-21-200-801 High Pressure Compressor Rotor Shaft All 72-41-31-200-801 High Pressure Turbine Rotor Disc All 72-41-51-200-801 Intermediate Pressure Turbine Rotor Disc All 72-51-31-200-801 Intermediate Pressure Turbine Rotor Shaft All 72-51-33-200-801 Low Pressure Turbine Stage 1 Rotor Disc All 72-52-31-200-801 Low Pressure Turbine Stage 2 Rotor Disc All 72-52-31-200-802 Low Pressure Turbine Stage 3 Rotor Disc All 72-52-31-200-803 Low Pressure Turbine Stage 4 Rotor Disc All 72-52-31-200-804 Low Pressure Turbine Rotor Shaft All 72-52-33-200-801 Table 1 B Unless already accomplished, operators must amend their Approved Maintenance Programmes to reflect the inspection requirements stated above. C Operators must maintain records of the Mandatory inspections arising from this Directive, as they are accomplished throughout the life of each Group A component. Reference Publications: Rolls-Royce RB211 Trent 700 series Time Limits Manual Reference 05-20-01, dated 20 September 2002 or later CAA approved revision. Copies may be obtained from Rolls-Royce plc, Technical Publications, PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936.
+
+Remarks: Enquiries regarding this
+
+Airworthiness Directive should be directed to the Civil Aviation Authority, R Safety Regulation Group, Propulsion Department, Aviation House, Gatwick Airport South, West Sussex, RH6 0Y Phone: +44 (0) 1293 573856 Fax: +44 (0) 1293 573979 E-mail: pete.woollacott@srg.caa.co.uk.

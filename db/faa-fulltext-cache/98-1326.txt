@@ -1,0 +1,188 @@
+[Federal Register Volume 63, Number 13 (Wednesday, January 21, 1998)]
+[Rules and Regulations]
+[Pages 3031-3032]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 98-1326]
+
+
+
+[[Page 3031]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 97-ANE-29-AD; Amendment 39-10286; AD 98-02-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International CFM56-5B/2P Series 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to CFM International (CFMI) CFM56-5B/2P series turbofan 
+engines, that requires a reduction of the low cycle fatigue (LCF) 
+retirement life for certain low pressure turbine (LPT) cases. This 
+amendment is prompted by the results of a refined life analysis 
+performed by the manufacturer which revealed minimum calculated LCF 
+lives significantly lower than the published LCF retirement life. The 
+actions specified by this AD are intended to prevent a LCF failure of 
+the LPT case, which could result in damage to the aircraft.
+
+DATES: Effective March 23, 1998.
+
+ADDRESSES: This information may be examined at the Federal Aviation 
+Administration (FAA), New England Region, Office of the Regional 
+Counsel, 12 New England Executive Park, Burlington, MA; or at the 
+Office of the Federal Register, 800 North Capitol Street, NW., suite 
+700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Robert J. Ganley, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803-5299; telephone (781) 
+238-7138; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to CFM International (CFMI) CFM56-5B/
+2P series turbofan engines was published in the Federal Register on 
+September 19, 1997 (62 FR 49179). That action proposed to require a 
+reduction of the low cycle fatigue (LCF) retirement life for certain 
+low pressure turbine (LPT) cases.
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comment received.
+    One commenter supports the rule as proposed.
+    After careful review of the available data, including the comment 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule as proposed.
+    There are approximately 18 engines of the affected design in the 
+worldwide fleet. The manufacturer has advised the FAA that there are no 
+engines installed on U.S. registered aircraft that are affected by this 
+AD. Therefore, there is no associated cost impact on U.S. operators as 
+a result of this AD. However, should an affected engine be imported on 
+an aircraft and placed on the U.S. registry in the future, and assuming 
+that the parts cost is proportional to the reduction of the LCF 
+retirement life, the required parts would cost approximately $40,423 
+per engine. Based on these figures, the total cost impact of the AD is 
+estimated to be $40,423 per engine.
+    The regulations adopted herein will not have substantial direct 
+effects on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, in 
+accordance with Executive Order 12612, it is determined that this final 
+rule does not have sufficient federalism implications to warrant the 
+preparation of a Federalism Assessment.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+98-02-04  CFM International: Amendment 39-10286. Docket 97-ANE-29-
+AD.
+
+    Applicability: CFM International (CFMI) CFM56-5B1/2P, -5B2/2P, -
+5B3/2P, and -5B4/2P turbofan engines, installed with low pressure 
+turbine (LPT) case, Part Number (P/N) 338-117-004-0, installed on 
+but not limited to Airbus A320 and A321 series aircraft.
+
+    Note 1: This airworthiness directive (AD) applies to each engine 
+identified in the preceding applicability provision, regardless of 
+whether it has been modified, altered, or repaired in the area 
+subject to the requirements of this AD. For engines that have been 
+modified, altered, or repaired so that the performance of the 
+requirements of this AD is affected, the owner/operator must request 
+approval for an alternative method of compliance in accordance with 
+paragraph (e) of this AD. The request should include an assessment 
+of the effect of the modification, alteration, or repair on the 
+unsafe condition addressed by this AD; and, if the unsafe condition 
+has not been eliminated, the request should include specific 
+proposed actions to address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent a low cycle fatigue (LCF) failure of the LPT case, 
+which could result in damage to the aircraft, accomplish the 
+following:
+    (a) Remove from service LPT case, P/N 338-117-004-0, and replace 
+with a serviceable part, as follows:
+    (1) For CFM56-5B2/2P and -5B3/2P engines, prior to accumulating 
+10,500 cycles.
+    (2) For CFM56-5B1/2P and -5B4/2P engines, prior to accumulating 
+15,500 cycles.
+    (b) This action establishes the new LCF retirement lives of 
+10,500 and 15,500 cycles for the engines stated in paragraphs (a)(1) 
+and (a)(2) of this AD, which are published in Chapter 05 of CFM56-5B 
+Engine Shop Manual, CFMI-TP.SM.9.
+    (c) For the purpose of this AD, a ``serviceable part'' is one 
+that has not exceeded its respective new life limit as set out in 
+this AD.
+    (d) Except as provided in paragraph (e) of this AD, no 
+alternative replacement times may be approved for LPT case, P/N 338-
+117-004-0.
+    (e) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Engine Certification Office. The 
+request should be forwarded through an appropriate FAA Principal 
+Maintenance Inspector, who may add comments and then send it to the 
+Manager, Engine Certification Office.
+
+
+[[Page 3032]]
+
+
+    Note 2: Information concerning the existence of approved 
+alternative methods of compliance with this airworthiness directive, 
+if any, may be obtained from the Engine Certification Office.
+
+    (f) Special flight permits may be issued in accordance with 
+sections 21.197 and 21.199 of the Federal Aviation Regulations (14 
+CFR 21.197 and 21.199) to operate the aircraft to a location where 
+the requirements of this AD can be accomplished.
+    (g) This amendment becomes effective on March 23, 1998.
+
+    Issued in Burlington, Massachusetts, on January 7, 1998.
+Jay J. Pardee,
+Manager, Engine and Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 98-1326 Filed 1-20-98; 8:45 am]
+BILLING CODE 4910-13-U

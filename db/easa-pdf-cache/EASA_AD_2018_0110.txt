@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0110
+
+Airworthiness Directive
+
+AD No.: 2018-0110
+
+Issued: 18 May 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 and A321 aeroplanes
+
+Effective Date: 31 May 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 72 – Engine – Modification
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A320-271N, A321-271N, A321-272N, A321-271NX and A321-272NX aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected FADEC EEC: A Full Authority Digital Engine Control (FADEC) Electronic Engine Controller (EEC) with a Part Number (P/N) listed in Appendix 1. Groups: Group 1 aeroplanes are those that have an affected FADEC EEC installed. Group 2 aeroplanes are those that do not have an affected FADEC EEC installed. The SB: Airbus Service Bulletin (SB) A320-73-1128.
+
+Reason: During certification test flights of an A320-271N aeroplane, it has been identified that, when operated at low speed and high engine thrust, the tested engine did not re-start in case of a fuel Page 1 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0110 interruption shorter than 5 seconds. Investigation revealed that this was due to the software logic implemented in the FADEC EEC of affected A320 family models. This condition, if not corrected, could prevent restart of a shut down engine while operating in high power conditions. To address this potentially unsafe condition, software (SW) standard FCS4.4 for the FADEC EEC has been developed, and Airbus published the SB providing modification instructions. For the reasons described above, this AD requires modification of aeroplanes by installation of this FADEC EEC SW standard.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) For Group 1 aeroplanes: Within 30 days after the effective date of this AD, modify the aeroplane by replacing the FADEC EECs installed on both engines, with FADEC EECs P/N 5327582 (SW standard FCS4.4), in accordance with the instructions of the SB (see Note 1 of this AD). Note 1: the SB provides instructions to accomplish the modification required by paragraph (1) of this AD by replacing the FADEC EEC, or by uploading SW standard FCS4.4 and re-identifying accordingly the FADEC EEC P/N. Part(s) Installation: (2) Within 30 days after the effective date of this AD, it is allowed to install an affected FADEC EEC on an aeroplane, provided that, after that installation, that affected FADEC EEC is replaced as required by paragraph (1) of this AD. (3) After 30 days from effective date of this AD, do not install an affected FADEC EEC on any aeroplane. Credit: (4) An aeroplane on which Airbus modification 163473 has been embodied in production is not affected by the requirements of paragraph (1) of this AD, provided it is determined that no affected FADEC EEC is installed on that aeroplane.
+
+Ref. Publications: Airbus SB A320-73-1128 original issue dated 15 May 2018, or revision 01 dated 17 May 2018. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. Page 2 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0110 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com . Page 3 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2018-0110 Appendix 1 Affected FADEC EEC P/N 5315126 5315126SK02 5323434 5323745 5323746 5324836 5324836-001 5324836-002 5324837 5325185 5325971 5325975 Page 4 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

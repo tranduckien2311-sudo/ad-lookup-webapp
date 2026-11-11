@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-207-048(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Jamming of passenger doors This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all models without AIRBUS INDUSTRIE modification 22422 or AIRBUS INDUSTRIE Service Bulletin A320-52-1027 limited to the installation of kit number 521027A02 on all doors. In order to prevent the possible non opening of passenger doors in case of an emergency evacuation, due to improper bonding and the subsequent possibility of bush migration in the door opening mechanism, the following actions are rendered mandatory : 1. Within 450 flight hours following December 18, 1993 unless already accomplished, inspect each passenger door in order to check the correct positioning of both suspect bushes as per the instructions given in AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-04 Revision 1 dated October 12, 1993 or AIRBUS INDUSTRIE Service Bulletin A320-52-1047. 2. Depending on first inspection findings, repeat the inspection defined in paragraph 1 of this
+
+Airworthiness Directive according to intervals defined in paragraph 4.2 of AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-04 Revision 1 or AIRBUS INDUSTRIE Service Bulletin A320-52-1047 until accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-52-1027 limited to the installation of kit number 521027A02 on all doors. 3. Within 3,500 flight hours after December 18, 1993 unless already accomplished, install shouldered bushings of kit number 521027A02 as per the instructions given in AIRBUS INDUSTRIE Service Bulletin A320-52-1027. No further action is required after the accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-52-1027 limited to the installation of kit number 521027A02. …/… n/C AIRBUS INDUSTRIE July 20, 1994 93-207-048(B) R1 A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 93-207-048(B) R1 Page n° 2 GSAC NOTE : The inspection required by either AIRBUS INDUSTRIE A320/AOT/52-04 revision 1 or by AIRBUS INDUSTRIE Service Bulletin A320-52-1047 is identical. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-52-1027 (or any other later approved revision) AIRBUS INDUSTRIE Service Bulletin A320-52-1047 (or any other later approved revision) AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-04 Revision 1 dated October 12, 1993 The present Revision 1 replaces original AD 93-207-048(B) dated December 08, 1993. EFFECTIVE DATES : Original AD : DECEMBER 18, 1993 Revision 1 : JULY 30, 1994

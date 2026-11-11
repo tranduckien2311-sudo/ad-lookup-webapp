@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0147
+
+Airworthiness Directive
+
+AD No.: 2018-0147
+
+Issued: 13 July 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the d continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): e AIRBUS A330 aeroplanes
+
+Effective Date: 27 July 2018 TCDS Numbers: EASA.A.004 d Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2015-0212 dated 04 November 2015. e
+
+ATA 53 – Fuselage – Cabin and Cargo Compartments Structural Parts – Inspection / Replacement s
+
+Manufacturer(s): r Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 e aeroplanes, manufacturer serial numbers 1175, 1180, 1287 through 1475 inclusive, 1478, 1480, 1483 and 1506 inclusive. Definition(s): p For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A330-53-3227 original issue (or later approved revisions) for cargo compartment structure and SB A330-53-3228 Revision 01 (or later approved revisions) for cabin compartment structure, as applicable. u Affected Part: Improperly heat-treated structural parts, as identified in the applicable SB. S Page 1 of 3 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0147
+
+Reason: It was determined that several structural parts, intended for cargo or cabin compartment installation, were manufactured from improperly heat-treated materials. A subsequent review identified that some of those parts were installed on aeroplanes manufactured between November 2011 and February 2013. Consequently, Airbus implemented measures into manufacturing processes to ensure detection and to prevent further installation of such non-conforming parts. A detailed safety assessment was accomplished to identify the possible impact of these parts on the aeroplane structure. The result of this structural analysis demonstrated the capability of the affected structure to sustain static limit loads, but failed to confirm that the affected structures d meet the certified fatigue life. This condition, if not detected and corrected, could lead to crack initiation and propagation, possibly resulting in reduced structural integrity of the fuselage. e To address this unsafe condition, Airbus published the applicable SBs to provide inspection instructions for affected structural cargo and cabin parts, respectively. Consequently, EASA issued AD 2015-0212 to require a one-time special detailed inspection (SDI) to measure the electrical conductivity of affected parts, to identify the presence or absence of heat treatment, and, d depending on findings, applicable corrective action(s). Since that AD was issued, Airbus identified that some additional affected parts, located in the cabin compartment structure, have been missed and need to be inspected. Consequently, Airbus issued e SB A330-53-3228 Revision 01 to introduce the locations of those missed structural parts to be inspected. For the reasons described above, this AD retains the requirements of EASA AD 2015-0212, which is s superseded, and expands the number and locations of structural parts to be inspected.
+
+Required Action(s) and Compliance Time(s): r Required as indicated, unless accomplished previously: Inspection: (1) Before exceeding 72 months since aeroplane first flight, accomplish a one-time SDI to measure e the electrical conductivity of each affected part to determine the presence or absence of heat treatment in accordance with the instructions of the applicable SB. Additional Work: (2) For an aeroplane on which, before the effective date of this AD, the cabin compartment p structure was already inspected and corrected in accordance with the instructions of Airbus SB A330-53-3228 original issue, as previously required by EASA AD 2015-0212, before exceeding 108 months since aeroplane first flight, accomplish an SDI of the additional affected parts in accordance with the instructions identified as “additional work” in Airbus SB A330-53-3228 u Revision 01. Corrective Action(s): (3) If, during the SDI as required by paragraph (1) or (2) of this AD, as applicable, an affected part is identified as manufactured from improperly heat-treated materials, before next flight, S Page 2 of 3 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0147 accomplish the corrective action, as specified in paragraph (3.1) or (3.2) of this AD, as applicable. (3.1) Contact Airbus for approved instructions and, within the compliance time specified in those instructions, replace the affected part accordingly. (3.2) Replace the affected part with a serviceable part in accordance with the instructions of the applicable SB. d
+
+Ref. Publications: Airbus SB A330-53-3227 original issue dated 18 August 2015, or Revision 01 dated 05 July 2016. Airbus SB A330-53-3228 original issue dated 18 August 2015, or Revision 01 dated 11 April 2018. e The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: d 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 23 May 2018 as PAD 18-073 for consultation until 20 June 2018. The e Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, s Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be r similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. e 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. p u S Page 3 of 3 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

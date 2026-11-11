@@ -1,0 +1,50 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0019
+
+Airworthiness Directive
+
+AD No.: 2018-0019
+
+Issued: 26 January 2018
+
+Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name:
+
+Type/Model designation(s): ROLLS-ROYCE plc RB211 Trent 700 engines
+
+Effective Date: 09 February 2018 TCDS Number(s): EASA.E.042
+
+Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 72 – Engine – Critical Parts – Reduction of Declared Safe Cyclic Life
+
+Manufacturer(s): Rolls-Royce plc (RR)
+
+Applicability: RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, all serial numbers. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: The NMSB: RR Alert Non-Modification Service Bulletin (NMSB) RB.211-72-AJ305. Although the NMSB has an ‘A’ (Alert) in the number, a later revision may not have that ‘A’, which does not effectively alter the publication references in this AD. NSO: Non-Standard Operations (NSO), as defined in the Time Limits Manual (TLM), sub-task 05-00-01-890-040. The TLM: RR Trent 700 TLM, which contains the declared safe cyclic lives (DSCL) and provides instructions on how to determine the flight profiles and whether standard operations or NSO are conducted. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0019 Zero time part: Critical parts, having a Part Number (P/N) with a DSCL of zero standard duty cycles (SDC), as defined in the TLM. Serviceable part: A low pressure (LP) turbine shaft P/N FK14385 that has not exceeded 8 800 SDC since new (first installation on an engine), or any other LP turbine shaft, having a P/N listed in the TLM, that has not exceeded its DSCL.
+
+Reason: Prompted by evidence, indicating that engines are operated outside of the assumptions used in establishing the approved lives of engine critical parts, RR identified the need to introduce a revised flight profile. This encompasses all historical operation of Trent 700 engines from the available data, with margin for future operation. Introduction of this new flight profile has resulted in a reduction of the DSCL for a LP turbine shaft, P/N FK14385. Additionally, for a number of other P/Ns, which are obsolete and should no longer be in service, the life was reduced to zero. Furthermore, Beta factors should be applied to determine the life of critical parts. This, however, applies only to engines used on NSO and operated using flight profiles M1 and M2. Failure to implement these critical parts limitations could lead to failure of a part, possibly resulting in damage to, and reduced control of, the aeroplane. To address this potential unsafe condition, RR have revised the TLM and published the NMSB, introducing the reduced lives and providing instructions to replace these critical parts. For the reason described above, this AD requires implementation of the reduced life of LP turbine shafts, P/N FK14385, and to remove the obsolete P/Ns from service. This AD also requires, for engines used on NSO, to ensure that an assessment of critical parts in service is conducted, and that the use of Beta factors is applied.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Identification / Removal from Service: (1) Within 100 SDC or 30 days, whichever occurs first after the effective date of this AD, identify each zero time part and remove that part from service. Life Limit Implementation: (2) From the effective date of this AD, before each LP turbine shaft P/N FK14385 exceeds 8 800 SDC since new, or within 100 SDC after the effective date of this AD, whichever occurs later, replace the part with a serviceable part. (3) For engines used on NSO, within 30 days after the effective date of this AD, review the engine service utilisation since new, amend the critical parts remaining lives accordingly, and, thereafter, apply the appropriate Beta factor(s) for critical part life consumption in accordance with the instructions of Section 3.A.(4) of the NMSB. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0019 Parts Installation: (4) From the effective date of this AD, do not install a zero time part on any engine. For details, refer to Section 3.A.(1) of the NMSB.
+
+Ref. Publications: Rolls-Royce Alert NMSB RB.211-72-AJ305 dated 8 November 2017, or Revision 1 dated 03 January 2018. Rolls-Royce Trent 700 TLM, including changes up to and including dated 10 December 2017. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 12 December 2017 as PAD 17-167 for consultation until 09 January 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. If you do not have a designated representative or Rolls-Royce Care account, please contact Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424, or send an email through http://www.rolls-royce.com/contact/civil_team.jsp identifying the correspondence as being related to
+
+Airworthiness Directives. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

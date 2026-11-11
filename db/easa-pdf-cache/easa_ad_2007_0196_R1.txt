@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007-0196 R1 Date: 15 October 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s): Type Approval Holder’s Name: ROLLS-ROYCE PLC RB211 Trent 700 series engines d TCDS Number: EASA E.042 Foreign AD: Not applicable e Revision: This
+
+Airworthiness Directive (AD) revises EASA Emergency AD 2007-0196-E dated 20 l July 2007 and the correction dated 24 July 2007. l
+
+ATA 72 Engine - Engine Electronic Controller (EEC) - Inspection e Manufacturer: Rolls-Royce PLC c
+
+Applicability: Models RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines fitted with EECs with the following serial numbers: BX90438, BX90440, BX90427 and BX90447. n These engines are known to be installed on, but not limited to, Airbus A330 series aeroplanes.
+
+Reason: This AD requires the de-pairing on aircraft of Engine Electronic a Controllers (EEC) which may contain faulty lightning strike protection devices. The supplier has discovered that a batch of lightning strike protection devices have been suffering from premature failure during unit manufacture. This condition may result in dormant deterioration or loss of the lightning strike protection functionality. If both channels of the EEC C are affected, a lightning strike may result in an engine shutdown. There is also the potential for a common mode dual engine effect leading to dual engine shutdown. This AD has been revised following Rolls-Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-73-AF651 Revision 2, which lists a reduced applicability. A number of the previously affected EECs have been reworked by the supplier and are no longer subject to the requirements of this AD. 1/2
+
+--- PAGE 2 ---
+Effective Date: 23 July 2007 Compliance: Within 3 flights or 10 flight hours after the effective date of this AD, whichever is sooner, carry out the following action: (1) Identify the affected Engine Electronic Controls units as defined in Applicability (above). (2) De-pair units to ensure no two affected units are fitted to the same aircraft. For detailed instructions refer to Rolls-Royce NMSB RB211-73-AF651 Revision 2 section 3. Accomplishment Instructions.
+
+Ref. Publications: Rolls-Royce RB211 Propulsion System Alert Non Modification Service Bulletin RB211-73-AF651 Revision 2.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance for this AD. d 2. The safety assessment has requested not to implement the full consultation process and an immediate publication and notification. e 3. Enquiries regarding this AD should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu l 4. For any questions concerning the technical content of the l requirements in this AD, please contact Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936. e c n a C 2/2

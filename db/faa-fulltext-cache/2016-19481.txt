@@ -1,0 +1,529 @@
+[Federal Register Volume 81, Number 161 (Friday, August 19, 2016)]
+[Rules and Regulations]
+[Pages 55362-55366]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-19481]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-8463; Directorate Identifier 2014-NM-226-AD; 
+Amendment 39-18612; AD 2016-16-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2013-20-11, 
+for all Airbus Model A318, A319, A320, and A321 series airplanes. AD 
+2013-20-11 required modifying the passenger emergency oxygen container 
+assembly. This new AD expands the affected group of oxygen containers 
+to include those labeled ``DAe Systems.'' This AD was prompted by a 
+determination that the unsafe condition also affects oxygen containers 
+labeled ``DAe Systems.'' We are issuing this AD to prevent a high 
+temperature oxygen generator and mask from falling down and possibly 
+resulting in an ignition source in the passenger compartment, injury to 
+passengers, and reduced availability of supplemental oxygen.
+
+DATES: This AD is effective September 23, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of December 2, 
+2013 (78 FR 64162, October 28, 2013).
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet http://www.airbus.com.
+    You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+8463.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+8463; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116,
+
+[[Page 55363]]
+
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 
+98057-3356; telephone 425-227-1405; fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2013-20-11, Amendment 39-17617 (78 FR 64162, 
+October 28, 2013) (``AD 2013-20-11''). AD 2013-20-11 applied to all 
+Model A318, A319, A320, and A321 series airplanes. The NPRM published 
+in the Federal Register on January 20, 2016 (81 FR 3061) (``the 
+NPRM''). The NPRM was prompted by a determination that the unsafe 
+condition also affects oxygen containers labeled ``DAe Systems.'' The 
+NPRM proposed to continue to require modifying the passenger emergency 
+oxygen container assembly. The NPRM also proposed to expand the 
+affected group of oxygen containers to include those labeled ``DAe 
+Systems.'' We are issuing this AD to prevent a high temperature oxygen 
+generator and mask from falling down and possibly resulting in an 
+ignition source in the passenger compartment, injury to passengers, and 
+reduced availability of supplemental oxygen.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2014-0207, dated September 16, 2014 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition. The MCAI states:
+
+    It was determined that oxygen generators, installed on a 
+specific batch of Type 1 (22 min) passenger emergency oxygen 
+container assemblies, may become detached by extreme pulling of the 
+mask tube at the end of oxygen supply. Investigations revealed that 
+such detachment can be caused by the increase in temperature towards 
+the end of the generator operation, which may weaken the plastic 
+housing in the attachment area of the bracket.
+    This condition, if not corrected, could make the rivets slip 
+through the plastic housing, causing a `hot' oxygen generator and 
+mask to fall down, possibly resulting in injury to passengers.
+    To address this potential unsafe condition, EASA issued AD 2012-
+0055 (later revised) [which corresponds to FAA AD 2013-20-11, 
+Amendment 39-17617 (78 FR 64162, October 28, 2013)] to require 
+modification of the affected oxygen container assemblies. That 
+[EASA] AD also prohibited installation of unmodified containers on 
+any aeroplane as replacement parts.
+    Since that [EASA] AD was issued, it was found that the affected 
+containers have not only been marked with company name B/E 
+Aerospace, as was specified, but also, for a brief period, with the 
+former company name DAe Systems.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2012-0055R1, which is superseded, and 
+expands the affected group of containers to include those that have 
+the name ``DAe Systems'' on the identification plate.
+    This [EASA] AD also clearly separates the serial number (s/n) 
+groups of containers into those manufactured by B/E Aerospace and 
+those manufactured by DAe Systems, for which additional compliance 
+time is provided.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+8463.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM or on the determination of 
+the cost to the public.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD as proposed except for 
+minor editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Costs of Compliance
+
+    We estimate that this AD affects 4 airplanes of U.S. registry.
+    The actions required by AD 2013-20-11 and retained in this AD take 
+about 2 work-hours per product, at an average labor rate of $85 per 
+work-hour. Based on these figures, the estimated cost of the actions 
+that are required by AD 2013-20-11 is $170 per product.
+    We also estimate that it would take about 2 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $680, or $170 per product.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all available costs in our 
+cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2013-20-11, Amendment 39-17617 (78
+
+[[Page 55364]]
+
+FR 64162, October 28, 2013), and adding the following new AD:
+
+2016-16-14 Airbus: Amendment 39-18612; Docket No. FAA-2015-8463; 
+Directorate Identifier 2014-NM-226-AD.
+
+(a) Effective Date
+
+    This AD is effective September 23, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2013-20-11, Amendment 39-17617 (78 FR 64162, 
+October 28, 2013) (``AD 2013-20-11'').
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, specified in paragraphs (c)(1) through (c)(4) of this AD, 
+all manufacturer serial numbers.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen.
+
+(e) Reason
+
+    This AD was prompted by a determination that oxygen generators 
+installed on a certain batch of passenger emergency oxygen container 
+assemblies might become detached by extreme pulling of the mask tube 
+at the end of the oxygen supply causing a high temperature oxygen 
+generator and mask to fall down. This AD was also prompted by a 
+determination that the unsafe condition affects oxygen containers 
+labeled ``DAe Systems.'' We are issuing this AD to prevent a high 
+temperature oxygen generator and mask from falling down and possibly 
+resulting in an ignition source in the passenger compartment, injury 
+to passengers, and reduced availability of supplemental oxygen.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Oxygen Container Assembly Modification, With Service 
+Information Referenced in a New Paragraph
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2013-20-11 with service information referenced in a new paragraph. 
+Except as specified in paragraphs (g)(1), (g)(2), and (g)(3) of this 
+AD, within 5,000 flight cycles, or 7,500 flight hours, or 24 months, 
+whichever occurs first, after December 2, 2013 (the effective date 
+of AD 2013-20-11): Modify each type 1 (22 minute) passenger 
+emergency oxygen container assembly installed on an airplane, having 
+a part number (P/N) listed in paragraph (g)(1)(i) of this AD and a 
+serial number (S/N) listed in paragraph (g)(1)(ii) of this AD, in 
+accordance with the Accomplishment Instructions of the applicable 
+Airbus service information specified in paragraphs (k)(1) through 
+(k)(7) of this AD.
+    (1) An oxygen container that has a part number listed in 
+paragraph (g)(1)(i) of this AD and a serial number as listed in 
+paragraph (g)(1)(ii) of this AD, and that has been modified using 
+the instructions of B/E Aerospace Service Bulletin 1XC22-0100-35-
+006, is compliant with the modification requirement of paragraph (g) 
+of this AD.
+    (i) Oxygen container part numbers listed in paragraphs 
+(g)(1)(i)(A) through (g)(1)(i)(D) of this AD, where xxxxx stands for 
+an alphanumerical value.
+    (A) 13C22Lxxxxx0100.
+    (B) 13C22Rxxxxx0100.
+    (C) 14C22Lxxxxx0100.
+    (D) 14C22Rxxxxx0100.
+    (ii) Oxygen container serial numbers listed in paragraphs 
+(g)(1)(ii)(A) through (g)(1)(ii)(H) of this AD.
+    (A) ARBC-0182 to ARBC-9999, inclusive.
+    (B) ARBD-0000 to ARBD-9999, inclusive.
+    (C) ARBE-0000 to ARBE-9999, inclusive.
+    (D) BEBF-0000 to BEBF-9999, inclusive.
+    (E) BEBH-0000 to BEBH-9999, inclusive.
+    (F) BEBK-0000 to BEBK-9999, inclusive.
+    (G) BEBL-0000 to BEBL-9999, inclusive.
+    (H) BEBM-0000 to BEBM-0454, inclusive.
+    (2) Airplanes on which Airbus Modification 150704 has not been 
+embodied in production are excluded from the requirements of 
+paragraph (g) of this AD, unless an oxygen container with a part 
+number listed in paragraph (g)(1)(i) of this AD and a serial number 
+listed in paragraph (g)(1)(ii) of this AD is installed.
+    (3) Airplanes on which Airbus Modification 150704 has been 
+embodied in production and that are not listed by model and 
+manufacturer serial number in the applicable Airbus service 
+information specified in paragraphs (k)(1) through (k)(7) of this 
+AD; are excluded from the requirements of paragraph (g) of this AD, 
+unless an oxygen container with a part number listed in paragraph 
+(g)(1)(i) of this AD and a serial number listed in paragraph 
+(g)(1)(ii) of this AD is installed.
+
+    Note 1 to paragraph (g) of this AD: The oxygen container 
+assemblies listed in paragraph (g)(1)(i) of this AD and paragraph 
+(g)(1)(ii) of this AD are B/E Aerospace products with the mark ``B/E 
+AEROSPACE'' on the identification plate.
+
+(h) Retained Parts Installation Limitation, With Service Information 
+Referenced in a New Paragraph
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2013-20-11 with service information referenced in a new paragraph. 
+As of December 2, 2013 (the effective date of AD 2013-20-11), no 
+person may install, on any airplane, an oxygen container with a part 
+number listed in paragraph (g)(1)(i) of this AD, and serial number 
+listed in paragraph (g)(1)(ii) of this AD, unless the oxygen 
+container has been modified according to the applicable Airbus 
+service information specified in paragraphs (k)(1) through (k)(7) of 
+this AD.
+
+(i) New Requirement of This AD: Modification of Additional Oxygen 
+Containers
+
+    At the applicable times specified in paragraphs (i)(1) and 
+(i)(2) of this AD: Modify each type 1 (22 minute) passenger 
+emergency oxygen container assembly installed on an airplane, having 
+a part number and a serial number listed in paragraph (j) of this 
+AD, in accordance with the Accomplishment Instructions of the 
+applicable Airbus service information specified in paragraphs (k)(1) 
+through (k)(7) of this AD; except as specified in paragraph (l) of 
+this AD.
+    (1) For units with ``B/E AEROSPACE'' on the identification plate 
+and having a part number and a serial number listed in paragraph 
+(j)(1) of this AD: Within 5,000 flight cycles, or 7,500 flight 
+hours, or 24 months, whichever occurs first after the effective date 
+of this AD.
+    (2) For units with ``DAe Systems'' on the identification plate 
+and having a part number and a serial number listed in paragraph 
+(j)(2) of this AD: Within 2,500 flight cycles, or 3,750 flight 
+hours, or 12 months, whichever occurs first after the effective date 
+of this AD.
+
+(j) New Part Numbers and Serial Numbers for the Parts Affected by 
+Paragraph (i) of This AD
+
+    Affected parts for the actions required by paragraph (i) of this 
+AD are identified in paragraphs (j)(1) and (j)(2) of this AD.
+    (1) For oxygen containers with ``B/E AEROSPACE'' on the 
+identification plate: Units having a part number identified in 
+paragraphs (j)(1)(i) through (j)(1)(iv) of this AD, where part 
+number ``xxxxx'' stands for any alphanumerical value, and a serial 
+number of BEBM-0455 to BEBM-9999, inclusive.
+    (i) 13C22Lxxxxx0100.
+    (ii) 13C22Rxxxxx0100.
+    (iii) 14C22Lxxxxx0100.
+    (iv) 14C22Rxxxxx0100.
+    (2) For oxygen containers with ``DAe Systems'' on the 
+identification plate: Units having a part number identified in 
+paragraphs (j)(1)(i) through (j)(1)(iv) of this AD, where part 
+number ``xxxxx'' stands for any alphanumerical value, and a serial 
+number identified in paragraphs (j)(2)(i) through (j)(2)(iv) of this 
+AD.
+    (i) ARBC-0000 to ARBC-9999 inclusive.
+    (ii) ARBD-0000 to ARBD-9999 inclusive.
+    (iii) ARBE-0000 to BEBE-9999 inclusive.
+    (iv) BEBE-0000 to BEBE-9999 inclusive.
+
+(k) Service Information for the Requirements of Paragraphs (g), (h), 
+(i), and (m) of This AD
+
+    Accomplish the requirements specified in paragraphs (g), (h), 
+(i), and (m) of this AD in accordance with the Accomplishment 
+Instructions of the applicable Airbus service information identified 
+in paragraphs (k)(1) through (k)(7) of this AD.
+    (1) Airbus Service Bulletin A320-35-1049, dated June 15, 2011.
+    (2) Airbus Service Bulletin A320-35-1053, dated June 15, 2011.
+    (3) Airbus Service Bulletin A320-35-1054, dated June 15, 2011.
+    (4) Airbus Service Bulletin A320-35-1055, dated June 15, 2011.
+    (5) Airbus Service Bulletin A320-35-1056, dated June 15, 2011.
+    (6) Airbus Service Bulletin A320-35-1057, dated June 15, 2011.
+    (7) Airbus Service Bulletin A320-35-1058, dated June 15, 2011.
+
+[[Page 55365]]
+
+(l) New Exceptions to the Requirements of Paragraph (i) of This AD
+
+    (1) An oxygen container that has a part number and a serial 
+number listed in paragraph (j) of this AD, and that has been 
+modified as specified in B/E Aerospace Service Bulletin 1XC22-0100-
+35-006, is compliant with the modification requirement of paragraph 
+(i) of this AD.
+    (2) Airplanes on which Airbus Modification 150704 has not been 
+embodied in production are excluded from the requirements of 
+paragraph (i) of this AD, unless an oxygen container with a part 
+number and a serial number listed in paragraph (j) of this AD is 
+installed.
+    (3) Airplanes on which Airbus Modification 150704 has been 
+embodied in production and that are not listed by model and 
+manufacturer serial number in the Airbus service information 
+specified in paragraphs (k)(1) through (k)(7) of this AD, as 
+applicable, are excluded from the requirements of paragraph (i) of 
+this AD, unless an oxygen container with a part and a serial number 
+listed in paragraph (j) of this AD is installed.
+    (4) Airplanes on which the design of the passenger oxygen 
+container is not Design A, as defined in figure 1 to paragraph 
+(l)(4) of this AD, are excluded from the requirements of paragraph 
+(i) of this AD for that passenger oxygen container.
+
+    Note 2 to paragraph (l)(4) of this AD: For ``Design A,'' the 
+placard on the passenger oxygen container test button is as 
+described in ``Picture A'' in figure 1 to paragraph (l)(4) of this 
+AD. The mask configuration (``ZZ'' in ``Picture A'') is a number, 
+and the test button is as shown in ``Picture B.''
+
+BILLING CODE 4910-13-C
+[GRAPHIC] [TIFF OMITTED] TR19AU16.002
+
+BILLING CODE 4910-13-P
+
+(m) New Requirement of This AD: Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install, on 
+any airplane, an oxygen container with a part number and a serial 
+number listed in paragraph (j) of this AD, unless the oxygen 
+container has been modified in accordance with the Accomplishment 
+Instructions of the applicable Airbus service information specified 
+in paragraphs (k)(1) through (k)(7) of this AD.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+
+[[Page 55366]]
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (ii) AMOCs approved previously for AD 2013-20-11 are approved as 
+AMOCs for the corresponding provisions of paragraphs (g) and (h) of 
+this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(o) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA AD 2014-0207, dated September 16, 2014, for related 
+information. This MCAI may be found in the AD docket on the Internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2015-8463.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 2, 2013 (78 FR 64162, October 28, 2013).
+    (i) Airbus Service Bulletin A320-35-1049, dated June 15, 2011.
+    (ii) Airbus Service Bulletin A320-35-1053, dated June 15, 2011.
+    (iii) Airbus Service Bulletin A320-35-1054, dated June 15, 2011.
+    (iv) Airbus Service Bulletin A320-35-1055, dated June 15, 2011.
+    (v) Airbus Service Bulletin A320-35-1056, dated June 15, 2011.
+    (vi) Airbus Service Bulletin A320-35-1057, dated June 15, 2011.
+    (vii) Airbus Service Bulletin A320-35-1058, dated June 15, 2011.
+    (4) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: [email protected]; Internet 
+http://www.airbus.com.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+    Issued in Renton, Washington, on August 3, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-19481 Filed 8-18-16; 8:45 am]
+BILLING CODE 4910-13-P

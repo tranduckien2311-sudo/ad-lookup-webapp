@@ -1,0 +1,409 @@
+[Federal Register Volume 86, Number 166 (Tuesday, August 31, 2021)]
+[Rules and Regulations]
+[Pages 48488-48490]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-18703]
+
+
+
+[[Page 48488]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-0128; Project Identifier MCAI-2020-01406-T; 
+Amendment 39-21687; AD 2021-17-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A321-211, -231, and -232 airplanes. This AD 
+was prompted by a report of false drill starts found around the latch 
+hook mounting holes of certain door frames of the fuselage due to 
+erroneous manufacturing processes. This AD requires a one-time 
+inspection of the area around the latch hook mounting holes of the 
+forward and aft door frames to detect damage from false drill starts, 
+and repair if necessary, as specified in a European Union Aviation 
+Safety Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 5, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 5, 
+2021.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195. It is also available in 
+the AD docket on the internet at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2021-0128.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2021-
+0128; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0222, dated October 14, 2020 
+(EASA AD 2020-0222) (also referred to as the Mandatory Continuing 
+Airworthiness Information, or the MCAI), to correct an unsafe condition 
+for certain Airbus SAS Model A321-211, -231, and -232 airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A321-211, -231, and -232 airplanes. The NPRM published in the 
+Federal Register on March 8, 2021 (86 FR 13229). The NPRM was prompted 
+by a report of false drill starts found around the latch hook mounting 
+holes of certain door frames of the fuselage due to erroneous 
+manufacturing processes. The NPRM proposed to require a one-time 
+inspection of the area around the latch hook mounting holes of the 
+forward and aft door frames to detect damage from false drill starts, 
+and repair if necessary, as specified in EASA AD 2020-0222.
+    The FAA is issuing this AD to address damage from false drill 
+starts, which could result in reduced structural integrity of the 
+airplane. See the MCAI for additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comment received 
+on the NPRM and the FAA's response.
+
+Request To Add Exceptions
+
+    Delta Air Lines (DAL) asked that the FAA add an exception to 
+paragraph (h) of the proposed AD as follows: (1) Require inspections 
+and corrective action, if applicable, on all airplanes having 
+manufacturer serial numbers (MSN's) identified in the applicability, 
+regardless of ``affected'' part numbers referenced in EASA AD 2020-
+0222; or (2) Add a clarification that if ``affected parts'' are not 
+found, no inspection is required where a frame replacement has occurred 
+on an affected frame location, and the potential manufacturing defect 
+has been removed because there would be a new part number designation 
+for the spliced area and the airplane could be considered as no longer 
+be affected.
+    The FAA does not agree with the commenter's request. EASA AD 2020-
+0222 is applicable to specific airplane MSNs, with an assertion that 
+the current configuration continues to be installed with the part 
+numbers that are described in EASA AD 2020-0222 as ``affected part 
+numbers.'' The FAA does not have any information provided by EASA that 
+there are potential configurations that have EASA-approved 
+modifications that are exempt from the unsafe condition. If the MSN 
+configuration DAL referred to does not include those ``affected part 
+numbers,'' then there is no corresponding action for those airplanes, 
+in accordance with the requirements in this AD. The FAA has not changed 
+this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comment 
+received, and determined that air safety and the public interest 
+require adopting this final rule as proposed, except for minor 
+editorial changes. The FAA has determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0222 describes procedures for a one-time detailed 
+inspection of the area around the latch hook mounting holes of the 
+forward and aft door frames to detect damage from false drill starts, 
+and repair of any damage found. This material is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 21 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+[[Page 48489]]
+
+
+
+                                     Estimated Costs for Required Actions *
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+14 work-hours x $85 per hour = $1,190........................              $0           $1,190          $24,990
+----------------------------------------------------------------------------------------------------------------
+* Table does not include estimated costs for reporting.
+
+    The FAA estimates that it takes about 1 work-hour per product to 
+comply with the reporting requirement in this AD. The average labor 
+rate is $85 per hour. Based on these figures, the FAA estimates the 
+cost of reporting the inspection results on U.S. operators to be 
+$1,785, or $85 per product.
+    The FAA estimates the following costs to do any necessary on-
+condition repairs that are required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition repairs:
+
+                                     Estimated Costs of On-Condition Actions
+----------------------------------------------------------------------------------------------------------------
+                 Labor cost                     Parts cost                     Cost per product
+----------------------------------------------------------------------------------------------------------------
+Up to 42 work-hours x $85 per hour = Up to              $0 *  Up to $3,570 (per door).
+ $3,570 (per door).
+----------------------------------------------------------------------------------------------------------------
+* The FAA has received no definitive data on which to base the parts cost estimates for the on-condition repairs
+  specified in this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators. The FAA does not control warranty coverage for 
+affected operators. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to 
+Information Collection Clearance Officer, Federal Aviation 
+Administration, 10101 Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-17-04 Airbus SAS: Amendment 39-21687; Docket No. FAA-2021-0128; 
+Project Identifier MCAI-2020-01406-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 5, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A321-211, -231, and -232 
+airplanes, certificated in any category, as identified in European 
+Union Aviation Safety Agency (EASA) AD 2020-0222, dated October 14, 
+2020 (EASA AD 2020-0222).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by a report of false drill starts found 
+around the latch hook mounting holes of certain door frames of the 
+fuselage due to erroneous manufacturing processes. The FAA is 
+issuing this AD to address damage from false drill starts, which 
+could result in reduced structural integrity of the airplane.
+
+[[Page 48490]]
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0222.
+
+(h) Exceptions to EASA AD 2020-0222
+
+    (1) Paragraph (3) of EASA AD 2020-0222 specifies to report 
+inspection results to Airbus within a certain compliance time. For 
+this AD, report inspection results at the applicable time specified 
+in paragraph (h)(1)(i) or (ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 90 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 90 days after the effective date 
+of this AD.
+    (2) The ``Remarks'' section of EASA AD 2020-0222 does not apply 
+to this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+    (4) Paperwork Reduction Act Burden Statement: A federal agency 
+may not conduct or sponsor, and a person is not required to respond 
+to, nor shall a person be subject to a penalty for failure to comply 
+with a collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 1 
+hour per response, including the time for reviewing instructions, 
+searching existing data sources, gathering and maintaining the data 
+needed, and completing and reviewing the collection of information. 
+All responses to this collection of information are mandatory as 
+required by this AD. Send comments regarding this burden estimate or 
+any other aspect of this collection of information, including 
+suggestions for reducing this burden to Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0222, 
+dated October 14, 2020.
+    (ii) [Reserved]
+    (3) For EASA AD 2020-0222, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2021-0128.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on August 7, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-18703 Filed 8-30-21; 8:45 am]
+BILLING CODE 4910-13-P

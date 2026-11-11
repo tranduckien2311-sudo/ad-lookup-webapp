@@ -1,0 +1,384 @@
+[Federal Register Volume 86, Number 161 (Tuesday, August 24, 2021)]
+[Rules and Regulations]
+[Pages 47215-47217]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-18165]
+
+
+
+[[Page 47215]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0597; Project Identifier 2019-NE-05-AD; Amendment 
+39-21670; AD 2021-16-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International, S.A. Turbofan 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2019-12-05 
+for certain CFM International S.A. (CFM) CFM56-5B, CFM56-5C, and CFM56-
+7B model turbofan engines with a certain rotating air high-pressure 
+turbine (HPT) front seal. AD 2019-12-05 required replacement of the 
+affected rotating air HPT front seal with a part eligible for 
+installation. This AD was prompted by cracks found in the rotating air 
+HPT front seal. This AD requires replacement of affected rotating air 
+HPT front seals installed on CFM CFM56-5B, CFM56-5C, and CFM56-7B model 
+turbofan engines that have fewer cycles since being reconfigured than 
+the engines affected by AD 2019-12-05. This AD also requires CFM56-5B 
+or CFM56-7B model turbofan engines with a reconfigured rotating air HPT 
+front seal that was previously operated in a CFM56-5C model turbofan 
+engine to follow the removal requirements for the CFM56-5C model 
+turbofan engine. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective September 28, 2021.
+
+ADDRESSES: For service information identified in this final rule, 
+contact CFM International, S.A., Aviation Operations Center, 1 Neumann 
+Way, M/D Room 285, Cincinnati, OH 45125; phone: (877) 432-3272; email: 
+[email protected]. You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 1200 
+District Avenue, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call (781) 238-7759. It is 
+also available at https://www.regulations.gov by searching for and 
+locating Docket No. FAA-2019-0597.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2019-0597; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, any 
+comments received, and other information. The address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Christopher McGuire, Aviation Safety 
+Engineer, ECO Branch, FAA, 1200 District Avenue, Burlington, MA 01803; 
+phone: (781) 238-7120; fax: (781) 238-7199; email: 
+[email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2019-12-05, Amendment 39-19660 (84 FR 
+28717, June 20, 2019), (AD 2019-12-05). AD 2019-12-05 applied to all 
+CFM CFM56-5B, CFM56-5C, and CFM56-7B model turbofan engines with a 
+certain rotating air HPT front seal. AD 2019-12-05 required replacement 
+of the affected rotating air HPT front seal with a part eligible for 
+installation. The actions required by AD 2019-12-05 were interim and 
+only addressed the highest risk engines with an affected rotating air 
+HPT front seal that have a specified number of cycles since being 
+reconfigured.
+    The NPRM published in the Federal Register on October 23, 2019 (84 
+FR 56709). AD 2019-12-05 was prompted by cracks found in the rotating 
+air HPT front seal. In the NPRM, the FAA proposed to retain the 
+requirements of AD 2019-12-05 and extend those requirements to engines 
+that have fewer cycles since being reconfigured.
+    After the NPRM was issued, CFM revised its service information that 
+provides instructions for replacing the affected rotating air HPT front 
+seal. In addition, the revised service information addresses CFM56-5B 
+or CFM56-7B model turbofan engines with a reconfigured rotating air HPT 
+front seal that was previously operated in a CFM56-5C model turbofan 
+engine, and specifies that those engines follow the removal limits 
+established for CFM56-5C model turbofan engines. In addition, the FAA 
+determined changes to the proposed AD were necessary based on comments 
+received on the NPRM.
+    Accordingly, the FAA issued a supplemental notice of proposed 
+rulemaking (SNPRM), which published in the Federal Register on March 
+23, 2021 (86 FR 15436). In the SNPRM, the FAA proposed to retain the 
+requirements of AD 2019-12-05 and expand the applicability to require 
+the replacement of affected rotating air HPT front seals installed on 
+CFM CFM56-5B, CFM56-5C, and CFM56-7B model turbofan engines that have 
+fewer cycles since being reconfigured than the engines affected by AD 
+2019-12-05. In the SNPRM, the FAA also proposed to require that CFM56-
+5B and CFM56-7B model turbofan engines with a reconfigured rotating air 
+HPT front seal that was previously operated in a CFM56-5C model 
+turbofan engine follow the removal requirements of the CFM56-5C model 
+turbofan engine. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from one commenter on the SNPRM. The 
+commenter was The Boeing Company (Boeing). Boeing supported the 
+proposed AD without change.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety requires adopting the AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. This AD is adopted as proposed in the 
+SNPRM.
+
+Related Service Information
+
+    The FAA reviewed CFM Service Bulletin (SB) CFM56-5B S/B 72-1074, 
+Revision 02, dated November 6, 2019; CFM SB CFM56-5C S/B 72-0794, 
+Revision 02, dated November 6, 2019; and CFM SB CFM56-7B S/B 72-1042, 
+Revision 02, dated November 6, 2019. CFM SB CFM56-5B S/B 72-1074, 
+Revision 02, contains procedures for replacing the affected rotating 
+air HPT front seal on CFM CFM56-5B model turbofan engines. CFM SB 
+CFM56-5C S/B 72-0794, Revision 02, contains procedures for replacing 
+the affected rotating air HPT front seal on CFM CFM56-5C model turbofan 
+engines. CFM SB CFM56-7B S/B 72-1042, Revision 02, contains procedures 
+for replacing the affected rotating air HPT front seal on CFM CFM56-7B 
+model turbofan engines.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 4 engines installed on 
+airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this AD:
+
+[[Page 47216]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Replace the rotating air HPT front      1 work-hour x $85 per           $344,600        $344,685      $1,378,740
+ seal.                                   hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA has determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2019-12-05, Amendment 39-19660 (84 
+FR 28717, June 20, 2019); and
+0
+b. Adding the following new airworthiness directive:
+
+2021-16-08 CFM International, S.A.: Amendment 39-21670; Docket No. 
+FAA-2019-0597; Project Identifier 2019-NE-05-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective September 28, 
+2021.
+
+(b) Affected ADs
+
+    This AD replaces AD 2019-12-05, Amendment 39-19660 (84 FR 28717, 
+June 20, 2019).
+
+(c) Applicability
+
+    This AD applies to:
+    (1) CFM International, S.A. (CFM) CFM56-5B1, -5B2, -5B4, -5B5, -
+5B6, -5B7, -5B1/P, -5B2/P, -5B3/P, -5B4/P, -5B5/P, -5B6/P, -5B7/P, -
+5B8/P, -5B9/P, -5B3/P1, -5B4/P1, -5B1/2P, -5B2/2P, -5B3/2P, -5B4/2P, 
+-5B6/2P, -5B9/2P, -5B3/2P1, -5B4/2P1, -7B20, -7B22, -7B24, -7B26, -
+7B27, -7B22/B1, -7B24/B1, -7B26/B1, -7B26/B2, -7B27/B1, -7B27/B3, -
+7B20/2, -7B22/2, -7B24/2, -7B26/2, -7B27/2, -7B27A model turbofan 
+engines with a:
+    (i) Rotating air high-pressure turbine (HPT) front seal:
+    (A) With part number (P/N) 1795M36P01 or P/N 1795M36P02 and 
+serial numbers (S/Ns) GWNDN949 through GWNSE969 or S/Ns GWN000CE 
+through GWN0990L, not including S/Ns GWN08ND7, GWN0923A, GWN0971E, 
+GWN098A1, GWN098W6, GWN098W8, GWN098WA, and GWN0990G, installed, and
+    (B) That has been removed from the original HPT disk and re-
+assembled to a different HPT disk.
+    (ii) [Reserved]
+    (2) CFM CFM56-5C2, -5C2/4, -5C2/F, -5C2/F4, -5C2/G, -5C2/G4, -
+5C2/P, -5C3/F, -5C3/F4, -5C3/G, -5C3/G4, -5C3/P, -5C4, -5C4/1, -5C4/
+P, -5C4/1P model turbofan engines with a:
+    (i) Rotating air HPT front seal:
+    (A) With P/N 1795M36P01 or P/N 1795M36P02 and S/Ns GWNDN949 
+through GWNSE969 or S/Ns GWN000CE through GWN0990L, not including S/
+Ns GWN08ND7, GWN0923A, GWN0971E, GWN098A1, GWN098W6, GWN098W8, 
+GWN098WA, and GWN0990G, installed, and
+    (B) That has been removed from the original HPT disk and re-
+assembled to a different HPT disk.
+    (ii) [Reserved]
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7250, Turbine 
+Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by cracks found in the rotating air HPT 
+front seal. The FAA is issuing this AD to prevent failure of the 
+rotating air HPT front seal. The unsafe condition, if not addressed, 
+could result in the uncontained release of the rotating air HPT 
+front seal, damage to the engine, and damage to the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For all affected CFM CFM56-5B and CFM56-7B model turbofan 
+engines:
+    (i) If, on July 5, 2019 (the effective date of AD 2019-12-05), 
+the rotating air HPT front seal has 7,000 cycles or greater since 
+being reconfigured, remove the part from service within 50 cycles 
+after July 5, 2019 (the effective date of AD 2019-12-05), or before 
+further flight, whichever occurs later, and replace with a part 
+eligible for installation.
+    (ii) If, on July 5, 2019 (the effective date of AD 2019-12-05), 
+the rotating air HPT front seal has between 6,001 and 6,999 cycles, 
+inclusive, since being reconfigured, remove the part from service 
+within 500 cycles after July 5, 2019 (the effective date of AD 2019-
+12-05), but not to exceed 7,050 cycles since being reconfigured, or 
+before further flight, whichever occurs later, and replace with a 
+part eligible for installation.
+    (iii) For all remaining CFM56-5B and CFM56-7B model turbofan 
+engines, remove the rotating air HPT front seal from service before 
+accumulating 6,500 cycles since being reconfigured, or within 50 
+cycles after the effective date of this AD, whichever occurs later.
+    (2) For all affected CFM CFM56-5C model turbofan engines:
+    (i) If, on July 5, 2019 (the effective date of AD 2019-12-05), 
+the rotating air HPT front seal has 4,250 cycles or greater since 
+being reconfigured, remove the part from service within 25 cycles 
+after July 5, 2019 (the effective date of AD 2019-12-05), within 
+1,500 cycles since the last fluorescent penetrant inspection (FPI) 
+of the rotating air HPT front seal, or before further flight after 
+the effective date of this AD, whichever occurs later, and replace 
+with a part eligible for installation.
+
+[[Page 47217]]
+
+    (ii) If, on July 5, 2019 (the effective date of AD 2019-12-05), 
+the rotating air HPT front seal has between 3,751 and 4,249 cycles, 
+inclusive, since being reconfigured, remove the part from service 
+within 250 cycles after July 5, 2019 (the effective date of AD 2019-
+12-05), before accumulating 4,275 cycles since being reconfigured, 
+within 1,500 cycles since the last FPI of the rotating air HPT front 
+seal, or before further flight after the effective date of this AD, 
+whichever occurs later, and replace with a part eligible for 
+installation.
+    (iii) For all remaining CFM CFM56-5C model turbofan engines, 
+remove the rotating air HPT front seal from service before 
+accumulating 4,000 cycles since being reconfigured, or within 50 
+cycles after the effective date of this AD, whichever occurs later.
+    (3) For CFM56-5B or CFM56-7B model turbofan engines with an 
+affected rotating air HPT front seal that has been operated in a 
+CFM56-5C model turbofan engine since being reconfigured, remove the 
+rotating air HPT front seal from service using the cycle limits in 
+paragraph (g)(2) of this AD.
+
+(h) Definition
+
+    For the purpose of this AD, ``reconfigured'' occurs when a 
+rotating air HPT front seal has been removed from the original HPT 
+disk and re-assembled to a different HPT disk.
+
+(i) Installation Prohibition
+
+    After the effective date of this AD, do not assemble any 
+rotating air HPT front seal with greater than 0 cycles since new, 
+having a S/N listed in paragraph (c) of this AD onto a HPT disk 
+unless it is the same S/N HPT disk on which it has previously been 
+assembled.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, ECO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in Related Information. You may email your request to: 
+[email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Related Information
+
+    For more information about this AD, contact Christopher McGuire, 
+Aviation Safety Engineer, ECO Branch, FAA, 1200 District Avenue, 
+Burlington, MA 01803; phone: (781) 238-7120; fax: (781) 238-7199; 
+email: [email protected].
+
+(l) Material Incorporated by Reference
+
+    None.
+
+    Issued on July 29, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-18165 Filed 8-23-21; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,34 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007 – 0269R1 Date: 15 October 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type Approval Holder’s Name : Type/Model designation(s) : d AIRBUS A330-200 and A340-300 series e TCDS Number: EASA A.004, EASA A.015 Foreign AD : Not applicable d Revision : This AD revises EASA AD 2007-0269 dated 10 October 2007 e Fuselage – Cone/Rear Fuselage – Section 19 - Inspection / s
+
+ATA 53 Modification r
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) e
+
+Applicability: AIRBUS aircraft A330-200 and A340-300 series, all certified models, all serial numbers on which AIRBUS modification 44205 has been embodied p in production, except those on which AIRBUS modification 52974 or 53223 has been embodied in production. This
+
+Airworthiness Directive (AD) is not applicable to aircraft A340-300 u series on which both AIRBUS modifications 44205 and 45012 have been embodied in production.
+
+Reason: During fatigue tests (EF3) on the A340-600, multiple damage were found in the upper side shell structure at skin and frame (FR) 84 & 85 interface, from S stringer 6 to 15 LH/RH. This damage occurred between 58 341 and 72 891 simulated Flight Cycles (FC). Due to the higher Design Service Goal and different design (e.g. skin thickness) for A330-200 and A340-300 aircraft series, the damage assessment concluded on potential impact on these aircraft series. In order to allow early detection of cracks which could avoid possible crack propagation and consequently to maintain the structural integrity of the upper side shell structure between FR84 and FR87, this
+
+Airworthiness Directive (AD) mandates an inspection program of this area using a high frequency eddy current (HFEC) method and a modification to improve the upper shell structure. This Revision 1 is issued to clarify that this AD is not applicable to aircraft 1/3
+
+--- PAGE 2 ---
+A340-300 series on which both AIRBUS modifications 44205 and 45012 have been embodied in production.
+
+Effective Date: 24 October 2007 Compliance: Required as indicated, unless already accomplished : 1. For AIRBUS aircraft A330-200 series [as listed in the applicability of this directive] on which AIRBUS modifications 45012 has been embodied in production: Prior to the accumulation of the following threshold from the first flight of the aircraft, depending on the aircraft configuration, carry out HFEC inspection and modify the upper shell structure between FR84 and FR87 (LH and RH), in accordance with the instructions given in SB A330-53-3152: d Aircraft Threshold, whichever occurs first e configuration Total FC Total FH d Pre-mod 48827 25 400 N/A (WV20 to WV27) e Post-mod 48827 17 100 94 700 (WV50 to WV56) s r 2. For AIRBUS aircraft A330-200 and A340-300 series [as listed in the applicability of this directive] on which AIRBUS modification 45012 has NOT been embodied in production: e Prior to the accumulation of the following threshold from the first flight of the aircraft, carry out modification of the upper shell p structure between FR84 and FR87 (LH and RH) in accordance with the instructions given in SB A330-53-3157 or SB A340-53- 4163: u Aircraft series Threshold in Total FC S A330-200 6 600 A340-300 14 000
+
+Ref. Publications: AIRBUS Service Bulletin A330-53-3152 original issue; AIRBUS Service Bulletin A330-53-3157 original issue; AIRBUS Service Bulletin A340-53-4163 original issue or later approved revisions of these documents. 2/3
+
+--- PAGE 3 ---
+Remarks : 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance for this AD. 2. This AD was posted on 14 September 2007 as PAD 07-170 for consultation until 28 September 2007. The Comment Response . Document can be found at http://ad.easa.europa.eu/ 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the
+
+Airworthiness Directive Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . 4. For any question concerning the technical content of the requirements in this AD, please contact AIRBUS SAS –Airworthiness Office – EAL E- mail : airworthiness.A330-A340@airbus.com . d e d e s r e p u S 3/3

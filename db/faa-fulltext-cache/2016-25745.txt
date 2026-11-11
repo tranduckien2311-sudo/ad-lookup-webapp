@@ -1,0 +1,810 @@
+[Federal Register Volume 81, Number 225 (Tuesday, November 22, 2016)]
+[Rules and Regulations]
+[Pages 83648-83653]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-25745]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-3701; Directorate Identifier 2015-NM-015-AD; 
+Amendment 39-18689; AD 2016-21-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2013-25-08 for 
+all Airbus Model A330-200, -200 Freighter, and -300 series airplanes; 
+and Model A340-200 and -300 series airplanes. AD 2013-25-08 required a 
+repetitive inspection program on certain check valves in the hydraulic 
+systems that includes, among other things, inspections for lock wire 
+presence and integrity, traces of seepage or black deposits, proper 
+torque, alignment of the check valve and manifold, installation of new 
+lock wire, and corrective actions if needed. This new AD removes 
+airplanes from the applicability, and requires modifying the green, 
+blue, and yellow high pressure hydraulic manifolds by replacing certain 
+check valves with improved check valves, which terminates the 
+repetitive inspections required by this AD. This AD was prompted by 
+multiple reports of hydraulic line check valves loosening. We are 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective December 27, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of December 27, 
+2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of January 
+31, 2014 (78 FR 78694, December 27, 2013).
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+December 14, 2009 (74 FR 62208, November 27, 2009).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+3701.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+3701; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2013-25-08, Amendment 39-17704 (78 FR 78694, 
+December 27, 2013) (``AD 2013-25-08''). AD 2013-25-08 applied to all 
+Airbus Model A330-200, -200 Freighter, and -300 series airplanes; and 
+Model A340-200 and -300 series airplanes. The NPRM published in the 
+Federal Register on February 25, 2016 (81 FR 9374) (``the NPRM''). The 
+NPRM was prompted by multiple reports of hydraulic line check valves 
+loosening. The NPRM proposed to continue to require a repetitive 
+inspection program on certain check valves in the hydraulic systems 
+that includes, among other things, inspections for lock wire presence 
+and integrity, traces of seepage or black deposits, proper torque, 
+alignment of the check valve and manifold, installation of new lock 
+wire, and corrective actions if needed. The NPRM also proposed to add 
+airplanes to the applicability, and require modifying the green, blue, 
+and yellow high pressure hydraulic manifolds by replacing certain check 
+valves with improved check valves, which would terminate the repetitive 
+inspections required by the proposed AD. We are issuing this AD to 
+detect and correct hydraulic check valve loosening; loosened valves 
+could result in hydraulic leaks, possibly leading to the loss of all 
+three hydraulic systems and consequent loss of control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2015-0009, dated January 16, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition. The MCAI states:
+
+    An A330 operator experienced a Yellow hydraulic circuit low 
+level due to a loose check valve, Part Number (P/N) CAR401. During 
+the inspection on the other two hydraulic systems, the other three 
+check valves P/N CAR401 were also found to be loose with their lock 
+wire broken in two instances. Airbus A340 aeroplanes are also 
+equipped with P/N CAR401 high pressure manifold check valves.
+    Additional cases of P/N CAR401 check valve loosening have been 
+reported on aeroplanes having accumulated more than 1,000 flight 
+cycles (FC). The check valve fitted on the Yellow hydraulic system 
+is more
+
+[[Page 83649]]
+
+affected, due to additional system cycles induced by cargo door 
+operation.
+    This condition, if not detected and corrected, could result in 
+hydraulic leaks, possibly leading to the loss of all three hydraulic 
+systems and consequent loss of control of the aeroplane.
+    To address this unsafe condition, EASA issued Emergency AD 2009-
+0223-E [which corresponds to FAA AD 2009-24-09, Amendment 39-16068 
+(74 FR 62208, November 27, 2009)] to require an inspection programme 
+to detect any check valve loosening and, if necessary, to apply the 
+applicable corrective actions.
+    EASA AD 2010-0145, which superseded EASA EAD 2009-0223-E 
+retaining its requirements, was issued to expand the applicability 
+to the newly certified models A330-223F and A330-243F.
+    Prompted by further reported in-service events of check valve P/
+N CAR401 loosening before reaching the threshold of 700 FC, EASA AD 
+2011-0139, which superseded EASA AD 2010-0145, retaining its 
+requirements, was issued to:
+    --Extend the requirement to identify the P/N CAR401 check valves 
+to all aeroplanes, and
+    --reduce the inspection threshold for aeroplanes fitted with 
+check valve P/N CAR401, either installed in production through 
+Airbus modification 54491, or installed in service through Airbus 
+Service Bulletin (SB) A330-29-3101 or Airbus SB A340-29-4078.
+    EASA AD 2012-0070, which superseded EASA AD 2011-0139, retaining 
+its requirements, was issued to require an increased torque value of 
+the check valve tightening and High Pressure (HP) manifold re-
+identification.
+    Since EASA AD 2012-0070 was issued, additional in-service events 
+have been reported on aeroplanes fitted with check valves on which 
+the increased torque value had been applied. Based on those events, 
+it has been concluded that the action to re-torque the check valves 
+with an increased value is not a satisfactory terminating action for 
+addressing the issue of those check valves.
+    To address that, EASA issued AD 2012-0244, which partially 
+retained the requirements of EASA AD 2012-0070, which was 
+superseded. Additionally, for aeroplanes equipped with P/N CAR401 on 
+which the increased torque value had been applied, EASA AD 2012-0244 
+required repetitive inspections of the check valves and HP 
+manifolds. Finally, EASA AD 2012-0244 also required application of a 
+lower torque value when a check valve P/N CAR401 is installed on an 
+aeroplane.
+
+    Note: The reporting and the torque value increase requirements 
+for check valves P/N CAR401 of EASA AD 2012-0070 were no longer part 
+of EASA AD 2012-0244.
+
+    EASA AD was revised to clarify which actions are required for P/
+N CAR401 check valves, depending on applied (or not) torque value.
+    Since EASA AD 2012-0244R1 was issued, Airbus developed an 
+improved check valve P/N CAR402, which is embodied in production 
+through Airbus modification 203972, and in service through 
+associated Airbus SB A330-29-3125, or Airbus SB A340-29-4096, as 
+applicable to aeroplane type. In addition, these SBs provide 
+instructions about the torque value (between 230 and 250 Nm) and re-
+identification of HP manifolds after check valve P/N CAR402 
+installation.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2012-0244R1, which is superseded, and 
+requires the installation of check valves P/N CAR402 as terminating 
+action to the repetitive inspections [and removes airplanes on which 
+Airbus modification 203972 has been embodied from the 
+applicability].
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+3701.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the NPRM and 
+the FAA's response to the comment.
+
+Support for the NPRM
+
+    American Airlines (AAL) stated that it operates 24 airplanes that 
+will be affected by the NPRM, and that it agrees with the need to 
+accomplish Airbus Service Bulletin A330-29-3125 on these airplanes.
+
+Request To Reference Revised Service Information
+
+    AAL requested that we revise the NPRM to reference Airbus Service 
+Bulletin A330-29-3125, Revision 02, including Appendixes 01 and 02, 
+dated January 21, 2016. AAL pointed out that this revision includes 
+several corrections in the Accomplishment Instructions.
+    We agree to reference the latest service information in this final 
+rule. Since we issued the NPRM, Airbus has issued Airbus Service 
+Bulletin A330-29-3125, Revision 03, including Appendixes 01 and 02, 
+dated April 8, 2016; and Service Bulletin A340-29-4096, Revision 02, 
+including Appendixes 01 and 02, dated April 8, 2016. This service 
+information states that no additional work is required by these 
+revisions for airplanes modified by any previous issue. We have revised 
+paragraph (p) of this AD to reference this revised service information 
+as appropriate sources of service information for accomplishing the 
+actions required by that paragraph. We have also revised paragraph (s) 
+of this AD by adding credit for actions required by paragraph (p) of 
+this AD, if those actions were performed before the effective date of 
+this AD using Airbus Service Bulletin A330-29-3125, Revision 02, 
+including Appendixes 01 and 02, dated January 21, 2016; or Airbus 
+Service Bulletin A330-29-3125, Revision 01, including Appendixes 01 and 
+02, dated July 30, 2015; or Airbus Service Bulletin A340-29-4096, 
+Revision 01, including Appendixes 01 and 02, dated July 30, 2015; as 
+applicable. Additionally, we have reformatted paragraph (s) of this AD 
+to improve readability; this change does not affect the intent or 
+requirements of that paragraph.
+
+Conclusion
+
+    We reviewed the available data, including the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A330-29-3125, Revision 03, 
+including Appendixes 01 and 02, dated April 8, 2016; and Service 
+Bulletin A340-29-4096, Revision 02, including Appendixes 01 and 02, 
+dated April 8, 2016. This service information describes procedures for 
+modifying the green, blue, and yellow high pressure hydraulic manifolds 
+by replacing each check valve having P/N CAR401 with an improved check 
+valve having P/N CAR402. These documents are distinct since they apply 
+to different airplane models. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 88 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+    The actions required by AD 2013-25-08, and retained in this AD take 
+about 10 work-hours per product, at an average labor rate of $85 per 
+work-hour. Based on these figures, the estimated cost of the actions 
+that were required by AD 2013-25-08 is $850 per product.
+    We also estimate that it would take about 32 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85
+
+[[Page 83650]]
+
+per work-hour. Based on these figures, we estimate the cost of this AD 
+on U.S. operators to be $239,360, or $2,720 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD. We 
+have no way of determining the number of aircraft that might need these 
+actions.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all available costs in our 
+cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2013-25-08, Amendment 39-17704 (78 FR 78694, December 27, 2013), and 
+adding the following new AD:
+
+2016-21-08 Airbus: Amendment 39-18689; Docket No. FAA-2016-3701; 
+Directorate Identifier 2015-NM-015-AD.
+
+(a) Effective Date
+
+    This AD is effective December 27, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2013-25-08, Amendment 39-17704 (78 FR 78694, 
+December 27, 2013) (``AD 2013-25-08'').
+
+(c) Applicability
+
+    This AD applies to Airbus airplanes, certificated in any 
+category, as identified in paragraphs (c)(1) and (c)(2) of this AD.
+    (1) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, and -343 airplanes, all 
+manufacturer serial numbers except those on which Airbus 
+modification 203972 has been embodied in production.
+    (2) Model A340-211, -212, -213, -311, -312, and -313 airplanes, 
+all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 29, Hydraulic 
+power.
+
+(e) Reason
+
+    This AD was prompted by multiple reports of hydraulic line check 
+valves loosening. We are issuing this AD to detect and correct 
+hydraulic check valve loosening; loosened valves could result in 
+hydraulic leaks, possibly leading to the loss of all three hydraulic 
+systems and consequent loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspections, With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2013-25-08, with no changes. Except for Model A330-223F and A330-
+243F airplanes: Do the actions required by paragraphs (g)(1) and 
+(g)(2) of this AD.
+    (1) For airplanes that do not have Airbus Modification 54491 
+embodied in production, or Airbus Service Bulletin A330-29-3101 or 
+Airbus Service Bulletin A340-29-4078 embodied in service: Within 100 
+flight cycles or 28 days after December 14, 2009 (the effective date 
+of AD 2009-24-09, Amendment 39-16068 (74 FR 62208, November 27, 
+2009) (``AD 2009-24-09'')), whichever occurs first, inspect the 
+check valves on the blue, green, and yellow hydraulic systems to 
+identify their part numbers (P/Ns), in accordance with the 
+instructions of Airbus All Operators Telex (AOT) A330-29A3111, 
+Revision 1, dated October 8, 2009 (for Model A330-200 and -300 
+series airplanes); or Airbus AOT A340-29A4086, Revision 1, dated 
+October 8, 2009 (for Model A340-200 and -300 series airplanes). 
+Accomplishment of the inspection required by paragraph (h) of this 
+AD terminates the requirements of this paragraph.
+    (i) If check valves having P/N CAR401 are installed on all three 
+hydraulic systems, before further flight, do the actions specified 
+in paragraph (g)(2)(i) of this AD. After accomplishing the actions 
+required by paragraph (g)(2)(i) of this AD, do the actions specified 
+in paragraphs (g)(2)(ii) and (g)(2)(iii) of this AD at the 
+applicable compliance times specified in those paragraphs. 
+Accomplishment of the inspection required by paragraph (i) of this 
+AD terminates the requirements of this paragraph.
+    (ii) If check valves having P/N CAR401 are not installed on all 
+three hydraulic systems, no further action is required by this 
+paragraph until any check valve having P/N CAR400 is replaced with a 
+check valve having P/N CAR401. If any check valve having P/N CAR400 
+is replaced by a check valve having P/N CAR401, before further 
+flight, do the inspection specified in paragraph (g)(1) of this AD 
+to determine if all three hydraulic systems are equipped with check 
+valves having P/N CAR401. Accomplishment of the inspection required 
+by paragraph (h) of this AD terminates the requirements of this 
+paragraph.
+    (2) For airplanes on which Airbus Modification 54491 was 
+embodied in production, or Airbus Service Bulletin A330-29-3101; or 
+Airbus Service Bulletin A340-29-4078 was embodied in service, do the 
+actions specified in paragraphs (g)(2)(i), (g)(2)(ii), and 
+(g)(2)(iii) of this AD.
+    (i) Except as required by paragraph (g)(1)(i) of this AD, at the 
+applicable times specified in paragraphs (g)(2)(i)(A) and 
+(g)(2)(i)(B) of this AD, as applicable: Do the inspection program 
+(detailed inspection of the lock wire for presence and integrity, a 
+detailed inspection for traces of seepage or black deposits, and an 
+inspection for proper torque) on yellow and blue high pressure 
+manifolds, install new lock wires, and do all applicable corrective 
+actions, in accordance with the instructions of paragraph 4.1.1 of 
+Airbus AOT A330-29A3111, Revision 1, dated October 8, 2009 (for 
+Model A330-200 and -300 series airplanes); or Airbus AOT A340-
+29A4086, Revision 1, dated October 8,
+
+[[Page 83651]]
+
+2009 (for Airbus Model A340-200 and -300 series airplanes). Do all 
+applicable corrective actions before further flight. Accomplishment 
+of the inspection required by paragraph (h)(1) of this AD terminates 
+the requirements of this paragraph.
+    (A) For airplanes on which Airbus Modification 54491 has been 
+embodied in production: At the later of the times specified in 
+paragraphs (g)(2)(i)(A)(1) and (g)(2)(i)(A)(2) of this AD.
+    (1) Before the accumulation of 1,000 total flight cycles since 
+first flight but no earlier than the accumulation of 700 total 
+flight cycles since first flight.
+    (2) Within 100 flight cycles or 28 days after December 14, 2009 
+(the effective date of AD 2009-24-09), whichever occurs first.
+    (B) For airplanes on which Airbus Service Bulletin A330-29-3101 
+or Airbus Service Bulletin A340-29-4078 was embodied in service: At 
+the later of the times specified in paragraphs (g)(2)(i)(B)(1) and 
+(g)(2)(i)(B)(2) of this AD.
+    (1) Within 1,000 flight cycles since the embodiment of Airbus 
+Service Bulletin A330-29-3101 or Airbus Service Bulletin A340-29-
+4078 but no earlier than 700 flight cycles after the embodiment of 
+Airbus Service Bulletin A330-29-3101 or Airbus Service Bulletin 
+A340-29-4078.
+    (2) Within 100 flight cycles or 28 days after December 14, 2009 
+(the effective date of AD 2009-24-09), whichever occurs first.
+    (ii) Within 900 flight hours after accomplishment of paragraph 
+(g)(2)(i) of this AD, do the inspection program (detailed inspection 
+of the lock wire for presence and integrity, a detailed inspection 
+for traces of seepage or black deposits, and an inspection for 
+proper torque) and install a new lock wire on the green high 
+pressure manifold; and do an inspection (detailed inspection for 
+traces of seepage or black deposits, and detailed inspection to 
+determine alignment of the check valve and manifold) on the yellow 
+and blue high pressure manifolds, and do all applicable corrective 
+actions; in accordance with the instructions of paragraph 4.1.2 of 
+Airbus AOT A330-29A3111, Revision 1, dated October 8, 2009 (for 
+Model A330-200 and -300 series airplanes); or Airbus AOT A340-
+29A4086, Revision 1, dated October 8, 2009 (for Model A340-200 and -
+300 series airplanes). Do all applicable corrective actions before 
+further flight. Accomplishment of the inspection program required by 
+paragraph (i) of this AD terminates the requirements of this 
+paragraph.
+    (iii) Within 900 flight hours after accomplishment of paragraph 
+(g)(2)(ii) of this AD, and thereafter at intervals not to exceed 900 
+flight hours, do the inspection program (detailed inspection for 
+traces of seepage or black deposits, and detailed inspection to 
+determine alignment of the check valve and manifold) on the green, 
+yellow, and blue high pressure manifolds, and do all applicable 
+corrective actions, in accordance with the instructions of paragraph 
+4.1.3 of Airbus AOT A330-29A3111, Revision 1, dated October 8, 2009 
+(for Model A330-200 and -300 series airplanes); or Airbus AOT A340-
+29A4086, Revision 1, dated October 8, 2009 (for Model A340-200 and -
+300 series airplanes). Do all applicable corrective actions before 
+further flight. Accomplishment of the inspection program required by 
+paragraph (i) of this AD terminates the requirements of this 
+paragraph.
+
+(h) Retained Inspection, With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2013-25-08, with no changes. For airplanes equipped with check 
+valves having P/N CAR400; and for airplanes equipped with check 
+valves having P/N CAR401, except for airplanes on which Airbus 
+Modification 201384 has been embodied during production, or on which 
+Airbus Service Bulletin A330-29-3119 (for Model A330-200, -200F, and 
+-300 series airplanes) or Airbus Service Bulletin A340-29-4091 (for 
+Model A340-200 and -300 series airplanes) has been embodied in 
+service: Within 900 flight hours after January 31, 2014 (the 
+effective date of AD 2013-25-08), inspect the check valves on the 
+blue, green, and yellow hydraulic systems to identify their part 
+numbers, in accordance with the Accomplishment Instructions of 
+Airbus Mandatory Service Bulletin A330-29-3111, Revision 02, dated 
+June 23, 2011 (for Model A330-200, -200F, and -300 series 
+airplanes); or Airbus Mandatory Service Bulletin A340-29-4086, 
+Revision 02, dated June 23, 2011 (for Model A340-200 and -300 series 
+airplanes). Accomplishment of the actions required by this paragraph 
+terminates the requirements specified in paragraphs (g)(1) and 
+(g)(1)(ii) of this AD.
+    (1) If check valves having P/N CAR401 are installed on all three 
+hydraulic systems: Before further flight, do the inspection program 
+(detailed inspection for red mark presence and alignment integrity 
+of the check valve and manifold, a detailed inspection for traces of 
+seepage or black deposits, and an inspection for proper torque) on 
+yellow and blue high pressure manifolds, and do all applicable 
+corrective actions, in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A330-29-3111, 
+Revision 02, dated June 23, 2011 (for Model A330-200, -200F, and -
+300 series airplanes); or Airbus Mandatory Service Bulletin A340-29-
+4086, Revision 02, dated June 23, 2011 (for Model A340-200 and -300 
+series airplanes). Accomplishment of the actions required by this 
+paragraph terminates the requirements specified in paragraph 
+(g)(2)(i) of this AD.
+    (2) If check valves having P/N CAR401 are not installed on all 
+three hydraulic systems, no further action is required by this 
+paragraph until any check valve having P/N CAR400 is replaced with a 
+check valve having P/N CAR401. If any check valve having P/N CAR400 
+is replaced by a check valve having P/N CAR401: Before further 
+flight after such replacement, do the actions specified in paragraph 
+(h) of this AD, to determine if all three hydraulic systems are 
+equipped with check valves having P/N CAR401. If check valves having 
+P/N CAR401 are installed on all three hydraulic systems: Before 
+further flight, do the actions specified in paragraphs (h)(1) and 
+(i) of this AD.
+
+(i) Retained Repetitive Inspection Program and Corrective Actions, With 
+No Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2013-25-08, with no changes. Within 900 flight hours after 
+accomplishment of paragraph (h)(1) of this AD, do the inspection 
+program (detailed inspection for red mark presence and alignment 
+integrity of the check valve and manifold, a detailed inspection for 
+traces of seepage or black deposits, and an inspection for proper 
+torque) on the green, yellow, and blue system check valves, and do 
+all applicable corrective actions, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A330-29-3111, Revision 02, dated June 23, 2011 (for Model A330-200, 
+-200F, and -300 series airplanes); or Airbus Mandatory Service 
+Bulletin A340-29-4086, Revision 02, dated June 23, 2011 (for Model 
+A340-200 and -300 series airplanes). Do all applicable corrective 
+actions before further flight. Repeat the inspection program 
+thereafter at intervals not to exceed 900 flight hours. 
+Accomplishment of the actions required by this paragraph terminates 
+the requirements specified in paragraphs (g)(1)(i), (g)(2)(ii), and 
+(g)(2)(iii) of this AD.
+
+(j) Retained Repetitive Inspection for Certain Airplanes, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2013-25-08, with no changes. For airplanes equipped with check 
+valves having P/N CAR401 and on which Airbus Modification 201384 has 
+been embodied during production, or on which Airbus Service Bulletin 
+A330-29-3119 (for Model A330-200, -200F, and -300 series airplanes); 
+or Airbus Service Bulletin A340-29-4091 (for Model A340-200 and -300 
+series airplanes) has been embodied in service: Within 1,000 flight 
+hours after January 31, 2014 (the effective date of AD 2013-25-08), 
+do a general visual inspection of the green, yellow, and blue high 
+pressure manifolds and check valves having P/N CAR401 for any sign 
+of rotation of the check valve head, and for any signs of hydraulic 
+fluid leakage or seepage (including black deposits), in accordance 
+with the instructions of Airbus Alert Operators Transmission 
+A29L001-12, dated October 11, 2012. Repeat the inspection thereafter 
+at interval not to exceed 900 flight hours.
+
+(k) Retained Corrective Action for Certain Airplanes, With No Changes
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2013-25-08, with no changes. If, during any inspection required by 
+paragraph (j) of this AD, any sign of rotation of the check valve 
+head is found, or any sign of hydraulic fluid leakage or seepage 
+(including black deposits) is found: Before further flight, do all 
+applicable corrective actions, in accordance with the instructions 
+of Airbus Alert Operators Transmission A29L001-12, dated October 11, 
+2012.
+
+(l) Retained Provisions Regarding Terminating Action, With No Changes
+
+    This paragraph restates the provisions of paragraph (l) of AD 
+2013-25-08, with no changes. Accomplishment of the corrective 
+actions required by this AD does not constitute terminating action 
+for the repetitive inspections required by this AD.
+
+[[Page 83652]]
+
+(m) Retained Replacement Check Valve Torque Value, With No Changes
+
+    This paragraph restates the requirements of paragraph (m) of AD 
+2013-25-08, with no changes. As of January 31, 2014 (the effective 
+date of AD 2013-25-08), at each replacement of a check valve with a 
+check valve having P/N CAR401, apply a torque of 141 to 143 newton 
+meters (N.m) (103.98 to 105.45 pounds-foot (lbf.ft)) during 
+installation.
+
+(n) Retained Credit for Previous Actions, With No Changes
+
+    This paragraph restates the provisions of paragraph (n) of AD 
+2013-25-08, with no changes.
+    (1) This paragraph provides credit for actions required by 
+paragraph (g)(2)(i) of this AD, if those actions were performed 
+before December 14, 2009 (the effective date of AD 2009-24-09), 
+using the applicable service information specified in paragraphs 
+(n)(1)(i) and (n)(1)(ii) of this AD.
+    (i) Airbus AOT A330-29A3111, dated September 2, 2009 (for Model 
+A330-200 and -300 series airplanes), which is not incorporated by 
+reference in this AD.
+    (ii) Airbus AOT A340-29A4086, dated September 2, 2009 (for Model 
+A340-200 and -300 series airplanes), which is not incorporated by 
+reference in this AD.
+    (2) This paragraph provides credit for actions required by 
+paragraph (h) of this AD, if those actions were performed before 
+January 31, 2014 (the effective date of AD 2013-25-08), using the 
+applicable service information specified in paragraphs (n)(2)(i) 
+through (n)(2)(iv) of this AD.
+    (i) Airbus AOT A330-29A3111, dated September 2, 2009 (for Model 
+A330-200 and -300 series airplanes), which is not incorporated by 
+reference in this AD.
+    (ii) Airbus AOT A330-29A3111, Revision 1, dated October 8, 2009 
+(for Model A330-200 and -300 series airplanes), which is 
+incorporated by reference in this AD.
+    (iii) Airbus AOT A340-29A4086, dated September 2, 2009 (for 
+Model A340-200 and -300 series airplanes), which is not incorporated 
+by reference in this AD.
+    (iv) Airbus AOT A340-29A4086, Revision 1, dated October 8, 2009 
+(for Model A340-200 and -300 series airplanes), which is 
+incorporated by reference in this AD.
+
+(o) Retained Provisions for Reporting, With No Changes
+
+    This paragraph restates the provisions of paragraph (o) of AD 
+2013-25-08, with no changes. Although the service information 
+specified in paragraphs (o)(1) through (o)(5) of this AD specifies 
+to submit certain information to the manufacturer, this AD does not 
+include that requirement.
+    (1) Airbus Alert Operators Transmission A29L001-12, dated 
+October 11, 2012.
+    (2) Airbus Mandatory Service Bulletin A330-29-3111, Revision 02, 
+dated June 23, 2011.
+    (3) Airbus Mandatory Service Bulletin A340-29-4086, Revision 02, 
+dated June 23, 2011.
+    (4) Airbus AOT A330-29A3111, Revision 1, dated October 8, 2009.
+    (5) Airbus AOT A340-29A4086, Revision 1, dated October 8, 2009.
+
+(p) New Requirement of This AD: Modify Hydraulic Systems
+
+    Within 36 months after the effective date of this AD, modify the 
+green, blue, and yellow high pressure hydraulic manifolds by 
+replacing each check valve having P/N CAR401 with an improved check 
+valve having P/N CAR402, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-29-3125, Revision 03, 
+including Appendixes 01 and 02, dated April 8, 2016; or Airbus 
+Service Bulletin A340-29-4096, Revision 02, including Appendixes 01 
+and 02, dated April 8, 2016; as applicable.
+
+(q) New Provision of This AD: Terminating Action for Repetitive 
+Inspections
+
+    Modification of an airplane, as required by paragraph (p) of 
+this AD, constitutes terminating action for the repetitive 
+inspections required by this AD.
+
+(r) New Requirement of This AD: Parts Installation Limitations
+
+    (1) For an airplane that, as of the effective date of this AD, 
+has a check valve having P/N CAR401 installed, after modification as 
+required by paragraph (p) of this AD, no person may install a check 
+valve having P/N CAR401, on that airplane.
+    (2) For an airplane that does not have a check valve having P/N 
+CAR401 installed, as of the effective date of this AD, no person may 
+install a check valve having P/N CAR401, on that airplane.
+
+(s) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(p) of this AD, if those actions were performed before the effective 
+date of this AD using the applicable service information specified 
+in paragraphs (s)(1) through (s)(5) of this AD, which are not 
+incorporated by reference in this AD.
+    (1) Airbus Service Bulletin A330-29-3125, dated August 8, 2014.
+    (2) Airbus Service Bulletin A330-29-3125, Revision 01, including 
+Appendixes 01 and 02, dated July 30, 2015.
+    (3) Airbus Service Bulletin A330-29-3125, Revision 02, including 
+Appendixes 01 and 02, dated January 21, 2016.
+    (4) Airbus Service Bulletin A340-29-4096, dated August 8, 2014.
+    (5) Airbus Service Bulletin A340-29-4096, Revision 01, including 
+Appendixes 01 and 02, dated July 30, 2015.
+
+(t) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (ii) AMOC ANM-116-14-180 R1, dated February 21, 2014, is 
+approved as an AMOC for the corresponding provisions of this AD.
+    (iii) AMOC ANM-116-14-429, dated September 25, 2014, is not 
+approved as an AMOC for the corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(u) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0009, dated January 16, 
+2015, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-3701.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (v)(6) and (v)(7) of this AD.
+
+(v) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+December 27, 2016.
+    (i) Airbus Service Bulletin A330-29-3125, Revision 03, including 
+Appendixes 01 and 02, dated April 8, 2016.
+    (ii) Airbus Service Bulletin A340-29-4096, Revision 02, 
+including Appendixes 01 and 02, dated April 8, 2016.
+
+[[Page 83653]]
+
+    (4) The following service information was approved for IBR on 
+January 31, 2014 (78 FR 78694, December 27, 2013).
+    (i) Airbus Alert Operators Transmission A29L001-12, dated 
+October 11, 2012.
+    (ii) Airbus Mandatory Service Bulletin A330-29-3111, Revision 
+02, dated June 23, 2011.
+    (iii) Airbus Mandatory Service Bulletin A340-29-4086, Revision 
+02, dated June 23, 2011.
+    (5) The following service information was approved for IBR on 
+December 14, 2009 (74 FR 62208, November 27, 2009).
+    (i) Airbus Alert Operators Telex A330-29A3111, Revision 1, dated 
+October 8, 2009. Only the first page of this document contains the 
+document number, revision level, and date; no other pages of this 
+document contain this information.
+    (ii) Airbus Alert Operators Telex A340-29A4086, Revision 1, 
+dated October 8, 2009. Only the first page of this document contains 
+the document number, revision level, and date; no other pages of 
+this document contain this information.
+    (6) For service information identified in this AD, contact 
+Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (7) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on October 12, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-25745 Filed 11-21-16; 8:45 am]
+ BILLING CODE 4910-13-P

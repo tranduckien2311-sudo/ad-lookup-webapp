@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0044
+
+Airworthiness Directive
+
+AD No.: 2017-0044
+
+Issued: 09 March 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 23 March 2017 TCDS Number(s): EASA.A.004 and EASA.A.015 D Foreign AD: Not applicable E
+
+Supersedure: None L
+
+ATA 27 – Flight Controls – Trimmable Horizontal Stabilizer Actuator and Upper L Attachment – Inspection E
+
+Manufacturer(s): C Airbus (formerly Airbus Industrie) N
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and C Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: The Trimmable Horizontal Stabilizer Actuator (THSA), as installed on A330 and A340 aeroplanes, was initially designed to stall when engaging on the upper secondary load path (SLP) after primary load path (PLP) failure. Such stall triggers system monitoring detection. New mission profile analysis revealed that in some cases, the THSA could be operated while engaged on the upper SLP without stalling. The partial engagement of the SLP at upper attachment level does not trigger any indication to the flight crew. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0044 This condition, if not detected and corrected, could lead to THSA upper attachment failure and consequent disconnection of the THSA from the aeroplane structure, possibly resulting in loss of control of the aeroplane. For the reasons described above, this AD requires repetitive detailed inspections (DET) of the upper THSA attachments parts and the PLP and SLP fuselage attachment points, and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: Airbus SB A330-27-3218, SB A340-27-4203 and SB A340-27-5067, all at Revision 01, are hereafter collectively referred to as ‘the applicable SB’ in this AD. Inspections: (1) Before exceeding the threshold as defined in Table 1 of this AD, as applicable to aeroplane type and model, or within 3 months after the effective date of this AD, whichever occurs later, and, thereafter, at intervals not to exceed the inspection interval values as defined in Table 1 of this AD, accomplish a DET of the THSA upper attachments and no-back housing in accordance with D the instructions of the applicable SB. E Table 1 – THSA Upper Attachments / No-Back Housing Inspections L Compliance Times L (whichever occurs first, flight hours (FH) or flight cycles (FC)) Affected Aeroplanes Threshold Inspection Interval E (see Note 2 of this AD) (not to exceed) A330, A340-200 and A340-300 4 000 FH or 1 000 FC 4 000 FH or 1 000 FC C A340-500 and A340-600 4 000 FH or 800 FC 4 000 FH or 800 FC N Note 2: The FH and FC referred to in column “Threshold” of Table 1 of this AD are those A accumulated by the aeroplane since first flight, or since the last accomplishment of A330 or A340 Maintenance Review Board Report task 27.40.00/07, or since the last DET accomplished in C accordance with the instructions of the applicable SB at original issue. Corrective Action(s): (2) If, during any DET as required by paragraph (1) of this AD, any discrepancy as defined in the applicable SB is detected, before next flight, remove the THSA, accomplish a DET of the upper attachment fitting of the aeroplane and a DET of the removed THSA in accordance with the instructions of the applicable SB. As an alternative to the DET of the THSA, replace the THSA with a serviceable part (see Note 3 of this AD). (3) If, during any DET of the upper attachment fitting of the aeroplane, as required by paragraph (2) of this AD, any discrepancy as defined in the applicable SB is detected, before next flight, contact Airbus for approved instructions and accomplish those instructions accordingly. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0044 (4) If, during any DET of the removed THSA, as required by paragraph (2) of this AD, any discrepancy as defined in the applicable SB is detected, before next flight, replace the THSA with a serviceable part (see Note 3 of this AD) in accordance with the instructions of the applicable SB. Note 3: For the purpose of this AD, a serviceable THSA is a part that has accumulated less than 4 000 FH or 1 000 FC (for A330, A340-200, or A340-300 aeroplanes) or 4 000 FH or 800 FC (for A340-500 or A340-600 aeroplanes), whichever occurs first since new, or since overhaul, or since the last inspection in accordance with the instructions of the applicable SB. Credit for Previous Action(s): (5) Inspections and corrective actions on an aeroplane, accomplished before the effective date of this AD in accordance with the instructions of the applicable SB at original issue, are acceptable to comply with the initial requirements of this AD for that aeroplane. Terminating Action: (6) None.
+
+Ref. Publications: D Airbus SB A330-27-3218 original issue dated 01 July 2016, or Revision 01 dated 05 December 2016. E Airbus SB A340-27-4203 original issue dated 01 July 2016, or Revision 01 dated 05 December 2016. L Airbus SB A340-27-5067 original issue dated 01 July 2016, or Revision 01 dated 05 December 2016. L The use of later approved revisions of these documents is acceptable for compliance with the E requirements of this AD. C
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of N Compliance for this AD. A 2. This AD was posted on 20 January 2017 as PAD 17-010 for consultation until 17 February 2017. The Comment Response Document can be found at http://ad.easa.europa.eu. C 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

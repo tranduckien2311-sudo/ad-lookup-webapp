@@ -1,0 +1,37 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0277 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0277 Date: 19 December 2014 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EU 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EU 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name : Type/Model designation(s) : AIRBUS A330 and A340 aeroplanes TCDS Number : EASA.A.004 and EASA.A.015 Foreign AD : Not applicable
+
+Supersedure: None
+
+ATA 35 Oxygen – Passenger Chemical Oxygen Generators – Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN). Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: Reports have been received indicating premature ageing of certain passenger chemical oxygen generators, Part Number (P/N) 117042-XX, manufactured by B/E Aerospace. Some operators reported that when they tried to activate generators, some older units failed to activate. Given the number of failed units reported, all the generators manufactured in 1999, 2000 and 2001 must be considered unreliable. This condition, if not corrected, could lead to failure of the generator to activate and consequently not deliver oxygen during an emergency, possibly resulting in injury to passengers. To address this potential unsafe condition, Airbus issued All Operators Transmission (AOT) A35L007-14, making reference to B/E Aerospace Service Information Letter (SIL) D1019-01 (currently at Revision 1) and B/E Aerospace Service Bulletin (SB) 117042-35-001. For the reason described above, this AD requires identification and replacement of the affected oxygen generators. Pending the on-going investigation, this AD is considered to be an interim action and further AD action may follow.
+
+Effective Date: 24 December 2014 TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0277 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 30 days after the effective date of this AD, identify the date of Time(s): manufacture (see Appendix 1 of this AD where this is located) of each passenger oxygen generator, having a P/N as listed in Table 1 of this AD, in accordance with the instructions of Airbus AOT A35L007-14. A review of aeroplane maintenance records is acceptable to make this identification, provided those records can be relied upon for the purpose of this requirement. (2) Within the compliance time specified in Table 1 of this AD, as applicable, remove and replace each affected passenger oxygen generator from service in accordance with the instructions of Airbus AOT A35L007-14 and/or, for 15 min generators, in accordance with the instructions of B/E Aerospace SB 117042-35-001. B/E Aerospace SIL D1019-01 Revision 1 provides instructions for the activation and the disposal of a removed passenger oxygen generator. Airbus AOT A35L007-14 (Appendix 1) includes instructions for reporting the results of the activation (including no findings) of removed units. The data gathered from those results will be analysed to determine further action(s), if any. Table 1 – Replacement of Passenger Oxygen Generators P/N Compliance Time For units manufactured in 1999, before exceeding 15 years since date of manufacture, or within 30 days after the effective date of this AD, whichever occurs later 117042-02 (15 min – 2 masks) For units manufactured in 2000, 117042-03 (15 min – 3 masks) before exceeding 14,5 years 117042-04 (15 min – 4 masks) since date of manufacture, or 117042-22 (22 min – 2 masks) within 6 months after the effective 117042-23 (22 min – 3 masks) date of this AD, whichever occurs later 117042-24 (22 min – 4 masks) For units manufactured in 2001, before exceeding 14 years since date of manufacture, or within 12 months after the effective date of this AD, whichever occurs later (3) From the effective date of this AD, it is allowed to install on any aeroplane a passenger oxygen generator with a P/N as listed in Table 1 of this AD, provided that the passenger oxygen generator has a manufacturing date of 2005 or later.
+
+Ref. Publications: Airbus AOT A35L007-14 dated 18 December 2014. B/E Aerospace SB 117042-35-001 original issue dated 10 December 2014. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. B/E Aerospace SIL D1019-01 Revision 1, dated 03 January 2000, provides instructions for the activation and the disposal of a removed generator. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2014-0277 to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL; E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 3/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2014-0277 Appendix 1 – Passenger Oxygen Generator Date of Manufacture Figure 1 – location of date (MM-YY) Figure 2 – MFG.DATE (06-02 = June 2002) example TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 4/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

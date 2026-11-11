@@ -1,5 +1,6 @@
-# Large local caches & NuGet binaries (keep GitHub repo lightweight ~11 MB)
-db/easa-pdf-cache/
+# Large binary caches & NuGet binaries (keep lightweight .txt fulltext caches for static GitHub Pages)
+db/easa-pdf-cache/*
+!db/easa-pdf-cache/*.txt
 db/easa-archive-page.html
 db/easa-interim-page.html
 db/amos_xlsx_extracted/

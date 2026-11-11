@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 98-451-121(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 Aircraft ILS Receiver (ATA 34) APPLICABILITY : AIRBUS INDUSTRIE A319, A320 and A321 aircraft, all certified models, all serial numbers, equipped with at least one AlliedSignal BENDIX ILS Receivers P/N 066-50006-0202 installed on aircraft by AIRBUS INDUSTRIE modifications 25613 or 26389 or AIRBUS INDUSTRIE Service Bulletin A320-34-1121 which have not received AIRBUS INDUSTRIE modification 27251 or AIRBUS INDUSTRIE Service Bulletin A320-34-1163. REASON : A misbehaviour of the ILS caused by a defective element having for effect possible glide and loc deviations which could lead the aircraft being out of the runway during landing. ACTIONS : 1. Within 10 days from the effective date of this
+
+Airworthiness Directive, unless already accomplished, insert and apply Temporary Revision 4.02.00/03 approved DGAC on 30 March 1998 in the Aircraft Flight Manual. 2. If an "ILS 1 FAULT" or "ILS 2 FAULT" or "ILS 1+2 FAULT" caution message is displayed on the ECAM, the faulty ILS receiver(s) shall be removed/replaced with new unit(s) within 10 days in accordance with AIRBUS INDUSTRIE Service Bulletin A320-34-1163. After replacement of both ILS 1 and 2 in accordance with AIRBUS INDUSTRIE Service Bulletin A320-34- 1163, remove the AFM Temporary Revision 4.02.00/03 from the Aircraft Flight Manual. REF. : AIRBUS INDUSTRIE Service Bulletin A320-34-1163 (or any further approved revision) AFM TR 4.02.00/03 AIRBUS INDUSTRIE November 18, 1998 98-451-121(B) A319/A320/A321 Aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 98-46R-121(B) Page n° 2 EFFECTIVE DATE : NOVEMBER 28, 1998 n/ JYR

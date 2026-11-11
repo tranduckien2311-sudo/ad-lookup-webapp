@@ -1,0 +1,16 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-236-089(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage Inspection longitudinal floor beams at frame 43 This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all certified models and all serial numbers, without AIRBUS INDUSTRIE modification 20904 or AIRBUS INDUSTRIE Service Bulletin A320-53-1008. In order to detect fatigue cracks on the longitudinal floor beams at frame 43, which could affect the structural integrity of the airplane, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1- Before accumulation of 20,000 flights, perform a detail visual inspection of the bottom flanges of the longitudinal floor beams at frame 43 in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1085. 2- In case of no crack detected, repeat inspection defined in paragraph 1 of this
+
+Airworthiness Directive at intervals not exceeding 6,000 flights. 3- In case of crack findings, and depending of there length, repeat inspection defined in paragraph 1 of this
+
+Airworthiness Directive at intervals and in accordance with instructions defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1085 or contact AIRBUS INDUSTRIE for repair solution to apply at the thresholds given in AIRBUS INDUSTRIE Service Bulletin A320-53-1085. NOTE : Total application of AIRBUS INDUSTRIE Service Bulletin A320-53-1008 cancels requirements of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1085 AIRBUS INDUSTRIE Service Bulletin A320-53-1008 (or any further approved revision) EFFECTIVE DATE : NOVEMBER 02, 1996 n/JYR AIRBUS INDUSTRIE October 23, 1996 96-236-089(B) A320 Aircraft

@@ -1,0 +1,512 @@
+[Federal Register Volume 86, Number 78 (Monday, April 26, 2021)]
+[Rules and Regulations]
+[Pages 21923-21927]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-08577]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0845; Product Identifier 2020-NM-102-AD; Amendment 
+39-21514; AD 2021-09-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A320-271N, A321-211, and A321-271N airplanes. 
+This AD was prompted by reports of missing overhead stowage compartment 
+(OHSC) X-fixation brackets or brackets that were incorrectly installed 
+during assembly. This AD requires a special detailed inspection of the 
+OHSC X-fixation brackets for missing or incorrectly installed brackets, 
+and installation or replacement the OHSC X-fixation brackets if 
+necessary; or modification of each OHSC; as specified in a European 
+Union Aviation Safety Agency (EASA) AD, which will be incorporated by 
+reference. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+
+DATES: This AD is effective June 1, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 1, 2021.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For
+
+[[Page 21924]]
+
+information on the availability of this material at the FAA, call 206-
+231-3195. It is also available in the AD docket on the internet at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2020-0845.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0845; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0122, dated May 29, 2020 (EASA 
+AD 2020-0122) (also referred to as the Mandatory Continuing 
+Airworthiness Information, or the MCAI), to correct an unsafe condition 
+for certain Airbus SAS Model A320-271N, A321-211, and A321-271N 
+airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A320-271N, A321-211, and A321-271N airplanes. The NPRM published 
+in the Federal Register on September 17, 2020 (85 FR 58014). The NPRM 
+was prompted by reports of missing OHSC X-fixation brackets or brackets 
+that were incorrectly installed during assembly. The NPRM proposed to 
+require a special detailed inspection of the OHSC X-fixation brackets 
+for missing or incorrectly installed brackets, and installation or 
+replacement if necessary; or modification of each OHSC, as specified in 
+an EASA AD.
+    The FAA is issuing this AD to address this condition, which could 
+lead to OHSC failure under certain loading conditions, and possibly 
+result in injury to occupants and impede egress during an emergency 
+evacuation. See the MCAI for additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Use a Borescope for the Inspection Requirement
+
+    Delta Air Lines (DAL) requested that the FAA allow the use of a 
+borescope as an alternative device to the endoscope for the inspection 
+of the OHSC X-fixation brackets as specified in paragraph (1) of EASA 
+AD 2020-0122. DAL stated that Airbus has provided its concurrence in 
+Airbus Technical Request 80838467/006, dated October 15, 2020.
+    The FAA agrees that use of a borescope to do this inspection will 
+provide an adequate level of safety. The FAA has added paragraph (h)(3) 
+to this AD, which allows for the use of a borescope for the inspection 
+of the OHSC X-fixation brackets required in this AD.
+
+Request To Disregard the Description of the Bin Assembly in the 
+Referenced Service Information
+
+    DAL requested that the FAA add an exception to paragraph (h) of the 
+proposed AD to disregard the description of the bin assembly. DAL 
+commented that where paragraph 3.C.1(b) through 3.C.1(ae) of the 
+referenced modification service information specified in paragraph (3) 
+of EASA AD 2020-0122 states to ``replace bin assembly 1F FL EE'' (and 
+other bin assemblies), the bin assembly description is information only 
+and does not point to a location on the airplane. DAL commented that 
+Airbus has provided its concurrence in Airbus Technical Request 
+80838467/006, dated October 15, 2020.
+    The FAA agrees that the bin assembly identifier, such as ``1F FL 
+EE,'' is related to the bin assembly description in the referenced 
+modification service information specified in EASA AD 2020-0122. The 
+bin assembly identifiers are provided for information only. The FAA 
+does not agree with removing these references for the bin assemblies 
+because they describe the part that correlates with the part number. 
+Further, the FAA has verified with Airbus that Airbus tech request 
+80838467/006, dated October 15, 2020, does not recommend removing the 
+part description. However, the FAA has clarified use of the bin 
+assembly identifiers in paragraph (h)(4) of this AD.
+
+Request for a One-Time Identification of the OHSC
+
+    DAL requested that the FAA clarify that the OHSC housing must be 
+reidentified only one time although the service information referenced 
+in paragraph (3) of EASA AD 2021-0122 specifies to reidentify the OHSC 
+housing at each bin assembly replacement step. DAL stated that Airbus 
+confirmed in Airbus Technical Request 80838467/006, dated October 15, 
+2020, that each OHSC housing has more than one bin assembly, so the 
+reidentification step is needed only one time for the OHSC housing, not 
+when each bin assembly is replaced.
+    The FAA agrees with the commenter. The complete OHSC module, which 
+mainly consists of one housing, one or more bins, the light cover, and 
+one or more air outlets, has one part number. Only one identification 
+label is needed for the whole module, and the bins have their own 
+identification labels with their own part numbers. The FAA has revised 
+this AD to add paragraph (h)(5) of this AD to clarify that the OHSC 
+module is a one-time reidentification no matter how many bins have been 
+modified.
+
+Request To Disregard a Part Number Not Installed on the Airplane
+
+    DAL requested that the FAA add an exception to paragraph (h) of the 
+proposed AD explaining that the part number of the COMPARTMENT ASSY may 
+be disregarded if it is not installed on the airplane, as long as the 
+OHSC X-fixation brackets are replaced as specified in paragraph (3) of 
+EASA AD 2020-0122. DAL stated that the part numbers of the COMPARTMENT 
+ASSY can be mismatched due to differences in the airplane 
+applicability; therefore, mismatched part numbers in this step occur 
+when the COMPARTMENT ASSY in the airplane are removed. DAL stated that 
+Airbus has provided its concurrence in Airbus Technical Request 
+80838467/006, dated October 15, 2020.
+    The FAA disagrees with the commenter's request. An AD may not 
+require actions on a part or component that is not installed on the 
+airplane. Any COMPARTMENT ASSY installed after the effective date of 
+this AD must be in compliance with the requirements of this AD. The 
+COMPARTMENT ASSY is reidentified using the referenced modification 
+service information specified in EASA AD 2020-0122. When the 
+COMPARTMENT ASSY is reidentified, the referenced modification service 
+information shows the list of the old and new part numbers to address
+
+[[Page 21925]]
+
+the re-identified parts. The FAA has not revised this AD in this 
+regard.
+
+Request To Include Certain Equivalencies for Certain Tasks
+
+    DAL requested that the proposed AD include certain equivalencies 
+for the Ref. Tasks identified in the referenced inspection service 
+information specified in EASA AD 2020-0122. DAL stated that the Ref. 
+Task identified in the referenced inspection service information 
+specified in EASA AD 2020-0122 specifies that the actions be 
+accomplished ``in accordance with'' a specific Ref. Task. DAL stated 
+that Airbus has provided its concurrence in Airbus Technical Request 
+80838467/006, dated October 15, 2020.
+    The FAA agrees to revise this AD to include certain equivalencies 
+for the Ref. Tasks identified in step 3.C.1(c) of the referenced 
+inspection service information specified in EASA AD 2020-0122. The FAA 
+has included the Ref. Task equivalencies in paragraphs (h)(6)(i) 
+through (xvi) of this AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the changes described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0122 specifies procedures for a special detailed 
+inspection of the OHSC X-fixation brackets for missing or incorrectly 
+installed brackets, and corrective actions (installation or replacement 
+OHSC X-fixation brackets) if necessary; or modification of each OHSC by 
+installing new X-fixation brackets and reidentifying the OHSC housing. 
+This material is reasonably available because the interested parties 
+have access to it through their normal course of business or by the 
+means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 31 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+               Labor cost                   Parts cost         Cost per product         Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 29 work-hours x $85 per hour = Up               $0  Up to $2,465..............  Up to $76,415.
+ to $2,465.
+----------------------------------------------------------------------------------------------------------------
+
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+Up to 36 work-hours x $85 per     Up to $539,060....  Up to $542,120.
+ hour = Up to $3,060.
+------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need this on-condition action:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+Up to 29 work-hours x $85 per hour =               * $              * $
+ Up to $2,465.........................
+------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable us to
+  provide parts cost estimates for the on-condition action specified in
+  this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators. The FAA does not control warranty coverage for 
+affected operators. As a result, the FAA has included all known costs 
+in our cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+
+[[Page 21926]]
+
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-09-01 Airbus SAS: Amendment 39-21514; Docket No. FAA-2020-0845; 
+Product Identifier 2020-NM-102-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 1, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A320-271N, A321-211 and 
+A321-271N airplanes, certificated in any category, as identified in 
+European Union Aviation Safety Agency (EASA) AD 2020-0122, dated May 
+29, 2020 (EASA AD 2020-0122).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Reason
+
+    This AD was prompted by reports of missing overhead stowage 
+compartment (OHSC) X-fixation brackets or brackets that were 
+incorrectly installed during assembly. The FAA issuing this AD to 
+address this condition, which could lead to OHSC failure under 
+certain loading conditions, and possibly result in injury to 
+occupants and impede egress during an emergency evacuation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0122.
+
+(h) Exceptions and Clarifications to EASA AD 2020-0122
+
+    (1) Where EASA AD 2020-0122 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2020-0122 does not apply 
+to this AD.
+    (3) For the inspection of the OHSC X-fixation brackets specified 
+in paragraph (1) of EASA AD 2020-0122, this AD allows the use of the 
+borescope as an alternative method of compliance for the inspection.
+    (4) Paragraphs 3.C.1(b) through 3.C.1(ae) of the referenced 
+modification service information specified in EASA AD 2020-0122 
+specifies to ``replace bin assembly [**],'' where ``**'' refers to a 
+bin assembly identifier. These identifiers are for information only.
+    (5) Where paragraphs 3.C.1(b) through 3.C.1(ae) of the 
+referenced modification service information specified in EASA AD 
+2020-0122 references reidentification of the OHSC at every 
+COMPARTMENT ASSY installation, this AD requires a one-time 
+reidentification for the OHSC module no matter how many bins have 
+been modified.
+    (6) Accomplishment of either of the pair of Ref. Tasks 
+identified in each of the paragraphs in (h)(6)(i) through (xvi) of 
+this AD is acceptable for compliance with the applicable action of 
+the Ref. Tasks identified in step 3.C.1(c) of the referenced 
+inspection service information specified in EASA AD 2020-0122.
+    (i) Ref. Task A320-A-25-XX-1BFN-01ZZZ-600Z-A corresponds to Ref. 
+Task A320-A-25-XX-1BFN-01001-600A-A.
+    (ii) Ref. Task A320-A-25-XX-1BFN-02ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-02001-600A-A.
+    (iii) Ref. Task A320-A-25-XX-1BFN-03ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-03001-600A-A.
+    (iv) Ref. Task A320-A-25-XX-1BFN-04ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-04001-600A-A.
+    (v) Ref. Task A320-A-25-XX-1BFN-05ZZZ-600Z-A corresponds to Ref. 
+Task A320-A-25-XX-1BFN-05001-600A-A.
+    (vi) Ref. Task A320-A-25-XX-1BFN-06ZZZ-600Z-A correspond to Ref. 
+Task A320-A-25-XX-1BFN-06001-600A-A.
+    (vii) Ref. Task A320-A-25-XX-1BFN-07ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-07001-600A-A.
+    (viii) Ref. Task A320-A-25-XX-1BFN-08ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-08001-600A-A.
+    (ix) Ref. Task A320-A-25-XX-1BFN-09ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-09001-600A-A.
+    (x) Ref. Task A320-A-25-XX-1BFN-10ZZZ-600Z-A corresponds to Ref. 
+Task A320-A-25-XX-1BFN-10001-600A-A.
+    (xi) Ref. Task A320-A-25-XX-1BFN-11ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-11001-600A-A.
+    (xii) Ref. Task A320-A-25-XX-1BFN-12ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-12001-600A-A.
+    (xiii) Ref. Task A320-A-25-XX-1BFN-13ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-13001-600A-A.
+    (xiv) Ref. Task A320-A-25-XX-1BFN-14ZZZ-600Z-A correspond to 
+Ref. Task A320-A-25-XX-1BFN-14001-600A-A.
+    (xv) Ref. Task A320-A-25-XX-1BFN-15ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-15001-600A-A.
+    (xvi) Ref. Task A320-A-25-XX-1BFN-16ZZZ-600Z-A corresponds to 
+Ref. Task A320-A-25-XX-1BFN-16001-600A-A.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA AD 2020-0122 
+specifies to submit certain information to the manufacturer, this AD 
+does not include that requirement.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (k) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(k) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this
+
+[[Page 21927]]
+
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0122, 
+dated May 29, 2020.
+    (ii) [Reserved]
+    (3) For EASA AD 2020-0122, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; Internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2020-0845.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on April 12, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-08577 Filed 4-23-21; 8:45 am]
+BILLING CODE 4910-13-P

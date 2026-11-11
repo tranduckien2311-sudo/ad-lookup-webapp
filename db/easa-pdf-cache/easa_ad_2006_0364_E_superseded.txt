@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA EMERGENCY AIRWORTHINESS DIRECTIVE AD No : 2006-0364-E Date: 06 December 2006 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the D requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : E AIRBUS SAS A330 and A340 aircraft TCDS Number: EASA A.004, A.015 D Foreign AD: Not applicable.
+
+Supersedure: Not applicable. E Wings – Main Landing Gear (MLG) Rib 6 Aft Bearing Lugs – S
+
+ATA 57 Inspection R
+
+Manufacturer(s): AIRBUS (formerly AIRBUS Industrie)
+
+Applicability: AIRBUS aircraft A330-200 and A330-300 series, all certified models, all E serial numbers, except those on which AIRBUS modification 49353 has been embodied in production or AIRBUS Service Bulletin (SB) A330-57- 3082 has been embodied in service on both wings. P AIRBUS aircraft A340-200 and A340-300 series, all certified models, all serial numbers, except those on which AIRBUS modification 49353 has been embodied in production or AIRBUS Service Bulletin (SB) A340-57- 4088 has been embodied in service on both wings. U AIRBUS aircraft A340-500 and A340-600 series, all certified models, all serial numbers, except those on which AIRBUS modification 50040 or S 51585 has been embodied in production. Aircraft repaired on both wings as per Repair Drawing R572.56230 (or SRM 57-26-13 PB 201) are not concerned by this Emergency
+
+Airworthiness Directive (EAD).
+
+Reason: During MLG lubrication, a crack has been found visually in the MLG rib 6 aft bearing forward lug on one A330 in service aircraft. The crack has extended through the entire thickness of the forward lug at 1/2
+
+--- PAGE 2 ---
+approximately the 4 o’clock position (when looking forward). The investigations are ongoing to determine the root causes of this event and to define the appropriate corrective actions. This situation if not corrected, could affect the structural integrity of the MLG attachment which constitutes an unsafe condition. The aim of this Emergency
+
+Airworthiness Directive (EAD) is to mandate repetitive detailed visual inspections of the LH and RH wing MLG rib 6 aft bearing lugs as the first step before finalization of the investigations.
+
+Effective Date: 08 December 2006 Compliance: In accordance with instructions defined in AIRBUS SB A330-57A3096 or SB A340-57A4104 or SB A340-57A5009, as applicable: D 1. Unless already accomplished, before accumulation of 5 years in service from first flight or within 14 calendar days following the effective date of this EAD, whichever occurs later, perform a detailed visual E inspection of the LH and RH Wing MLG Rib 6 aft bearing lugs (forward and aft) to detect any cracks on the two lugs. 2. If crack is detected, contact AIRBUS immediately and proceed with the replacement of the MLG Rib 6 before next flight. D 3. If no crack is detected, repeat the inspection at intervals not exceeding: - 300 Flight Cycles (FC) for A330 aircraft, - 200 FC for A340-200/-300 aircraft, E - 100 FC for A340-500/-600 aircraft. and apply the corrective actions mentioned in paragraph 2 if necessary. S
+
+Ref. Publications: AIRBUS Service Bulletin A330-57A3096; AIRBUS Service Bulletin A340-57A4104; AIRBUS Service Bulletin A340-57A5009; R or later approved revisions of these documents. Remarks : 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative E Methods of Compliance (AMOCs) for this AD. 2. The safety assessment has requested not to implement the full consultation process and an immediate publication and notification P 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . U 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS SAS – Airworthiness Office – EAL Fax : +33 5 61 93 45 80. S 2/2

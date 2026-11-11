@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 2000-519-158(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 aircraft Passenger door: outer handle mechanism (ATA 52) APPLICABILITY: This
+
+Airworthiness Directive applies to all AIRBUS INDUSTRIE A319, A320 and A321 aircraft, all certified models, to MSN 1261 inclusive. REASONS: On one A320, one passenger door was found impossible to open from inside. From outside the outer handle flap assembly was found in an incorrect position preventing door opening from inside. A stiff point in the outer handle flap mechanism was found due to lack of grease. This could result to delay passenger evacuation in emergency conditions. ACTIONS: Within 500 flight hours from the effective date of this
+
+Airworthiness Directive, unless already accomplished, lubricate the door outer handle mechanism and perform all necessary actions as defined and in accordance with the instructions given in AIRBUS INDUSTRIE AOT 52A1106 dated September 28, 2000. MRB task 52-10-00 item 3 “lubrification of exterior control handles” application is considered as an alternative means of compliance of this
+
+Airworthiness Directive. REF.: AOT AIRBUS INDUSTRIE A320-52A1106 dated September 28, 2000 (or any further approved revision). EFFECTIVE DATE : DECEMBER 23, 2000 n/JJD AIRBUS INDUSTRIE December 13, 2000 2000-519-158(B) A319/A320/A321 aircraft

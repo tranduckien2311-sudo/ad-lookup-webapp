@@ -1,0 +1,358 @@
+[Federal Register Volume 64, Number 235 (Wednesday, December 8, 1999)]
+[Rules and Regulations]
+[Pages 68623-68625]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 99-31471]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 98-NM-284-AD; Amendment 39-11453; AD 99-25-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A319, A320, and A321 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Airbus Model A319, A320, and A321 series 
+airplanes, that requires a one-time inspection of the forward engine 
+mount assembly of the left and right engines to verify that the part 
+number on each assembly is correct; re-identification of the forward 
+engine mount assembly; and follow-on actions, if necessary. This 
+amendment is prompted by issuance of mandatory continuing airworthiness 
+information by a foreign civil airworthiness authority. The actions 
+specified by this AD are intended to prevent structural failure of the 
+secondary load path of the forward engine mount, which, if combined 
+with failure of the primary load path, could result in separation of 
+the engine from the airplane.
+
+DATES: Effective January 12, 2000.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of January 12, 2000.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France. This information may be examined at the Federal 
+Aviation Administration (FAA), Transport Airplane Directorate, Rules 
+Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Norman B. Martenson, Manager, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2110; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Airbus Model A319, A320, 
+and A321 series airplanes was published in the Federal Register on 
+November 23, 1998 (63 FR 64654). That action proposed to require a one-
+time inspection of the forward engine mount assembly of the left and 
+right engines to verify that the part number on each assembly is 
+correct; re-identification of the forward engine mount assembly; and 
+follow-on actions, if necessary.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+    Two commenters state that they are not affected by the proposed 
+rule.
+
+Request To Extend Compliance Time for Re-identification
+
+    One commenter, the manufacturer, requests that the FAA extend the 
+compliance time for the re-identification requirement in paragraph 
+(a)(1) of the proposed AD from ``prior to further flight'' to ``within 
+2,250 flight hours.'' The commenter states that such an extension would 
+allow operators more flexibility. The commenter points out that the 
+Direction Generale de l'Aviation Civile (DGAC), which is the 
+airworthiness authority for France, is planning to revise French 
+airworthiness directive 98-293-118(B), dated July 29, 1998 (which was 
+referenced in the NPRM as the appropriate corresponding French 
+airworthiness directive) on December 12, 1998, to allow this 
+flexibility of the compliance time.
+    The FAA partially concurs with the commenter's request. The FAA has 
+determined that there is no configuration difference, and therefore, it 
+is not necessary to accomplish the re-identification prior to further 
+flight. However, the FAA has determined that the required compliance 
+time should be specified in terms of landings, rather than flight 
+hours, to correspond to the compliance time specified in paragraph 
+(a)(2)(i) of the AD. The FAA has revised paragraph (a)(1) of this AD to 
+allow re-identification of the engine mounts within 2,250 landings 
+following accomplishment of the inspection specified in paragraph (a) 
+of this AD, or at the next engine removal, whichever occurs first. In 
+addition, the FAA has revised NOTE 7 (NOTE 5 of the proposed AD) of the 
+final rule to additionally reference French airworthiness directive 98-
+293-118(B) R1, dated December 16, 1998.
+
+Request To Withdraw the Re-identification Requirement
+
+    One commenter requests that the FAA not require re-identification 
+of the mounts, as required by paragraph (a)(2) of the proposed AD, 
+unless the configuration of the mount is altered. The commenter states 
+that the engine mount assembly re-identification serves no purpose 
+because there is no configuration difference between item number 740-
+2020-513 ``N'' and -517. The commenter further states that all of the 
+mounts will be re-identified to a new part number when improved thrust 
+links are installed in accordance with Airbus Service Bulletin A320-71-
+1020, dated May 25, 1998.
+    The FAA does not concur with the commenter's request. 
+Accomplishment of Service Bulletin A320-71-1020 is required by AD 99-
+21-19, amendment 39-11364 (64 FR 55414, November 17, 1999). Because 
+there is other service information that affects the engine mount part 
+number, the FAA finds that the re-identification required by paragraph 
+(a)(2) of the AD is important to ensure proper control of the status of 
+the engine mounts.
+
+Request for Relief From Removing Engines Simultaneously
+
+    One commenter requests relief from accomplishing the procedures in 
+paragraph B (4)(b) of Airbus Service Bulletin A320-71-1021, dated 
+February 6, 1998, or Revision 01, dated June 10, 1998, which states 
+that both engines must be modified at the same time. The commenter 
+notes that removal of both engines at the same time requires a flight 
+test, which increases the cost and time out-of-service.
+    The FAA concurs with the commenter's request. The FAA finds no 
+technical reason for the modification of both engines to occur at the 
+same time. However, both engines must be modified prior to 2,250 
+landings following accomplishment of the inspection or at the next 
+engine removal, whichever occurs first. The FAA has added a note after 
+paragraph (a)(2)(i) of the final rule to provide
+
+[[Page 68624]]
+
+clarification regarding accomplishment of the modification for each 
+engine.
+
+Explanation of Change Made to Proposal
+
+    The FAA has clarified the inspection requirement contained in the 
+proposed AD. Whereas the proposal specified a visual inspection, the 
+FAA has revised this final rule to clarify that its intent is to 
+require a general visual inspection. Additionally, a note has been 
+added to the final rule to define that inspection.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes described 
+previously. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+Cost Impact
+
+    The FAA estimates that 73 airplanes of U.S. registry will be 
+affected by this AD, that it will take approximately 70 work hours per 
+airplane to accomplish the required inspection, and that the average 
+labor rate is $60 per work hour. Based on these figures, the cost 
+impact of the AD on U.S. operators is estimated to be $306,600, or 
+$4,200 per airplane.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have substantial direct 
+effects on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, in 
+accordance with Executive Order 12612, it is determined that this final 
+rule does not have sufficient federalism implications to warrant the 
+preparation of a Federalism Assessment.
+    For the reasons discussed above, I certify that this action (1) Is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) Will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding the following new 
+airworthiness directive:
+
+99-25-10  Airbus Industrie: Amendment 39-11453. Docket 98-NM-284-AD.
+
+    Applicability: Model A319-131 and -132, A320-232 and -233, and 
+A321-131 series airplanes; except those on which Airbus Modification 
+27020 has been accomplished (reference Airbus Service Bulletin A320-
+71-1021, Revision 01, dated June 10, 1998); certificated in any 
+category.
+
+    Note 1: This AD applies to each airplane identified in the 
+preceding applicability provision, regardless of whether it has been 
+otherwise modified, altered, or repaired in the area subject to the 
+requirements of this AD. For airplanes that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent structural failure of the forward engine mount 
+secondary load path, which, if combined with failure of the primary 
+load path, could result in separation of the engine from the 
+airplane, accomplish the following:
+
+Inspection and Follow-On Actions
+
+    (a) Within 500 flight hours after the effective date of this AD: 
+Perform a one-time general visual inspection of the forward engine 
+mount assembly of the left and right engines to verify that the part 
+number (P/N) on each assembly is correct, in accordance with Airbus 
+Service Bulletin A320-71-1021, Revision 01, dated June 10, 1998.
+
+    Note 2: For the purposes of this AD, a general visual inspection 
+is defined as ``A visual examination of an interior or exterior 
+area, installation, or assembly to detect obvious damage, failure, 
+or irregularity. This level of inspection is made under normally 
+available lighting conditions such as daylight, hangar lighting, 
+flashlight, or drop-light, and may require removal or opening of 
+access panels or doors. Stands, ladders, or platforms may be 
+required to gain proximity to the area being checked.''
+
+    (1) If the P/N on the forward engine mount assembly of the left 
+and right engines is 740-2010-513N or 740-2010-513 with a revision 
+of N' or higher: Within 2,250 landings following accomplishment of 
+the inspection specified in paragraph (a) of this AD, or at the next 
+engine removal, whichever occurs first, re-identify each assembly in 
+accordance with the service bulletin. No further action is required 
+by this AD.
+    (2) If the P/N on the forward engine mount assembly of the left 
+and right engines is different from the P/N's specified in paragraph 
+(a)(1) of this AD, or if the P/N cannot be determined: Prior to 
+further flight, perform a detailed visual inspection to detect any 
+crack or failure of the thrust links on each forward engine mount 
+assembly, in accordance with the service bulletin.
+    (i) If no crack or failure of any thrust link on the left or 
+right engine is detected: Within 2,250 landings following 
+accomplishment of the inspection specified in paragraph (a)(2) of 
+this AD, or at the next engine removal, whichever occurs first, 
+modify each engine mount and its installation, and re-identify each 
+forward engine mount assembly; in accordance with the service 
+bulletin.
+
+    Note 3: Simultaneous modification of both engines is not 
+required.
+
+    (ii) If any crack or failure of any thrust link on the left or 
+right engine is detected, prior to further flight, replace the 
+existing thrust link with a new thrust link, modify each engine 
+mount, and re-identify each forward engine mount assembly; in 
+accordance with the service bulletin.
+
+    Note 4: Inspection and modification of the engine mount assembly 
+accomplished prior to the effective date of this AD in accordance 
+with Airbus Service Bulletin A320-71-1021, dated February 6, 1998, 
+is considered acceptable for compliance with the applicable actions 
+specified in this AD.
+
+    Note 5: Airbus Service Bulletin A320-71-1021, Revision 01, dated 
+June 10, 1998, references V2500 International Aero Engines (IAE) 
+Service Bulletin V2500-NAC-71-0135, Revision 1, dated March 5, 1998, 
+as an additional source of service information for accomplishment of 
+the actions specified in this AD.
+
+Spares
+
+    (b) As of the effective date of this AD, no person shall install 
+a forward engine mount assembly on any airplane equipped with IAE 
+V2500-A5 engines, unless the actions described in Airbus Service 
+Bulletin A320-71-1021, dated February 6, 1998, or Revision 01, dated 
+June 10, 1998, have been accomplished for that assembly.
+
+[[Page 68625]]
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, International Branch, ANM-116, FAA, 
+Transport Airplane Directorate. Operators shall submit their 
+requests through an appropriate FAA Principal Maintenance Inspector, 
+who may add comments and then send it to the Manager, International 
+Branch, ANM-116.
+
+    Note 6: Information concerning the existence of approved 
+alternative methods of compliance with this AD, if any, may be 
+obtained from the International Branch, ANM-116.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be accomplished.
+
+Incorporation by Reference
+
+    (e) The actions shall be done in accordance with Airbus Service 
+Bulletin A320-71-1021, Revision 01, dated June 10, 1998. This 
+incorporation by reference was approved by the Director of the 
+Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Copies may be obtained from Airbus Industrie, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France. Copies may be 
+inspected at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the Office of the Federal 
+Register, 800 North Capitol Street, NW., suite 700, Washington, DC.
+
+    Note 7: The subject of this AD is addressed in French 
+airworthiness directives 98-293-118(B), dated July 2, 1998, and 98-
+293-118(B) R1, dated December 16, 1998.
+
+    (f) This amendment becomes effective on January 12, 2000.
+
+    Issued in Renton, Washington, on November 30, 1999.
+D.L. Riggin,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 99-31471 Filed 12-7-99; 8:45 am]
+BILLING CODE 4910-13-U

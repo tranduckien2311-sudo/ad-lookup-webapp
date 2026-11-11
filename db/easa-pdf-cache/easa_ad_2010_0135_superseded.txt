@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2010-0135 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2010-0135 Date: 5 July 2010 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : d AIRBUS A330 and A340 aeroplanes e TCDS Number : EASA.A.004, EASA.A.015 Foreign AD : Not applicable d This AD supersedes DGAC AD F-2001-053R1 dated 17 March 2004 approved Supersedure : under EASA reference No. 2004-2113 and DGAC AD F-2001-052R2 dated 17 e March 2004 approved under EASA reference No. 2004-2112. s Doors - Pax/Crew and Emergency Exit Doors - Girt Bar Slider
+
+ATA 52 Mechanism – Functional Check and Lubrication r
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) e
+
+Applicability: Airbus A330 aeroplanes, models -201, -202, -203, -223, -223F, -243, - p 243F, -301, -302, - 303, -321, -322, -323, -341, -342 and -343, all manufacturer serial numbers. Airbus A340 aeroplanes, models -211, -212, -213, -311, -312, and -313, u all manufacturer serial numbers.
+
+Reason: At the end of an escape slide deployment test performed on the left-hand forward pax/crew door of an A330 aeroplane, the girt bar attaching the S escape slide to the fuselage was found not in a locked position and detached from the aeroplane. The investigation has shown that a component of the slide release mechanism (slider) was found unserviceable (spring function inoperative due to corrosion or missing). This condition, if not corrected, could result in the slide detaching from the door after being inflated which, during an emergency, would impair the safe evacuation of occupants, possibly resulting in personal injuries. DGAC AD F-2001-053R1 and DGAC AD F-2001-052R2 required the Functional check and lubrication of door girt bar slider and the associated corrective actions. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2010-0135 This AD, which supersedes DGAC AD F-2001-053R1 and DGAC AD F-2001-052R2 retaining their requirements, is issued to extend the applicability to the newly certified models A330-223F and A330-243F, and to clarify the actions required by the superseded AD.
+
+Effective Date: 19 July 2010 Required action(s) Required as indicated, unless already accomplished: and Compliance (1) Within 18 months after the aeroplane first flight or within 550 Flight Time(s): Hours after 17 February 2001 [effective date of AD F-2001-053R1 and DGAC AD F-2001-052R2], whichever occurs later, on all passenger/crew doors and passenger compartment emergency exits, as applicable to the aeroplane model, perform a functional check and lubrication of door girt bar slider and, in case a slider is found without locking function, repair or replace it before further flight in accordance with the instructions of Airbus All Operator Telex (AOT) A330-52A3063 Revision 01 or Airbus AOT A340-52-A4075 Revision 01, as applicable to the aeroplane model. d (2) Repeat the requirements of paragraph (1) of this AD at intervals not to exceed 18 months, in accordance with the instructions of Airbus AOT A330-52A3063 Revision 01 or Airbus AOT A340-52-A4075 Revision e 01, as applicable to the aeroplane model. (3) Aeroplanes that have been inspected before the effective date of this d AD, in accordance with the instructions of Airbus AOT A330-52A3063 at original issue or Airbus AOT A340-52-A4075 at original issue, are compliant with the requirements of paragraph (1) of this AD. After the effective date of this AD, the repetitive inspections required by e paragraph (2) of this AD must be accomplished in accordance with the instructions of Airbus AOT A330-52A3063 Revision 01 or Airbus AOT A340-52-A4075 Revision 01, as applicable to the aeroplane model. s (4) Accomplishment of the Maintenance Review Board Report (MRBR) r tasks 52.10.00/09 or 52.22.00/09, as applicable to the aeroplane model, within the thresholds and repetitive intervals defined in paragraphs (1) and (2) of this AD, constitutes an acceptable means to comply with the requirements of this AD. e
+
+Ref. Publications: Airbus AOT A330-52A3063 at original issue; p Airbus AOT A340-52-A4075 at original issue; Airbus A330 MRBR Revision 11; Airbus A340 MRBR Revision 11. u The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. S
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The required actions and the risk allowance have granted the issuance of a Final AD with Request for Comments, postponing the public consultation process after publication. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification . Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAL; . E-mail: airworthiness.A330-A340@airbus.com EASA Form 110 Page 2/2

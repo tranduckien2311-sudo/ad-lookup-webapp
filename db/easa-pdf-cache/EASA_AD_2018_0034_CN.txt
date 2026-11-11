@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2018-0034-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2018-0034-CN
+
+Issued: 17 November 2021 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 17 November 2021 TCDS Number(s): EASA.A.004 and EASA.A.015 Foreign AD: Not applicable Cancellation: This Notice cancels EASA AD 2018-0034 dated 05 February 2018.
+
+ATA 05 – CANCELLED: Time Limits / Maintenance Checks – Safe Life Airworthiness Limitations Items – ALS Part 1 – Amendment
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-223F, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and, Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: The airworthiness limitations for Airbus A330 and A340 aeroplanes, which are approved by EASA, are currently defined and published in the A330 and A340 Airworthiness Limitation Section (ALS) document(s). The Safe Life Airworthiness Limitation Items are specified in ALS Part 1. These instructions have been identified as mandatory for continued airworthiness. Failure to accomplish these instructions could result in an unsafe condition. EASA previously issued AD 2014-0009 to require the implementation of the instructions and airworthiness limitations as specified in Airbus A330 and A340 ALS Part 1 documents at Revision 07. Page 1 of 2 TE.CAP.00116-006 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2018-0034-CN Since that AD was issued, improvement of safe life component selection and life extension campaigns resulted in life limitations changes, among others new or more restrictive life limitations, approved by EASA. Consequently, Airbus successively issued Revision 08 and Revision 09 of the A330 and A340 ALS Part 1, compiling all ALS Part 1 changes approved since previous Revision 07. In addition, Airbus published Variation 9.2 to remove from ALS Part 1 some life limits connected to a deficiency in the fatigue performance of 300M high strength steel used in forgings. These life limits, applicable only for a specific batch of parts, are required by EASA AD 2017-0185. For the reason described above, EASA issued AD 2018-0034, which retained the requirements of EASA AD 2014-0009, which was superseded, requiring implementation of all safe life airworthiness limitations as described in ALS Part 1 at Revision 09 (including Variation 9.2), and AD 2020-0190 to require implementation of reduced life limits for the Nose Landing Gear (NLG) lower torque link, Part Number (P/N) D64001 as described in ALS Part 1, Variation 10.2. Since those ADs were issued, Airbus amended the A330 and A340 ALS Part 1, and issued both at Revision 11, introducing new and/or more restrictive tasks for respectively A330 and A340 aeroplanes. Consequently, EASA issued AD 2021-0246 and AD 2021-0247, which take over the requirements for A330 and A340 respectively aeroplanes from the previously issued EASA AD 2018-0034 and AD 2020-0190, and requiring accomplishment of the actions specified in Airbus A330 ALS Part 1 Revision 11 and A340 ALS Part 5 Revision 11, as applicable. For the reasons described above, EASA AD 2018-0034 is no longer necessary, and therefore subject Notice cancels AD 2018-0034.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Airbus A330 and A340 ALS Part 1, both at Revision 09, dated 18 September 2017, including Variation 9.2 dated 28 November 2017, and Airbus A330 ALS Part 1 Revision 11 and A340 ALS Part 1 Revision 11, both dated 01 July 2021.
+
+Remarks: 1. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 2. For any question concerning the technical content of this AD-CN, please contact: AIRBUS – IIAL (Airworthiness Office); E-mail: airworthiness.A330-A340@airbus.com. Page 2 of 2 TE.CAP.00116-006 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

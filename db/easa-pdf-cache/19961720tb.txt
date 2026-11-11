@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-172-084(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 and A321 Aircraft Collins radio-altimeter antennas This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE aircraft models A320-111, A320-211, A320-212, A320-214, A320-231, A320-232 and A320-233 and aircraft models A321-111, A321-112 and A321-131 with AIRBUS INDUSTRIE modification n° 20259 or AIRBUS INDUSTRIE Service Bulletin A320-34-1030 embodied. In order to avoid radio-height fluctuations due to a bad solder of the connector to the antenna baseplate, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive. Within 6 months, in accordance with the instructions given in AIRBUS INDUSTRIE A.O.T. 34-03 dated February 20, 1996 : - On aircraft, replace the COLLINS radio-altimeter antennas P/N 622-8701-002 with serial number below 2013 inclusive, having their C-sink holes painted in white by new antennas fitted with metallic C-sink inserts in their attaching holes. - In the store, check the attaching holes of the spare antennas and purge all those showing C-sinks painted in white. - Return to ROCKWELL-COLLINS all the antennas showing C-sinks painted in white. NOTE : Aircraft already inspected in accordance with AIRBUS INDUSTRIE A.O.T. 34-03 dated 20 February 1996 are not concerned by this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE All Operator Telex AOT 34-03 dated 20 February 1996 AIRBUS INDUSTRIE Service Bulletin A320-34-1030 EFFECTIVE DATE : SEPTEMBER 07, 1996 n/JYR AIRBUS INDUSTRIE August 28, 1996 96-172-084(B) A320 and A321 Aircraft

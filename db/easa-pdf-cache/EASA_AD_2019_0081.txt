@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0081
+
+Airworthiness Directive
+
+AD No.: 2019-0081
+
+Issued: 03 April 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 and A321 aeroplanes
+
+Effective Date: 17 April 2019 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 26 – Fire Protection – Pipe Connections – Re-torque
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A320-251N, A320-271N, A321-251N, A321-253N, A321-271N and A321-272N aeroplanes, manufacturer serial numbers 7195, 7249, 7277, 7283, 7290, 7291, 7309, 7321, 7323, 7341, 7352, 7354, 7359, 7367, 7380, 7386, 7387, 7399, 7409, 7417, 7429, 7459, 7466, 7472, 7475, 7484, 7486, 7489, 7494, 7499, 7504, 7505, 7507, 7508, 7510, 7512, 7514, 7517, 7521, 7523, 7526, 7533, 7535, 7538, 7540, 7547, 7553, 7554, 7555, 7559, 7560, 7563, 7565, 7567, 7568, 7571, 7576, 7577, 7579, 7581, 7587, 7588, 7589, 7591, 7594, 7600, 7602, 7603, 7606, 7612, 7616, 7618, 7626, 7629, 7638, 7639, 7642, 7648, 7649, 7662, 7663, 7671, 7676, 7677, 7682, 7688, 7694, 7697, 7698, 7703, 7705, 7710, 7719, 7721, 7723, 7727, 7731, 7733, 7735, 7737, 7744, 7746, 7751, 7753, 7755, 7764, 7795, 7804, 7812, 7813, 7839, 7842, 7844, 7848, 7859, 7864, 7881, 7892, 7899, 7912 and 7917.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A320-26-1113 or SB A320-26-1114, as applicable. Affected connection: Pipe connections as identified in the applicable SB. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0081 Aeroplane date of manufacture: The date of transfer of title (ownership) which is referenced in Airbus documentation at the time of first delivery to an operator. Correct torque value: Torque value within the range of correct value (inclusive) as specified in Table 1 of this AD, as applicable.
+
+Reason: During periodic calibration check, some torqueing tools used on the final assembly line have been found out-of-tolerance. The subsequent investigation determined that connections of sense and fire extinguishing lines within the pylon area have been under-torqued on a group of aeroplanes. This condition, if not corrected, could lead to leaks or disconnections of those lines, possibly resulting in reduced engine control and/or reduced safety margin in case of engine fire. To address this potential unsafe condition, Airbus issued the applicable SB, providing instructions to restore the correct torque value of those affected connections. For the reason described above, this AD requires re-torqueing to the correct value the affected connections.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Re-torque: Within 24 months after the aeroplane date of manufacture, or within 3 months after the effective date of this AD, whichever occurs later, re-torque each affected connection to a correct torque value in accordance with the instructions of the applicable SB. Table 1 – Correct torque value (see Note 1 of this AD) Nominal value, as listed in the Range of correct value applicable SB 7.90 Nm 7.90 Nm +/- 0.6 Nm 16 Nm 16 Nm +/- 1 Nm 90 Nm 90 Nm +/- 5 Nm Note 1: Airbus SB A320-26-1113 provides instructions to re-torque certain affected connection to 9.40 Nm, whilst the correct value is 7.90 Nm. A revision of this SB is expected to be issued, including the amended torque value.
+
+Ref. Publications: Airbus SB A320-26-1113 original issue dated 10 December 2018. Airbus SB A320-26-1114 original issue dated 10 December 2018. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0081
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 05 March 2019 as PAD 19-033 for consultation until 02 April 2019. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

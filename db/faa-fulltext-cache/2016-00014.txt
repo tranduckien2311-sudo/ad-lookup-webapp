@@ -1,0 +1,557 @@
+[Federal Register Volume 81, Number 8 (Wednesday, January 13, 2016)]
+[Rules and Regulations]
+[Pages 1486-1489]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-00014]
+
+
+
+[[Page 1486]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0678; Directorate Identifier 2013-NM-207-AD; 
+Amendment 39-18367; AD 2016-01-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2013-13-04, 
+for certain Airbus Model A318, A319, A320, and A321 series airplanes. 
+AD 2013-13-04 required installing a power interruption protection 
+circuit for the landing gear control interface unit (LGCIU). This new 
+AD requires a new modification of any previously modified LGCIU. This 
+new AD also requires revising the maintenance or inspection program to 
+reduce a certain functional check interval. This new AD also adds 
+airplanes to the applicability. This AD was prompted by a determination 
+that additional work is necessary to adequately address the identified 
+unsafe condition. We are issuing this AD to prevent untimely unlocking 
+and/or retraction of the nose landing gear (NLG), which, while on the 
+ground, could result in injury to ground personnel and damage to the 
+airplane.
+
+DATES: This AD becomes effective February 17, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of February 17, 
+2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of August 
+14, 2013 (78 FR 41286, July 10, 2013) .
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-0678; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this final rule, contact 
+Airbus, Airworthiness Office--EAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0678
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2013-13-04, Amendment 39-17492 (78 FR 41286, 
+July 10, 2013). AD 2013-13-04 applied to certain Airbus Model A318, 
+A319, A320, and A321 series airplanes. The NPRM published in the 
+Federal Register on March 31, 2015 (80 FR 17007).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2013-0202, dated September 5, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for Airbus Model A318-
+111, -112, -121, and -122 airplanes; Model A319-111, -112, -113, -114, 
+-115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -231, 
+-232, and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes. The MCAI states:
+
+    After a push back from the gate, an A320 aeroplane was preparing 
+to initiate taxi, when an uncommanded nose landing gear (NLG) 
+retraction occurred, causing the nose of the aeroplane to hit the 
+ground. Investigations revealed that the retraction was caused by a 
+combination of a power interruption to Landing Gear Control and 
+Interface Units (LGCIU) and an internal hydraulic leak through the 
+landing gear (LG) selector valve 40GA.
+    Deeper investigations have revealed that LGCIU power 
+interruption appears during engine start at each flight. Even though 
+no incident has been reported in service, it has been determined 
+that a non-compliance to the safety objective exists when combined 
+with a dormant single failure of the selector valve seal leaking.
+    This condition, if not corrected, could lead to further 
+incidents of untimely unlocking and/or retraction of the NLG which, 
+while on the ground, could result in injury to ground personnel and 
+damage to the aeroplane.
+    To address the possible hydraulic leak of the LG selector valve, 
+EASA issued AD 2007-0065 [http://ad.easa.europa.eu/blob/easa_ad_2007_0065.pdf/AD_2007-0065] currently at Revision 2.
+    To address the risk of untimely unlocking and/or retraction of 
+the NLG, EASA issued AD 2011-0202 [http://ad.easa.europa.eu/blob/easa_ad_2011_0202.pdf/AD_2011-0202] to require installation of a 
+power interruption protection circuit to the LGCIU and 
+accomplishment of associated modifications.
+    Since that [EASA] AD was issued, it has been discovered that 
+additional work is necessary to adequately correct this unsafe 
+condition and consequently, Airbus issued Service Bulletin (SB) 
+A320-32-1346 to Revision 05. An update of the maintenance programme 
+is required as well, following the required modification.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2011-0202, which is superseded, and requires 
+certain additional actions, as defined in the revised Airbus SB, as 
+applicable to aeroplane model, and an update of the approved 
+maintenance programme.
+
+    The additional actions include a new modification of any previously 
+modified LGCIU, and reducing a certain functional check interval. This 
+AD also adds airplanes on which Airbus modification 37866 has been 
+embodied in production to the applicability. You may examine the MCAI 
+in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2015-0678-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (80 
+FR 17007, March 31, 2015) and the FAA's response to the comment.
+
+Request To Include Revised Service Information
+
+    United Airlines (UAL) stated that paragraphs (i) and (j) of the 
+proposed AD (80 FR 17007, March 31, 2015) would be required to be done 
+in accordance with the instructions of Airbus Service Bulletin A320-32-
+1346, Revision 05, dated January 13, 2012. UAL asked that we allow use 
+of the latest revision available, Airbus Service Bulletin A320-32-1346, 
+Revision 07, dated February 10, 2015, for accomplishing the 
+modification.
+    We agree with the commenter's request. Airbus has issued Service 
+Bulletin A320-32-1346, Revision 06, dated January 12, 2015, and Airbus 
+Service Bulletin A320-32-1346, Revision 07, dated February 10, 2015.
+
+[[Page 1487]]
+
+These revisions state that no additional work is necessary on airplanes 
+changed in accordance with Airbus Service Bulletin A320-32-1346, 
+Revision 05, dated January 13, 2012, which was specified as the 
+appropriate source of service information in the NPRM (80 FR 17007, 
+March 31, 2015).
+    We have changed paragraphs (i) and (j) of this AD to specify 
+accomplishing the modification in accordance with Airbus Service 
+Bulletin A320-32-1346, Revision 07, dated February 10, 2015. We have 
+also added a new paragraph (l)(2) to this AD (paragraph (l) of the 
+proposed AD (80 FR 17007, March 31, 2015) has been changed to paragraph 
+(l)(1) in this AD) to give credit for actions done before the effective 
+date of this AD using Airbus Service Bulletin A320-32-1346, Revision 
+05, dated January 13, 2012; or Airbus Service Bulletin A320-32-1346, 
+Revision 06, dated January 12, 2015.
+
+Request To Include Terminating Action
+
+    UAL stated that the NPRM (80 FR 17007, March 31, 2015) does not 
+include a terminating action. UAL asked that we create a new paragraph 
+detailing all actions that will be terminated by accomplishing the 
+modification of the LGCIU, as specified in Airbus Service Bulletin 
+A320-32-1346, Revision 07, dated February 10, 2015.
+    We do not agree with the request. Paragraph (i) of this AD 
+specifies that the modification terminates the actions required by 
+paragraphs (g) and (h) of this AD. Therefore, no change to this AD is 
+necessary in this regard.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD with the changes described 
+previously and minor editorial changes. We have determined that these 
+minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 17007, March 31, 2015) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 17007, March 31, 2015).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-32-1346, Revision 07, dated 
+February 10, 2015, including Appendices 01 and 02, dated February 10, 
+2015; and Task 32.30.00.17, ``Functional Check of LGCIU Power Supply 
+Relays,'' of Section C-32 of Section C, Systems and Powerplant, of the 
+Airbus A318/A319/A320/A321 Maintenance Review Board Report, Revision 
+18, dated March 2013. The service information describes procedures for 
+installing a power interruption protection circuit for the LGCIU, and 
+for a new modification of any previously modified LGCIU. This service 
+information is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 851 airplanes of U.S. registry.
+    The actions required by AD 2013-13-04, Amendment 39-17492 (78 FR 
+41286, July 10, 2013), take about 48 work-hours per product, at an 
+average labor rate of $85 per work-hour. Required parts will cost about 
+$8,220 per product. Based on these figures, the estimated cost of the 
+actions that are required by AD 2013-13-04 is $12,300 per product.
+    We estimate that it takes about 46 work-hours per product to comply 
+with the new modification in this AD. The average labor rate is $85 per 
+work-hour. Required parts will cost about $9,650 per product. Based on 
+these figures, we estimate the cost of the new modification on U.S. 
+operators to be $11,539,560, or $13,560 per product.
+    We estimate that it takes about 1 work-hour per product to revise 
+the maintenance or inspection program in this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of revising the maintenance program on U.S. operators to be $72,335, or 
+$85 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-0678; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2013-13-04, Amendment 39-17492 (78 FR 41286, July 10, 2013), and adding 
+the following new AD:
+
+
+[[Page 1488]]
+
+
+2016-01-08 Airbus: Amendment 39-18367. Docket No. FAA-2015-0678; 
+Directorate Identifier 2013-NM-207-AD.
+
+(a) Effective Date
+
+    This AD becomes effective February 17, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2013-13-04, Amendment 39-17492 (78 FR 41286, 
+July 10, 2013).
+
+(c) Applicability
+
+    (1) This AD applies to Airbus Model A318-111, -112, -121, and -
+122 airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes; Model A320-211, -212, -214, -231, -232, and -233 
+airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes; certificated in any category; all manufacturer 
+serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear.
+
+(e) Reason
+
+    This AD was prompted by a determination that additional work is 
+necessary to adequately address the identified unsafe condition. We 
+are issuing this AD to prevent untimely unlocking and/or retraction 
+of the nose landing gear (NLG), which, while on the ground, could 
+result in injury to ground personnel and damage to the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Modification With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2013-13-04, Amendment 39-17492 (78 FR 41286, July 10, 2013) with no 
+changes. For all airplanes except airplanes on which Airbus 
+modification 37866 has been embodied in production: At the 
+applicable compliance time specified in paragraph (g)(1) or (g)(2) 
+of this AD: Install a power interruption protection circuit for the 
+landing gear control interface unit (LGCIU), in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-32-1346, 
+Revision 04, including Appendices 01 and 02, dated April 22, 2011 
+(for Model A318, A319, A320, and A321 series airplanes other than 
+the Model A319CJ (corporate jet) airplanes); or Airbus Service 
+Bulletin A320-32-1349, Revision 03, including Appendix 1, dated 
+October 5, 2011 (for Model A319CJ (corporate jet) airplanes).
+    (1) For airplanes that have embodied Airbus Modification 38947 
+specified in Airbus Service Bulletin A320-32-1348 during production 
+or in service: Within 72 months after August 14, 2013 (the effective 
+date of AD 2013-13-04, Amendment 39-17492 (78 FR 41286, July 10, 
+2013)).
+    (2) For all airplanes other than those identified in paragraph 
+(g)(1) of this AD: Within 60 months after August 14, 2013 (the 
+effective date of AD 2013-13-04, Amendment 39-17492 (78 FR 41286, 
+July 10, 2013)).
+
+(h) Retained Re-Identification of Identification Plates With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2013-13-04, Amendment 39-17492 (78 FR 41286, July 10, 2013) with no 
+changes. For airplanes on which the installation required by 
+paragraph (g) of this AD has been done before August 14, 2013 (the 
+effective date of AD 2013-13-04) using Airbus Service Bulletin A320-
+32-1346, dated December 4, 2008 (for Model A318, A319, A320, and 
+A321 series airplanes other than Model A319CJ (corporate jet) 
+airplanes): Within the applicable times specified in paragraphs 
+(g)(1) and (g)(2) of this AD, re-identify the identification plates, 
+in accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-32-1346, Revision 04, including Appendices 01 and 02, 
+dated April 22, 2011 (for Model A318, A319, A320, and A321 series 
+airplanes other than Model A319CJ (corporate jet) airplanes).
+
+(i) New Modification
+
+    For airplanes identified in paragraphs (i)(1), (i)(2), and 
+(i)(3) of this AD except airplanes on which Airbus modification 
+37866 has been embodied in production: Modify the LGCIU at the 
+applicable time specified in paragraph (i)(1), (i)(2), or (i)(3) of 
+this AD, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-32-1346, Revision 07, dated February 
+10, 2015, including Appendices 01 and 02, dated February 10, 2015; 
+or Airbus Service Bulletin A320-32-1349, Revision 03, including 
+Appendix 1, dated October 5, 2011 (for Model A319CJ (corporate jet) 
+airplanes), which was incorporated by reference on August 14, 2013 
+(78 FR 41286, July 10, 2013). Accomplishing the modification in this 
+paragraph terminates the actions required by paragraphs (g) and (h) 
+of this AD.
+    (1) For airplanes on which any landing gear (LG) selector valve 
+having part number (P/N) 114079019 is installed and that have 
+embodied Airbus Modification 38947 specified in Airbus Service 
+Bulletin A320-32-1348 during production or in service: Modify the 
+LGCIU within 72 months after the effective date of this AD.
+    (2) For airplanes on which any LG selector valve 40GA having a 
+part number listed in paragraphs (i)(2)(i) through (i)(2)(xii) of 
+this AD, provided the valve has the marking ``DI'' or ``DI-BE'' 
+recorded on its amendment plates: Modify the LGCIU within 72 months 
+after the effective date of this AD.
+    (i) P/N 114079001.
+    (ii) P/N 114079005.
+    (iii) P/N 114079009.
+    (iv) P/N 114079013.
+    (v) P/N 114079001A.
+    (vi) P/N 114079005A.
+    (vii) P/N 114079009A.
+    (viii) P/N 114079015.
+    (ix) P/N 114079001AB.
+    (x) P/N 114079005AB.
+    (xi) P/N 114079009AB.
+    (xii) P/N 114079017.
+    (3) For all airplanes other than those identified in paragraphs 
+(i)(1) and (i)(2) of this AD: Modify the LGCIU within 60 months 
+after the effective date of this AD.
+
+(j) New Modification for Airplanes Previously Modified
+
+    For airplanes that have been modified as of the effective date 
+of this AD as specified in the applicable service information 
+identified in paragraph (j)(1), (j)(2), (j)(3), or (j)(4) of this 
+AD, except airplanes on which Airbus modification 37866 has been 
+embodied in production: Within 72 months after the effective date of 
+this AD, do the additional modification of the LGCIU, in accordance 
+with the Accomplishment Instructions of Airbus Service Bulletin 
+A320-32-1346, Revision 07, dated February 10, 2015, including 
+Appendices 01 and 02, dated February 10, 2015.
+    (1) Airbus Service Bulletin A320-32-1346, Revision 01, dated 
+October 27, 2009, which is not incorporated by reference in this AD.
+    (2) Airbus Service Bulletin A320-32-1346, Revision 02, dated 
+November 4, 2009, which is not incorporated by reference in this AD.
+    (3) Airbus Service Bulletin A320-32-1346, Revision 03, dated 
+January 7, 2010, which is not incorporated by reference in this AD.
+    (4) Airbus Service Bulletin A320-32-1346, including Appendices 
+01 and 02, Revision 04, dated April 22, 2011, which is incorporated 
+by reference in AD 2013-13-04, Amendment 39-17492 (78 FR 41286, July 
+10, 2013).
+
+(k) New Maintenance or Inspection Program Revision
+
+    Before further flight after accomplishing the actions specified 
+in paragraph (i) or (j) of this AD or within 7 days after the 
+effective date of this AD, whichever occurs later: Revise the 
+maintenance or inspection program, as applicable, to incorporate 
+Task 32.30.00.17, ``Functional Check of LGCIU Power Supply Relays,'' 
+of Section C-32 of Section C, Systems and Powerplant, of the Airbus 
+A318/A319/A320/A321 Maintenance Review Board Report, Revision 18, 
+dated March 2013. The initial compliance time is within 4,000 flight 
+hours after accomplishing the additional modification of the LGCIU.
+
+(l) Credit for Previous Actions
+
+    (1) This paragraph provides credit for A319 Corporate Jet 
+airplanes for the modification required by paragraph (g) of this AD 
+if that modification was performed before the effective date of this 
+AD using the following applicable service information. This service 
+information is not incorporated by reference in this AD.
+    (i) Airbus Service Bulletin A320-32-1349, dated December 4, 
+2008;
+    (ii) Airbus Service Bulletin A320-32-1349, Revision 01, dated 
+August 31, 2009;
+    (iii) Airbus Service Bulletin A320-32-1349, Revision 02, dated 
+June 16, 2010.
+    (2) This paragraph provides credit for the modification required 
+by paragraphs (i) and (j) of this AD, as applicable, if that 
+modification was performed before the effective date of this AD 
+using Airbus Service Bulletin A320-32-1346, Revision 05, dated 
+January 13, 2012; or Airbus Service Bulletin A320-32-1346, Revision 
+06, dated January 12, 2015. This service information is not 
+incorporated by reference in this AD.
+
+[[Page 1489]]
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (ii) AMOCs approved previously for AD 2013-13-04, Amendment 39-
+17492 (78 FR 41286, July 10, 2013) are approved as AMOCs for the 
+corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2013-0202, dated September 5, 
+2013, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2015-0678-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference in this AD is available at the addresses 
+specified in paragraphs (o)(5) and (o)(6) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+February 17, 2016.
+    (i) Airbus Service Bulletin A320-32-1346, Revision 07, dated 
+February 10, 2015, including Appendices 01 and 02, dated February 
+10, 2015.
+    (ii) Task 32.30.00.17, ``Functional Check of LGCIU Power Supply 
+Relays,'' of Section C-32 of Section C, Systems and Powerplant, of 
+the Airbus A318/A319/A320/A321 Maintenance Review Board Report, 
+Revision 18, dated March 2013.
+    (4) The following service information was approved for IBR on 
+August 14, 2013 (78 FR 41286, July 10, 2013).
+    (i) Airbus Service Bulletin A320-32-1346, Revision 04, including 
+Appendices 01 and 02, dated April 22, 2011.
+    (ii) Airbus Service Bulletin A320-32-1349, Revision 03, 
+including Appendix 1, dated October 5, 2011.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 31, 2015.
+Philip Forde,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-00014 Filed 1-12-16; 8:45 am]
+ BILLING CODE 4910-13-P

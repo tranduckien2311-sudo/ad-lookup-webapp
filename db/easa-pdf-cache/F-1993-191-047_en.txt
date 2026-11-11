@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-191-047(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuel system electrical wiring attachment clips at rib 6 The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft MSN 129 to 343, 345 to 347 and 349 to 363 included. In order to prevent, in the event of an aircraft lightning strike, an electric arc in the wing tanks which may result from damage to the insulation around the fuel system electrical wiring at rib 6 due to the possible use in aircraft production of a clip not resistant to fuel to hold this electrical wiring, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 3500 flight cycles after effective date of this
+
+Airworthiness Directive unless already accomplished, identify and replace if necessary the clips holding the fuel system electrical wiring at rib 6 (left and right-hand wings) in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-28-1052 Revision 1. If the incorrect type of clips are identified during this inspection, replace them with fuel-resistant clips and inspect the electrical wiring at these clips in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-28-1052 Revision 1. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-28-1052 Revision 1. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-28-1052 Revision 1 or any further approved revision. EFFECTIVE DATE : NOVEMBER 06, 1993 n/C AIRBUS INDUSTRIE October 27, 1993 93-191-047(B) A320 Aircraft

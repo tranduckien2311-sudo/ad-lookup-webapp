@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-048-024(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Fuel quantity probes The present
+
+Airworthiness Directive applies to A320 AIRBUS INDUSTRIE aircraft all models without AIRBUS INDUSTRIE modification 22647 and 22855 or without AIRBUS INDUSTRIE Service Bulletin A320-28-1040. In order to prevent, in the event of an aircraft lightning strike, an electric arc between fuel probes and tanks structure, the following measures are rendered mandatory : Within 9 months latest after effective date of this
+
+Airworthiness Directive : 1) On aircraft without AIRBUS INDUSTRIE modification 22647, in center tank fuselage, install on probes 35QT, 36QT, 37QT, 38QT and39QT a nylon insulating plate in accordance with instructions of AIRBUS INDUSTRIE Service Bulletin A320-28-1040. 2) On aircraft without AIRBUS INDUSTRIE modification 22855, in right hand and left hand wing tanks : In order to move the fuel probes away from the structure, install new support bracket assemblies of probes 21QT1, 21QT2, 22QT1, 22QT2, 23QT1, 23QT2, 25QT1, 25QT2, 26QT1, 26QT2, 27QT1, 27QT2, 29QT1, 29QT2, 31QT1 and 31QT2 in accordance with instructions of AIRBUS INDUSTRIE Service Bulletin A320-28-1040. A nylon insulating plate is rivetted on fuel probe brackets 21QT1, 21QT2, 22QT1 and 22QT2. No further action is required after compliance with this
+
+Airworthiness Directive or compliance with AIRBUS INDUSTRIE Service Bulletin A320-28-1040. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-28-1040. EFFECTIVE DATE : FEBRUARY 29, 1992 e/C AIRBUS INDUSTRIE February 19, 92 92-048-024(B) A320 aircraft

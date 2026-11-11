@@ -1,0 +1,380 @@
+[Federal Register Volume 75, Number 85 (Tuesday, May 4, 2010)]
+[Rules and Regulations]
+[Pages 23574-23576]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2010-10177]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-1353; Directorate Identifier 2008-NE-46-AD; 
+Amendment 39-16279; AD 2010-09-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International, S.A. CFM56-5B1/P, -
+5B2/P, -5B3/P, -5B3/P1, -5B4/P, -5B5/P, -5B6/P, -5B7/P, -5B8/P, -5B9/P, 
+-5B1/2P, -5B2/2P, -5B3/2P, -5B3/2P1, -5B4/2P, -5B4/P1, -5B6/2P, -5B4/
+2P1, and -5B9/2P Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) for CFM International, S.A. CFM56-5B series turbofan engines. That 
+AD requires reviewing exhaust gas temperature (EGT) monitoring records 
+to determine EGT margin deterioration, and for airplanes where both 
+engines have greater than 80 [deg]centigrade (C) of EGT margin 
+deterioration, borescope-inspecting the high-pressure compressor (HPC) 
+of both engines. That AD also requires removing from service any engine 
+that does not pass the borescope inspection and, if both engines pass, 
+replacing one of the engines with an engine that has 80 [deg]C or less 
+of EGT margin deterioration. That AD also requires continuous 
+monitoring of EGT margin deterioration on engines in service to prevent 
+two engines on an airplane from having greater than 80 [deg]C of EGT 
+margin deterioration. This AD:
+     Reduces the number of engine models affected;
+     Continues to monitor EGT margin deterioration;
+     Lowers the EGT margin threshold from 80 [deg]C to 75 
+[deg]C;
+     Removes FADEC software version 5.B.Q and earlier versions 
+from the engine as mandatory terminating action to the continuous EGT 
+margin deterioration monitoring, for certain engine models;
+     Removes the requirement to borescope inspect; and
+     Removes the requirement to replace one of the engines with 
+an engine that has 80 [deg]C or less deterioration of EGT margin as a 
+corrective action.
+    This AD results from a reduction of the affected engine models 
+listed in AD 2009-01-01 from 25 to 19, a reduction in the engine EGT 
+margin deterioration threshold from 80 [deg]C to 75 [deg]C, the 
+introduction of terminating action to the continuous EGT monitoring for 
+certain engines, and a change to the removal plan for the remaining 
+engines if the EGT margin deterioration is greater than 75 [deg]C. We 
+are issuing this AD to prevent HPC stalls, which could prevent 
+continued safe flight or landing.
+
+DATES: This AD becomes effective June 8, 2010. The Director of the 
+Federal Register approved the incorporation by reference of certain 
+publications listed in the regulations as of June 8, 2010.
+
+ADDRESSES: You can get the service information identified in this AD 
+from CFM International, S.A., Technical Customer Support, 1 Neumann 
+Way,
+
+[[Page 23575]]
+
+Cincinnati, OH 45215; telephone (513) 552-3272; fax (513) 552-3329, Web 
+address http://customer.geae.com.
+    The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue, 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+
+FOR FURTHER INFORMATION CONTACT: Wayne Maguire, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7778; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 by 
+superseding AD 2009-01-01, Amendment 39-15779 (73 FR 80296, December 
+31, 2008), with a proposed AD. The proposed AD applies to CFM 
+International, S.A. CFM56-5B series turbofan engines. We published the 
+proposed AD in the Federal Register on December 21, 2009 (74 FR 67834). 
+That action proposed to require continuous monitoring of EGT margin 
+deterioration, removing FADEC software version 5.B.Q and earlier 
+versions from the engine as mandatory terminating action to the 
+repetitive recalculating and EGT monitoring for certain engine models, 
+and removing other certain engine models from service if the EGT margin 
+deterioration is greater than 75 [deg]C.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is provided in 
+the ADDRESSES section. Comments will be available in the AD docket 
+shortly after receipt.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Request To Clarify Engine Replacement Requirements
+
+    One commenter, CFM International, S.A., requests that we change the 
+proposed AD to state, in part: ``For airplanes where both engines 
+indicate more than 75 [deg]C EGT margin deterioration, within 150 CIS 
+either remove one engine and replace it with an engine indicating less 
+than 75 [deg]C EGT margin.''
+    We do not agree. When both installed engines have greater than 75 
+[deg]C EGT margin deterioration, the proposed AD no longer allows 
+replacing one of the engines with an engine that has 75 [deg]C or less 
+of EGT margin deterioration as a corrective action. We do not agree 
+with the commenter's requested change, but we see an opportunity to 
+clarify that the terminating action for this AD for certain engine 
+models, is to remove FADEC software version 5.B.Q and earlier. For 
+other engine models, the corrective action is to remove those engines 
+from service that have greater than 75 [deg]C of EGT margin 
+deterioration. We added this clarification to the Summary of this AD. 
+We kept the same engine replacement requirements in this AD, as those 
+in the proposed AD.
+
+Request To Reference the Latest Version of Software
+
+    CFM International, S.A. requests that we reference the latest 
+version of software to be installed, which is version 5.B.R.
+    We do not agree. We intentionally referenced the software versions 
+needing to be removed but not the version to be installed, as that 
+version could become superseded in the future. We did not change the 
+AD.
+
+Request To Correct the Service Information Reference
+
+    CFM International, S.A. requests that we correct the service 
+information reference in paragraph (k) to read ``CFM International, 
+S.A. Alert Service Bulletin No. CFM56-5B S/B 72-A0722, Revision 1, 
+dated March 20, 2009.''
+    We agree. We changed the AD to reflect the new service information 
+reference throughout the compliance section.
+
+Request To Indent Sub-Paragraphs
+
+    CFM International, S.A. requests that we indent the proposed AD 
+numbered sub-paragraphs, as this further distinguishes the unique 
+terminating actions for each group of identified CFM56 engine models.
+    We do not agree. Rulemaking procedures require that we do not 
+indent sub-paragraphs. We did not change the AD.
+
+Request To Alleviate
+
+    Two private commenters request that the prohibition against using 
+engine control software version 5.B.Q or earlier versions, be 
+alleviated for the CFM56-5B/2P (dual annular combustor) family of 
+engine models. One other commenter requests that we move the contents 
+of paragraph (h) to paragraph (f). The commenters state that the 
+currently available engine control software version for those engines 
+is earlier than version 5.B.Q.
+    We partially agree. We clarified paragraph (h) to apply to only 
+those engine models where terminating action includes engine control 
+software. We also added a second prohibition paragraph to apply to only 
+those engines listed in paragraph (g). However, we did not move the 
+contents of paragraph (h) to paragraph (f).
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 397 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 
+one work-hour to install FADEC software. The average labor rate is $80 
+per work-hour. There are no required parts costs. Based on these 
+figures, we estimate the total cost of the AD to U.S. operators to be 
+$31,760.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States,
+
+[[Page 23576]]
+
+or on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary at the 
+address listed under ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Amendment 39-15779 (73 FR 
+80296, December 31, 2008) and by adding a new airworthiness directive, 
+Amendment 39-16279, to read as follows:
+
+2010-09-14 CFM International, S.A.: Amendment 39-16279. Docket No. 
+FAA-2008-1353; Directorate Identifier 2008-NE-46-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective June 8, 
+2010.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2009-01-01, Amendment 39-15779.
+
+Applicability
+
+    (c) This AD applies to CFM International, S.A. CFM56-5B1/P, -
+5B2/P, -5B3/P, -5B3/P1, -5B4/P, -5B5/P, -5B6/P, -5B7/P, -5B8/P, -
+5B9/P, -5B1/2P, -5B2/2P, -5B3/2P, -5B3/2P1, -5B4/2P, -5B4/P1, -5B6/
+2P, -5B4/2P1, and -5B9/2P turbofan engines. These engines are 
+installed on, but not limited to, Airbus A318, A319, A320, and A321 
+series airplanes.
+
+Unsafe Condition
+
+    (d) This AD results from a reduction of the affected engine 
+models listed in AD 2009-01-01 from 25 to 19, a reduction in the 
+engine exhaust gas temperature (EGT) margin deterioration threshold 
+from 80 [deg]C to 75 [deg]C, the introduction of terminating action 
+to the continuous EGT monitoring for certain engines, and a change 
+to the removal plan for the remaining engines if the EGT margin 
+deterioration is greater than 75 [deg]C. We are issuing this AD to 
+prevent high-pressure compressor stalls, which could prevent 
+continued safe flight or landing.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+    (f) On the effective date of this AD, and at any time after the 
+effective date of this AD, for CFM International, S.A. CFM56-5B1/P, 
+-5B2/P, -5B3/P, -5B3/P1, -5B4/P, -5B4/P1, -5B5/P, -5B6/P, -5B7/P, -
+5B8/P and -5B9/P turbofan engines:
+    (1) Monitor and calculate engine EGT margin deterioration. Use 
+paragraphs 3.A.(2) and 3.A.(3) of the Accomplishment Instructions 
+and Appendix A of CFM International, S.A. Alert Service Bulletin 
+(ASB) No. CFM56-5B S/B 72-A0722, Revision 1, dated March 20, 2009, 
+to do the monitoring and calculating.
+    (2) As mandatory terminating action to the repetitive 
+recalculating and monitoring of EGT margin deterioration, remove 
+FADEC software version 5.B.Q and earlier versions from engines that 
+have greater than 75 [deg]C of EGT margin deterioration within 150 
+additional cycles-in-service (CIS).
+    (3) As mandatory terminating action to the repetitive 
+recalculating and monitoring of EGT margin deterioration, remove 
+FADEC software version 5.B.Q and earlier versions from engines that 
+have less than or equal to 75 [deg]C of EGT margin deterioration 
+within 900 additional CIS.
+    (g) On the effective date of this AD, and at any time after the 
+effective date of this AD, for CFM International, S.A. CFM56-5B1/2P, 
+-5B2/2P, -5B3/2P, -5B3/2P1, -5B4/2P, -5B4/2P1, -5B6/2P and -5B9/2P 
+turbofan engines:
+    (1) Monitor and calculate engine EGT margin deterioration. Use 
+paragraphs 3.A.(2) and 3.A.(3) of the Accomplishment Instructions 
+and Appendix A of CFM International, S.A. ASB No. CFM56-5B S/B 72-
+A0722, Revision 1, dated March 20, 2009, to do the monitoring and 
+calculating.
+    (2) Remove engines from service that have greater than 75 [deg]C 
+of EGT margin deterioration within 150 additional CIS.
+
+Installation Prohibitions
+
+    (h) For engines listed in paragraph (f) of this AD, after the 
+effective date of this AD, do not install FADEC software version 
+5.B.Q or any earlier software versions.
+    (i) For engines listed in paragraph (g) of this AD, after the 
+effective date of this AD, do not install an engine that has greater 
+than 75 [deg]C of EGT margin deterioration.
+
+Interim Actions
+
+    (j) These actions are interim actions and we anticipate further 
+rulemaking actions in the future, including further action to 
+address the remaining engines in service that are above 75 [deg]C 
+deterioration of EGT margin.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (k) The Manager, Engine Certification Office, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19.
+
+Related Information
+
+    (l) Refer to European Aviation Safety Agency Airworthiness 
+Directive 2009-0088, Revision 1, dated April 28, 2009, for related 
+information.
+    (m) Contact Wayne Maguire, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine and Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7778; fax (781) 238-7199, 
+for more information about this AD.
+
+Material Incorporated by Reference
+
+    (n) You must use CFM International, S. A. Alert Service Bulletin 
+No. CFM56-5B S/B 72-A0722, Revision 1, dated March 20, 2009, to 
+perform the EGT calculating and monitoring required by this AD. The 
+Director of the Federal Register approved the incorporation by 
+reference of this service bulletin in accordance with 5 U.S.C. 
+552(a) and 1 CFR part 51. Contact CFM International, S.A., Technical 
+Customer Support, 1 Neumann Way, Cincinnati, OH 45215; telephone 
+(513) 552-3272; fax (513) 552-3329, Web address http://customer.geae.com, for a copy of this service information. You may 
+review copies at the FAA, New England Region, 12 New England 
+Executive Park, Burlington, MA; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on April 23, 2010.
+Peter A. White,
+Assistant Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2010-10177 Filed 5-3-10; 8:45 am]
+BILLING CODE 4910-13-P

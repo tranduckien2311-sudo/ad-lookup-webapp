@@ -1,0 +1,371 @@
+[Federal Register Volume 72, Number 13 (Monday, January 22, 2007)]
+[Rules and Regulations]
+[Pages 2603-2606]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E7-684]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-19559; Directorate Identifier 2004-NE-03-AD; 
+Amendment 39-14892; AD 2007-02-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc RB211 Trent 700 Series 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) for Rolls-Royce plc (RR) RB211 Trent 700 series turbofan engines. 
+That AD currently requires initial and repetitive borescope inspections 
+of the high pressure-and-intermediate pressure (HP-IP) turbine internal 
+and external oil vent tubes for coking and carbon buildup, and cleaning 
+or replacing the vent tubes if necessary. This AD requires the same 
+actions but uses more stringent tube
+
+[[Page 2604]]
+
+replacement criteria than the previous AD. This AD results from a 
+recent incident where an RB211 Trent 700 series turbofan engine had an 
+oil vent tube rupture as a result of blockage, leading to significant 
+loss of engine oil. The incident indicates that further measures are 
+necessary to control carbon buildup in the oil vent tubes. We are 
+issuing this AD to prevent internal oil fires due to coking and carbon 
+buildup, that could cause uncontained engine failure and damage to the 
+airplane.
+
+DATES: Effective February 6, 2007. The Director of the Federal Register 
+approved the incorporation by reference of certain publications listed 
+in the regulations as of February 6, 2007.
+    We must receive any comments on this AD by March 23, 2007.
+
+ADDRESSES: Use one of the following addresses to comment on this 
+proposed AD.
+     DOT Docket Web site: Go to http://dms.dot.gov and follow 
+the instructions for sending your comments electronically.
+     Government-wide rulemaking Web site: Go to http://www.regulations.gov and follow the instructions for sending your 
+comments electronically.
+     Mail: Docket Management Facility; U.S. Department of 
+Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, 
+Washington, DC 20590-0001.
+     Fax: (202) 493-2251.
+     Hand Delivery: Room PL-401 on the plaza level of the 
+Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    Contact Rolls-Royce plc, PO Box 31, Derby, England; telephone: 011-
+44-1332-249428; fax: 011-44-1332-249223, for the service information 
+identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Christopher Spinney, Aerospace 
+Engineer, Engine Certification Office, FAA, Engine and Propeller 
+Directorate, 12 New England Executive Park, Burlington, MA 01803-5299; 
+telephone (781) 238-7175; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: On November 1, 2004, we issued AD 2004-23-
+03, Amendment 39-13858 (69 FR 64653, November 8, 2004). That AD 
+requires initial and repetitive borescope inspections of the HP-IP 
+turbine internal and external oil vent tubes for coking and carbon 
+buildup, and cleaning or replacing the vent tubes if necessary. That AD 
+was the result of a report of an RB211 Trent 700 series engine 
+experiencing a disk shaft separation, overspeed of the IP turbine 
+rotor, and multiple blade release of IP turbine blades. The findings 
+suggested these events resulted from an internal oil fire in the HP-IP 
+turbine oil vent tubes due to coking and carbon buildup. This fire led 
+to a second fire in the internal air cavity below the IP turbine disk 
+drive shaft. That condition, if not corrected, could result in 
+uncontained engine failure and damage to the airplane.
+
+Actions Since AD 2004-23-03 Was Issued
+
+    Since AD 2004-23-03 was issued, the European Aviation Safety Agency 
+(EASA), which is the airworthiness authority for the European Union, 
+notified us that an unsafe condition may exist on RB211 Trent 700 
+series turbofan engines. EASA advises that recently an oil vent tube 
+ruptured as a result of blockage, leading to significant loss of engine 
+oil, on an RB211 Trent 700 series turbofan engine. This incident 
+indicates that further measures are necessary to control carbon buildup 
+in the oil vent tubes.
+
+Relevant Service Information
+
+    We have reviewed and approved the technical contents of RR Alert 
+Service Bulletin (ASB) No. RB.211-72-AE302, Revision 3, dated September 
+20, 2006. That ASB describes procedures for borescope inspections, 
+cleaning, and replacement if necessary of the internal and external oil 
+vent tubes. For internal oil vent tubes to pass inspection, they must 
+allow cleaning tool, number HU80298 to pass through them. AD 2004-23-03 
+was less stringent in that it allowed tubes that an 8 mm or 6 mm 
+diameter borescope could pass through, back into service. EASA 
+classified this ASB as mandatory and issued AD 2006-0355, dated 
+December 4, 2006, in order to ensure the airworthiness of these RB211 
+Trent 700 series turbofan engines in Europe.
+
+Bilateral Airworthiness Agreement
+
+    These engine models are manufactured in the United Kingdom and are 
+type certificated for operation in the United States under the 
+provisions of section 21.29 of the Federal Aviation Regulations (14 CFR 
+21.29) and the applicable bilateral airworthiness agreement. Under this 
+bilateral airworthiness agreement, EASA kept the FAA informed of the 
+situation described above. We have examined the findings of EASA, 
+reviewed all available information, and determined that AD action is 
+necessary for products of this type design that are certificated for 
+operation in the United States.
+
+FAA's Determination and Requirements of This AD
+
+    Although no airplanes that are registered in the United States use 
+these RB211 Trent 700 series turbofan engines, the possibility exists 
+that the engines could be used on airplanes that are registered in the 
+United States in the future. The unsafe condition described previously 
+is likely to exist or develop on other RB211 Trent 700 series turbofan 
+engines of the same type design. This AD requires initial and 
+repetitive borescope inspections of the HP-IP turbine internal and 
+external oil vent tubes for coking and carbon buildup, and cleaning or 
+replacing the vent tubes if necessary. We are issuing this AD to 
+prevent internal oil fires due to coking and carbon buildup, that could 
+cause uncontained engine failure and damage to the airplane. You must 
+use the service information described previously to perform the actions 
+required by this AD.
+
+FAA's Determination of the Effective Date
+
+    Since there are currently no domestic operators of this engine 
+model, notice and opportunity for public comment before issuing this AD 
+are unnecessary. Therefore, a situation exists that allows the 
+immediate adoption of this regulation.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety and was not preceded by notice and an opportunity for public 
+comment; however, we invite you to send us any written relevant data, 
+views, or arguments regarding this AD. Send your comments to an address 
+listed under ADDRESSES. Include ``AD Docket No. FAA-2005-19559; 
+Directorate Identifier 2004-NE-03-AD'' in the subject line of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify it.
+    We will post all comments we receive, without change, to http://dms.dot.gov, including any personal information you provide. We will 
+also post a report summarizing each substantive verbal contact with FAA 
+personnel concerning this AD. Using the search function of the DMS Web 
+site, anyone can find and read the comments in any of our dockets, 
+including the name of the individual who sent the comment (or signed 
+the comment on behalf of an association, business, labor union, etc.). 
+You may review the DOT's complete Privacy Act Statement in the
+
+[[Page 2605]]
+
+Federal Register published on April 11, 2000 (65 FR 19477-78) or you 
+may visit http://dms.dot.gov.
+
+Examining the AD Docket
+
+    You may examine the docket that contains the AD, any comments 
+received, and any final disposition in person at the Docket Management 
+Facility Docket Office between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The Docket Office (telephone (800) 
+647-5227) is located on the plaza level of the Department of 
+Transportation Nassif Building at the street address stated in 
+ADDRESSES. Comments will be available in the AD docket shortly after 
+the DMS receives them.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary by 
+sending a request to us at the address listed under ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Under the authority delegated to me by the Administrator, the Federal 
+Aviation Administration amends part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+    2. The FAA amends Sec.  39.13 by removing Amendment 39-13858 (69 FR 
+64653, November 8, 2004), and by adding a new airworthiness directive, 
+Amendment 39-14892, to read as follows:
+
+2007-02-05 Rolls-Royce plc: Amendment 39-14892. Docket No. FAA-2005-
+19559; Directorate Identifier 2004-NE-03-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective February 
+6, 2007.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2004-23-03.
+
+Applicability
+
+    (c) This AD applies to Rolls-Royce plc (RR) RB211 Trent 768-60, 
+RB211 Trent 772-60, and RB211 Trent 772B-60 series turbofan engines. 
+These engines are installed on, but not limited to, Airbus A330-243, 
+-341, -342 and -343 series airplanes.
+
+Unsafe Condition
+
+    (d) This AD results from a recent incident where an RB211 Trent 
+700 series turbofan engine had an oil vent tube rupture as a result 
+of blockage, leading to significant loss of engine oil. The incident 
+indicates that further measures are necessary to control carbon 
+buildup in the oil vent tubes. We are issuing this AD to prevent 
+internal oil fires due to coking and carbon buildup, that could 
+cause uncontained engine failure and damage to the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+
+Initial Inspections, Cleaning, and Replacements
+
+    (f) Using the schedule in Table 1 of this AD, borescope-inspect 
+and clean as necessary, the high pressure-and-intermediate pressure 
+(HP-IP) turbine internal oil vent tubes, external oil vent tubes, 
+and bearing chamber.
+
+                  Table 1.--Initial Inspection Schedule
+------------------------------------------------------------------------
+    If the engine or the 05 Module:          Then initially inspect:
+------------------------------------------------------------------------
+Has reached 10,000 hours time-since-new  Within 3 months after the
+ (TSN) or reached 2,500 cycles-since-     effective date of this AD.
+ new (CSN) on the effective date of
+ this AD.
+Has fewer than 10,000 hours TSN or       Within 3 months after reaching
+ fewer than 2,500 CSN on the effective    10,000 hours TSN or 2,500 CSN,
+ date of this AD.                         whichever occurs first.
+Is returned for a shop visit...........  Before returning to service.
+------------------------------------------------------------------------
+
+    (g) If after cleaning, there is still carbon in the vent tube 
+that prevents cleaning tool, number HU80298, from passing through 
+the tube, then replace the internal oil vent tube within 10 cycles-
+in-service (CIS).
+    (h) If after cleaning, there is still carbon of visible 
+thickness in either of the two external oil vent tubes, then replace 
+the external oil vent tube before further flight.
+
+Repetitive Inspections, Cleaning, and Replacements
+
+    (i) Within 6,400 hours time-in-service since last inspection and 
+cleaning, or within 1,600 cycles-since-last inspection and cleaning, 
+or at the next engine shop visit, whichever occurs first, borescope-
+inspect the HP-IP turbine internal and external oil vent tubes and 
+bearing chamber, and clean the oil vent tubes as necessary.
+    (j) If after cleaning there is still carbon in the internal oil 
+vent tube that prevents cleaning tool, number HU80298, from passing 
+through the tube, then replace the internal oil vent tube within 10 
+CIS.
+    (k) If after cleaning there is still carbon of visible 
+thickness, in either of the two external oil vent tubes, then 
+replace the external oil vent tube before further flight.
+
+[[Page 2606]]
+
+Inspection and Cleaning Procedures
+
+    (l) Use paragraphs 3.A. through 3.A.(4)(b) of the Accomplishment 
+Instructions of Rolls-Royce plc Alert Service Bulletin No. RB.211-
+72-AE302, Revision 3, dated September 20, 2006, to do borescope 
+inspections, and cleaning of the oil vent tubes and bearing chamber.
+
+Alternative Methods of Compliance
+
+    (m) The Manager, Engine Certification Office, has the authority 
+to approve alternative methods of compliance for this AD if 
+requested using the procedures found in 14 CFR 39.19.
+
+Material Incorporated by Reference
+
+    (n) You must use Rolls-Royce plc Alert Service Bulletin No. 
+RB.211-72-AE302, Revision 3, dated September 20, 2006, to perform 
+the inspections and cleaning required by this AD. The Director of 
+the Federal Register approved the incorporation by reference of this 
+service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Contact Rolls-Royce plc, PO Box 31, Derby, England; telephone: 
+011-44-1332-249428; fax: 011-44-1332-249223, for a copy of this 
+service information. You may review copies at the National Archives 
+and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+Related Information
+
+    (o) European Aviation Safety Agency airworthiness directive No. 
+2006-0355, dated December 4, 2006, also addresses the subject of 
+this AD.
+    (p) Contact Christopher Spinney, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine & Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803; telephone (781) 238-
+7175; fax (781) 238-7199, for more information about this AD.
+
+    Issued in Burlington, Massachusetts, on January 12, 2007.
+Francis A. Favara,
+Manager, Engine and Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. E7-684 Filed 1-19-07; 8:45 am]
+BILLING CODE 4910-13-P

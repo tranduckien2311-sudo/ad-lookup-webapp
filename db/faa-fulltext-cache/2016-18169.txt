@@ -1,0 +1,630 @@
+[Federal Register Volume 81, Number 156 (Friday, August 12, 2016)]
+[Rules and Regulations]
+[Pages 53255-53261]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-18169]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3989; Directorate Identifier 2014-NM-250-AD; 
+Amendment 39-18600; AD 2016-16-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A318, A319, A320, and A321 series airplanes. This AD was 
+prompted by reports of premature aging of certain passenger chemical 
+oxygen generators that resulted in the generators failing to activate. 
+This AD requires an inspection to determine if certain passenger 
+chemical oxygen generators are installed and replacement of affected 
+passenger chemical oxygen generators. We are issuing this AD to prevent 
+failure of the passenger chemical oxygen generator to activate and 
+consequently not deliver oxygen during an emergency, possibly resulting 
+in injury to the airplane occupants.
+
+DATES: This AD is effective September 16, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of September 16, 
+2016.
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet: http://www.airbus.com. For B/E Aerospace service information 
+identified in this final rule, contact B/E Aerospace Inc., 10800 Pflumm 
+Road, Lenexa, KS 66215; telephone: 913-338-9800; fax: 913-469-8419; 
+Internet: http://beaerospace.com/home/globalsupport. You may view this 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, WA. For information on the 
+availability of this material at the FAA, call 425-227-1221. It is also 
+available on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2015-3989.
+
+[[Page 53256]]
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+3989; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone: 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1405; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A318, 
+A319, A320, and A321 series airplanes. The NPRM published in the 
+Federal Register on October 19, 2015 (80 FR 63136) (``the NPRM''). The 
+NPRM was prompted by reports of premature aging of certain passenger 
+chemical oxygen generators that resulted in the generators failing to 
+activate. The NPRM proposed to require an inspection to determine if 
+certain passenger chemical oxygen generators are installed and 
+replacement of affected passenger chemical oxygen generators. We are 
+issuing this AD to prevent failure of the passenger chemical oxygen 
+generator to activate and consequently not deliver oxygen during an 
+emergency, possibly resulting in injury to the airplane occupants.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2015-0117, dated June 24, 2015; corrected August 7, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''); to correct an unsafe condition for all Airbus Model 
+A318, A319, A320, and A321 series airplanes. The MCAI states:
+
+    Reports have been received indicating premature ageing of 
+certain chemical oxygen generators, Part Number (P/N) 117042-XX (XX 
+representing any numerical value), manufactured by B/E Aerospace. 
+Some operators reported that when they tried to activate generators, 
+some older units failed to activate. Given the number of failed 
+units reported, all generators manufactured in 1999, 2000 and 2001 
+were considered unreliable.
+    This condition, if not corrected, could lead to failure of the 
+generator to activate and consequently not deliver oxygen during an 
+emergency, possibly resulting in injury to aeroplane occupants.
+    To address this potential unsafe condition, Airbus issued Alert 
+Operators Transmission (AOT) A35N006-14, making reference to B/E 
+Aerospace Service Information Letter (SIL) D1019-01 (currently at 
+Revision 1) and B/E Aerospace Service Bulletin (SB) 117042-35-001.
+    Consequently, EASA issued AD * * * (later revised) to require 
+identification and replacement of the affected oxygen generators.
+    Since EASA AD 2014-0275R1 was issued, and following new 
+investigation results, EASA have decided to introduce a life 
+limitation concerning all P/N 117042-XX chemical oxygen generators, 
+manufactured by B/E Aerospace.
+    For the reason described above, this [EASA] AD retains the 
+requirements of the EASA AD 2014-0275R1, which is superseded, 
+expands the scope of the [EASA] AD to include chemical oxygen 
+generators manufactured after 2001, and requires their removal from 
+service before exceeding 10 years since date of manufacture.
+    This [EASA] AD is re-published to correct a template error, 
+removing the word `Proposed' and replacing the acronym `PAD' with 
+`AD'.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+3989.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (80 
+FR 63136, October 19, 2015) and the FAA's response to each comment.
+
+Requests To Extend Compliance Times
+
+    United Airlines (UAL) and Delta Air Lines, Inc. (DAL) requested an 
+extension of the 30-day compliance time for the part number inspection. 
+UAL stated that the time required for the part number inspection and 
+the size of UAL's fleet is prohibitive to meeting the 30-day compliance 
+time and requested that we extend the initial compliance time to 24 
+months. DAL stated that the time required for the part number 
+inspection and the size of DAL's fleet is prohibitive to meeting the 
+30-day compliance time and requested that we extend the initial 
+compliance time for the part number inspection to 90 days. DAL pointed 
+out that a 90-day compliance time would allow ample time to route 
+airplanes and schedule the required work on the first group of affected 
+airplanes.
+    We disagree with the requests to extend the 30-day compliance time 
+for the part number inspection. The commenters did not provide any 
+justification to substantiate how increasing the compliance time from 
+30 days to 90 days or 24 months would provide an acceptable level of 
+safety. After considering all of the available information, we have 
+determined that the compliance time, as proposed, represents an 
+appropriate interval of time in which the required actions can be 
+performed in a timely manner with the affected fleet, while still 
+maintaining an adequate level of safety. In developing an appropriated 
+compliance time, we considered the safety implications, parts 
+availability, and normal maintenance schedules for timely 
+accomplishment of the replacement, overall risk to the fleet, including 
+the severity of the identified unsafe condition and the likelihood of 
+the occurrence of the unsafe condition. However, under the provisions 
+of paragraph (n)(1) of this AD, operators may apply for an extension of 
+the compliance time by providing rationale explaining why a compliance 
+time extension provides an acceptable level of safety. We have not 
+changed this AD in this regard.
+
+Request To Revise Cost Estimates
+
+    DAL requested that we revise the Costs of Compliance section 
+provided in the NPRM. DAL pointed out that the cost estimate may not 
+properly account for the number of products per airplane and that they 
+believe the costs are significantly higher than the estimate included 
+in the NPRM. DAL also provided revised cost estimates based on their 
+fleet.
+    We partially agree with the request to revise the Costs of 
+Compliance section. We disagree that the cost estimate should be 
+revised based on airplane configuration, findings, and associated costs 
+based only on the DAL fleet. The configuration of each airplane and 
+inspection findings may vary among U.S. operators. We agree that the 
+Costs of Compliance section provided in the NPRM might not have 
+accurately represented the actual cost. After considering the data 
+presented by DAL, we also agree that the number of work-hours required 
+is higher than our previous estimate. The Costs of Compliance section 
+of this final rule has been revised accordingly.
+
+[[Page 53257]]
+
+Request To Remove Reporting Requirement
+
+    UAL requested that we remove the reporting requirement in the 
+proposed AD. UAL pointed out that reporting could expose operators to 
+compliance risk. UAL also pointed out that they do not find any value 
+in the information being requested by the reporting requirement. UAL 
+stated that they will provide any feedback as requested.
+    We disagree with the request to remove the reporting requirement. 
+We disagree that the information requested provides no value. Reporting 
+is necessary for the airframe manufacturer to determine the extent of 
+the unsafe condition and any necessary follow-up actions. We have not 
+changed this AD in this regard.
+
+Request To Reference Revised Service Information
+
+    Mr. Ricardo Erazo requested that we revise the AD to reference B/E 
+Aerospace Service Bulletin 117042-35-001, Revision 004, dated October 
+13, 2015. Mr. Erazo did not provide rationale for this request.
+    We agree with the request to revise this AD to reference B/E 
+Aerospace Service Bulletin 117042-35-001, Revision 004, dated October 
+13, 2015, and have revised this AD accordingly. B/E Aerospace Service 
+Bulletin 117042-35-001, Revision 004, dated October 13, 2015, clarifies 
+references to additional service information. As a result, we have also 
+added paragraph (m) to this AD, to give credit for actions accomplished 
+before the effective date of this AD using B/E Aerospace Service 
+Bulletin 117042-35-001, dated December 10, 2014; B/E Aerospace Service 
+Bulletin 117042-35-001, Revision 001, dated April 9, 2015; B/E 
+Aerospace Service Bulletin 117042-35-001, Revision 002, dated May 29, 
+2015; or B/E Aerospace Service Bulletin 117042-35-001, Revision 003, 
+dated June 25, 2015.
+
+Change to Service Information References
+
+    We have revised paragraphs (h) and (i) of this AD to refer to 
+Airbus AOT A35N006-14, dated December 10, 2014, including Appendix 1, 
+as an additional appropriate source of service information for the 15-
+minute passenger chemical oxygen generators.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following service information.
+     Airbus AOT A35N006-14, dated December 10, 2014, including 
+Appendix 1.
+     B/E Aerospace Inc. Service Bulletin 117042-35-001, 
+Revision 004, dated October 13, 2015.
+    This service information describes procedures to replace certain 
+passenger chemical oxygen generators. This service information is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 953 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Part number inspection.............  4 work-hours x $85 per hour              $0            $340        $324,020
+                                      = $340.
+Reporting..........................  1 work-hour x $85 per hour                0              85          81,005
+                                      = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the required inspection. 
+We have no way of determining the number of airplanes that might need 
+these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                 Action                          Labor cost           Parts cost          Cost per  product
+----------------------------------------------------------------------------------------------------------------
+Replacement............................  Up to 25 work-hours x $85            $390  Up to $2,515.
+                                          per hour = $2,125.
+----------------------------------------------------------------------------------------------------------------
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW., Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that
+
+[[Page 53258]]
+
+section, Congress charges the FAA with promoting safe flight of civil 
+aircraft in air commerce by prescribing regulations for practices, 
+methods, and procedures the Administrator finds necessary for safety in 
+air commerce. This regulation is within the scope of that authority 
+because it addresses an unsafe condition that is likely to exist or 
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-16-02 Airbus: Amendment 39-18600. Docket No. FAA-2015-3989; 
+Directorate Identifier 2014-NM-250-AD.
+
+(a) Effective Date
+
+    This AD is effective September 16, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), and (c)(4) of this AD; certificated in any 
+category; all manufacturer serial numbers, except those that have 
+embodied Airbus modification 33125 (gaseous system for all oxygen 
+containers) in production.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen.
+
+(e) Reason
+
+    This AD was prompted by reports of premature aging of certain 
+passenger chemical oxygen generators that resulted in the generators 
+failing to activate. We are issuing this AD to prevent failure of 
+the passenger chemical oxygen generator to activate and consequently 
+not deliver oxygen during an emergency, possibly resulting in injury 
+to the airplane occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Part Number Inspection
+
+    Within 30 days after the effective date of this AD: Do a one-
+time inspection of passenger chemical oxygen generators, part 
+numbers (P/N) 117042-02 (15 minutes (min)--2 masks), 117042-03 (15 
+min--3 masks), 117042-04 (15 min--4 masks), 117042-22 (22 min--2 
+masks), 117042-23 (22 min--3 masks), and 117042-24 (22 min--4 masks) 
+to determine the date of manufacture as specified in Airbus Alert 
+Operators Transmission (AOT) A35N006-14, dated December 10, 2014, 
+including Appendix 1. Refer to figures 1 and 2 to paragraph (g) of 
+this AD for the location of the date. A review of airplane 
+maintenance records is acceptable for the inspection required by 
+this paragraph, provided the date of manufacture can be conclusively 
+determined by that review.
+
+[[Page 53259]]
+
+[GRAPHIC] [TIFF OMITTED] TR12AU16.004
+
+
+[[Page 53260]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR12AU16.003
+
+(h) Replacement of Passenger Chemical Oxygen Generators Manufactured in 
+1999, 2000, or 2001
+
+    If, during any inspection required by paragraph (g) of this AD, 
+any passenger chemical oxygen generator having a date of manufacture 
+in 1999, 2000, or 2001 is found: At the applicable time specified in 
+paragraph (h)(1), (h)(2), or (h)(3) of this AD, remove and replace 
+the affected passenger chemical oxygen generator with a serviceable 
+unit, in accordance with Airbus AOT A35N006-14, dated December 10, 
+2014, including Appendix 1 (for 15-minute and 22-minute passenger 
+chemical oxygen generators); or the Accomplishment Instructions of 
+B/E Aerospace Service Bulletin 117042-35-001, Revision 004, dated 
+October 13, 2015 (for 15-minute passenger chemical oxygen 
+generators).
+    (1) For passenger chemical oxygen generators that have a date of 
+manufacture in 1999: Within 30 days after the effective date of this 
+AD.
+    (2) For passenger chemical oxygen generators that have a date of 
+manufacture in 2000: Within 6 months after the effective date of 
+this AD.
+    (3) For passenger chemical oxygen generators that have a date of 
+manufacture in 2001: Within 12 months after the effective date of 
+this AD.
+
+(i) Replacement of Passenger Chemical Oxygen Generators Manufactured in 
+2002 and Later
+
+    If, during any inspection required by paragraph (g) of this AD, 
+any passenger chemical oxygen generator having a date specified in 
+table 1 to paragraph (i) of this AD is found: At the applicable time 
+specified in table 1 to paragraph (i) of this AD, remove and replace 
+the affected passenger chemical oxygen generator with a serviceable 
+unit, in accordance with Airbus AOT A35N006-14, dated December 10, 
+2014, including Appendix 01, undated (for 15-minute and 22-minute 
+passenger chemical oxygen generators); or the Accomplishment 
+Instructions of B/E Aerospace Service Bulletin 117042-35-001, 
+Revision 004, dated October 13, 2015 (for 15-minute passenger 
+chemical oxygen generators).
+
+    Table 1 to Paragraph (i) of This AD--Replacement Compliance Times
+------------------------------------------------------------------------
+        Year of manufacture                    Compliance time
+------------------------------------------------------------------------
+2002...............................  Within 12 months after the
+                                      effective date of this AD.
+2003...............................  Within 16 months after the
+                                      effective date of this AD.
+2004...............................  Within 20 months after the
+                                      effective date of this AD.
+2005...............................  Within 24 months after the
+                                      effective date of this AD.
+2006...............................  Within 28 months after the
+                                      effective date of this AD.
+
+[[Page 53261]]
+
+ 
+2007...............................  Within 32 months after the
+                                      effective date of this AD.
+2008...............................  Within 36 months after the
+                                      effective date of this AD.
+2009...............................  Before exceeding 10 years since
+                                      date of manufacture of the
+                                      passenger chemical oxygen
+                                      generator.
+------------------------------------------------------------------------
+
+(j) Definition of Serviceable
+
+    For the purpose of this AD, a serviceable unit is a passenger 
+chemical oxygen generator having P/N 117042-XX with a manufacturing 
+date not older than 10 years, or any other approved part number, 
+provided that the generator has not exceeded the life limit 
+established for that generator by the manufacturer.
+
+(k) Reporting
+
+    At the applicable time specified in paragraph (k)(1) or (k)(2) 
+of this AD, submit a report of the findings (both positive and 
+negative) of the inspection required by paragraph (g) of this AD, in 
+accordance with paragraph 7, ``Reporting,'' of Airbus AOT A35N006-
+14, dated December 10, 2014, including Appendix 1. The report must 
+include the information specified in Appendix 1 of Airbus AOT 
+A35N006-14, dated December 10, 2014.
+    (1) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (2) If the inspection was done before the effective date of this 
+AD: Submit the report within 30 days after the effective date of 
+this AD.
+
+(l) Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install a 
+passenger chemical oxygen generator, unless it is determined, prior 
+to installation, that the oxygen generator is a serviceable unit as 
+specified in paragraph (j) of this AD.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (h) and (i) of this AD, if those actions were performed 
+before the effective date of this AD using the service information 
+specified in paragraphs (m)(1), (m)(2), (m)(3), or (m)(4).
+    (1) B/E Aerospace Service Bulletin 117042-35-001, dated December 
+10, 2014.
+    (2) B/E Aerospace Service Bulletin 117042-35-001, Revision 001, 
+dated April 9, 2015.
+    (3) B/E Aerospace Service Bulletin 117042-35-001, Revision 002, 
+dated May 29, 2015.
+    (4) B/E Aerospace Service Bulletin 117042-35-001, Revision 003, 
+dated June 25, 2015.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone: 425-227-1405; fax: 425-227-1149. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Reporting Requirements: A federal agency may not conduct or 
+sponsor, and a person is not required to respond to, nor shall a 
+person be subject to a penalty for failure to comply with, a 
+collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 5 
+minutes per response, including the time for reviewing instructions, 
+completing and reviewing the collection of information. All 
+responses to this collection of information are mandatory. Comments 
+concerning the accuracy of this burden and suggestions for reducing 
+the burden should be directed to the FAA at: 800 Independence Ave. 
+SW., Washington, DC 20591, Attn: Information Collection Clearance 
+Officer, AES-200.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) European Aviation Safety Agency (EASA) AD 2015-0117, dated 
+June 24, 2015; corrected August 7, 2015; for related information. 
+This MCAI may be found in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-
+2015-3989.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (p)(3) and (p)(4) of this AD.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A35N006-14, dated 
+December 10, 2014, including Appendix 01, undated.
+    (ii) B/E Aerospace Service Bulletin 117042-35-001, Revision 004, 
+dated October 13, 2015.
+    (3) For Airbus service information identified in this AD, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet: http://www.airbus.com. For B/E Aerospace service 
+information identified in this AD, contact B/E Aerospace Inc., 10800 
+Pflumm Road, Lenexa, KS 66215; telephone: 913-338-9800; fax: 913-
+469-8419; Internet: http://beaerospace.com/home/globalsupport.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on July 21, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-18169 Filed 8-11-16; 8:45 am]
+ BILLING CODE 4910-13-P

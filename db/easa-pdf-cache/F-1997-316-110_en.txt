@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-316-110(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Wing - Inspection connexion of frames 43 and 44 with pressure floor Applicability : A320 AIRBUS INDUSTRIE aircraft all certified models MSN 005 to 008, 010 to 014, 016 to 043 included without AIRBUS INDUSTRIE modification 20941 or AIRBUS INDUSTRIE Service Bulletin A320-53-1015. Reason : During fatigue tests, fatigue cracks on the connexion of frames 43 and 44 with pressure floor have been detected. Actions : Mandatory on the effective date of this
+
+Airworthiness Directive : 1/ Before accumulation of 20,000 flights, inspect bolts and fittings of frame-to-pressure-floor connexion at frames 43 and 44 in accordance with AIRBUS INDUSTRIE Service Bulletin A320-53-1083 revision 2. 2/ If no crack is detected on frames and bolts, repeat the inspection defined in paragraph 1) of this
+
+Airworthiness Directive at intervals not exceeding 5,100 flights. 3/ If bolts are found cracked and/or missing and/or fittings are cracked, apply the corresponding inspection program and corrective actions at thresholds and intervals and in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletins A320-53-1083 revision 2 and A320-53-1015. Note 1 : In areas where no crack has been detected and no fitting has been replaced in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1015, the inspections defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1083 revision 2 must be continued. Note 2 : Total application of AIRBUS INDUSTRIE Service Bulletin A320-53-1015 cancels the requirements of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1015 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-53-1083R2 (or any further approved revision) d/JYR EFFECTIVE DATE : NOVEMBER 01, 1997 AIRBUS INDUSTRIE October 22, 1997 97-316-110(B) A320 aircraft

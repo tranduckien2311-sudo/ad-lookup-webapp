@@ -1,0 +1,362 @@
+[Federal Register Volume 75, Number 63 (Friday, April 2, 2010)]
+[Rules and Regulations]
+[Pages 16655-16657]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2010-7283]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-19559; Directorate Identifier 2004-NE-03-AD; 
+Amendment 39-16254; AD 2010-07-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc RB211-Trent 700 Series 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD) for Rolls-Royce plc RB211-Trent 700 series turbofan engines. That 
+AD currently requires initial and repetitive borescope inspections of 
+the high-pressure-and-intermediate pressure (HP-IP) turbine internal 
+and external oil vent tubes for coking and carbon buildup, and cleaning 
+or replacing the vent tubes if necessary. This AD requires the same 
+actions, but adds additional inspections of the vent flow restrictor. 
+This AD results from further analysis that the cleaning of the vent 
+tubes required by AD 2007-02-05 could lead to loosened carbon 
+fragments, causing a blockage downstream in the vent flow restrictor. 
+We are issuing this AD to prevent internal oil fires due to coking and 
+carbon buildup that could cause uncontained engine failure and damage 
+to the airplane.
+
+DATES: This AD becomes effective May 7, 2010. The Director of the 
+Federal Register approved the incorporation by reference of certain 
+publications listed in the regulations as of May 7, 2010.
+
+ADDRESSES: You can get the service information identified in this AD 
+from Rolls-Royce plc, P.O. Box 31, Derby, England; telephone: 011-44-
+1332-249428; fax: 011-44-1332-249223.
+    The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue, 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+
+FOR FURTHER INFORMATION CONTACT: James Lawrence, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7176; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 by 
+superseding AD 2007-02-05, Amendment 39-14892 (72 FR 2603, January 22, 
+2007), with a proposed AD. The proposed AD applies to Rolls-Royce plc 
+RB211-Trent 700 series turbofan engines. We published the proposed AD 
+in the Federal Register on October 26, 2009 (74 FR 54940). That action 
+proposed to require initial and repetitive borescope inspections of the 
+HP-IP turbine internal and external oil vent tubes for coking and 
+carbon buildup, cleaning or replacing the vent tubes if necessary, and 
+inspections of the vent flow restrictor.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday,
+
+[[Page 16656]]
+
+except Federal holidays. The AD docket contains this AD, the regulatory 
+evaluation, any comments received, and other information. The street 
+address for the Docket Operations office (telephone (800) 647-5527) is 
+provided in the ADDRESSES section. Comments will be available in the AD 
+docket shortly after receipt.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments received.
+
+Request to Reference the Latest Service Bulletin
+
+    One commenter, Rolls-Royce plc, requests that we incorporate by 
+reference the latest alert service bulletin (ASB) in the AD, which is 
+ASB No. RB.211-72-AE302, Revision 8, dated October 21, 2009.
+    We agree. We changed the AD to incorporate by reference Revision 8 
+of that ASB.
+
+Request To Allow Previous Credit
+
+    Rolls-Royce plc requests that we allow previous credit to operators 
+that performed the initial inspections specified in paragraph (f) of 
+the proposed AD before the AD effective date, using Revision 4, 
+Revision 5, Revision 6, or Revision 7 of ASB No. RB.211-72-AE302.
+    We agree and added a previous credit paragraph to the AD.
+
+Request to Change Initial Inspection Threshold
+
+    Rolls-Royce plc requests that we change the initial inspection 
+threshold from 3 months to 2 months, to agree with the ASB.
+    We agree and changed the AD.
+
+Clarification of AD Compliance Section
+
+    We clarified paragraphs (g) and (h) of the AD compliance section to 
+better align with the Rolls-Royce plc ASB.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    Based on the service information, we estimate that this AD will 
+affect about 33 engines of U.S. registry. We also estimate that it will 
+take about one work-hour per engine to comply with this AD. The average 
+labor rate is $80 per work-hour. Required parts will cost about $2,000 
+per engine. Based on these figures, we estimate the cost of the AD on 
+U.S. operators to be $68,640.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary at the 
+address listed under ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Amendment 39-14892 (72 FR 
+2603, January 22, 2007), and by adding a new airworthiness directive, 
+Amendment 39-16254, to read as follows:
+
+2010-07-09 Rolls-Royce plc: Amendment 39-16254. Docket No. FAA-2005-
+19559; Directorate Identifier 2004-NE-03-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective May 7, 
+2010.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2007-02-05, Amendment 39-14892.
+
+Applicability
+
+    (c) This AD applies to Rolls-Royce plc RB211-Trent 768-60, 
+RB211-Trent 772-60, and RB211-Trent 772B-60 series turbofan engines. 
+These engines are installed on, but not limited to, Airbus A330-243, 
+-341, -342 and -343 series airplanes.
+
+Unsafe Condition
+
+    (d) This AD results from further analysis that the cleaning of 
+the vent tubes required by AD 2007-02-05 could lead to loosened 
+carbon fragments, causing a blockage downstream in the vent flow 
+restrictor. We are issuing this AD to prevent internal oil fires due 
+to coking and carbon buildup that could cause uncontained engine 
+failure and damage to the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+
+Initial Inspections, Cleaning, and Replacements
+
+    (f) Using the schedule in Table 1 of this AD, borescope-inspect 
+and clean as necessary, the high-pressure-and-intermediate pressure 
+(HP-IP) turbine internal oil vent tubes, external oil vent tubes, 
+and bearing chamber.
+
+[[Page 16657]]
+
+
+
+                  Table 1--Initial Inspection Schedule
+------------------------------------------------------------------------
+     If the engine or the 05 Module           Then initially inspect
+------------------------------------------------------------------------
+Has reached 10,000 hours time-since-new  Within 2 months after the
+ (TSN) or reached 2,500 cycles-since-     effective date of this AD.
+ new (CSN) on the effective date of
+ this AD.
+Has fewer than 10,000 hours TSN and      Within 2 months after reaching
+ fewer than 2,500 CSN on the effective    10,000 hours TSN or 2,500 CSN,
+ date of this AD.                         whichever occurs first.
+Is returned for an engine shop visit...  Before returning to service.
+------------------------------------------------------------------------
+
+    (1) If after cleaning, there is still carbon in the vent tube 
+that prevents cleaning tool number HU80298 from passing through the 
+tube, then replace the internal oil vent tube within 10 cycles-in-
+service (CIS).
+    (2) If after cleaning, there is still carbon of visible 
+thickness in either of the two external oil vent tubes, then replace 
+the external oil vent tube before further flight.
+    (3) Use paragraphs 3.A. through 3.A.(7) of the Accomplishment 
+Instructions and Appendix A of Rolls-Royce plc Alert Service 
+Bulletin (ASB) No. RB.211-72-AE302, Revision 8, dated October 21, 
+2009, to do the borescope inspections and cleaning of the oil vent 
+tubes and bearing chamber.
+
+Initial Visual Inspection of the Vent Flow Restrictor
+
+    (g) For engines that, on the effective date of this AD, have not 
+accumulated 25 service cycles since the last cleaning and inspection 
+specified in paragraphs (f) through (f)(3) of this AD, visually 
+inspect the vent flow restrictor:
+    (1) Either after a high-power ground run immediately following 
+the cleaning and inspection; or
+    (2) Within 25 service cycles of the last cleaning and 
+inspection.
+    (h) For engines that, on the effective date of this AD, have 
+accumulated 25 or more service cycles since the last cleaning and 
+inspection specified in paragraphs (f) through (f)(3) of this AD, 
+visually inspect the vent flow restrictor within 25 service cycles 
+after the effective date of this AD.
+    (i) Use paragraph 3.A.(8) of the Accomplishment Instructions of 
+Rolls-Royce plc ASB No. RB.211-72-AE302, Revision 8, dated October 
+21, 2009, to do the visual inspections.
+
+Repetitive Inspections, Cleaning, and Replacements
+
+    (j) Within 6,400 hours time-in-service since last inspection and 
+cleaning, or within 1,600 cycles-since-last inspection and cleaning, 
+or at the next engine shop visit, whichever occurs first, borescope-
+inspect the HP-IP turbine internal and external oil vent tubes and 
+bearing chamber, and clean the oil vent tubes as necessary.
+    (1) If after cleaning there is still carbon in the internal oil 
+vent tube that prevents cleaning tool, number HU80298, from passing 
+through the tube, then replace the internal oil vent tube within 10 
+CIS.
+    (2) If after cleaning there is still carbon of visible 
+thickness, in either of the two external oil vent tubes, then 
+replace the external oil vent tube before further flight.
+    (3) Use paragraphs 3.A. through 3.A.(7) of the Accomplishment 
+Instructions and Appendix A of Rolls-Royce plc ASB No. RB.211-72-
+AE302, Revision 8, dated October 21, 2009, to do the borescope 
+inspections and cleaning of the oil vent tubes and bearing chamber.
+    (k) Visually inspect the vent flow restrictor either after a 
+high-power ground run or within 25 service cycles after performing 
+the cleaning and inspection specified in paragraph (f) through 
+(f)(3) of this AD. Use paragraph 3.A.(8) of the Accomplishment 
+Instructions of Rolls-Royce plc ASB No. RB.211-72-AE302, Revision 8, 
+dated October 21, 2009, to do the visual inspection.
+
+Definition
+
+    (l) For the purpose of this AD, an engine shop visit is 
+induction of the engine into the engine shop for any cause.
+
+Previous Credit
+
+    (m) Initial inspections specified in paragraph (f) of this AD 
+and performed before the effective date of this AD using Rolls-Royce 
+plc ASB No. RB.211-72-AE302, Revision 4, dated April 30, 2007, or 
+Revision 5, dated May 22, 2007, or Revision 6, dated January 29, 
+2009, or Revision 7, dated April 30, 2009, satisfy the initial 
+inspection requirements in paragraph (f) of this AD.
+
+Alternative Methods of Compliance
+
+    (n) The Manager, Engine Certification Office, has the authority 
+to approve alternative methods of compliance for this AD, if 
+requested using the procedures found in 14 CFR 39.19.
+
+Related Information
+
+    (o) European Aviation Safety Agency AD 2007-0201, dated August 
+1, 2007, and AD 2007-0202 (corrected August 8, 2007), also address 
+the subject of this AD.
+    (p) Contact James Lawrence, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine & Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7176; fax (781) 238-
+7199, for more information about this AD.
+
+Material Incorporated by Reference
+
+    (q) You must use Rolls-Royce plc Alert Service Bulletin No. 
+RB.211-72-AE302, Revision 8, dated October 21, 2009, including 
+Appendix A, to perform the actions required by this AD. The Director 
+of the Federal Register approved the incorporation by reference of 
+this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51. Contact Rolls-Royce plc, P.O. Box 31, Derby, England; 
+telephone: 011-44-1332-249428; fax: 011-44-1332-249223 for a copy of 
+this service information. You may review copies at the FAA, New 
+England Region, 12 New England Executive Park, Burlington, MA; or at 
+the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, call 202-
+741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on March 25, 2010.
+Robert J. Ganley,
+Acting Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2010-7283 Filed 4-1-10; 8:45 am]
+BILLING CODE 4910-13-P

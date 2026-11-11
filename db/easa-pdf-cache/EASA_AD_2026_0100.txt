@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2026-0100
+
+Airworthiness Directive
+
+AD No.: 2026-0100
+
+Issued: 21 May 2026 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: 04 June 2026 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 71 – Powerplant – Air Intake Nose Cowl – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342, A330-343 and A330-743L aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-71-3044, which includes reference to Rolls-Royce SB RB.211-71-AL162. Affected part: Air intake nose cowl (nacelle inlet cowl) Part Number (P/N) SJ30820, all serial number (s/n) up to 3012 inclusive, not having Rolls-Royce SB RB.211-71-K989 (Airbus modification (mod.) 210578) embodied. Note 1: Aeroplanes having Airbus mod. 204615 installed in production or Airbus SB A330-71-3032 (Rolls-Royce SB RB.211-71-H847) accomplished in service are equipped with affected part. Groups: Group 1 aeroplanes are those that have an affected part installed. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2026-0100 Group 2 aeroplanes are those that do not have an affected part installed. Note 2: An aeroplane having Airbus mod. 210578 installed (Rolls-Royce SB RB.211-71-K989 accomplished) is Group 2, provided no affected part(s) has (have) been installed in service on that aeroplane.
+
+Reason: Occurrences of cracks of the lip skin, top hat stiffener and forward bulkhead have been reported on affected parts. This condition, if not detected and corrected, in conjunction with a broken piccolo tube, could lead to in-flight detachment of the outer barrel, possibly resulting in damage to the engine or reduced control of the aeroplane. To address this potential unsafe condition, Airbus issued the SB, providing instructions for repetitive inspections of affected parts. For the reason described above, this AD requires repetitive inspections of affected parts and, depending on findings, corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, by this AD, unless the action(s) required by this AD have been already accomplished: Inspections: (1) For Group 1 aeroplanes: Before an affected part exceeds 8 000 flight cycles (FC) (see Note 3 of this AD) or within 24 months after the effective date of this AD, whichever occurs later, and, thereafter, at intervals not to exceed 8 000 FC, inspect that affected part in accordance with the instructions of the SB. Note 3: The FC referred to in paragraph (1) of this AD for the initial inspection of an affected part are those accumulated by that affected part since new, or since embodiment of Rolls-Royce SB RB.211-71-H847 (Airbus SB A330-71-3032), whichever occurs later, as applicable. Corrective Action(s): (2) If, during any inspection as required by paragraph (1) of this AD, any discrepancy, as defined in the SB, is detected on an affected part, accomplish the applicable corrective actions within the compliance time as identified in, and in accordance with the instructions of the SB (see Note 4 of this AD). For the purpose of this AD, where the SB provides instructions to ‘contact Rolls -Royce’, this must be read as ‘contact Rolls-Royce for repair instructions and, within the compliance time specified therein, accomplish those instructions accordingly’. Note 4: The corrective actions as identified in paragraph (2) of this AD may include additional inspections and relevant applicable corrective actions. Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2026-0100 Terminating Action: (3) Modification of an affected part having no discrepancy, in accordance with the instructions of Rolls-Royce SB RB.211-71-K989 (Airbus mod. 210578) constitutes terminating action to the repetitive inspections as required by paragraph (1) of this AD for that affected part. (4) Accomplishment of corrective actions on an affected part, as required by paragraph (2) of this AD, does not constitute terminating action to the repetitive inspections as required by paragraph (1) of this AD for that affected part, unless otherwise specified in the SB or in the Rolls-Royce repair instructions, as applicable. Acceptable Method of Compliance: (5) Inspection of an affected part in-shop, in accordance with the instructions of Rolls-Royce SB RB.211-71-AL162 is an acceptable method to accomplish the inspection as required by paragraph (1) of this AD for that affected part. Part(s) Installation: (6) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, it is allowed to install an affected part, or any higher assembly having an affected part installed, provided that that affected part is in compliance with the applicable requirements of this AD. After that installation, the aeroplane is considered a Group 1 aeroplane.
+
+Ref. Publications: Airbus SB A330-71-3044 original issue dated 24 June 2025. Rolls-Royce SB RB.211-71-AL162 original issue dated 19 March 2025. Rolls-Royce SB RB.211-71-K989 original issue dated 03 April 2024 or Revision 01 dated 17 July 2024. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 20 March 2026 as PAD 26-035 for consultation until 17 April 2026. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2026-0100 may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

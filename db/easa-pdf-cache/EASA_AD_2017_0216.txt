@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0216
+
+Airworthiness Directive
+
+AD No.: 2017-0216
+
+Issued: 30 October 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319 and A320 aeroplanes
+
+Effective Date: 13 November 2017 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2016-0205 dated 13 October 2016.
+
+ATA 05 – 28 – Fuel – Fuel Level Sensor Control Unit – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A319-115, A319-132, A320-214, A320-216, A320-232 and A320-233 aeroplanes, all manufacturer serial numbers on which Airbus modification (mod) 154327 has been embodied in production, except those on which Airbus mod 158740 has been embodied.
+
+Reason: Airbus introduced mod 154327 on A319 and A320 aeroplanes which substituted the pump fuel feed system from the centre fuel tank with a jet pump transfer system, based on the Airbus A321 design. Following the modification introduction, it was discovered that the modified aeroplanes do not have electrical ground signals that replicate those from the deleted centre tank pump pressure switches. These signals are used as part of the fuel recirculation inhibition request logic. Subsequent investigation determined that ground wires had not been installed on the fuel level sensor control units (FLSCU) of post-mod aeroplanes, due to a drawing error on the fuel system recirculation principle diagram. Without these ground wires providing inputs, the FLSCU logic is not correctly implemented for gravity feeding operation. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0216 This condition, if not corrected, could lead to reduced fuel pressure at the engine inlet, possibly resulting in an uncommanded in-flight shut-down when flying at the gravity feed ceiling levels, as defined in the Aircraft Flight Manual (AFM). To address this potential unsafe condition, Airbus issued AFM Temporary Revision (TR) 695 Issue 1 and AFM TR 699 Issue 1 to prohibit the use of Jet B and JP4 fuel, and AFM TR 700 Issue 1 to provide instructions for amendment of the gravity feed procedure for the other fuels. Consequently, EASA issued AD 2016-0205, requiring amendment of the applicable AFM to include the new gravity feed procedure and to reduce the list of authorised fuels. Since that AD was issued, Airbus developed a wiring modification to restore the intended FLSCU logic, and issued Service Bulletin (SB) A320-28-1242, later revised, providing instructions to modify affected aeroplanes. For the reason described above, this AD retains the requirements of EASA AD 2016-0205, which is superseded, and requires modification of FLSCU wiring. This AD also allows, after that modification, to remove the previously inserted AFM TR’s from the applicable AFM.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Restatement of the requirements of EASA AD 2016-0205: AFM amendment: (1) Within 30 days after 27 October 2016 [the effective date of EASA AD 2016-0205], amend the applicable AFM by inserting a copy of AFM TR 695 Issue 1 or AFM TR 699 Issue 1, as applicable, and AFM TR 700 Issue 1, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the applicable AFM to incorporate a later AFM revision which includes AFM TR 695 Issue 1, or AFM TR 699 Issue 1, as applicable, and AFM TR 700 Issue 1, is acceptable to comply with the requirements of paragraph (1) of this AD. New Requirements of this AD: Modification: (3) Within 24 months after the effective date of this AD, modify the FLSCU wiring in accordance with the instructions of Airbus SB A320-28-1242 Revision 01. Credit: (4) Modification of an aeroplane before the effective date of this AD in accordance with the instructions of Airbus SB A320-28-1242 original issue is acceptable to comply with the requirements of paragraph (3) of this AD for that aeroplane. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0216 AFM amendment: (5) After modification of an aeroplane as required by paragraph (3) of this AD, it is allowed to amend the applicable AFM of that aeroplane by removing the copy of AFM TR 695 Issue 1 or AFM TR 699 Issue 1, as applicable, and AFM TR 700 Issue 1, or by incorporating a later AFM revision that does not contain those TRs anymore. Following AFM amendment, inform all flight crews and operate the aeroplane accordingly.
+
+Ref. Publications: Airbus AFM TR 695 Issue 1 dated 12 September 2016. Airbus AFM TR 699 Issue 1 dated 12 September 2016. Airbus AFM TR 700 Issue 1 dated 12 September 2016. Airbus SB A320-28-1242 original issue dated 21 December 2016, or Revision 01 dated 03 October 2017. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 07 September 2017 as PAD 17-126 for consultation until 05 October 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

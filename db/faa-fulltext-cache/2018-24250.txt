@@ -1,0 +1,332 @@
+[Federal Register Volume 83, Number 216 (Wednesday, November 7, 2018)]
+[Rules and Regulations]
+[Pages 55619-55626]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-24250]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0431; Product Identifier 2018-NE-16-AD; Amendment 
+39-19475; AD 2018-22-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines Turbofan 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+International Aero Engines (IAE) PW1133G-JM, PW1133GA-JM, PW1130G-JM, 
+PW1127G-JM, PW1127GA-JM, PW1127G1-JM, PW1124G-JM, PW1124G1-JM, and 
+PW1122G-JM turbofan engines with a certain high-pressure compressor 
+(HPC) front hub installed. This AD was prompted by corrosion found on 
+the HPC front hub. This AD requires replacing the HPC front hub with a 
+part eligible for installation. We are issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective December 12, 2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact International Aero Engines (IAE), 400 Main Street, East 
+Hartford, CT, 06118; phone: 800-565-0140; email: [email protected]; 
+internet: http://fleetcare.pw.utc.com. You may view this service 
+information at the FAA, Engine and Propeller Standards Branch, 1200
+
+[[Page 55620]]
+
+District Avenue, Burlington, MA, 01803. For information on the 
+availability of this material at the FAA, call 781-238-7759. It is also 
+available on the internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2018-0431.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0431; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC, 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kevin M. Clark, Aerospace Engineer, 
+ECO Branch, FAA, 1200 District Avenue, Burlington, MA, 01803; phone: 
+781-238-7088; fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to IAE PW1133G-JM, PW1133GA-
+JM, PW1130G-JM, PW1127G-JM, PW1127GA-JM, PW1127G1-JM, PW1124G-JM, 
+PW1124G1-JM, and PW1122G-JM turbofan engines with a certain HPC front 
+hub installed. The NPRM published in the Federal Register on June 28, 
+2018 (83 FR 30370). The NPRM was prompted by a report that corrosion 
+was found on HPC front hub, part number (P/N) 30G2401. The HPC front 
+hub exhibited deposits that could not be removed using standard 
+procedures and worsened over time. After further investigation, pitting 
+corrosion was found below the painted surface. This condition, if not 
+addressed, could result in uncontained HPC front hub release, damage to 
+the engine, and damage to the airplane. The NPRM proposed to require 
+replacing the HPC front hub with a part eligible for installation. We 
+are issuing this AD to address the unsafe condition on these products.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. We have considered the comment received on the NPRM 
+and the FAA's response to each comment.
+
+Request Clarification on CSN Limit
+
+    All Nippon Airways requested that we clarify which cycles since new 
+(CSN) limit for this AD is correct. ANA stated the PW Service Bulletin 
+PW1000G-C-72-00-0106-00A-930A-D, dated June 15, 2018 specifies a limit 
+of 4,400 cycles since new (CSN), while paragraph (g) of this AD 
+specifies a limit of 4,440 CSN.
+    We disagree. The AD limit of 4,440 CSN is correct. We found that 
+4,440 CSN provides an acceptable level of safety, and reducing the CSN 
+limit in this AD to match the SB is not required. Therefore, we did not 
+change this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this final rule as proposed, except for minor editorial changes. We 
+have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information
+
+    We reviewed Section PW1000G-C-05-10-00-02A-288A-D of the PW1100G-JM 
+Series Airworthiness Limitations Manual, P/N 5316993, dated September 
+30, 2015. Section PW1000G-C-05-10-00-02A-288A-D provides guidance for 
+an approved FAA method of mixed model cycles since new calculation.
+
+Costs of Compliance
+
+    We estimate that this AD affects 16 engines installed on airplanes 
+of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Replace HPC front hub.................  0 work-hours x $85 per           $11,600         $11,600        $185,600
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to engines, propellers, and 
+associated appliances to the Manager, Engine and Propeller Standards 
+Branch, Policy and Innovation Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+
+[[Page 55621]]
+
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+AD 2018-22-02 International Aero Engines: Amendment 39-19475; Docket 
+No. FAA-2018-0431; Product Identifier 2018-NE-16-AD.
+
+(a) Effective Date
+
+    This AD is effective December 12, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to International Aero Engines (IAE) PW1133G-JM, 
+PW1133GA-JM, PW1130G-JM, PW1127G-JM, PW1127GA-JM, PW1127G1-JM, 
+PW1124G-JM, PW1124G1-JM, and PW1122G-JM turbofan engines with a 
+high-pressure compressor (HPC) front hub, part number (P/N) 30G2401, 
+installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by corrosion found on the HPC front hub, P/
+N 30G2401, installed. We are issuing this AD to prevent cracking and 
+failure of the HPC front hub. The unsafe condition, if not 
+addressed, could result in uncontained HPC front hub release, damage 
+to the engine, and damage to the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Remove from service the HPC front hub, P/N 30G2401, within 120 
+days after the effective date of this AD, or as follows, whichever 
+occurs later, and replace with a part eligible for installation:
+    (1) For PW1122G-JM, PW1124G1-JM, PW1124G-JM, PW1127G1-JM, 
+PW1127GA-JM, and PW1127G-JM engines, remove the HPC front hub before 
+exceeding 6,180 cycles since new (CSN) or within five years since 
+the ship date listed in Table 1 to paragraph (g) of this AD, 
+whichever occurs first.
+    (2) For PW1130G-JM, PW1133GA-JM, and PW1133G-JM engines, remove 
+the HPC front hub before exceeding 4,440 CSN or within four years 
+since the ship date listed in Table 1 to paragraph (g) of this AD, 
+whichever occurs first.
+    (3) For engines operating as a mix of models listed in 
+paragraphs (g)(1) and (2) of this AD, remove the HPC front hub using 
+a CSN calculated by an approved FAA method or within four years 
+since the ship date listed in Table 1 to paragraph (g) of this AD, 
+whichever occurs first. You may find guidance for an approved FAA 
+method of mixed model CSN calculation in Section PW1000G-C-05-10-00-
+02A-288A-D of the PW1100G-JM Series Airworthiness Limitations 
+Manual, P/N 5316993, dated September 30, 2015.
+    (4) For any HPC front hub, P/N 30G2401, whose serial number is 
+not listed in Table 1 to paragraph (g) of this AD, use October 21, 
+2015, as the ship date.
+BILLING CODE 4910-13-P
+
+[[Page 55622]]
+
+[GRAPHIC] [TIFF OMITTED] TR07NO18.001
+
+
+[[Page 55623]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07NO18.002
+
+
+[[Page 55624]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07NO18.003
+
+
+[[Page 55625]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07NO18.004
+
+
+[[Page 55626]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR07NO18.005
+
+BILLING CODE 4910-13-C
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, ECO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in paragraph (i) of this AD. You may email your request 
+to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(i) Related Information
+
+    For more information about this AD, contact Kevin M. Clark, 
+Aerospace Engineer, ECO Branch, FAA, 1200 District Avenue, 
+Burlington, MA, 01803; phone: 781-238-7088; fax: 781-238-7199; 
+email: [email protected].
+
+(j) Material Incorporated by Reference
+
+    None.
+
+    Issued in Burlington, MA, on November 01, 2018.
+Robert J. Ganley,
+Manager, Engine and Propeller Standards Branch, Aircraft Certification 
+Service.
+[FR Doc. 2018-24250 Filed 11-6-18; 8:45 am]
+ BILLING CODE 4910-13-P

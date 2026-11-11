@@ -1,0 +1,540 @@
+[Federal Register Volume 81, Number 8 (Wednesday, January 13, 2016)]
+[Rules and Regulations]
+[Pages 1504-1508]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-33289]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-1981; Directorate Identifier 2014-NM-204-AD; 
+Amendment 39-18362; AD 2016-01-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+[[Page 1505]]
+
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200 Freighter, A330-200, A330-300, A340-200, and 
+A340-300 series airplanes. This AD was prompted by reports that the 
+inner bore of some main landing gear (MLG) unit bogie beams were 
+insufficiently re-protected against corrosion after inspection or 
+maintenance actions were accomplished. This AD requires for certain MLG 
+units, determining which revision of the component maintenance manual 
+(CMM) was used to accomplish the most recent MLG unit overhaul; a 
+detailed inspection for missing or damaged paint, and if necessary, a 
+detailed inspection of the cadmium plating for discrepancies, 
+measurement of the depth of the cadmium plating, a general visual 
+inspection of the base metal for corrosion or damage, a detailed 
+inspection of repaired areas for cracking or corrosion; and corrective 
+actions if necessary. We are issuing this AD to detect and correct 
+corrosion in the bore of each MLG unit bogie beam, which could result 
+in collapse of a MLG unit, and subsequent damage to the airplane and 
+injury to occupants.
+
+DATES: This AD becomes effective February 17, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 17, 
+2016.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-1981; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For Airbus service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 
+93 45 80; email [email protected]; Internet http://www.airbus.com. For Messier-Dowty service information contact Messier-
+Dowty Limited, Cheltenham Road, Gloucester, GL2 9QH, England; telephone 
++44(0) 1452 712424; fax+ 44(0) 1452 713821; Internet http://www.safranmbd.com. You may view this referenced service information at 
+the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+WA. For information on the availability of this material at the FAA, 
+call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+1981.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM 116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A330-
+200 Freighter, A330-200, A330-300, A340-200, and A340-300 series 
+airplanes. The NPRM published in the Federal Register on June 15, 2015 
+(80 FR 34098).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0222, dated October 6, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200 Freighter, A330-200, A330-300, A340-200, and A340-300 series 
+airplanes. The MCAI states:
+
+    From in-service experience, it was found that the inner bore of 
+some bogie beams had been insufficiently re-protected against 
+corrosion after inspection and/or possible maintenance actions 
+accomplished in this area (absence of corrosion inhibitor and damage 
+to paint have been found in some specific areas).
+    This condition, if not detected and corrected, could lead to 
+corrosion on the bore of the bogie beam, potentially resulting in 
+Main Landing Gear (MLG) collapse, ultimately resulting in damage to 
+the aeroplane and injury to the occupants.
+    To address this potential unsafe condition, Airbus issued Alert 
+Operators Transmission (AOT) A32L004-14, providing inspection 
+instructions for some aeroplane configurations.
+    For the reasons described above, this [EASA] AD requires 
+identification of the MLG units that are possibly affected, [a 
+detailed] inspection [for missing or damaged paint] of the MLG Bogie 
+Beam bore and, depending on findings, accomplishment of the 
+applicable corrective actions.
+    This [EASA] AD also prohibits the installation of MLG units that 
+have been overhauled by using instructions from an earlier 
+Components Maintenance Manual (CMM) revision.
+
+    Required actions also include a detailed inspection of the cadmium 
+plating for discrepancies (gray in color), measurement of the depth of 
+the cadmium plating if necessary, and a general visual inspection of 
+the base metal for corrosion or damage, and a detailed inspection of 
+repaired areas for cracking or corrosion. Corrective actions include 
+removing cadmium plating and repairing any cracked, corroded, or 
+damaged areas; re-applying cadmium plating and paint; and re-applying 
+temporary corrosion protection to the bores of the MLG bogie beams.
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2015-1981-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We have considered the comments received. The following 
+presents the comments received on the NPRM (80 FR 34098, June 15, 2015) 
+and the FAA's response to each comment.
+
+Request for Clarification of Optional Method of Compliance
+
+    Air France and American Airlines (AA) requested that paragraph (j) 
+of the proposed AD (80 FR 34098, June 15, 2015) be revised to clarify 
+that after accomplishment of the actions in the Accomplishment 
+Instructions of Messier-Dowty Service Bulletin A33/34-32-272, dated 
+November 16, 2007, including Appendixes A, B, C, and D, dated November 
+16, 2007; or Service Bulletin A33/34-32-272, Revision 1, dated 
+September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008; the actions specified in the Messier-Dowty service 
+information identified in paragraphs (j)(1) through (j)(5) of the 
+proposed AD must not be accomplished on that same MLG unit.
+    We agree with the commenters' request and have revised paragraph 
+(j) of this AD to clarify that after accomplishment of the actions in 
+the Accomplishment Instructions of Messier-Dowty Service Bulletin A33/
+34-32-272, dated November 16, 2007, including Appendixes A, B, C, and 
+D, dated November 16, 2007; or Service Bulletin A33/34-32-272, Revision 
+1, dated September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008; the actions specified in the Messier-Dowty service 
+information identified in paragraphs (j)(1) through (j)(5) of this AD 
+must not be accomplished on that same MLG unit. The actions in the 
+Accomplishment Instructions of Messier-Dowty service information 
+identified in paragraphs (j)(1) through (j)(5) do not provide 
+sufficient corrosion protection for the MLG units.
+
+[[Page 1506]]
+
+Request To Correct Service Information Reference
+
+    Air France requested that the references to the Airbus component 
+maintenance manual in paragraph (g) of the proposed AD be changed to 
+Messier-Dowty component maintenance manual.
+    We agree with the commenter's request because the component 
+maintenance manuals were published by Messier-Dowty, not Airbus. We 
+have revised paragraphs (g) and (k) of this AD accordingly.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 34098, June 15, 2015) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 34098, June 15, 2015).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission A32L004-14, dated 
+July 28, 2014, including Appendixes 1, 2, 3, and 4. This service 
+information describes procedures for inspections of the bogie beam bore 
+of the MLG.
+    Messier-Dowty has issued the following service information, which 
+describes procedures for inspections of the internal diameter of the 
+bogie beam for corrosion.
+     Service Bulletin A33/34-32-272, dated November 16, 2007, 
+including Appendixes A, B, C, and D, dated November 16, 2007.
+     Service Bulletin A33/34-32-272, Revision 1, dated 
+September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 89 airplanes of U.S. registry.
+    We also estimate that it will take about 12 work-hours per product 
+to comply with the basic requirements of this AD, and 1 work-hour to 
+report the inspection findings. The average labor rate is $85 per work-
+hour. Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $98,345, or $1,105 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for any necessary follow-on actions.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW., Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-1981; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-01-03 Airbus: Amendment 39-18362. Docket No. FAA-2015-1981; 
+Directorate Identifier 2014-NM-204-AD.
+
+(a) Effective Date
+
+    This AD becomes effective February 17, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1) and (c)(2) of this AD.
+
+[[Page 1507]]
+
+    (1) Model A330-201, A330-202, A330-203, A330-223, A330-223F, 
+A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-
+322, A330-323, A330-341, A330-342, and A330-343 airplanes; all 
+manufacturer serial numbers; except those on which Airbus 
+Modification 58896 has been embodied in production or embodied 
+through Airbus Service Bulletin A330-32-3237.
+    (2) Model A340-211, A340-212, A340-213, A340-311, A340-312, and 
+A340-313 airplanes; all manufacturer serial numbers; except those on 
+which Airbus Modification 58896 has been embodied in production or 
+embodied through Airbus Service Bulletin A340-32-4279.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear.
+
+(e) Reason
+
+    This AD was prompted by reports that the inner bore of some main 
+landing gear (MLG) unit bogie beams were insufficiently re-protected 
+against corrosion after inspection or maintenance actions were 
+accomplished. We are issuing this AD to detect and correct corrosion 
+in the bore of each MLG unit bogie beam, which could result in 
+collapse of a MLG unit, and subsequent damage to the airplane and 
+injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Identification of Affected MLG Units
+
+    Within 12 months after the effective date of this AD: For MLG 
+units having a 201252 series or 201490 series part number, determine 
+the revision of the Messier-Dowty component maintenance manual (CMM) 
+used to do the most recent MLG unit overhaul. If it is determined 
+that the Messier-Dowty CMM revision specified in paragraph (g)(1) or 
+(g)(2) of this AD was used to accomplish the most recent MLG unit 
+overhaul: Within 12 months after the effective date of this AD, 
+clean the area between the bogie pivot pin and the bogie beam bore 
+of each MLG unit and do a detailed inspection for missing or damaged 
+paint, in accordance with Airbus Alert Operators Transmission 
+A32L004-14, dated July 28, 2014, including Appendixes 1, 2, 3, and 
+4, which do not have a date.
+    (1) For MLG units having a part number in the 201252 series: 
+Messier-Dowty CMM 32-11-74, Revision 25 or earlier.
+    (2) For MLG units having a part number in the 201490 series: 
+Messier-Dowty CMM 32-12-05, Revision 20 or earlier.
+
+(h) Inspection of Cadmium Plating
+
+    If, during the inspection required by paragraph (g) of this AD, 
+any missing or damaged paint is found: Before further flight, do a 
+detailed inspection of the cadmium plating for discrepancies, 
+measure the depth of the plating as applicable, and do a general 
+visual inspection of the base metal for corrosion or damage, in 
+accordance with Airbus Alert Operators Transmission A32L004-14, 
+dated July 28, 2014, including Appendixes 1, 2, 3, and 4, which do 
+not have a date. If any discrepancy, damage, or corrosion is found, 
+before further flight, do all applicable corrective actions, and do 
+a detailed inspection of repaired areas for cracking or corrosion, 
+in accordance with Airbus Alert Operators Transmission A32L004-14, 
+dated July 28, 2014, including Appendixes 1, 2, 3, and 4, which do 
+not have a date, except where Airbus Alert Operators Transmission 
+A32L004-14, dated July 28, 2014, including Appendixes 1, 2, 3, and 
+4, specifies to contact Messier-Dowty if cracking or corrosion is 
+found in a repaired area, before further flight, repair using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).
+
+(i) Reporting Requirement
+
+    At the applicable time specified in paragraph (i)(1) or (i)(2) 
+of this AD, report the findings of the inspection required by 
+paragraph (g) of this AD to Airbus, Customer Services Engineering--
+SEEL1, Attn: Philippe Kerangueven, Product Leader A330/A340, ATA-32, 
+Landing Gear Systems, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; phone +33 (0) 5 67 19 18 42; fax +33 0 5 67 19 12 05; 
+email [email protected]. The report must include the 
+information specified in Appendix 2 of Airbus Alert Operators 
+Transmission A32L004-14, dated July 28, 2014.
+    (1) If the inspection was done on or after the effective date of 
+this AD: Within 90 days after that inspection.
+    (2) If the inspection was done before the effective date of this 
+AD: Within 90 days after the effective date of this AD.
+
+(j) Optional Method of Compliance
+
+    Accomplishment of the boroscope inspection of the internal 
+diameter of the bogie beam for corrosion or damage to the protective 
+treatments, measurement of the depth of the protective treatments as 
+applicable, and accomplishment of all applicable corrective actions, 
+in accordance with the Accomplishment Instructions of Messier-Dowty 
+Service Bulletin A33/34-32-272, dated November 16, 2007, including 
+Appendixes A, B, C, and D, dated November 16, 2007; or Revision 1, 
+dated September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008; are acceptable for the corresponding actions 
+required by paragraphs (g) and (h) of this AD for that MLG unit; 
+however, after accomplishment of the actions in the Accomplishment 
+Instructions of Messier-Dowty Service Bulletin A33/34-32-272, dated 
+November 16, 2007, including Appendixes A, B, C, and D, dated 
+November 16, 2007; or Service Bulletin A33/34-32-272, Revision 1, 
+dated September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008; the actions specified in the Messier-Dowty 
+service information identified in paragraphs (j)(1) through (j)(5) 
+of this AD must not be accomplished on that same MLG unit. Where 
+Messier-Dowty Service Bulletin A33/34-32-272, dated November 16, 
+2007, including Appendixes A, B, C, and D, dated November 16, 2007; 
+or Revision 1, dated September 22, 2008, including Appendixes A, B, 
+C, and D, dated September 22, 2008; specify to contact Messier-Dowty 
+for repair information, the repair must be accomplished using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA.
+    (1) Messier-Dowty Service Bulletin A33/34 32-285, dated July 9, 
+2010.
+    (2) Messier-Dowty Service Bulletin A33/34 32-285, Revision 1, 
+dated October 4, 2011.
+    (3) Messier-Dowty Service Bulletin A33/34 32-285, Revision 2, 
+dated October 4, 2012.
+    (4) Messier-Dowty Service Bulletin A33/34 32-285, Revision 3, 
+dated September 11, 2013.
+    (5) Messier-Dowty Service Bulletin A33/34 32-285, Revision 4, 
+dated January 23, 2014.
+    Note 1 to paragraph (j) of this AD: Inspections done using the 
+instructions in Messier-Dowty Service Bulletin A33/34-32-285, 
+Revision 5, dated August 14, 2014, do not affect the optional method 
+of compliance provided by this paragraph.
+
+(k) Parts Installation Limitation
+
+    As of the effective date of this AD, any overhauled MLG unit 
+having a 201252 series or 201490 series part number may be installed 
+on an airplane, provided the most recent MLG overhaul was done using 
+a Messier-Dowty CMM that is not specified in paragraph (g)(1) or 
+(g)(2) of this AD, or, prior to installation, the MLG unit passes 
+the inspection required by paragraph (g) of this AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425 227 1149. Information 
+may be emailed to: 9 [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Reporting Requirements: A federal agency may not conduct or 
+sponsor, and a
+
+[[Page 1508]]
+
+person is not required to respond to, nor shall a person be subject 
+to a penalty for failure to comply with a collection of information 
+subject to the requirements of the Paperwork Reduction Act unless 
+that collection of information displays a current valid OMB Control 
+Number. The OMB Control Number for this information collection is 
+2120-0056. Public reporting for this collection of information is 
+estimated to be approximately 5 minutes per response, including the 
+time for reviewing instructions, completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Comments concerning the accuracy of this 
+burden and suggestions for reducing the burden should be directed to 
+the FAA at: 800 Independence Ave. SW., Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES 200.
+
+(m) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA Airworthiness Directive 2014-0222, dated October 6, 2014, for 
+related information. This MCAI may be found in the AD docket on the 
+Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2015-
+1981-0002.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A32L004-14, dated July 
+28, 2014, including Appendixes 1, 2, 3, and 4, which are not dated.
+    (ii) Messier-Dowty Service Bulletin A33/34-32-272, dated 
+November 16, 2007, including Appendixes A, B, C, and D, dated 
+November 16, 2007.
+    (iii) Messier-Dowty Service Bulletin A33/34-32-272, Revision 1, 
+dated September 22, 2008, including Appendixes A, B, C, and D, dated 
+September 22, 2008.
+    (3) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) For Messier-Dowty service information identified in this AD, 
+contact Messier-Dowty Limited, Cheltenham Road, Gloucester, GL2 9QH, 
+England; telephone +44(0) 1452 712424; fax+ 44(0) 1452 713821; 
+Internet http://www.safranmbd.com.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 29, 2015.
+Philip Forde,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-33289 Filed 1-12-16; 8:45 am]
+BILLING CODE 4910-13-P

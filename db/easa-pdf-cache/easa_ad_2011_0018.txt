@@ -1,0 +1,36 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2011-0018 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2011-0018 Date: 03 February 2011 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : AIRBUS A330 aeroplanes TCDS Number : EASA.A.004 Foreign AD : Not applicable Supersedure : DGAC AD F-2001-528 (B) R2 dated 23 June 2004 approved by EASA Approval No. 2004-6375.
+
+ATA 78 Exhaust – Thrust Reverser – C-Ducts – Life Limits
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330 aeroplanes, -243, -243F, -341, -342 and -343 models, all manufacturer serial numbers.
+
+Reason: The life limits of the thrust reversers C-Ducts are not addressed by the definition of the structural life limits of Safe Life items as defined in the A330 Airworthiness Limitations Section - ALS Part 1. As a result, these life limits are covered by an
+
+Airworthiness Directive (AD). These life limits are due to unexpected high fatigue loads (measured during certification tests) on the hinges integrated into the 12 o’clock beam, which forms the upper extreme edge of the thrust reverser C-Duct of Rolls Royce Trent 700 engines. The aim of the DGAC France AD F-2001-528 was to mandate the life limits, depending of the modifications applied to the C-Duct. Revision 1 of the DGAC France AD F-2001-528 deferred the accomplishment threshold of the modification to be applied in-service from 6 000 flight cycles (FC) to 6 500 FC. Revision 2 of DGAC France AD F-2001-528 was issued to update again the accomplishment threshold from 6 500 FC to 7 200 FC. This AD retains the requirements of DGAC France AD F-2001-528 R2, which is superseded, and adds the following life limits: EASA Form 110 Page 1/3
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2011-0018 - Part Numbers (P/N) of the thrust reversers C-Ducts: HDTR3416L, HDTR3417L, HDTR3419R, HDTR3420R life limit is 25 000 FC; - P/N HDTR3415L and HDTR3418R life limit is 40 000 FC.
+
+Effective Date: 17 February 2011 Required action(s) Required as indicated, unless accomplished previously: and Compliance (1) Before the accumulation of 10 000 total FC since their first installation Time(s): on an aeroplane, remove from service the following thrust reversers C-Ducts: P/N HDTR3410L, P/N HDTR3410R, P/N HDTR3411L, P/N HDTR3411R, P/N HDTR3412R, P/N HDTR3413R. (2) Before the accumulation of 10 000 total FC since their first installation on an aeroplane, remove from service the following thrust reversers C-Ducts: P/N HDTR3414L, P/N HDTR3416R, P/N HDTR3417R, that have been modified in service in accordance with Airbus Service Bulletin (SB) A330-78-3010 (or ROLLS-ROYCE SB RB211-78- C899) at or after accumulation of 7 200 FC since their first installation on an aeroplane. (3) Before the accumulation of 25 000 total FC since their first installation on an aeroplane, remove from service the following thrust reversers C-Ducts: P/N HDTR3414L, P/N HDTR3416R, P/N HDTR3417R, that have received in production Airbus modification 47316, or that have been modified in service in accordance with Airbus SB A330-78-3010 (or ROLLS-ROYCE SB RB211-78-C899) before the accumulation of 7 200 FC since their first installation on an aeroplane. (4) Before the accumulation of 25 000 total FC since their first installation on an aeroplane, remove from service the following thrust reversers C-Ducts: P/N HDTR3412L, P/N HDTR3416L, P/N HDTR3417L, P/N HDTR3414R, P/N HDTR3419R, P/N HDTR3420R. EASA Form 110 Page 2/3
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2011-0018 (5) Before they have accumulated the current demonstrated life limits, remove from service the thrust reversers C-Ducts shown in Table 1. of this AD. It is also required to monitor the FC accumulation for the C-Ducts shown in Table 1. of this AD. Table 1. C-Ducts P/N Demonstrated life limits HDTR3413L 40 000 FC HDTR3415R 40 000 FC HDTR3415L 40 000 FC HDTR3418R 40 000 FC
+
+Ref. Publications: Airbus Service Bulletin A330-78-3010 Original issue. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 30 November 2010 as PAD 10-119 for consultation until 28 December 2010. The Comment Response Document can be found at http://ad.easa.europa.eu/. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAL; E-mail: airworthiness.A330-A340@airbus.com. EASA Form 110 Page 3/3

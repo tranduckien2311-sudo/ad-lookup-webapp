@@ -1,0 +1,380 @@
+[Federal Register Volume 79, Number 111 (Tuesday, June 10, 2014)]
+[Rules and Regulations]
+[Pages 33045-33048]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-12444]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-1031; Directorate Identifier 2013-NM-155-AD; 
+Amendment 39-17854; AD 2014-11-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes; and Model A340-200, A340-300, A340-500, and A340-600 series 
+airplanes. This AD was prompted by a non-connection of the constant 
+speed motor/generator (CSM/G) during a final assembly operational test. 
+This AD requires a detailed inspection of the connector wires for 
+connector 1XE-A of the generator control unit (GCU)-CSM/
+
+[[Page 33046]]
+
+G for discrepancies (evidence of arcing or overheating damage), and 
+related investigative and corrective actions if necessary. We are 
+issuing this AD to detect and correct incorrect locking of contacts 
+into connector 1XE-A of the GCU-CSM/G, which could result in a loss of 
+contact continuity and lead to the CSM/G not operating, which, in 
+conjunction with an emergency electrical configuration loss of the main 
+electrical system or total engine flameout, could adversely affect the 
+airplane's safe flight.
+
+DATES: This AD becomes effective July 15, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publications listed in this AD as of July 15, 
+2014.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-1031; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS, 
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425 227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227 1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A330-
+200, A330-200 Freighter, and A330-300 series airplanes; and Model A340-
+200, A340-300, A340-500, and A340-600 series airplanes. The NPRM 
+published in the Federal Register on December 26, 2013 (78 FR 78294).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2013-0175, dated August 2, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+    During Final Assembly Line tests on an A330 aeroplane, the 
+Generator Control Unit--Constant Speed Motor/Generator (GCU-CSM/G) 
+failed the operational test.
+    Investigations revealed that it is due to incorrect locking of 
+some contacts (pins) into the GCU-CSM/G connector 1XE-A. An 
+inspection of other aeroplanes confirmed this production quality 
+issue. Among the 26 pins used in GCU-CSM/G connector 1XE-A, 6 pins 
+have been identified as potentially affected by this issue.
+    A badly locked contact could result in a loss of continuity 
+[non-connection] and lead to the non-operation of the CSM/G.
+    This condition, if not detected and corrected, and in 
+conjunction with either an emergency electrical configuration loss 
+of main electrical system or total engine flame out, could 
+jeopardize the aeroplane's safe flight.
+    To address this condition, Airbus developed Alert Operator 
+Transmission (AOT) A24L001-13, to provide instructions for a one-
+time inspection.
+    For the reasons described above, this AD requires a one-time 
+[detailed] inspection of the potentially affected connector wires of 
+GCU-CSM/G connector 1XE-A and, depending on [the] finding, 
+accomplishment of [a related investigative action] and applicable 
+corrective actions.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-1031-0002.
+
+Revised Service Information
+
+    Since the NPRM (78 FR 78294, December 26, 2013) was published, we 
+have received Airbus Alert Operators Transmission A24L001-13, Revision 
+01, dated March 6, 2014. We have determined that this service 
+information does not add any additional actions to those proposed in 
+the NPRM, therefore, we have revised paragraph (g) of this AD to refer 
+to that service information. We have also added a new paragraph (h) to 
+this AD to provide credit for actions performed before the effective 
+date of this AD using Airbus Alert Operators Transmission A24L001-13, 
+dated July 25, 2013, and redesignated the subsequent paragraphs 
+accordingly. Additionally, we have added paragraph (k), Material 
+Incorporated by Reference, to the end of this AD.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the NPRM (78 FR 
+78294, December 26, 2013) and the FAA's response to that comment.
+
+Request To Clarify What Prompted the NPRM (78 FR 78294, December 26, 
+2013)
+
+    Airbus requested clarification in the SUMMARY section and paragraph 
+(e) of the NPRM (78 FR 78294, December 26, 2013). Airbus stated that it 
+was not ``failure of the generator control unit-constant speed motor/
+generator during a final assembly operational test'' that caused the 
+unsafe condition, but a non-connection of the CSM/G during an 
+operational test in the final assembly line. Investigations revealed an 
+incorrect locking of some contacts into connector 1XE-A of the GCU-CSM/
+G.
+    We agree to revise the SUMMARY section and paragraph (e) of this 
+final rule to state that this AD was prompted by a non-connection of 
+the CSM/G during a final assembly operational test.
+
+Changes to This Final Rule
+
+    Paragraphs (g)(1) and (g)(2) in the NPRM (78 FR 78294, December 26, 
+2013) have been combined into paragraph (g) in this final rule.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (78 FR 78294, December 26, 2013) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 78294, December 26, 2013).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 76 airplanes of U.S. registry.
+    We also estimate that it will take about 1 work-hour per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Required parts will cost about $0 per product. 
+Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $6,460, or $85 per product.
+    In addition, we estimate that any necessary follow-on actions will 
+take about 1 work-hour and require parts costing up to $17,314, for a 
+cost of up
+
+[[Page 33047]]
+
+to $17,399 per product. We have no way of determining the number of 
+aircraft that might need this action.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-1031; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2014-11-04 Airbus: Amendment 39-17854. Docket No. FAA-2013-1031; 
+Directorate Identifier 2013-NM-155-AD.
+
+(a) Effective Date
+
+    This AD becomes effective July 15, 2014.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-201, -202, -203, -223, -
+223F, -243, -243F, -301, -302, -303, -321, -322, -323, -341, -342, -
+343 airplanes; and A340-211, -212, -213, -311, -312, -313, -541, and 
+-642 airplanes; certificated in any category; manufacturer serial 
+numbers (MSNs) 1 through 1391 inclusive, except MSNs 0925 and 1382.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 24, Electrical 
+Power.
+
+(e) Reason
+
+    This AD was prompted by a non-connection of the constant speed 
+motor/generator (CSM/G) during a final assembly operational test. We 
+are issuing this AD to detect and correct incorrect locking of 
+contacts into connector 1XE-A of the generator control unit (GCU)-
+CSM/G, which could result in a loss of contact continuity and lead 
+to the CSM/G not operating, which, in conjunction with an emergency 
+electrical configuration loss of the main electrical system or total 
+engine flameout, could adversely affect the airplane's safe flight.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections and Corrective Actions
+
+    Within 1,000 flight hours after the effective date of this AD: 
+Do a detailed inspection for discrepancies (proper engagement and 
+evidence of arcing or overheating) of the affected connector wires 
+of connector 1XE-A of the GCU-CSM/G, in accordance with Airbus Alert 
+Operators Transmission A24L001-13, Revision 01, dated March 6, 2014. 
+If any discrepancy is detected during the inspection, before further 
+flight, do all applicable related investigative and corrective 
+actions, in accordance with Airbus Alert Operators Transmission 
+A24L001-13, Revision 01, dated March 6, 2014.
+
+(h) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Airbus Alert Operators Transmission 
+A24L001-13, dated July 25, 2013, which is not incorporated by 
+reference in this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer, use these actions if they 
+are FAA-approved. Corrective actions are considered FAA-approved if 
+they were approved by the State of Design Authority (or its 
+delegated agent, or the Design Approval Holder with a State of 
+Design Authority's design organization approval, as applicable). You 
+are required to ensure the product is airworthy before it is 
+returned to service.
+
+(j) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) European Aviation Safety Agency Airworthiness Directive 2013-
+0175, dated August 2, 2013, for related information. This MCAI may 
+be found in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-1031-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be viewed at the addresses specified 
+in paragraphs (k)(3) and (k)(4) of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+[[Page 33048]]
+
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A24L001-13, Revision 01, 
+dated March 6, 2014.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+    Issued in Renton, Washington, on May 16, 2014.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-12444 Filed 6-9-14; 8:45 am]
+BILLING CODE 4910-13-P

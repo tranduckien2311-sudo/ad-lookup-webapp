@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0021
+
+Airworthiness Directive
+
+AD No.: 2017-0021
+
+Issued: 08 February 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 22 February 2017 TCDS Numbers: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2015-0206 dated 12 October 2015.
+
+ATA 53 – Fuselage – Cabin and Cargo Compartments Parts – Inspection / Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-223F, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, manufacturer serial numbers (MSN) as identified in Airbus Service Bulletin (SB) A330-53-3261, or SB A330-53-3262, as applicable, and Airbus A340-541 and A340-642 aeroplanes, MSN 1030, 1040, 1079, 1091, 1102 and 1122.
+
+Reason: Following an Airbus quality control review on the final assembly line, it was discovered that wrong aluminium alloy was used to manufacture several structural parts. This condition, if not detected and corrected, could reduce the structural integrity of the aeroplane. To address this potential unsafe condition, Airbus published SB A330-53-3261, SB A330-53-3262 and SB A340-53-5072, as applicable to aeroplane type/model, to provide instructions to identify the affected parts. Consequently, EASA issued AD 2015-0206 to require a one-time special detailed Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0021 inspection (SDI) of certain cabin and/or cargo compartment parts for material identification and, depending on findings, replacement with serviceable parts. Since that AD was issued, Airbus identified that the list of affected structural parts in SB A330-53-3261 was incorrect. Prompted by these findings, Airbus issued SB A330-53-3261 Revision 01 to introduce the new locations to be inspected and remove other parts not affected. For the reasons described above, this AD retains the requirements of EASA AD 2015-0206, which is superseded, and expands the locations to be inspected.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note: For the purpose of this AD, the ‘affected’ parts are those identified by Part Number (P/N) in Table 1 of this AD. Inspection: (1) Within 6 years after 26 October 2015 [the effective date of EASA AD 2015-0206], or before exceeding 12 years since the aeroplane date of manufacture, whichever occurs first, accomplish an SDI of the affected cabin and/or cargo compartment parts (see Note of this AD) in accordance with the instructions of Airbus SB A330-53-3261 Revision 01, SB A330-53-3262, or SB A340-53-5072, as applicable. Table 1 – Parts to be Inspected / Installed Affected SB Affected P/N Replacement P/N F5347126620600 F5347126620000 SB A330-53-3262 “Cabin” F5347126621000 F5347126620400 F5347170420400 F5347170420400 F5347170420600 F5347170420600 F5377004320300 F5377004320351 SB A330-53-3261 / SB A340-53-5072 “Cargo” G5367131300000 G5367131300000 G5367173700000 G5367173700000 G5367173800000 G5367173800000 Additional Work: (2) For an A330 aeroplane that, before the effective date of this AD, was already inspected and corrected in accordance with the instructions of Airbus SB A330-53-3261 original issue, as previously required by EASA AD 2015-0206, within 6 years after the effective date of this AD, or before exceeding 12 years since the aeroplane date of manufacture, whichever occurs first, accomplish an SDI of structural parts having P/N G5367131300000, P/N G5367173700000 and P/N G5367173800000, located in fuselage section 15, in accordance with the instructions identified as “additional work” in Airbus SB A330-53-3261 Revision 01. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0021 Corrective Action(s): (3) If, during the SDI as required by paragraph (1) or (2) of this AD, as applicable, a part manufactured from wrong material is detected, within the compliance time(s) specified in paragraph (1) or (2) of this AD, as applicable, replace that part with a part identified as “Replacement P/N” in Table 1 of this AD, in accordance with the instructions of Airbus SB A330-53-3261 Revision 01, SB A330-53-3262 or SB A340-53-5072, as applicable.
+
+Ref. Publications: Airbus SB A330-53-3261 original issue dated 23 June 2015, or Revision 01 dated 10 November 2016. Airbus SB A330-53-3262 original issue dated 23 June 2015. Airbus SB A340-53-5072 original issue dated 23 June 2015. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 27 November 2016 as PAD 16-163 for consultation until 27 December 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

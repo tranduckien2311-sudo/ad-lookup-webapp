@@ -1,0 +1,13 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1996-038-027(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A330 aircraft Aileron servo controls (ALLIEDSIGNAL/MOOG) (ATA 27) APPLICABILITY: This
+
+Airworthiness Directive (AD) applies to AIRBUS INDUSTRIE A330 aircraft models -301, -321, -322, -341 and -342 except aircraft which have received AIRBUS INDUSTRIE modifications 44012 or 44157 or AIRBUS INDUSTRIE Service Bulletin A330-27-3032. REASONS: This AD aims at preventing any external hydraulic leakage of an inboard or outboard aileron active servo controls 8CS1 (LH), 10CS1 (LH) and 10CS2 (RH) which could be lost subsequent to emerging cracks at the end cap and/or barrel. Revision 2 of this AD modifies Note 2 of "COMPLIANCE" paragraph in order to replace a reference to AMM Chapter 5 with a reference to AD 2001-530(B). COMPLIANCE: Unless already accomplished, before December 31, 1996: - Remove and replace inboard and outboard aileron active servo controls 8CS1 (LH), 10CS1 (LH) and 10CS2 (RH) in accordance with the instructions given in AIRBUS INDUSTRIE Service Bulletin A330-27-3032. Note 1: Servo control 8CS2 has been replaced via the
+
+Airworthiness Directive 95-090-011(B) R1 issued August 16, 1995. Note 2: Accomplishment of Service Bulletin A330-27-3032 refers to some aileron servocontrols P/N's affected with applicable life limit for which operator must refer to AD 2001-530(B) at its latest revision. …/… n/GH AIRBUS INDUSTRIE November 28, 2001 1996-038-027(B) R2 A330 aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 1996-038-027(B) R2 Page n° 2 GSAC REF.: AIRBUS INDUSTRIE Service Bulletin A330-27-3032 (Any later approved revision is acceptable). This Revision 2 replaces AD 96-038-027(B) R1 issued on September 10, 1997. EFFECTIVE DATES : Original AD : FEBRUARY 24, 1996 Revision 1 : SEPTEMBER 20, 1997 Revision 2 : DECEMBER 08, 2001

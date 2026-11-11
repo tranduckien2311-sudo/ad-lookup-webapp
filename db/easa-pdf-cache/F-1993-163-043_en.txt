@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-163-043(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Braking system - Replacement of relays 24 GG and 25 GG The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models without AIRBUS INDUSTRIE modification 23611 or AIRBUS INDUSTRIE Service Bulletin A320-32-1115. In order to prevent the loss of the second system in the event of one of the two systems of the braking/steering control unit (BSCU) being lost (due to the electrical overvoltage that may occur during transfer from one system to the other), which would result in the nose wheel steering and braking with anti skid functions loss, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Before August 31, 1994, replace relays 24 GG and 25 GG by relays protected against electrical overvoltages in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-32-1115. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-32-1115. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-32-1115 (or any further approved revision) EFFECTIVE DATE : OCTOBER 09, 1993 n/C AIRBUS INDUSTRIE September 29, 1993 93-163-043(B) A320 Aircraft

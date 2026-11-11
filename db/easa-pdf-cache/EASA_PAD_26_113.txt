@@ -1,0 +1,54 @@
+--- PAGE 1 ---
+EASA
+
+PAD No.: 26-113 Notification of a Proposal to issue an
+
+Airworthiness Directive
+
+PAD No.: 26-113
+
+Issued: 23 September 2026 Note: This Proposed
+
+Airworthiness Directive (PAD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. In accordance with the EASA Continuing Airworthiness Procedures, the Executive Director is proposing the issuance/cancellation of an EASA
+
+Airworthiness Directive (AD), applicable to the aeronautical product(s) identified below. All interested persons may send their comments, referencing the PAD Number above, to the e-mail address specified in the ‘Remarks’ section, prior to the consultation date indicated. Design Approval Holder’s Name: Type/Model designation(s): CFM INTERNATIONAL S.A. CFM56-5B and CFM56-7B engines
+
+Effective Date: [TBD – standard: 14 days after AD issue date] TCDS Number(s): EASA.E.003 and EASA.E.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 72 – Engine – High Pressure Turbine Front Seal – Inspection
+
+Manufacturer(s): SAFRAN Aircraft Engines, formerly SNECMA (France); General Electric (United States)
+
+Applicability: CFM56-5B1, CFM56-5B1/P, CFM56-5B1/3, CFM56-5B2, CFM56-5B2/P, CFM56-5B2/3, CFM56-5B3/P, CFM56-5B3/P1, CFM56-5B3/3, CFM56-5B3/3B1, CFM56-5B4, CFM56-5B4/P, CFM56-5B4/P1, CFM56-5B4/3, CFM56-5B4/3B1, CFM56-5B5, CFM56-5B5/P, CFM56-5B5/3, CFM56-5B6, CFM56- 5B6/P, CFM56-5B6/3, CFM56-5B7, CFM56-5B7/P, CFM56-5B7/3, CFM56-5B8/P, CFM56-5B8/3, CFM56-5B9/P, CFM56-5B9/3 engines, all serial numbers (s/n); and CFM56-5B1/2P, CFM56-5B2/2P, CFM56-5B3/2P, CFM56-5B3/2P1, CFM56-5B4/2P, CFM56-5B4/2P1, CFM56-5B6/2P, CFM56-5B9/2P engines, all s/n; and CFM56-7B20, CFM56-7B22, CFM56-7B22/B1, CFM56-7B24, CFM56-7B24/B1, CFM56-7B26, CFM56- 7B26/B1, CFM56-7B26/B2, CFM56-7B27, CFM56-7B27/B1, CFM56-7B27/B3, CFM56-7B27A engines, all s/n; and CFM56-7B20/2, CFM56-7B22/2, CFM56-7B24/2, CFM56-7B26/2, CFM56-7B27/2 engines, all s/n; and Page 1 of 5 TE.CAP.00112-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+PAD No.: 26-113 CFM56-7B20/3, CFM56-7B22/3, CFM56-7B22/3B1, CFM56-7B24/3, CFM56-7B24/3B1, CFM56- 7B26/3, CFM56-7B26/3F, CFM56-7B26/3B1, CFM56-7B26/3B2, CFM56-7B26/3B2F, CFM56-7B27/3, CFM56-7B27/3F, CFM56-7B27/3B1, CFM56-7B27/3B1F, CFM56-7B27/3B3, CFM56-7B27A/3 engines, all s/n; and CFM56-7B20E, CFM56-7B22E, CFM56-7B22E/B1, CFM56-7B24E, CFM56-7B24E/B1, CFM56-7B26E, CFM56-7B26E/F, CFM56-7B26E/B1, CFM56-7B26E/B2, CFM56-7B26E/B2F, CFM56-7B27E, CFM56- 7B27E/F, CFM56-7B27E/B1, CFM56-7B27E/B1F, CFM56-7B27E/B3 and CFM56-7B27AE engines, all s/n. These engines are known to be installed on, but not limited to, Airbus A318, A319, A320, and A321 series aeroplanes, and Boeing 737-600, 737-700, 737-800, 737-900 and 737-900ER series aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Service Bulletin (SB) CFM56-5B S/B 72-1146 or CFM56-7B S/B 72-1117, as applicable. Affected part: Rotating Air High Pressure Turbine (HPT) front seals having Part Number (P/N), 1795M36P02, P/N 2116M20P02, P/N 2410M50P01 or P/N 2410M50P02, and having a s/n as listed in Appendix A of the SB, as defined in this AD; except those which have passed an inspection (without findings) in accordance with the instructions of the SB, as defined in this AD. Alignment BSI check: Inspection via borescope inspection (BSI) of the HPT front seal alignment with the HPT rotor disk. Serviceable part: Any rotating air HPT front seals eligible for installation in accordance with CFM approved instructions, which is not an affected part. Engine shop visit: For the purpose of this AD, an engine shop visit is defined as when the HPT front seal was disassembled from the HPT rotor disk, inspected at piece part, and subsequently assembled again with the HPT rotor disk. Groups: Group 1 engines are those having an affected part installed that has a s/n listed in Appendix A Table 1 of the SB and did not have an engine shop visit after the date as specified in Table 1 of the SB. Group 2 engines are those having an affected part installed and had an engine shop visit after the date as specified in Appendix A Table 1 or Table 2 of the SB, or is currently in an engine shop visit. Group 3 engines are those having an affected part installed that has a s/n listed in Appendix A Table 2 of the SB and did not have an engine shop visit after the date as specified in Table 2 of the SB. Group 4 engines are those which are not Group 1, not Group 2 and not Group 3 engines. Page 2 of 5 TE.CAP.00112-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+PAD No.: 26-113
+
+Reason: It was determined that during assembly certain HPT front seals may have incorrect angular alignment with the HPT rotor disk. This condition, if not detected and corrected, could lead to uncontained release of the rotating air HPT front seal possibly leading to damage to the engine and damage to the aeroplane. To address this unsafe condition, CFM published the SB, as defined in this AD, providing a one-time on-wing borescope inspection (BSI) and corrective action(s) instructions. For the reason described above, this AD requires inspection and, in case of findings, replacement of affected parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Inspection: (1) For Group 1 and Group 3 engines: Within the compliance time specified in Table 1 of this AD, as applicable, accomplish the alignment BSI check of the affected part in accordance with the instructions of the SB. Table 1 – Inspection (alignment BSI check) Engine Cycles (EC) accumulated after the Engine Model effective date of this AD CFM56-7B27A, CFM56-7B27A/3, and CFM56- 500 EC 7B27AE engine All models, except CFM56-7B27A, CFM56-7B27A/3, and CFM56- 1 600 EC 7B27AE engine (2) For Group 3 engines: Concurrently with the alignment BSI check as required by paragraph (1) of this AD, accomplish the HPT front seal BSI inspection of the affected part in accordance with the instructions of the SB. (3) For Group 2 engines: Within the compliance time specified in Table 1 of this AD, as applicable, accomplish the HPT front seal BSI inspection of the affected part in accordance with the instructions of the SB. Corrective Action(s): Page 3 of 5 TE.CAP.00112-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+PAD No.: 26-113 (4) For Group 1 engines: If, during the alignment BSI check as required by paragraph (1) of this AD, any discrepancy, as described in the SB, is detected on the affected part, before next flight, accomplish the HPT front seal BSI inspection of that affected part in accordance with the instructions of the SB. (5) For all engines: If, during the HPT front seal BSI inspection as required by paragraph (2), (3) or (4) of this AD, as applicable, any crack is detected on the affected part, before next flight, replace that affected part with a serviceable part. This can be accomplished in accordance with the instructions of the applicable EMM. (6) For Group 1 engines: If, during the HPT front seal BSI inspection as required by paragraph (4) of this AD, no crack was detected on the affected part, within 10 EC replace that affected part with a serviceable part. This can be accomplished in accordance with the instructions of the applicable EMM. (7) For Group 3 engines: If, during the alignment BSI check as required by paragraph (1) of this AD, any discrepancy, as described in the SB, is detected on the affected part and, during the HPT front seal BSI inspection as required by paragraph (2) of this AD no crack has been detected on the affected part, within 10 EC replace that affected part with a serviceable part. This can be accomplished in accordance with the instructions of the applicable EMM.
+
+Ref. Publications: CFM56-5B S/B 72-1146 original issue dated 19 August 2026. CFM56-7B S/B 72-1117 original issue dated 19 August 2026. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. This Proposed AD will be closed for consultation on 21 October 2026. 2. Enquiries regarding this PAD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 3. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this PAD, and which may occur, or have occurred on a product, part or appliance not affected by this PAD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this PAD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 4. For any question concerning the technical content of the requirements in this PAD, please contact: CFM INTERNATIONAL S.A., Customer Support Center; Telephone: +33 1 64 14 88 66, or Fax: +33 1 64 14 87 65, or E-mail: cfm.csc@safrangroup.com, Page 4 of 5 TE.CAP.00112-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+PAD No.: 26-113 or CFM Inc., GE Aerospace Fleet Support, Telephone: +1 513-552-3272, or +1 877-432-3272, or E-mail: mailto: aviation.fleetsupport@ge.com. Page 5 of 5 TE.CAP.00112-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

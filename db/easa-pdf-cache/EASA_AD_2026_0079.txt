@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2026-0079
+
+Airworthiness Directive
+
+AD No.: 2026-0079
+
+Issued: 17 April 2026 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Change Approval Holder’s Name: Modification: LUFTHANSA TECHNIK AG Activation of Wireless IFE System Board Connect
+
+Effective Date: 01 May 2026 STC Number(s): EASA STC 10049524 up to revision 5 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 23 – Communications – IFE Control and Service Box – Modification
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A319-112, A319-114, A320-211, A320-214, A321-131 and A321-231 aeroplanes, manufacture serial number 412, 458, 473, 493, 502, 505, 518, 560, 563, 564, 567, 595, 609, 610, 616, 623, 627, 636, 641, 651, 652, 679, 689, 692, 694, 699, 700, 717, 729, 738, 744, 853, 860, 875, 887, 901, 1080, 1161, 1188, 1260, 1273, 1337, 1365, 1367, 3265, 3339, 3360, 3387, 3434, 3592, 3625, 3864, 3936, 3987, 4005, 4016, 4047, 4054, 4073, 4085, 4097, 4120, 4141, 4153, 4182, 4191, 4261, 4289, 4324, 4332, 4360, 4363, 4398, 4449, 4455, 4511, 4545, 4560, 4585, 4607, 4626, 4672, 4710, 4753, 4792, 4796, 4819, 4841, 4881, 4916, 4976, 5203, 5239, 5284, 5293, 5425, 5441, 5487, 5497, 5525, 5557, 5601, 5694, 5741, 5769, 5831, 5935, 5972, 6006, 6033, 6092, 6141, 6202, 6225, 6265, 6301, 6415, 6423, 6451, 6521, 6549, 6577, 6636 and 6807, if modified by EASA STC 10049524.
+
+Definitions: For the purpose of this AD, the following definitions apply: The DCS: Lufthansa Technik AG (LHT) Design Change Summary (DCS) AQD-23-DCS-09 revision (rev.) 1. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2026-0079
+
+Reason: Following a design review, it has been determined that, on aeroplanes affected by this AD, the in-flight entertainment (IFE) control and service box, also named “IFE BinBox”, is installed in an overhead bin in the same compartment with a portable oxygen equipment. This installation is not in compliance with the requirements of EASA CS 25.869(c) and 25.1441(b) and, in case of an ignition mechanism resulting from the IFE BinBox failure (such as a short circuit, electric arcing, etc.) concurrent with oxygen leakage, can lead to an uncontrolled oxygen fire in the cabin. To address this potential unsafe condition, LHT issued the DCS, providing instructions to relocate the IFE BinBox from the overhead stowage compartment (OHSC) above seat row 5, left, to the OHSC above seat row 1, left, minimising possible repercussions to aeroplane adjacent systems and structures in case of IFE BinBox failure. For the reason described above, this AD requires relocation of the IFE BinBox.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Modification: (1) Within 30 days after the effective date of this AD, relocate the IFE BinBox in accordance with the instructions of the DCS. Credit: (2) Modification of an aeroplane, accomplished before the effective date of this AD in accordance with the instruction of LHT DCS AQD-23-DCS-09 rev. 0, is acceptable for compliance with the requirement of paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: LHT DCS AQD-23-DCS-09 rev. 0 dated 20 May 2025 and rev. 1 dated 14 January 2026. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. All interested persons may send their comments, referencing the AD Number, to the E-mail address specified in below Remark 3, prior to 15 May 2026. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2026-0079 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: Lufthansa Technik AG (Airworthiness Office), E-mail: hamtolmus@lht.dlh.de. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

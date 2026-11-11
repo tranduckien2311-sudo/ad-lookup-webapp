@@ -1,0 +1,423 @@
+[Federal Register Volume 83, Number 191 (Tuesday, October 2, 2018)]
+[Rules and Regulations]
+[Pages 49475-49482]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-21347]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0804; Product Identifier 2018-NM-129-AD; Amendment 
+39-19442; AD 2018-20-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2018-02-18, 
+which applied to certain Airbus SAS Model A318, A319, and A320 series 
+airplanes and Model A321-111, -112, -131, -211, -212, -213, -231, and -
+232 airplanes. AD 2018-02-18 required revising the airplane flight 
+manual (AFM) to provide guidance to the flightcrew for certain 
+emergency procedures. This new AD requires revising the AFM, and for 
+certain airplanes, removing a certain AFM revision. This AD also adds 
+airplanes to the applicability. This AD was prompted by a determination 
+that, when two angle of attack (AoA) sensors are adversely affected by 
+icing conditions at the same time, data displayed on the back up speed 
+scale (BUSS) could be erroneous. This AD was also prompted by a 
+determination that the AFM needs to be revised for certain additional 
+airplanes, and that the AFM may have been erroneously revised on 
+certain airplanes not equipped with a BUSS function. We are issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 17, 2018.
+    We must receive comments on this AD by November 16, 2018.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this final rule, contact 
+Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile Dewoitine No: 
+2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0804.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0804; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98351; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued AD 2018-02-18, Amendment 39-19171 (83 FR 5182, February 
+6, 2018) (``AD 2018-02-18''), which applied to certain Airbus SAS Model 
+A318, A319, and A320 series airplanes and Model A321-111, -112, -131, -
+211, -212, -213, -231, and -232 airplanes. AD 2018-02-18 was prompted 
+by a determination that when two AoA sensors are adversely affected by 
+icing conditions at the same time, data displayed on the BUSS could be 
+erroneous. AD 2018-02-18 required revising the AFM to provide guidance 
+to the flightcrew for emergency procedures when erroneous airspeed 
+indications are displayed on the BUSS. We issued AD 2018-02-18 to 
+address erroneous airspeed data displays, which could lead to an 
+increased flightcrew workload, possibly resulting in reduced control of 
+the airplane.
+    Since we issued AD 2018-02-18, we have determined that airplanes on 
+which Airbus Service Bulletin A320-34-1543 was embodied in service are 
+also subject to the unsafe condition, and that the AFM may have been 
+erroneously revised on certain airplanes not equipped with a BUSS 
+function.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2018-0189, dated August 30, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A318, A319, and 
+A320 series airplanes and Model A321-111, -112, -131, -211, -212, -213, 
+-231, and -232 airplanes. The MCAI states:
+
+    In extreme icing conditions, pitot probes may induce erroneous 
+airspeed indications. To provide flight crews with reliable 
+information on airspeed, Airbus developed a Back-up Speed Scale 
+(BUSS and reversible BUSS, based on angle of attack (AoA) value) 
+displayed on the Primary Flight Display (PFD), together with a PFD 
+Back-Up Altitude Scale based on Global Positioning System (GPS) 
+altitude. This BUSS function is intended to be used below flight 
+level (FL) 250 only. Following new investigation related to AoA 
+probes blockages, it was identified that, when two AoA sensors are 
+adversely affected by icing conditions at the same time, data 
+displayed on the BUSS could be erroneous.
+    This condition, if not corrected, could lead to an increased 
+flight crew workload, possibly resulting in reduced control of the 
+aeroplane.
+
+[[Page 49476]]
+
+    To address this potential unsafe condition, Airbus established 
+specific operational instructions to be applied by the flight crew 
+under certain defined conditions. The relevant procedure was 
+incorporated into the applicable A320 family AFM [airplane flight 
+manual] since 07 March 2017 (publication date). Consequently, EASA 
+issued AD 2017-0257 (later revised) to require a one-time AFM 
+amendment to introduce the additional operational procedure.
+    Since EASA AD 2017-0257R1 [which corresponds to FAA AD 2018-02-
+18] was issued, it was determined that aeroplanes on which Airbus SB 
+[service bulletin] A320-34-1543 (mod 154033) was embodied in service 
+were inadvertently missing from the Applicability of the [EASA] AD.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2017-0257R1, which is superseded, and 
+extends the Applicability to aeroplanes that embody Airbus SB A320-
+34-1543. This AD also requires removal of the AFM amendment, where 
+it was mistakenly inserted in the AFM of an aeroplane not equipped 
+with the BUSS function, prompted by the Applicability definition and 
+requirements of EASA AD 2017-0257 at original issue.
+
+    You may examine the MCAI on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0804.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+
+FAA's Justification and Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies waiving notice and comment prior to adoption of this rule 
+because when two AoA sensors are adversely affected by icing conditions 
+at the same time, data displayed on the BUSS could be erroneous, 
+leading to an increased flightcrew workload that could ultimately 
+result in reduced control of the airplane. Therefore, we find good 
+cause that notice and opportunity for prior public comment are 
+impracticable. In addition, for the reason(s) stated above, we find 
+that good cause exists for making this amendment effective in less than 
+30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2018-0804; Product 
+Identifier 2018-NM-129-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 1,250 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per      Cost on  U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............................              $0              $85         $106,250
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator,
+
+[[Page 49477]]
+
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2018-02-18, Amendment 39-19171 (83 FR 5182, February 6, 2018), and 
+adding the following new AD:
+
+2018-20-08 Airbus SAS: Amendment 39-19442; Docket No. FAA-2018-0804; 
+Product Identifier 2018-NM-129-AD.
+
+(a) Effective Date
+
+    This AD is effective October 17, 2018.
+
+ (b) Affected ADs
+
+    This AD replaces AD 2018-02-18, Amendment 39-19171 (83 FR 5182, 
+February 6, 2018) (``AD 2018-02-18'').
+
+ (c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (c)(4) of this AD, certificated in any 
+category, all manufacturer serial numbers.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, 
+and -271N airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+ (d) Subject
+
+    Air Transport Association (ATA) of America Code 34, Navigation.
+
+ (e) Reason
+
+    This AD was prompted by a determination that, when two angle of 
+attack (AoA) sensors are adversely affected by icing conditions at 
+the same time, data displayed on the back-up speed scale (BUSS) 
+could be erroneous. We are issuing this AD to address erroneous 
+airspeed data displays, which could lead to an increased flightcrew 
+workload, possibly resulting in reduced control of the airplane.
+
+ (f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+ (g) Definitions
+
+    (1) Group 1 airplanes are those on which Airbus modification 
+35871 has been embodied in production, or Airbus Service Bulletin 
+A320-34-1397 or Airbus Service Bulletin A320-34-1543 has been 
+embodied in service (introducing air data monitoring and BUSS 
+function), except airplanes on which Airbus modification 159281 has 
+also been embodied in production, or Airbus Service Bulletin A320-
+34-1658 or Airbus Service Bulletin A320-34-1659 has also been 
+embodied in service (installing reversible BUSS function).
+    (2) Group 2 airplanes are those that are not in Group 1 and that 
+have amended the AFM as previously specified in EASA AD 2017-0257, 
+dated December 22, 2017.
+
+ (h) AFM Revision
+
+    (1) For Group 1 airplanes, except for airplanes identified in 
+paragraph (i) of this AD: Within 30 days after the effective date of 
+this AD, revise the AFM to incorporate the procedure specified in 
+figure 1 to paragraphs (h) and (i) of this AD.
+    (2) For Group 2 airplanes: Within 30 days after the effective 
+date of this AD, revise the AFM by removing the procedure specified 
+in figure 1 to paragraphs (h) and (i) of this AD from the AFM.++
+Billing Code 4910-13-P
+
+[[Page 49478]]
+
+[GRAPHIC] [TIFF OMITTED] TR02OC18.000
+
+
+[[Page 49479]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02OC18.001
+
+
+[[Page 49480]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02OC18.002
+
+
+[[Page 49481]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR02OC18.003
+
+Billing Code 4910-13-C
+
+ (i) Optional Method of Compliance
+
+    Airplanes operated with an AFM having the NAV-ADR 1+2+3 FAULT 
+procedure identical to the procedure specified in figure 1 to 
+paragraphs (h) and (i) of this AD, with an approval date on or after 
+March 2, 2017, are compliant with the requirements of this AD, 
+provided that the procedure is not removed from the AFM.
+
+ (j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (k)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight
+
+[[Page 49482]]
+
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus SAS's EASA Design Organization Approval (DOA). If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+
+ (k) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0189, dated August 30, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0804.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98351; telephone 
+and fax 206-231-3223.
+
+ (l) Material Incorporated by Reference
+
+    None.
+
+    Issued in Des Moines, Washington, on September 20, 2018.
+John P. Piccola,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-21347 Filed 10-1-18; 8:45 am]
+BILLING CODE 4910-13-P

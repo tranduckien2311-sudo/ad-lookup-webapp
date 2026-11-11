@@ -1,0 +1,34 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0194 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2015-0194 Date: 22 September 2015 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EU 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EU 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): A330 and A340 aeroplanes AIRBUS TCDS Number: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 28 Fuel – Fuel Pumps – Inspection / Modification
+
+Manufacturer(s): Airbus (Formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-223F, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: Operators reported cases of fuel leak through fuel pump electrical connectors. Subsequent investigation revealed fuel pump electrical connector damage caused by moisture build up behind the electrical connector. This condition, if not detected and corrected, could create concurrently an ignition source and fuel leak as a result of a single failure, resulting in exposure to a flammability risk in an adjacent area to the fuel tank. To address this unsafe condition, Airbus published Service Bulletins (SB) A330-28-3127, SB A340-28-4138 and SB A340-28-5060, providing inspection / identification instructions, and instructions for replacement of the fuel pumps. For the reasons described above, this AD requires identification and replacement of the affected fuel pumps.
+
+Effective Date: 06 October 2015 TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0194 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 48 months after the effective date of this AD, inspect each fuel Time(s): pump to identify the Part Number (P/N) in accordance with the instructions of Airbus SB A330-28-3127, or SB A340-28-4138, or SB A340-28-5060, as applicable to aeroplane type and model. A review of aeroplane delivery and/or maintenance records is acceptable to make this identification, provided those records can be relied upon for the purpose of this requirement. (2) If, during the inspection as required by paragraph (1) of this AD, it is determined that an affected fuel pump (see Note 1) is installed, within the compliance time specified in Appendix 1 of this AD, depending on the configuration of the affected fuel pumps installed, replace each affected fuel pump with a serviceable fuel pump (see Note 2) in accordance with the instructions of Airbus SB A330-28-3127, or SB A340-28-4138, or SB A340-28-5060 as applicable to aeroplane type and model. Note 1: For the purpose of this AD an “affected fuel pump” is a pump whose P/N is listed in Appendix 1 of this AD. Note 2: For the purpose of this AD, a “serviceable fuel pump” is a pump having a P/N not listed in Appendix 1 of this AD. (3) After the identification of fuel pump P/N as required by paragraph (1) of this AD, follow instructions as required by paragraph (3.1) or (3.2) of this AD, as applicable. (3.1) For an aeroplane that does not have an affected fuel pump installed: From the effective date of this AD do not install an affected fuel pump, (3.2) For an aeroplane that has an affected fuel pump installed: After modification of an aeroplane as required by paragraph (2) of this AD do not install an affected fuel pump.
+
+Ref. Publications: Airbus SB A330-28-3127 original issue dated 14 July 2015. Airbus SB A340-28-4138 original issue dated 14 July 2015. Airbus SB A340-28-5060 original issue dated 14 July 2015. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 27 July 2015 as PAD 15-100 for consultation until 24 August 2015. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this PAD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this PAD, please contact: AIRBUS - Airworthiness Office – EIAL E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2015-0194 Appendix 1 – Fuel Pump Replacement Installed affected fuel Compliance Time (after the pump configuration effective date of this AD) Only 568-1-28300-001 Only 568-1-28300-002 568-1-28300-001 and 568-1-28300-002 568-1-28300-001 and 72 months 568-1-28300-101 568-1-28300-002 and 568-1-28300-101 568-1-28300-001, 568-1-28300-002 and 568-1-28300-101 Only 568-1-28300-100 Only 568-1-28300-101 96 months 568-1-28300-100 and 568-1-28300-101 TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

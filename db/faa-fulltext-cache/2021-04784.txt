@@ -1,0 +1,287 @@
+[Federal Register Volume 86, Number 45 (Wednesday, March 10, 2021)]
+[Rules and Regulations]
+[Pages 13640-13642]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-04784]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0673; Product Identifier 2020-NM-076-AD; Amendment 
+39-21395; AD 2021-02-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that 
+published in the Federal Register. That AD applies to all Airbus SAS 
+Model A330-200 series airplanes, Model A330-200 Freighter series 
+airplanes, Model A330-300 series airplanes, Model A330-900 series 
+airplanes, Model A340-200 series airplanes, Model A340-300 series 
+airplanes, Model A340-500 series airplanes, Model A340-600 series 
+airplanes, Model A380-800 series airplanes; and Model A350-941 and -
+1041 airplanes. As published, multiple references to a European Union 
+Aviation Safety Agency (EASA) AD number are incorrect throughout the 
+AD. This document corrects those errors. In all other respects, the 
+original document remains the same.
+
+DATES: This correction is effective March 30, 2021. The effective date 
+of AD 2021-02-12 remains March 30, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 30, 
+2021 (86 FR 10787, February 23, 2021).
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195. It is also available in 
+the AD docket on the internet at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2020-0673.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0673; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, Large 
+Aircraft Section, International Validation Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; phone and fax: 206-231-3225; email: 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: AD 2021-02-12, Amendment 39-21395 (86 FR 
+10787, February 23, 2021) (AD 2021-02-12), currently requires repair of 
+each affected part, or replacement with a serviceable part, as 
+specified in an EASA AD. AD 2021-02-12 applies to all Airbus SAS Model 
+A330-200 series airplanes, Model A330-200 Freighter series airplanes, 
+Model A330-300 series
+
+[[Page 13641]]
+
+airplanes, Model A330-900 series airplanes, Model A340-200 series 
+airplanes, Model A340-300 series airplanes, Model A340-500 series 
+airplanes, Model A340-600 series airplanes, Model A380-800 series 
+airplanes; and Model A350-941 and -1041 airplanes.
+
+Need for the Correction
+
+    As published, the EASA AD number in the preamble and regulatory 
+text is incorrectly identified as ``EASA AD 2020-100R1,'' where the 
+correct identification is ``EASA AD 2020-0100R1.''
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0100R1, dated November 4, 2020, describes procedures 
+for repair of each affected part, or replacement with a serviceable 
+part. This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section
+
+Correction of Publication
+
+    This document corrects multiple errors and correctly adds the AD as 
+an amendment to 14 CFR 39.13. Although no other part of the preamble or 
+regulatory information has been corrected, the FAA is publishing the 
+entire rule in the Federal Register.
+    The effective date of this AD remains March 30, 2021.
+    Since this action only corrects references to an EASA AD number, it 
+has no adverse economic impact and imposes no additional burden on any 
+person. Therefore, the FAA has determined that notice and public 
+procedures are unnecessary.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Correction
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+39.13  [Corrected]
+
+0
+2. The FAA amends Sec.  39.13 by revising the following new 
+airworthiness directive to read:
+
+2021-02-12 Airbus SAS: Amendment 39-21395; Docket No. FAA-2020-0673; 
+Product Identifier 2020-NM-076-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 30, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (10) of this AD, certificated in any 
+category.
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (4) Model A330-941 airplanes.
+    (5) Model A340-211, -212, and -213 airplanes.
+    (6) Model A340-311, -312, and -313 airplanes.
+    (7) Model A340-541 airplanes.
+    (8) Model A340-642 airplanes.
+    (9) Model A350-941 and -1041 airplanes.
+    (10) Model A380-841, -842, and -861 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Reason
+
+    This AD was prompted by a report of a quality issue with a 
+certain repair method of damage-through honeycomb core cargo linings 
+by speed patches applied to both sides. The FAA is issuing this AD 
+to address reduced ability of repaired linings to contain smoke or 
+fire, resulting in an increased risk of an uncontained fire in the 
+cargo compartment and consequent structural damage to the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2020-0100R1, dated November 4, 2020 (EASA AD 2020-0100R1).
+
+(h) Exceptions to EASA AD 2020-0100R1
+
+    (1) Where EASA AD 2020-0100R1 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2020-0100R1 refers to ``19 May 2020 [the 
+effective date of EASA AD 2020-0100 at original issue],'' this AD 
+requires using the effective date of this AD.
+    (3) Where task Aircraft Maintenance Manual (AMM) A330-A-25-XX-
+3743-02001-690A-C specified in Airbus Service Bulletin A330-25-3743, 
+dated September 23, 2019, states the measured dimension shall be 
+equal to or more than ``30 mm (1.81 in),'' this AD requires using 
+the measured dimension of ``30 mm (1.18 in).''
+    (4) Where AMM task A330-A-25-XX-3743-01001-520A-A of Airbus 
+Service Bulletin A330-25-3743, dated September 23, 2019, states, 
+``For the FWD cargo-compartment, refer to Ref. AMM Task 25-54-00-
+000-801,'' this AD requires using, ``For the FWD cargo-compartment, 
+refer to Ref. AMM Task 25-52-00-000-801.''
+    (5) The ``Remarks'' section of EASA AD 2020-0100R1 does not 
+apply to this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Dan Rodina, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; phone and 
+fax: 206-231-3225; email: [email protected].
+
+[[Page 13642]]
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+March 30, 2021 (86 FR 10787, February 23, 2021).
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0100R1, 
+dated November 4, 2020.
+    (ii) [Reserved]
+    (4) For EASA AD 2020-0100R1, contact the EASA, Konrad-Adenauer-
+Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2020-0673.
+    (6) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on March 3, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-04784 Filed 3-9-21; 8:45 am]
+BILLING CODE 4910-13-P

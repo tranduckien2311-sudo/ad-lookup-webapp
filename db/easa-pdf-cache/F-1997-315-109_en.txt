@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-315-109(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage - Reinforcement of the structure at section 18 Applicability : A320 AIRBUS INDUSTRIE aircraft all certified models without AIRBUS INDUSTRIE modification 22764 in production or AIRBUS INDUSTRIE Service Bulletins A320-53-1110 and A320-53-1131. Reason : In order to increase strength margin in case of undetected tail scrape of the rear part of the fuselage with the ground, the fuselage structure at section 18 has to be reinforced. Actions : Mandatory on the effective date of this
+
+Airworthiness Directive, unless already accomplished : Before January 13, 2002, reinforce the fuselage at section 18 in accordance with the instructions of : - AIRBUS INDUSTRIE Service Bulletin A320-53-1110 for frames 68 and 69 and, - AIRBUS INDUSTRIE Service Bulletin A320-53-1131 for frames 65 to 67. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1110 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-53-1131 (or any further approved revision) This
+
+Airworthiness Directive replaces
+
+Airworthiness Directive 96-009-074(B)R1 issued September 25, 1997. EFFECTIVE DATE : NOVEMBER 01, 1997 d/JYR AIRBUS INDUSTRIE October 22, 1997 97-315-109(B) A320 Aircraft

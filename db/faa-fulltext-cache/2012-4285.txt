@@ -1,0 +1,89 @@
+[Federal Register Volume 77, Number 37 (Friday, February 24, 2012)]
+[Rules and Regulations]
+[Pages 10952-10953]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2012-4285]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-1245; Directorate Identifier 2008-NE-27-AD; 
+Amendment 39-15912; AD 2009-11-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International S.A. Model CFM56 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that 
+published in the Federal Register. That AD applies to CFM International 
+S.A. CFM56-2, CFM56-3, CFM56-5A, CFM56-5B, CFM56-5C, and CFM56-7B 
+series turbofan engines with certain part number (P/N) and serial 
+number (SN) high-pressure compressor (HPC) 4-9 spools installed. In 
+Table 1 of the AD, the HPC 4-9 spool SN GWN05AMO in the 2nd column of 
+the Table is incorrect. This document corrects that error. In all other 
+respects, the original document remains the same.
+
+DATES: This final rule is effective February 24, 2012. The effective 
+date for AD 2009-11-02 (74 FR 23305, May 19, 2009) remains June 23, 
+2009.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Document Management Facility, 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Martin Adler, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: 781-238-7157; 
+fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: Airworthiness Directive 2009-11-02, 
+Amendment 39-15912 (74 FR 23305, May 19, 2009), currently requires 
+removing certain HPC 4-9 spools listed by P/N and SN in the AD.
+    As published, in Table 1 of the AD, the HPC 4-9 spool SN GWN05AMO 
+in the 2nd column of the Table is incorrect.
+    No other part of the preamble or regulatory information has been 
+changed; therefore, only the changed portion of the final rule is being 
+published in the Federal Register.
+    The effective date of this AD remains June 23, 2009.
+
+Correction of Regulatory Text
+
+
+Sec.  39.13  [Corrected]
+
+0
+In the Federal Register of May 19, 2009, on page 23306, in the 3rd 
+column, in Table 1, under the HPC 4-9 Spool SN heading, in the 
+twentieth line of AD
+
+[[Page 10953]]
+
+2009-11-02; Amendment 39-15912 is corrected as follows:
+* * * * *
+    GWN05AM0
+* * * * *
+
+    Issued in Burlington, Massachusetts, on February 13, 2012.
+Peter A. White,
+Manager, Engine & Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-4285 Filed 2-23-12; 8:45 am]
+BILLING CODE 4910-13-P

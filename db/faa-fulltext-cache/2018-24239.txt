@@ -1,0 +1,397 @@
+[Federal Register Volume 83, Number 216 (Wednesday, November 7, 2018)]
+[Rules and Regulations]
+[Pages 55614-55617]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-24239]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0404; Product Identifier 2018-NE-15-AD; Amendment 
+39-19468; AD 2018-21-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines (IAE) 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+International Aero Engines (IAE) PW1133G-JM, PW1133GA-JM, PW1130G-JM, 
+PW1127G-JM, PW1127GA-JM, PW1127G1-JM, PW1124G-JM, PW1124G1-JM, and 
+PW1122G-JM turbofan engines. This AD was prompted by reports of in-
+flight engine shutdowns and aborted take-offs as the result of certain 
+parts affecting the durability of the rear high-pressure compressor 
+(HPC) rotor hub knife edge seal. This AD requires replacing the 
+diffuser case air seal assembly, the high-pressure turbine (HPT) 2nd-
+stage vane assembly, and the HPT 2nd-stage borescope stator vane 
+assembly with parts eligible for installation. We are issuing this AD 
+to address the unsafe condition on these products.
+
+DATES: This AD is effective December 12, 2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact International Aero Engines, 400 Main Street, East Hartford, CT, 
+06118; phone: 800-565-0140; email: [email protected]; internet: http://fleetcare.pw.utc.com. You may view this service information at the FAA, 
+Engine and Propeller Standards Branch, 1200 District Avenue, 
+Burlington, MA 01803. For information on the availability of this 
+material at the FAA, call 781-238-7759. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2018-0404.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0404; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other
+
+[[Page 55615]]
+
+information. The address for Docket Operations (phone: 800-647-5527) is 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kevin M. Clark, Aerospace Engineer, 
+ECO Branch, FAA, 1200 District Avenue, Burlington, MA 01803; phone: 
+781-238-7088; fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all IAE PW1133G-JM, 
+PW1133GA-JM, PW1130G-JM, PW1127G-JM, PW1127GA-JM, PW1127G1-JM, PW1124G-
+JM, PW1124G1-JM, and PW1122G-JM turbofan engines. The NPRM published in 
+the Federal Register on June 11, 2018 (83 FR 26887). The NPRM was 
+prompted by reports of in-flight engine shutdowns and aborted take-offs 
+as the result of certain parts affecting the durability of the rear HPC 
+rotor hub knife edge seal. The NPRM proposed to require replacing the 
+diffuser case air seal assembly, the HPT 2nd-stage vane assembly, and 
+the HPT 2nd-stage borescope stator vane assembly with parts eligible 
+for installation. We are issuing this AD to address the unsafe 
+condition on these products.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Request To Change Compliance Time
+
+    Air Line Pilots Association, International (ALPA) requested that 
+paragraph (g) of this AD be changed to indicate by which cycle, hour, 
+or date the ``engine shop visit'' and associated actions must be 
+accomplished. ALPA stated that ``at the next engine shop visit'' is not 
+prescriptive enough to ensure that affected parts are identified and 
+removed from service within a timely manner.
+    We disagree. We determined that removal of the affected parts at 
+the next engine shop visit resolves the unsafe condition within our 
+risk guidelines. Therefore, we did not change this AD.
+
+Request To Clarify Applicability
+
+    ALPA requested that we clarify whether engines repaired per 
+paragraph (g) of this AD would be considered ``affected engines'' as 
+described in AD 2018-04-01 (83 FR 6791, February 15, 2018), and what 
+operational restrictions, if any, would exist on the engines repaired.
+    We partially agree. We agree that engines repaired per paragraph 
+(g) of this AD are not ``affected engines'' as described in AD 2018-04-
+01. We disagree that adding clarification in paragraph (g) of this AD 
+is necessary, because we released a Global Alternative Method of 
+Compliance (AMOC) to paragraph (h) of AD 2018-04-01 (83 FR 6791, 
+February 15, 2018). The Global AMOC removed the operational 
+restrictions on an affected engine if Pratt & Whitney (PW) Alert 
+Service Bulletin (ASB) PW1000G-C-72-00-0099-00A-930A-D, Issue No. 002, 
+dated March 15, 2018 procedures were performed and the affected parts 
+removed. Therefore, we did not change the AD.
+
+Request To Clarify Affected Engine Serial Numbers (ESNs)
+
+    European Aviation Safety Agency (EASA) requested that we explain 
+why paragraph (c) of this AD is limited to affected engines with ESNs 
+P770450 to P770614, inclusive. EASA noted that PW ASB PW1000G-C-72-00-
+0099-00A-930A-D, Issue No. 002, dated March 15, 2018 identifies a 
+substantially larger population, P770101 to P770614 inclusive, of 
+affected engines.
+    We limited this AD to ESNs P770450 to P770614 because the affected 
+part numbers are not known to be installed in earlier engine models. 
+Therefore, we did not change this AD.
+
+Request To Limit Applicability
+
+    All Nippon Airways requested that we limit the paragraph (c) of 
+this AD to affected engines with diffuser case air seal assembly, part 
+number (P/N) 30G4993-01, the HPT 2nd-stage vane assembly, P/N 30G7572, 
+and HPT 2nd-stage borescope stator vane assembly, P/N 30G7672, 
+installed.
+    We agree. We revised the paragraph (c) of this AD to list only 
+those engines with ESNs P770450 through P770614 with diffuser case air 
+seal assembly, P/N 30G4993-01; HPT 2nd-stage vane assembly, P/N 
+30G7572; and HPT 2nd-stage borescope stator vane assembly, P/N 30G7672, 
+installed.
+
+Request To Clarify Method of Compliance
+
+    Hawaiian Airlines stated engines that have incorporated PW ASB 
+PW1000G-C-72-00-0099-00A-930A-D, Issue No. 002, dated March 15, 2018, 
+or later revisions, should be shown as having complied with this AD.
+    We agree. PW ASB PW1000G-C-72-00-0099-00A-930A-D, Issue No. 002, 
+dated March 15, 2018 can be used as a method to comply with paragraph 
+(g) of this AD, because it requires removing and replacing the affected 
+part numbers.
+
+Request To Clarify How To Demonstrate Compliance
+
+    Hawaiian Airlines stated that complying with this AD would require 
+removal of the diffuser case air seal assembly, P/N 30G4993-01; the HPT 
+2nd-stage vane assembly, P/N 30G7572; and the HPT 2nd-stage borescope 
+stator vane assembly, P/N 30G7672 at the next engine shop visit. 
+However, none of these P/Ns are individually documented by IAE or PW, 
+either upon delivery or on maintenance, repair, and overhaul (MRO) 
+documentation. Therefore, it would be difficult to demonstrate 
+compliance with paragraph (g) of this AD.
+    We disagree. The operator must verify that their products comply 
+with paragraph (g) of this AD. If overhaul facilities are used to 
+perform maintenance, then documentation of the work completed must be 
+provided to the operator to verify compliance with paragraph (g) of 
+this AD. Therefore, we did not change this AD.
+
+Request To Explain Differences in Applicability Between AD and Service 
+Information
+
+    EASA requested that we explain why this AD applies to more engine 
+models than PW ASB PW1000G-C-72-00-0099-00A-930A-D, Issue No. 002, 
+dated March 15, 2018.
+    We disagree. This AD applies to all IAE PW1133G-JM, PW1133GA-JM, 
+PW1130G-JM, PW1127G-JM, PW1127GA-JM, PW1127G1-JM, PW1124G-JM, PW1124G1-
+JM, and PW1122G-JM turbofan engines, because they are approved under 
+type certificate, E00087EN. The PW ASB PW1000G-C-72-00-0099-00A-930A-D, 
+Issue No. 002, dated March 15, 2018 only applies to PW1100G-JM engine 
+models that are currently in service. Therefore, we did not change this 
+AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+
+[[Page 55616]]
+
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information
+
+    We reviewed PW ASB PW1000G-C-72-00-0099-00A-930A-D, Issue No. 002, 
+dated March 15, 2018. This ASB describes procedures for the 
+disassembly, removal, and replacement of the diffuser case air seal 
+assembly, P/N 30G4993-01; the HPT 2nd-stage vane assembly, P/N 30G7572; 
+and the HPT 2nd-stage borescope stator vane assembly, P/N 30G7672.
+
+Interim Action
+
+    We consider this AD interim action. The manufacturer is currently 
+developing a modification that will address the unsafe condition 
+identified in this AD. Once this modification is developed, approved, 
+and available, we might consider additional rulemaking.
+
+Costs of Compliance
+
+    We estimate that this AD affects 16 engines installed on airplanes 
+of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Removing and replacing parts..........  0 work-hours x $85 per           $44,000         $44,000        $704,000
+                                         hour = $0.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to engines, propellers, and 
+associated appliances to the Manager, Engine and Propeller Standards 
+Branch, Policy and Innovation Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-21-10 International Aero Engines: Amendment 39-19468; Docket 
+No. FAA-2018-0404; Product Identifier 2018-NE-15-AD.
+
+(a) Effective Date
+
+    This AD is effective December 12, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to International Aero Engines (IAE) PW1133G-JM, 
+PW1133GA-JM, PW1130G-JM, PW1127G-JM, PW1127GA-JM, PW1127G1-JM, 
+PW1124G-JM, PW1124G1-JM, and PW1122G-JM turbofan engines with engine 
+serial numbers (ESNs) P770450 through P770614, and with diffuser 
+case air seal assembly part number (P/Ns) 30G4993-01, high-pressure 
+turbine (HPT) 2nd-stage vane assembly, P/N 30G7572, or HPT 2nd-stage 
+borescope stator vane assembly, P/N 30G7672, installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of in-flight engine shutdowns 
+and aborted take-offs that were the result of a failed knife edge 
+seal on affected engines with ESNs P770450 through P770614. We are 
+issuing this AD to prevent failure of the rear high-pressure 
+compressor rotor hub knife edge seal. The unsafe condition, if not 
+addressed, could result in failure of one or more engines, loss of 
+thrust control, and loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    At the next engine shop visit after the effective date of this 
+AD, do the following:
+    (1) Remove from service the diffuser case air seal assembly, P/N 
+30G4993-01, and replace with a part eligible for installation.
+    (2) Remove from service the HPT 2nd-stage vane assembly, P/N 
+30G7572, and replace with a part eligible for installation.
+    (3) Remove from service HPT 2nd-stage borescope stator vane 
+assembly, P/N 30G7672, and replace with a part eligible for 
+installation.
+
+(h) Definition
+
+    For the purpose of this AD, an ''engine shop visit'' is the 
+induction of an engine into the shop for maintenance involving the
+
+[[Page 55617]]
+
+separation of pairs of major mating engine flanges (lettered 
+flanges). The separation of engine flanges solely for the purpose of 
+transportation of the engine without subsequent engine maintenance 
+does not constitute an engine shop visit.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, ECO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in paragraph (j) of this AD. You may email your request 
+to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Related Information
+
+    For more information about this AD, contact Kevin M. Clark, 
+Aerospace Engineer, ECO Branch, FAA, 1200 District Avenue, 
+Burlington, MA 01803; phone: 781-238-7088; fax: 781-238-7199; email: 
+[email protected].
+
+(k) Material Incorporated by Reference
+
+    None.
+
+    Issued in Burlington, Massachusetts, on October 31, 2018.
+Robert J. Ganley,
+Manager, Engine and Propeller Standards Branch, Aircraft Certification 
+Service.
+[FR Doc. 2018-24239 Filed 11-6-18; 8:45 am]
+ BILLING CODE 4910-13-P

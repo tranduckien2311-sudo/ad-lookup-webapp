@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2024-0151
+
+Airworthiness Directive
+
+AD No.: 2024-0151
+
+Issued: 31 July 2024 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A321 aeroplanes
+
+Effective Date: 14 August 2024 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None ATA – Aircraft Flight Manual / Complementary Performance Data File – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N and A321-272NX aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: CPDF update: Complementary Performance Data File (CPDF) CP32FM04 dated 14 June 2023. AFM: Aircraft Flight Manual (AFM) A318/A319/A320/A321 dated 05 July 2023.
+
+Reason: An erroneous value of main landing gear (MLG) tyre width has been identified in the A321 Aircraft Data Files used for the aircraft performance computation. The MLG tyre width is used for the calculation of performance on contaminated runways (water, slush, dry snow or wet snow runway states), especially for the drag modelling. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2024-0151 This situation, if not corrected, could result in erroneous (non-conservative) calculation of certain data, including, but not limited to, take-off distance and accelerate stop distance, possibly leading to runway excursions. To address this potential unsafe condition, Airbus issued the CPDF, including corrected aeroplane performance data base. For the reason described above, this AD requires to update the performance database.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: AFM Update: (1) Within 3 months after the effective date of this AD, implement the CPDF update in the AFM, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the AFM of an aeroplane by incorporating a later AFM revision, which includes the same content as in the CPDF update, is an acceptable method to comply with the requirements of paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus AFM A318/A319/A320/A321 dated 05 July 2023. Complementary Performance Data File (CPDF) CP32FM04 dated 14 June 2023. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 01 July 2024 as PAD 24-075 for consultation until 29 July 2024. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2024-0151 installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-018-006(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Angle of attack sensors simultaneous positioning at high angle The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft series 100 and 200 without modification 21823 (AIRBUS INDUSTRIE Service Bulletin A320-34-1012). In order to prevent a risk of simultaneous positioning at high angles of two angle of attack sensors which could lead to a pitch down command of elevator, inhibition of the test command of angle of attack sensors 2 and 3 is necessary. Therefore the following measure is rendered mandatory on effective date of this
+
+Airworthiness Directive : - Within next 350 flight hours, disconnect the two wires controlling the test function of angle of attack sensors 2 and 3 in accordance with instructions of AIRBUS INDUSTRIE Service Bulletin A320-34-1012. NOTE : Embodiment of modification 21824 or Bulletin Service A320-34-1013 cancels the instructions of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-34-1012 (modification 21823) AIRBUS INDUSTRIE Service Bulletin A320-34-1013 (modification 21824) The present Rev.2 cancels and replaces the AD 90-018-006(B)R1 dated January 23,1991 The present AD was the subject in FRG of LTA N° 90-24 EFFECTIVE DATE : FEBRUARY 17, 1990 (same as the original AD) y/C AIRBUS INDUSTRIE October 2, 91 90-018-006(B) R2 A320 Aircraft

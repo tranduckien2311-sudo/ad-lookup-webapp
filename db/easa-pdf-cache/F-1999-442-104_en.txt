@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-442-104(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A330 aircraft Passenger/crew emergency doors - Door frame linings (ATA 25) APPLICABILITY: All AIRBUS A330 aircraft, certified in models -202, -223, -243, -301, -321, -322, -323, -341, -342 and -343 which have received the AIRBUS INDUSTRIE modifications 44461, 44462, 44463, 44464 and 44465 without AIRBUS INDUSTRIE modifications 46865 (or Service Bulletin A330-25-3096 R1) nor 46820 for production. REASONS: As a result of an analysis performed by the manufacturer, it reveals necessary to modify the passenger/crew and emergency secondary insulation of the door linings and door frame linings in order to fulfil the latest fire properties regulations. ACTION: The following instructions, unless already accomplished, are rendered mandatory from the effective date of this
+
+Airworthiness Directive. Not later than 72 months from effective date of this
+
+Airworthiness Directive, install a fire protective coating (retardant compound) to the rear side of each passenger/crew and emergency door (type A or type I) and door frame lining of the No. 1 through 4 doors, LH and RH, in accordance with the instructions given in AIRBUS INDUSTRIE Service Bulletin A330-25-3096 R1. REF. : Service Bulletin AIRBUS INDUSTRIE A330-25-3096 R1 (or any other later approved revision) EFFECTIVE DATE : NOVEMBER 13, 1999 n/ GH AIRBUS INDUSTRIE November 03, 1999 1999-442-104(B) A330 aircraft

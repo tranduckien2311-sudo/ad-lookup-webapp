@@ -1,0 +1,35 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0212
+
+Airworthiness Directive
+
+AD No.: 2016-0212
+
+Issued: 25 October 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 08 November 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 53 – Fuselage – Central Vertical Strut at Frame 65 – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers, except those on which Airbus modification (mod) 153724 was embodied in production.
+
+Reason: In service occurrences were reported where, as a consequence of an airframe ground contact above certified vertical speed/vertical acceleration, the vertical strut at Frame (FR) 65 penetrated through the cabin floor. This condition, if not corrected, could lead to injury of occupants and/or delays during emergency evacuation. To address this potential unsafe condition, Airbus developed mod 153724, a structural change which prevents the central vertical strut at FR65 to pass through the cabin floor, and issued Service Bulletin (SB) A320-53-1262 to provide instructions for installation of this modification on aeroplanes Page 1 of 2 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0212 in service. After SB A320-53-1262 was issued, incorrect MSN allocations and configuration definitions were identified in it. Consequently Airbus revised that SB, and in addition issued SB A320-53-1333 and SB A320-53-1334. For the reason described above, this AD requires modification of the fuselage structure at FR65.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Within 72 months after the effective date of this AD, modify the fuselage structure at FR65 in accordance with the instructions of Airbus SB A320-53-1262 Revision 01, SB A320-53-1333, or SB A320-53-1334, as applicable, depending on aeroplane configuration.
+
+Ref. Publications: Airbus SB A320-53-1262 Revision 01 dated 29 July 2016. Airbus SB A320-53-1333 original issue dated 29 July 2016. Airbus SB A320-53-1334 original issue dated 29 July 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 18 December 2015 as PAD 15-156 for consultation until 15 January 2016, and republished on 29 September 2016 as PAD 15-156R1 for additional consultation until 13 October 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 2 of 2 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

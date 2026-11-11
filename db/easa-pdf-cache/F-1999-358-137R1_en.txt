@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-358-137(B)R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 aircraft MLG : inspection of MLG sliding tube (ATA 32) APPLICABILITY: AIRBUS INDUSTRIE A319, A320 and A321 aircraft all certified models, all serial numbers to MSN 0875 included without having totally accomplished AIRBUS INDUSTRIE Service Bulletin A320-32-1189. This
+
+Airworthiness Directive does not apply to operators able to demonstrate to their registration authority that: - the main landing gear sliding tubes of their aircraft have never been removed or - the main landing gear sliding tubes of their aircraft have never received NDT inspection (NDT2) or - the main landing gear sliding tubes of their aircraft have received NDT inspection (NDT2) after having removed attaching hardware and bushes from the sliding tube. REASON: During maintenance inspection/overhaul process on the MLG sliding tubes, an NDT inspection could have been wrongly performed leading to local overheating which could initiate cracks. Such cracks could lead to MLG collapse. This AD introduces repetitive visual inspection which was not required by AD 1999-182-131(B). ACTION: 1. Within 500 flight hours from the effective date of this
+
+Airworthiness Directive or within 500 flight hours from the latest inspection required by
+
+Airworthiness Directive 1999-182-131(B) whichever occurs later, perform a detail visual inspection of both MLG sliding tubes in the area in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-32-1189. …/… n/ JJD AIRBUS INDUSTRIE October 20, 1999 1999-358-137(B) R1 A319/A320/A321 aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 1999-358-137(B) R1 Page n° 2 If cracks are detected around the area between the jacking dome bush and the hole for the HP inflation valve or the hole for the lower electrical harness assembly, replace the sliding tube before next flight. If other cracks are detected, contact AIRBUS INDUSTRIE for further actions. 2. Repeat the inspection each 500 flight hours in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-32-1189. st 3. Before August 1 , 2000, unless already done, raise the aircraft on jack, remove the jacking dome, the jacking dome bush and the harness supports and perform a detail visual inspection of the sliding tube sub-assembly in the area of the jacking dome bush in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-32-1189. If cracks are detected, perform same actions as defined in 1. Replacement of MLG absorber is an alternative method of compliance with this
+
+Airworthiness Directive. This Revision 1 replaces AD 1999-358-137(B) dated September 08, 1999. REF. : AIRBUS INDUSTRIE Service Bulletin A320-32-1189 (or any further approved revision) EFFECTIVE DATES : Original AD : SEPTEMBER 18, 1999 Revision 1 : OCTOBER 30, 1999

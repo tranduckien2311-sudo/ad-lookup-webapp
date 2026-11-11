@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0178
+
+Airworthiness Directive
+
+AD No.: 2025-0178
+
+Issued: 08 August 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: 22 August 2025 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 22 – Auto Flight – Emergency Procedure Section – Modification
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A330-223, A330-223F, A330-243, A330-243F, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), except those in any of the following configurations: - Airbus modification (mod) 200384 embodied and mod 202371 not embodied. - Airbus Service Bulletin (SB) A330-22-3193 embodied. - Airbus SB A330-22-3194 embodied. - Airbus SB A330-22-3297 embodied.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operators Transmission (AOT) A22L003-25. The FMGEC SB: Airbus Service Bulletin (SB) A330-22-3338, SB A330-22-3356, SB A330-22-3407, SB A330-22-3426 or SB A330-22-3417, as applicable, installing Flight Management Guidance and Envelope Computer (FMGEC) at different standards. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0178 Groups: Group 1 aeroplanes are those on which the FMGEC SB has been embodied. Group 2 aeroplanes are those which are not Group 1.
+
+Reason: On A330 CEO (Current Engine Option - commercial designation for certain A330 models) aeroplanes equipped with FMGEC P6H7 standard, occurrences of thrust fluctuation during descent with autothrottle (ATHR) active were reported. Subsequent investigations determined that this condition can occur if the ATHR in N1 mode function is not activated. This condition, if not corrected, could lead to unstabilised approach. To address this potential unsafe condition, Airbus issued the AOT, to provide instructions to activate the ATHR N1 function. For the reason described above, this AD requires activation of the ATHR N1 function. This AD is considered to be an interim action and further AD action may follow.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Modification: (1) For Group 1 aeroplanes: Within 60 days after the effective date of this AD, modify the aeroplane by activating the ATHR N1 function. The AOT provides instructions which are acceptable to accomplish this modification. (2) For Group 2 aeroplanes: From the effective date of this AD, it is allowed to modify the aeroplane in accordance with the instructions of the FMGEC SB provided that, concurrently, the ATHR N1 function is activated on that aeroplane. Acceptable Method of Compliance: (3) Modification of an aeroplane in accordance with the instructions of Airbus SB A330-22-3193, SB A330-22-3194, or SB A330-22-3297, as applicable, is an acceptable method to comply with the requirements of paragraph (1) or (2) of this AD, as applicable, for that aeroplane (see Note 1 of this AD). Note 1: The provisions of paragraph (3) of this AD are applicable only to aeroplanes included in the effectivity of Airbus SB A330-22-3193, SB A330-22-3194, or SB A330-22-3297.
+
+Ref. Publications: Airbus AOT A22L003-25 original issue dated 07 July 2025 or Revision 01 dated 15 July 2025. Airbus SB A330-22-3193, any revision (currently available at Revision 15). Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0178 Airbus SB A330-22-3194, any revision (currently available at original revision). Airbus SB A330-22-3297, any revision (currently available at Revision 05). The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. All interested persons may send their comments, referencing the AD Number, to the E-mail address specified in below Remark 3, prior to 05 September 2025. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

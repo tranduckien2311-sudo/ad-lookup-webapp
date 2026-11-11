@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0140
+
+Airworthiness Directive
+
+AD No.: 2021-0140
+
+Issued: 14 June 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS A318, A319, A320 and A321 aeroplanes E
+
+Effective Date: 28 June 2021 TCDS Number(s): EASA.A.064 D Foreign AD: Not applicable
+
+Supersedure: None E
+
+ATA 05 – Time Limits / Maintenance Checks – Airworthiness Limitations Section Part 2 / Damage Tolerant Airworthiness Limitation Items – Amendment S
+
+Manufacturer(s): R Airbus, formerly Airbus industrie
+
+Applicability: E Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, P A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N, A321-272NX aeroplanes, all manufacturer serial numbers. U
+
+Definitions: For the purpose of this AD, the following definitions apply: S The Variation: Airbus A318/A319/A320/A321 Airworthiness Limitations Section (ALS) Part 2 Variation 8.5. The AMP: The approved Aircraft Maintenance Programme (AMP) on the basis of which the operator or the owner ensures the continuing airworthiness of each operated aeroplanes. For Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0140 aeroplanes operated under EU regulation, compliance with the approved AMP is required by Commission Regulation (EU) 1321/2014, Part M.A.301, paragraph 3. New and/or more restrictive tasks: This includes all tasks that are new and all tasks for which a threshold or interval was reduced, which were introduced through the Variation (as defined in this AD) since the previous ALS Revision that is currently incorporated in the AMP.
+
+Reason: The airworthiness limitations for the Airbus A320 family, which are approved by EASA, are currently defined and published in the Airbus A318/A319/A320/A321 ALS document(s). These instructions have been identified as mandatory for continued airworthiness. Failure to accomplish these instructions could result in an unsafe condition. D EASA previously issued AD 2020-0036R1, requiring the actions described in Airbus A318/A319/A320/A321 ALS Part 2 Revision 8 issue 2. E Since that AD was issued, Airbus published the Variation, which contains new and/or more restrictive tasks. D For the reason described above, this AD requires accomplishment of the actions specified in the Variation. EASA AD 2020-0036R1 is not superseded by this AD. E
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: S Replacement of Life Limited Parts: (1) From the effective date of this AD, within the thresholds and intervals as specified in the Variation (see Note 1 of this AD), as applicable to aeroplane model and depending on aeroplane R configuration, accomplish all applicable maintenance tasks as specified in the Variation. Where this AD requires a task which is already required per EASA AD 2020-0036R1, the E instructions of the Variation invalidate the instructions of Airbus A318/A319/A320/A321 ALS Part 2 Revision 8 issue 2. P Note 1: For the purpose of this AD, the thresholds and intervals as defined in the ‘Compliance Time’ pages of the Variation include specific compliance times for certain tasks. U Note 2: Where the Variation includes reference to Aircraft Maintenance Manual (AMM) task 53-11-00-210-026-1, any AMM task, dated May 2019 or later, and identified by a number starting with 53-11-00-210-026, can be used instead. S Corrective Action(s): (2) In case of finding discrepancies during accomplishment of any task as required by paragraph (1) of this AD, before next flight, accomplish the applicable corrective action(s) in accordance with the applicable Airbus maintenance documentation. If a detected discrepancy cannot be Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2021-0140 corrected by using existing Airbus instructions, before next flight, contact the Airbus for approved instructions and accomplish those instructions accordingly. AMP Revision: (3) Within 12 months after the effective date of this AD, revise the approved AMP by incorporating the limitations and associated thresholds and intervals described in the Variation, as applicable to aeroplane model and depending on aeroplane configuration. Recording AD Compliance: (4) When the AMP of an aeroplane has been revised as required by paragraph (3) of this AD, that action ensures continued accomplishment of the tasks as required by paragraphs (1) and (2) of this AD for that aeroplane. Consequently, after revising the AMP, as required by paragraph (3) of this AD it is not necessary that accomplishment of individual action is recorded for D demonstration of AD compliance on a continued basis.
+
+Ref. Publications: E Airbus A318/A319/A320/A321 ALS Part 2 Variation 8.5 original issue dated 10 November 2020. The use of later approved revisions of the above-mentioned document, or of an ALS revision which includes the technical content of the Variation(s), is acceptable for compliance with the D requirements of this AD.
+
+Remarks: E 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. S 2. This AD was posted on 09 February 2021 as PAD 21-018 for consultation until 09 March 2021. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. R 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. E 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on P a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or U may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. S 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

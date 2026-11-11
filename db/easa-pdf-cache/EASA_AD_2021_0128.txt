@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0128
+
+Airworthiness Directive
+
+AD No.: 2021-0128
+
+Issued: 17 May 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 01 June 2021 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 71 – Power Plant – Hydraulic Pressure Switch Harness – Inspection
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected engines: All engine serial numbers (ESN) identified in the NMSB at Revision 1, except those on which the AOT or the NMSB was accomplished. The AOT: Airbus Alert Operators Transmission (AOT) A71L018-21, which refers to the NMSB. The NMSB: Rolls-Royce Trent 700 Non-Modification Service Bulletin (NMSB) RB.211-71-AK677. Groups: Group 1 aeroplanes are those that have an affected engine (one or both) installed. Group 2 aeroplanes are those that do not have any affected engine installed. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0128
+
+Reason: An occurrence was reported where an A330 aeroplane equipped with Trent 700 engines experienced an in-flight turn back due to loss of Green and Blue hydraulic systems in cruise. On the Green hydraulic system, electronic centralised aircraft monitoring (ECAM) warnings HYD G ENG 2 PUMP LO PR and G SYS LO PR were triggered, resulting in Green hydraulic system loss. On the Blue hydraulic system, ECAM warning HYD B ENG 1 PUMP LO PR was triggered, and the flight crew selected the Blue hydraulic system engine-driven pump (EDP) OFF, as per flight crew operating manual procedures. Subsequent inspections of engine #1 revealed that, during a previous maintenance shop visit, and following partial re-routing of hydraulic harnesses, the Blue and Green EDP pressure switch electrical connectors (4001JG2-A and 4001JG1-A) were inadvertently cross connected. The consequence of this swap was that the Blue hydraulic system was declared faulty (ECAM message) in flight, while in reality, the Green hydraulic system had failed with low pressure. As a consequence, two hydraulic systems were lost in flight (Blue and Green) instead of only one (Green). This condition, if not detected and corrected, could lead to loss of all hydraulic circuits, possibly resulting in loss of control of the aeroplane. To address this potential unsafe condition, Rolls-Royce issued the NMSB (original issue, later revised), as defined in this AD, and Airbus issued the AOT, as defined in this AD, to provide inspection instructions. For the reasons described above, this AD requires a one-time inspection of each affected engine and, depending on findings, accomplishment of applicable corrective action(s). This AD also prohibits installation of an affected engine and provides the conditions for engine installation.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection: (1) For Group 1 aeroplanes: Within 1 000 flight hours or 30 days, whichever occurs first after the effective date of this AD, inspect the hydraulic pressure switch harnesses of each affected engine, in accordance with the instructions of the AOT. Corrective Action(s): (2) If, during the inspection as required by paragraph (1) of this AD, discrepancies are found on an affected engine, as described in the AOT, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of the AOT. (3) If, during the inspection as required by paragraph (1) of this AD, discrepancies are found on an affected engine that are not described in the AOT, before next flight, contact Rolls-Royce for approved instructions and accomplish those instructions accordingly. Engine Installation: (4) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not install an affected engine on any aeroplane. Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2021-0128
+
+Ref. Publications: Airbus AOT A71L018-21 original issue dated 29 March 2021. Rolls-Royce Trent 700 NMSB RB.211-71-AK677 original issue dated 25 March 2021, or Revision 1 dated 10 May 2021. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0093
+
+Airworthiness Directive
+
+AD No.: 2019-0093
+
+Issued: 26 April 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third of that Regulation. countries that participate in the activities of EASA under Article 129 This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, /1139, Article 71 exemption]. Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018 Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 10 May 2019 TCDS Number(s): EASA.A.004 D Foreign AD: Not applicable E
+
+Supersedure: None D
+
+ATA 27 – Flight Controls – Slat Geared Rotary Actuators – Repair / Replacement E S
+
+Manufacturer(s): R Airbus E
+
+Applicability: Airbus A330-202, A330-243, A330-243F, A330-302, A330-323 and A330-343 aeroplanes, P manufacturer serial numbers (MSN) 01758, 01761 to 01768 inclusive, 01770 to 01773 inclusive, U 01775, 01777, 01778, 01780, 01781, 01783, 01784, 01786 to 01789 inclusive, 01791 to 01794 inclusive, 01796 to 01798 inclusive, 01800, 01802, 01803, 01812, 01815, 01817, 01820, 01821, S 01823, 01825, 01826, 01828, 01829, 01831 and 01834.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-27-3233. The RIL: Airbus Retrofit Information Letter (RIL) G27M18007640. The Liebherr SB: Liebherr-Aerospace Lindenberg GmbH (Liebherr) SB 926C-27-01. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0093 Affected part: Slat geared rotary actuators (SGRA), having Part Number (P/N) 926C0000-01 and serial number (s/n) as identified in the SB , except those that have passed an inspection, or have been repaired, as applicable, in accordance with the instructions of the Liebherr SB. Serviceable part: An SGRA that is not an affected part.
+
+Reason: Cracks have been found within the ring gears of an SGRA. Investigation identified that this is due to a change in the manufacturing process of the 300M steel raw material in conjunction with inadequate post-production non-destructive testing for potential cracks. A batch of SGRA has been identified as having been subject to this manufacturing process. This condition, if not detected and corrected, could, in combination with an independent failure on the second SGRA of the same slat surface, lead to an uncontrolled movement of the affected slat surface in flight, or detachment of the slat surface, possibly resulting in damage to the stabilizers, or reduced control of the aeroplane. To address this potential unsafe condition, Airbus issued the SB to provide instructions to replace D the affected parts, referencing the Liebherr SB for in-shop correction. E For the reasons described above, this AD requires replacement of each affected part with a serviceable part. D E
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: S Identification/Reporting: R (1) Within 6 months after the effective date of this AD, for each aeroplane MSN, identify the associated affected parts as specified in the SB and report any mismatch to Airbus. The P/N and E s/n identification of each affected part on an aeroplane is sufficient. The Functional Item P Number (FIN) as specified in Appendix 01 of the SB is for information only as it cannot be excluded that an affected part may have finally been installed in production at another location U on the same aeroplane. S This action can be accomplished on the aeroplane by checking the P/N and s/n of the SGRA installed, or by reviewing aeroplane maintenance records to make this determination, provided those records can be relied upon for that purpose and the P/N and s/n of the suspected parts can be positively identified from that review. Replacement: (2) Following the actions as required by paragraph (1) of this AD, within 20 000 flight hours after the effective date of this AD, replace each affected part with a serviceable part in accordance with the instructions of the SB. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0093 Reporting: (3) Within 30 days after replacement of all affected parts on an aeroplane, as required by paragraph (2) of this AD, report that action to Airbus. That action can be accomplished by using the instructions and reporting forms of the SB or the RIL.
+
+Ref. Publications: Airbus SB A330-27-3233 original issue dated 07 March 2019. Airbus RIL G27M18007640 original issue dated 15 March 2019. Liebherr SB 926C-27-01 original issue dated 18 December 2018. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. D 2. This AD was posted on 04 April 2019 as PAD 19-058 for consultation until 18 April 2019. No E comments were received during the consultation period. D 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued E Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. S 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on R a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. E P 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. U S Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

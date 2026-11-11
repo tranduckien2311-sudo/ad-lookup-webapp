@@ -1,0 +1,545 @@
+[Federal Register Volume 84, Number 65 (Thursday, April 4, 2019)]
+[Rules and Regulations]
+[Pages 13110-13114]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-06405]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0704; Product Identifier 2018-NM-066-AD; Amendment 
+39-19601; AD 2019-06-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200 Freighter, -200, and -300 series airplanes; 
+and Airbus SAS Model A340-200, -300, -500, and -600 series airplanes. 
+This AD was prompted by reports of depressurization of hydraulic 
+reservoirs caused by air leakage from the pressure relief valve (PRV) 
+of the hydraulic reservoir (HR) due to the extrusion of the O-ring seal 
+from certain HR PRVs. This AD requires replacing affected PRVs and re-
+identifying affected HRs. We are issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective May 9, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of May 9, 2019.
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus SAS, Airworthiness Office--EAL, Rond Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone: +33 5 61 93 36 
+96; fax: +33 5 61 93 45 80; email: [email protected]; 
+internet http://www.airbus.com. For Safran service information 
+identified in this final rule, contact Safran Aero Boosters, 121 Route 
+de Liers, 4041 Milmort (Herstal), Belgium; telephone: +32 4 278 8111; 
+fax: +32 4 278 52 07; internet https://www.safran-aero-boosters.com, or 
+https://www.safran-group.com/company/safran-aero-boosters. You may view 
+this service information at the FAA, Transport Standards Branch, 2200 
+South 216th St., Des Moines, WA.
+    For information on the availability of this material at the FAA, 
+call 206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0704.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0704; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax: 206-231-3229.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus SAS Model A330-
+200 Freighter, -200, and -300 series airplanes; and Airbus SAS Model 
+A340-200, -300, -500, and -600 series airplanes. The NPRM published in 
+the Federal Register on August 3, 2018 (83 FR 38088). The NPRM was 
+prompted by reports of depressurization of HRs caused by air leakage 
+from the PRV of the HR due to the extrusion of the O-
+
+[[Page 13111]]
+
+ring seal from certain HR PRVs. The NPRM proposed to require 
+identifying the part number of the HR, and replacing and re-identifying 
+affected HR PRVs. We are issuing this AD to address air leakage from 
+the HR PRV, which could lead to the loss of one or more hydraulic 
+systems, with the possible loss of control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2018-0064, dated March 23, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A330-200 
+Freighter, -200, and -300 series airplanes; and Airbus SAS Model A340-
+200, -300, -500, and -600 series airplanes. The MCAI states:
+
+    Some events of depressurisation of hydraulic reservoirs have 
+been reported, due to air leakage from the HR PRV [hydraulic 
+reservoir pressure relief valve]. The results of the investigations 
+revealed that the air leakage was due to the extrusion of the O-ring 
+seal from the HR PRV. This may have happened during HR maintenance, 
+testing or during flight, if HR over-filling was performed, as a 
+result of which hydraulic fluid could pass through the PRV, causing 
+[the] PRV seal to migrate from its nominal position, leading to loss 
+of HR pressurisation.
+    This condition, if not detected and corrected, could lead to the 
+loss of one or more hydraulic systems, possibly resulting in loss of 
+control of the aeroplane.
+    To address this potential unsafe condition, Airbus issued the 
+AOT [Alert Operators Transmission (AOT) A29L005-16, dated June 28, 
+2016] to provide instructions to inspect the HR fluid level of each 
+hydraulic circuit and to provide instructions for certain actions 
+when servicing with hydraulic fluid is accomplished on an HR. 
+Consequently, EASA published AD 2016-0107 [corresponding to FAA AD 
+2017-01-08, Amendment 39-18775 (82 FR 1593, January 6, 2017) 
+(``2017-01-08'')] to require accomplishment of these actions for 
+aeroplanes in service.
+    Since that [EASA] AD was issued, it was determined that the 
+detected air leakage was due to the extrusion of the O-ring seal 
+from a specific batch of HR PRV. Airbus published the applicable 
+inspection SB [service bulletin] to inspect the HR of each hydraulic 
+circuit and to provide instructions to identify the affected parts, 
+and the Modification SB to provide instructions for replacement of 
+each affected part fitted on an affected HR.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2016-0107, which is superseded, and requires 
+the [identification and] replacement [and re-identification] of the 
+affected parts.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0704.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Request To Clarify Definitions Section
+
+    Delta Air Lines (DAL) asked that certain language related to parts 
+identified in paragraphs (g)(2) through (g)(4) of the proposed AD be 
+clarified. DAL recommended that all PRVs having part number (P/N) 
+42F0026 and a serial number (S/N) identified in Safran Vendor Service 
+Bulletin 42-29-005, Revision 01, dated September 26, 2017; and Safran 
+Vendor Service Bulletin 42-29-006, Revision 01, dated September 27, 
+2017; be replaced with P/N 42F0029, or re-identified as P/N 42F0030, 
+regardless of the HR they are installed on. DAL stated that the 
+proposed AD does not adequately address PRVs having P/N 42F0026 listed 
+in the referenced Safran service information, and installed on 
+unaffected HRs. DAL added that it has had PRV and HR failures and has 
+removed PRVs and HRs from other locations for replacement; therefore, 
+an operator could do the proposed inspections and modification, but 
+negate AD compliance by removing a PRV listed in the referenced Safran 
+service information and installing it on an affected HR, or removing an 
+HR and installing an affected HR on an airplane with a PRV listed in 
+the referenced Safran service information.
+    We agree with the commenter's request to clarify certain language 
+in paragraphs (g)(2) thorough (g)(4) of this AD for the reasons 
+provided. Affected PRVs with a part number and serial number identified 
+in Safran Vendor Service Bulletin 42-29-005, Revision 01, dated 
+September 26, 2017; or Safran Vendor Service Bulletin 42-29-006, 
+Revision 01, dated September 27, 2017; could be installed on an 
+unaffected HR. Therefore, we have clarified the language in paragraphs 
+(g)(2) thorough (g)(4) of this AD as suggested.
+
+Request To Clarify Terminating Action
+
+    DAL asked that the terminating action specified in paragraph (k) of 
+the proposed AD be broken out into paragraphs for Groups 1 and 2 
+airplanes for clarification of the terminating actions for the 
+requirements of AD 2017-01-08. DAL stated that paragraph (k) of the 
+proposed AD does not address PRVs installed on affected HRs having P/N 
+42F0026 (units re-identified as P/N 42F0030). DAL noted that as a 
+result of this, it could be interpreted that PRVs re-identified as P/N 
+42F0030 are still affected by the requirements in AD 2017-01-08. DAL 
+added that this does not seem to be the intent of the proposed AD.
+    We agree to clarify. As stated previously, we have revised 
+paragraph (g)(2) of this AD to clarify the definition of an affected 
+part. As specified in paragraph (g)(4) of this AD, Group 2 airplanes do 
+not have an affected part.
+    We note that all affected parts must be replaced and re-identified. 
+Therefore, we have clarified the terminating action specified in 
+paragraph (j) of this AD (paragraph (k) of the proposed AD) to specify 
+that replacing all affected parts, as required by paragraph (h) of this 
+AD (paragraph (i) of the proposed AD), terminates the requirements of 
+AD 2017-01-08.
+    We note that re-identifying all unaffected parts is not required by 
+this AD because re-identification of unaffected parts is only 
+recommended for traceability purposes. Operators can choose to re-
+identify unaffected parts for their own tracking purposes, but because 
+these parts are unaffected, we do not require re-identification in this 
+AD. This AD only specifies terminating action for AD 2017-01-08 for 
+airplanes on which actions in this AD are done. For any action other 
+than the replacement required by this AD, operators can request an AMOC 
+to AD 2017-01-08 in accordance with the procedures specified in 
+paragraph (l)(1) of AD 2017-01-08. We have not changed this AD in 
+either regard.
+
+Request To Clarify Parts Re-Identification Requirement
+
+    DAL asked that the parts re-identification specified in paragraph 
+(j)(2) of the proposed AD be clarified. DAL stated that paragraph 
+(j)(2) of the proposed AD specifies re-identifying the part numbers of 
+affected PRVs and HRs for Group 2 airplanes; however, paragraph (g)(4) 
+of the proposed AD specifies that Group 2 airplanes do not have 
+affected PRVs. DAL added that as a result of this, paragraphs (g)(2) 
+and (j)(4) of the proposed AD are contradictory.
+    We agree with the commenter's request. Since Group 2 airplanes by 
+definition do not have affected PRVs installed, there is no need to re-
+identify the part numbers. We have deleted paragraph (j)(2) of the 
+proposed AD from this final rule. We have also redesignated paragraph 
+(j)(1) of the proposed AD as paragraph (i) of this AD.
+
+Additional Changes Made to This Final Rule
+
+    We have removed paragraph (h), ``Part Number Inspection,'' of the 
+proposed
+
+[[Page 13112]]
+
+AD from this final rule. That action is included in the procedure for 
+the part re-identification required by paragraph (i) of this AD 
+(paragraph (j) of the proposed AD). We have redesignated subsequent 
+paragraphs of this AD accordingly.
+    We have also changed ``PRV'' to ``part'' in paragraphs (g), (h), 
+and (k) of this AD (paragraphs (g), (i), and (l) of the proposed AD).
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information, which 
+describes procedures for replacing affected PRVs and re-identifying 
+affected HRs. These documents are distinct since they apply to 
+different airplane models.
+     Service Bulletin A330-29-3131, dated August 11, 2017.
+     Service Bulletin A330-29-3132, dated August 11, 2017.
+     Service Bulletin A330-29-3133, dated August 11, 2017.
+     Service Bulletin A340-29-4099, dated August 11, 2017.
+     Service Bulletin A340-29-4100, dated August 11, 2017.
+     Service Bulletin A340-29-4101, dated August 11, 2017.
+     Service Bulletin A340-29-5026, dated August 11, 2017.
+    Safran has issued Vendor Service Bulletin 42-29-005, Revision 01, 
+dated September 26, 2017; and Vendor Service Bulletin 42-29-006, 
+Revision 01, dated September 27, 2017. This service information 
+describes procedures for replacing affected PRVs, including the serial 
+numbers of those PRVs. These documents are distinct since they apply to 
+different airplane models.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 103 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+            Labor cost                Parts cost           Cost per product            Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 6 work-hours x $85 per hour           $3,390  Up to $3,900.................  Up to $401,700.
+ = Up to $510.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2019-06-03 Airbus SAS: Amendment 39-19601; Docket No. FAA-2018-0704; 
+Product Identifier 2018-NM-066-AD.
+
+(a) Effective Date
+
+    This AD is effective May 9, 2019.
+
+(b) Affected ADs
+
+    This AD affects AD 2017-01-08, Amendment 39-18775 (82 FR 1593, 
+January 6, 2017) (``AD 2017-01-08'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), (c)(4), (c)(5), and (c)(6) of this AD, 
+certificated in any category, all manufacturer serial numbers.
+    (1) Airbus SAS Model A330-223F and -243F airplanes.
+
+[[Page 13113]]
+
+    (2) Airbus SAS Model A330-201, -202, -203, -223, and -243 
+airplanes.
+    (3) Airbus SAS Model A330-301, -302, -303, -321, -322, -323, -
+341, -342, and -343 airplanes.
+    (4) Airbus SAS Model A340-211, -212, and -213 airplanes.
+    (5) Airbus SAS Model A340-311, -312, and -313 airplanes.
+    (6) Airbus SAS Model A340-541 and -642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 29, Hydraulic 
+power.
+
+(e) Reason
+
+    This AD was prompted by reports of depressurization of hydraulic 
+reservoirs (HRs) caused by air leakage from the pressure relief 
+valve (PRV) of the HR due to the extrusion of the O-ring seal from 
+certain HR PRVs. We are issuing this AD to address air leakage from 
+the HR PRV, which could lead to the loss of one or more hydraulic 
+systems, with the possible loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions for This AD
+
+    (1) Affected HRs are identified in table 1 to paragraphs (g), 
+(h), and (i) of this AD.
+    (2) Affected parts are PRVs that have part number (P/N) 42F0026 
+and a serial number (S/N) identified in Safran Vendor Service 
+Bulletin 42-29-005, Revision 01, dated September 26, 2017; and 
+Safran Vendor Service Bulletin 42-29-006, Revision 01, dated 
+September 27, 2017; as applicable.
+    (3) Group 1 airplanes have an affected part installed.
+    (4) Group 2 airplanes do not have an affected part installed. A 
+Model A330 airplane on which Airbus SAS modifications 206863, 
+206864, and 206965 have been embodied in production is a Group 2 
+airplane, provided the airplane remains in that configuration.
+    (5) In table 1 to paragraphs (g), (h), and (i) of this AD: Green 
+hydraulic circuit is (G), blue hydraulic circuit is (B), and yellow 
+hydraulic circuit is (Y).
+[GRAPHIC] [TIFF OMITTED] TR04AP19.005
+
+(h) Replacement
+
+    For Group 1 airplanes: At the applicable time specified in table 
+1 to paragraphs (g), (h), and (i) of this AD, replace each affected 
+part in accordance with the applicable service information specified 
+in paragraphs (h)(1) through (h)(7) of this AD.
+    (1) Airbus Service Bulletin A330-29-3131, dated August 11, 2017.
+    (2) Airbus Service Bulletin A330-29-3132, dated August 11, 2017.
+    (3) Airbus Service Bulletin A330-29-3133, dated August 11, 2017.
+    (4) Airbus Service Bulletin A340-29-4099, dated August 11. 2017.
+    (5) Airbus Service Bulletin A340-29-4100, dated August 11, 2017.
+    (6) Airbus Service Bulletin A340-29-4101, dated August 11, 2017.
+    (7) Airbus Service Bulletin A340-29-5026, dated August 11, 2017.
+
+(i) Part Re-Identification
+
+    For Group 1 airplanes: Concurrently with the replacement of the 
+affected part required by paragraph (h) of this AD, re-identify the 
+part numbers of affected HRs as specified in table 1 to paragraphs 
+(g), (h), and (i) of this AD, in accordance with the applicable 
+service information specified in paragraphs (h)(1) through (h)(7) of 
+this AD.
+
+(j) Terminating Action for AD 2017-01-08
+
+    Replacement of all affected parts on an airplane, as required by 
+paragraph (h) of this AD, terminates all requirements of AD 2017-01-
+08 for that airplane.
+
+(k) Parts Installation Prohibition
+
+    (1) For Group 1 airplanes: After replacement of all affected 
+parts as required by paragraph (h) of this AD, do not install any 
+affected part.
+    (2) For Group 2 airplanes: As of the effective date of this AD, 
+do not install any affected part.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to the attention of 
+the person identified in paragraph (m)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus SAS's EASA Design Organization 
+Approval (DOA). If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those
+
+[[Page 13114]]
+
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0064, dated March 23, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0704.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax: 206-231-3229.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-29-3131, dated August 11, 2017.
+    (ii) Airbus Service Bulletin A330-29-3132, dated August 11, 
+2017.
+    (iii) Airbus Service Bulletin A330-29-3133, dated August 11, 
+2017.
+    (iv) Airbus Service Bulletin A340-29-4099, dated August 11, 
+2017.
+    (v) Airbus Service Bulletin A340-29-4100, dated August 11, 2017.
+    (vi) Airbus Service Bulletin A340-29-4101, dated August 11, 
+2017.
+    (vii) Airbus Service Bulletin A340-29-5026, dated August 11, 
+2017.
+    (viii) Safran Vendor Service Bulletin 42-29-005, Revision 01, 
+dated September 26, 2017.
+    (ix) Safran Vendor Service Bulletin 42-29-006, Revision 01, 
+dated September 27, 2017.
+    (3) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone: +33 5 61 93 
+36 96; fax: +33 5 61 93 45 80; email: [email protected]; internet http://www.airbus.com.
+    (4) For Safran service information identified in this final 
+rule, contact Safran Aero Boosters, 121 Route de Liers, 4041 Milmort 
+(Herstal), Belgium; telephone: +32 4 278 8111; fax: +32 4 278 52 07; 
+internet https://www.safran-aero-boosters.com, or https://www.safran-group.com/company/safran-aero-boosters.
+    (5) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on March 22, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-06405 Filed 4-3-19; 8:45 am]
+ BILLING CODE 4910-13-P

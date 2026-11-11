@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0185
+
+Airworthiness Directive
+
+AD No.: 2025-0185
+
+Issued: 26 August 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 09 September 2025 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 57 – Wings – Pylon Spigot Fitting – Inspections
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A319-171N, A319-173N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-253NY, A321-271N, A321-271NX, A321-271NY, A321- 272N, and A321-272NX, aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part: Slotted nut having Part Number (P/N) D57250182200. Serviceable part: Slotted nut having P/N D57253137200; or repaired parts having P/N R5724483020000, R5724483020200, R5724483020400, R5724483020600 or R5724483020800; or any slotted nut, eligible for installation in accordance with Airbus approved instructions, that is not an affected part. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0185 Group: Group 1 aeroplanes are those on which an affected part is installed. Group 2 aeroplanes are those on which no affected part is installed. An aeroplane having Airbus Modification (mod) 155617J4120 embodied in production is a Group 2, provided that no affected part has been installed since aeroplane date of manufacture on that aeroplane. The AOT: Airbus Alert Operators Transmission (AOT) A57N025-25. Aeroplane date of manufacture: The date of transfer of title (ownership) which is referenced in Airbus documentation at the time of first delivery to an operator.
+
+Reason: Following in-service occurrences, it was identified that severe corrosion could occur on the affected parts. This condition, if not detected and corrected, could lead to loss and/or migration of the spigot sleeve, which could degrade pylon and wing structure integrity. To address this potential unsafe condition, Airbus issued the AOT providing instructions for repetitive general visual inspections (GVI) of the affected parts and, depending on the findings, corrective action(s). For the reason described above, this AD requires repetitive GVI of the affected parts, and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Inspection(s): (1) For Group 1 aeroplanes: Within the compliance time as defined in Table 1 of this AD, and, thereafter, at intervals not exceeding 12 months, inspect each affected part (left-hand (LH) and right hand (RH) sides) in accordance with the instructions of the AOT (see Note 1 of this AD). Table 1 – Initial Compliance Time Compliance time, A, B or C, whichever occurs later A 6 months after the effective date of this AD 12 months after the last accomplishment of the Maintenance Planning Document (MPD) task B ZL-415-01 or MPD task ZL-415-02, as applicable, for the pylon (LH or RH) having that affected part installed C 24 months after first installation of that affected part on an aeroplane Note 1: The inspection as required by paragraph (1) of this AD can be accomplished during different maintenance visits for the LH and the RH affected parts. Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0185 Corrective Action(s): (2) If, during any inspection as required by paragraph (1) of this AD, discrepancies are detected, as defined in the AOT, before next flight, contact Airbus for repair instructions and accomplish those instructions accordingly within the compliance time specified therein. Terminating Action: (3) For Group 1 aeroplanes: Replacement of each affected part of an aeroplane with a serviceable part in accordance with the instructions of the AOT, constitutes terminating action for the repetitive GVI, as required by paragraph (1) of this AD for that aeroplane. (4) For Group 1 aeroplanes: Accomplishment of the corrective action(s), as required by paragraph (2) of this AD, does not constitute terminating action for the repetitive GVI as required by paragraph (1) of this AD for that affected part, unless specified otherwise in the approved instructions provided by Airbus. Part Installation: (5) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not replace a serviceable part by an affected part on any aeroplane. Reporting: (6) Within 3 months after the accomplishment of each GVI, as required by paragraph (1) of this AD, or within 3 months after the effective date of this AD, whichever occurs later, report the inspection results (including no findings) to Airbus. The AOT provides instructions which constitutes an acceptable method to comply with this requirement.
+
+Ref. Publications: Airbus AOT A57N025-25 at original issue dated 12 June 2025. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 21 July 2025 as PAD 25-107 for consultation until 18 August 2025. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0185 those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

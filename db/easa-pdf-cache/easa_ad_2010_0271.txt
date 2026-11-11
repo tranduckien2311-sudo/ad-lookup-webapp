@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+EASA AD No : 2010-0271 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2010-0271 Date: 22 December 2010 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes TCDS Number: EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None Auto Flight – Auto Pilot & Auto-Thrust Disconnect – Operational
+
+ATA 22 Procedure Airbus (formerly Airbus Industrie)
+
+Manufacturer(s): Airbus A330 aeroplanes, models -201, -202, -203, -223,-223F, -243, -243F, -
+
+Applicability: 301, -302, -303, -321, -322, -323, -341, -342 and -343, all manufacturer serial numbers. Airbus A340 aeroplanes, models -211, -212, -213, -311, -312 and -313 all manufacturer serial numbers. When there are significant differences between all airspeed sources, the
+
+Reason: flight controls of an Airbus A330 or A340 aeroplane will revert to alternate law, the autopilot (AP) and the auto-thrust (A/THR) automatically disconnect, and the Flight Directors (FD) bars are automatically removed. It has been identified that, after such an event, if two airspeed sources become similar while still erroneous, the flight guidance computers will: - Display FD bars again, and - Enable autopilot and auto-thrust re-engagement However, in some cases, the autopilot orders may be inappropriate, such as possible abrupt pitch command. In order to prevent such event which may, under specific circumstances, constitute an unsafe condition, this AD requires an amendment of the Flight Manual to ensure that flight crews apply the appropriate operational procedure. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2010-0271
+
+Effective Date: 05 January 2011 Required Action(s) Required as indicated : and Compliance (1) Within 15 days after the effective date of this AD, amend the applicable Time(s): Airplane Flight Manual (AFM) to incorporate the following operational procedure, and operate the aeroplane accordingly: PROCEDURE : When autopilot and auto-thrust are automatically disconnected and flight controls have reverted to alternate law: - Do not engage the AP and the A/THR, even if FD bars have reappeared - Do not follow the FD orders - ALL SPEED INDICATIONS............................................X-CHECK  If unreliable speed indication is suspected:  UNRELIABLE SPEED INDIC/ADR CHECK PROC...........APPLY  If at least two ADRs provide reliable speed indication for at least 30 seconds, and the aircraft is stabilised on the intended path: AP/FD and A/THR ........................................................As required Note : This operational procedure is described in the following Temporary Revisions (TR) of the AFM : A330 AFM TR 149 (OEB N°82/1) A340 AFM TR 150 (OEB N°95/1) (2) Incorporation of the appropriate AFM TR, or inserting the above operational procedure or a copy of this AD into the AFM, is acceptable to comply with the requirements of paragraph (1) of this AD.
+
+Ref. Publications: A330 AFM TR 149 A340 AFM TR 150 The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The required actions and the risk allowance have granted the issuance of a Final AD with Request for Comments, postponing the public consultation process after publication. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAL, Fax: +33 5 61 93 45 80 or + 33 5 61 93 44 51. E-mail: airworthiness.A330- A340@airbus.com . EASA Form 110 Page 2/2

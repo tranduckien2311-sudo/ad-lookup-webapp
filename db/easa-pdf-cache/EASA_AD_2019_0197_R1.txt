@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0197R1
+
+Airworthiness Directive
+
+AD No.: 2019-0197R1
+
+Issued: 14 October 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319 and A320 aeroplanes
+
+Effective Date: Revision 1: 21 October 2020 Original issue: 14 August 2019 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2019-0197 dated 11 July 2019.
+
+ATA 28 – Fuel – Fuel Level Sensor Support Bracket – Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-112, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, and A320-271N aeroplanes, all manufacturer serial numbers (MSN), except those on which Airbus modification (mod) 158133 has been embodied in production.
+
+Definitions: For the purpose of this AD, the following definitions apply: Aeroplane date of manufacture: The date of transfer of title, as referenced in Airbus documentation at the time of first delivery to an operator. The applicable SB: Airbus Service Bulletin (SB) A320-28-1238 and SB A320-28-1239, as applicable, both at Revision 01. Groups: Group 1 aeroplanes are those on which Airbus mod 160029 has been embodied in production. Page 1 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0197R1 Group 2 aeroplanes are those on which Airbus SB A320-28-1216 (original issue) and SB A320-57-1193 have been embodied in service. Group 3 aeroplanes are those on which Airbus SB A320-28-1216 (original issue) has been embodied in service, and on which Airbus SB A320-57-1193 has not been embodied in service.
+
+Reason: Inspection on the production lines of aeroplanes in post-mod 160001 (modified wing provisions for sharklet installation) configuration identified marginal clearance between the fuel sensor cover installed by Airbus mod 160029 (wiring provisions) on rib 24 and the crown of stringer 15 on both left hand (LH) and right hand (RH) wings. The same condition could exist on aeroplanes in service that have been modified with Airbus SB A320-28-1216 original issue combined with sharklet retrofit Airbus SB A320-57-1193. A possible contact between the shield and the stringer, and/or the possible motion between the stringer and the shield can make the gap more susceptible to sparking in case of lightning strike. This condition, if not corrected, could create a source of ignition in a fuel tank vapour space, possibly resulting in a fire or explosion and consequent loss of the aeroplane. To address this unsafe condition, Airbus issued SB A320-28-1238 and SB A320-28-1239, and revised SB A320-28-1216, providing instructions to replace fuel level sensor brackets with different parts, originally designed for installation on A321 aeroplanes, which provide sufficient clearance between the cover and the wing structure. For the reason described above, EASA issued AD 2019-0197 to require replacement of the affected fuel level sensor brackets, also prohibiting their (re-)installation. Since that AD was issued, it was identified that the applicability of the parts installation requirement can be limited to aeroplanes with reinforced wing (post-mod 160029, or post-SB A320-57-1193). This AD is revised accordingly. This revised AD also introduces some editorial changes related to AD writing standards, not affecting the requirements.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) For Group 1 aeroplanes: Before exceeding 144 months since the aeroplane date of manufacture, replace each fuel level sensor bracket, having a Part Number (P/N) identified as “old” in Table 1 of this AD, with a corresponding bracket having a P/N identified as “new” in Table 1 of this AD, in accordance with the instructions of the applicable SB. Table 1 – Fuel Level Sensor Brackets P/N OLD P/N NEW P/N D2845002400000 D2845024000000 D2845002900000 D2845024100000 Page 2 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0197R1 (2) For Group 2 aeroplanes: Within 72 months after 28 August 2019 [the effective date of the original issue of this AD], replace each fuel level sensor bracket, having a P/N identified as “old” in Table 1 of this AD, with a corresponding bracket having a P/N identified as “new” in Table 1 of this AD, in accordance with additional work instructions of Airbus SB A320-28-1216 at Revision 01. (3) For Group 3 aeroplanes: From 28 August 2019 [the effective date of the original issue of this AD], before embodiment of Airbus SB A320-57-1193, contact Airbus for instructions and accomplish those instructions accordingly. Parts Installation: (4) For Group 1 aeroplanes, and aeroplanes on which Airbus SB A320-57-1193 has been embodied in service: From 28 August 2019 [the effective date of the original issue of this AD], do not install a fuel level sensor bracket having a P/N identified as “old” in Table 1 of this AD at the location defined in the applicable SB.
+
+Ref. Publications: Airbus SB A320-28-1216 Revision 01 dated 19 June 2018. Airbus SB A320-28-1238 Revision 01 dated 15 September 2017. Airbus SB A320-28-1239 Revision 01 dated 15 September 2017. The use of later approved revisions of the above-referenced documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 17 June 2019 as PAD 19-108 for consultation until 15 July 2019. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 3 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0197R1 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

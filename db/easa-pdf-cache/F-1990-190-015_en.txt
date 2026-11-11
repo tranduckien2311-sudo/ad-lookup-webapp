@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-190-015(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Low pressure fire fuel shut-off valve The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all models, without AIRBUS INDUSTRIE modification 22039. This also applies to all aircraft on which a low pressure valve actuator has been replaced, in service. In order to avoid an incorrect closure of the low pressure shut-off valves, the following measures are rendered mandatory at reception of this
+
+Airworthiness Directive : - At the earliest opportunity, and before accumulating 350 flight hours from effective date of this
+
+Airworthiness Directive, carry-out a functional check of the low pressure shut-off valves as per AIRBUS INDUSTRIE AOT 28-01/08 October 90 paragraph 4.2. Until AIRBUS INDUSTRIE Service Bulletin A320-28-1028 rev.1 (modification N° 22039) is embodied repeat this check at intervals which shall not exceed 350 flight hours - (a 35 hours tolerance is admitted, provided tolerances are not accumulated from one check to an other). - Carry out this functional check at each installation of a low pressure fuel shut-off valve actuator which is applicable to actuators P/N : . HTE 190001 (PRE SB A320-28-1028) or . HTE 190001-1 (POST SB A320-28-1028) Note 1 : In case of replacement of a valve equipped with its actuator, carry out AMM task "functional test" ref. 28-24-00 page block 500 as revised by AOT 28-01/08 October 90 paragraph 4.2.B (this will be the subject of a later revision of corresponding task of the AMM). Note 2 : The correct procedure for installation of low pressure fire fuel shut-off valve actuator is described in AIRBUS INDUSTRIE Service Bulletin A320-28-1028 rev. 1. Ref. : - AOT AIRBUS INDUSTRIE 28-01/08 October 1990 - AIRBUS INDUSTRIE Service Bulletin A320-28-1028 rev. 1 - A320 aircraft Maintenance Manual EFFECTIVE DATE : NOVEMBER 10, 1990 e/C AIRBUS INDUSTRIE October 31, 1990 90-190-015(B) A320 Aircraft

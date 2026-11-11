@@ -1,0 +1,35 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0155
+
+Airworthiness Directive
+
+AD No.: 2018-0155
+
+Issued: 20 July 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 aeroplanes
+
+Effective Date: 03 August 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 92 – Electrical and Electronic Common Installation – Harness Routing into Centre Wing Box – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A320-214, A320-216, A320-232 and A320-233 aeroplanes, all manufacturer serial numbers on which Airbus modification (mod) 155636 has been embodied in production, except those on which Airbus mod 158379 has been embodied in production.
+
+Reason: A Zonal Safety review identified previously undetected contacts between harnesses and the centre tank structure. Investigation determined that these contacts were introduced with a new harness routing upon installation of a common fuel quantity indicating system across A320 family aeroplanes (Airbus mod 155636). This condition, if not corrected, could create, in case of lightning strike with chafing present, an ignition source inside the centre fuel tank, possibly resulting in a fuel tank explosion and consequent loss of the aeroplane. To address this potential unsafe condition, Airbus issued Service Bulletin (SB) A320-92-1121 to provide instructions for modification of the harnesses. Page 1 of 2 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0155 For the reason described above, this AD requires modification of harnesses 17QT and 18QT of the common fuel quantity indicating system by introducing longer spacers and additional clamps.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: Within 144 months after the effective date of this AD, modify harnesses 17QT and 18QT of the common fuel quantity indicating system in accordance with the instructions of Airbus SB A320-92-1121.
+
+Ref. Publications: Airbus SB A320-92-1121 original issue dated 11 October 2017. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 20 June 2018 as PAD 18-085 for consultation until 18 July 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 2 of 2 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,544 @@
+[Federal Register Volume 77, Number 201 (Wednesday, October 17, 2012)]
+[Rules and Regulations]
+[Pages 63716-63719]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2012-24953]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0493; Directorate Identifier 2011-NM-180-AD; 
+Amendment 39-17213; AD 2012-20-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding an existing airworthiness directive (AD) 
+for all Airbus Model A318-111 and -112 airplanes; and all Model A319, 
+A320, and A321 series airplanes. That AD currently requires revising 
+the Airworthiness Limitations Section (ALS) of the Instructions for 
+Continued Airworthiness to incorporate new limitations for fuel tank 
+systems. This new AD requires revising the maintenance program to 
+incorporate revised fuel maintenance and inspection tasks, and adds 
+airplanes to the applicability. This AD was prompted by Airbus issuing 
+more restrictive maintenance requirements and/or airworthiness 
+limitations. We are issuing this AD to prevent the potential of 
+ignition sources inside fuel tanks, which, in combination with 
+flammable fuel vapors, could result in a fuel tank explosion and 
+consequent loss of the airplane.
+
+DATES: This AD becomes effective November 21, 2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 21, 
+2012.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of December 14, 
+2009 (74 FR 62219, November 27, 2009).
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of August 
+28, 2007 (72 FR 40222, July 24, 2007).
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov or in person at the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-1405; 
+fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM was published in the Federal Register on May 31, 2012 (77 FR 
+32060), and proposed to supersede AD 2007-15-06 R1, Amendment 39-16097 
+(74 FR 62219, November 27, 2009). That NPRM proposed to correct an 
+unsafe condition for the specified products. The MCAI states:
+
+    The airworthiness limitations are currently published in the 
+Airbus A318/A319/A320/A321 Airworthiness Limitations Section (ALS).
+    The Fuel Airworthiness Limitations (FAL) are specified in Airbus 
+A318/A319/A320/A321 FAL Document reference 95A.1931/05, which is 
+approved by the European Aviation Safety Agency (EASA) and 
+referenced in the Airbus A318/A319/A320/A321 ALS Part 5.
+    The issue 4 of Airbus A318/A319/A320/A321 FAL Document 
+introduces more restrictive maintenance requirements and/or 
+airworthiness limitations. Failure to comply with these more 
+restrictive maintenance requirements and airworthiness limitations 
+contained in this document constitutes an unsafe condition.
+    This [EASA] AD retains the requirement of EASA AD 2006-0203, 
+which is superseded, and requires the implementation of the new or 
+more restrictive maintenance requirements and/or airworthiness 
+limitations as specified in Airbus A318/A319/A320/A321 FAL Document 
+issue 4.
+
+You may obtain further information by examining the MCAI in the AD 
+docket.
+
+[[Page 63717]]
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We have considered the comments received.
+
+Support for the NPRM (77 FR 32060, May 31, 2012)
+
+    US Airways stated it supports the intent of the NPRM (77 FR 32060, 
+May 31, 2012).
+
+Request To Delay Release of the Final Rule
+
+    US Airways requested that we postpone the release of the final rule 
+until Airbus revises Airbus A318/A319/A320/A321 ALS Part 5--Fuel 
+Airworthiness Limitations, dated February 28, 2006, as defined in 
+Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, Document 
+95A.1931/05, Issue 1, dated December 19, 2005 (approved by EASA on 
+March 14, 2006), Section 1, ``Maintenance/Inspection Tasks,'' to delete 
+Task 470000-05-1. US Airways stated that, if Task 470000-05-1 is not 
+deleted, the recurring maintenance cost will substantially increase as 
+the air separation module (ASM) will have to be replaced at a cost of 
+$27,000 every 4,000 flight hours.
+    We disagree with the request to delay release of this AD, since we 
+have determined that an unsafe condition exists and any delay in 
+releasing mitigation actions might not be in the interest of ensuring 
+the safety of the United States fleet. ALS Task 470000-05-1 does not 
+require replacement of the ASM every 4,000 flight hours, although it 
+does require operators to return the ASM to the vendor for a workshop 
+check. Airbus stated in their electronic mail referenced in US Airways' 
+comment that it needs to do some design changes (software change) 
+before it can revise ALS Task 470000-05-1. Therefore, operators may 
+apply for an alternative method of compliance (AMOC) as specified by 
+paragraph (l) of the AD if ALS Task 470000-05-1 is revised in the 
+future.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD as proposed, except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (77 FR 32060, May 31, 2012) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 32060, May 31, 2012).
+
+Costs of Compliance
+
+    We estimate that this AD will affect about 745 products of U.S. 
+registry.
+    The actions that are required by AD 2007-15-06 R1, Amendment 39-
+16097 (74 FR 62219, November 27, 2009), and retained in this AD take 
+about 2 work-hours per product, at an average labor rate of $85 per 
+work-hour. Based on these figures, the estimated cost of the currently 
+required actions is $170 per product.
+    We estimate that it will take about 2 work-hours per product to 
+comply with the new basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD to the U.S. operators to be $126,650, or $170 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains the NPRM (77 FR 32060, May 31, 2012), 
+the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section. Comments will 
+be available in the AD docket shortly after receipt.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2007-15-06 R1, Amendment 39-16097 (74 FR 62219, November 27, 2009), and 
+adding the following new AD:
+
+2012-20-07 Airbus: Amendment 39-17213. Docket No. FAA-2012-0493; 
+Directorate Identifier 2011-NM-180-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective November 21, 
+2012.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2007-15-06 R1, Amendment 39-16097 (74 FR 
+62219, November 27, 2009).
+
+(c) Applicability
+
+    (1) This AD applies to Airbus Model A318-111, -112, -121, and -
+122 airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes; Model A320-111, -211, -212, -214, -231, -232, 
+and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes; certificated in any category; all 
+serial numbers.
+
+[[Page 63718]]
+
+    (2) This AD requires revisions to certain operator maintenance 
+documents to include new actions (e.g., inspections and/or Critical 
+Design Configuration Control Limitations (CDCCLs). Compliance with 
+these actions is required by 14 CFR 91.403(c). For airplanes that 
+have been previously modified, altered, or repaired in the areas 
+addressed by these inspections, the operator may not be able to 
+accomplish the inspections described in the revisions. In this 
+situation, to comply with 14 CFR 91.403(c), the operator must 
+request approval for an alternative method of compliance (AMOC) 
+according to paragraph (l)(1) of this AD. The request should include 
+a description of changes to the required actions that will ensure 
+the continued operational safety of the airplane.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Periodic 
+Inspections.
+
+(e) Reason
+
+    This AD was prompted by Airbus issuing more restrictive 
+maintenance requirements and/or airworthiness limitations. We are 
+issuing this AD to prevent the potential of ignition sources inside 
+fuel tanks, which, in combination with flammable fuel vapors, could 
+result in a fuel tank explosion and consequent loss of the airplane.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Retained Revision of the Airworthiness Limitations Section (ALS) To 
+Incorporate Fuel Maintenance and Inspection Tasks
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+2007-15-06 R1, Amendment 39-16097 (74 FR 62219, November 27, 2009). 
+For Model A318-111 and -112 airplanes, and Model A319, A320, and 
+A321 airplanes: Within 3 months after August 28, 2007 (the effective 
+date of AD 2007-15-06, Amendment 39-15135 (72 FR 40222, July 24, 
+2007)), revise the ALS of the Instructions for Continued 
+Airworthiness to incorporate Airbus A318/A319/A320/A321 ALS Part 5-
+Fuel Airworthiness Limitations, dated February 28, 2006, as defined 
+in Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 1, dated December 19, 2005 (approved by 
+the European Aviation Safety Agency (EASA) on March 14, 2006), 
+Section 1, ``Maintenance/Inspection Tasks''; or Airbus A318/A319/
+A320/A321 Fuel Airworthiness Limitations, Document 95A.1931/05, 
+Issue 2, dated July 8, 2008 (approved by the EASA on December 19, 
+2008), Section 1, ``Maintenance/Inspection Tasks.'' For all tasks 
+identified in Section 1 ``Maintenance/Inspection Tasks,'' of Airbus 
+A318/A319/A320/A321 Fuel Airworthiness Limitations, Document 
+95A.1931/05, Issue 1, dated December 19, 2005; or Issue 2, dated 
+July 8, 2008; the initial compliance times start from August 28, 
+2007 (the effective date of AD 2007-15-06), and the repetitive 
+inspections must be accomplished thereafter at the intervals 
+specified in Section 1, ''Maintenance/Inspection Tasks,'' of Airbus 
+A318/A319/A320/A321 Fuel Airworthiness Limitations, Document 
+95A.1931/05, Issue 1, dated December 19, 2005; or Issue 2, dated 
+July 8, 2008.
+
+    Note 1 to paragraph (g) of this AD: Airbus Operator Information 
+Telex (OIT) SE 999.0076/06, dated June 20, 2006, provides guidance 
+on identifying the applicable sections of the Airbus A318/A319/A320/
+A321 Airplane Maintenance Manual for accomplishing the tasks 
+specified in Section 1 ``Maintenance/Inspection Tasks,'' of Airbus 
+A318/A319/A320/A321 Fuel Airworthiness Limitations, Document 
+95A.1931/05, Issue 1, dated December 19, 2005; or Issue 2, dated 
+July 8, 2008.
+
+(h) Retained Revision of the ALS to Incorporate CDCCLs
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2007-15-06 R1, Amendment 39-16097 (74 FR 62219, November 27, 2009). 
+For Airbus Model A318-111 and -112 airplanes, and Model A319, A320, 
+and A321 airplanes: Within 12 months after August 28, 2007 (the 
+effective date of AD 2007-15-06, Amendment 39-15135 (72 FR 40222, 
+July 24, 2007)), revise the ALS of the Instructions for Continued 
+Airworthiness to incorporate Airbus A318/A319/A320/A321 ALS Part 5-
+Fuel Airworthiness Limitations, dated February 28, 2006, as defined 
+in Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 1, dated December 19, 2005 (approved by 
+the EASA on March 14, 2006), Section 2, ``Critical Design 
+Configuration Control Limitations''; or Airbus A318/A319/A320/A321 
+Fuel Airworthiness Limitations, Document 95A.1931/05, Issue 2, dated 
+July 8, 2008 (approved by EASA on December 19, 2008), Section 2, 
+``Critical Design Configuration Control Limitations.''
+
+(i) Retained Requirement: No Alternative Inspections, Inspection 
+Intervals, or CDCCLs
+
+    (1) This paragraph restates the requirements of paragraph (h) of 
+AD 2007-15-06 R1, Amendment 39-16097 (74 FR 62219, November 27, 
+2009). Except as provided by paragraph (l) of this AD: After 
+accomplishing the actions specified in paragraphs (g) and (h) of 
+this AD, no alternative inspections, inspection intervals, or CDCCLs 
+may be used.
+    (2) Notwithstanding any other maintenance or operational 
+requirements, components that have been identified as airworthy or 
+installed on the affected airplanes before the revision of the ALS, 
+as required by paragraphs (g) and (h) of this AD, do not need to be 
+reworked in accordance with the CDCCLs. However, once the ALS has 
+been revised, future maintenance actions on these components must be 
+done in accordance with the CDCCLs.
+
+(j) New Revision of the Maintenance Program
+
+    Within 6 months after the effective date of this AD: Revise the 
+maintenance program to incorporate the new or revised tasks, life 
+limits, and CDCCLs specified in Airbus A318/A319/A320/A321 Fuel 
+Airworthiness Limitations, Document 95A.1931/05, Issue 4, dated 
+August 26, 2010, except as required in paragraph (j)(4) of this AD. 
+The initial compliance times and intervals are stated in this ALS 
+document, except as required in paragraphs (j)(1) through (j)(4) of 
+this AD, or within 6 months after the effective date of this AD, 
+whichever occurs later. For certain tasks, the compliance times 
+depend on the pre-modification and post-modification status of the 
+airplane. Incorporating the requirements of this paragraph 
+terminates the corresponding requirements of paragraphs (g) and (h) 
+of this AD.
+    (1) For airplanes for which the first flight occurred before 
+August 28, 2007 (the effective date of AD 2007-15-06, Amendment 39-
+15135 (72 FR 40222, July 24, 2007)), the first accomplishment of 
+Tasks 281800-01-1, Functional Check of Tank Vapour Seal and Vent 
+Drain System; and 281800-02-1, Detailed Inspection of Vapour Seal; 
+must be performed no later than 11 months after the effective date 
+of this AD.
+    (2) The first accomplishment of Tasks 470000-01-1, Operational 
+Check of Dual Flapper Shutoff Valves (DFSOV), Dual Flapper Check 
+Valves and Nitrogen Enriched Air (NEA) Line for Leaks; 470000-02-1, 
+Operational Check of Both Dual Flapper Check Valves for Leaks; 
+470000-03-1, Operational Check of Dual Flapper Check Valves for 
+Reverse Flow and NEA Line for Leaks; 470000-04-1, Operational Check 
+of Dual Flapper Check Valves for Reverse Flow; and 470000-05-1, 
+Remove Air Separation Module (ASM) and Return to Vendor for Workshop 
+Check; must be calculated, in accordance with paragraph (j)(2)(i) or 
+(j)(2)(ii) of this AD.
+    (i) From the airplane first flight for airplanes on which Airbus 
+modification 38062 or 38195 has been embodied in production.
+    (ii) From the in-service installation of the fuel tank inerting 
+system specified in Airbus Service Bulletin A320-47-1001, Airbus 
+Service Bulletin A320-47-1002, Airbus Service Bulletin A320-47-1003, 
+Airbus Service Bulletin A320-47-1004, Airbus Service Bulletin A320-
+47-1006, or Airbus Service Bulletin A320-47-1007.
+    (3) Although Airbus A318/A319/A320/A321 Fuel Airworthiness 
+Limitations, Document 95A.1931/05, Issue 4, dated August 26, 2010, 
+does not refer to Airbus Service Bulletin A320-47-1006 and Airbus 
+Service Bulletin A320-47-1007, the tasks apply as specified in 
+paragraphs (j)(3)(i) through (j)(3)(iv) of this AD.
+    (i) Tasks 470000-01-1, Operational Check of DFSOV, Dual Flapper 
+Check Valves and NEA Line for Leaks; and 470000-02-1, Operational 
+Check of Both Dual Flapper Check Valves for leaks; apply to 
+airplanes that have previously accomplished the actions specified in 
+Airbus Service Bulletin A320-47-1007.
+    (ii) Task 470000-03-1, Operational Check of Dual Flapper Check 
+Valves for Reverse Flow and NEA Line for Leaks, applies to airplanes 
+that have previously accomplished the actions specified in Airbus 
+Service Bulletin A320-47-1006, and that have not accomplished the 
+actions specified in Airbus Service Bulletin A320-47-1007.
+    (iii) Task 470000-04-1, Operational Check of Dual Flapper Check 
+Valves for Reverse
+
+[[Page 63719]]
+
+Flow, applies to airplanes in post-modification 38195 configuration 
+and that have not accomplished the actions specified in Airbus 
+Service Bulletin A320-47-1007.
+    (iv) Task 470000-05-1, Remove ASM and return to Vendor for 
+Workshop Check, applies to airplanes that have previously 
+accomplished the actions specified in Airbus Service Bulletin A320-
+47-1007, and are in pre-modification 151529 configuration.
+    (4) Replace each ASM identified in table 1 to paragraph (g)(4) 
+of this AD in accordance with a method approved by either the 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or EASA (or its delegated agent). The compliance 
+time for the replacement is before the accumulation of 27,000 total 
+flight hours (component time)--i.e., the life limitation.
+
+    Note 2 to paragraph (g)(4) of this AD: Airbus A318/A319/A320/
+A321 Aircraft Maintenance Manual Task 47-10-43-920-001-A, Air 
+Separation Module Replacement, is an additional source of guidance 
+for accomplishment of the removal and replacement of the ASM.
+
+
+         Table 1 to Paragraph (g)(4) of This AD--ASM Replacement
+------------------------------------------------------------------------
+         ASM Part Number--            Affected Airplane Configuration--
+------------------------------------------------------------------------
+2060017-101.......................  Post-modification 38062, or
+                                    Post-Airbus Service Bulletin A320-47-
+                                     1002, or
+                                    Post-Airbus Service Bulletin A320-47-
+                                     1004, or
+                                    Post-Airbus Service Bulletin A320-47-
+                                     1007
+2060017-102.......................  Post-modification 152033, or
+                                    Post-Airbus Service Bulletin A320-47-
+                                     1011
+------------------------------------------------------------------------
+
+(k) New Requirement: No Alternative Actions, Intervals, and/or CDCCLs
+
+    After accomplishing the revisions required by paragraph (j) of 
+this AD, no alternative actions (e.g., inspections), intervals, and/
+or CDCCLs may be used other than those specified in Airbus A318/
+A319/A320/A321 ALS Part 5-Fuel Airworthiness Limitations, dated 
+February 28, 2006, as defined in Airbus A318/A319/A320/A321 Fuel 
+Airworthiness Limitations, Document 95A.1931/05, Issue 4, dated 
+August 26, 2010, unless the actions, intervals, and/or CDCCLs are 
+approved as an AMOC in accordance with the procedures specified in 
+paragraph (l)(1) of this AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, has the authority to approve AMOCs 
+for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the International 
+Branch, send it to ATTN: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-
+1405; fax (425) 227-1149. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office. The AMOC approval letter must 
+specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(m) Related Information
+
+    Refer to MCAI EASA Airworthiness Directive 2011-0155, dated 
+August 25, 2011, and the service information specified in paragraphs 
+(m)(1) through (m)(4) of this AD, for related information.
+    (1) Airbus A318/A319/A320/A321 ALS Part 5-Fuel Airworthiness 
+Limitations, dated February 28, 2006.
+    (2) Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 1, dated December 19, 2005.
+    (3) A318/A319/A320/A321 Fuel Airworthiness Limitations, Document 
+95A.1931/05, Issue 2, dated July 8, 2008.
+    (4) Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 4, dated August 26, 2010.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+November 21, 2012.
+    (i) Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 4, dated August 26, 2010.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on 
+December 14, 2009 (74 FR 62219, November 27, 2009).
+    (i) Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 2, dated July 8, 2008.
+    (ii) Reserved.
+    (5) The following service information was approved for IBR on 
+August 28, 2007 (72 FR 40222, July 24, 2007).
+    (i) Airbus A318/A319/A320/A321 Fuel Airworthiness Limitations, 
+Document 95A.1931/05, Issue 1, dated December 19, 2005.
+    (ii) Airbus A318/A319/A320/A321 ALS Part 5-Fuel Airworthiness 
+Limitations, dated February 28, 2006.
+    (6) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (7) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on October 2, 2012.
+John P. Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2012-24953 Filed 10-16-12; 8:45 am]
+BILLING CODE 4910-13-P

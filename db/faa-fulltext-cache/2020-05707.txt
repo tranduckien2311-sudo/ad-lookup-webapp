@@ -1,0 +1,402 @@
+[Federal Register Volume 85, Number 55 (Friday, March 20, 2020)]
+[Rules and Regulations]
+[Pages 15919-15922]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-05707]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0863; Product Identifier 2019-NM-157-AD; Amendment 
+39-19867; AD 2020-05-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A318-112, A319-111, A319-112, A319-113, A319-
+114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-
+214, A320-216, A320-231, A320-232, A320-233, A320-251N, and A320-271N 
+airplanes. This AD was prompted by a report of marginal clearance 
+between certain fuel sensor covers on both left-hand (LH) and right-
+hand (RH) wings. This AD requires the replacement of certain fuel level 
+sensor brackets, as specified in a European Union Aviation Safety 
+Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective April 24, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 24, 
+2020.
+
+ADDRESSES: For the material incorporated by reference (IBR) in this AD, 
+contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 89990 1000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available in the AD docket on the internet at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2019-0863.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0863; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; email 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 15920]]
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2019-0197, dated August 14, 2019 
+(``EASA AD 2019-0197'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A318-112, A319-111, A319-112, 
+A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, 
+A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, 
+A320-251N, and A320-271N airplanes. Model A320-215 airplanes are not 
+certified by the FAA and are not included on the U.S. type certificate 
+data sheet; this AD therefore does not include those airplanes in the 
+applicability.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A318-112, A319-111, A319-112, A319-113, A319-114, A319-115, A319-
+131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-
+216, A320-231, A320-232, A320-233, A320-251N, and A320-271N airplanes. 
+The NPRM published in the Federal Register on November 7, 2019 (84 FR 
+60001). The NPRM was prompted by a report of marginal clearance between 
+certain fuel sensor covers on both LH and RH wings. The NPRM proposed 
+to require the replacement of certain fuel level sensor brackets.
+    The FAA is issuing this AD to address marginal clearance between 
+certain fuel sensor covers on rib 24 and the crown of stringer 15 on 
+both LH and RH wings. A possible contact between the shield and the 
+stringer, and/or possible motion between the stringer and the shield, 
+can make the gap more susceptible to sparking in case of lightning 
+strike. This condition could create a source of ignition in a fuel tank 
+vapor space, possibly resulting in a fire or explosion and consequent 
+loss of the airplane. See the MCAI for additional background 
+information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    Air Line Pilots Association, International (ALPA) agreed with the 
+intent of the NPRM.
+
+Request To Clarify Affected Airplanes and Instructions
+
+    American Airlines (AAL) requested that the NPRM be revised to 
+clarify the affected airplanes. AAL stated that clarification is needed 
+on which airplanes fall outside of Group 1, 2, or 3, but still have not 
+embodied Airbus modification (mod) 158133 and are therefore affected by 
+EASA AD 2019-0197. AAL requested instructions on how to comply with the 
+actions specified in the proposed AD for those airplanes in ``Group 4'' 
+(EASA AD 2019-0197 defines Group 1, 2, and 3 only). Alternatively, AAL 
+recommended that the proposed AD applicability reflect Group 1, 2, and 
+3 airplanes only.
+    The FAA agrees to clarify. This AD applies to Airbus airplanes 
+referenced in paragraph (c) of this AD as identified in EASA AD 2019-
+0197, i.e., those that have not embodied Airbus modification 158133. If 
+modification 158133 is not installed on an airplane, and none of the 
+criteria associated with the definitions of Group 1, 2, or 3 airplanes 
+is met, then those airplanes (referred to as group 4 by the commenter) 
+are subject only to paragraph (4) of EASA AD 2019-0197, which contains 
+parts installation requirements. Paragraph (4) of EASA AD 2019-0197 
+also applies to Group 1, 2, and 3 airplanes. The FAA has not changed 
+this AD in this regard.
+
+Request To Clarify Actions for Certain Airplanes
+
+    United Airlines (UAL) stated its fleet will be identified as Group 
+3 as specified in EASA AD 2019-0197 because Airbus Service Bulletin 
+A320-28-1216 is being implemented on its entire fleet. UAL noted that 
+if it were to incorporate Airbus Service Bulletin A320-57-1193 on its 
+fleet, Airbus would need to be contacted for instructions. The FAA 
+infers UAL is requesting that the FAA clarify the actions for Group 2 
+and Group 3 airplanes.
+    The FAA agrees to clarify. Group 3 airplanes are those having 
+embodied Airbus Service Bulletin A320-28-1216 but not Airbus Service 
+Bulletin A320-57-1193. However, once operators incorporate Airbus 
+Service Bulletin A320-28-1216 and Airbus Service Bulletin A320-57-1193 
+on an airplane, that airplane is a Group 2 airplane as defined in EASA 
+AD 2019-0197; operators then must comply with the requirements of this 
+AD that correspond to the actions specified in paragraph (2) of EASA AD 
+2019-0197. The FAA also acknowledges UAL's comment regarding operators 
+needing to contact Airbus prior to incorporating Airbus Service 
+Bulletin A320-57-1193, as specified in paragraph (3) of EASA AD 2019-
+0197. The FAA has not changed this AD in this regard.
+
+Request To Exclude Airplanes
+
+    Spirit Airlines requested that airplanes without factory 
+modification 160001 be excluded from the requirements of the proposed 
+AD. Spirit Airlines stated that if the proposed AD is applicable to 
+aircraft without the production modification 160001, then EASA AD 2019-
+0197 gives no method of compliance. Spirit Airlines stated its 
+airplanes do not fall within Group 1, Group 2, or Group 3, as specified 
+in EASA AD 2019-0197. Spirit Airlines noted that the applicability 
+section of EASA AD 2019-0197 excludes only aircraft with factory 
+modification 158133.
+    The FAA disagrees with the commenter's request. If Airbus 
+modification 158133 is not installed, and none of the criteria 
+associated with the definitions for Group 1, 2, and 3 airplanes is met, 
+then those airplanes are still subject to the parts installation 
+requirements of this AD, as specified in paragraph (4) of EASA AD 2019-
+0197. Paragraph (4) of EASA AD 2019-0197 applies to all airplanes 
+identified in paragraph (c), ``Applicability,'' of this AD, which 
+includes all manufacturer serial numbers (MSN) of the referenced 
+models, except those having Airbus modification 158133 embodied in 
+production. The FAA has not changed this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule as proposed, except for minor 
+editorial changes. The FAA has determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2019-0197 describes procedures for the replacement of 
+certain fuel level sensor brackets. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+[[Page 15921]]
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 776 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+                       Labor cost                            Parts cost      Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Up to 7 work-hour x $85 per hour = Up to $595..........         Up to $609       Up to $1,204    Up to $934,304.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2020-05-17 Airbus SAS: Amendment 39-19867; Docket No. FAA-2019-0863; 
+Product Identifier 2019-NM-157-AD.
+
+(a) Effective Date
+
+    This AD is effective April 24, 2020.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A318-112, A319-111, A319-
+112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, 
+A320-211, A320-212, A320-214, A320-216, A320-231, A320-232, A320-
+233, A320-251N, and A320-271N airplanes, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2019-0197, dated August 14, 2019 (``EASA AD 2019-0197'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel.
+
+(e) Reason
+
+    This AD was prompted by a report of marginal clearance between 
+certain fuel sensor covers on rib 24 and the crown of stringer 15 on 
+both left-hand (LH) and right-hand (RH) wings. A possible contact 
+between the shield and the stringer, and/or possible motion between 
+the stringer and the shield, can make the gap more susceptible to 
+sparking in case of lightning strike. The FAA is issuing this AD to 
+address this condition, which could create a source of ignition in a 
+fuel tank vapor space, possibly resulting in a fire or explosion and 
+consequent loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2019-0197.
+
+(h) Exceptions to EASA AD 2019-0197
+
+    (1) Where EASA AD 2019-0197 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2019-0197 does not apply 
+to this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (j) of this AD. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2019-0197 that contains RC procedures and 
+tests: Except as required by paragraph (i)(2) of this AD, RC 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer,
+
+[[Page 15922]]
+
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2019-0197, 
+dated August 14, 2019.
+    (ii) [Reserved]
+    (3) For information about EASA AD 2019-0197, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+89990 6017; email [email protected]; Internet www.easa.europa.eu. 
+You may find this EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. This 
+material may be found in the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-
+2019-0863.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on March 7, 2020.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2020-05707 Filed 3-19-20; 8:45 am]
+ BILLING CODE 4910-13-P

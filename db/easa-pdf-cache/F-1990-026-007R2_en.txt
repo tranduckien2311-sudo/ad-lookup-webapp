@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-026-007(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Interruption of landing gear retraction This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, without AIRBUS INDUSTRIE modification 2190 or without AIRBUS INDUSTRIE Service Bulletin A320-32-1048 embodied. A case of interruption of landing gear retraction has occurred during the simulated failure of an alternator during the retraction sequence. In order to prevent this interruption due to loss of electrical power to the relay 48GA, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Unless already accomplished and before December 1, 1990 modify wiring and electronic component installed by AIRBUS INDUSTRIE Service Bulletin A320-32-1035 in accordance with AIRBUS INDUSTRIE Service Bulletin A320-32-1048. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-32-1035 (modification 21703). AIRBUS INDUSTRIE Service Bulletin A320-32-1048 (modification 21920). The present Revision 2 cancels and replaces CN 90-026-007(B)R1 issued on June 13, 1990. EFFECTIVE DATE : JUNE 6, 1992 e/C AIRBUS INDUSTRIE May 27, 1992 90-026-007(B) R2 A320 Aircraft

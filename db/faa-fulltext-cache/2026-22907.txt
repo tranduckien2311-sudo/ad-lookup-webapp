@@ -1,0 +1,286 @@
+[Federal Register Volume 91, Number 216 (Tuesday, November 10, 2026)]
+[Rules and Regulations]
+[Pages 72392-72394]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-22907]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-8780; Project Identifier MCAI-2026-00262-T; 
+Amendment 39-23492; AD 2026-21-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes; Correction
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+[[Page 72393]]
+
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that was 
+published in the Federal Register. That AD applies to all Airbus SAS 
+Model A330-243, A330-243F, A330-341, A330-342, A330-343, A330-841, and 
+A330-941 airplanes; and Model A340-211, A340-212, A340-213, A340-311, 
+A340-312, A340-313, A340-541, and A340-642 airplanes. As published, a 
+paragraph reference specified in the regulatory text is incorrect. This 
+document corrects that error. In all other respects, the original 
+document remains the same.
+
+DATES: This correction is effective November 23, 2026. The effective 
+date of AD 2026-21-03 remains November 23, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 23, 
+2026 (91 FR 65952, October 19, 2026).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-8780; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule; correction, the mandatory continuing 
+airworthiness information (MCAI), any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; telephone +49 221 8999 000; email [email protected]. 
+You may find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2026-8780.
+
+FOR FURTHER INFORMATION CONTACT: Anthony D. Decaro, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 562-
+627-5374; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    AD 2026-21-03, Amendment 39-23492 (91 FR 65952, October 19, 2026) 
+(AD 2026-21-03), requires repetitive leak checks of certain fuel low 
+pressure shut-off valves (LPSOVs) and replacement of an affected part 
+if any discrepancy is detected. AD 2026-21-03 also allows the 
+installation of an affected part under certain conditions. That AD 
+applies to all Airbus SAS Model A330-243, A330-243F, A330-341, A330-
+342, A330-343, A330-841, and A330-941 airplanes; and Model A340-211, 
+A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, and A340-
+642 airplanes.
+
+Need for the Correction
+
+    As published, a paragraph reference specified in the regulatory 
+text of AD 2026-21-03 is incorrect. Paragraph (h)(4) of AD 2026-21-03 
+inadvertently references paragraph (4) of EASA AD 2026-0060R1 instead 
+of paragraph (2) of EASA AD 2026-0060R1.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2026-0060R1 specifies procedures for repetitive leak checks 
+of the fuel LPSOVs to confirm that the LPSOV isolates the fuel supply 
+to the associated engine, and replacement of an affected part if any 
+discrepancy is detected (e.g., any leak is found). EASA AD 2026-0060R1 
+also allows the installation of an affected part under certain 
+conditions. EASA AD 2026-0060R1 also provides acceptable methods of 
+compliance for the actions.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Correction of Publication
+
+    This document corrects an error and correctly adds the AD as an 
+amendment to 14 CFR 39.13. Although no other part of the preamble or 
+regulatory information has been corrected, the FAA is publishing the 
+entire rule in the Federal Register.
+    The effective date of this AD remains November 23, 2026.
+    Since this action only corrects a paragraph reference, it has no 
+adverse economic impact and imposes no additional burden on any person. 
+Therefore, the FAA has determined that notice and public comment 
+procedures are unnecessary.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the FAA amends part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Corrected]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2026-21-03 Airbus SAS: Amendment 39-23492; Docket No. FAA-2026-8780; 
+Project Identifier MCAI-2026-00262-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective November 23, 
+2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes specified in 
+paragraphs (c)(1) and (2) of this AD, certificated in any category.
+    (1) Model A330-243, A330-243F, A330-341, A330-342, A330-343, 
+A330-841, and A330-941 airplanes.
+    (2) Model A340-211, A340-212, A340-213, A340-311, A340-312, 
+A340-313, A340-541, and A340-642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of leaks on closed fuel low 
+pressure shut-off valves (LPSOVs) due to the LPSOV failing to seal. 
+The FAA is issuing this AD to address such leaks, which, depending 
+on the amount of the leak, could sustain a fire. The unsafe 
+condition, if not addressed, could lead to the inability to 
+extinguish a fire and result in significant damage to airplane 
+structure or systems.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2026-0060R1, dated June 9, 2026 (EASA AD 2026-0060R1).
+
+(h) Exceptions to EASA AD 2026-0060R1
+
+    (1) Where Table 1 of EASA AD 2026-0060R1 specifies a compliance 
+time of between November 12, 2025, and March 3,
+
+[[Page 72394]]
+
+2029, this AD requires accomplishing the initial leak check within 
+35 months after the effective date of this AD.
+    (2) Where EASA AD 2026-0060R1 refers to April 3, 2026 (the 
+effective date of the original issue of EASA AD 2026-0060), this AD 
+requires using the effective date of this AD.
+    (3) Where EASA AD 2026-0060R1 defines a serviceable part as 
+``Any fuel LPSOV eligible for installation in accordance with Airbus 
+instructions'', for this AD, replace that text with ``Any fuel LPSOV 
+eligible for installation''.
+    (4) Where paragraph (2) of EASA AD 2026-0060R1 specifies ``any 
+discrepancy of an affected part, as specified in the SB, is 
+detected'', for this AD, replace that text with ``any discrepancy of 
+an affected part is detected''.
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2026-0060R1.
+
+(i) No Reporting and No Return of Parts
+
+    Although the material referenced in EASA AD 2026-0060R1 
+specifies to submit certain information to the manufacturer and to 
+send removed parts to the manufacturer, this AD does not include 
+those requirements.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (k) of this AD and email to: 
+[email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j)(2) of this AD, if any material contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(k) Additional Information
+
+    For more information about this AD, contact Anthony D. Decaro, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 562-627-5374; email: [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (3) The following material was approved for IBR on November 23, 
+2026 (91 FR 65952, October 19, 2026).
+    (i) European Union Aviation Safety Agency (EASA) AD 2026-0060R1, 
+dated June 9, 2026.
+    (ii) [Reserved]
+    (4) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (6) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on November 6, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-22907 Filed 11-9-26; 8:45 am]
+BILLING CODE 4910-13-P

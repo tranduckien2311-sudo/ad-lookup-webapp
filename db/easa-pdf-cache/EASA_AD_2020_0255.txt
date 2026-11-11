@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0255
+
+Airworthiness Directive
+
+AD No.: 2020-0255
+
+Issued: 13 November 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 27 November 2020 TCDS Number(s): EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 25 – Equipment / Furnishings – Lower Deck Mobile Crew Rest Fire Extinguisher Bottle Outlet Tube – Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), if Airbus modification (mod) 40379 has been embodied in production, or the applicable modification SB has been embodied in service; and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN, if Airbus mod 40379 has been embodied in production, or the applicable modification SB has been embodied in service.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable modification SB: Airbus Service Bulletin (SB) A330-25-3168, SB A330-25-3363, SB A330-25-3623, SB A330-25-3645 or SB A340-25-4098, as applicable, introducing provisions for installation of a lower-deck mobile crew rest (LDMCR). Page 1 of 3 TE.CAP.00110-0010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0255 The SB: Zodiac Galleys Europe SB 663075-25-001. Affected assembly: LDMCR, having a Part Number (P/N) and a serial number (s/n) as specified Table 1 of this AD, except those on which the SB has been embodied. The affected assemblies include an affected part, as defined in this AD. Affected part: Halon outlet tubes, having P/N 663075-11. Serviceable part: Flexible hoses, having P/N 241502-3. Groups: Group 1 aeroplanes are those that have an affected assembly installed. Group 2 aeroplanes are those that do not have an affected assembly installed.
+
+Reason: Investigations of the affected assembly revealed that for certain LDMCR, the connection of the halon outlet tube P/N 663075-11 to the outlet of the fire extinguisher bottle P/N 9-2000-391 (Pacific Scientific P/N 33900012-2) may be incorrect. This condition, if not corrected, in case of fire in the LDMCR, could lead to disconnection of a pipe, possibly resulting in reduced fire suppressing agent concentration at any location inside the LDMCR. To address this potential unsafe condition, Zodiac Galleys Europe issued the SB to provide replacement instructions. For the reasons described above, this AD requires, for each affected assembly, replacement of each affected part with a serviceable part.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Replacement: (1) Group 1 aeroplanes: Within 6 months after the effective date of this AD, replace each affected part with a serviceable part in accordance with the instructions of the SB. Table 1 – Affected Assemblies P/N s/n P/N s/n 601075-1 001 to 006 inclusive 601116-101 007 and 008 601078-1 001 to 019 inclusive 601116-201 009 to 018 inclusive 601078-101 001 601116-301 001 to 014 inclusive 601116-1 002 to 006 inclusive 601273-1 001 Parts Installation: (2) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not install on any aeroplane an affected assembly, as defined in this AD. Page 2 of 3 TE.CAP.00110-0010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0255
+
+Ref. Publications: Zodiac Galleys Europe SB 663075-25-001 original issue dated 07 December 2014. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 09 October 2020 as PAD 20-160 for consultation until 06 November 2020. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-0010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

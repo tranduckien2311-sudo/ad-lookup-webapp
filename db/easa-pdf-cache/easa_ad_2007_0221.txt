@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007-0221 Date: 13 August 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model Designation(s): Type Approval Holder: CFM56-5B series engines CFM International SA (CFM) TC/TCDS Number: EASA E.003 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 05 Time Limits – Low Pressure Turbine Rear Frame – Life Reduction
+
+Manufacturer(s): Snecma, General Electric CFM International (CFM) Model CFM56-5B1/P, -5B2/P, -5B3/P, -5B3/P1,
+
+Applicability: -5B4/P, -5B4/P1, -5B5/P, -5B6/P, -5B7/P, -5B8/P and -5B9/P turbofan engines operating in commercial application and Model CFM56-5B6/P and -5B7/P turbofan engines operating in corporate application (conversion per SB 72- 0308), if equipped with a low pressure turbine (LPT) rear frame part number (P/N) 338-171-703-0, 338-171-704-0, 338-171-705-0 or 338-171-706-0. These engines are known to be installed on, but not limited to, Airbus A318, A319, A320 and A321 series aircraft. Before the issue of the CFM56-5B Engine Shop Manual (ESM) Temporary
+
+Reason: Revision (TR) 05-0145, the concerned LPT rear frames were not subject to a life limit in commercial applications, and in corporate applications the CFM56- 5B6/P and –5B7/P engines were life limited to 22 500 cycles. Using a refined damage tolerant approach accounting for crack initiation and propagation to ensure any cracking that is present will not grow to unsafe levels, CFM has now established a low cycle fatigue (LCF) life limit for the concerned LPT rear frames. This requirement was first introduced by revision TR 05-0145 of the CFM56-5B ESM. This revision is approved by EASA and its content has been integrated in revision 47 of the CFM56-5B ESM, dated January 15, 2007. For the reason described above, this AD requires operators to revise their aircraft maintenance programs in accordance with these LCF life limits affecting new P/Ns.
+
+Effective Date: 27 August 2007 1/2
+
+--- PAGE 2 ---
+Compliance: (1) For LPT rear frame P/N 338-171-703-0, 338-171-704-0, 338-171-705-0, 338-171-706-0, comply with the LCF life limits in accordance with the chapters 05-12-04, 05-12-24 and 05-21-03 in the CFM56-5B ESM, revision 47, dated January 15, 2007, or later approved revision; (2) If the number of cycles accumulated since new by a LPT rear frame P/N 338-171-703-0, 338-171-704-0, 338-171-705-0, 338-171-706-0 cannot be established, then within 300 cycles after the effective date of this directive, remove and replace the LPT rear frame, or perform the inspections in accordance with CFM56-5B Service Bulletin S/B 72-0620 initial issue, or later approved revision.
+
+Ref. Publications: CFM56-5B Engine Shop Manual chapter 05, revision 47 dated January 15, 2007, or later approved revision CFM56-5B Service Bulletin S/B 72-0620 initial issue, or later approved revision
+
+Remarks: 1. If requested and appropriately substantiated, the responsible EASA manager for the related product has the authority to accept Alternative Methods of Compliance (AMOC) for this AD. 2. This AD was posted on 18 May 2007 as PAD 07-086 for consultation until 15 June 2007. The Comment Response Document can be found at http://ad.easa.europa.eu/ . 3. Enquiries regarding this AD should be addressed to the AD Focal Point, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . 4. For any questions concerning the technical content of the requirements in this AD, please contact: CFM International, SA Customer Support Center E-mail : snecma.csc@snecma.fr International Phone : +33 1 64 14 88 66 Fax : +33 1 64 79 85 55 or CFM Inc. Customer Support Center E-mail : geae.csc@ae.ge.com International Phone: +1 513-552-3272 USA Phone: 877-GEAE-CSC 2/2

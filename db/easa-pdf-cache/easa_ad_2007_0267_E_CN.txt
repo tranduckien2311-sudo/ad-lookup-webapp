@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2007-0267-E-CN AIRWORTHINESS DIRECTIVE EASA CANCELLATION NOTICE
+
+AD No.: 2007-0267-E-CN Date: 28 July 2009 Note: This
+
+Airworthiness Directive Cancellation Notice is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. Type/Model designation(s): Type Approval Holder’s Name: ROLLS-ROYCE PLC RB211 Trent 700 Series Engines TCDS Number: EASA.E.042 Foreign AD: Not applicable Cancellation: Cancels EASA AD 2007-0267-E dated 08 October 2007. Engine – Intermediate Pressure (IP) Turbine Disc –
+
+ATA 72 Identification / Removal
+
+Manufacturer(s): Rolls-Royce plc.
+
+Applicability: Models RB211 Trent 768-60, 772-60, 772-60, 772B-60 and 772C-60 engines fitted with IP Turbine Discs, part number (P/N) FK20795 with the following serial numbers (S/N): CREB452, CREB216, CREB322. These engines are known to be installed on, but not limited to, Airbus A330 series aircraft. Three Trent 700 IP Turbine discs that exhibited signs of wear at the bore
+
+Reason: following failure of the bearing chamber sealing sleeve were returned to service. This was based on the fact that Non-Destructive Testing (NDT) did not reveal micro cracking on the affected disc areas. Further engineering investigation considered that, although no micro cracking had been found, the worn disc bore surfaces would have an associated fatigue penalty compared to an unaffected bore. A crack developing from these rubbed surfaces could potentially lead to a disc burst. EASA issued AD 2007-0267-E to remove the affected discs from service. All three affected IP Turbine Discs P/N FK20795 have now been confirmed as permanently removed from service, therefore EASA 2007-0267-E is now cancelled by this issue.
+
+Effective Date: 28 July 2009 EASA Form 116 Page 1/2
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2007-0267-E-CN Compliance Not applicable
+
+Ref. Publications: None
+
+Remarks: 1. Enquiries regarding this AD Cancellation Notice should be referred to the AD Focal Point -
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu 2. For any questions concerning the technical content of this AD Cancellation Notice, please contact: Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom Phone:+44 (0) 1332 242424 Fax: :+44 (0) 1332 249936 EASA Form 116 Page 2/2

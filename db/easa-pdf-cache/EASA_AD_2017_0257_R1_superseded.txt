@@ -1,0 +1,58 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0257R1
+
+Airworthiness Directive
+
+AD No.: 2017-0257R1
+
+Issued: 09 January 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: Revision 1: 09 January 2018 Original issue: 29 December 2017 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2017-0257 dated 22 December 2017.
+
+ATA 34 – Navigation – Back Up Speed Scale / Aircraft Flight Manual – Amendment
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-271N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers that have received Airbus modification (mod) 35871 in production or Airbus Service Bulletin (SB) A320-34-1397 in service (introducing Air Data Monitoring and BUSS function), except aeroplanes which have also received Airbus mod 159281 in production, or Airbus SB A320-34-1658 or A320-34-1659 in service (installing reversible BUSS function).
+
+Reason: In extreme icing conditions, pitot probes may induce erroneous airspeed indications. Airbus developed a Back-up Speed Scale (BUSS and reversible BUSS, based on angle of attack (AoA) value) displayed on the Primary Flight Display (PFD), together with a PFD Back-Up Altitude Scale based on Global Positioning System (GPS) altitude, to provide flight crews with reliable information on airspeed. This BUSS is intended to be used below flight level (FL) 250 only (above FL250, the BUSS is disconnected). Following new investigation related to AoA probes blockages, it was identified that, Page 1 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0257R1 when two AoA sensors are adversely affected by icing conditions at the same time, data displayed on the BUSS could be erroneous. This condition, if not corrected, could lead to an increased flight crew workload, possibly resulting in reduced control of the aeroplane. To address this potential unsafe condition, Airbus established specific operational instructions to be applied by the flight crew under certain defined conditions. The relevant procedure has been incorporated into the applicable A320 family Airplane Flight Manual (AFM) since 07 March 2017 (publication date). For the reason described above, this AD requires a one-time AFM amendment to introduce the additional operational procedure. After EASA AD 2017-0257 was issued, an error was detected in the Applicability, which should have been limited to aeroplanes equipped with the BUSS function. This AD is therefore revised to correct the Applicability. The wording of the Reason and Credit paragraphs have also been improved and the original AFM pages have been inserted in the Appendix.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: AFM Amendment: (1) Within 30 days after 29 December 2017 [the effective date of the original issue of this AD], amend the applicable AFM by incorporating the procedure as specified in Appendix 1 of this AD, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the applicable AFM of an aeroplane to incorporate a later AFM revision, which includes the procedure as specified in Appendix 1 of this AD, is acceptable to comply with the requirements of paragraph (1) of this AD for that aeroplane. Credit: (3) Aeroplanes operated with an AFM having the NAV – ADR 1+2+3 FAULT procedure with an approval date on or after 02 March 2017 are compliant with the requirements of this AD.
+
+Ref. Publications: Airbus A318, A319, A320 and A321 AFM Revision dated 07 March 2017. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. Page 2 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0257R1 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2017-0257R1 Appendix 1 – AFM Procedure Page 4 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2017-0257R1 Appendix 1 – AFM Procedure (continued) Page 5 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 6 ---
+EASA
+
+AD No.: 2017-0257R1 Appendix 1 – AFM Procedure (continued) Page 6 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 7 ---
+EASA
+
+AD No.: 2017-0257R1 Appendix 1 – AFM Procedure (end) Page 7 of 7 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

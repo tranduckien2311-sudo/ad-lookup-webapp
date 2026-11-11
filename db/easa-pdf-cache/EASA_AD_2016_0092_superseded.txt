@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0092
+
+Airworthiness Directive
+
+AD No.: 2016-0092
+
+Issued: 13 May 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 27 May 2016 D TCDS Number(s): EASA.A.064 E Foreign AD: Not applicable D
+
+Supersedure: This AD supersedes EASA AD 2013-0148 dated 16 July 2013. E S
+
+ATA 05 – Time Limits / Maintenance Checks – Airworthiness Limitations Section Part 3 – Certification Maintenance Requirements – Implementation R E
+
+Manufacturer(s): P Airbus (formerly Airbus Industrie) U
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, S A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers.
+
+Reason: The airworthiness limitations for Airbus A320 family aeroplanes are currently defined and published in Airbus A318/A319/A320/A321 Airworthiness Limitations Section (ALS) documents. The airworthiness limitations applicable to the Certification Maintenance Requirements (CMR), which are approved by EASA, are published in ALS Part 3. The instructions contained in the ALS Part 3 have been identified as mandatory actions for continued airworthiness. Failure to comply with these instructions could result in an unsafe condition. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0092 Previously, EASA issued AD 2013-0148 to require accomplishment of all maintenance tasks as described in ALS Part 3 at Revision 01. The new ALS Part 3 Revision 03 (hereafter referred to as ‘the ALS’ in this AD) includes new and/or more restrictive requirements. For the reason described above, this AD retains the requirements of EASA AD 2013-0148, which is superseded, and requires accomplishment of all maintenance tasks as described in the ALS.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: (1) From the effective date of this AD, at intervals as defined in the ALS (see Note 1 of this AD), accomplish all maintenance tasks, as applicable to aeroplane configuration, as specified in the ALS. Note 1: For the purpose of this AD, the intervals as defined in the ALS includes specific compliance times, as defined in the Compliance Time pages of the ALS for certain tasks. (2) Corrective Action(s): In case of finding discrepancies during accomplishment of any task as D required by paragraph (1) of this AD, before next flight, accomplish the applicable corrective action(s) in accordance with the applicable Airbus maintenance documentation. If a detected E discrepancy cannot be corrected by using existing Airbus instructions, before next flight, contact Airbus for approved instructions and accomplish those instructions accordingly. D E (3) Aircraft Maintenance Programme (AMP) Revision: Within 12 months after the effective date of this AD, revise the approved AMP, on the basis of which the operator or the owner ensures S the continuing airworthiness of each operated aeroplane, by incorporating the maintenance tasks and associated intervals described in the ALS, as applicable to the aeroplane R configuration. E (4) Credit: For an AMP that, on the effective date of this AD, is already updated to incorporate the P maintenance tasks as specified in ALS Part 3 at Revision 01 or Revision 02, that action ensures (see Note 2 of this AD) the continued accomplishment of those tasks. Consequently, for an U aeroplane to which that AMP applies, it is acceptable to accomplish the applicable new and/or more restrictive tasks, as defined in the ALS, to comply with paragraph (1) of this AD. S For that AMP, it is acceptable to incorporate the applicable new and more restrictive tasks, as defined in the ALS, into the AMP to comply with paragraph (3) of this AD. (5) Recording AD compliance: When the AMP of an aeroplane has been revised as required by paragraph (3) or (4) of this AD, as applicable, that action ensures (see Note 2 of this AD) continued accomplishment of the tasks as required by paragraphs (1) and (2) of this AD for that aeroplane. Consequently, after revising the AMP, as required by paragraph (3) or (4) of this AD, as applicable, it is not necessary that accomplishment of individual tasks is recorded for demonstration of AD compliance on a continued basis. Note 2: For affected Airbus A318, A319, A320 and A321 aeroplanes registered in Europe, complying with the approved AMP as specified in paragraph (3) of this AD is required by Commission Regulation (EU) No 1321/2014, Part M.A.301, paragraph 3. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0092
+
+Ref. Publications: Airbus A318/A319/A320/A321 ALS Part 3 Revision 03, dated 21 December 2015. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 13 April 2016 as PAD 16-051 for consultation until 11 May 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; D E-mail: account.airworth-eas@airbus.com. E D E S R E P U S Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,582 @@
+[Federal Register Volume 90, Number 98 (Thursday, May 22, 2025)]
+[Rules and Regulations]
+[Pages 21841-21845]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-09222]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-2661; Project Identifier MCAI-2024-00269-T; 
+Amendment 39-23041; AD 2025-10-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2015-02-
+14, which applied to all Airbus SAS Model A318 series airplanes; A319-
+111, -112, -113, -114, -115, -131, -132, and -133 airplanes; A320-211, 
+-212, -214, -231, -232, and -233 airplanes; and A321-111, -112, -131, -
+211, -212,
+
+[[Page 21842]]
+
+-213, -231, and -232 airplanes. AD 2015-02-14 required repetitive 
+inspections for cracking, damage, correct installation, and correct 
+adjustment of the main landing gear (MLG) door hinge and actuator 
+fittings on the keel beam, corrective actions if necessary, and 
+revision of the existing maintenance or inspection program, as 
+applicable. Since the FAA issued AD 2015-02-14, a new design of the MLG 
+door keel beam hinge and actuator fitting was developed. This AD 
+continues to require the actions specified in AD 2015-02-14, adds an 
+optional terminating action, and revises the applicability, as 
+specified in a European Union Aviation Safety Agency (EASA) AD, which 
+is incorporated by reference. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective June 26, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 26, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. 2024-2661; or in person at Docket Operations between 9 a.m. 
+and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 
+000; email [email protected]. You may find this material on the EASA 
+website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2024-2661.
+
+FOR FURTHER INFORMATION CONTACT: Tim Dowling, Aviation Safety Engineer, 
+FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-231-3667; 
+email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2015-02-14, Amendment 39-18081 (80 FR 
+11096, March 2, 2015) (AD 2015-02-14). AD 2015-02-14 applied to all 
+Airbus SAS Model A318 series airplanes; Model A319-111, -112, -113, -
+114, -115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, 
+-231, -232, and -233 airplanes; and Model A321-111, -112, -131, -211, -
+212, -213, -231, and -232 airplanes. AD 2015-02-14 required repetitive 
+inspections for cracking, damage, correct installation, and correct 
+adjustment of the MLG door hinge and actuator fittings on the keel 
+beam; corrective actions if necessary; and revision of the existing 
+maintenance or inspection program, as applicable. The FAA issued AD 
+2015-02-14 to detect and correct cracking on the MLG door hinge fitting 
+and actuator fitting on the keel beam, which could lead to in-flight 
+detachment of an MLG door, possibly resulting in injury to persons on 
+the ground and/or damage to the airplane.
+    The NPRM was published in the Federal Register on December 17, 2024 
+(89 FR 102016). The NPRM was prompted by AD 2024-0097R2, dated July 12, 
+2024 (EASA AD 2024-0097R2) (also referred to as the MCAI), which 
+superseded EASA AD 2012-0118, dated July 4, 2012 (which corresponds to 
+FAA AD 2015-02-14), issued by EASA, which is the Technical Agent for 
+the Member States of the European Union. The MCAI states that after 
+EASA AD 2012-0118 was issued, a new design of the MLG door keel beam 
+hinge and actuator fitting was certified for current engine option 
+(CEO) airplanes (Model A318-111, A318-112, A318-121, A318-122; A319-
+111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-
+133; A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-
+232, A320-233; and A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, and A321-232 airplanes) and new engine option (NEO) 
+airplanes (Model A319-151N, A319-153N, A319-171N; A320-251N, A320-252N, 
+A320-253N, A320-271N, A320-272N, A320-273N; A321-251N, A321-251NX, 
+A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, 
+A321-272N, and A321-272NX airplanes). The MCAI states that the 
+applicability is expanded to include the NEO airplanes which are 
+subject to the same unsafe condition. Model A320-215 airplanes are not 
+certificated by the FAA and are not included on the U.S. type 
+certificate data sheet; this AD therefore does not include those 
+airplanes in the applicability.
+    In the NPRM, the FAA proposed to continue to require the actions 
+specified in AD 2015-02-14, add an optional terminating action, and 
+revise the applicability, as specified in EASA AD 2024-0097R2. The FAA 
+is issuing this AD to detect and correct cracking on the MLG door hinge 
+fitting and actuator fitting on the keel beam, which could lead to in-
+flight detachment of a MLG door, possibly resulting in injury to 
+persons on the ground and/or damage to the airplane.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-2661.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from the Air Line Pilots Association, 
+International (ALPA) and United Airlines, who supported the NPRM 
+without change.
+    The FAA received additional comments from American Airlines (AA), 
+Delta Air Lines (Delta), and Spirit Airlines. The following presents 
+the comments received on the NPRM and the FAA's response to each 
+comment.
+
+Request To Correct a Typographical Error
+
+    AA and Delta requested the FAA revise paragraph (k)(1)(ii) of the 
+proposed AD to read ``AMOCs approved previously for FAA AD 2015-02-14 
+are approved as AMOCs for the corresponding provisions of EASA AD 2024-
+0097R2 that are required by paragraph (g) of this AD.'' (Paragraph 
+(k)(1)(ii) of the proposed AD inadvertently referenced EASA AD 2012-
+0118, instead of EASA AD 2024-0097R2.)
+    The FAA agrees and has revised paragraph (k)(1)(ii) of this AD 
+accordingly.
+
+Request To Clarify Superseding Relationship Between Airworthiness 
+Limitations Tasks and Airbus Service Bulletins
+
+    Spirit Airlines requested that when the FAA issues an AD to 
+incorporate Airworthiness Limitations Section (ALS) Part 2, Revision 11 
+(which is scheduled for release November 2024), it include a caveat or 
+clarification detailing the superseding relationship between 
+Airworthiness Limitations (ALI) tasks 533154-10-1 and 533154-03-2, and 
+Airbus Service Bulletin A320-53-1195, Airbus Service Bulletin A320-53-
+1325, Airbus Service Bulletin
+
+[[Page 21843]]
+
+A320-53-1196, and Airbus Service Bulletin A320-53-1326. Spirit Airlines 
+stated that it will not be able to incorporate ALI tasks 533154-10-1 
+and 533154-03-2 and Airbus Service Bulletin A320-53-1195, Airbus 
+Service Bulletin A320-53-1325, Airbus Service Bulletin A320-53-1196, 
+and Airbus Service Bulletin A320-53-1326 simultaneously, and a clear 
+explanation will help avoid any confusion or conflicts when 
+implementing the updated AD.
+    The FAA does not agree with the request. Airbus will update the ALS 
+as needed to address the superseding relationship between ALI tasks 
+533154-10-1 and 533154-03-2, and Airbus Service Bulletin A320-53-1195, 
+Airbus Service Bulletin A320-53-1325, Airbus Service Bulletin A320-53-
+1196, and Airbus Service Bulletin A320-53-1326. The FAA has not changed 
+this AD in this regard.
+
+Request for a Grace Period
+
+    Delta requested the FAA allow a 3-month grace period to comply with 
+the initial inspection requirements in paragraphs (1) and (2) of EASA 
+AD 2024-0097R2 for NEO airplanes. Delta requested this grace period to 
+continue to use ALI task 533154-03-2 in lieu of Airbus Service Bulletin 
+A320-53-1325, as referenced in paragraph (1) of EASA AD 2024-0097R2; 
+and to continue to use ALI task 533154-04-2 or ALI task 533154-10-1 in 
+lieu of Airbus Service Bulletin A320-53-1326 referenced in paragraph 
+(2) of EASA AD 2024-0097R2. Delta noted that ALI tasks are mandatory 
+inspections; therefore, until the final rule is issued, U.S. operators 
+would have no authority to use those service bulletins in lieu of those 
+ALI inspections. Delta stated that the current language in the proposed 
+AD would require, from the effective date of the AD, that operators 
+immediately switch from the ALI tasks to the Airbus service bulletins. 
+Delta added that this could be logistically very difficult, especially 
+if the ALI inspection is being performed on several airplanes on the 
+AD's effective date.
+    The FAA agrees to include a grace period for the transition for NEO 
+airplanes only. CEO airplanes have been subject to the compliance times 
+specified in AD 2015-02-14 and therefore do not need a grace period. 
+The FAA has added paragraphs (h)(6) and (7) to this AD accordingly.
+
+Request To Remove Ultrasonic Inspection
+
+    AA requested the FAA revise paragraph (g) of the proposed AD to 
+require operators to also comply with the changes detailed in Airbus 
+Service Bulletin Information Transmission/Operators Information 
+Transmission (SBIT/OIT) 23-0074, Revision 01, dated June 7, 2024. 
+Airbus SBIT/OIT 23-0074 removes the ``ultrasonic'' inspection wording 
+from Airbus Service Bulletin A320-53-1196 and Airbus Service Bulletin 
+A320-53-1326. AA stated that the Non-Destructive Testing Manual (NTM) 
+referenced in the Airbus service bulletins does not contain ultrasonic 
+inspection instructions.
+    The FAA agrees that the ultrasonic inspection is not necessary and 
+has added paragraph (h)(8) of this AD to clarify the requirement 
+accordingly.
+
+Additional Changes to This AD
+
+    The FAA revised paragraph (i) of this AD, including removing 
+paragraphs (i)(1) and (2) of the proposed AD. The FAA determined that 
+the actions specified in paragraph (i) of this AD are only applicable 
+to the CEO airplanes, since the NEO airplanes are not in the ALI 
+documents specified in paragraph (i) of this AD.
+
+Conclusion
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA reviewed the relevant 
+data, considered any comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on this product. Except for 
+minor editorial changes, and any other changes described previously, 
+this AD is adopted as proposed in the NPRM. None of the changes will 
+increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2024-0097R2 specifies procedures for repetitive detailed 
+visual, high frequency eddy current (HFEC), and ultrasonic inspections 
+of the MLG door actuator fittings on the keel beam for discrepancies 
+(cracks, wear marks, migration of the plain bush, loose flanged bush, 
+and other damage). Corrective actions include replacement of the 
+affected MLG door actuator fitting, modification of the actuator and 
+hinge fittings at the MLG door, and repair of any cracks, loose flanged 
+bush axial, bush migration, wear marks underneath the bolt head, and 
+other damage on the left and right sides of the airplane.
+    EASA AD 2024-0097R2 also specifies procedures for repetitive 
+detailed visual and HFEC inspections of the MLG door hinge fittings on 
+the keel beam for discrepancies (cracks, migration of the plain bush, 
+wear marks, and other damage). Corrective actions include replacement 
+of the MLG door hinge fitting, modification of the actuator and hinge 
+fittings at the MLG door, and repair of any bush migration, wear marks 
+underneath the bolt head, and other damage on the left and right sides 
+of the airplane.
+    EASA AD 2024-0097R2 also specifies procedures for modifying the 
+actuator and hinge fittings at the MLG door for the following parts: 
+MLG actuator fittings, hinge fittings, and connecting plates between 
+frame (FR) 42 and FR 43; accomplishment of this modification terminates 
+the repetitive inspections.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,766 airplanes of U.S. 
+registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                 Action                          Labor cost           Parts cost      product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspections............................  20 work-hours x $85 per              $0          $1,700      $3,002,200
+                                          hour = $1,700.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 21844]]
+
+
+                                      Estimated Costs for Optional Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                     Action                                  Labor cost               Parts cost      product
+----------------------------------------------------------------------------------------------------------------
+Modify the actuator and hinge fittings at MLG    82 work-hours x $85 per hour =          $52,000         $58,970
+ door.                                            $6,970.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any fitting replacement 
+that would be required based on the results of any required actions. 
+The FAA has no way of determining the number of aircraft that might 
+need a fitting replacement:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+           Labor cost                Parts cost       Cost per product
+------------------------------------------------------------------------
+38 work-hours x $85 per hour =            $6,742                 $9,972
+ $3,230.........................
+------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the repairs specified in this AD.
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2015-02-14, Amendment 39-18081 
+(80 FR 11096, March 2, 2015); and
+0
+b. Adding the following new AD:
+
+2025-10-07 Airbus SAS: Amendment 39-23041; Docket No. FAA-2024-2661; 
+Project Identifier MCAI-2024 00269-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 26, 2025.
+
+(b) Affected ADs
+
+    This AD replaces AD 2015-02-14, Amendment 39-18081 (80 FR 11096, 
+March 2, 2015) (AD 2015-02-14).
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (7) of this AD, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2024-0097R2, dated July 12, 2024 (EASA AD 2024-0097R2).
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A319-151N, -153N, and -171N airplanes.
+    (4) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (5) Model A320-251N, -252N, -253N, -271N, -272N, and -273N 
+airplanes.
+    (6) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+    (7) Model A321-251N, -251NX, -252N, -252NX, -253N, -253NX, -
+271N, -271NX, -272N, and -272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracks on the main landing 
+gear (MLG) door hinge fitting and actuator fitting on the keel beam. 
+The FAA is issuing this AD to detect and correct cracking on the MLG 
+door hinge fitting and actuator fitting on the keel beam. The unsafe 
+condition, if not addressed, could lead to in-flight detachment of 
+an MLG door, possibly resulting in injury to persons on the ground 
+and/or damage to the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (j) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0097R2.
+
+(h) Exceptions to EASA AD 2024-0097R2
+
+    (1) Where EASA AD 2024-0097R2 refers to ``16 May 2024 [the 
+effective date of the original issue of this AD],'' this AD requires 
+using the effective date of this AD.
+    (2) Where EASA AD 2024-0097R2 refers to ``18 July 2012 [the 
+effective date of EASA AD
+
+[[Page 21845]]
+
+2012-0118],'' this AD requires using April 6, 2015 (the effective 
+date of AD 2015-02-14).
+    (3) Where EASA AD 2024-0097R2 specifies to ``contact Airbus for 
+approved repair instructions and, within the compliance time 
+specified therein, accomplish those instructions accordingly'', 
+replace that text with ``all repairs must be done before further 
+flight using a method approved by the Manager, AIR-520, Continued 
+Operational Safety Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature''.
+    (4) Where paragraph (6) of EASA AD 2024-0097R2 describes an 
+airplane that has been inspected per ``ALI task 533154-03-2, 533154-
+04-2 or 533154-10-1, or in accordance with the instructions of 
+inspection SB 1 (at any Revision) or inspection SB 2 (at any 
+Revision)'', replace that text with ``ALI task 533154-03-2, 533154-
+04-2 or 533154-10-1, or in accordance with the instructions of 
+Airbus SB A320-53-1195 or SB A320-53-1325 at any Revision, as 
+applicable, or Airbus SB A320-53-1196 or SB A320-53-1326 at any 
+Revision, as applicable''.
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0097R2.
+    (6) For airplanes identified in paragraphs (c)(3), (5), and (7) 
+of this AD: Where paragraph (1) of EASA AD 2024-0097R2 specifies 
+accomplishing inspection ``in accordance with the instructions of 
+the inspection SB 1, as applicable'', this AD requires replacing 
+that text with ``in accordance with the instructions of the 
+inspection SB 1, as applicable, or Airworthiness Limitations task 
+533154-03-2. As of 3 months after the effective date of FAA AD 2025-
+10-07, only the inspection SB 1, as applicable, may be used''.
+    (7) For airplanes identified in paragraphs (c)(3), (5), and (7) 
+of this AD: Where paragraph (2) of EASA AD 2024-0097R2 specifies 
+accomplishing inspection ``in accordance with the instructions of 
+the inspection SB 2, as applicable'', this AD requires replacing 
+that text with ``in accordance with the instructions of the 
+inspection SB 2, as applicable, or Airworthiness Limitations task 
+533154-04-2 or task 533154-10-1. As of 3 months after the effective 
+date of FAA AD 2025-10-07, only the inspection SB 2, as applicable, 
+may be used''.
+    (8) Where the ``Inspection SB 2'' as defined in EASA AD 2024-
+0097R2 specifies to do an ultrasonic inspection in addition to a 
+high frequency eddy current (HFEC) inspection, this AD does not 
+require an ultrasonic inspection.
+
+(i) Retained Maintenance or Inspection Program Revision, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2015-02-14 with no changes. For airplanes identified in paragraphs 
+(c)(1), (2), (4), and (6) of this AD: After April 6, 2015 (the 
+effective date of AD 2015-02-14) and before further flight after 
+doing the initial inspections required by paragraph (g) of this AD: 
+Revise the maintenance or inspection program, as applicable, to 
+remove Task 533154-02-1 of the Airbus A318/A319/A320/A321 ALS Part 
+2-Damage Tolerant Airworthiness Limitations Items (DT ALI), Revision 
+01, dated April 4, 2012; Airbus A318/A319/A320/A321 Airworthiness 
+Limitation Items, Document AI/SE-M4/95A.0252/96, Issue 10, dated 
+October 2009; or Airbus A318/A319/A320/A321 Airworthiness Limitation 
+Items, Document AI/SE-M4/95A.0252/96, Issue 11, dated September 
+2010. The actions required by this AD take precedence over Task 
+533154-02-1 of the Airbus A318/A319/A320/A321 ALS Part 2 Damage 
+Tolerant Airworthiness Limitation Items (DT ALI), Revision 01, dated 
+April 4, 2012; Airbus A318/A319/A320/A321 Airworthiness Limitation 
+Items, Document AI/SE-M4/95A.0252/96, Issue 10, dated October 2009; 
+and Airbus A318/A319/A320/A321 Airworthiness Limitation Items, 
+Document AI/SE-M4/95A.0252/96, Issue 11, dated September 2010.
+
+(j) No Reporting Requirement
+
+    Although the material referenced in EASA AD 2024-0097R2 
+specifies to submit certain information to the manufacturer, this AD 
+does not include that requirement.
+
+(k) Additional AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (l) of this AD and email to: 
+[email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2015-02-14 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2024-0097R2 that 
+are required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (k)(2) of this AD, if any material contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(l) Additional Information
+
+    For more information about this AD, contact Tim Dowling, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3667; email: [email protected].
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0097R2, 
+dated July 12, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on May 12, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-09222 Filed 5-21-25; 8:45 am]
+BILLING CODE 4910-13-P

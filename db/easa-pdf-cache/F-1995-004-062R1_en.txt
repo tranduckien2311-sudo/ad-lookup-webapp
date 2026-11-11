@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 95-004-062(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 and A321 Aircraft Jamming of passenger doors This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 and A321 aircraft all models having received AIRBUS INDUSTRIE modification 22422 in production without AIRBUS INDUSTRIE modification 24497 or AIRBUS INDUSTRIE Service Bulletin A320-52-1064. In order to prevent the possible non opening of passenger doors 1 & 4 left and right hand side in case of an emergency evacuation, due to improper installation and the subsequent possibility of bush migration in the door opening mechanism, the following actions are rendered mandatory : 1. Within 450 flight hours following January 14, 1995 unless already accomplished, inspect each passenger door in order to check the correct positioning of both suspect bushes as per the instructions given in AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-07 dated July 28, 1994 or in AIRBUS INDUSTRIE Service Bulletin A320-52-1066. 2. Depending on first inspection findings, repeat the inspection defined in paragraph 1 of this
+
+Airworthiness Directive according to intervals defined in paragraph 4.2 of AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-07 or in AIRBUS INDUSTRIE Service Bulletin A320-52-1066 until accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-52-1064. 3. Within 15 months after January 14, 1995, unless already accomplished, install shouldered bushings as per the instructions given in AIRBUS INDUSTRIE Service Bulletin A320-52-1064. No further action is required after the accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-52-1064 all doors 1 and 4 Left Hand and Right Hand. NOTE: The inspection required by either AIRBUS INDUSTRIE A320/AOT/52-07 or by AIRBUS INDUSTRIE Service Bulletin A320-52-1066 is identical. …/… v/JYR AIRBUS INDUSTRIE May 10, 1995 95-004-062(B) R1 A320 and A321 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 95-004-062(B) R1 Page n° 2 GSAC Ref. : AIRBUS INDUSTRIE Service Bulletin A320-52-1064 (or any other later approved revision) AIRBUS INDUSTRIE Service Bulletin A320-52-1066 (or any other later approved revision) AIRBUS INDUSTRIE All Operators Telex A320/AOT 52-07 dated July 28, 1994. This Revision 1 replaces original issue of this
+
+Airworthiness Directive. EFFECTIVE DATES : Original AD : JANUARY 14, 1995 Revision 1 : MAY 20, 1995

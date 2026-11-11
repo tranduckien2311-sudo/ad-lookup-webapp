@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0279
+
+Airworthiness Directive
+
+AD No.: 2020-0279
+
+Issued: 14 December 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 21 December 2020 TCDS Number(s): EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 34 – Navigation – Pitot Probe Attachment Nuts – Re-Torque
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343, A330-743L, A330-841 and A330-941 aeroplanes, all manufacturer serial numbers (MSN), and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operators Transmission (AOT) A34L008-20. Affected AMM task: Aircraft Maintenance Manual (AMM) task 34-11-15-400-801-A – Pitot probe installation – July 2020 revision. Affected part: Pitot probes that have been installed using the instructions of the affected AMM task, as defined in this AD. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0279 Groups: Group 1 aeroplanes are those that have an affected part installed. Group 2 aeroplanes are those that do not have an affected part installed.
+
+Reason: An erroneous torque value for the attachment nuts to install a pitot probe was included in the affected AMM task. This condition, if not detected and corrected, could lead to erroneous total pressure measurement being relayed to navigation systems, possibly resulting in reduced control of the aeroplane. To address this potential unsafe condition, Airbus issued the AOT to provide instructions to identify the aeroplanes that have an affected part installed and, if so, to re-torque the nuts. For the reason described above, this AD requires to re-torque the attachment nuts of each affected part. In addition, this AD prohibits the use of the affected AMM task, as defined in this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Re-Torque: (1) For Group 1 aeroplanes: Within 30 days after the effective date of this AD, re-torque the attachment nuts of each affected part, as defined in this AD, in accordance with the instructions of the AOT. Use of AMM Task: (2) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not install a pitot probe by using the instructions of the affected AMM task, as defined in this AD.
+
+Ref. Publications: Airbus AOT A34L008-20 original issue dated 07 December 2020. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0279 reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIAL; E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

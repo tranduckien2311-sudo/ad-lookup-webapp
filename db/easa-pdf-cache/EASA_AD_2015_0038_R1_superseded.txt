@@ -1,0 +1,38 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0038R1
+
+Airworthiness Directive
+
+AD No.: 2015-0038R1
+
+Issued: 09 February 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320, and A321 aeroplanes
+
+Effective Date: Revision 01 : 16 February 2017 Original issue: 18 March 2015 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2015-0038 dated 04 March 2015.
+
+ATA 71 – Powerplant – Forward Engine Mount – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus industrie)
+
+Applicability: Airbus A318-111, A318-112, A319-111, A319-112, A319-113, A319-114, A319-115, A320-211, A320-212, A320-214, A320-215, A320-216, A321-111, A321-112, A321-211, A321-212 and A321-213 aeroplanes, all manufacturer serial numbers.
+
+Reason: During a A320 Extended Service Goal (ESG) residual fatigue test, in which new loads were used, taking into account the results of the 2006 fleet survey, the CFM56-5A/5B forward engine mount experienced a failure before reaching the threshold/interval for the detailed inspection of that forward engine mount, as identified in Airbus A318/A319/A320/A321 Airworthiness Limitations Section (ALS) Part 2 (hereafter referred to in this AD as ‘the ALS’) task 712111-01. In case of total loss of the primary load path, the current maintenance requirements do not ensure the design integrity of the remaining structure. This condition, if not corrected, could lead to in-flight loss of an engine, possibly resulting in reduced control of the aeroplane and injury to persons on the ground. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0038R1 For the reasons described above, EASA issued AD 2015-0038, requiring implementation of a reduced threshold and interval for the detailed inspections (DET) of the forward engine mount on both right hand (RH) and left hand (LH) sides, as specified in the ALS, task 712111-01. Since that AD was issued, it was determined that the repetitive inspection interval may be extended for A318, A319 and A320 aeroplanes. This AD is revised to amend the repetitive inspection interval accordingly.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Repetitive Inspections: (1) Before exceeding the threshold as specified in Table 1 of this AD, as applicable, or within 800 flight cycles (FC) after 18 March 2015 [the effective date of the original issue of this AD], whichever occurs later, and, thereafter, at intervals not to exceed the value as specified in Table 1 of this AD, as applicable, accomplish a DET of the forward engine mount on the aeroplane, both RH and LH sides (see Note 2 of this AD). Table 1 – Forward Engine Mount Inspections Aeroplane(s) Threshold (see Note 1) Interval (not to exceed) A318, A319 and A320 1 600 FC 1 600 FC A321 800 FC 800 FC Note 1: The inspection threshold specified in Table 1 of this AD is since aeroplane first flight, or since last DET in accordance with the ALS, task 712111-01, as applicable. Corrective Action: (2) If, during any DET as required by paragraph (1) of this AD, any discrepancy is detected, before next flight, replace the affected forward engine mount with a serviceable part (see Note 2 of this AD). Note 2: Using the instructions of Airbus A318/A319/A320/A321 AMM task 712111-210-040 to accomplish a DET as required by paragraph (1) of this AD, or to replace a forward engine mount as required by paragraph (2) of this AD, as applicable, is an acceptable method to comply with those requirements. Terminating Action: None (3) Replacement of a forward engine mount on an aeroplane as required by paragraph (2) of this AD does not constitute terminating action for the repetitive DET as required by paragraph (1) of this AD for that aeroplane. (4) DELETED Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2015-0038R1
+
+Ref. Publications: Airbus A318/A319/A320/A321 ALS Part 2, Revision 03, dated 27 October 2014, or Revision 04, dated 18 December 2015, or Revision 05, dated 08 July 2016. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

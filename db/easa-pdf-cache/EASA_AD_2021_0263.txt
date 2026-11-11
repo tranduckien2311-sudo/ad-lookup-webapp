@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0263
+
+Airworthiness Directive
+
+AD No.: 2021-0263
+
+Issued: 19 November 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A321 aeroplanes
+
+Effective Date: 03 December 2021 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 25 – Equipment / Furnishings – Aft Lavatory Quick Pin – Replacement
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A321-251N, A321-251NX, A321-252NX, A321-253N, A321-253NX and A321-271NX aeroplanes, manufacturer serial numbers (MSN) 07663, 07697, 07891, 07972, 08051, 08106, 08755, 08796, 08837, 08876, 08910, 08993, 09008, 09147, 09198, 09208, 09226, 09278, 09314 and 09365.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A320-25-1BXR, which includes reference to Diehl Aviation (manufacturer of affected parts) Vendor SB (VSB) A2-254-25-266. Affected part: SMART HS-L41 lavatories, having part number (P/N) D2549330002600, P/N D2549330003000, P/N D2549330003400, P/N D2549330003800, P/N D2549330004800, P/N D2549054001400 or P/N D2549054000400; and SMART HS-L42 lavatories, having P/N D2549330002200.
+
+Reason: It has been determined that the quick release pin installed on the upper attachment of certain affected parts is too short to lock on the bracket. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0263 This condition, if not corrected, could, under certain load conditions, lead to pin release and consequent movement of the lavatory, possibly resulting in injuries to crew attendants or passengers. To address this potential unsafe condition, Airbus issued the SB, identifying the MSN of aeroplanes equipped with an affected part and providing instructions to replace the quick pin in accordance with the instructions of Diehl Aviation VSB A2-254-25-266. For the reason described above, this AD requires modification and reidentification of affected parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) Within 45 days after the effective date of this AD, modify and reidentify each affected part in accordance with the instructions of the SB. Reporting: (2) Within 30 days after modification of an aeroplane as required by paragraph (1) of this AD, or within 30 days after the effective date of this AD, whichever occurs later, report that action to Airbus. This can be accomplished in accordance with the instructions of the SB.
+
+Ref. Publications: Airbus SB A320-25-1BXR original issue dated 01 September 2021. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2021-0263 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com . Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

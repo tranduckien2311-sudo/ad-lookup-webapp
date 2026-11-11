@@ -1,0 +1,350 @@
+[Federal Register Volume 78, Number 191 (Wednesday, October 2, 2013)]
+[Rules and Regulations]
+[Pages 60658-60660]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-23432]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2010-0562; Directorate Identifier 2009-NE-29-AD; 
+Amendment 39-17603; AD 2013-19-21]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) AD 2012-04-13, 
+for all Rolls-Royce plc (RR) model RB211 Trent 553-61, 553A2-61, 556-
+61, 556A2-61, 556B-61, 556B2-61, 560-61, and 560A2-61; and RB211 Trent 
+768-60, 772-60, and 772B-60; and RB211-Trent 875-17, 877-17, 884-17, 
+884B-17, 892-17, 892B-17, and 895-17; and RB211-524G2-T-19, -524G3-T-
+19, -524H-T-36, and -524H2-T-19 turbofan engines that have a high-
+pressure (HP) compressor stage 1 to 4 rotor disc installed, with a 
+certain part number (P/N) installed. AD 2012-04-13 required repetitive 
+inspections of the axial dovetail slots and follow-on corrective action 
+depending on findings. This new AD expands the population of affected 
+parts. This AD also changes, for the purposes of this AD, the 
+definition of ``engine shop visit.'' This AD was prompted by reports of 
+additional affected HP compressor rotor discs that require the same 
+action. We are issuing this AD to detect cracks in the HP compressor 
+stage 1 and 2 disc posts, which could result in failure of the disc 
+post and HP compressor blades, damage to the engine, and damage to the 
+airplane.
+
+DATES: This AD is effective November 6, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 6, 
+2013.
+
+ADDRESSES: The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+    For service information identified in this AD, contact Rolls-Royce 
+plc, Corporate Communications, P.O. Box 31, Derby, England, DE248BJ; 
+phone: 011-44-1332-242424; fax: 011-44-1332-245418; email: http://www.rolls-royce.com/contact/civil_team.jsp. You may view this service 
+information at the FAA, Engine & Propeller Directorate, 12 New England 
+Executive Park, Burlington, MA. For information on the availability of 
+this material at the FAA, call 781-238-7125.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the mandatory continuing 
+airworthiness information (MCAI), the regulatory evaluation, any 
+comments received, and other information. The street address for the 
+Docket Office (phone: 800-647-5527) is provided in the ADDRESSES 
+section. Comments will be available in the AD docket shortly after 
+receipt.
+
+FOR FURTHER INFORMATION CONTACT: Frederick Zink, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: 781-238-7779; 
+fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2012-04-13, Amendment 39-16969 (77 FR 13483, 
+March 7, 2012), (``AD 2012-04-13''). AD 2012-04-13 applied to the 
+specified products. The NPRM published in the Federal Register on May 
+14, 2013 (78 FR 28161). The NPRM proposed to continue to require 
+repetitive inspections of the axial dovetail slots and follow-on 
+corrective action depending on findings. The NPRM also proposed to 
+expand the population of affected parts, and to change, for the 
+purposes of this AD, the definition of ``engine shop visit.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the proposal 
+and the FAA's response to each comment.
+
+Support for the Proposed AD
+
+    The Boeing Company supports the NPRM (78 FR 28161, May 14, 2013) as 
+written.
+    We made no change to this AD.
+
+Request To Revise Definition of Engine Shop Visit
+
+    American Airlines (AAL) and RR requested that we change the 
+definition of engine shop visit. The commenters noted that the 
+definition of engine shop visit in the NPRM (78 FR 28161, May 14, 2013) 
+differs from that in RR Alert Non-Modification Service Bulletin No. 
+RB.211-72-AF964, Revision 3, dated January 11, 2013. AAL also indicated 
+that the definition of engine shop visit in the NPRM, if adopted, would 
+dramatically increase turn time and costs and affect availability of 
+spare engines.
+    We agree. We revised this AD by changing the definition of engine 
+shop visit to read: ``For the purpose of this AD, an ``engine shop 
+visit'' is whenever the HP compressor rotor is accessible and the 
+compressor blades have been removed.''
+
+[[Page 60659]]
+
+Request To Correct Paragraph Designations in Compliance Section
+
+    AAL requested that we correct references in the compliance section 
+of the NPRM (78 FR 28161, May 14, 2013) that did not refer to the 
+correct paragraph designation.
+    We agree. The references should be to ``paragraph (f)'' or 
+``paragraph (f)(2),'' as applicable, rather than to ``paragraph (e).'' 
+We changed this AD by revising several references in the compliance 
+section and the Credit for Previous Action paragraph from ``paragraph 
+(e)'' to ``paragraph (f)'' or to ``paragraph (f)(2),'' as applicable.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described. We determined that these changes 
+will not increase the economic burden on any operator or increase the 
+scope of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects about 432 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 20 
+hours per product to comply with this AD. The average labor rate is $85 
+per hour. No parts are required. Based on these figures, we estimate 
+the cost of the AD on U.S. operators to be $734,400.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2012-04-13, Amendment 39-16969 (77 FR 13483, March 7, 2012) and adding 
+the following new AD:
+
+2013-19-21 Rolls Royce plc: Amendment 39-17603; Docket No. FAA-2010-
+0562; Directorate Identifier 2009-NE-29-AD.
+
+(a) Effective Date
+
+    This AD is effective November 6, 2013.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2012-04-13, Amendment 39-16969 (77 FR 
+13483, March 7, 2012).
+
+(c) Applicability
+
+    This AD applies to the following Rolls-Royce plc (RR) model 
+turbofan engines that have a high-pressure (HP) compressor stage 1 
+to 4 rotor disc installed, with a part number (P/N) listed in Table 
+1 to paragraph (c) of this AD:
+    (1) RB211 Trent 553-61, 553A2-61, 556-61, 556A2-61, 556B-61, 
+556B2-61, 560-61, and 560A2-61; and
+    (2) RB211 Trent 768-60, 772-60, and 772B-60; and
+    (3) RB211-Trent 875-17, 877-17, 884-17, 884B-17, 892-17, 892B-
+17, and 895-17; and
+    (4) RB211-524G2-T-19, -524G3-T-19, -524H-T-36, and -524H2-T-19.
+
+Table 1 to Paragraph (c)--Affected HP Compressor Stage 1 to 4 Rotor Disc
+                          P/Ns by Engine Model
+------------------------------------------------------------------------
+                                            HP Compressor stage 1 to 4
+              Engine model                        rotor disc P/N
+------------------------------------------------------------------------
+1. RB211 Trent 553-61, 553A2-61, 556-    FK30524 or FW88340.
+ 61, 556A2-61, 556B-61, 556B2-61, 560-
+ 61, and 560A2[dash]61.
+2. RB211 Trent 768-60, 772-60, and 772B- FK22745, FK24031, FK23313,
+ 60.                                      FK25502, FK26185, FK32129,
+                                          FW20195, FW20196, FW20197,
+                                          FW20638, FW23711, FW88695,
+                                          FW88696, FW88697, FW88698,
+                                          FW88699, FW88700, FW88701,
+                                          FW88702, or FW88703.
+3. RB211 Trent 875-17, 877-17, 884-17,   FK24009, FK26167, FK32580,
+ 884B-17, 892-17, 892B-17, and 895-17.    FW11590, FW61622, FW88723,
+                                          FW88724, or FW88725.
+4. RB211-524G2-T-19, -524G3-T-19, -524H- FK25502, FW20195, FW23711,
+ T-36, and -524H2-T-19.                   FW88695, FW88696, or FW88697.
+------------------------------------------------------------------------
+
+(d) Unsafe Condition
+
+    We are issuing this AD to detect cracks in the HP compressor 
+stage 1 and 2 disc posts, which could result in failure of the disc 
+post and HP compressor blades, damage to the engine, and damage to 
+the airplane.
+
+(e) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 60660]]
+
+(f) Cleaning and Inspection
+
+    (1) Clean and perform a fluorescent-penetrant inspection of the 
+HP compressor stage 1 to 4 rotor disc at the first shop visit after 
+accumulating 1,000 cycles since new (CSN) on the stage 1 to 4 rotor 
+disc or at the next shop visit after the effective date of this AD, 
+whichever occurs later.
+    (2) Use paragraphs 3.A. through 3.E.(11) of the Accomplishment 
+Instructions of RR Alert Non-Modification Service Bulletin (NMSB) 
+No. RB.211-72-AF964, Revision 3, dated January 11, 2013, to do the 
+cleaning and inspection.
+    (3) Thereafter, at every engine shop visit, clean and inspect as 
+required by paragraph (f)(2) of this AD.
+    (4) If on the effective date of this AD, an engine with an 
+affected part has 1,000 CSN or more, and is in the shop, clean and 
+inspect as required by paragraph (f)(2) of this AD before returning 
+the engine to service.
+    (5) If cracks or anomalies are found during the inspection 
+required by paragraph (f)(2) of this AD, accomplish the applicable 
+corrective actions before returning the engine to service.
+
+(g) Definition
+
+    For the purpose of this AD, an ``engine shop visit'' is whenever 
+the HP compressor rotor is accessible and the compressor blades have 
+been removed.
+
+(h) Credit for Previous Action
+
+    If you performed cleanings and inspections before the effective 
+date of this AD using RR NMSB No. RB.211-72-AF964, Revision 1, dated 
+June 6, 2008, or Revision 2, dated June 8, 2011, then you met the 
+requirements of paragraph (f) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, FAA may approve AMOCs 
+for this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact, contact 
+Frederick Zink, Aerospace Engineer, Engine Certification Office, 
+FAA, Engine & Propeller Directorate, 12 New England Executive Park, 
+Burlington, MA 01803; phone: 781-238-7779; fax: 781-238-7199; email: 
+[email protected].
+    (2) Refer to European Aviation Safety Agency AD No. 2013-0042, 
+dated February 26, 2013, for related information. You may examine 
+this AD on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2010-0562-0023.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Rolls Royce Alert Non-Modification Service Bulletin No. 
+RB.211-72-AF964. Revision 3, dated January 11, 2013.
+    (ii) None.
+    (3) For service information identified in this AD, contact 
+Rolls-Royce plc, Corporate Communications, P.O. Box 31, Derby, 
+England, DE248BJ; phone: 011-44-1332-242424; fax: 011-44-1332-
+249936; email: http://www.rolls-royce.com/contact/civil_team.jsp; 
+or download from https://www.aeromanager.com.
+    (4) You may view this service information at the FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, MA 
+01803. For information on the availability of this material at the 
+FAA, call 781-238-7125.
+    (5) You may view this service information at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on September 18, 2013.
+Carlos A. Pestana,
+Acting Directorate Assistant Manager, Engine & Propeller Directorate, 
+Aircraft Certification Service.
+[FR Doc. 2013-23432 Filed 10-1-13; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1998-226-119(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE d A321 aircraft Automatic landing limitations (ATA 22) e d APPLICABILITY e AIRBUS INDUSTRIE A321 aircraft all certified models, all serial numbers, in the following configurations: s 1. Equipped with CFM engines with AIRBUS INDUSTRIE modification 25199 or Service Bulletin A320-22-1045. However, engines with AIRBUS INDUSTRIE modification 25469 or 26968 in r production or with Service Bulletin A320-22-1054 or A320-22-1064 in service, are not affected. 2. Equipped with IAE engines with AIRBUS INDUSTRIE modification 25200 or Service Bulletin e A320-22-1046. However, engines with AIRBUS INDUSTRIE modification 26243 or 26716 in production or Service Bulletin A320-22-1062 or A320-22-1065 in service, are not affected. p REASON Automatic landings performed on runways with a magnetic orientation between (and including values) u 170 degrees to 190 degrees could generate automatic roll out guidance problems due to software calculation errors. S ACTION On the effective date of this
+
+Airworthiness Directive, insert TR 9.99.99/44 issue 2 approved DGAC on March 03, 1998 in the Aircraft Flight Manual and follow the corresponding procedures. n/ JJD …/… AIRBUS INDUSTRIE January 12, 2000 1998-226-119(B) R1 A321 aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 1998-226-119(B) R1 Page n° 2 REF. : AFM TR 9.99.99/44 issue 2 of March 3, 1998 AIRBUS INDUSTRIE Service Bulletin A320-22-1045 AIRBUS INDUSTRIE Service Bulletin A320-22-1046 AIRBUS INDUSTRIE Service Bulletin A320-22-1054 AIRBUS INDUSTRIE Service Bulletin A320-22-1062 AIRBUS INDUSTRIE Service Bulletin A320-22-1064 AIRBUS INDUSTRIE Service Bulletin A320-22-1065. This Revision 1 replaces original AD 98-226-119(B) dated June 17, 1998. d EFFECTIVE DATES: e Original AD : JUNE 27, 1998 Revision 1 : JANUARY 22, 2000 d e s r e p u S

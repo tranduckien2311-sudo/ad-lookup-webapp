@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-164-026(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Reinforcement of nose landing gear wheels The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, equipped with BF GOODRICH wheels P/N 3-1470, which have not received the AIRBUS INDUSTRIE modification 22098 or the AIRBUS INDUSTRIE Service Bulletin A320-32-1061 Revision 2 issued in June 1992. In order to prevent the rupture of the bearings in the front wheel, which could lead to the loss of the wheel, the following action is rendered mandatory at the effective date of this
+
+Airworthiness Directive : - Before December 31, 1992, augment the rigidity of the front wheel hub by fitting on each wheel a spacer, as defined in the AIRBUS INDUSTRIE Service Bulletin A320-32-1061 Revision 2. No further action is required after application of this present
+
+Airworthiness Directive or of AIRBUS INDUSTRIE Service Bulletin A320-32-1061 Revision 2. Reference : AIRBUS INDUSTRIE Service Bulletin A320-32-1061 Revision 2. EFFECTIVE DATE : AUGUST 29, 1992 n/C AIRBUS INDUSTRIE August 19, 1992 92-164-026(B) A320 Aircraft

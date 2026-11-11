@@ -1,0 +1,674 @@
+[Federal Register Volume 80, Number 80 (Monday, April 27, 2015)]
+[Rules and Regulations]
+[Pages 23232-23237]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-09465]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0930; Directorate Identifier 2015-NM-040-AD; 
+Amendment 39-18144; AD 2015-08-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+[[Page 23233]]
+
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2014-26-53 and 
+AD 2015-03-02 for certain Airbus Model A319-115, A319-133, A320-214, 
+A320-232, and A320-233 airplanes. AD 2014-26-53 required repetitive 
+detailed visual inspections to detect discrepancies of the wing lower 
+skin surface and inboard main landing gear (MLG) support rib lower 
+flange location fasteners and, depending on findings, accomplishment of 
+applicable corrective action(s). AD 2015-03-02 required repetitive 
+detailed visual inspections of the outboard MLG support rib lower 
+flange fasteners for discrepancies, and corrective actions if 
+necessary. This new AD retains the repetitive detailed visual 
+inspections to detect discrepancies of the fasteners located in the 
+wing lower skin surface and inboard MLG support rib lower flange with 
+extended compliance times and repetitive intervals, and accomplishment 
+of applicable corrective actions. This new AD also retains the 
+repetitive detailed visual inspections of the outboard MLG support rib 
+lower flange fasteners for discrepancies, and corrective actions if 
+necessary. In addition, this new AD adds airplanes to the 
+applicability. This AD was prompted by a determination that certain 
+airplanes were missing from the applicability of AD 2014-26-53 and AD 
+2015-03-02 and that those airplanes may be affected by the unsafe 
+condition addressed in AD 2014-26-53 and AD 2015-03-02. We are issuing 
+this AD to detect and correct discrepancies of the fasteners at the 
+external surface of the lower wing skin and inboard and outboard MLG 
+support rib lower flanges, which could result in an airplane not 
+meeting its maximum loads expected in service. This condition could 
+result in structural failure.
+
+DATES: This AD becomes effective May 12, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 12, 
+2015.
+    We must receive comments on this AD by June 11, 2015.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com.
+    You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0930.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0930; or in person at the Docket Operations office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On January 7, 2015, we issued AD 2014-26-53, Amendment 39-18068 (80 
+FR 3155, January 22, 2015). AD 2014-26-53 applied to certain Airbus 
+Model A319-115, A319-133, A320-214, A320-232, and A320-233 airplanes. 
+AD 2014-26-53 was prompted by reports of failure of certain fasteners 
+located at the wing lower skin surface and inboard MLG support rib 
+lower flange. AD 2014-26-53 required repetitive detailed visual 
+inspections to detect discrepancies of the wing lower skin surface and 
+inboard MLG support rib lower flange location fasteners and, depending 
+on findings, accomplishment of applicable corrective action(s). We 
+issued AD 2014-26-53 to detect and correct discrepancies of the 
+fasteners at the external surface of the lower wing skin and inboard 
+MLG support rib lower flange, which could result in an airplane not 
+meeting its maximum loads expected in service. This condition could 
+result in structural failure.
+    On January 30, 2015, we issued AD 2015-03-02, Amendment 39-18098 
+(80 FR 6897, February 9, 2015). AD 2015-03-02 applied to certain Airbus 
+Model A319-115, A319-133, A320-214, A320-232, and A320-233 airplanes. 
+AD 2015-03-02 was prompted by reports of failure of certain fasteners 
+on the MLG support rib lower flange. AD 2015-03-02 required repetitive 
+detailed visual inspections of the outboard MLG support rib lower 
+flange fasteners for discrepancies, and corrective actions if 
+necessary. We issued AD 2015-03-02 to detect and correct discrepancies 
+of the fasteners at the outboard MLG support rib lower flange, which 
+could result in an airplane not meeting its maximum loads expected in 
+service. This condition could result in structural failure.
+    Since we issued AD 2014-26-53, Amendment 39-18068 (80 FR 3155, 
+January 22, 2015); and AD 2015-03-02, Amendment 39-18098 (80 FR 6897, 
+February 9, 2015); we have determined that certain airplanes were 
+missing from the applicability of AD 2014-26-53 and AD 2015-03-02. 
+Airbus Model A319-132 airplanes are affected with the identified unsafe 
+condition and should have been included in the applicability of those 
+ADs. In addition, we have also determined that the repetitive detailed 
+visual inspections to detect discrepancies of the wing lower skin 
+surface and inboard MLG support rib lower flange could be extended from 
+8-day intervals to 60-day intervals.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2015-0026, dated February 19, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A319-115, A319-132, A319-133, A320-214, A320-232, and A320-233 
+airplanes. The MCAI states:
+
+    During production of wings, a number of taperlok fasteners were 
+found failed after installation. The fasteners in question are 
+located at the bottom skin of the Main Landing Gear (MLG) 
+reinforcing plate, wing skin and Gear Support Rib 5 lower flange. 
+Based on the results of the preliminary investigation, this affects 
+only certain A319
+
+[[Page 23234]]
+
+and A320 aeroplanes delivered since January 2014.
+    This condition, if not detected and corrected could reduce the 
+design safety margin of the structure.
+    Prompted by these findings, EASA issued Emergency AD 2014-0270-E 
+(later revised) [which corresponds to certain requirements of AD 
+2014-26-53, Amendment 39-18068 (80 FR 3155, January 22, 2015)] to 
+require repetitive detailed inspections (DET) of the bottom skin 
+taperlok fasteners at the MLG Rib 5 footprint location and, 
+depending on findings, accomplishment of applicable corrective 
+action(s).
+    Since EASA AD 2014-0270R1 [which corresponds to certain 
+requirements of AD 2015-03-02, Amendment 39-18098 (80 FR 6897, 
+February 19, 2015)] was issued, based on in service feedback and 
+further investigation, Airbus issued Revision 01 of Alert Operators 
+Transmission (AOT) A57N006-14 to extend the original 8 calendar days 
+inspection interval to 60 calendar days for the external area and 
+for the internal inboard side. In addition, it was identified that 
+the model A319-132 was missing from the [EASA] AD applicability.
+    For the reasons described above, this AD retains the 
+requirements of EASA AD 2014-0270R1, which is superseded, to amend 
+the Applicability and to require those actions within the new 
+thresholds and intervals.
+    This [EASA] AD is still considered to be an interim action and 
+further [EASA] AD action may follow.
+
+    You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0930.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Airbus Alert Operators Transmission (AOT) 
+A57N006-14, Revision 01, dated February 16, 2015. The service 
+information describes procedures for repetitive detailed visual 
+inspections to detect discrepancies of the wing lower skin surface and 
+inboard and outboard MLG support rib lower flange location fasteners 
+and corrective actions. The actions described in this service 
+information are intended to correct the unsafe condition identified in 
+the MCAI.
+    This service information is reasonably available at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0930. Or see ADDRESSES for other ways to access this service 
+information.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+FAA's Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because 
+failure of more than two fasteners at the outboard MLG support rib 
+lower flange could result in an airplane not meeting its maximum loads 
+expected in-service. This condition could result in failure of the 
+structure. Therefore, we determined that notice and opportunity for 
+public comment before issuing this AD are impracticable and that good 
+cause exists for making this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2015-0930; Directorate 
+Identifier 2015-NM-040-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 148 airplanes of U.S. registry.
+    The actions required by AD 2014-26-53, Amendment 39-18068 (80 FR 
+3155, January 22, 2015); and AD 2015-03-2, Amendment 39-18098 (80 FR 
+6897, February 9, 2015); and retained in this AD, take about 2 work-
+hours per product, at an average labor rate of $85 per work-hour. Based 
+on these figures, the estimated cost of the actions that were required 
+by AD 2014-26-53 and AD 2015-03-06 is $170 per product, per inspection 
+cycle.
+    We also estimate that it will take about 2 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $25,160, or $170 per product, per 
+inspection cycle.
+    In addition, we estimate that any fastener replacement will take 
+about 3 work-hours and require parts costing $400, for a cost of $655 
+per fastener replacement. We have no way of determining the number of 
+aircraft that might need these actions.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 23235]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2014-26-53, Amendment 39-18068 
+(80 FR 3155, January 22, 2015); and AD 2015-03-02, Amendment 39-18098 
+(80 FR 6897, February 9, 2015; and
+0
+b. Adding the following new AD:
+2015-08-08 Airbus: Amendment 39-18144. Docket No. FAA-2015-0930; 
+Directorate Identifier 2015-NM-040-AD.
+
+(a) Effective Date
+
+    This AD becomes effective May 12, 2015.
+
+(b) Affected ADs
+
+    This AD replaces the following:
+    (1) AD 2014-26-53, Amendment 39-18068 (80 FR 3155, January 22, 
+2015).
+    (2) AD 2015-03-02, Amendment 39-18098 (80 FR 6897, February 9, 
+2015).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A319-115, A319-132, A319-133, 
+A320-214, A320-232, and A320-233 airplanes, certificated in any 
+category, manufacturer serial numbers (MSN) 5817, 5826, 5837, 5848, 
+5855, 5864, 5875, 5886, 5896, 5910, and 5918 and subsequent.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by a determination that certain airplanes 
+were not included in the applicability of AD 2014-26-53, Amendment 
+39-18068 (80 FR 3155, January 22, 2015); and AD 2015-03-02, 
+Amendment 39-18098 (80 FR 6897, February 9, 2015). This AD was also 
+prompted by reports of failure of certain fasteners located at the 
+wing lower skin surface, and inboard and outboard main landing gear 
+(MLG) support rib lower flanges. We are issuing this AD to detect 
+and correct discrepancies of the fasteners at the external surface 
+of the lower wing skin and inboard and outboard MLG support rib 
+lower flanges, which could result in an airplane not meeting its 
+maximum loads expected in service. This condition could result in 
+structural failure.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained for All Airplanes Except Airbus Model A319-132 Airplanes: 
+Repetitive Inspections, With Extended Compliance Time and New Service 
+Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2014-26-53, Amendment 39-18068 (80 FR 3155, January 22, 2015), with 
+an extended compliance time and new service information. For Airbus 
+Model A319-115, A319-133, A320-214, A320-232, and A320-233 
+airplanes: Within 60 days after February 6, 2015 (the effective date 
+of AD 2014-26-53), or within 60 days since the date of issuance of 
+the original certificate of airworthiness or the original export 
+certificate of airworthiness, or before further flight for any 
+airplane that is not in operation for more than 60 days, whichever 
+occurs later: Do the inspections required by paragraphs (g)(1) and 
+(g)(2) of this AD, in accordance with Airbus Alert Operators 
+Transmission (AOT) A57N006-14, Revision 00, dated December 4, 2014; 
+or Airbus AOT A57N006-14, Revision 01, dated February 16, 2015. 
+Repeat the inspections thereafter at intervals not to exceed 60 
+days. As of the effective date of this AD, only use Airbus AOT 
+A57N006-14, Revision 01, dated February 16, 2015, to accomplish the 
+actions required by this paragraph.
+    (1) Do a detailed visual inspection of the external surface of 
+the left-hand and right-hand wing lower skin surface to detect 
+missing or broken or migrated fasteners.
+    (2) Do a detailed visual inspection of the inboard MLG support 
+rib lower flange to detect missing or broken nuts or fastener tails.
+
+(h) Retained for All Airplanes Except Airbus Model A319-132 Airplanes: 
+Corrective Actions for the Inspections Required by Paragraph (g)(1) of 
+This AD, With New Service Information
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2014-26-53, Amendment 39-18068 (80 FR 3155, January 22, 2015), with 
+new service information.
+    (1) If, during any inspection required by paragraph (g)(1) of 
+this AD, only one discrepancy (any missing or broken or migrated 
+fastener) is found on the left- or right-side: Before further 
+flight, do corrective actions in accordance with a method approved 
+by the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (g) of this AD.
+    (2) If, during any inspection required by paragraph (g)(1) of 
+this AD, more than one discrepancy (any missing or broken or 
+migrated fastener) is found on the left- or right-side: Before 
+further flight, replace all affected fasteners on the affected 
+side(s), in accordance with Airbus AOT A57N006-14, Revision 00, 
+dated December 4, 2014; or Airbus AOT A57N006-14, Revision 01, dated 
+February 16, 2015. One fastener per side may be missing or broken or 
+migrated provided the applicable actions required by paragraph 
+(h)(1) of this AD are done. Replacement of fasteners on an airplane 
+does not constitute terminating action for any inspection required 
+by paragraph (g) of this AD. As of the effective date of this AD, 
+only use Airbus AOT A57N006-14, Revision 01, dated February 16, 
+2015, to accomplish the actions required by this paragraph.
+
+(i) Retained for All Airplanes Except Airbus Model A319-132 Airplanes: 
+Corrective Actions for the Inspections Required by Paragraph (g)(2) of 
+This AD, With New Service Information
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2014-26-53, Amendment 39-18068 (80 FR 3155, January 22, 2015), with 
+new service information.
+    (1) If, during any inspection required by paragraph (g)(2) of 
+this AD, only one discrepancy (any missing or broken nut or fastener 
+tail) is found on the left- or right-side: Before further flight, do 
+corrective actions in accordance with a method approved by the 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (g) of this AD.
+    (2) If, during any inspection required by paragraph (g)(2) of 
+this AD, more than one discrepancy (any missing or broken nut or 
+fastener tail) is found on the left- or right-side: Before further 
+flight, replace all affected fasteners on the affected side(s), in 
+accordance with Airbus AOT A57N006-14, Revision 00, dated December 
+4, 2014; or Airbus AOT A57N006-14, Revision 01, dated February 16, 
+2015. One fastener per side may be missing or broken or migrated 
+provided the applicable actions required by paragraph (i)(1) of this 
+AD are done. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (g) of this AD. As of the effective date of this AD, only 
+use Airbus AOT A57N006-14, Revision 01, dated February 16, 2015, to 
+accomplish the actions required by this paragraph.
+
+(j) Retained for All Airplanes Except Airbus Model A319-132 Airplanes: 
+Repetitive Inspections of the Outboard MLG Support Rib Lower Flange, 
+With New Service Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2015-03-02, Amendment 39-18098 (80 FR 6897, February 9, 2015), with 
+new service information. For Airbus Model A319-115, A319-133, A320-
+214, A320-232, and A320-233 airplanes: Within 4 months after 
+February 24, 2015 (the effective date of AD 2015-03-02), or within 4 
+months after the date of issuance of the original certificate of 
+airworthiness or the original export certificate of airworthiness, 
+or before further flight for any airplane that is not in operation 
+for more than 4 months, whichever occurs latest: Do a detailed 
+visual inspection of the left and right outboard MLG support rib 
+lower flange to detect any discrepancy (broken or missing fastener 
+tails or nuts), in accordance with Airbus AOT A57N006-14, Revision 
+00, dated December 4,
+
+[[Page 23236]]
+
+2014; or Airbus AOT A57N006-14, Revision 01, dated February 16, 
+2015. Repeat the inspection thereafter at intervals not to exceed 4 
+months. As of the effective date of this AD, only use Airbus AOT 
+A57N006-14, Revision 01, dated February 16, 2015, for the actions 
+required by this paragraph.
+
+(k) Retained for All Airplanes Except Airbus Model A319-132 Airplanes: 
+Corrective Actions for the Inspections Required by Paragraph (j) of 
+This AD, With New Service Information
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2015-03-02, Amendment 39-18098 (80 FR 6897, February 9, 2015), with 
+new service information. If, during any inspection required by 
+paragraph (j) of this AD, any discrepancy is found on the left or 
+right outboard MLG support rib lower flange: Before further flight, 
+replace all affected fasteners on the affected side(s), in 
+accordance with Airbus AOT A57N006-14, Revision 00, dated December 
+4, 2014; or Airbus AOT A57N006-14, Revision 01, dated February 16, 
+2015. Replacement of fasteners on an airplane does not constitute 
+terminating action for the repetitive inspections required by 
+paragraph (j) of this AD. As of the effective date of this AD, only 
+use Airbus AOT A57N006-14, Revision 01, dated February 16, 2015, for 
+the actions required by this paragraph.
+
+(l) For Airbus Model A319-132 Airplanes: New Repetitive Inspections of 
+External Surface of Wing Lower Skin and Inboard MLG Support Rib Lower 
+Flange
+
+    For Airbus Model A319-132 airplanes: Within 60 days after the 
+effective date of this AD, or within 60 days since the date of 
+issuance of the original certificate of airworthiness or the 
+original export certificate of airworthiness, or before further 
+flight for any airplane that is not in operation for more than 60 
+days, whichever occurs later: Do the inspections required by 
+paragraphs (l)(1) and (l)(2) of this AD, in accordance with Airbus 
+AOT A57N006-14, Revision 01, dated February 16, 2015. Repeat the 
+inspections thereafter at intervals not to exceed 60 days.
+    (1) Do a detailed visual inspection of the external surface of 
+the left-hand and right-hand wing lower skin surface to detect 
+missing or broken or migrated fasteners.
+    (2) Do a detailed visual inspection of the inboard MLG support 
+rib lower flange to detect missing or broken nuts or fastener tails.
+
+(m) For Airbus Model A319-132 Airplanes: Corrective Actions for the 
+Inspections Required by Paragraph (l)(1) of This AD
+
+    (1) If, during any inspection required by paragraph (l)(1) of 
+this AD, only one discrepancy (any missing or broken or migrated 
+fastener) is found on the left- or right-side: Before further 
+flight, do corrective actions in accordance with a method approved 
+by the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (l) of this AD.
+    (2) If, during any inspection required by paragraph (l)(1) of 
+this AD, more than one discrepancy (any missing or broken or 
+migrated fastener) is found on the left- or right-side: Before 
+further flight, replace all affected fasteners on the affected 
+side(s), in accordance with Airbus AOT A57N006-14, Revision 01, 
+dated February 16, 2015. One fastener per side may be missing or 
+broken or migrated provided the applicable actions required by 
+paragraph (m)(1) of this AD are done. Replacement of fasteners on an 
+airplane does not constitute terminating action for any inspection 
+required by paragraph (l) of this AD.
+
+(n) For Airbus Model A319-132 Airplanes: Corrective Actions for the 
+Inspections Required by Paragraph (l)(2) of This AD
+
+    (1) If, during any inspection required by paragraph (l)(2) of 
+this AD, only one discrepancy (any missing or broken nut or fastener 
+tail) is found on the left- or right-side: Before further flight, do 
+corrective actions in accordance with a method approved by the 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (l) of this AD.
+    (2) If, during any inspection required by paragraph (l)(2) of 
+this AD, more than one discrepancy (any missing or broken nut or 
+fastener tail) is found on the left- or right-side: Before further 
+flight, replace all affected fasteners on the affected side(s), in 
+accordance with Airbus AOT A57N006-14, Revision 01, dated February 
+16, 2015. One fastener per side may be missing or broken or migrated 
+provided the applicable actions required by paragraph (n)(1) of this 
+AD are done. Replacement of fasteners on an airplane does not 
+constitute terminating action for any inspection required by 
+paragraph (l) of this AD.
+
+(o) For Airbus Model A319-132 Airplanes: New Repetitive Inspections of 
+Outboard MLG Support Rib Lower Flange
+
+    For Airbus Model A319-132 airplanes: Within 4 months after the 
+effective date of this AD, or within 4 months after the date of 
+issuance of the original certificate of airworthiness or the 
+original export certificate of airworthiness, or before further 
+flight for any airplane that is not in operation for more than 4 
+months, whichever occurs later: Do a detailed visual inspection of 
+the left and right outboard MLG support rib lower flange to detect 
+any discrepancy (broken or missing fastener tails or nuts), in 
+accordance with Airbus AOT A57N006-14, Revision 01, dated February 
+16, 2015. Repeat the inspection thereafter at intervals not to 
+exceed 4 months.
+
+(p) For Airbus Model A319-132 Airplanes: Corrective Actions for the 
+Inspections Required by Paragraph (o) of This AD
+
+    If, during any inspection required by paragraph (o) of this AD, 
+any discrepancy is found on the left or right outboard MLG support 
+rib lower flange: Before further flight, replace all affected 
+fasteners on the affected side(s), in accordance with Airbus AOT 
+A57N006-14, Revision 01, dated February 16, 2015. Replacement of 
+fasteners on an airplane does not constitute terminating action for 
+the repetitive inspections required by paragraph (o) of this AD.
+
+(q) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (l), (m)(2), (n)(2), (o), and (p) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Airbus AOT A57N006-14, Revision 00, dated December 4, 2014, which 
+was incorporated by reference in AD 2014-26-53, Amendment 39-18068 
+(80 FR 3155, January 22, 2015).
+
+ (r) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (ii) AMOCs approved previously for AD 2014-26-53, Amendment 39-
+18068 (80 FR 3155, January 22, 2015); and AD 2015-03-02, Amendment 
+39-18098 (80 FR 6897, February 19, 2015); are approved as AMOCs for 
+the corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(s) Special Flight Permits
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(t) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0026, dated February 19, 
+2015, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2015-0930.
+
+[[Page 23237]]
+
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (u)(3) and (u)(4) of this AD.
+
+(u) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission A57N006-14, Revision 01, 
+dated February 16, 2015.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on April 14, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-09465 Filed 4-24-15; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,602 @@
+[Federal Register Volume 80, Number 224 (Friday, November 20, 2015)]
+[Rules and Regulations]
+[Pages 72569-72573]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-28895]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-1043; Directorate Identifier 2013-NM-079-AD; 
+Amendment 39-18321; AD 2015-23-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes; and Model A340-200 and A340-300 series airplanes. This AD 
+was prompted by reports of cracked support strut body ends at a certain 
+frame location of the trimmable horizontal stabilizer (THS). This AD 
+requires repetitive inspections for cracking of the strut ends of the 
+THS support located at a certain frame in the tail cone, and 
+replacement if necessary; and reinstallation or installation of 
+reinforcing clamps on certain strut ends. We are issuing this AD to 
+detect and correct cracked support strut body ends of the THS, which 
+could lead to the loss of all four THS support struts, making the 
+remaining structure unable to carry limit loads, resulting in the loss 
+of the horizontal tail plane.
+
+DATES: This AD becomes effective December 28, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of December 28, 
+2015.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-1043 or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS, 
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+1043.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A330-200, 
+A330-200 Freighter, and A330-300 series airplanes; and Model A340-200 
+and A340-300 series airplanes. The NPRM published in the Federal 
+Register on January 23, 2015 (80 FR 3510). The NPRM was prompted by 
+reports of cracked support strut body ends at a certain frame location 
+of the THS. The NPRM proposed to require repetitive inspections for 
+cracking of the strut ends of the THS support located at a certain 
+frame in the tail cone, and replacement if necessary; and 
+reinstallation or installation of reinforcing clamps on certain strut 
+ends. We are issuing this AD to detect and correct cracked support 
+strut body ends of the THS, which could lead to the loss of all four 
+THS support struts, making the remaining structure unable to carry 
+limit loads, resulting in the loss of the horizontal tail plane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0068, dated March 18, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A330-200, A330-200 Freighter, and A330-300 series airplanes; and Model 
+A340-200 and A340-300 series airplanes. The MCAI states:
+
+    During scheduled maintenance on A330 aeroplanes, several 
+Trimmable Horizontal Stabilizer (THS) support struts at frame (FR) 
+91 were found cracked at strut body ends.
+    The THS is supported and articulated at FR 91 by four struts to 
+fix the hinges (Y-bolts) and keep the structural integrity in 
+lateral direction.
+    Analysis revealed that cracks can reduce ability of the support 
+struts to carry specified tension loads.
+    This condition, if not detected and corrected, could lead to the 
+loss of all four
+
+[[Page 72570]]
+
+THS support struts at FR91, which would make the remaining structure 
+unable to carry limit loads, resulting in the loss of Horizontal 
+Tail Plane.
+    A340-500/600 aeroplanes are not affected by this [EASA] AD as 
+different material is used on THS support struts.
+    To address this potentially unsafe condition, EASA issued AD 
+2013-0076 [http://ad.easa.europa.eu/blob/easa_ad_2013_0076_superseded.pdf/AD_2013-0076_1] to require 
+repetitive special detailed inspections [high frequency eddy current 
+(HFEC) inspections for cracking] of all 8 strut ends of the THS 
+support located at FR91 in the tail cone and, depending on findings, 
+replacement of THS support struts. That [EASA] AD also required, for 
+aeroplanes on which Airbus Modification 203493 had not been embodied 
+in production, or Airbus Service Bulletin (SB) A330-53-3204 or SB 
+A340-53-4199, as applicable, has not been embodied in service, the 
+installation of a clamping device on each support strut end to stop 
+growth of possible cracks (crack stopper function) in order to 
+secure integrity of the struts.
+    Since issuance of EASA AD 2013-0076 [http://ad.easa.europa.eu/blob/easa_ad_2013_0076_superseded.pdf/AD_2013-0076_1], it has been 
+discovered that several aeroplanes are fitted with another strut 
+configuration (SARMA Strut) [Societ[eacute] Anonyme de Recherche 
+M[eacute]canique Appliqu[eacute]e] than the TAC (Technical Airborne 
+Components Industries) strut, which caused the other strut not to be 
+considered. Consequently, Airbus revised Airbus SB A330-53-3206 and 
+SB A340-53-4208, accordingly in order to add a one-time [HFEC] 
+inspection [for cracking] for SARMA struts and in case of finding to 
+replace it with a TAC strut and thereafter to accomplish repetitive 
+inspections and EASA issued AD 2013-0219 [http://ad.easa.europa.eu/blob/easa_ad_2013_0219_superseded.pdf/AD_2013-0219_1], which is 
+superseded, and required accomplishment of the instructions as 
+specified in the latest revision of each SB, as applicable.
+    Since issuance of EASA AD 2013-0219 [http://ad.easa.europa.eu/blob/easa_ad_2013_0219_superseded.pdf/AD_2013-0219_1], based on the 
+reporting received from operators, it has been determined that 
+repetitive inspections are also to be accomplished for aeroplanes 
+equipped with SARMA strut. Airbus introduced that inspection in the 
+applicable SB at revision 3.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2013-0219, which is superseded, and requires 
+accomplishment of repetitive [HFEC] inspective inspection [for 
+cracking] for aeroplanes equipped with SARMA strut.
+    This [EASA] AD is considered as an interim action, pending the 
+development of a terminating action.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2014-1043-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (80 
+FR 3510, January 23, 2015) and the FAA's response to each comment.
+
+Request To Add Inspection for Identifying Struts
+
+    Delta Air Lines, Inc. (DAL) requested that we add a physical 
+inspection to paragraph (g) of the proposed AD (80 FR 3510, January 23, 
+2015) to distinguish a Societ[eacute] Anonyme de Recherche 
+M[eacute]canique Appliqu[eacute]e (SARMA) strut from a Technical 
+Airborne Components Industries (TAC) strut. DAL stated that paragraph 
+(g) of the proposed AD only identifies the dimensional diameter of 
+SARMA struts; however, DAL stated that both TAC and SARMA struts have 
+the same manufacturer part numbers but have different rod end 
+diameters. DAL suggested language for doing a physical inspection of 
+the strut end of each support strut for identification purposes.
+    We agree that a physical inspection is necessary to determine the 
+rod end diameter in order to distinguish between SARMA and TAC struts. 
+However, that inspection is optional. Paragraph (g) of this AD defines 
+SARMA struts as having a diameter that is less than 43 millimeters, and 
+states that all other struts are TAC struts. Paragraph (h) of this AD 
+requires inspecting TAC struts. Thus, operators must inspect all struts 
+unless the strut is inspected to determine the diameter is less than 43 
+millimeters, i.e., it is a SARMA strut. We have not changed this AD in 
+this regard.
+
+Request To Include Airbus Modification 203834 for Installing Reinforced 
+Clamps
+
+    DAL requested that we revise paragraph (h) of the proposed AD (80 
+FR 3510, January 23, 2015) to include Airbus Modification 203834 as an 
+optional modification for installation of the reinforced clamps. DAL 
+stated that Airbus has confirmed that Airbus Modification 203834 
+installs the same reinforced clamps as Airbus Modification 203493 
+specified in paragraph (h) of the proposed AD.
+    We agree with the commenter's request. The FAA has approved two 
+Airbus modifications for installing the reinforced clamps into 
+production airplanes: Modification 203493 for airplanes having 
+manufacturer serial number (MSN) 1466 to 1509 inclusive, and 
+Modification 203834 for airplanes having MSN 1510 and on. Modification 
+203834 supersedes Modification 203493, and the first airplane delivered 
+with Modification 203834 installed was MSN 1511.
+    Thus, operators may have the two populations of airplanes: Those 
+with Modification 203834 and those with Modification 203493. This AD 
+must address both groups of airplanes accordingly. We have revised 
+paragraph (h) of this AD to specify that, for airplanes on which Airbus 
+Modification 203493 or 203834 has been embodied in production; or on 
+which Airbus Service Bulletin A330-53-3204 or Airbus Service Bulletin 
+A340 53-4199, as applicable; has been embodied in service, remove the 
+clamp from each strut end before accomplishing the inspections required 
+by paragraph (h) of this AD.
+
+Request To Include Additional Service Information
+
+    DAL requested that we revise paragraphs (j)(1), (j)(2), and (l) of 
+the proposed AD (80 FR 3510, January 23, 2015) to include Airbus 
+Service Bulletin A330-53-3204. DAL stated that, when clamps were not 
+previously installed, Airbus Service Bulletin A330-53-3204 becomes the 
+source document for installing the clamps.
+    We agree that Airbus Service Bulletin A330-53-3204, Revision 03, 
+dated February 28, 2014, is an appropriate source of service 
+information for installing clamps. However, we do not agree to revise 
+this AD because that service information is already referenced in 
+Airbus Service Bulletin A330-53-3206, Revision 03, dated February 28, 
+2014, which is referred to as one of the appropriate sources of service 
+information for the actions required by paragraphs (j)(1), (j)(2), and 
+(l) of this AD. As specified in the Accomplishment Instructions of 
+Airbus Service Bulletin A330-53-3206, Revision 03, dated February 28, 
+2014., ``if no clamps were previously installed, accomplish Service 
+Bulletin A330-53-3204 before next flight, to install them.'' Therefore, 
+no change to this AD is necessary in this regard.
+
+Request To Clarify Flight With Cracking
+
+    DAL requested that we clarify/confirm that the NPRM (80 FR 3510, 
+January 23, 2015) will apply more strict replacement criteria when 
+cracks are found than what is currently published in Airbus Service 
+Bulletin A330-53-3206, Revision 03, dated February 28, 2014. DAL stated 
+that Subtask 533206-280-201-001 of Airbus Service Bulletin A330-53-
+3206, Revision 03, dated February 28, 2014, contains instructions
+
+[[Page 72571]]
+
+to allow continued operation of the airplane with small crack findings 
+without immediate strut replacement.
+    We agree. In the ``Differences Between this Proposed AD and the 
+MCAI or Service Information'' section of the NPRM (80 FR 3510, January 
+23, 2015), we stated that ``Although EASA Airworthiness Directive 2014-
+0068, dated March 18, 2014, Airbus Service Bulletin A330-53-3206, 
+Revision 03, dated February 28, 2014, and Airbus Service Bulletin A340-
+53-4208, Revision 03, dated February 28, 2014, allow further flight 
+after certain cracks are found during compliance with the proposed 
+action, paragraph (j)(2) of this AD would require that any cracked THS 
+support strut be replaced with a new or serviceable TAC strut before 
+further flight.'' No change to this AD is necessary in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 3510, January 23, 2015) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 3510, January 23, 2015).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Interim Action
+
+    We consider this AD interim action. If final action is later 
+identified, we might consider further rulemaking then.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following service information.
+     Airbus Service Bulletin A330-53-3206, Revision 03, dated 
+February 28, 2014. This service information describes procedures for 
+inspections for cracking of the strut ends of the THS support located 
+in the airplane tail cone.
+     Airbus Service Bulletin A340-53-4208, Revision 03, dated 
+February 28, 2014. This service information describes procedures for 
+inspections for cracking of the strut ends of the THS support located 
+in the airplane tail cone.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 84 airplanes of U.S. registry.
+    We also estimate that it will take about 9 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $64,260, or $765 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition replacement specified in this AD.
+    We estimate that any necessary follow-on strut reinforcements will 
+take about 2 work-hours and require parts costing $5,680, for a cost of 
+$5,850 per product. We have no way of determining the number of 
+aircraft that might need this action.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-1043; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2015-23-05 Airbus: Amendment 39-18321. Docket No. FAA-2014-1043; 
+Directorate Identifier 2013-NM-079-AD.
+
+(a) Effective Date
+
+    This AD becomes effective December 28, 2015.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), and (c)(3) of this AD, certificated in any category, 
+all manufacturer serial numbers.
+    (1) Airbus Model A330-201, -202, -203, -223, -223F, -243, and -
+243F airplanes.
+
+[[Page 72572]]
+
+    (2) Airbus Model A330-301, -302, -303, -321, -322, -323, -341, -
+342, and -343 airplanes.
+    (3) Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by reports of cracked support strut body 
+ends at a certain frame location of the trimmable horizontal 
+stabilizer (THS). We are issuing this AD to detect and correct 
+cracked support strut body ends of the THS, which could lead to the 
+loss of all four THS support struts and which would make the 
+remaining structure unable to carry limit loads, resulting in the 
+loss of the horizontal tail plane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of Strut Types
+
+    For the purpose of this AD, a Societ[eacute] Anonyme de 
+Recherche M[eacute]canique Appliqu[eacute]e (SARMA) strut is a strut 
+on which the diameter of the strut end is less than 43 millimeters. 
+All other struts are Technical Airborne Components Industries (TAC) 
+struts.
+
+(h) Repetitive Inspections of TAC Strut Ends
+
+    At the applicable time specified in paragraph (i) of this AD, do 
+a high frequency eddy current (HFEC) inspection for cracking of all 
+TAC strut ends of the THS support located at frame (FR) 91 in the 
+tail cone, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-53-3206, Revision 03, dated February 
+28, 2014; or Airbus Service Bulletin A340-53-4208, Revision 03, 
+dated February 28, 2014; as applicable. Repeat the inspection 
+thereafter at intervals not to exceed 42 months or 20,000 flight 
+hours, whichever occurs first. For airplanes on which Airbus 
+Modification 203493 or 203834 has been embodied in production, or 
+Airbus Service Bulletin A330-53-3204 or Airbus Service Bulletin 
+A340-53-4199, as applicable, has been embodied in service, remove 
+the clamp from each strut end before accomplishing the inspections 
+required by this paragraph.
+
+(i) Compliance Times for the Actions Required by Paragraphs (h) and (k) 
+of This AD
+
+    Do the inspections required by paragraphs (h) and (k) of this AD 
+at the applicable times specified in paragraphs (i)(1), (i)(2), and 
+(i)(3) of this AD.
+    (1) For Model A330 series airplanes having manufacturer serial 
+numbers 012 through 209 inclusive, and Model A340 series airplanes 
+having manufacturer serial numbers 002 through 210 inclusive: Within 
+6 months after the effective date of this AD.
+    (2) For Model A330 series airplanes having manufacturer serial 
+numbers 211 through 422 inclusive, and Model A340 series airplanes 
+having manufacturer serial numbers 212 through 447 inclusive: Within 
+24 months after the effective date of this AD.
+    (3) For Model A330 series airplanes having manufacturer serial 
+numbers 423 and subsequent, and Model A340 series airplanes having 
+manufacturer serial numbers 450 through 955 inclusive: Within 36 
+months after the effective date of this AD or since the first flight 
+of the airplane, whichever occurs later.
+
+(j) Corrective Action for TAC Strut Ends and Installation of 
+Reinforcing Clamps
+
+    (1) If, during any inspection required by paragraph (h) of this 
+AD, no cracks are found: Before further flight, reinstall or 
+install, as applicable, reinforcing clamps on the strut ends, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-53-3206, Revision 03, dated February 28, 2014; or 
+Airbus Service Bulletin A340-53-4208, Revision 03, dated February 
+28, 2014; as applicable.
+    (2) If, during any inspection required by paragraph (h) of this 
+AD, any crack is found: Before further flight, replace any affected 
+strut with a new or serviceable TAC strut and install reinforcing 
+clamps on the strut end, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-53-3206, Revision 03, 
+dated February 28, 2014; or Airbus Service Bulletin A340-53-4208, 
+Revision 03, dated February 28, 2014; as applicable.
+
+(k) Repetitive Inspections of SARMA Strut Ends
+
+    At the applicable time specified in paragraph (i) of this AD, do 
+an HFEC inspection for cracking of all SARMA strut ends of the THS 
+support located at FR 91 in the tail cone, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-53-3206, 
+Revision 03, dated February 28, 2014; or Airbus Service Bulletin 
+A340-53-4208, Revision 03, dated February 28, 2014; as applicable. 
+Repeat the inspection thereafter at intervals not to exceed 12 
+months.
+
+(l) Corrective Action for SARMA Strut Ends
+
+    If any crack is found on a strut end during the inspection 
+required by paragraph (k) of this AD: Before further flight, replace 
+any affected SARMA strut with a new or serviceable TAC strut and 
+install reinforcing clamps on the strut end, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-53-3206, 
+Revision 03, dated February 28, 2014; or Airbus Service Bulletin 
+A340-53-4208, Revision 03, dated February 28, 2014; as applicable.
+
+(m) No Terminating Action
+
+    Replacement of THS struts on an airplane does not constitute 
+terminating action for the repetitive inspections required by this 
+AD.
+
+(n) No Reporting
+
+    Although Airbus Service Bulletin A330-53-3206, Revision 03, 
+dated February 28, 2014; and Airbus Service Bulletin A340-53-4208, 
+Revision 03, dated February 28, 2014; specify to submit certain 
+information to the manufacturer, this AD does not include that 
+requirement.
+
+(o) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g), (h), (j), and (k) of this AD, if those actions were 
+performed before the effective date of this AD using any of the 
+service information identified in paragraphs (n)(1) through (n)(6) 
+of this AD. This service information is not incorporated by 
+reference in this AD.
+    (1) Airbus Service Bulletin A330-53-3206, dated February 7, 
+2013.
+    (2) Airbus Service Bulletin A330-53-3206, Revision 01, dated 
+June 10, 2013.
+    (3) Airbus Service Bulletin A330-53-3206, Revision 02, dated 
+August 8, 2013.
+    (4) Airbus Service Bulletin A340-53-4208, dated February 7, 
+2013.
+    (5) Airbus Service Bulletin A340-53-4208, Revision 01, dated 
+June 10, 2013.
+    (6) Airbus Service Bulletin A340-53-4208, Revision 02, dated 
+August 8, 2013.
+
+(p) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(q) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0068, dated March 18, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-
+2014-1043-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (r)(3) and (r)(4) of this AD.
+
+(r) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+[[Page 72573]]
+
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-53-3206, Revision 03, dated 
+February 28, 2014.
+    (ii) Airbus Service Bulletin A340-53-4208, Revision 03, dated 
+February 28, 2014.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+     Issued in Renton, Washington, on October 30, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-28895 Filed 11-19-15; 8:45 am]
+ BILLING CODE 4910-13-P

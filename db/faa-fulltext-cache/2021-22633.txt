@@ -1,0 +1,426 @@
+[Federal Register Volume 86, Number 198 (Monday, October 18, 2021)]
+[Rules and Regulations]
+[Pages 57552-57555]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-22633]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-0876; Project Identifier MCAI-2021-01031-T; 
+Amendment 39-21767; AD 2021-21-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-841 and A330-941 airplanes. This AD was prompted 
+by a report of incorrect take-off computations for crosswinds above 20 
+knots. This AD requires amending the existing aircraft flight manual 
+(AFM), as specified in a European Union Aviation Safety Agency (EASA), 
+which is incorporated by reference. The
+
+[[Page 57553]]
+
+FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD becomes effective November 2, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 2, 
+2021.
+    The FAA must receive comments on this AD by December 2, 2021.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For material incorporated by reference (IBR) in this AD, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; internet www.easa.europa.eu. You 
+may find this IBR material on the EASA website at https://ad.easa.europa.eu. You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2021-0876.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2021-0876; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this AD, the mandatory 
+continuing airworthiness information (MCAI), any comments received, and 
+other information. The street address for Docket Operations is listed 
+above.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+Large Aircraft Section, FAA, International Validation Branch, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3229; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+ADDRESSES. Include ``Docket No. FAA-2021-0876; Project Identifier MCAI-
+2021-01031-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+https://www.regulations.gov, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to 
+Vladimir Ulyanov, Aerospace Engineer, Large Aircraft Section, FAA, 
+International Validation Branch, 2200 South 216th St., Des Moines, WA 
+98198; telephone and fax 206-231-3229; email [email protected]. 
+Any commentary that the FAA receives which is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2021-0210, dated September 16, 2021 
+(EASA AD 2021-0210) (also referred to as the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model A330-841 and A330-941 
+airplanes.
+    This AD was prompted by a report of incorrect take-off computations 
+for crosswinds above 20 knots in a certain AFM. The FAA is issuing this 
+AD to address substantially reduced take-off performance in crosswind 
+conditions above 20 knots, possibly resulting in a runway overrun, in 
+the event of continued takeoff following an engine failure or a 
+rejected takeoff, with consequent damage to the airplane and injury to 
+occupants. See the MCAI for additional background information.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2021-0210 specifies procedures for amending the existing 
+AFM to include revised aircraft performance databases for performance 
+calculations for crosswind above 20 knots. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by EASA and are approved for 
+operation in the United States. Pursuant to the FAA's bilateral 
+agreement with the European Union, EASA has notified the FAA of the 
+unsafe condition described in the MCAI described above. The FAA is 
+issuing this AD after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of these 
+same type designs.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2021-0210 described previously, except for any differences identified 
+as exceptions in the regulatory text of this AD.
+    EASA AD 2021-0210 requires operators to ``inform all flight crews'' 
+of revisions to the AFM, and thereafter to ``operate the aeroplane 
+accordingly.'' However, this AD would not specifically require those 
+actions as those actions are already required by FAA regulations. FAA 
+regulations require operators to furnish to pilots any changes to the 
+AFM (for example, 14 CFR 121.137), and to ensure that the pilots are 
+familiar with the AFM (for example, 14 CFR 91.505). As with any other 
+flightcrew training requirement, training on the updated AFM content is 
+tracked by the operators and recorded in each pilot's training record, 
+which is available for the FAA to review. FAA regulations also require 
+pilots to follow the procedures in the existing AFM including all 
+updates. 14 CFR 91.9 requires that any person operating a
+
+[[Page 57554]]
+
+civil aircraft must comply with the operating limitations specified in 
+the AFM.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, 
+EASA AD 2021-0210 is incorporated by reference in this AD. This AD 
+requires compliance with EASA AD 2021-0210 in its entirety through that 
+incorporation, except for any differences identified as exceptions in 
+the regulatory text of this AD. Using common terms that are the same as 
+the heading of a particular section in EASA AD 2021-0210 does not mean 
+that operators need comply only with that section. For example, where 
+the AD requirement refers to ``all required actions and compliance 
+times,'' compliance with this AD requirement is not limited to the 
+section titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 
+2021-0210. Service information required by EASA AD 2021-0210 for 
+compliance will be available at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2021-0876 after this AD is 
+published.
+
+FAA's Justification and Determination of the Effective Date
+
+    Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 
+U.S.C. 551 et seq.) authorizes agencies to dispense with notice and 
+comment procedures for rules when the agency, for ``good cause,'' finds 
+that those procedures are ``impracticable, unnecessary, or contrary to 
+the public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies foregoing notice and comment prior to adoption of this rule 
+because incorrect take-off computations for crosswinds above 20 knots 
+could result in substantially reduced take-off performance in those 
+conditions, possibly resulting in a runway overrun, in the event of 
+continued takeoff following an engine failure or rejected takeoff, with 
+consequent damage to the airplane and injury to occupants. Accordingly, 
+notice and opportunity for prior public comment are impracticable and 
+contrary to the public interest pursuant to 5 U.S.C. 553(b)(3)(B).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forego notice and 
+comment.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 11 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                   Cost  per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............................              $0              $85             $935
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-21-07 Airbus SAS: Amendment 39-21767; Docket No. FAA-2021-0876; 
+Project Identifier MCAI-2021-01031-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective November 2, 2021.
+
+(b) Affected ADs
+
+    None.
+
+[[Page 57555]]
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS Model A330-841 and A330-941 
+airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 34, Navigation.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of incorrect take-off 
+computations for crosswinds above 20 knots. The FAA is issuing this 
+AD to address substantially reduced take-off performance in 
+crosswind conditions above 20 knots, possibly resulting in a runway 
+overrun, in the event of continued takeoff following an engine 
+failure or rejected takeoff, with consequent damage to the airplane 
+and injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2021-0210, dated September 16, 2021 (EASA AD 2021-0210).
+
+(h) Exceptions to EASA AD 2021-0210
+
+    (1) Where EASA AD 2021-0210 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where paragraph (1) of EASA AD 2021-0210 specifies amending 
+the aircraft flight manual (AFM), this AD requires replacing the 
+text ``implement the aircraft performance database by introducing 
+the AFM DU [Documentary Unit]'' with ``amend the applicable existing 
+AFM and applicable corresponding operational procedures by 
+incorporating the AFM DU.''
+    (3) Whereas paragraph (1) of EASA AD 2021-0210 specifies to 
+``inform all flight crews, and, thereafter, operate the aeroplane 
+accordingly,'' this AD does not require those actions as those 
+actions are already required by existing FAA operating regulations.
+    (4) The ``Remarks'' section of EASA AD 2021-0210 does not apply 
+to this AD.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (j) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, Large Aircraft Section, FAA, International 
+Validation Branch, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2021-0210, 
+dated September 16, 2021.
+    (ii) [Reserved]
+    (3) For EASA AD 2021-0210, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on October 7, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-22633 Filed 10-14-21; 11:15 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0193
+
+Airworthiness Directive
+
+AD No.: 2025-0193
+
+Issued: 08 September 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A320 and A321 aeroplanes
+
+Effective Date: 22 September 2025 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 53 – Fuselage – Forward and Aft Upper Corner Bulk Cargo Door Section 16 and 17 – Inspection / Modification
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, all manufacturer serial number (MSN) on which Airbus modification (mod) 31020 and mod 20029 where embodied in production; and A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232, all MSN on which Airbus mod 31213 was embodied in production; except those aeroplanes on which Airbus mod 25354 (for A320 aeroplanes) or Airbus mod 22992 (for A321 aeroplanes) or Airbus mod 152637 (for A320 and A321) was embodied in production; operated or to be operated in Extended Service Goal (ESG). Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0193
+
+Definitions: For the purpose of this AD, the following definitions apply: The affected area: Fastener holes at the forward and aft upper corner of the bulk cargo door at section 16 and 17, both left-hand (LH) and right-hand (RH) sides, as defined in the SB. The SB: Airbus Service Bulletin (SB) A320-53-1303.
+
+Reason: During a fatigue test on an A320 aeroplane in frame of the ESG campaign, cracks were identified in the affected area. This condition, if not detected and corrected, could affect the structural integrity of the aeroplane. To address this potential unsafe condition, Airbus issued the SB to provide inspection and modification instructions of the affected area. For the reason described above, this AD requires, for aeroplanes to be operated or operating in ESG, inspection, and, depending on findings, accomplishment of corrective actions or modification (cold working) of the affected area.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Note 1: The following actions mandated by this AD are only applicable for aeroplanes operated or to be operated in ESG, hence the chosen threshold that allows aeroplanes that will not operate in ESG to reach its certified design goal (either Design Service Goal (DSG) or Intermediate Service Goal (ISG)) without reaching the AD threshold as defined in paragraph (1) of this AD. Inspection: (1) Before exceeding 96 000 flight hours or 48 000 flight cycles, whichever occurs first since aeroplane first flight, accomplish a rototest inspection of the affected area in accordance with the instructions of the SB. Corrective Action(s): (2) If during the inspection, as required by paragraph (1) of this AD, any crack is detected, before next flight, contact Airbus for approved repair instructions and, within the compliance time specified therein, accomplish those instructions accordingly. Modification: (3) If, during the inspection as required by paragraph (1) of this AD, no crack is detected, before next flight, modify the affected area in accordance with the instructions of the SB. Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0193
+
+Ref. Publications: Airbus SB A320-53-1303 original issue dated 07 March 2025. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 16 July 2025 as PAD 25-105 for consultation until 13 August 2025. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

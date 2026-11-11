@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0068
+
+Airworthiness Directive
+
+AD No.: 2016-0068
+
+Issued: 11 April 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 25 April 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 78 – Exhaust – Thrust Reverser Pivot Fitting – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A319-111, A319-112, A319-113, A319-114, A319-115, A320-211, A320-212, A320-214, A320-215, A320-216, A321-111, A321-112, A321-211, A321-212 and A321-213 aeroplanes, all manufacturer serial numbers.
+
+Reason: Several operators reported several cracks found, during an unscheduled inspection, on the 3 o’clock and 9 o’clock pivot fittings of the thrust reverser (T/R) on one CFM56 engine. The affected fitting Part Number (P/N) is 321-200-853-6 for the 3 o’clock fitting, and P/N 321-200-803-6 for the 9 o’clock fitting. Investigation results revealed that these cracks were caused by a combination of stress and fatigue effects. Further analysis determined that only aeroplanes fitted with CFM56-5A or CFM56-5B series engines could be affected by this issue. This condition, if not detected and corrected, could lead to T/R malfunction and, in a case of rejected take off at V1 on a wet runway, a consequent runway excursion, possibly resulting in damage to the aeroplane and injury to occupants. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0068 For the reasons described above, this AD requires repetitive inspections of the T/R pivot fittings at the 3 o’clock and 9 o’clock positions and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: (1) Initially, within the compliance time as defined in Table 1 of this AD, and, thereafter, at intervals not to exceed 60 months or 12 000 flight cycles (FC), whichever occurs first, on each engine accomplish a High Frequency Eddy Current (HFEC) inspection of T/R pivot fittings P/N 321-200-853-6 (3 o’clock position) and P/N 321-200-803-6 (9 o’clock position) in accordance with the instructions of Airbus Service Bulletin (SB) A320-70-1003 Revision 01. Table 1 – Inspection Threshold Compliance Time (whichever occurs later, A or B) Within 10 years or 24 000 FC, whichever occurs A first, accumulated by the T/R since its first installation on an aeroplane Within 36 months or 7 200 FC, whichever occurs B first after the effective date of this AD (2) If no reliable maintenance records are available to identify the FC accumulated since first installation, and the age of a T/R, the initial inspection required by paragraph (1) of this AD must be accomplish within 36 months or 7 200 FC, whichever occurs first after the effective date of this AD. (3) If, during any HFEC inspection as required by paragraph (1) of this AD, corrosion is found, before next flight, apply corrective actions in accordance with the instructions of Airbus SB A320-70-1003 Revision 01. (4) If, during any HFEC inspection as required by paragraph (1) of this AD, any crack is found, before next flight, apply corrective actions in accordance with the instructions of Airbus SB A320-70-1003 Revision 01. (5) Accomplishment of corrective actions on an aeroplane, as required by paragraph (3) and (4) of this AD, does not constitute terminating action for the repetitive inspections as required by paragraph (1) of this AD for that aeroplane, unless specified otherwise. (6) Inspections and corrective actions, accomplished before the effective date of this AD in accordance with the instructions of Airbus SB A320-70-1003 at original issue, are acceptable to comply with the initial requirements of this AD. (7) From the effective date of this AD, it is allowed to install on an aeroplane a T/R pivot fitting P/N 321-200-853-6 (3 o’clock position) or P/N 321-200-803-6 (9 o’clock position), provided it is determined, prior to installation, that the T/R pivot fitting is a serviceable unit (see Note). Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0068 Note: For the purpose of this AD, a T/R pivot fitting P/N 321-200-853-6 or P/N 321-200-803-6 is a serviceable unit if it has accumulated less than 10 years and less than 24 000 FC since its first installation on an aeroplane, or if it has accumulated less than 60 months and less than 12 000 FC after having passed an inspection in accordance with the instructions of Airbus SB A320-70-1003, or in accordance with the instructions of UTAS Aerostructures SB RA32078-137.
+
+Ref. Publications: Airbus SB A320-70-1003, original issue dated 07 May 2014, or Revision 01 dated 28 December 2015. UTAS Aerostructures SB RA32078-137 original issue dated 29 April 2014, or Revision 01 dated 26 January 2015, or Revision 02 dated 2 December 2015, or Revision 03 dated 14 March 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 29 February 2016 as PAD 16-032 for consultation until 28 March 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

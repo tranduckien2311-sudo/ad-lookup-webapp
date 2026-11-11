@@ -1,0 +1,38 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0117
+
+Airworthiness Directive
+
+AD No.: 2017-0117
+
+Issued: 07 July 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. D Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320, and A321 aeroplanes E
+
+Effective Date: 21 July 2017 TCDS Number(s): EASA.A.064 D Foreign AD: Not applicable Revision: None E
+
+ATA 57 – Wing – Stringer Attachments at Rib 2 to Rib 7 – Modification S
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) R
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, E A321-231 and A321-232 aeroplanes, all manufacturer serial numbers, except: - A318 aeroplanes on which Airbus modification (mod) 39195 or Service Bulletin (SB) A320-00-1219 has been embodied. P - A319 aeroplanes on which Airbus mod 28238 and mod 28162 and mod 28342 have been embodied.
+
+Reason: U Within the scope of work of service life extension for A320 aeroplanes and of widespread fatigue damage evaluations, it has been determined that a structural modification is required to allow the aeroplanes to continue operation up to the limit of validity (LoV). S This condition, if not corrected, may affect the structural integrity of the wing. Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0117 To address this potential unsafe condition, Airbus issued SB A320-57-1208, providing instructions to oversize the holes of the upper cleat to upper stringer attachments at Rib 2 to Rib 7 (inclusive). For the reason described above, this AD requires modification of affected holes.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification and Inspections (1) Within the upper limit as defined in Table 1 of this AD, but not before the lower limit as defined in Table 1 of this AD, as applicable, modify the aeroplane by accomplishing the oversizing of the affected holes on both left hand and right hand sides, as identified in, and in accordance with D the instructions of, Airbus SB A320-57-1208 (see Note 1 of this AD). Note 1: For the purpose of this AD, modification of an affected hole includes an Eddy Current E Inspection (ECI) of that affected hole in accordance with the instructions of Airbus SB A320-57-1208. Table 1 – Window of Embodiment (Flight Hours (FH) or Flight Cycles (FC), whichever occurs first since aeroplane first flight) D Lower Limit Upper Limit Aeroplane FH FC FH FC E A318-100 All 94 000 47 000 159 200 79 600 A319-100 94 000 47 000 159 200 79 600 Pre mod 160001 and S pre SB A320-57-1193 A320-200 94 000 47 000 159 200 79 600 A319-100 52 260 26 130 101 610 50 805 Post mod 160001 or post SB A320-57-1193 A320-200 52 260 26 130 101 610 50 805 R A321-100 101 200 50 600 148 300 74 100 Pre mod 160021 A321-200 101 200 50 600 148 300 74 100 E A321-200 Post mod 160021 44 796 22 398 112 808 56 404 Corrective Action P (2) If, during any ECI as required by paragraph (1) of this AD (see Note 1 of this AD), any damage is found, before next flight, contact Airbus for approved corrective action instructions and, within the compliance time specified in those instructions, accomplish the instructions accordingly. U
+
+Ref. Publications: Airbus SB A320-57-1208 original issue dated 21 November 2016. S The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0117
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 07 June 2017 as PAD 17-068 for consultation until 05 July 2017. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; D E-mail: account.airworth-eas@airbus.com. E D E S R E P U S Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

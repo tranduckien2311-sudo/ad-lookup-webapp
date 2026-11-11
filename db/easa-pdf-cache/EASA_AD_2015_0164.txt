@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0164 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2015-0164 Date: 10 August 2015 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EU 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EU 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A321 aeroplanes TCDS Number: EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None Equipment / Furnishings – Overhead Stowage Compartment
+
+ATA 25 Attachments – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A321-211 and A321-231 aeroplanes, manufacturer serial numbers 3191, 3217, 3241, 3251, 3267, 3334, 3459, 3493, 3507, 3552, 3566, 3587, 3645, 3681, 3764, 3784, 3847, 3867, 3920, 3934, 3938, 3951, 3981, 4058, 4074, 4099, 4103, 4116, 4148, 4184, 4189, 4194, 4217, 4224, 4230, 4266, 4271, 4274, 4292, 4299, 4338, 4341, 4369, 4387, 4416, 4430, 4461 and 4500.
+
+Reason: The overhead stowage compartments (OHSC), located at Frame 47.2 left-hand (LH) and right-hand (RH) side of the fuselage in certain aeroplanes, are currently installed with a flat headed pin at the upper attachment point. The pin passes through the OHSC upper attachment hole, then through the upper attachment fitting, and is secured by a split ring through the pin. A design review identified a risk that the OHSC attachment may not sustain the maximal loads for each flight phase, over the aeroplane life. This condition, if not corrected, could lead to OHSC detachment during flight, possibly resulting in injury to cabin crew or passengers. To address this potential unsafe condition, Airbus defined a new attachment design to secure the OHSC attachment in all the flight phases over the aeroplane life. Airbus issued Service Bulletin (SB) A320-25-1852 to provide modification instructions. For the reason described above, this AD requires modification of the affected OHSC attachments.
+
+Effective Date: 24 August 2015 TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0164 Required Action(s) Required as indicated, unless accomplished previously: and Compliance Within 9 months after the effective date of this AD, modify the attachments of Time(s): the affected OHSC by replacing each pin and split ring with a bolt, washer and nut in accordance with the instructions of Airbus SB A320-25-1852.
+
+Ref. Publications: Airbus SB A320-25-1852 original issue dated 24 September 2012. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 24 June 2015 as PAD 15-088 for consultation until 22 July 2015. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

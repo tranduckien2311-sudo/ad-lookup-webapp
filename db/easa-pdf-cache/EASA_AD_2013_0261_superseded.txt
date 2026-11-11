@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2013-0261 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2013-0261 Date: 28 October 2013 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes TCDS Number: EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None Fuselage – Side Box Beam Flange in Frame 43 Area – Inspection /
+
+ATA 53 Repair / Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers on which Airbus modification (mod.) 21202 has been embodied in production, except those on which mod.152569 has been embodied in production.
+
+Reason: During the full scale fatigue test campaign of the A320 family type design, a crack was reported in the fuselage side box beam flange at frame (FR) 43 level, both sides. This condition, if not detected and corrected, could affect the structural integrity of the aeroplane. For the reason describe above, this AD requires repetitive inspections of the fuselage side box beam flange at FR43, and, depending on findings, corrective action(s). This AD also requires a modification, which constitutes terminating action for the repetitive inspections.
+
+Effective Date: 11 November 2013 TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2013-0261 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within the compliance time defined in Table 1 of this AD, as applicable, and Time(s): thereafter at intervals not to exceed 7 500 flight cycles (FC) or 15 000 flight hours (FH), whichever occurs first, accomplish a rototest inspection of Stiffener 15 side box beam flange on left hand and right hand sides in FR43 area in accordance with the instructions of Airbus SB A320-53-1258. Table 1 - Initial inspection Compliance time (whichever occurs later, A or B) Before exceeding 24 000 FC or 48 000 FH, whichever A occurs first since aeroplane first flight Within 3 000 FC or 6 000 FH, whichever occurs first after B the effective date of this AD (2) If, during any inspection as required by paragraph (1) of this AD, a crack is detected, before next flight, contact Airbus for approved repair instructions and accomplish those instructions accordingly. (3) Before exceeding 48 000 FC or 96 000 FH, whichever occurs first since aeroplane first flight, modify the aeroplane in accordance with the instructions of Airbus SB A320-53-1251. (4) Modification of an aeroplane as required by paragraph (3) of this AD constitutes terminating action for the repetitive inspections required by paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus SB A320-53-1258 original issue, dated 18 October 2012. Airbus SB A320-53-1251 original issue, dated 16 November 2012, or Revision 01, dated 18 October 2013. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 04 February 2013 as PAD 13-025 for consultation until 04 March 2013, and re-published on 04 September 2013 for additional consultation until 02 October 2013. The Comment Response Document can be found at http://ad.easa.europa.eu/. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS - Airworthiness Office - EIAS. Fax +33 5 61 93 44 51. E-mail: account.airworth-eas@airbus.com. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

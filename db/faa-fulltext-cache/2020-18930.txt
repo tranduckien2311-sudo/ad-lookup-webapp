@@ -1,0 +1,496 @@
+[Federal Register Volume 85, Number 168 (Friday, August 28, 2020)]
+[Rules and Regulations]
+[Pages 53152-53156]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-18930]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0201; Product Identifier 2020-NM-007-AD; Amendment 
+39-21208; AD 2020-17-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A318-111, -112, -121, and -122 airplanes; 
+Model A319-111, -112, -113, -114, -115, -131, -132, and -133 airplanes; 
+Model A320-211, -212, -214, -216, -231, -232, and -233 airplanes; and 
+Model A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. 
+This AD was prompted by reports of fatigue cracks on continuity 
+fittings at the lower framing of the front windshield on airplanes on 
+which a certain production modification has been embodied. Additional 
+analysis showed that certain certification requirements for damage 
+tolerance and fatigue are not met on airplanes in a certain post-
+production modification configuration. This AD requires repetitive high 
+frequency eddy current (HFEC) inspections of the central node 
+windshield area for cracking, and applicable corrective actions if 
+cracking is found, as specified in a European Union Aviation Safety 
+Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 2, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 2, 
+2020.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability of 
+this material at the FAA, call 206-231-3195.
+
+[[Page 53153]]
+
+It is also available in the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0201.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0201; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0005, dated January 13, 2020 
+(``EASA AD 2020-0005'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A318-111, -112, -121, and -122 
+airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes; Model A320-211, -212, -214, -215, -216, -231, -232, and -233 
+airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, and 
+-232 airplanes. Model A320-215 airplanes are not certified by the FAA 
+and are not included on the U.S. type certificate data sheet; this AD 
+therefore does not include those airplanes in the applicability.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A318-111, -112, -121, and -122 airplanes; Model A319-111, -112, -
+113, -114, -115, -131, -132, and -133 airplanes; Model A320-211, -212, 
+-214, -216, -231, -232, and -233 airplanes; and Model A321-111, -112, -
+131, -211, -212, -213, -231, and -232 airplanes. The NPRM published in 
+the Federal Register on March 20, 2020 (85 FR 16011). The NPRM was 
+prompted by reports of fatigue cracks on continuity fittings at the 
+lower framing of the front windshield on airplanes on which a certain 
+production modification has been embodied. Additional analysis showed 
+that certain certification requirements for damage tolerance and 
+fatigue are not met on airplanes in a certain post-production 
+modification configuration. The NPRM proposed to require repetitive 
+HFEC inspections of the central node windshield area for cracking, and 
+applicable corrective actions if cracking is found, as specified in an 
+EASA AD.
+    The FAA is issuing this AD to address fatigue cracks on continuity 
+fittings at the lower framing of the front windshield on airplanes on 
+which Airbus Production Modification 22058 (which is included in Airbus 
+Modification 21999) has been embodied. Additional analysis showed that 
+certain certification requirements for damage tolerance and fatigue are 
+not met on airplanes in a post-production Modification 22058 
+configuration. The FAA is issuing this AD to address this condition, 
+which could lead to failure of the continuity fittings at the lower 
+node of the windshield central frame, possibly resulting in 
+decompression of the airplane and injury to occupants. See the MCAI for 
+additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comment received 
+on the NPRM and the FAA's response.
+
+Request To Allow Alternative Repair Methods
+
+    United Airlines requested that for the threshold inspection, 
+instead of using the inspection procedures specified in Airbus Service 
+Bulletin A320-53-1331, dated January 14, 2019 (``Airbus SB A320-53-
+1331''), the final rule allow operators to substitute previous repairs 
+done using the procedures in Airworthiness Limitation Item (ALI) task 
+531129 [special detailed inspection of center node continuity fittings 
+and windshield on the left-hand and right-hand sides] of the Airbus 
+Model A318/A319/A320/A321 Airworthiness Limitations Section (ALS), and 
+procedures for ongoing repairs that contain unique inspection programs, 
+which are described in Airbus SB A320-53-1331. The commenter stated 
+that this would prevent discrepancies when operators did threshold 
+inspections using the procedures described in Airbus SB A320-53-1331. 
+The commenter noted that the inspection procedures in Airbus SB A320-
+53-1331 are based on an assumption that the area of inspection has not 
+been repaired.
+    In addition, the commenter remarked that paragraph (2) of EASA AD 
+2020-0005 partially addresses the issue of inspections done in areas 
+that were previously repaired. The commenter pointed out that paragraph 
+(2) of EASA AD 2020-0005 addresses only the central lower node 
+continuity fittings but that the required inspection involves both the 
+windshield frame and central lower node continuity fittings. The 
+commenter explained that the central lower node fittings are a portion 
+of the general lower windshield frame attachment inspection area. The 
+commenter stated that it has airplanes with reinforcement repairs on 
+the windshield frame and that those repairs were developed by Airbus. 
+The commenter shared that the repair design approval sheet (RDAS) 
+provided by Airbus stated ``impact to ALI 531129'' since the repair 
+reinforced and covered the windshield frame pockets. The commenter 
+concluded that a new inspection method and inspection intervals were 
+defined in that RDAS.
+    Furthermore, the commenter noted that windshield replacement is a 
+substantial cost and burden to operators, and alternative repairs are 
+highly desirable to reduce the cost of a windshield frame and 
+continuity fitting repair.
+    Although the FAA acknowledges the commenter's concern about window 
+replacement costs, the agency disagrees with the commenter's request. 
+The FAA is not aware of a global RDAS, issued under Airbus SAS's EASA 
+Design Organization Approval, that is applicable to the entire U.S.-
+registered airplane fleet. The RDAS issued to United Airlines is 
+specific to the configuration of the airplanes in United Airlines' 
+fleet. Therefore, the FAA cannot revise corrective actions relative to 
+the unsafe condition identified in this AD for the entire U.S.-
+registered fleet based on the United Airlines' fleet configuration, 
+which was altered by certain previously approved repairs. Paragraph 
+(i)(1) of this AD states that operators may use the procedures found in 
+14 CFR 39.19 to request an alternative method of compliance (AMOC) if 
+an airplane's configuration does not allow compliance with the 
+requirements of an AD.
+    In addition, paragraph (7) of EASA AD 2020-0005 specifies that 
+accomplishment of inspections using ALI task 531129, as specified in 
+table 1 to paragraph (1) of EASA AD 2020-0005, is acceptable for 
+compliance with
+
+[[Page 53154]]
+
+the requirements of paragraph (1) of EASA AD 2020-0005 for only the 
+first inspection that is required after the effective date of that EASA 
+AD.
+    EASA, the State of Design Authority for these airplane models, 
+conducted a risk assessment, along with a cost benefit analysis, and 
+developed corrective actions that are required to mitigate the risk of 
+the unsafe condition addressed in EASA AD 2020-0005. The FAA finds that 
+the service information specified in EASA AD 2020-0005, including the 
+modification procedure in Airbus Service Bulletin A320-53-1329, dated 
+December 21, 2018 (``Airbus SB A320-53-1329''), is necessary to address 
+the unsafe condition. The purpose of the actions specified in Airbus SB 
+A320-53-1329 is to prevent cracks on the front windshield frame and 
+continuity fitting by installing reinforced parts. Therefore, the FAA 
+has not revised this AD regarding this issue.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comment 
+received, and determined that air safety and the public interest 
+require adopting this final rule as proposed, except for minor 
+editorial changes. The FAA has determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2020-0005 describes procedures for repetitive HFEC 
+inspections of the central node windshield area for cracking, and 
+applicable corrective actions if cracking is found. The corrective 
+actions include modification or repair. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,203 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                     Estimated Costs for Required Actions *
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+19 work-hours x $85 per hour = $1,615........................              $0           $1,615       $1,942,845
+----------------------------------------------------------------------------------------------------------------
+* Table does not include estimated costs for reporting.
+
+    The FAA estimates that it would take about 1 work-hour per product 
+to comply with the reporting requirement in this AD. The average labor 
+rate is $85 per hour. Based on these figures, the FAA estimates the 
+cost of reporting the inspection results on U.S. operators to be 
+$102,255, or $85 per product.
+    The FAA estimates the following costs to do any necessary on-
+condition modifications that would be required based on the results of 
+any required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition modifications:
+
+             Estimated Costs of On-Condition Modifications *
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+1,122 work-hours x $85 per hour =             $316,043         $411,413
+ $95,370..............................
+------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable the agency
+  to provide cost estimates for the on-condition repairs specified in
+  this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to 
+Information Collection Clearance Officer, Federal Aviation 
+Administration, 10101 Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+
+[[Page 53155]]
+
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2020-17-03 Airbus SAS: Amendment 39-21208; Docket No. FAA-2020-0201; 
+Product Identifier 2020-NM-007-AD.
+
+(a) Effective Date
+
+    This AD is effective October 2, 2020.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model airplanes specified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2020-0005, dated January 13, 2020 (``EASA AD 2020-0005'').
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by reports of fatigue cracks on continuity 
+fittings at the lower framing of the front windshield on airplanes 
+on which Airbus Production Modification 22058 (which is included in 
+Airbus Modification 21999) has been embodied. Additional analysis 
+showed that certain certification requirements for damage tolerance 
+and fatigue are not met on airplanes in a post-production 
+Modification 22058 configuration. The FAA is issuing this AD to 
+address this condition, which could lead to failure of the 
+continuity fittings at the lower node of the windshield central 
+frame, possibly resulting in decompression of the airplane and 
+injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0005.
+
+(h) Exceptions to EASA AD 2020-0005
+
+    (1) Where EASA AD 2020-0005 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2020-0005 does not apply 
+to this AD.
+    (3) Paragraph (8) of EASA AD 2020-0005 specifies to report 
+inspection results to Airbus within a certain compliance time. For 
+this AD, report inspection results at the applicable time specified 
+in paragraph (h)(3)(i) or (ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 90 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 90 days after the effective date 
+of this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the Large Aircraft Section, International Validation 
+Branch, send it to the attention of the person identified in 
+paragraph (j) of this AD. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2020-0005 that contains RC procedures and 
+tests: Except as required by paragraph (i)(2) of this AD, RC 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+    (4) Paperwork Reduction Act Burden Statement: A federal agency 
+may not conduct or sponsor, and a person is not required to respond 
+to, nor shall a person be subject to a penalty for failure to comply 
+with a collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 1 
+hour per response, including the time for reviewing instructions, 
+searching existing data sources, gathering and maintaining the data 
+needed, and completing and reviewing the collection of information. 
+All responses to this collection of information are mandatory as 
+required by this AD. Send comments regarding this burden estimate or 
+any other aspect of this collection of information, including 
+suggestions for reducing this burden to Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0005, 
+dated January 13, 2020.
+    (ii) [Reserved]
+    (3) For information about EASA AD 2020-0005, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; internet www.easa.europa.eu. You 
+may find this EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call
+
+[[Page 53156]]
+
+206-231-3195. This material may be found in the AD docket on the 
+internet at https://www.regulations.gov by searching for and 
+locating Docket No. FAA-2020-0201.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on August 6, 2020.
+Lance T. Gant,
+ Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-18930 Filed 8-27-20; 8:45 am]
+ BILLING CODE 4910-13-P

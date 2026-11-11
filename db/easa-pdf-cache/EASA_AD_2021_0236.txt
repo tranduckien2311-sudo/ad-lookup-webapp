@@ -1,0 +1,52 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0236
+
+Airworthiness Directive
+
+AD No.: 2021-0236
+
+Issued: 29 October 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 12 November 2021 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 32 – Landing Gear – Landing Gear Sliding Tube – Inspection / Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operators Transmission (AOT) A32N024-21. Affected part: Nose Landing Gear (NLG) sliding tubes, having a part number (P/N) and a serial number (s/n) listed in Appendix 1 of this AD, and Main Landing Gear (MLG) sliding tubes, having a P/N and a s/n listed in Appendix 2 of this AD; except those that, after 21 October 2021 (the effective date of the AOT), pass an Acid Etch Inspection and a Magnetic Particle Inspection (MPI) in accordance with the instructions of the AOT; and except those that do not pass those inspections, but are repaired in accordance with instructions approved by Airbus or by Safran Landing Systems. Serviceable part: NLG and MLG sliding tubes, eligible for installation, which are not an affected part. Page 1 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0236 Group: Group 1 aeroplanes are those on which an affected part is installed. Group 2 aeroplanes are those on which no affected part is installed.
+
+Reason: NLG sliding tube rupture, leading to NLG collapse during taxiing, has occurred on an A320 aeroplane. Investigations identified overheat damage on that NLG, caused by incorrect accomplishment of a repair on the chromium plated diameter of the sliding tube during last NLG overhaul. Further investigations identified a batch of NLG and MLG sliding tubes, possibly affected by similar condition which, if not detected and corrected, could lead to NLG or MLG structural failure and subsequent collapse of the gears, possibly resulting in damage to the aeroplane and injury to occupants. To address this potential unsafe condition, Airbus issued the AOT, providing instructions for inspections of affected parts. For the reason described above, this AD requires inspections of affected parts, and, depending on findings, accomplishment of applicable corrective action(s). This AD also requires replacement of affected parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) For Group 1 aeroplanes: Within 250 flight cycles (FC) after the effective date of this AD, accomplish a detailed visual inspection (DVI) of each affected part in accordance with the instructions of the AOT. (2) For Group 1 aeroplanes: Within 750 FC after the effective date of this AD, accomplish an MPI and a Barkhausen Noise Inspection (BNI) of each affected part in accordance with the instructions of the AOT. Corrective Action(s): (3) If, during any inspection as required by paragraph (1) or (2) of this AD, discrepancies are detected on an affected part, before next flight, replace that affected part with a serviceable part in accordance with the instructions of the AOT. Credit: (4) Accomplishment of an MPI and a BNI of an affected part, in accordance with the instructions of the AOT, within 250 FC after the effective date of this AD, cancels the requirements of paragraph (1) of this AD for that affected part. Replacement: (5) For Group 1 aeroplanes: Before an affected part accumulates 20 000 FC or 10 years since last overhaul accomplished before the effective date of this AD, replace that affected part with a serviceable part in accordance with the instructions of the AOT. Page 2 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2021-0236 Parts Installation: (6) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not install an affected part on any aeroplane (see Note 1 of this AD). Note 1: Removal of an affected part from an aeroplane and subsequent reinstallation of that part on the same aeroplane, accomplished during a single maintenance visit, is not considered as ‘install’ as specified in paragraph (6) of this AD.
+
+Ref. Publications: Airbus AOT A32N024-21 original issue dated 07 October 2021. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2021-0236 APPENDIX 1 List of suspected NLG sliding tubes P/N and s/n Aircraft type NLG sliding tube P/N NLG sliding tube s/n L2338 D66679 A318/A319/A320/A321 L2109 CMM 32-27-48; 32-27-21; 32-27-33 B577-1874 Page 4 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2021-0236 APPENDIX 2 List of suspected MLG sliding tubes P/N and s/n Aircraft type MLG sliding tube P/N MLG sliding tube s/n B2031-3288 B2029-8097 07B4224X8739 07B4107X14977 B3821-14792 B2615-3747 B2653-3794 201371304 B3169-14257 A318/A319/A320 B3187-14276 CMM 32-11-33; 32-12-25 B3715-14684 B3681-14640 B3486-14535 B3499-14519 B3544-14527 B3410-14459 07B4436X15115 Page 5 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

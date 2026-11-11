@@ -1,0 +1,442 @@
+[Federal Register Volume 89, Number 86 (Thursday, May 2, 2024)]
+[Rules and Regulations]
+[Pages 35695-35698]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-09354]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0029; Project Identifier MCAI-2023-01182-T; 
+Amendment 39-22741; AD 2024-08-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2021-20-
+08, which applied to certain Airbus SAS Model A318, A319, A320, A321, 
+A330-200, A330-200 Freighter, A330-300, A330-800, A330-900, A340-200, 
+A340-300, A340-500, A340-600, and A380-800 series airplanes. AD 2021-
+20-08 required replacing certain nickel-cadmium (Ni-Cd) batteries with 
+serviceable Ni-Cd batteries. This AD was prompted by a report that 
+repetitive disconnection and reconnection of certain Ni-Cd batteries 
+during airplane parking or storage could lead to a reduction in 
+capacity of those batteries. This AD adds airplanes to the 
+applicability and requires replacement of certain affected parts with 
+serviceable parts as a precondition for return to service of airplanes 
+from storage or parking, as specified in a European Union Aviation 
+Safety Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective June 6, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of June 6, 
+2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-0029; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for
+
+[[Page 35696]]
+
+Docket Operations is U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For material incorporated by reference in this AD, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2024-0029.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 206-
+231-3225; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2021-20-08, Amendment 39-21746 (86 FR 
+57025, October 14, 2021) (AD 2021-20-08). AD 2021-20-08 applied to 
+certain Airbus SAS Model A318, A319, A320, A321, A330-200, A330-200 
+Freighter, A330-300, A330-800, A330-900, A340-200, A340-300, A340-500, 
+A340-600, and A380-800 series airplanes. AD 2021-20-08 required 
+replacing certain Ni-Cd batteries with serviceable Ni-Cd batteries or 
+maintaining the electrical storage capacity of those Ni-Cd batteries 
+during airplane storage or parking. The FAA issued AD 2021-20-08 to 
+address reduced capacity of certain Ni-Cd batteries, which could lead 
+to reduced battery endurance performance and possibly result in failure 
+to supply the minimum essential electrical power during abnormal or 
+emergency conditions.
+    The NPRM published in the Federal Register on January 22, 2024 (89 
+FR 3897). The NPRM was prompted by AD 2023-0196, dated November 10, 
+2023 (EASA AD 2023-0196) (also referred to as the MCAI), issued by 
+EASA, which is the Technical Agent for the Member States of the 
+European Union. The MCAI states that it was determined that the on-wing 
+preservation procedures originally provided for these airplanes did not 
+ensure the expected preservation of the battery capacity.
+    In the NPRM, the FAA proposed to require replacement of certain 
+affected parts with serviceable parts as a precondition for return to 
+service of airplanes from storage or parking, as specified in EASA AD 
+2023-0196. The FAA is issuing this AD to address reduced capacity of 
+certain Ni-Cd batteries. The unsafe condition, if not addressed, could 
+lead to reduced battery endurance and possibly result in failure to 
+supply the minimum essential electrical power during abnormal or 
+emergency conditions.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-0029.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from the Air Line Pilots Association, 
+International (ALPA) and an individual. Both commenters supported the 
+NPRM without change.
+    The FAA received additional comments from American Airlines (AA), 
+Delta Air Lines (DAL), United Airlines (UA), and two individuals. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Extend Compliance Time
+
+    DAL requested a 90-day transition period between AD 2021-20-08 and 
+the new proposed AD requirements. DAL stated that compliance 
+requirements and instructions are currently set to comply with AD 2021-
+20-08, and these requirements and instructions cannot be instantly 
+transitioned the day the new AD becomes effective. As an example, DAL 
+stated revising the Airbus A350 aircraft maintenance manual (AMM) can 
+take 60 days due to complexity of the process. DAL explained that AD 
+requirements that must be complied with as of the AD effective date can 
+be set up and complied with if starting from zero AD mandated 
+instructions, but when transitioning from one set of AD mandated 
+instructions to a significantly different set of AD mandated 
+instructions, a time of transition must be allowed for in the new AD.
+    The FAA partially agrees. The FAA concurs the requirement to 
+replace affected batteries results in a new set of AD mandated 
+instructions, but the FAA does not concur with a 90-day transition 
+period (grace period). However, the FAA has determined that a 30-day 
+grace period is appropriate and will not adversely affect safety. The 
+FAA has added paragraph (h)(3) to this AD accordingly.
+
+Request for Clarification of Terms
+
+    AAL requested clarification of ``parking and storage'' as intended 
+by the proposed AD. The commenter asked whether ``parking and storage'' 
+included extended heavy maintenance checks, such as an S-check that is 
+abnormally extended beyond the 6-month time-limit due to inspection 
+findings or material sourcing issues, or extended downtime for aircraft 
+repair or modification such as a large repair for aircraft tug 
+collision damage or a large-scale interior modification.
+    The FAA agrees to clarify. It is the responsibility of the operator 
+to apply the relevant instructions provided in the AMM related to 
+extended heavy maintenance checks or downtime for aircraft repair or 
+modification. A dedicated preservation regime shall be defined in line 
+with the maintenance activity requirements (for example, the need to 
+keep batteries connected), based upon the applicable AMM parking and 
+storage procedures. If a battery meets the definition of a 
+``serviceable part'' as specified in EASA AD 2023-0196, then the 
+requirement to replace after ``parking and storage'' does not apply 
+because it is not an affected part. However, if the battery meets the 
+definition of an ``affected part'' as specified in EASA AD 2023-0196, 
+the requirement to replace after ``parking and storage'' does apply.
+
+Request To Remove Erroneous References
+
+    DAL and UA requested removal of any reference to parts manufacturer 
+approval (PMA) batteries in the SUMMARY and Background of the NPRM. 
+Delta also requested removal of the term ``PMA'' from the ``Related 
+Service Information under 1 CFR part 51'' section of the NPRM. The 
+commenters stated that the references are incorrect because those 
+batteries are not referenced in the related EASA AD.
+    The FAA agrees. The SUMMARY and Background of the NPRM, as well as 
+the ``Related Service Information Under 1 CFR part 51'' paragraph, 
+incorrectly referred to PMA parts in describing the requirements of AD 
+2021-20-08 and the MCAI, which specify to replace certain Ni-Cd 
+batteries. The FAA has removed the incorrect references to PMA parts 
+from this AD.
+
+Request To Withdraw the Proposed AD
+
+    A commenter asked what data there is to support the need for early 
+replacement of the affected batteries. The FAA infers that the 
+commenter is requesting withdrawal of the proposed AD.
+
+[[Page 35697]]
+
+    The FAA does not agree with the inferred request to withdraw this 
+AD. The FAA has obtained information to indicate that mandatory action 
+is necessary to maintain the continued operational safety of these 
+airplanes. This AD has not been changed regarding this inferred 
+request.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, and any other changes described previously, this AD is adopted 
+as proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2023-0196 specifies procedures for procedures for replacing 
+certain Ni-Cd batteries with serviceable Ni-Cd batteries. EASA AD 2023-
+0196 adds Model A300 series airplanes; Model A300 B4-600, B4-600R, and 
+F4-600R series airplanes, and Model A300 C4-605R Variant F airplanes 
+(collectively called Model A300-600 series airplanes); Model A310 
+series airplanes; and Model A350-941 and -1041 airplanes to the 
+applicability. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,814 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+New actions........................  5 work-hours x $85 per hour              $0            $425        $770,950
+                                      = $425.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2021-20-08, Amendment 39-21746 
+(86 FR 57025, October 14, 2021); and
+0
+b. Adding the following new AD:
+
+2024-08-08 Airbus SAS: Amendment 39-22741; Docket No. FAA-2024-0029; 
+Project Identifier MCAI-2023-01182-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 6, 2024.
+
+(b) Affected ADs
+
+    This AD replaces AD 2021-20-08, Amendment 39-21746 (86 FR 57025, 
+October 14, 2021) (AD 2021-20-08).
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (14) of this AD, certificated in any 
+category.
+    (1) Model A300 B4-2C, B4-103, and B4-203 airplanes.
+    (2) Model A300 B4-601, B4-603, B4-620, and B4-622 airplanes.
+    (3) Model A300 B4-605R and B4-622R airplanes.
+    (4) Model A300 C4-605R variant F airplanes.
+    (5) Model A300 F4-605R and F4-622R airplanes.
+    (6) Model A310-203, -204, -221, -222, -304, -322, -324, and -325 
+airplanes.
+    (7) Model A318-111, -112, -121, and -122 airplanes.
+    (8) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, -153N, and -171N airplanes.
+    (9) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, -
+252N, -253N, -271N, -272N, and -273N airplanes.
+    (10) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -251NX, -252N, -252NX, -253N, -253NX, -271N, -271NX, -272N, 
+and -272NX airplanes.
+    (11) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, -841, and -941 
+airplanes.
+    (12) Model A340-211, -212, -213, -311, -312, -313, -541, and -
+642 airplanes.
+    (13) Model A350-941 and A350-1041 airplanes.
+    (14) Model A380-841, -842, and -861 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 24, Electrical 
+Power.
+
+[[Page 35698]]
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that repetitive disconnection 
+and reconnection of certain nickel-cadmium (Ni-Cd) batteries during 
+airplane parking or storage could lead to a reduction in capacity of 
+those batteries. The FAA is issuing this AD to address reduced 
+capacity of certain Ni-Cd batteries. The unsafe condition, if not 
+addressed, could lead to reduced battery endurance and possibly 
+result in failure to supply the minimum essential electrical power 
+during abnormal or emergency conditions.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2023-0196, dated November 10, 2023 (EASA AD 2023-0196).
+
+(h) Exceptions to EASA AD 2023-0196
+
+    (1) Where EASA AD 2023-0196 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) This AD does not adopt the ``Remarks'' section of EASA AD 
+2023-0196.
+    (3) The compliance for the replacement specified in paragraph 
+(1) of EASA 2023-0196 is at the time specified in paragraph (1) of 
+EASA AD 2023-0196, or within 30 days after the effective date of 
+this AD, whichever occurs later.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, mail it to the address identified 
+in paragraph (k) of this AD. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information referenced 
+in EASA AD 2023-0196 that contains paragraphs that are labeled as 
+RC, the instructions in RC paragraphs, including subparagraphs under 
+an RC paragraph, must be done to comply with this AD; any 
+paragraphs, including subparagraphs under those paragraphs, that are 
+not identified as RC are recommended. The instructions in 
+paragraphs, including subparagraphs under those paragraphs, not 
+identified as RC may be deviated from using accepted methods in 
+accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the instructions 
+identified as RC can be done and the airplane can be put back in an 
+airworthy condition. Any substitutions or changes to instructions 
+identified as RC require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Dan Rodina, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 206-231-3225; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2023-0196, 
+dated November 10, 2023.
+    (ii) [Reserved]
+    (3) For EASA AD 2023-0196, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations, or email [email protected].
+
+    Issued on April 17, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-09354 Filed 5-1-24; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2013-0183 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2013-0183 Date: 13 August 2013 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. D Design Approval Holder’s Name: Type/Model designation(s): CFM INTERNATIONAL S.A. CFM56-5 engines E TCDS Number: EASA.E.067 Foreign AD: Not applicable D
+
+Supersedure: None E Engine – Repaired Low Pressure Turbine Stage 1 Nozzle Segments
+
+ATA 72 – Identification / Replacement S
+
+Manufacturer(s): SNECMA, General Electric (for the affected engines); Chromalloy Gas Turbine, LLC (for some of the affected low pressure turbine nozzle segments, repaired under FAA regulation 14 CFR §43.13) R
+
+Applicability: CFM56-5 (including variant CFM56-5-A1), CFM56-5-A1/F, CFM56-5A3, CFM56-5A4, CFM56-5A4/F, CFM56-5A5 and CFM56-5A5/F engines, all serial numbers on which Stage 1 low pressure turbine was repaired using Airfoil Replacement repair, Chromalloy Nevada DER-N068 (04-CNV-068-0). E These engines are known to be installed on, but not limited to, Airbus A319 and A320 aeroplanes.
+
+Reason: The Federal Aviation Administration (FAA) recently published Special P Airworthiness Information Bulletin (SAIB) NE-13-33R1 to provide information that Stage 1 low pressure turbine (LPT) vane segments, repaired using Airfoil Replacement (AFR) in accordance with Chromalloy Nevada DER-N068 (04- CNV-068-0), have been supplied by Chromalloy Gas Turbine, LLC (CGT), U intended for installation on CFM56 engines. The affected Stage 1 LPT vane segments exhibit an increase of the dimensional variation in the features that provide the primary cooling air to the turbine. This condition, if not corrected, could reduce turbine cooling and affect the S service life of the affected parts, which includes critical parts, possibly resulting in release of uncontained high energy debris, with consequent damage to, and reduced control of, the aeroplane. For the reasons described above, this AD requires the identification and removal from service of the affected parts and replacement with serviceable parts. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2013-0183
+
+Effective Date: 27 August 2013 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) At the next shop visit after the effective date of this AD, during which the Time(s): LPT module is removed from the engine, but not later than 31 December 2017, identify any nozzle vane segment that has been repaired using AFR repair, Chromalloy Nevada DER-N068 (04-CNV-068-0) and, before release to service of the engine, replace each part with a serviceable part, in accordance with the instructions of CGT Service Bulletin (SB) 72-047. (2) From the effective date of this AD, do not install on any engine a stage 1 LPT vane previously repaired using AFR repair, Chromalloy Nevada DER- N068 (04-CNV-068-0).
+
+Ref. Publications: CGT SB 72-047, dated 18 March 2013. D FAA SAIB NE-13-33R1, dated 14 June, 2013.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. E 2. This AD was posted on 24 May 2013 as PAD 13-067 for consultation until 21 June 2013. The Comment Response Document can be found at http://ad.easa.europa.eu/. D 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: E Chromalloy, 3999 RCA Blvd, Palm Beach Gardens, Florida 33410; telephone +1 561 935 9820; fax +1 561 578 5521; E-mail: product_support@chromalloy.com.; or S CFM International, Inc., Aviation Operations Center, One Neumann Way, M/D Room 285, Cincinnati, Ohio 45125; telephone +1-513-552-3272; fax +1-513-552-3329; E-mail: geae.aoc@ge.com; or CFM International SA, Customer Support Center, R telephone: +33 1 64 14 88 66; Fax: +33 1 64 79 85 55; E-mail: snecma.csc@snecma.fr. E P U S TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

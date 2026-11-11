@@ -474,6 +474,23 @@
     const faaNumQuery = !isDualEasaView ? String(doc.officialFaaAd || ad.officialFaaAd || "").trim() : "";
 
     if (targetHtmUrl || faaNumQuery) {
+      if (!isDualEasaView) {
+        const faaCacheKeys = [doc.docNumber, faaNumQuery].filter(Boolean);
+        for (const fk of faaCacheKeys) {
+          try {
+            const stFaa = await fetch(`./db/faa-fulltext-cache/${encodeURIComponent(String(fk).trim())}.txt`);
+            if (stFaa.ok) {
+              const ftTxt = await stFaa.text();
+              if (ftTxt && ftTxt.length > 80) {
+                const res = { fullText: ftTxt, sourceLabel: "FAA Cache", fallbackText };
+                ad._fullTextCache = ad._fullTextCache || {};
+                ad._fullTextCache[cacheKey] = res;
+                return res;
+              }
+            }
+          } catch (e) {}
+        }
+      }
       try {
         const qs = [];
         if (targetHtmUrl) qs.push(`url=${encodeURIComponent(targetHtmUrl)}`);
@@ -497,6 +514,25 @@
         (String(u).includes("easa.europa.eu/download/") || String(u).startsWith("/db/uploaded-pdfs/"))
     );
     if (easaPdfTargetUrl) {
+      // Static cache fallback first -> works natively on BOTH GitHub Pages & localhost
+      if (String(easaPdfTargetUrl).includes("easa.europa.eu/download/")) {
+        const rawBase = String(easaPdfTargetUrl).split("?")[0].split("/").pop() || "";
+        const safeTxtName = rawBase.replace(/[^A-Za-z0-9_.\-]/g, "_").replace(/\.(pdf|zip)$/i, ".txt");
+        if (safeTxtName.endsWith(".txt")) {
+          try {
+            const stResp = await fetch(`./db/easa-pdf-cache/${encodeURIComponent(safeTxtName)}`);
+            if (stResp.ok) {
+              const ftTxt = await stResp.text();
+              if (ftTxt && ftTxt.length > 80) {
+                const res = { fullText: ftTxt, sourceLabel: "EASA PDF", fallbackText };
+                ad._fullTextCache = ad._fullTextCache || {};
+                ad._fullTextCache[cacheKey] = res;
+                return res;
+              }
+            }
+          } catch (e) {}
+        }
+      }
       try {
         const resp = await fetch(`/api/easa-fulltext?url=${encodeURIComponent(easaPdfTargetUrl)}`);
         if (resp.ok) {
@@ -3851,7 +3887,7 @@ ${bodyRows}
 
   function initPwaSupport() {
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("./sw.js").catch(() => {});
+      navigator.serviceWorker.register("./sw.js", { updateViaCache: "none" }).catch(() => {});
     }
 
     const btnInstall = document.getElementById("btnInstallPwa");
@@ -3862,9 +3898,15 @@ ${bodyRows}
       btnInstall.style.display = "none";
     }
 
+    if (window.__deferredPwaPrompt) {
+      deferredInstallPrompt = window.__deferredPwaPrompt;
+      if (btnInstall) btnInstall.style.display = "inline-flex";
+    }
+
     window.addEventListener("beforeinstallprompt", (e) => {
       e.preventDefault();
       deferredInstallPrompt = e;
+      window.__deferredPwaPrompt = e;
       if (btnInstall) {
         btnInstall.style.display = "inline-flex";
       }

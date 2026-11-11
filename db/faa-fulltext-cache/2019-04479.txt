@@ -1,0 +1,657 @@
+[Federal Register Volume 84, Number 48 (Tuesday, March 12, 2019)]
+[Rules and Regulations]
+[Pages 8795-8799]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-04479]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0806; Product Identifier 2018-NM-056-AD; Amendment 
+39-19590; AD 2019-05-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2015-12-08, 
+which applied to all Airbus SAS Model A318 and A319 series airplanes 
+and all Model A320-211, A320-212, A320-214, A320-231, A320-232, A320-
+233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-
+231, and A321-232 airplanes. AD 2015-12-08 required an inspection to 
+determine the batch number or installation date of the oxygen pipe 
+assembly that is installed at the end of the right-hand crew 
+distribution line, and replacement of the pipe if necessary. This AD 
+revises the applicability to include additional airplane models and 
+additional pipes to be replaced if necessary. This AD was prompted by 
+further investigation that determined that affected oxygen pipes may 
+have been installed on more airplanes than initially identified. We are 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective April 16, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 16, 
+2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of July 
+21, 2015 (80 FR 34262, June 16, 2015).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 44 51; email [email protected]; 
+internet http://www.airbus.com. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 2200 South 216th 
+St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2018-0806.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0806; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2015-12-08, Amendment 39-18182 (80 FR 34262, 
+June 16, 2015) (``AD 2015-12-08''). AD 2015-12-08 applied to all Airbus 
+SAS Model A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, 
+A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, 
+A320-212, A320-214, A320-231, A320-232, A320-233, A321-111, A320-112, 
+A320-131, A320-211, A320-212, A320-213, A320-231, and A320-232 
+airplanes. The NPRM published in the Federal Register on October 4, 
+2018 (83 FR 50047). The NPRM was prompted by further investigation that 
+determined that affected oxygen pipes may have been installed on more 
+airplanes than initially identified. The NPRM proposed to revise the 
+applicability to include additional airplane models and additional 
+pipes to be replaced if necessary. We are issuing this AD to address 
+corrosion of the oxygen pipe assemblies, which could lead to blocked or 
+reduced oxygen supply to a flight crew member in case of decompression 
+or smoke/fire in the flight deck. In addition, the presence of 
+particles in oxygen lines, under certain conditions, increases the risk 
+of fire in the flight deck.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2018-0060R1, dated July 19, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A318 and A319 
+series airplanes; all Model A320-211, A320-212, A320-214, A320-216, 
+A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, 
+A321-212, A321-213, A321-231, and A321-232 airplanes; and certain Model 
+A320-251N, A320-271N, and A321-271N airplanes. The MCAI states:
+
+    Some oxygen pipe assemblies were found corroded during 
+manufacturing at supplier level. The affected pipe assembly was 
+installed at the end of the right hand (RH) crew distribution line, 
+just upstream of the First Officer and RH Observer oxygen mask 
+boxes.
+    The investigation showed that the affected pipes had been heat 
+treated just 4 weeks before the summer factory closure and were only 
+cleaned after re-opening of the factory. During this interruption, 
+corrosion developed in these pipes.
+    This condition, if not detected and corrected, could lead to 
+blocked or reduced oxygen supply to a flight crew member in case of 
+decompression or smoke/fire in the cockpit. In addition, the 
+presence of particles in oxygen lines, under certain conditions, 
+increases the risk of fire in the cockpit.
+    The parts manufacturer identified the batch numbers of the 
+potentially affected pipes that were manufactured in a specific 
+period in 2011. Based on that information, Airbus identified the 
+aeroplanes on which those pipes were installed on the production 
+line and issued [service bulletin] SB A320-35-1069, containing 
+instructions to remove the affected pipes from service.
+    Consequently, EASA issued AD 2013-0278 [which corresponds to FAA 
+AD 2015-12-08] to require the identification and replacement of the 
+affected oxygen pipes. That [EASA] AD also prohibited installation 
+of any affected pipe on other aeroplanes.
+    After EASA AD 2013-0278 was issued, further investigation 
+determined that affected oxygen pipes may have been installed on 
+more aeroplanes than initially identified. Consequently, Airbus 
+revised SB A320-35-1069 and EASA issued AD 2017-0150,
+
+[[Page 8796]]
+
+retaining the requirements of EASA AD 2013-0278, which was 
+superseded, and requiring the same actions on these additional 
+aeroplanes.
+    After EASA AD 2017-0150 was issued, it was determined that five 
+A320 and A321 NEO aeroplanes had been delivered with a configuration 
+which potentially allows the installation of an affected oxygen 
+pipe.
+    Consequently, EASA issued AD 2018-0060, retaining the 
+requirements of EASA AD 2017-0150, which was superseded, expanding 
+the Applicability to include the five A320 and A321 NEO aeroplanes, 
+and correcting the Table in Appendix 1 by removing MSN [manufacturer 
+serial number] 5091 which belongs to Group 2.
+    Since that AD was issued, several operator requests were 
+received to clarify the required actions for Group 3 and Group 4 
+aeroplanes. It was determined that, as per Airbus configuration 
+control, the EASA AD No.: 2018-0060R1 affected parts have been 
+identified as being potentially installed in production only on 
+Group 1 and Group 2 aeroplanes. However, it is possible that those 
+parts migrated to other aeroplanes during maintenance; for that 
+reason, Group 3 and 4 aeroplanes need to be considered. This [EASA] 
+AD is revised accordingly.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0806.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    Air Line Pilots Association, International (ALPA) stated its 
+support for the NPRM.
+
+Request To Add Airplanes to Paragraph (j) of the Proposed AD
+
+    American Airlines requested that additional airplanes be added to 
+paragraph (j) of the proposed AD. American Airlines asserted that 
+Airbus has identified additional airplanes, which are included in 
+Revision 02, dated October 26, 2016; and Revision 03, dated December 8, 
+2017; of Airbus Service Bulletin A320-35-1069.
+    We disagree with the request to add airplanes to paragraph (j) of 
+this AD, which contains a new action for those airplanes not affected 
+by AD 2015-12-18. The airplanes identified by the commenter are already 
+included in paragraph (h) of this AD, which contains a retained action 
+from AD 2015-12-18. Adding those airplanes to paragraph (j) of this AD 
+would result in redundant requirements for those airplanes. We have not 
+changed this AD in this regard.
+
+Request To Specify No Reporting
+
+    American Airlines requested that we do not require the reporting 
+specified in Airbus Service Bulletin A320-35-1069, Revision 03, dated 
+December 8, 2017. American Airlines stated that this action is not 
+related to the unsafe condition.
+    We agree with the request. We have added paragraph (l) to this AD 
+to specify no reporting is required. We have redesignated subsequent 
+paragraphs of this AD accordingly.
+
+Request To Remove Location for Accomplishing a Certain Action
+
+    American Airlines requested that we remove the location from the 
+requirement to flush certain removed parts. American Airlines stated 
+that Airbus Service Bulletin A320-35-1069, Revision 03, dated December 
+8, 2017, specifies doing that action in the shop. American Airlines 
+stated that the location of performing that maintenance action is not 
+relevant to correcting the unsafe condition.
+    We agree with the request for the reason provided by the commenter. 
+We have added paragraph (m)(1) to this AD to specify that the location 
+to flush certain parts is not required by this AD.
+
+Request for Alternative Part Numbers
+
+    American Airlines requested that we include alternative parts for 
+washer part number (P/N) AN960C816. American Airlines stated that 
+Airbus Service Bulletin A320-35-1069, Revision 03, dated December 8, 
+2017, specifies to install the new crew oxygen pipe with P/N AN960C816, 
+but that part number is obsolete. American Airlines stated that part 
+number can be replaced with alternate P/N NAS1149C0863R, as specified 
+in Illustrated Parts Catalog (IPC) 35-12-01-03, Item 110. American 
+Airlines requested that we allow the installation of alternate parts as 
+specified in the IPC.
+    We partially agree with the commenter. We disagree to allow 
+installation of any alternative part specified in the IPC because the 
+IPC is not FAA-approved data. However, we agree to allow the use of 
+alternate P/N NAS1149C0863R. We have added paragraph (m)(2) to this AD 
+to allow the use of that alternate part number.
+
+Clarification of Requirements for Model A320-216 Airplanes
+
+    We stated the following in the NPRM: The Airbus SAS Model A320-216 
+was type certificated on December 19, 2016. Before that date, any EASA 
+AD that affected Model A320-216 airplanes was included on the Required 
+Airworthiness Action List (RAAL). Model A320-216 airplanes have 
+subsequently been placed on the U.S. Register, and will now be included 
+in FAA AD actions. For Airbus SAS Model A320-216 airplanes, the 
+requirements that correspond to AD 2015-12-08 were mandated by the MCAI 
+via the RAAL. Although that RAAL requirement is still in effect, for 
+continuity and clarity we have identified Airbus SAS Model A320-216 
+airplanes in paragraph (c) of this AD; the restated requirements of 
+paragraphs (g), (h), and (i) of this AD would therefore apply to those 
+airplanes.
+    However, in paragraph (i) of the NPRM, we excluded Airbus SAS Model 
+A320-216 airplanes. We also included those airplanes in the new 
+requirements in paragraphs (j) and (k) of the NPRM.
+    We should not have excluded Airbus SAS Model A320-216 airplanes in 
+paragraph (i) of the NPRM since the restated requirements of that 
+paragraph still apply to those airplanes via the RAAL. Likewise, those 
+airplanes should not have been included in the new requirements of 
+paragraphs (j) and (k) of the NPRM because the requirements were 
+already addressed by the restated requirements of paragraphs (g), (h), 
+and (i) of the NPRM (which correspond to the actions required by the 
+MCAI, EASA AD 2013-0278, via the RAAL). Therefore, we have removed 
+references to Airbus SAS Model A320-216 airplanes from paragraphs (j) 
+and (k) of this AD, and removed the text excluding Airbus SAS Model 
+A320-216 from paragraph (i) of this AD.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-35-1069, Revision 03, dated 
+December 8, 2017. The service information describes an inspection to 
+determine the batch number or installation date of the oxygen pipe 
+assembly that is installed at the end of
+
+[[Page 8797]]
+
+the right-hand crew distribution line, and replacement of the pipe.
+    This AD also requires Airbus Service Bulletin A320-35-1069, dated 
+April 26, 2013, which the Director of the Federal Register approved for 
+incorporation by reference as of July 21, 2015 (80 FR 34262, June 16, 
+2015).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 50 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+2 work-hours x $85 per hour = $170...........................              $0             $170           $8,500
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the required inspection. 
+We have no way of determining the number of aircraft that might need 
+these replacements:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+5 work-hours x $85 per hour = $425....              $0             $425
+------------------------------------------------------------------------
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all known costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2015-12-08, Amendment 39-18182 (80 FR 34262, June 16, 2015), and adding 
+the following new AD:
+
+2019-05-08 Airbus SAS: Amendment 39-19590; Docket No. FAA-2018-0806; 
+Product Identifier 2018-NM-056-AD.
+
+(a) Effective Date
+
+    This AD is effective April 16, 2019.
+
+(b) Affected ADs
+
+    This AD replaces AD 2015-12-08, Amendment 39-18182 (80 FR 34262, 
+June 16, 2015) (``AD 2015-12-08'').
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (c)(5) of this AD, certificated in any 
+category.
+    (1) Model A318-111, -112, -121, and -122 airplanes, all 
+manufacturer serial numbers.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes, all manufacturer serial numbers.
+    (3) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes, all manufacturer serial numbers.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes, all manufacturer serial numbers.
+    (5) Model A320-251N, A320-271N, and A321-271N airplanes, 
+manufacturer serial numbers 6101, 6286, 6419, 6642, and 6673.
+
+[[Page 8798]]
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen.
+
+(e) Reason
+
+    This AD was prompted by a report of corrosion found during the 
+manufacturing process for some oxygen pipe assemblies that are used 
+to supply oxygen to the flight crew. This AD was also prompted by 
+further investigation that determined affected oxygen pipes may have 
+been installed on more airplanes than initially identified. We are 
+issuing this AD to address corrosion of the oxygen pipe assemblies, 
+which could lead to blocked or reduced oxygen supply to a flight 
+crew member in case of decompression or smoke/fire in the flight 
+deck. In addition, the presence of particles in oxygen lines, under 
+certain conditions, increases the risk of fire in the flight deck.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspection for Batch Numbers and Replacement, With New 
+Service Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2015-12-08, with new service information. For airplanes identified 
+in paragraph 1.A. of Airbus Service Bulletin A320-35-1069, dated 
+April 26, 2013: Within 7,500 flight hours or 26 months, whichever 
+occurs first after July 21, 2015 (the effective date of AD 2015-12-
+08), inspect the crew oxygen pipe, having part number (P/N) 
+D3511032000640, to determine the batch number of that pipe, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-35-1069, dated April 26, 2013; or Airbus Service 
+Bulletin A320-35-1069, Revision 03, dated December 8, 2017. A review 
+of airplane maintenance records is acceptable in lieu of this 
+inspection if the batch number of the pipe can be conclusively 
+determined from that review. If the batch number of the oxygen pipe 
+is 19356252, 40008586, 40076689, 40187414, 40292749, 40405164, 
+40649383, 40724994, 40820410, or 40911832: Within 7,500 flight hours 
+or 26 months, whichever occurs first after July 21, 2015, replace 
+the oxygen pipe with a serviceable part, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-35-1069, 
+dated April 26, 2013; or Airbus Service Bulletin A320-35-1069, 
+Revision 03, dated December 8, 2017. After the effective date of 
+this AD, only Airbus Service Bulletin A320-35-1069, Revision 03, 
+dated December 8, 2017, may be used to do the actions required by 
+this paragraph.
+
+(h) Retained Inspection for Part Number and Installation Date of Crew 
+Oxygen Pipe, With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2015-12-08, with no changes. For airplanes identified in paragraphs 
+(c)(1) through (c)(4) of this AD that are not identified in 
+paragraph 1.A. of Airbus Service Bulletin A320-35-1069, dated April 
+26, 2013: Within 7,500 flight hours or 26 months, whichever occurs 
+first after July 21, 2015 (the effective date of AD 2015-12-08), 
+inspect the crew oxygen pipe to determine whether P/N D3511032000640 
+was installed after June 2011. A review of airplane maintenance 
+records is acceptable in lieu of this inspection if the part number 
+and installation date of the pipe can be conclusively determined 
+from that review. If the pipe was installed after June 2011, or the 
+date cannot be conclusively determined, before further flight, do 
+the actions required in paragraph (g) of this AD.
+
+(i) Retained Parts Installation Prohibition, With No Changes
+
+    This paragraph restates the prohibition specified in paragraph 
+(i) of AD 2015-12-08, with no changes. For airplanes identified in 
+paragraphs (c)(1) through (c)(4) of this AD: As of July 21, 2015 
+(the effective date of AD 2015-12-08), do not install, on any 
+airplane, a crew oxygen pipe P/N D3511032000640, that is identified 
+as belonging to batch number 19356252, 40008586, 40076689, 40187414, 
+40292749, 40405164, 40649383, 40724994, 40820410, or 40911832.
+
+(j) New Requirement of This AD: Inspection for Batch Numbers and 
+Replacement for Certain Airplanes
+
+    For airplanes identified in paragraph (c)(5) of this AD: Within 
+7,500 flight hours or 26 months, whichever occurs first after the 
+effective date of this AD, inspect the crew oxygen pipe, having P/N 
+D3511032000640, to determine the batch number of that pipe, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-35-1069, Revision 03, dated December 8, 2017. A review 
+of airplane maintenance records is acceptable in lieu of this 
+inspection if the batch number of the pipe can be conclusively 
+determined from that review. If the batch number of the oxygen pipe 
+is 19356252, 40008586, 40076689, 40187414, 40292749, 40405164, 
+40649383, 40724994, 40820410, or 40911832: Within 7,500 flight hours 
+or 26 months, whichever occurs first after the effective date of 
+this AD, replace the oxygen pipe with a serviceable part, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-35-1069, Revision 03, dated December 8, 2017.
+
+(k) New Parts Installation Prohibition for Certain Airplanes
+
+    For airplanes identified in paragraph (c)(5) of this AD: As of 
+the effective date of this AD, do not install, on any airplane, a 
+crew oxygen pipe P/N D3511032000640, that is identified as belonging 
+to batch number 19356252, 40008586, 40076689, 40187414, 40292749, 
+40405164, 40649383, 40724994, 40820410, or 40911832.
+
+(l) New No Reporting Requirement
+
+    Although Airbus Service Bulletin A320-35-1069, Revision 03, 
+dated December 8, 2017, specifies to submit certain information to 
+the manufacturer, and specifies that action as Required for 
+Compliance (RC), this AD does not include that requirement.
+
+(m) Service Information Exceptions
+
+    (1) Where Airbus Service Bulletin A320-35-1069, Revision 03, 
+dated December 8, 2017, specifies the location to flush certain 
+parts with nitrogen as ``in the shop,'' and specifies that location 
+as RC, this AD does not require that location to be used when 
+flushing the parts.
+    (2) Where Airbus Service Bulletin A320-35-1069, Revision 03, 
+dated December 8, 2017, specifies to use part number (P/N) 
+AN960C816, and specifies that part number as RC, this AD allows the 
+use of P/N NAS1149C0863R in lieu of P/N AN960C816.
+
+(n) Credit for Previous Actions
+
+    (1) For the airplanes identified in paragraph (g) of this AD: 
+This paragraph provides credit for actions required by paragraph (g) 
+of this AD, if those actions were performed before July 21, 2015 
+(the effective date of AD 2015-12-08) using a service bulletin 
+identified in paragraph (n)(1)(i) or (n)(1)(ii) of this AD. This 
+service information is not incorporated by reference in this AD.
+    (i) Airbus Service Bulletin A320-35-1069, Revision 01, dated 
+March 24, 2014.
+    (ii) Airbus Service Bulletin A320-35-1069, Revision 02, dated 
+October 26, 2016.
+    (2) For airplanes identified in paragraph (j) of this AD: This 
+paragraph provides credit for actions required by paragraph (j) of 
+this AD, if those actions were performed before the effective date 
+of this AD using a service bulletin identified in paragraph 
+(n)(2)(i), (n)(2)(ii), or (n)(2)(iii) of this AD.
+    (i) Airbus Service Bulletin A320-35-1069, dated April 26, 2013. 
+This service information was incorporated by reference in AD 2015-
+12-08 and continues to be incorporated by reference in this AD.
+    (ii) Airbus Service Bulletin A320-35-1069, Revision 01, dated 
+March 24, 2014. This service information is not incorporated by 
+reference in this AD.
+    (iii) Airbus Service Bulletin A320-35-1069, Revision 02, dated 
+October 26, 2016. This service information is not incorporated by 
+reference in this AD.
+
+(o) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (p)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport
+
+[[Page 8799]]
+
+Standards Branch, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus SAS's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): Except as specified by 
+paragraphs (l) and (m) of this AD: If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(p) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0060R1, dated July 19, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0806.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (q)(5) and (q)(6) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+April 16, 2019.
+    (i) Airbus Service Bulletin A320-35-1069, Revision 03, dated 
+December 8, 2017.
+    (ii) [Reserved]
+    (4) The following service information was approved for IBR on 
+July 21, 2015 (80 FR 34262, June 16, 2015).
+    (i) Airbus Service Bulletin A320-35-1069, dated April 26, 2013.
+    (ii) [Reserved]
+    (5) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France; phone: +33 5 61 93 36 96; fax: 
++33 5 61 93 45 80; email: [email protected]; 
+internet: http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on March 5, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-04479 Filed 3-11-19; 8:45 am]
+BILLING CODE 4910-13-P

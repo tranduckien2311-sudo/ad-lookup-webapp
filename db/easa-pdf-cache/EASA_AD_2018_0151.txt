@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0151
+
+Airworthiness Directive
+
+AD No.: 2018-0151
+
+Issued: 16 July 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 30 July 2018 TCDS Numbers: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 27 – Flight Controls – Outboard Flap Drive Station Elements and Sensor Strut – Inspection / Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A330-27-3226, SB A340-27-4206, and SB A340-27-5071, as applicable. The applicable SB contains a flowchart which can be used for supporting compliance with this AD. Page 1 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0151 Drive station elements (DSE): Down drive, down drive shaft, geared rotary actuator (gearbox), geared rotary actuator (output lever and fork end), and drive strut.
+
+Reason: Design features of the track station 4 sensor struts, respectively installed on the right hand (RH) and left hand (LH) wings of an aeroplane, ensure detection of any abnormal flap movement in case of a mechanical DSE disconnection at the level of the flap track station 4 or flap track station 5. Evidence was collected revealing that the track station 4 sensor strut, in case of a down drive element disconnection, would be unable to provide failure detection information. This condition, if not detected and corrected, in the case of an additional failure on the remaining flap drive station, could lead to a complete flap disconnection, possibly resulting in loss of control of the aeroplane. To address this potential unsafe condition, Airbus published the applicable SB to provide inspection instructions of the track station 4 and track station 5 DSE and sensor struts of the LH and RH wings. For the reasons described above, this AD requires repetitive inspections of the LH and RH track station 4 and track station 5 DSE and sensor struts, and, depending on findings, accomplishment of applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection: (1) Within the compliance times defined in Table 1 of this AD, as applicable, and, thereafter, at intervals not to exceed the values defined in Table 2 of this AD, as applicable, accomplish a detailed inspection (DET) of the LH and RH Track station 4 DSE, followed by a general visual inspection (GVI) of the LH and RH Track station 4 sensor struts, in accordance with the instructions of the applicable SB. Table 1 – Inspection Threshold (see Note 1 of this AD) Flight Cycles (FC) Compliance Time Accumulated Before exceeding 24 months, or within 18 months after the effective Less than 1 000 FC date of this AD, whichever occurs later, but not exceeding 2 300 FC Within 1 000 FC or 12 months, whichever occurs first after the effective 1 000 FC or more date of the AD Note 1: Unless specified otherwise, the FC and calendar time indicated in Table 1 of this AD are those accumulated by the aeroplane since first flight. Page 2 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0151 Table 2 – Inspection Intervals Aeroplanes Compliance Time (whichever occurs first) A330, A340-200 and A340-300 3 300 FC or 24 months A340-500 and A340-600 1 600 FC or 24 months (2) If, during any GVI as required by paragraph (1) of this AD, any discrepancy is detected as defined in the applicable SB, before next flight, accomplish a DET of the LH and/or RH track station 5 DSE in accordance with the instructions of the applicable SB. Corrective Action(s): (3) If, during any DET as required by paragraph (1) of this AD, any discrepancy is detected as defined in the applicable SB, before next flight, replace each affected part with a serviceable part in accordance with the instructions of the applicable SB, or contact Airbus for approved repair instructions and accomplish those instructions accordingly. (4) If, during any GVI as required by paragraph (1) of this AD, any discrepancy is detected as defined in the applicable SB, before next flight, replace each affected part with a serviceable part in accordance with the instructions of the applicable SB, or contact Airbus for approved repair instructions and accomplish those instructions accordingly. (5) If, during any DET as required by paragraph (2) of this AD, any discrepancy is detected, as defined in the applicable SB, before next flight, replace each affected part with a serviceable part in accordance with the instructions of the applicable SB, or contact Airbus for approved repair instructions and accomplish those instructions accordingly. Terminating Action(s): (6) None. Reporting: (7) Within 30 days after each inspection as required by paragraph (1) or (2) of this AD, as applicable, report the results (including no findings) to Airbus.
+
+Ref. Publications: Airbus SB A330-27-3226 original issue dated 05 April 2018. Airbus SB A340-27-4206 original issue dated 03 April 2018. Airbus SB A340-27-5071 original issue dated 03 April 2018. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. Page 3 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2018-0151 2. This AD was posted on 28 May 2018 as PAD 18-074 for consultation until 11 June 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

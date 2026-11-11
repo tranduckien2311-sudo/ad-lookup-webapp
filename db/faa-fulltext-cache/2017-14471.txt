@@ -1,0 +1,647 @@
+[Federal Register Volume 82, Number 159 (Friday, August 18, 2017)]
+[Rules and Regulations]
+[Pages 39347-39351]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-14471]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9508; Directorate Identifier 2016-NM-065-AD; 
+Amendment 39-18956; AD 2017-14-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2015-22-06 
+which applied to all Airbus Model A318, A319, A320, and A321 series 
+airplanes. AD 2015-22-06 required revising the After Start Normal 
+Procedures section of the airplane flight manual (AFM) to provide 
+procedures that address latent failures in the spoiler and elevator 
+computer (SEC). This AD requires installing new updated SEC software. 
+This AD was prompted by reports that certain maintenance messages 
+indicated the loss of elevator servo control monitoring performed by 
+SEC 1, SEC 2, or both, during the engine start. We are issuing this AD 
+to address the unsafe condition on these products.
+
+DATES: This AD is effective September 22, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of September 22, 
+2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+November 20, 2015 (80 FR 68429, November 5, 2015).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425 227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9508.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9508; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 39348]]
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2015-22-06, Amendment 39-18311 (80 FR 68429, 
+November 5, 2015) (``AD 2015-22-06''). AD 2015-22-06 applied to all 
+Airbus Model A318, A319, A320, and A321 series airplanes. The NPRM 
+published in the Federal Register on December 20, 2016 (81 FR 92749). 
+The NPRM was prompted by reports that some maintenance messages pointed 
+out the loss of elevator servo control monitoring performed by SEC 1, 
+SEC 2, or both, during the engine start. The NPRM proposed to continue 
+to require revision of the After Start Normal Procedures section of the 
+AFM. The NPRM also proposed to require multiple actions depending on 
+airplane configuration. For airplanes with SEC C that have received the 
+previous Airbus modification to SEC hardware, the NPRM proposed to 
+require a software update and revision to the AFM. For airplanes that 
+have not received the modification, the NPRM proposed to require 
+inspection of the currently installed SEC hardware to determine if it 
+is affected by this AD and to complete a corrective action to update 
+the software and AFM as required. We are issuing this AD to prevent an 
+undetected loss of redundancy during flight if an affected SEC cannot 
+control the related elevator servo control(s), which could result in 
+reduced control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive, 2016-0056, dated March 18, 2016 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model A318 
+and A319 series airplanes, and Model A320-211, -212, -214, -231, -232, 
+and -233, and A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes. The MCAI states:
+
+    Following the introduction of new Spoiler and Elevator Computer 
+(SEC) hardware C Part Number (P/N) B372CAM0100 with software (SW) 
+standards 122, 124 and 125 (identified by P/N B372CAM0101, P/N 
+B372CAM0102 and P/N B372CAM0103, respectively, and hereafter 
+referred to as an ``affected SEC software standard'' in this [EASA] 
+AD), some airlines reported receiving maintenance messages, e.g. 
+``SEC OR WIRING FROM L or R ELEV POS MON XDCR'' and/or ``SEC OR 
+WIRING FROM G or Y ELEV POS XDCR'', which are associated with servo 
+control or elevator transducer monitoring. Such messages are 
+triggered by a short data inconsistency due to power transients, 
+when the engines are started.
+    This condition, if not corrected, could lead to an undetected 
+loss of redundancy during flight if an affected SEC cannot control 
+the related elevator servo control(s), possibly resulting in reduced 
+control of the aeroplane.
+    To address this potential unsafe condition, EASA issued AD 2015-
+0191 [which corresponds to AD 2015-22-06] to require amendment of 
+the applicable [Airbus] Airplane Flight Manual (AFM) to include the 
+flight crew procedure necessary to recover full SEC redundancy.
+    Since that [EASA] AD was issued, to fix the software deficiency, 
+SEC software standard 126 (identified by P/N B372CAM0104) was 
+developed, which is embodied in production through Airbus 
+modification (mod) 161208 (installation of SEC software standard 
+126), and introduced in service through Airbus Service Bulletin (SB) 
+A320-27-1252.
+    For the reason described above, this [EASA] AD retains the AFM 
+change requirements of EASA AD 2015-0191, which is superseded, and 
+requires the removal and/or upgrade of [an affected] SEC.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9508.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA), expressed 
+its full support for the NPRM.
+
+Request To Extend Compliance Time for Replacement of Affected Software
+
+    American Airlines (AAL) requested that we revise the proposed AD to 
+extend the proposed compliance time for replacement of the affected 
+software from 3 months to 24 months. AAL mentioned that it has 121 
+airplanes, for a total of 363 SEC computers, and that the proposed 
+compliance time of 3 months poses a significant burden on its ability 
+to comply with the proposed requirements. AAL asserted that an increase 
+in the specified compliance time would greatly decrease the burden with 
+no added safety risk, due to the revision of the AFM specified in 
+paragraph (g) of the proposed AD.
+    We do not agree to extend the specified compliance time. The 
+operator provided no technical justification for revising this 
+compliance time. Further, in developing an appropriate compliance time 
+for this action, we considered the urgency associated with the subject 
+unsafe condition, the availability of necessary replacement software, 
+recommendations from the manufacturer, and the practical aspect of 
+accomplishing the required modification within a period of time that 
+corresponds to the normal scheduled maintenance for most affected 
+operators. We have determined that a 3-month compliance time will 
+ensure an acceptable level of safety and allow the software replacement 
+to be done during regular maintenance schedules for most affected 
+operators. However, under the provisions of paragraph (p)(1) of this 
+AD, we will consider requests for approval of an extension of the 
+compliance time if sufficient data are submitted to substantiate that 
+the new compliance time would provide an acceptable level of safety. We 
+have not changed this AD in this regard.
+
+Request To Permit Replacement of SEC in Lieu of Software Standard 126
+
+    AAL requested that we revise paragraph (i)(l) of the proposed AD to 
+allow replacement of the SEC in lieu of installation of SEC software 
+standard 126. AAL suggested that we add a statement similar to 
+paragraph (i)(2) of the proposed AD, to paragraph (i)(1) of the 
+proposed AD, allowing replacement of the SEC to be accomplished in 
+accordance with an installation method approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; or 
+EASA; or Airbus's EASA Design Organization Approval (DOA). AAL asserted 
+that there are cases where the option to replace the SEC in accordance 
+with the applicable Airbus airplane maintenance manual or other 
+approved methods on airplanes having Airbus modification 39429 would 
+benefit operators, especially given the 3-month compliance time.
+    We disagree with the request to revise paragraph (i)(1) of this AD. 
+As specified in the MCAI, paragraph (i)(1) of this AD applies to 
+airplanes with Airbus modification 39429 embodied in production and 
+requires installing SEC software standard 126, which is the only 
+approved corrective action. The instructions in paragraph (i)(2) of 
+this AD only apply to airplanes that have not received the modification 
+in production. However, under the provisions of paragraph (p)(1) of 
+this AD, we will consider alternative replacements if sufficient data 
+are submitted to substantiate that the alternative replacement would 
+provide an acceptable level of safety. We have not changed this AD in 
+this regard.
+
+[[Page 39349]]
+
+Request To Specify Latest Airbus Service Bulletin
+
+    Airbus requested that we revise the NPRM to reference Airbus 
+Service Bulletin A320-27-1257, Revision 01, dated January 1, 2017, for 
+the applicable software replacement required by paragraph (i)(2) of 
+this AD. Airbus Service Bulletin A320-27-1257, dated December 18, 2015, 
+was specified as the appropriate source of service information for the 
+proposed SEC software replacement provided in the proposed AD. Airbus 
+stated that Airbus Service Bulletin A320-27-1257, Revision 01, dated 
+January 1, 2017, was issued to add a maintenance records check for 
+determining the part number of the SEC software, and to correct a 
+typographical error in a part number in a certain subtask.
+    We agree that this AD should specify Airbus Service Bulletin A320-
+27-1257, Revision 01, dated January 1, 2017. This service information 
+corrects errors in Airbus Service Bulletin A320-27-1257, dated December 
+18, 2015, which were noted in the NPRM. No additional work is necessary 
+for airplanes on which the actions were performed using Airbus Service 
+Bulletin A320-27-1257, dated December 18, 2015. Therefore, we have 
+changed this AD to refer to Airbus Service Bulletin A320-27-1257, 
+Revision 01, dated January 1, 2017, as the appropriate source of 
+service information for the applicable required SEC software 
+replacement. We have also added paragraph (o) to this AD to provide 
+credit for actions accomplished prior to the effective date of this AD, 
+if those actions were performed using Airbus Service Bulletin A320-27-
+1257, dated December 18, 2015, and redesignated subsequent paragraphs 
+accordingly.
+
+Additional Changes to This AD
+
+    We have revised this AD to provide credit for the software 
+replacement required by paragraph (i)(1) of this AD, if those actions 
+were performed before the effective date of this AD using Airbus 
+Service Bulletin A320-27-1252, dated November 6, 2015. We have also 
+moved the content of note 1 to paragraph (g) of the proposed AD to the 
+text in paragraph (g) of this AD. We have redesignated the subsequent 
+note accordingly. In addition, we have revised paragraph (m) of this AD 
+to clarify the provision for installation of equivalent software and 
+hardware. The proposed AD referred to the effective date of this AD. 
+This AD refers to the effective date of the MCAI.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following service information:
+     Airbus Service Bulletin A320-27-1252, Revision 01, dated 
+February 18, 2016.
+     Airbus Service Bulletin A320-27-1257, Revision 01, dated 
+January 1, 2017.
+    This service information provides information for identifying 
+affected SECs and updating the software on affected SECs. These 
+documents are distinct since they apply to different airplane 
+configurations.
+    We also reviewed Airbus A318/A319/A320/A321 Temporary Revision 
+TR572, Issue 1.0, dated August 13, 2015, to the Airbus A318/A319/A320/
+A321 AFM. This service information describes the reset of SEC 1 and SEC 
+2 that must be done after engine start.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 959 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+AFM revision (retained action from AD      1 work-hour x $85 per hour            $0          $85         $81,515
+ 2015-22-06).                               = $85.
+Removal and replacement of SEC (new        4 work-hours x $85 per hour            0          340         326,060
+ action).                                   = $340.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator,
+
+[[Page 39350]]
+
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2015-22-06, Amendment 39-18311 (80 FR 68429, November 5, 2015), and 
+adding the following new AD:
+
+2017-14-12 Airbus: Amendment 39-18956; Docket No. FAA-2016-9508; 
+Directorate Identifier 2016-NM-065-AD.
+
+(a) Effective Date
+
+    This AD is effective September 22, 2017.
+
+(b) Affected ADs
+
+    This AD replaces AD 2015-22-06, Amendment 39-18311 (80 FR 68429, 
+November 5, 2015) (``AD 2015-22-06'').
+
+(c) Applicability
+
+    This AD applies to the airplanes, certificated in any category, 
+identified in paragraphs (c)(1) through (c)(4) of this AD, all 
+manufacturer serial numbers.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+controls.
+
+(e) Reason
+
+    This AD was prompted by reports that certain maintenance 
+messages were recorded within the post flight report (PFR) that 
+indicated the loss of elevator servo control monitoring performed by 
+spoiler and elevator computer (SEC) 1, SEC 2, or both, during the 
+engine start. We are issuing this AD to prevent an undetected loss 
+of redundancy during flight if an affected SEC cannot control the 
+related elevator servo control(s), possibly resulting in reduced 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Airplane Flight Manual (AFM) Revision, With Revised 
+Compliance Language
+
+    (1) This paragraph restates the requirements of paragraph (g) of 
+AD 2015-22-06, with revised compliance language. For airplanes 
+equipped with SEC hardware C part number (P/N) B372CAM0100 with 
+software standards 122 (P/N B372CAM0101), 124 (P/N B372CAM0102), or 
+125 (P/N B372CAM0103), on SEC position 1 or 2, or both: Within 30 
+days after November 20, 2015 (the effective date of AD 2015-22-06), 
+revise the After Start Normal Procedures section of the AFM to 
+include the statement specified in figure 1 to paragraph (g) of this 
+AD. This may be done by inserting a copy of this AD or Airbus A318/
+A319/A320/A321 Temporary Revision TR572, Issue 1.0, dated August 13, 
+2015, to the Airbus A318/A319/A320/A321 AFM, into the applicable 
+AFM. When a statement identical to that in figure 1 to paragraph (g) 
+of this AD has been included in the After Start Normal Procedures 
+section of the general revisions of the AFM, the general revisions 
+may be inserted into the AFM, and this AD or Airbus A318/A319/A320/
+A321 Temporary Revision TR572, Issue 1.0, dated August 13, 2015, to 
+the Airbus A318/A319/A320/A321 AFM, may be removed from the AFM.
+    (2) Inserting a copy of AD 2015-22-06 into the applicable AFM is 
+acceptable for compliance with the requirement of paragraph (g)(1) 
+of this AD. When a statement identical to that in figure 1 to 
+paragraph (g) of this AD has been included in the After Start Normal 
+Procedures section of the general revisions of the AFM, the general 
+revisions may be inserted into the AFM, and AD 2015-22-06 may be 
+removed from the AFM.
+
+      Figure 1 to Paragraph (g) of This AD--AFM Temporary Revision
+------------------------------------------------------------------------
+ 
+-------------------------------------------------------------------------
+AFTER START NORMAL PROCEDURE
+After both engines start:
+Turn OFF then ON SEC 1 and SEC 2 one after the other.
+------------------------------------------------------------------------
+
+
+    Note 1 to paragraph (g) of this AD: Airbus Operations 
+Engineering Bulletin OEB-50 provides additional information on the 
+subject addressed by this AD.
+
+(h) Retained Parts Installation Limitation, With No Change
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2015-22-06, with no change. For all airplanes: As of November 20, 
+2015 (the effective date of AD 2015-22-06), do not install SEC 
+hardware C P/N B372CAM0100 with software standard 122 (P/N 
+B372CAM0101), 124 (P/N B372CAM0102), or 125 (P/N B372CAM0103), on 
+SEC position 1 or 2, or both, on any airplane, unless the AFM of the 
+airplane is revised concurrently with that installation, as required 
+by paragraph (g) of this AD.
+
+(i) New Requirement of This AD: Replacement of Software
+
+    Within 3 months after the effective date of this AD, comply with 
+the actions in paragraph (i)(1) or (i)(2) of this AD, as applicable.
+    (1) For an airplane that has received Airbus modification 39429 
+(installation of SEC hardware C P/N B372CAM0100) in production: 
+Install SEC software standard 126, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-27-1252, 
+Revision 01, dated February 18, 2016.
+    (2) For an airplane that has not received Airbus modification 
+39429 in production: Inspect to determine whether an affected SEC 
+software standard is installed. Do the inspection in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A320-27-
+1257, Revision 01, dated January 1, 2017, except as required by 
+paragraph (n) of this AD. A review of airplane maintenance records 
+is acceptable in lieu of this inspection if the part number of the 
+SEC C can be conclusively determined from that review. If an 
+affected SEC software standard is found installed, replace the 
+affected software standard using an installation method approved by 
+the Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA).
+
+(j) New Requirement of This AD: Compliance for Airplanes Having Airbus 
+Modification 161208 Embodied in Production
+
+    An airplane on which Airbus modification 161208 has been 
+embodied in production is compliant with the requirements of 
+paragraph (i) of this AD, provided it is determined that no affected 
+SEC software standard, as identified in paragraph (g) of this AD, is 
+installed on that airplane.
+
+(k) New Requirement of This AD: Disposition of AFM After Airplane 
+Modification
+
+    After modification of an airplane as required by paragraph (i) 
+of this AD, remove the information specified in Airbus A318/A319/
+A320/A321 TR572, Issue 1.0, dated August 13, 2015, to the Airbus 
+A318/A319/A320/A321 AFM from the AFM of that airplane.
+
+(l) New Requirement of This AD: Parts Installation Prohibition
+
+    As of the effective date of this AD, no person may install on 
+any airplane an affected SEC software standard, or a SEC hardware C 
+hosting an affected SEC software standard.
+
+(m) New Provision of This AD: Installation of Equivalent Software and 
+Hardware
+
+    Installation on an airplane of a SEC software standard, or of a 
+SEC hardware standard, approved after April 1, 2016 (the effective 
+date of EASA AD 2016-0056), is acceptable for compliance with the 
+requirements of paragraph (i) of this AD for that airplane, provided 
+the conditions specified in paragraphs (m)(1) and (m)(2) of this AD 
+are met.
+    (1) The software and hardware standard, as applicable, is 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA.
+    (2) Replacement of the affected software standard is done using 
+an installation method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA.
+
+[[Page 39351]]
+
+(n) Exceptions to Service Information Specifications
+
+    Subtask 271257-832-006-001 of Airbus Service Bulletin A320-27-
+1257, Revision 01, dated January 1, 2017, includes incorrect 
+instructions. This AD requires that those instructions be followed 
+as specified in paragraphs (n)(1) and (n)(2) of this AD.
+    (1) For Subtask 271257-832-006-001, instruction ``(b)'': If SEC 
+C 126 software P/N B372CAM0104 is found, no further action is 
+required by this AD.
+    (2) For Subtask 271257-832-006-001, instruction ``(c)'': If SEC 
+C 122 software P/N B372CAM0101, SEC C 124 software P/N B372CAM0102, 
+or SEC C 125 software P/N B372CAM0103 is found, do corrective 
+actions using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA.
+
+(o) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (i) of this AD, if those actions were performed before the 
+effective date of this AD using the applicable service information 
+specified in paragraph (o)(1) or (o)(2) of this AD.
+    (1) For airplanes that have received Airbus modification 39429 
+(installation of SEC hardware C P/N B372CAM0100) in production: 
+Airbus Service Bulletin A320-27-1252, dated November 6, 2015.
+    (2) For airplanes that have not received Airbus modification 
+39429 in production: Airbus Service Bulletin A320-27-1257, dated 
+December 18, 2015.
+
+(p) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to the attention of 
+the person identified in paragraph (r)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (n) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(q) Special Flight Permits
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(r) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2016-0056, dated March 18, 2016, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2016-9508.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (s)(5) and (s)(6) of this AD.
+
+(s) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+September 22, 2017.
+    (i) Airbus Service Bulletin A320-27-1252, Revision 01, dated 
+February 18, 2016.
+    (ii) Airbus Service Bulletin A320-27-1257, Revision 01, dated 
+January 1, 2017.
+    (4) The following service information was approved for IBR on 
+November 20, 2015 (80 FR 68429, November 5, 2015).
+    (i) Airbus A318/A319/A320/A321 Temporary Revision TR572, Issue 
+1.0, dated August 13, 2015, to the Airbus A318/A319/A320/A321 
+Airplane Flight Manual.
+    (ii) Reserved.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at 
+the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at 
+the FAA, call 425-227-1221.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on June 29, 2017.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2017-14471 Filed 8-17-17; 8:45 am]
+BILLING CODE 4910-13-P

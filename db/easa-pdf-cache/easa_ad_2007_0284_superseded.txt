@@ -1,0 +1,32 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007 - 0284 Date: 12 November 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : d AIRBUS A330-200/-300 and A340-300 series e TCDS Number : EASA A.004, EASA A.015 Foreign AD : Not applicable d Supersedure : None e Fuselage – Longitudinal Doubler at Vertical Tail Plane s
+
+ATA 53 (VTP) Attachment Cut out - Inspection / Modification r
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) e
+
+Applicability: AIRBUS aircraft A330-200, A330-300 and A340-300 series, all certified models, all serial numbers, on which AIRBUS modification 44205 has p been embodied in production, except those on which AIRBUS modification 52974 or 53223 has been embodied in production. u
+
+Reason: During fatigue tests (EF3) on the A340-600, damages were found in longitudinal doubler at VTP attachment cut out between Frame (FR) 80 and FR86. This damage occurred between 58341 and 72891 simulated Flight Cycles (FC). S Due to the higher Design Service Goal and different design (e.g. doubler thickness) for A330-200/-300 and A340-300 aircraft series, the damage assessment concluded on potential impact on aircraft series part of the above applicability. In order to allow early detection of cracks which could avoid possible crack propagation and consequently to maintain the structural integrity of the upper shell structure between FR80 and FR86, this
+
+Airworthiness Directive (AD) mandates an inspection program of this area using a high frequency eddy current (HFEC) method and a modification to improve the upper shell structure.
+
+Effective Date: 26 November 2007 1/3
+
+--- PAGE 2 ---
+Compliance: Required as indicated: 1. For AIRBUS aircraft A330-300 and A340-300 series (Except Weight Variant (WV) 027) [as listed in the applicability of this directive] : 1.1 Unless already accomplished, Within the thresholds (total FC or Flight Hours (FH)) mentioned in SB the paragraph 1.E.(2) of Service Bulletin (SB) A330-53-3168 or A340-53-4174 , whichever occurs first, depending on the configuration of the aircraft, carry out HFEC inspection of the upper shell structure between FR80 and FR86, in accordance with the instructions given in SB A330-53-3168 or SB A340-53-4174. 1.2. Should no crack be detected, d Repeat the inspection within intervals (FC or FH) mentioned in the paragraph 1.E.(2) of SB A330-57-3168 or SB A340-53-4174, whichever occurs first, depending on the configuration of the e aircraft, 1.3. In case of any crack finding during the first or repetitive inspection, d depending on the detected crack length and on the configuration of the aircraft: e - repeat this inspection within intervals mentioned in the paragraph SB A340-53-4174, whichever 1.E.(2) of SB A330-53-3168 or occurs first, s or r - contact AIRBUS before next flight in order to get repair instructions. e 1.4. Application of the modification as per SB A330-53-3159 or SB A340-53-4165 cancels the inspections required by paragraph 1 of this AD. p 2. For AIRBUS aircraft A330-200 and A340-300 (only WV 027) series u [as listed in the applicability of this directive] : Unless already accomplished, Apply the inspection program and modify the upper shell structure S between FR80 and FR86, in accordance with the instructions given in SB A330-53-3160 or SB A340-53-4172, within the following threshold from the first flight of the aircraft: Aircraft series, Threshold, whichever occurs first Weight Variant Total FC Total FH A330-200, WV 020 13 500 N/A Thru WV 027 2/3
+
+--- PAGE 3 ---
+A330-200, WV 050 10 700 59 300 Thru WV 055 A340-300, WV 027 14 200 N/A
+
+Ref. Publications: AIRBUS Service Bulletin A330-53-3159 original issue; AIRBUS Service Bulletin A330-53-3160 original issue; AIRBUS Service Bulletin A330-53-3168 original issue; AIRBUS Service Bulletin A340-53-4165 original issue; AIRBUS Service Bulletin A340-53-4172 original issue; AIRBUS Service Bulletin A340-53-4174 original issue. d The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. e Remarks : 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance for this AD. 2. This AD was posted on 26 September 2007 as PAD 07-175 for d consultation until 11 October 2007. No comments were received during the consultation period. e 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the
+
+Airworthiness Directive Focal Point - Certification Directorate, . EASA. E-mail: ADs@easa.europa.eu s 4. For any question concerning the technical content of the requirements in this AD, please contact AIRBUS – Airworthiness Office – EAL r . E- mail : airworthiness.A330-A340@airbus.com e p u S 3/3

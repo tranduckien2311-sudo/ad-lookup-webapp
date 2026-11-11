@@ -1,0 +1,407 @@
+[Federal Register Volume 85, Number 50 (Friday, March 13, 2020)]
+[Rules and Regulations]
+[Pages 14559-14561]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-05123]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0712; Product Identifier 2019-NM-115-AD; Amendment 
+39-19849; AD 2020-04-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200 Freighter, A330-200, A330-300, A340-200, and 
+A340-300 series airplanes. This AD was prompted by reports that 
+elevator skin panels were found disbonded as a result of water ingress. 
+This AD requires repetitive detailed inspections of skin panels on both 
+elevators, and corrective actions if necessary, as specified in a 
+European Union Aviation Safety Agency (EASA) AD, which is incorporated 
+by reference. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective April 17, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 17, 
+2020.
+
+ADDRESSES: For the material incorporated by reference (IBR) in this AD, 
+contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 89990 1000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available in the AD docket on the internet at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2019-0712.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0712; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229; email 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2019-0138, dated June 12, 2019 
+(``EASA AD 2019-0138'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for all Airbus SAS Model A330-200 Freighter, A330-200, A330-
+300, A340-200, and A340-300 series airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A330-200 Freighter, A330-200, A330-300, A340-200, and A340-300 series 
+airplanes. The NPRM published in the Federal Register on October 9, 
+2019 (84 FR 54049). The NPRM was prompted by reports that elevator skin 
+panels were found disbonded as a result of water ingress. The NPRM 
+proposed to require repetitive detailed inspections of skin panels on 
+both elevators, and corrective actions if necessary.
+    The FAA is issuing this AD to address disbonding of the elevator 
+skin panels. This condition, if not detected and corrected, could 
+affect the structural integrity of the elevators, possibly resulting in 
+reduced control of the airplane. See the MCAI for additional background 
+information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Modify the Applicability of the Proposed AD
+
+    Delta Air Lines (DAL) requested that paragraph (c) of the proposed 
+AD be modified to refer to Table 1 of EASA AD 2019-0138 for affected 
+parts, or that the proposed AD include a paragraph providing actions 
+for airplanes not equipped with the affected part numbers. DAL asserted 
+that although the NPRM is applicable to all Airbus SAS airplanes, EASA 
+AD 2019-0138 provides additional details, namely the affected elevator 
+part numbers, and those details should be referenced in paragraph (c) 
+of the proposed AD.
+    The FAA disagrees with the requested modification. EASA AD 2019-
+0138 is
+
+[[Page 14560]]
+
+applicable to Airbus SAS Model A330-200 Freighter, A330-200, A330-300, 
+A340-200, and A340-300 series airplanes, all manufacturer serial 
+numbers, the same airplanes to which this AD applies. Further, 
+paragraph (g) of this AD requires the actions specified in EASA AD 
+2019-0138, which includes the list of affected parts in Table 1 of EASA 
+AD 2019-0138. Therefore, no change to this AD is necessary in this 
+regard.
+
+Request To Add Clarifying Statement to the Proposed AD
+
+    DAL also requested clarification of whether the requirements of 
+paragraph (i) of AD 2011-03-10, Amendment 39-16594 (76 FR 6543, 
+February 7, 2011) (``AD 2011-03-10''), are still retained, and that a 
+statement specifying that retention be added to the proposed AD. The 
+commenter observed that paragraph (i) of the proposed AD terminates all 
+requirements of AD 2011-03-10, yet paragraph (i) of AD 2011-03-10 
+identifies specific part number and serial number combinations as 
+having conditional activities, and identification of those combinations 
+can be verified by records review. DAL further remarked that the 
+proposed AD does not address the actions specified in paragraph (i) of 
+AD 2011-03-10 nor retain the requirement to verify part number and 
+serial number combinations.
+    The FAA does not agree to add a clarifying statement in this AD. 
+Paragraph (i) of AD 2011-03-10 is the restatement of the requirements 
+of paragraph (g) of AD 2005-20-32, Amendment 39-14329 (70 FR 59263, 
+October 12, 2005), which is superseded by paragraph (k) of AD 2011-03-
+10. Accomplishment of actions specified in paragraph (k) of AD 2011-03-
+10 terminates the requirements of paragraph (i) of AD 2011-03-10. 
+Paragraph (k) of AD 2011-03-10 refers to Table 1 of AD 2011-03-10, 
+which defines the affected elevator part numbers.
+    In addition, FAA AD 2011-03-10 is based on EASA AD 2009-0255, dated 
+December 1, 2009 (``EASA AD 2009-0255''). EASA AD 2019-0138 retains the 
+requirements of EASA AD 2009-0255, which is superseded. Table 1 of EASA 
+AD 2019-0138 contains the affected elevator part numbers, which are the 
+same as those defined in Table 1 of FAA AD 2011-03-10. Compliance with 
+EASA AD 2019-0138 in its entirety constitutes compliance with this AD 
+and thus terminates all actions specified in AD 2011-03-10, as 
+reflected in paragraph (i) of this AD.
+    The FAA has not changed this AD with regard to this request.
+
+Change Made to This AD
+
+    The FAA has revised the formatting of paragraph (h) of this AD. 
+This change does not affect the content or intent of that paragraph.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the change described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2019-0138 describes procedures for a detailed inspection of 
+the affected parts and corrective actions. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 103 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+               Labor cost                   Parts cost         Cost per product         Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 14 work-hours x $85 per hour = Up               $0  Up to $1,190..............  Up to $122,570.
+ to $1,190.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+            Labor cost                Parts cost      Cost per product
+------------------------------------------------------------------------
+Up to 24 work-hours x $85 per hour              $0  Up to $2,040.
+ = Up to $2,040.
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+
+[[Page 14561]]
+
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2020-04-10 Airbus SAS: Amendment 39-19849; Docket No. FAA-2019-0712; 
+Product Identifier 2019-NM-115-AD.
+
+(a) Effective Date
+
+    This AD is effective April 17, 2020.
+
+(b) Affected ADs
+
+    This AD affects AD 2011-03-10, Amendment 39-16594 (76 FR 6543, 
+February 7, 2011) (``AD 2011-03-10'').
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes, certificated in any 
+category, identified in paragraphs (c)(1) through (5) of this AD.
+    (1) Model A330-223F and -243F airplanes.
+    (2) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (4) Model A340-211, -212, and -213 airplanes.
+    (5) Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 55, Stabilizers.
+
+(e) Reason
+
+    This AD was prompted by reports that elevator skin panels were 
+found disbonded as a result of water ingress. The FAA is issuing 
+this AD to address disbonding of the elevator skin panels. This 
+condition, if not detected and corrected, could affect the 
+structural integrity of the elevators, possibly resulting in reduced 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2019-0138, dated June 12, 2019 (``EASA AD 2019-0138'').
+
+(h) Exceptions to EASA AD 2019-0138
+
+    (1) Where EASA AD 2019-0138 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2019-0138 refers to December 15, 2009 (the 
+effective date of EASA AD 2009-0255), this AD requires using March 
+14, 2011 (the effective date of AD 2011-03-10).
+    (3) The ``Remarks'' section of EASA AD 2019-0138 does not apply 
+to this AD.
+
+(i) Terminating Action for AD 2011-03-10
+
+    Accomplishing the actions required by this AD terminates all 
+requirements of AD 2011-03-10.
+
+(j) No Reporting Requirement
+
+    Although EASA AD 2019-0138 and the service information 
+referenced in it specify to submit certain information to the 
+manufacturer, this AD does not include that requirement.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (l) of this AD. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2019-0138 that contains RC procedures and 
+tests: Except as required by paragraph (k)(2) of this AD, RC 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(l) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3229; email [email protected].
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2019-0138, 
+dated June 12, 2019.
+    (ii) [Reserved]
+    (3) For information about EASA AD 2019-0138, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+89990 6017; email [email protected]; internet www.easa.europa.eu. 
+You may find this EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. This 
+material may be found in the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-
+2019-0712.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on February 19, 2020.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2020-05123 Filed 3-12-20; 8:45 am]
+ BILLING CODE 4910-13-P

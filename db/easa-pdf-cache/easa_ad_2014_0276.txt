@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0276 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0276 Date: 19 December 2014 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes TCDS Number: EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None Power Plant – Fan Cowl Door Hinge Nuts – Inspection /
+
+ATA 71 Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A319-111, A319-112, A319-115, A320-214, A320-215, A320-216, A321-111, A321-112, A321-211, A321-212 and A321-213 aeroplanes, all manufacturer serial numbers.
+
+Reason: In-service findings have been reported of cracked cadmium plated lock nuts. This cracking occurs shortly after installation. Investigation results attribute the cause to an improper manufacturing procedure of the nuts. It was determined that the affected batch of lock nuts was used on the fan cowl to attach hinges to the cowl doors on CFM56-5B engines only. This condition, if not corrected, could lead to separation of the hinge from the fan cowl door, possibly resulting in in-flight loss of a fan cowl door, with consequent damage to the aeroplane and/or injury to persons on the ground. For the reasons described above, this AD requires identification of the affected fan cowl doors, a one-time inspection of the fan cowl door hinge nuts and, depending on findings, replacement of the affected nuts.
+
+Effective Date: 02 January 2015 TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0276 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 24 months after the effective date of this AD, inspect each Time(s): engine fan cowl door to determine the serial number (s/n) in accordance with the instructions of Airbus Service Bulletin (SB) A320-71-1062, or Goodrich Aerostructures SB RA32071-151. A review of the aeroplane records is acceptable in lieu of the required inspection, provided those records are reliable and the s/n of the engine fan cowl door can be positively determined from that review. (2) For an aeroplane with a fan cowl door, identified as required by paragraph (1) of this AD, having a s/n between 10029001 and 11092003 (inclusive), within 24 months after the effective date of this AD, accomplish a special detailed inspection (SDI) of the engine fan cowl door hinge nuts in accordance with the instructions of Airbus SB A320-71-1062, or Goodrich Aerostructures SB RA32071-151. (3) If, during the SDI as required by paragraph (2) of this AD, any fractured nut is detected, before next flight, replace each affected nut in accordance with the instructions of Airbus SB A320-71-1062, or Goodrich Aerostructures SB RA32071-151.
+
+Ref. Publications: Airbus SB A320-71-1062, original issue dated 28 July 2014. Goodrich Aerostructures SB RA32071-151, original issue dated 11 June 2014. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 13 October 2014 as PAD 14-148 for consultation until 10 November 2014. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

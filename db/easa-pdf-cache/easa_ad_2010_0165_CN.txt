@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2010-0165-CN AIRWORTHINESS DIRECTIVE EASA CANCELLATION NOTICE
+
+AD No.: 2010-0165-CN Date: 17 August 2011 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. Type Approval Holder’s Name : Type/Model designation(s) : AIRBUS A318, A319, A320 and A321 aeroplanes TCDS Number: EASA.A.064 Foreign AD: FAA AD 2011-14-08 dated 15 July 2011. Cancellation: This Notice cancels EASA AD 2010-0165R1 dated 27 January 2011, including the Correction dated 31 January 2011. Oxygen System – Passenger Oxygen Masks – Identification /
+
+ATA 35 Modification / Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplane models, all manufacturer serial numbers.
+
+Reason: During maintenance, it was discovered that the in-line flow indicators at several oxygen-supply-lines of B/E Aerospace (formerly Puritan-Bennett) passenger oxygen masks Part Number (P/N) 174080-xx were found broken. Investigation revealed that in-line flow indicators P/N 118023-02, installed on, but potentially not limited to B/E Aerospace oxygen masks P/N 174080- XX, 174085-XX, 174095-XX, and 174098-XX, manufactured between 01 January 2002 and 01 March 2006, are weaker and can fracture because of internal residual stresses caused by the flow indicator joint design and manufacturing processes. The affected oxygen masks P/N are known to be installed on, but not limited to A320 family aeroplanes. This condition, if not detected and corrected, could lead to further cases of fracturing and separation of the in-line flow indicators of the passenger oxygen masks, which could inhibit oxygen flow to the masks and consequently result in exposure of the passengers and cabin attendants to hypoxia following a depressurization event. For the reasons described above, EASA issued AD 2010-0165, later revised, to require the identification of the affected masks and modification or replacement with a serviceable unit. On 15 July 2011, the FAA, representing the State of Design of the affected B/E Aerospace oxygen masks, published Final Rule AD 2011-14-08, which EASA Form 116 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2010-0165-CN becomes effective on 19 August 2011, applicable to all aircraft with the affected B/E Aerospace oxygen masks installed, containing similar requirements to those required by EASA AD 2010-0165R1, and applicable to more oxygen mask P/N’s than listed in EASA AD 2010-0165R1. For the reasons described above, EASA has adopted FAA AD 2011-14-08 and EASA AD 2010-0165R1 is hereby cancelled accordingly. An Airbus A320 family aeroplane that is already compliant with EASA AD 2010-0165R1 is considered to be compliant with the requirements of FAA AD 2011-14-08, provided it can be positively determined that no oxygen mask assembly, having a P/N listed in B/E Aerospace Service Bulletin (SB) 174080-35-04 dated September 6, 2010, is installed on that aeroplane.
+
+Effective Date: 19 August 2011 Required Action(s) Not applicable and Compliance Time(s):
+
+Ref. Publications: B/E Aerospace SB 174080-35-02 Revision 01 dated 13 April 2010. B/E Aerospace SB 174080-35-04 dated 6 September 2010. Remarks : 1. Enquiries regarding this AD-CN should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail ADs@easa.europa.eu 2. For any question concerning the technical content of this Notice, please contact: AIRBUS – Airworthiness Office – EAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com, or B/E Aerospace, 10800 Pflumm Road, Lenexa, Kansas 66215, United State of America; telephone: +1 913-338-9800; fax: +1 913-469-8419; Internet: http://www.beaerospace.com, E-mail technicalpublications_lenexa@beaerospace.com. EASA Form 116 Page 2/2

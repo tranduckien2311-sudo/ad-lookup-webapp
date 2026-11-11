@@ -1,0 +1,470 @@
+[Federal Register Volume 81, Number 201 (Tuesday, October 18, 2016)]
+[Rules and Regulations]
+[Pages 71593-71596]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-23647]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6418; Directorate Identifier 2015-NM-158-AD; 
+Amendment 39-18676; AD 2016-20-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200 Freighter, -200, and -300 series airplanes; and 
+Airbus Model A340-200, -300, -500, and -600 series airplanes. This AD 
+was prompted by reports of fuel leaking through fuel pump electrical 
+connectors and of fuel pump electrical connector damage caused by the 
+build-up of moisture behind the electrical connectors. This AD requires 
+an inspection of the fuel pumps to identify their part numbers and 
+replacement of affected pumps. We are issuing this AD to prevent a 
+potential ignition source and a fuel leak through damaged fuel pump 
+electrical connectors, which creates a flammability risk in an area 
+adjacent to the fuel tank.
+
+DATES: This AD is effective November 22, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 22, 
+2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the
+
+[[Page 71594]]
+
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6418.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6418; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1138; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A330-200 
+Freighter, -200, and -300 series airplanes; and Airbus Model A340-200, 
+-300, -500, and -600 series airplanes. The NPRM published in the 
+Federal Register on May 9, 2016 (81 FR 28033) (``the NPRM''). The NPRM 
+was prompted by reports of fuel leaking through fuel pump electrical 
+connectors and of fuel pump electrical connector damage caused by the 
+build-up of moisture behind the electrical connectors. The NPRM 
+proposed to require an inspection of the fuel pumps to identify their 
+part numbers and replacement of affected pumps. We are issuing this AD 
+to prevent a potential ignition source and a fuel leak through damaged 
+fuel pump electrical connectors. This condition creates a flammability 
+risk in an area adjacent to the fuel tank.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2015-0194, dated September 22, 2015, to correct an unsafe condition for 
+all Airbus Model A330-200 Freighter, -200, and -300 series airplanes; 
+and Airbus Model A340-200, -300, -500, and -600 series airplanes. The 
+MCAI states:
+
+    Operators reported cases of fuel leak through fuel pump 
+electrical connectors. Subsequent investigation revealed fuel pump 
+electrical connector damage caused by moisture build up behind the 
+electrical connector.
+    This condition, if not detected and corrected, could create 
+concurrently an ignition source and fuel leak as a result of a 
+single failure, resulting in exposure to a flammability risk in an 
+adjacent area to the fuel tank.
+    To address this unsafe condition, Airbus published Service 
+Bulletins (SB) A330-28-3127, SB A340-28-4138 and SB A340-28-5060, 
+providing inspection/identification instructions, and instructions 
+for replacement of the fuel pumps.
+    For the reasons described above, this [EASA] AD requires 
+identification and replacement of the affected fuel pumps.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6418.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the NPRM and 
+the FAA's response to the comment.
+
+Request To Clarify Compliance for Affected Pumps
+
+    American Airlines (AAL) requested that we clarify which groups of 
+pumps paragraphs (h)(1) and (h)(2) of the proposed AD are intended to 
+control. Where individual items begin with ``All of the affected pumps. 
+. . .'' AAL explained that paragraph (h) of the proposed AD must be 
+intended to refer to all of the affected pumps on each airplane. AAL 
+pointed out that this language creates a requirement for all airplanes 
+that have one or more pumps having part number (P/N) 568-1-28300-001 or 
+568-1-28300-002 installed to be modified in accordance with the service 
+information within 72 months. AAL asserted that consistent references 
+to ``each affected pump'' confuse that interpretation and seem to imply 
+that each pump is treated separately. If the intent is to control the 
+compliance time for replacement at the pump level, AAL stated that it 
+would be more efficient to simply state that -001 and -002 pumps must 
+be replaced within 72 months, while -100 and -101 pumps must be 
+replaced within 96 months. If the intent is to control the compliance 
+time at the airplane level, AAL stated that the language throughout 
+paragraph (h) of the proposed AD should be revised to reflect that 
+intent; American provided some example language.
+    We agree that this AD should specify the compliance times at the 
+airplane level. Therefore, we have revised paragraphs (h)(1) and (h)(2) 
+of this AD by replacing the text in the beginning of the sentences, 
+``For affected fuel pumps that have . . . , '' with the text ``For 
+airplanes with fuel pumps that have . . .'' in order to clearly 
+identify the airplane configuration.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information:
+     Airbus Service Bulletin A330-28-3127, Revision 02, dated 
+April 14, 2016.
+     Airbus Service Bulletin A340-28-4138, Revision 01, dated 
+September 24, 2015.
+     Airbus Service Bulletin A340-28-5060, Revision 01, dated 
+September 24, 2015.
+    The service information describes procedures to identify and 
+replace affected fuel pumps with serviceable fuel pumps. These 
+documents are distinct since they apply to different airplane models. 
+This service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 99 airplanes of U.S. registry.
+    We also estimate that it will take about 4 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $33,660, or $340 per product.
+
+[[Page 71595]]
+
+    In addition, we estimate that any necessary follow-on actions would 
+take about 17 work-hours and require parts costing $10,400, for a cost 
+of $11,845 per product. We have no way of determining the number of 
+airplanes that might need these actions.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-20-10 Airbus: Amendment 39-18676; Docket No. FAA-2016-6418; 
+Directorate Identifier 2015-NM-158-AD.
+
+(a) Effective Date
+
+    This AD is effective November 22, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-223F and -243F airplanes; 
+Model A330-201, -202, -203, -223, and -243 airplanes; Model A330-
+301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes; 
+Model A340-211, -212, and -213 airplanes; Model A340-311, -312, and 
+-313 airplanes; Model A340-541 and A340-642 airplanes; certificated 
+in any category; all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel.
+
+(e) Reason
+
+    This AD was prompted by reports of fuel leaking through fuel 
+pump electrical connectors and of fuel pump electrical connector 
+damage caused by the build-up of moisture behind the electrical 
+connectors. Electrical connections that become damaged by moisture 
+can create an ignition source and a fuel leak. We are issuing this 
+AD to prevent a potential ignition source and a fuel leak through 
+damaged fuel pump electrical connectors, which creates a 
+flammability risk in an area adjacent to the fuel tank.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Identify Part Numbers (P/Ns)
+
+    Within 48 months after the effective date of this AD, inspect 
+each fuel pump to identify the part number, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-28-3127, 
+Revision 02, dated April 14, 2016; Airbus Service Bulletin A340-28-
+4138, Revision 01, dated September 24, 2015; or Airbus Service 
+Bulletin A340-28-5060, Revision 01, dated September 24, 2015; as 
+applicable to airplane model. A review of airplane delivery or 
+maintenance records is acceptable in lieu of this inspection if the 
+part number of the fuel pump can be conclusively determined from 
+that review.
+
+(h) Modification
+
+    If, during the inspection required by paragraph (g) of this AD, 
+it is determined that any affected fuel pump is installed: Within 
+the compliance time specified in paragraph (h)(1) or (h)(2) of this 
+AD, depending on the configuration of the affected fuel pumps 
+installed, replace each affected fuel pump with a serviceable fuel 
+pump, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A330-28-3127, Revision 02, dated April 14, 2016; 
+Airbus Service Bulletin A340-28-4138, Revision 01, dated September 
+24, 2015; or Airbus Service Bulletin A340-28-5060, Revision 01, 
+dated September 24, 2015; as applicable to airplane model.
+    (1) For airplanes with fuel pumps that have a part number or 
+combination of part numbers that are specified in paragraphs 
+(h)(1)(i) through (h)(1)(vi) of this AD: Do the replacement within 
+72 months after the effective date of this AD.
+    (i) All installed fuel pumps have P/N 568-1-28300-001.
+    (ii) All installed fuel pumps have P/N 568-1-28300-002.
+    (iii) Installed fuel pumps have a combination of P/Ns 568-1-
+28300-001 and 568-1-28300-002.
+    (iv) Installed fuel pumps have a combination of P/Ns 568-1-
+28300-001 and 568-1-28300-101.
+    (v) Installed fuel pumps have a combination of P/Ns 568-1-28300-
+002 and 568-1-28300-101.
+    (vi) Installed fuel pumps have a combination of P/Ns 568-1-
+28300-001, 568-1-28300-002, and 568-1-28300-101.
+    (2) For airplanes with fuel pumps that have a part number or 
+combination of part numbers that are specified in paragraphs 
+(h)(2)(i) through (h)(2)(iii) of this AD: Do the replacement within 
+96 months after the effective date of this AD.
+    (i) All installed fuel pumps have P/N 568-1-28300-100.
+    (ii) All installed fuel pumps have P/N 568-1-28300-101.
+    (iii) Installed fuel pumps have a combination of P/Ns 568-1-
+28300-100 and 568-1-28300-101.
+
+(i) Definitions
+
+    (1) For the purpose of this AD, an ``affected fuel pump'' is 
+defined as any pump having P/N 568-1-28300-001, 568-1-28300-002, 
+568-1-28300-100, or 568-1-28300-101.
+    (2) For the purpose of this AD, a ``serviceable fuel pump'' is a 
+pump having a part number not listed in paragraph (i)(1) of this AD.
+
+(j) No Reporting Requirement
+
+    Although Airbus Service Bulletin A330-28-3127, Revision 02, 
+dated April 14, 2016; Airbus Service Bulletin A340-28-4138, Revision 
+01, dated September 24, 2015; and Airbus Service Bulletin A340-28-
+5060, Revision 01, dated September 24, 2015; specify submitting 
+certain information to the manufacturer, and specifies that action 
+as ``RC'' (Required for Compliance), this AD does not include that 
+requirement.
+
+(k) Parts Installation Prohibition
+
+    After the identification of the fuel pump part numbers required 
+by paragraph (g) of this AD, comply with the prohibition
+
+[[Page 71596]]
+
+required by paragraph (k)(1) or (k)(2) of this AD, as applicable.
+    (1) For an airplane that does not have an affected fuel pump 
+installed: After the identification of the fuel pump part numbers 
+required by paragraph (g) of this AD, no person may install an 
+affected fuel pump on the airplane.
+    (2) For an airplane that has an affected fuel pump installed: 
+After modification of the airplane as required by paragraph (h) of 
+this AD, no person may install an affected fuel pump on the 
+airplane.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using the applicable service 
+information specified in paragraphs (l)(1), (l)(2), (l)(3), and 
+(l)(4) of this AD. This service information is not incorporated by 
+reference in this AD.
+    (1) Airbus Service Bulletin A330-28-3127, dated July 14, 2015.
+    (2) Airbus Service Bulletin A330-28-3127, Revision 01, dated 
+September 24, 2015.
+    (3) Airbus Service Bulletin A340-28-4138, dated July 14, 2015.
+    (4) Airbus Service Bulletin A340-28-5060, dated July 14, 2015.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone: 425-227-1138; fax: 425-227-1149. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as provide by paragraph 
+(j) of this AD, if any service information contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Continuing Airworthiness Information (MCAI) EASA AD 
+2015-0194, dated September 22, 2015, for related information. You 
+may examine the MCAI on the Internet at http://www.regulations.gov 
+by searching for and locating Docket No. FAA-2016-6418.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-28-3127, Revision 02, dated 
+April 14, 2016.
+    (ii) Airbus Service Bulletin A340-28-4138, Revision 01, dated 
+September 24, 2015.
+    (iii) Airbus Service Bulletin A340-28-5060, Revision 01, dated 
+September 24, 2015.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 45 80; email: [email protected]; 
+Internet: http://www.airbus.com. You may view this service 
+information at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on September 26, 2016.
+Dionne Palermo,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-23647 Filed 10-17-16; 8:45 am]
+BILLING CODE 4910-13-P

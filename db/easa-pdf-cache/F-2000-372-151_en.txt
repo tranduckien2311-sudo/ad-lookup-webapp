@@ -1,0 +1,13 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 2000-372-151(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 aircraft Flights controls: stiff rudder pedal (ATA 27) APPLICABILITY: AIRBUS INDUSTRIE A319, A320 and A321 aircraft, all certified models, all serial numbers without AIRBUS INDUSTRIE Modification 28909 in production or Service Bulletin AIRBUS INDUSTRIE A320-27-1130 in-service. REASONS: Several cases of stiff rudder pedals have been reported which could reduce the aircraft control during approach and landing phases. This stiffness is due to the artificial feel being in auto pilot mode while the auto pilot is disengaged. To correct this defect
+
+Airworthiness Directive 1999-075-128(B) was issued on February 24, 1999 to render mandatory a modification of the artificial feel AP-mode engagement/disengagement lever according AIRBUS INDUSTRIE Service Bulletin A320-27-1042. New cases of stiff rudder pedal have been reported after embodiment of the AD 1999-075-128(B) which is cancelled and replaced by this one which introduce a new modification of the AP-mode engagement/disengagement lever. ACTION: 1. For aircraft having not received AIRBUS INDUSTRIE modifications 22624 or 21999, unless already accomplished, before August 31, 2000, modify the AP-Mode engagement/ disengagement lever in accordance with either the instructions of AIRBUS INDUSTRIE Service Bulletin A320-27-1042 or AIRBUS INDUSTRIE Service Bulletin A320-27-1130. 2. For all aircraft, unless already accomplished, before June 30, 2002, modify the AP-mode engagement/disengagement lever in accordance with the instructions of the AIRBUS INDUSTRIE Service Bulletin A320-27-1130. No more action is required after total accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-27-1130. …/… n/JJD AIRBUS INDUSTRIE September 06, 2000 2000-372-151(B) A319/A320/A321 aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 2000-372-151(B) Page n° 2 REF.: Service Bulletin AIRBUS INDUSTRIE A320-27-1042. (or any further approved revision) Service Bulletin AIRBUS INDUSTRIE A320-27-1130. (or any further approved revision) This
+
+Airworthiness Directive supersedes the AD 1999-075-128(B) which is cancelled by its Revision 1. EFFECTIVE DATE : SEPTEMBER 16, 2000

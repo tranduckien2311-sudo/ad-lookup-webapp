@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0218R1
+
+Airworthiness Directive
+
+AD No.: 2015-0218R1
+
+Issued: 28 October 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: Revision 01: 04 November 2020 Original issue: 17 November 2015 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2015-0218 dated 03 November 2015.
+
+ATA 53 – Fuselage – Cabin / Cargo Compartment Parts – Inspection / Replacement [Wrong Material]
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-112, A319-111, A319-112, A319-115, A319-132, A319-133, A320-214, A320-216, A320-232, A320-233, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial numbers (MSN) 3586, 3588, 3589, 3590, 3595, 3604, 3608, 3614, 3615, 3620, 3632, 3634, 3638, 3647, 3651, 3657, 3660, 3661, 3663, 3671, 3675, 3680, 3683 to 3687 inclusive, 3689, 3691, 3694, 3700, 3702, 3704, 3705, 3710, 3720, 3727, 3728, 3733, 3735, 3742, 3744, 3746, 3754, 3757, 3759, 3763, 3768, 3770, 3772, 3774, 3775, 3779, 3788, 3790, 3794, 3797, 3799, 3801, 3803, 3808, 3810, 3818, 3822, 3824, 3826 to 4329 inclusive, 4331 to 5294 inclusive, 5296 to 6051 inclusive, 6053 to 6061 inclusive, 6063 to 6072 inclusive, 6074 to 6100 inclusive, 6102 to 6115 inclusive, 6117 to 6126 inclusive, 6128 to 6135 inclusive, 6138 to 6141 inclusive, 6143, 6145 to 6150 inclusive, 6152, 6154, 6156, 6157, 6159, 6161 and 6162.
+
+Definitions: For the purpose of this AD, the following definitions apply: Page 1 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0218R1 Aeroplane date of manufacture: The date of transfer of title (ownership) at the time of first delivery to an operator, which is referenced in Airbus documentation.
+
+Reason: Following an Airbus quality control review on the final assembly line, it was discovered that wrong aluminium alloy were delivered by a supplier for several structural parts. The results of the investigations highlighted that 0.04% of the stock could be impacted by this wrong material. Structural investigations demonstrated the capability to sustain the static limits loads, and sufficient fatigue life up to a certain inspection threshold. This condition, if not detected and corrected, could reduce the structural integrity of the aeroplane. To address this potential unsafe condition, Airbus issued Service Bulletin (SB) A320-53-1298 and SB A320-53-1299 to provide inspection instructions. Consequently, EASA issued AD 2015-0218 to require a one-time Special Detailed Inspection (SDI) of certain cabin and cargo compartment parts for material identification and, depending on findings, replacement with serviceable parts. Since that AD was issued, it was determined that some aeroplanes may be removed from the Applicability. This AD is revised accordingly.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Within 6 years after 17 November 2015 [the effective date of the original issue of this AD], but not exceeding 12 years since the aeroplane date of manufacture, accomplish the actions as specified in paragraph (1) and (2) of this AD. Inspection(s): (1) Accomplish an SDI of the cabin and cargo compartment parts, listed by Part Number (P/N) and identified as ‘Affected P/N’ in Table 1 of this AD, in accordance with the instructions of Airbus SB A320-53-1298 and SB A320-53-1299, as applicable to aeroplane MSN as specified in Appendix 3 of each SB. Corrective Action(s): (2) If, during an inspection as required by paragraph (1) of this AD, a part with wrong material is detected, replace the part with a part identified as ‘Acceptable Replacement P/N‘ in Table 1 of this AD in accordance with the instructions of Airbus SB A320-53-1298 or A320-53-1299 as applicable. Page 2 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2015-0218R1 Table 1 – Parts to be Inspected / Installed Acceptable AREA Affected P/N Replacement P/N D5347120720000 D5347120720051 cabin D5347120720100 D5347120720151 D5347120920000 D5347120920051 D5347120920100 D5347120920151 D5347118820400 D5347118820451 D5347717620000 D5347717620051 cargo D5357020620000 D5357020620051 D5358526421200 D5358526421251 D5358526421400 D5358526421400 D5358526421000 D5358526421051 D5358513120001 D5358513120051
+
+Ref. Publications: Airbus SB A320-53-1298 original issue dated 16 February 2015, or Revision 01 dated 09 June 2016. Airbus SB A320-53-1299 original issue dated 16 February 2015. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 28 September 2015 as PAD 15-126 for consultation until 26 October 2015. The Comment Response Documents can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 3 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2015-0218R1 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

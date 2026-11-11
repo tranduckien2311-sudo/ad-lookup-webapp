@@ -1,0 +1,375 @@
+[Federal Register Volume 85, Number 55 (Friday, March 20, 2020)]
+[Rules and Regulations]
+[Pages 15922-15924]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-05763]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0873; Product Identifier 2019-NM-164-AD; Amendment 
+39-19869; AD 2020-05-19]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A319-112, -115, and -132 airplanes; and Model 
+A320-214, -216, -232, and -233 airplanes. This AD was prompted by a 
+report that a possible interference was identified between 1M and 2M 
+wiring harnesses and the tapping units, and that the interference could 
+adversely affect the lavatory smoke detection system and/or the 
+passenger oxygen system. This AD requires modifying the 1M and 2M 
+harness routing, as specified in a European Union Aviation Safety 
+Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective April 24, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 24, 
+2020.
+
+ADDRESSES: For the material incorporated by reference (IBR) in this AD, 
+contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 89990 1000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this IBR material at the 
+FAA, Transport Standards Branch, 2200 South 216th St., Des Moines, WA. 
+For information on the availability of this material at the FAA, call 
+206-231-3195. It is also available in the AD docket on the internet at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2019-0873.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0873; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; email 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2019-0227, dated September 11, 2019 
+(``EASA AD 2019-0227'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A319-112, -115, and -132 
+airplanes; and Model A320-214, -216, -232 and -233 airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A319-112, -115, and -132 airplanes; and Model A320-214, -216, -
+232, and -233 airplanes. The NPRM published in the Federal Register on 
+November 22, 2019 (84 FR 64443). The NPRM was prompted by a report that 
+a possible interference was identified between 1M and 2M wiring 
+harnesses and the tapping units, and that the interference could 
+adversely affect the lavatory smoke detection system and/or the 
+passenger oxygen system. The NPRM proposed to require modifying the 1M 
+and 2M harness routing, as specified in an EASA AD.
+    The FAA is issuing this AD to address possible loss of lavatory 
+smoke detection and/or passenger oxygen system commands, which could 
+prevent the delivery of passenger oxygen during an emergency and 
+possibly result in injury to airplane occupants. See the MCAI for 
+additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment. The FAA 
+received one comment outside the scope of this rulemaking.
+
+Support for the NPRM
+
+    Two anonymous commenters stated their support for the NPRM.
+
+Request for Clarification on Affected Airplane Models
+
+    Megan Meyet requested clarification on other Airbus airplanes that 
+may be affected by the unsafe condition identified in the proposed AD. 
+The commenter asked what will the FAA do if there are other Airbus 
+airplanes that are found to have the same issue. The commenter stated 
+that the proposed AD lists a specific batch of Airbus airplanes that 
+have a defective part, but does not mention what would happen if other
+
+[[Page 15923]]
+
+airplane models are found to have the same issue.
+    The FAA agrees to clarify. The unsafe condition in this AD is 
+caused by interference due to installation of optional tapping units, 
+which reduced the clearance between the wire harnesses and tapping 
+units. EASA and Airbus know the population of airplanes affected by 
+this unsafe condition. Therefore, the Airbus airplanes specified in 
+EASA AD 2019-0227 are the affected population. If additional airplanes 
+are found to be affected by this unsafe condition, the FAA will 
+consider additional rulemaking. The FAA has not changed this AD in this 
+regard.
+
+Request for Clarification of the Unsafe Condition
+
+    An anonymous commenter requested clarification of the unsafe 
+condition. The commenter stated that the proposed AD was prompted by a 
+report that a possible interference was identified between the 1M and 
+2M wiring harnesses and tapping units, and that this interference could 
+have negative effects on the lavatory smoke detection system and 
+possibly the passenger oxygen system. The commenter asked if this 
+interference actually caused an error in the smoke alarm or in the 
+oxygen system, or is this a proposed consequence of the interference? 
+The commenter suggested that if it is only a proposed consequence, it 
+would be more cost effective to run more tests before incurring the 
+costs of the 6 airplanes affected by the proposed AD. The commenter 
+also stated that if this issue has been confirmed, then the proposed AD 
+is extremely important to adopt, and could affect countless lives if 
+the passenger oxygen system commands failed in an emergency.
+    The FAA agrees to clarify. EASA, as the State of Design Authority 
+for Airbus SAS airplanes, issued AD 2019-0227 based on its risk 
+assessment, which takes into account the effects of system level 
+failures on the airplane's safety. This risk assessment showed that a 
+change in the installation of the tapping units creates the potential 
+for contact between wire harnesses and the tapping units, because the 
+tapping units are installed higher than they previously were. If this 
+potential interference between the wiring harnesses and tapping units 
+is not addressed, an unsafe condition may occur, resulting in failure 
+of audio and/or visual warnings to the flight crew related to smoke 
+detection in the lavatory and the loss of delivery of passenger oxygen 
+in the event of an emergency. The FAA has determined that further 
+testing and analysis are not needed, and the agency is issuing this AD 
+to prevent this unsafe condition from occurring. The FAA has not 
+revised this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule as proposed, except for minor 
+editorial changes. The FAA has determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2019-0227 describes procedures for modifying the 1M and 2M 
+wiring harness routing. This material is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 6 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+6 work-hours x $85 per hour = $510...........................            $180             $690           $4,140
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2020-05-19 Airbus SAS: Amendment 39-19869; Docket No. FAA-2019-0873; 
+Product Identifier 2019-NM-164-AD.
+
+[[Page 15924]]
+
+(a) Effective Date
+
+    This AD is effective April 24, 2020.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A319-112, -115, and -132 
+airplanes; and Model A320-214, -216, -232 and -233 airplanes; 
+certificated in any category; as identified in European Union 
+Aviation Safety Agency (EASA) AD 2019-0227, dated September 11, 2019 
+(``EASA AD 2019-0227'').
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 92, Electric and 
+Electronic Common Installation.
+
+(e) Reason
+
+    This AD was prompted by a report that a possible interference 
+was identified between 1M and 2M wiring harnesses and the tapping 
+units, and that the interference could adversely affect the lavatory 
+smoke detection system and/or the passenger oxygen system. The FAA 
+is issuing this AD to address possible loss of lavatory smoke 
+detection and/or passenger oxygen system commands, which could 
+prevent the delivery of passenger oxygen during an emergency and 
+possibly result in injury to airplane occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2019-0227.
+
+(h) Exceptions to EASA AD 2019-0227
+
+    (1) For purposes of determining compliance with the requirements 
+of this AD: Where EASA AD 2019-0227 refers to its effective date, 
+this AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2019-0227 does not apply 
+to this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (j) of this AD. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2019-0227 that contains RC procedures and 
+tests, except as required by paragraph (i)(2) of this AD, RC 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2019-0227, 
+dated September 11, 2019.
+    (ii) [Reserved]
+    (3) For information about EASA AD 2019-0227, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+89990 6017; email [email protected]; Internet www.easa.europa.eu. 
+You may find this EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. This 
+material may be found in the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-
+2019-0873.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on March 4, 2020.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2020-05763 Filed 3-19-20; 8:45 am]
+ BILLING CODE 4910-13-P

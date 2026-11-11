@@ -1,0 +1,582 @@
+[Federal Register Volume 83, Number 175 (Monday, September 10, 2018)]
+[Rules and Regulations]
+[Pages 45539-45545]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-18907]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0454; Product Identifier 2017-NM-056-AD; Amendment 
+39-19387; AD 2018-18-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200 Freighter series airplanes, Model A330-200 
+and -300 series airplanes, and Model A340-200 and -300 series 
+airplanes. This AD was prompted by reports of cracked slat tracks at 
+the location of the front stop attachment to the track. This AD 
+requires a detailed inspection, repetitive special detailed 
+inspections, and corrective actions if necessary. We are issuing this 
+AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 15, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of October 15, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; phone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 45 80; email: [email protected]; 
+internet: http://www.airbus.com. You may view this service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0454.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0454; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other
+
+[[Page 45540]]
+
+information. The address for Docket Operations (phone: 800-647-5527) is 
+in the ADDRESSES section.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; phone and fax: 206-231-3229.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus SAS Model A330-
+200 Freighter series airplanes, Model A330-200 and -300 series 
+airplanes, and Model A340-200 and -300 series airplanes. The NPRM 
+published in the Federal Register on May 29, 2018 (83 FR 24427). The 
+NPRM was prompted by reports of cracked slat tracks at the location of 
+the front stop attachment to the track. The NPRM proposed to require a 
+detailed inspection, repetitive special detailed inspections, and 
+corrective actions if necessary.
+    We are issuing this AD to address cracked slat tracks which could 
+affect the structural integrity of the slat surface, possibly leading 
+to detachment of an outer or inner slat surface, and resulting in 
+reduced control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0060, dated April 7, 2017 (referred to after this as the Mandatory 
+Continuing Airworthiness Information, or ``the MCAI''), to correct an 
+unsafe condition for all Airbus SAS Model A330-200 Freighter series 
+airplanes; Model A330-200 and -300 series airplanes; and Model A340-200 
+and -300 series airplanes. The MCAI states:
+
+    Several cases of cracked slat tracks at the location of front 
+stop attachment to track have been reported by operators. Analysis 
+of the affected slat tracks (Airbus pre-modification (mod) 45967 
+design) revealed that induced torque loads during normal 
+installation of the front stop, in combination with an incorrect 
+shaft length of the attachment bolts and geometry of the front stop, 
+are the root cause.
+    This condition, if not detected and corrected, would affect the 
+structural integrity of the slat surface, which could lead to 
+detachment of an outer or inner slat surface, possibly resulting in 
+reduced control of the aeroplane and/or injury to persons on the 
+ground.
+    To address this potential unsafe condition, Airbus issued 
+Service Bulletin (SB) A330-57-3123 and SB A340-57-4130, to provide 
+inspection instructions.
+    For the reasons described above, this [EASA] AD requires a one-
+time detailed inspection (DET) of the front stop lateral and aft 
+surfaces [for marks (dents or scratches),] and repetitive special 
+detailed inspections (SDI) of the front stop attachment areas, of 
+slat tracks number (No.) 5 to No. 16 inclusive, both left hand (LH) 
+and right hand (RH) wings [for cracks], and, depending on findings, 
+accomplishment of applicable corrective action(s) [corrective 
+actions include rework, repair, and slat rigging].
+    This [EASA] AD also includes reference to an optional 
+modification (Airbus mod 205378) of the affected slat tracks, for 
+which the associated SBs (SB A330-57-3126 and SB A340-57-4133, as 
+applicable) are expected to become available in July 2017, which 
+constitutes terminating action for the repetitive inspections 
+required by this [EASA] AD.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0454.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. We received no comments on the NPRM or on the 
+determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this final rule as proposed, 
+except for minor editorial changes. We have determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A330-57-3123, Revision 01, dated 
+September 27, 2017; and Service Bulletin A340-57-4130, Revision 01, 
+dated September 27, 2017. This service information describes procedures 
+for a detailed inspection of the front stop lateral and aft surfaces 
+for marks (dents or scratches), repetitive special detailed inspections 
+of the front stop attachment areas, of slat track numbers 5 to 16 
+inclusive, both LH and RH wings for cracks, and corrective actions. 
+These documents are distinct since they apply to different airplane 
+models.
+    Airbus has also issued Service Bulletin A330-57-3126, dated 
+December 21, 2017; and Service Bulletin A340-57-4133, dated December 
+21, 2017. This service information describes procedures for 
+modification of all affected slat tracks on an airplane. These 
+documents are distinct since they apply to different airplane models.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 101 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                     Labor cost          Parts cost     Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Detailed Inspection............  25 work-hours x $85 per              $0  $2,125............  $214,625.
+                                  hour = $2,125.
+Special Detailed Inspection....  25 work-hours x $85 per               0  $2,125 per          $214,625 per
+                                  hour = $2,125 per                        inspection cycle.   inspection cycle.
+                                  inspection cycle.
+Reporting......................  1 work-hour x $85 per                 0  $85 per inspection  $8,585 per
+                                  hour = $85 per                           cycle.              inspection cycle.
+                                  inspection cycle.
+Modification...................  49 work-hours x $85 per           8,150  $12,315...........  $1,243,815.
+                                  hour = $4,165.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of
+
+[[Page 45541]]
+
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW, Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-18-08 Airbus SAS: Amendment 39-19387; Docket No. FAA-2018-0454; 
+Product Identifier 2017-NM-056-AD.
+
+(a) Effective Date
+
+    This AD is effective October 15, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), (c)(4), and (c)(5) of this AD, certificated 
+in any category, all manufacturer serial numbers.
+    (1) Airbus SAS Model A330-223F and -243F airplanes.
+    (2) Airbus SAS Model A330-201, -202, -203, -223, and -243 
+airplanes.
+    (3) Airbus SAS Model A330-301, -302, -303, -321, -322, -323, -
+341, -342, and -343 airplanes.
+    (4) Airbus SAS Model A340-211, -212, -213 airplanes.
+    (5) Airbus SAS Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by reports of cracked slat tracks at the 
+location of the front stop attachment to the track. We are issuing 
+this AD to detect and correct cracked slat tracks which could affect 
+the structural integrity of the slat surface, possibly leading to 
+detachment of an outer or inner slat surface, and resulting in 
+reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    (1) For the purpose of this AD, ``affected slat track'' is 
+defined as a pre-modification 45967 slat track, located at the wing 
+positions as indicated in figure 1 to paragraph (g) of this AD, and 
+having a part number specified in figure 2 to paragraph (g) of this 
+AD. In case the part number identification (ID) plate is missing or 
+cannot be read, the slat track can be identified by the ink marking. 
+If the operator cannot determine the part number, then that airplane 
+is in Group 1.
+    (2) For the purpose of this AD: Group 1 airplanes are those 
+that, on the effective date of this AD, have an affected slat track 
+installed. Group 2 airplanes are those that, on the effective date 
+of this AD, do not have any affected slat track installed.
+BILLINGCODE 4910-13-P
+
+[[Page 45542]]
+
+[GRAPHIC] [TIFF OMITTED] TR10SE18.000
+
+
+[[Page 45543]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR10SE18.001
+
+
+[[Page 45544]]
+
+
+
+(h) One-Time Detailed Inspection and Repetitive Special Detailed 
+Inspections
+
+    For Group 1 airplanes: At the applicable times specified in 
+figure 3 to paragraph (h) of this AD, do a detailed inspection of 
+the front stop lateral and aft surfaces, and do a special detailed 
+inspection of the front stop attachment areas of each affected slat 
+track, both right hand (RH) and left hand (LH) wings, in accordance 
+with the Accomplishment Instructions of Airbus Service Bulletin 
+A330-57-3123, Revision 01, including Appendixes 02 and 03, dated 
+September 27, 2017; or Airbus Service Bulletin A340-57-4130, 
+Revision 01, including Appendixes 02 and 03, dated September 27, 
+2017; as applicable. Thereafter, repeat the special detailed 
+inspection for the front stop attachment areas of each affected slat 
+track, both RH and LH wings, at intervals not to exceed the 
+applicable compliance times specified in figure 4 to paragraph (h) 
+of this AD.
+[GRAPHIC] [TIFF OMITTED] TR10SE18.002
+
+[GRAPHIC] [TIFF OMITTED] TR10SE18.003
+
+BILLINGCODE 4910-13-C
+
+(i) Corrective Actions
+
+    (1) If, during any special detailed inspection required by 
+paragraph (h) of this AD, any crack is detected at the front stop 
+attachment area of an affected slat track: Before further flight, 
+obtain corrective action instructions approved by the Manager, 
+International Section, Transport Standards Branch, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus SAS's EASA Design 
+Organization Approval (DOA), and accomplish them within the 
+compliance time specified therein. If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (2) If, during any inspection required by paragraph (h) of this 
+AD, marks (dents or scratches) are found on the front stop lateral 
+or aft surfaces of an affected slat track; provided that no crack is 
+detected; before further flight, rework the affected lateral front 
+stop surface of that slat track, and accomplish slat rigging, as 
+applicable, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-57-3123, Revision 01, including 
+Appendixes 02 and 03, dated September 27, 2017; or Airbus Service 
+Bulletin A340-57-4130, Revision 01, including Appendixes 02 and 03, 
+dated September 27, 2017. Accomplishment of rework or slat rigging 
+on an airplane, as required by this paragraph, does not constitute 
+terminating action for the repetitive special detailed inspection 
+required by paragraph (h) of this AD.
+    (3) If, during any inspection required by paragraph (h) of this 
+AD, marks (dents or scratches) are found on the front stop lateral 
+or aft surfaces of an affected slat track, and any crack is detected 
+at the front stop attachment area of that slat track: Before further 
+flight, obtain corrective action instructions approved by the 
+Manager, International Section, Transport Standards Branch, FAA; or 
+EASA; or Airbus SAS's EASA DOA, and accomplish them within the 
+compliance time specified therein. If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(j) Reporting
+
+    At the applicable time specified in paragraph (j)(1) or (j)(2) 
+of this AD: Report the results of the inspections required by 
+paragraph (h) of this AD to Airbus Service Bulletin Reporting Online 
+Application on Airbus World (https://w3.airbus.com/), or submit the 
+results to Airbus in accordance with the Accomplishment Instructions 
+of Airbus Service Bulletin A330-57-3123, Revision 01, including 
+Appendixes 02 and 03, dated September 27, 2017, or Airbus Service 
+Bulletin A340-57-4130, Revision 01, including Appendixes 02 and 03, 
+dated September 27, 2017. The report must include the inspection 
+results (including no findings), a description of any discrepancies 
+found, the airplane serial number, and the number of landings and 
+flight hours on the airplane.
+    (1) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 60 days after each inspection 
+required by paragraph (h) of this AD.
+    (2) If the inspection was done before the effective date of this 
+AD: Submit the report within 60 days after the effective date of 
+this AD.
+
+(k) Optional Terminating Actions
+
+    (1) Replacement of an affected slat track at any position with a 
+post-modification 45967 slat track, if accomplished as part of the 
+corrective actions specified in paragraph (i)(1) or (i)(3) of this 
+AD, terminates the repetitive inspections required by paragraph (h) 
+of this AD, for that slat track position.
+
+[[Page 45545]]
+
+    (2) Modification of all affected slat tracks on an airplane in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-57-3126, including Appendixes 02 and 03, dated 
+December 21, 2017; or Airbus Service Bulletin A340-57-4133, 
+including Appendixes 02 and 03, dated December 21, 2017; as 
+applicable, terminates the repetitive inspections required by 
+paragraph (h) of this AD for that airplane, provided that, prior to 
+modification, the affected slat tracks pass an inspection (crack 
+free) in accordance with the instructions of Airbus Service Bulletin 
+A330-57-3123, Revision 01, including Appendixes 02 and 03, dated 
+September 27, 2017; or Airbus Service Bulletin A340-57-4130, 
+Revision 01, including Appendixes 02 and 03, dated September 27, 
+2017; as applicable.
+
+(l) Parts Installation Limitations
+
+    (1) Except as specified in paragraph (l)(2) of this AD: For 
+Group 1 airplanes, after the effective date of this AD, an affected 
+slat track may be installed, provided the installation is 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (2) After modification of a Group 1 airplane as specified in 
+paragraph (k)(2) of this AD, no person may install an affected slat 
+track on that airplane.
+    (3) For Group 2 airplanes: As of the effective date of this AD, 
+no person may install an affected slat track on any Group 2 
+airplane.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (h), (i), and (j) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A330-57-3123, dated June 14, 2016; or Airbus Service 
+Bulletin A340-57-4130, dated June 14, 2016, provided that within 12 
+months after the effective date of this AD, the additional work 
+identified in Airbus Service Bulletin A330-57-3123, Revision 01, 
+including Appendixes 02 and 03, dated September 27, 2017; or Airbus 
+Service Bulletin A340-57-4130, Revision 01, including Appendixes 02 
+and 03, dated September 27, 2017; as applicable, has been completed 
+in accordance with Airbus Service Bulletin A330-57-3123, Revision 
+01, including Appendixes 02 and 03, dated September 27, 2017; or 
+Airbus Service Bulletin A340-57-4130, Revision 01, including 
+Appendixes 02 and 03, dated September 27, 2017; as applicable.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to the attention of 
+the person identified in paragraph (o)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Reporting Requirements: A federal agency may not conduct or 
+sponsor, and a person is not required to respond to, nor shall a 
+person be subject to a penalty for failure to comply with a 
+collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 1 
+work-hour per response, including the time for reviewing 
+instructions, completing and reviewing the collection of 
+information. All responses to this collection of information are 
+mandatory. Comments concerning the accuracy of this burden and 
+suggestions for reducing the burden should be directed to the FAA 
+at: 800 Independence Ave. SW, Washington, DC 20591, Attn: 
+Information Collection Clearance Officer, AES-200.
+    (4) Required for Compliance (RC): Except as required by 
+paragraph (i) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0060, dated April 7, 2017, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0454.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+phone and fax 206 231 3229.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (p)(3) and (p)(4) of this AD.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-57-3123, Revision 01, dated 
+September 27, 2017.
+    (ii) Airbus Service Bulletin A330-57-3126, dated December 21, 
+2017.
+    (iii) Airbus Service Bulletin A340-57-4130, Revision 01, dated 
+September 27, 2017.
+    (iv) Airbus Service Bulletin A340-57-4133, dated December 21, 
+2017.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile Dewoitine 
+No: 2, 31700Blagnac Cedex, France; phone: +33 5 61 93 36 96; fax: 
++33 5 61 93 45 80; email: [email protected]; 
+internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on August 22, 2018.
+James Cashdollar,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-18907 Filed 9-7-18; 8:45 am]
+ BILLING CODE 4910-13-P

@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0142 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2015-0142 Date: 17 July 2015 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EU 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EU 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes TCDS Number: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None Electric / Electronic Common Installation – Feeder Cable Routing
+
+ATA 92 Attachment – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), except those on which Airbus modification 203672 has been embodied in production, and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: Two events have been reported of feeder cable chafing at the pylon-wing junction on A330 aeroplanes. Inspection of the affected area for the first event revealed that the bracket supporting the cables G-route, made in plastic, was broken. The second event was due to clamp damage. Failure of support bracket and/or damage of clamp led to the feeder cables gradually chafing away at the cut-out edge by vibration. Due to design similarity, A340 aeroplanes are also affected by this issue. This condition, if not corrected, could create a short circuit, in combination with fuel vapour on ground, possibly resulting in a fire or explosion. To address this unsafe condition, Airbus developed modifications to be embodied in service through Airbus Service Bulletin (SB) A330-92-3132, SB A340-92-4100 or SB A340-92-5066, as applicable to aeroplane type and model. For the reasons described above, this AD requires the embodiment of these TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0142 modifications at the pylon/wing junction in LH and RH wings.
+
+Effective Date: 31 July 2015 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 18 months after the effective date of this AD, for each inboard pylon, Time(s): modify the cable loom support bracket of the G-route 7701VB LH side and 7702VB RH side at the pylon/wing junction in accordance with the instructions of Airbus SB A330-92-3132 Revision 1, or Airbus SB A340-92-4100 Revision 1, or Airbus SB A340-92-5066, as applicable to aeroplane type and model. (2) Modification of an aeroplane, accomplished before the effective date of this AD in accordance with the instructions of Airbus SB A330-92-3132 at original issue, or Airbus SB A340-92-4100 at original issue, as applicable to aeroplane type and model, is acceptable to comply with paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus SB A330-92-3132 original issue dated 19 June 2014 or Revision 1 dated 21 May 2015. Airbus SB A340-92-4100 original issue dated 19 June 2014 or Revision 1 dated 21 May 2015. Airbus SB A340-92-5066 original issue dated 25 June 2014. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 17 October 2014 as PAD 14-150 for consultation until 14 November 2014 and republished as PAD 14-150R1 on 30 June 2015 for consultation until 14 July 2015.The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL; E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

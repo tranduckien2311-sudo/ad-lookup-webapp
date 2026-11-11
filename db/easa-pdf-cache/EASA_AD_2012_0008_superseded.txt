@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+EASA AD No : 2012-0008 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2012-0008 Date: 16 January 2012 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type Approval Holder’s Name : Type/Model designation(s) : AIRBUS A318, A319, A320 and A321 aeroplanes TCDS Number: EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2006-0162 dated 08 June 2006. Time Limits and Maintenance Checks – Safe Life Airworthiness
+
+ATA 05 Limitation Items – ALS Part 1 – Amendment
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers.
+
+Reason: The airworthiness limitations for Airbus aeroplanes are currently published in Airworthiness Limitations Section (ALS) documents. The airworthiness limitations applicable to the Safe Life Airworthiness Limitation Items (SL ALI) are specified in Airbus A318/A319/A320/A321 ALS Part 1, which is approved by the European Aviation Safety Agency (EASA). EASA AD 2006-0162 was issued to require the implementation of the instructions and airworthiness limitations as specified in Airbus A318/A319/A320/A321 ALS Part 1 original issue. Failure to comply with the instructions of ALS Part 1 could result in an unsafe condition. This AD retains the requirements of EASA AD 2006-0162, which is superseded, extends the applicability by adding the Models A318-121, A318- 122, A320-215 and A320-216, and requires the implementation of the instructions and airworthiness limitations as specified in Airbus A318/A319/A320/A321 ALS part 1 revision 02, approved on 13 May 2011.
+
+Effective Date: 30 January 2012 EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2012-0008 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within the compliance times defined in the Record of Revisions (ROR) Time(s): pages of the Airbus A318/A319/A320/A321 ALS Part 1 revision 02, comply with all applicable instructions included by reference in the ROR of the Airbus A318/A319/A320/A321 ALS Part 1 revision 02. (2) Compliance with the requirements of paragraph (1) of this AD can be demonstrated by: (2.1) Revising as follows the approved Aircraft Maintenance Programme, on the basis of which the operator or the owner ensures the continuing airworthiness of each operated aeroplane: Incorporate all instructions and associated airworthiness limitations specified in Airbus A318/A319/A320/A321 ALS Part 1 revision 02, and that are relevant to the respective combination of aeroplane model and weight variant, and (2.2) Complying with the approved Aircraft Maintenance Programme described in paragraph (2.1) of this AD.
+
+Ref. Publications: A318/A319/A320/A321 ALS Part 1 Revision 02 approved on 13 May 2011. The use of later approved variations or revisions of this document is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 23 November 2011 as PAD 11-124 for consultation until 21 December 2011. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA; E-mail ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. EASA Form 110 Page 2/2

@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0316
+
+Airworthiness Directive
+
+AD No.: 2019-0316
+
+Issued: 23 December 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third of that Regulation. countries that participate in the activities of EASA under Article 129 This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, exemption]. Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS A318, A319, A320 and A321 aeroplanes E
+
+Effective Date: 06 January 2020 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable D
+
+Supersedure: None E
+
+ATA 25 – Equipment / Furnishings – Emergency Escape Slide / Raft Inflation Reservoir – Pressure Check S
+
+Manufacturer(s): Airbus, formerly Airbus Industrie R
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, E A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A319-171N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, P A321-212, A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N and A321-272NX aeroplanes, all manufacturer serial numbers. U
+
+Definitions: For the purpose of this AD, the following definitions apply: S Affected part: Emergency escape slides/rafts and inflation reservoirs, having a part number (P/N) and manufacturing date as listed in Appendix 1 of this AD, installed at locations as indicated in the AOT, except those installed on aeroplanes with the inflation reservoir connected to the Cabin Intercommunication Data System (CIDS). Page 1 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0316 The AOT: Airbus Alert Operators Transmission (AOT) A25N019-19. Airbus date of manufacture: The date of transfer of title (ownership) which is referenced in Airbus documentation at the time of first delivery to an operator.
+
+Reason: An occurrence was reported of hearing a loud bang during aeroplane boarding. During a subsequent inspection, one slide raft was found with zero reservoir pressure. Further investigations revealed that the rupture disk assembly of the reservoir had burst, the probable cause being a manufacturing defect on a batch of rupture disk assemblies. This condition, if not detected and corrected, would prevent the deployment of the escape slide/raft when required in case of emergency, possibly resulting in injury to aeroplane occupants. D To address this potential unsafe condition, Airbus issued the AOT to provide inspection instructions. E For the reasons described above, this AD requires repetitive checks of the pressure gauge on (the inflation reservoir of) each affected part and, depending on findings, accomplishment of applicable corrective action(s). D This AD is considered interim action and further AD action may follow.
+
+Required Action(s) and Compliance Time(s): E Required as indicated, unless accomplished previously: Pressure Check(s): S (1) Within the compliance times specified in Table 1 of this AD, as applicable, and thereafter, at intervals not exceeding 100 flight cycles (FC) or 50 days, whichever occurs first, check the pressure gauge on (the inflation reservoir of) each affected part in accordance with the R instructions of the AOT. Compliance Time (A or B, whichever occurs later) E A Within 100 FC or 50 days, whichever occurs first after the effective date of this AD B Within 100 FC or 50 days, whichever occurs first after the Airbus date of manufacture P Corrective Action(s): (2) If, during any check as required by paragraph (1) of this AD, discrepancies are detected, before U next flight, or within the time allowed by the Operator’s Minimum Equipment List (MEL), accomplish the applicable corrective action(s) in accordance with the instructions of the AOT. S Terminating Action(s): (3) None. Parts Installation: (4) From the effective date of this AD, it is allowed to install an affected part on any aeroplane, provided that, prior to installation, the part passes (no discrepancies detected) a pressure check Page 2 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0316 in accordance with the instructions of the AOT and that, following installation, the affected part is checked as required by paragraph (1) of this AD.
+
+Ref. Publications: Airbus AOT A25N019-19 original issue dated 23 December 2019. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. D 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. E 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be D similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. E 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; S E-mail: account.airworth-eas@airbus.com. R E P U S Page 3 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0316 Appendix 1 – Affected Emergency Escape Slides/Rafts, Inflation Reservoirs and manufacturing dates Slide/Raft P/N Manufacturing Date (months, inclusive) D30664-513, D30664-515, D30664-609, D30664-709 and D30664-711 April 2017 to March 2019 D30665-513, D30665-515, D30665-609 and D30665-709 D31516-717, D31516-719 and D31516-721 May 2017 to September 2018 D31517-717, D31517-715 and D31517-721 D Inflation Reservoir P/N Manufacturing Date (months, inclusive) 61639-203 May 2017 to June 2018 70197-101 March 2018 to May 2018 E 70200-101, 70200-102, 70200-103 and February 2018 to June 2018 70200-104 D E S R E P U S Page 4 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

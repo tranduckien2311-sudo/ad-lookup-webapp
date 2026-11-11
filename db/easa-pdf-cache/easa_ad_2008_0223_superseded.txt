@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2008–0223 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2008-0223 Date: 15 December 2008 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : AIRBUS A330 and A340 Aircraft TCDS Number : EASA.A.004, EASA.A.015 Foreign AD : Not applicable Supersedure : None Landing Gear – Main Landing Gear (MLG) Bogie Beam –
+
+ATA 32 Inspection / Repair
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE)
+
+Applicability: AIRBUS A330 aircraft, models -201, -202, -203, -223, -243, -301, -302, -303, - 321, -322, -323, -341, -342 and -343, all serial numbers. AIRBUS A340 aircraft, models -211, -212, -213, -311, -312, -313, -541, -542, - 642 and -643, all serial numbers.
+
+Reason: During a scheduled maintenance inspection on the MLG, the bogie stop pad was found deformed and cracked. Upon removal of the bogie stop pad for replacement, the bogie beam was also found cracked. Laboratory investigation indicates that an overload event has occurred and no fatigue propagation of the crack was evident. An investigation is still underway to establish the root cause of this overload. A second bogie beam crack has subsequently been found on another aircraft, located under a bogie stop pad which only had superficial paint damage. This condition, if not detected and corrected, could result in the aircraft departing the runway or to the bogie detaching from the aircraft or gear collapses, which would all constitute unsafe conditions at speeds above 30 knots. As a precautionary measure, this AD requires detailed inspections under the bogie stop pad of both MLG bogie beams and, in case deformation or damage is detected, to apply the associated repair. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2008–0223
+
+Effective Date: 29 December 2008 Required action(s) Required as indicated, unless already accomplished: and Compliance 1. Perform detailed inspections of both MLG bogie beams in the region of the Time(s): bogie stop pad for detection of deformation or damage and apply the associated corrective actions in accordance with instructions defined in AIRBUS Service Bulletin (SB) A330-32-3220 or SB A340-32-4264 or SB A340-32-5087, as applicable; For aircraft with less than or equal to 2 500 Flight Cycles (FC) and 22 months from the first flight of the aircraft or from the first installation of the bogie beam in-service on an aircraft or from the date of the last bogie beam overhaul, at the effective date of this AD: - at the next convenient maintenance opportunity that occurs after the 2 500 FC or 22 months threshold, whichever occurs first, but no later than 40 months from the first flight of the aircraft or from the first installation of the bogie beam in-service on an aircraft or from the date of the last bogie beam overhaul. For aircraft with more than 2 500 FC or 22 months from the first flight of the aircraft or from the first installation of the bogie beam in-service on an aircraft or from the date of the last bogie beam overhaul, whichever occurs first, at the effective date of this AD: - at the next convenient maintenance opportunity or within 18 months from the effective date of this AD, whichever occurs first. 2. The results of this inspection, whatever they are, must be reported to AIRBUS within 30 days from the accomplishment date of the inspection.
+
+Ref. Publications: AIRBUS Service Bulletin A330-32-3220 at original issue; AIRBUS Service Bulletin A340-32-4264 at original issue; AIRBUS Service Bulletin A340-32-5087 at original issue. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was published on 21 October 2008 as PAD 08-120 for consultation until 21 November 2008. The Comment Response Document can be found at http://ad.easa.europa.eu/ 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification . Directorate, EASA. E-mail ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS SAS –Airworthiness Office - EAL Fax: +33 5 61 93 45 80. EASA Form 110 Page 2/2

@@ -1,0 +1,768 @@
+[Federal Register Volume 83, Number 111 (Friday, June 8, 2018)]
+[Rules and Regulations]
+[Pages 26559-26564]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-12268]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-1020; Product Identifier 2017-NM-114-AD; Amendment 
+39-19306; AD 2018-12-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A318-111 and -112 airplanes; Model A319-111, -112, -113, -
+114, and -115 airplanes; Model A320-211, -212, -214, and -216 
+airplanes; and Model A321-111, -112, -211, -212, and -213 airplanes. 
+This AD was prompted by a review of maintenance instructions for a 
+blend repair of the snout diameter of the main beam assembly of the 
+forward engine mount that would create an excessive gap between the 
+bearing mono-ball and the snout. This AD requires modifying the main 
+beam assembly of the forward engine mount. We are issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective July 13, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of July 13, 
+2018.
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+internet: http://www.airbus.com. For Goodrich service information 
+identified in this final rule, contact Goodrich Corporation, 
+Aerostructures, 850 Lagoon Drive, Chula Vista, CA 91910-2098; phone: 
+619-691-2719; email: [email protected]; internet: http://www.goodrich.com/TechPubs. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 2200 South 216th 
+St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2017-1020.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+1020; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198-6547; telephone 425-227-1405; fax 425-
+227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A318-111 
+and -112 airplanes; Model A319-111, -112, -113, -114, and -115 
+airplanes; Model A320-211, -212, -214, and -216 airplanes; and Model 
+A321-111, -112, -211, -212, and -213 airplanes. The NPRM published in 
+the Federal Register on October 24, 2017 (82 FR 49146) (``the NPRM''). 
+The NPRM was prompted by a review of maintenance instructions for a 
+blend repair of the snout diameter of the main beam assembly of the 
+forward engine mount that would create an excessive gap between the 
+bearing mono-ball and the snout. The NPRM proposed to require modifying 
+the main beam assembly of the forward engine mount. We are issuing this 
+AD to prevent in-flight failure of a forward engine mount, and 
+consequent detachment of an engine, which could result in reduced 
+controllability of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0132R1, dated November 22, 2017 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus Model A318-111 and -112 
+airplanes; Model A319-111, -112, -113, -114, and -115 airplanes; Model 
+A320-211, -212, -214, and -216 airplanes; and Model A321-111, -112, -
+211, -212, and -213 airplanes. The MCAI states:
+
+    A review of maintenance instructions revealed that the Goodrich 
+Aerospace CFM56-5B, Forward Engine Mount Component Maintenance 
+Manual (CMM) 71-21-08, revision (rev.) 1 up to 46 (inclusive), 
+repair 10 (Blend Repair-Beam Assembly Snout Diameter), provides 
+instructions to blend the wear on the forward engine mount assembly, 
+Part Number (P/N) 642-2000-9, 642-2000-13, or 642-2000-25, creating 
+an excessive gap between the bearing mono-ball and the snout of the 
+forward engine mount main beam assembly, P/N 642-2006-501, or P/N 
+642-2006-503.
+    This condition, if not detected and corrected, could lead to in-
+flight failure of a forward engine mount and consequent detachment 
+of an engine, possibly resulting in reduced control of the aeroplane 
+and injury to persons on the ground.
+    To address this potential unsafe condition, Airbus issued 
+Service Bulletin (SB) A320-71-1065 and SB A320-71-1066, and
+
+[[Page 26560]]
+
+Goodrich Aerospace issued SB RA32071-159, providing instructions for 
+an in-shop inspection(s) for the main beam snout and, depending on 
+findings, applicable corrective action(s) and re-identification.
+    Consequently, EASA issued AD 2017-0132, requiring replacement of 
+the affected forward engine mount main beam assemblies. As the same 
+main beam assemblies are certified for CFM56-5A engine installation, 
+that [EASA] AD also applied to aeroplanes with that engine.
+    Since that [EASA] AD was issued, it was determined that, for 
+aeroplanes equipped with an affected forward engine mount main beam 
+assembly, installation of an affected assembly can still be allowed 
+until replacement, as required by this [EASA] AD.
+    For the reason described above, this [EASA] AD is revised 
+accordingly.
+
+    Required actions include modifying the main beam assembly of the 
+forward engine mount. The modification includes repairing, replacing, 
+or reworking the main beam assembly. You may examine the MCAI in the AD 
+docket on the internet at http://www.regulations.gov by searching for 
+and locating Docket No. FAA-2017-1020.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA) and Jake 
+Watson stated their support for the proposed AD. American Airlines 
+(AAL) stated that it has no objection to the intent of the NPRM.
+
+Request To Use Revised Vendor Service Information
+
+    AAL stated that the proposed AD should require Goodrich Aerospace 
+Service Bulletin RA32071-159, Rev 1, dated July 25, 2017 (``SB RA32071-
+159 Rev 1''), which corrects part number references, revises 
+illustrations, and clarifies the procedure. Alternatively, AAL asserted 
+that the proposed AD should allow the use of RA32071-159 Rev 1, or 
+later revisions. AAL stated that Goodrich Aerospace Service Bulletin 
+RA32071-159, dated November 20, 2016, is not useable due to multiple 
+issues.
+    We do not agree to require RA32071-159 Rev 1. Goodrich Aerospace 
+Service Bulletin RA32071-159 is referenced as an additional source of 
+guidance in Airbus Service Bulletin A320-71-1065, Revision 01, dated 
+July 28, 2017; and Airbus Service Bulletin A320-71-1066, dated December 
+1, 2016; for inspecting and corrective actions. We acknowledge that 
+RA32071-159 Rev 1 contains several improvements. Therefore, we 
+recommend operators incorporate the latest approved service 
+information. However, in paragraphs (g)(2)(ii) and (h) of this AD, we 
+refer to ``Goodrich Aerospace Service Bulletin RA32071-159'' and not to 
+any specific revision. Therefore, we have not changed this AD in this 
+regard.
+
+Request To Exclude Certain Actions
+
+    AAL stated that Goodrich Aerospace Service Bulletin RA32071-159 
+requires operators to ``fully disassemble the engine mount assembly'', 
+which is not necessary for the dimensional inspection of the snout. AAL 
+noted that, as long as the mount is not installed on the engine, the 
+bearing assembly can be removed to expose the snout, clean, and measure 
+the snout. AAL added that if an operator is forced to fully disassemble 
+the mount, it will drive the mount to an overhaul, which is time 
+consuming and costly.
+    We infer that the commenter is asking that we exclude full 
+disassembly of the engine mount assembly from the inspection specified 
+in paragraph (h) of the proposed AD. We do not agree. Neither Airbus 
+nor the state of design authority, EASA, has informed the FAA that the 
+snout diameter can be conclusively measured without full disassembly of 
+the engine mount assembly. AAL did not provide any justification 
+supported by approval from EASA; or Airbus's EASA Design Organization 
+Approval (DOA) to allow deviation from the required for compliance 
+section of the service information. However, under the provisions of 
+paragraph (n) of this AD, we will consider requests for approval of an 
+alternative method of compliance if sufficient data are submitted to 
+substantiate that a deviation would provide an acceptable level of 
+safety. We have made no change to this AD in this regard.
+
+Request To Compel Goodrich Aerospace To Use ``Required for Compliance 
+(RC)'' Language in Goodrich Aerospace Service Bulletin RA32071-159
+
+    AAL also asked that the FAA compel Goodrich Aerospace to 
+incorporate FAA Advisory Circular 20-176A, dated June 16, 2014, into 
+Goodrich Aerospace Service Bulletin RA32071-159 for the purpose of ``. 
+. . distinguishing which steps in an SB will have a direct effect on 
+detecting, preventing, resolving, or eliminating the unsafe condition 
+identified in an AD.'' AAL asserted that Goodrich Aerospace has had 7 
+years to evaluate and incorporate the best practices for drafting 
+service bulletins related to ADs.
+    We disagree with the commenter's request. FAA Advisory Circular 20-
+176A, dated June 16, 2014, provides best practices for drafting service 
+bulletins related to ADs. Although we recommend that the original 
+equipment manufacturer (OEM) specify ``RC'' steps in service 
+information, the FAA advisory circular is not mandatory, only a 
+recommendation as best practices. We have not changed this AD in this 
+regard.
+
+Request To Remove Revision Level for Vendor Service Information
+
+    Delta Airlines (Delta) asked that the proposed AD not specify a 
+revision level for Goodrich Aerospace Service Bulletin RA32071-159. 
+Delta added that, if one must be specified, all revisions published 
+prior to the effective date of the AD should be acceptable methods of 
+compliance.
+    We agree with the commenter's request that the revision level of 
+Goodrich Aerospace Service Bulletin RA32071-159 not be specified. As 
+previously explained, this AD does not specify a revision level for 
+Goodrich Aerospace Service Bulletin RA32071-159. Therefore, no change 
+to this AD is necessary in this regard.
+
+Request To Specify Confirmation That a Certain Discrepant Repair Has 
+Never Been Installed
+
+    Delta requested that paragraph (g)(1) of the proposed AD be revised 
+to specify that maintenance records must confirm that Repair 10 of 
+Component Maintenance Manual (CMM) 71-21-08, Revisions 1 through 46, 
+has never been performed. Delta stated that, based on the NPRM and 
+service information, it is clear that the discrepant repair is Repair 
+10 of CMM 71-21-08, Revisions 1 through 46. Delta added that paragraph 
+(g)(1) of the proposed AD does not specify that maintenance records 
+must show only that forward mount main beams have not been repaired per 
+the discrepant Repair 10 of CMM 71-21-08, Revisions 1 through 46, which 
+would classify them as affected main beams.
+    We disagree with the commenter's request; however, we provide the 
+following clarification. The intent of paragraph (g)(1) of this AD is 
+that if no maintenance record exists then there is a possibility that 
+the main beam has been repaired using Repair 10 of CMM 71-21-08 
+Revisions 1 through 46, and, therefore, qualifies as an ``affected main 
+beam.'' We have not changed this AD in this regard.
+
+[[Page 26561]]
+
+Request To Apply Exceptions to Parts Without Maintenance Records of 
+Repair History
+
+    Delta asked that the exceptions in paragraphs (g)(2)(i) through 
+(g)(2)(iii) of the proposed AD also apply to parts for which 
+maintenance records are not available to confirm repair history. Delta 
+stated that this will account for mounts that are not installed on-wing 
+and future spare purchases. Delta added that paragraph (g)(2) of the 
+proposed AD does not permit parts with unknown repair history to be 
+excluded if the criteria in paragraphs (g)(2)(i) through (g)(2)(iii) of 
+the proposed AD are met. Delta noted that paragraph (g)(1) of the 
+proposed AD, parts with unknown repair history, are considered 
+``affected main beams'' and have the same compliance requirements as 
+parts that have been repaired per discrepant Repair 10 of CMM 71-21-08, 
+Revisions 1 through 46.
+    We do not agree with the commenter's request. Exceptions in 
+paragraphs (g)(2)(i) through (g)(2)(iii) of this AD are based on the 
+fact that maintenance records exist. Therefore, these exceptions do not 
+apply to parts with unknown repair history in paragraph (g)(1) of this 
+AD. We have not changed this AD in this regard.
+
+Requests To Use Later Revisions of CMM Repairs
+
+    Delta and Lufthansa Technik (Lufthansa) asked that we allow use of 
+later revisions of the CMM repairs in paragraphs (g)(2)(ii) and (h) of 
+the proposed AD. Delta noted that paragraph (g)(2)(ii) doesn't specify 
+that a repair per the corrected Repair 10 of CMM 71-21-08, Revision 47 
+(and later), or Repair 21 of CMM 71-21-06, Revision 59 (and later), 
+excludes forward mount main beams from the effectivity. Delta added 
+that the dimensional requirements of corrected Repair 10 and Repair 21 
+are equivalent to the requirements of Goodrich Aerospace Service 
+Bulletin RA32071-159, and ensure that any main beams repaired will meet 
+the intent of the proposed AD.
+    Delta stated that paragraph (h) of the proposed AD doesn't specify 
+that a qualifying inspection can be done as specified in the 
+instructions of the later revisions of CMMs 71-21-08 and 71-21-06 that 
+introduced the corrected Repair 10 and Repair 21. Delta explained that 
+CMM 71-21-08, Revision 48 (and later), and CMM 71-21-06, Revision 60 
+(and later), contain the correct snout diameters as specified in Repair 
+10 of CMM 71-21-08, Revision 47, and Repair 21 of CMM 71-21-06, 
+Revision 59. Delta further noted that EASA AD 2017-0132R1, dated 
+November 22, 2017, permits the use of later revisions of the CMMs with 
+corrected Repairs 10 and 21.
+    We disagree with the commenters' requests. We cannot use the 
+phrase, ``or later approved revisions,'' in an AD when referring to the 
+service document because doing so violates Office of the Federal 
+Register (OFR) regulations for approval of materials ``incorporated by 
+reference'' in rules. In general terms, we are required by these OFR 
+regulations to either publish the service document contents as part of 
+the actual AD language; or submit the service document to the OFR for 
+approval as ``referenced'' material, in which case we may only refer to 
+such material in the text of an AD. The AD may refer to the service 
+document only if the OFR approved it for ``incorporation by 
+reference.'' To allow operators to use later revisions of the 
+referenced document (issued after publication of the AD), either we 
+must revise the AD to reference specific later revisions, or operators 
+must request approval to use later revisions as an alternative method 
+of compliance (AMOC) with this AD under the provisions of paragraph (n) 
+of this AD. We have not changed this AD in this regard.
+
+Request To Define Airplane Group
+
+    Delta asked that paragraph (i) of the proposed AD clarify that 
+airplanes on which the main beams have never been replaced are 
+considered Group 2 airplanes. Delta stated that paragraph (i) of the 
+proposed AD doesn't specify that airplanes on which the main beams have 
+never been replaced (and thus never repaired) since aircraft delivery 
+should be considered Group 2 airplanes. Delta added that an airplane on 
+which the forward mounts have never been replaced since aircraft 
+delivery will not have the discrepant Repair 10 of CMM 71-21-08, 
+Revisions 1 through 46.
+    We do not agree to revise paragraph (i) of this AD; however, we 
+have clarified the airplane group as follows. Paragraph (i) of this AD 
+specifies Group 2 airplanes are airplanes on which an affected main 
+beam has not been installed as of the effective date of this AD. 
+Therefore, airplanes with main beams that have never been replaced 
+since aircraft delivery might be considered Group 2 airplanes, if the 
+original main beam is not an affected main beam as defined in paragraph 
+(g) of this AD. However, if for example, an airplane with main beams 
+that have never been replaced does not have maintenance records to 
+conclusively confirm the part has never been repaired, as specified in 
+paragraph (g)(1) of this AD, then it is a Group 1 airplane. We have not 
+changed this AD in this regard.
+
+Request To Change ``Modify'' to ``Inspect and Disposition''
+
+    Delta asked that the proposed AD use the language ``inspect and 
+disposition'' instead of ``modify'' to describe the action required by 
+paragraph (j) of the proposed AD. Additionally, Delta asked that the 
+proposed AD specify that replacement of a forward mount assembly 
+containing an affected main beam with a forward mount assembly that 
+contains an AD-compliant main beam is an acceptable means of 
+compliance. Delta stated that paragraph (j) of the proposed AD uses the 
+term ``modify'' to describe compliance with the requirements of the 
+inspection and repair of the mounts. Delta added that, based on the 
+instructions in the service information, the intent of the work 
+instructions is to inspect affected main beams and disposition based on 
+inspection findings; the dispositions range from scrapping the main 
+beam to blending, based on measured snout diameter. Delta noted that 
+the replacement of a forward mount assembly that contains an affected 
+main beam with a forward mount assembly with an AD-compliant main beam 
+meets the intent of the proposed AD to remove affected main beams from 
+service.
+    We partially agree. We do not agree to replace ``modify'' with 
+``inspect and disposition,'' because corrective action cannot be 
+defined by the term ``disposition,'' which is open to interpretation. 
+Operators must follow the instructions in the Airbus service 
+information referenced in paragraph (j) of this AD for the applicable 
+method of compliance. However, we acknowledge that, while the 
+Accomplishment Instructions of Airbus Service Bulletin A320-71-1066, 
+dated December 1, 2016, specify to do a ``Modification of the FWD 
+Engine Mount Assembly on Engine 1 and Engine 2,'' the Accomplishment 
+Instructions of Airbus Service Bulletin A320-71-1065, Revision 01, 
+dated July 28, 2017, specify to do inspections and applicable 
+corrective actions. Therefore, we have changed paragraph (j) of this AD 
+to replace ``modify'' with ``modify, including doing all applicable 
+inspections and corrective actions.''
+
+Request To Include Goodrich Aerospace Service Bulletin for the Required 
+Modification
+
+    Lufthansa requested that we include Goodrich Aerospace Service 
+Bulletin
+
+[[Page 26562]]
+
+RA32071-159 in paragraph (j) of the proposed AD to ``make it more 
+clear.''
+    We do not agree. The commenter provided no explanation of what is 
+unclear in paragraph (j) or how adding the Goodrich Aerospace service 
+bulletin will clarify the requirements of paragraph (j). Therefore, we 
+have not changed this AD in this regard.
+
+Requests To Provide Credit for Previous Actions Done Using Other 
+Service Information
+
+    Delta and Lufthansa asked that the proposed AD include credit for 
+doing previous actions by accomplishing Goodrich Aerospace Service 
+Bulletin RA32071-159; Repair 10 of CMM 71-21-08, Revision 47 (and 
+later); or Repair 21 of CMM 71-21-06, Revision 59 (and later). Delta 
+stated that paragraph (l) of the proposed AD includes credit for 
+previous actions only for compliance with Airbus Service Bulletin A320-
+71-1065, Revision 01, dated July 28, 2017. Delta asserted that the 
+intent of the proposed AD is met by the accomplishment of Goodrich 
+Aerospace Service Bulletin RA32071-159; Repair 10 of CMM 71-21-08, 
+Revision 47 (and later); or Repair 21 of CMM 71-21-06, Revision 59 (and 
+later); due to the correction of the inspection and repair 
+requirements.
+    We do not agree with the commenter's request. Goodrich Aerospace 
+Service Bulletin RA32071-159 is referenced in the airplane level Airbus 
+service information as a secondary document; therefore, it is not an 
+alternate for the instructions in the airplane level service 
+information. All of the steps in paragraph 3.C. of Airbus Service 
+Bulletin A320-71-1065, Revision 01, dated July 28, 2017, are required 
+for compliance and must be done to comply with this AD. If not done 
+before the effective date of this AD, paragraph (f) of this AD states 
+that you must comply with the actions in the AD, ``unless already 
+done.''
+    Regarding future revisions of CMM repairs, we may not refer to any 
+document that does not yet exist. To allow operators to use later 
+revisions of a required document (issued after publication of the AD), 
+either we must revise the AD to reference specific later revisions, or 
+operators must request approval to use later revisions as an 
+alternative method of compliance with the requirements of an AD under 
+the provisions of the AMOC paragraph of the AD. However, as explained 
+previously, the identified CMM repairs are not required for 
+accomplishment of any action in this AD; therefore, no change to this 
+AD is necessary in this regard.
+
+Request To Change Parts Installation Prohibition
+
+    Delta asked that paragraph (m) of the proposed AD, ``Parts 
+Installation Prohibition,'' be changed to permit the same allowance to 
+install an affected main beam onto an aircraft equipped with an 
+affected forward engine mount assembly within the compliance windows 
+defined in paragraph (j) of the proposed AD. Delta stated that 
+paragraph (m) of the proposed AD prohibits the installation of an 
+affected main beam on any airplane after the effective date of the AD. 
+Delta further points out that the parallel EASA AD 2017-0132R1, dated 
+November 22, 2017, permits the installation of an affected main beam 
+onto an aircraft equipped with an affected forward engine mount 
+assembly within the compliance times defined in paragraph (j) of the 
+proposed AD.
+    We agree with the commenter's request. After the NPRM was issued, 
+EASA issued AD 2017-0132R1, dated November 22, 2017, which revised its 
+parts installation requirement. We have revised paragraph (m) of this 
+AD to match the EASA AD. In addition, we have revised this AD to refer 
+to EASA AD 2017-0132R1, dated November 22, 2017.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously, with minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-71-1065, Revision 01, dated 
+July 28, 2017. This service information describes procedures for 
+modifying the main beam assembly of the forward engine mount. The 
+modification includes, among other things, repair or replacement of the 
+main beam assembly.
+    Airbus has also issued Service Bulletin A320-71-1066, dated 
+December 1, 2016. This service information describes procedures for 
+modifying the main beam assembly of the forward engine mount. The 
+modification includes, among other things, rework of the main beam 
+assembly.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 500 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+            Action                   Labor cost         Parts cost      Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Modification..................  Up to 76 work-hours             $778  Up to $7,238........  Up to $3,619,000.
+                                 x $85 per hour =
+                                 $6,460.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+[[Page 26563]]
+
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866,
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    3. Will not affect intrastate aviation in Alaska, and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-12-02 Airbus: Amendment 39-19306; Docket No. FAA-2017-1020; 
+Product Identifier 2017-NM-114-AD.
+
+(a) Effective Date
+
+    This AD is effective July 13, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus Model A318-111 and -112 airplanes; 
+Model A319-111, -112, -113, -114, and -115 airplanes; Model A320-
+211, -212, -214, and -216 airplanes; and Model A321-111, -112, -211, 
+-212, and -213 airplanes; certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 71, Powerplant.
+
+(e) Reason
+
+    This AD was prompted by a review of maintenance instructions for 
+a blend repair of the diameter of the snout of the main beam 
+assembly of the forward engine mount that would create an excessive 
+gap between the bearing mono-ball and the snout. We are issuing this 
+AD to prevent in-flight failure of a forward engine mount, and 
+consequent detachment of an engine, which could result in reduced 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of Affected Parts
+
+    For the purposes of this AD: An ``affected main beam'' is any 
+main beam assembly of the forward engine mount, part number (P/N) 
+642-2006-501 or P/N 642-2006-503, identified in paragraph (g)(1) or 
+(g)(2) of this AD.
+    (1) Any part for which no maintenance records are available to 
+confirm the part has never been repaired.
+    (2) Any part that was repaired as specified in Repair 10, of 
+Goodrich Aerospace Component Maintenance Manual (CMM) 71-21-08, 
+Revisions 1 through 46, except for parts identified in paragraphs 
+(g)(2)(i), (g)(2)(ii), and (g)(2)(iii) of this AD.
+    (i) Any part on which a qualifying inspection identified in 
+paragraph (h) of this AD has been done and there were no findings 
+(the inspection was passed).
+    (ii) Any part on which a qualifying inspection identified in 
+paragraph (h) of this AD has been done and that part has been 
+repaired as specified in Goodrich Aerospace Service Bulletin 
+RA32071-159.
+    (iii) Any part that has been repaired in accordance with other 
+instructions approved by the Manager, International Section, 
+Transport Standards Branch, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).
+
+(h) Definition of Qualifying Inspection
+
+    For the purposes of this AD: ``A qualifying inspection'' is an 
+inspection done as specified in Goodrich Aerospace Service Bulletin 
+RA32071-159; or for CFM56-5B engines, an inspection done as 
+specified in Repair 10 of Goodrich Aerospace CMM 71-21-08, Revision 
+47; or for CFM56-5A engines, an inspection done as specified in 
+Repair 21 of Goodrich Aerospace CMM 71-21-06, Revision 59.
+
+(i) Definition of Airplane Groups
+
+    For the purposes of this AD: ``Group 1 airplanes'' are airplanes 
+on which an affected main beam has been installed as of the 
+effective date of this AD. ``Group 2 airplanes'' are airplanes on 
+which an affected main beam has not been installed as of the 
+effective date of this AD; this includes airplanes with an original 
+certificate of airworthiness or original export certificate of 
+airworthiness that was issued after the effective date of this AD.
+
+(j) Modification of Affected Main Beam Assemblies
+
+    For Group 1 airplanes as identified in paragraph (i) of this AD: 
+At the earliest of the compliance times specified in paragraphs 
+(j)(1), (j)(2), and (j)(3) of this AD, modify, including doing all 
+applicable inspections and corrective actions, for each affected 
+main beam identified in paragraph (g) of this AD, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A320-71-
+1065, Revision 01, dated July 28, 2017; or Airbus Service Bulletin 
+A320-71-1066, dated December 1, 2016; as applicable; except as 
+required by paragraph (k) of this AD.
+    (1) Within 48 months after the effective date of this AD.
+    (2) Within 10,000 flight cycles after the effective date of this 
+AD.
+    (3) Within 15,000 flight hours after the effective date of this 
+AD.
+
+(k) Exception to Service Information
+
+    Where Airbus Service Bulletin A320-71-1065, Revision 01, dated 
+July 28, 2017, specifies to contact a manufacturer for appropriate 
+action, and specifies that action as ``RC'' (Required for 
+Compliance): Before further flight, accomplish corrective actions in 
+accordance with the procedures specified in paragraph (n)(2) of this 
+AD.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (j) of this AD involving Airbus Service Bulletin A320-71-
+1065, Revision 01, dated July 28, 2017, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A320-71-1065, dated December 1, 2016.
+
+(m) Parts Installation Prohibition
+
+    Do not install on any airplane an affected main beam or a 
+forward engine mount assembly equipped with an affected main beam, 
+as specified in paragraph (m)(1) or (m)(2) of this AD, as 
+applicable.
+    (1) For Group 1 airplanes: After modification of the airplane as 
+required by paragraph (j) of this AD.
+    (2) For Group 2 airplanes: As of the effective date of this AD.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information
+
+[[Page 26564]]
+
+directly to the manager of the International Section, send it to the 
+attention of the person identified in paragraph (o)(2) of this AD. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus's EASA 
+DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (k) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0132R1, dated November 22, 2017, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2017-1020.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198-6547; 
+telephone 425-227-1405; fax 425-227-1149.
+    (3) Airbus service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (p)(4) and (p)(5) of this AD.
+    (4) Goodrich service information identified in this AD that is 
+not incorporated by reference is available at Goodrich Corporation, 
+Aerostructures, 850 Lagoon Drive, Chula Vista, CA 91910-2098; phone: 
+619-691-2719; email: [email protected]; internet: http://www.goodrich.com/TechPubs.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-71-1065, Revision 01, dated 
+July 28, 2017.
+    (ii) Airbus Service Bulletin A320-71-1066, dated December 1, 
+2016.
+    (3) For Airbus service information identified in this AD, 
+contact Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+internet: http://www.airbus.com.
+    (4) For Goodrich service information identified in this final 
+rule, contact Goodrich Corporation, Aerostructures, 850 Lagoon 
+Drive, Chula Vista, CA 91910-2098; phone: 619-691-2719; email: 
+[email protected]; internet: http://www.goodrich.com/TechPubs.
+    (5) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on May 29, 2018.
+Jeffrey E. Duven,
+Director, System Oversight Division, Aircraft Certification Service.
+[FR Doc. 2018-12268 Filed 6-7-18; 8:45 am]
+ BILLING CODE 4910-13-P

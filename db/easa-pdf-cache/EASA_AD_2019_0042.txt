@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0042
+
+Airworthiness Directive
+
+AD No.: 2019-0042
+
+Issued: 27 February 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name:: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 13 March 2019 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2011-0173R1 dated 21 August 2014.
+
+ATA 71 – Power Plant – Engine Air Inlet Cowl Acoustic Panels – Inspection / Repair / Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The inspection SB: Airbus Service Bulletin (SB) A330-71-3024 Revision 04, which refers for accomplishment instructions to Rolls Royce Non-Modification Service Bulletin (NMSB) RB.211-71- AG419 Revision 3. The modification SB: Airbus SB A330-71-3030, which refers for accomplishment instructions to Rolls-Royce SB RB.211-71-H205. Affected part: Engine air inlet cowls, having Part Number (P/N) SJ30020, or P/N SJ30361. Serviceable part: An affected part that has not exceeded 12 months since new (first installation on an aeroplane), or has passed a special detailed inspection (SDI, tap test inspection method) in Page 1 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0042 accordance with the instructions of the inspection SB (any revision), or an engine air inlet cowl that is not an affected part. Groups: Group 1 aeroplanes are those that have an affected part installed. Group 2 aeroplanes are those that do not have an affected part installed. An aeroplane on which Airbus modification (mod) 202395 has been embodied in production is a Group 2 aeroplane, provided the aeroplane remains in that configuration.
+
+Reason: Occurrences were reported on A330 aeroplanes fitted with Rolls-Royce Trent 700 engines, where the air inlet cowl was found with extensive damage, as a result of acoustic panel collapse. The technical investigation results revealed that these occurrences were caused by panel disbonding. This condition, if not detected and corrected, could lead to in-flight detachment of an air inlet cowl acoustic panel, possibly resulting in damage to the aeroplane, and/or in damage to the engine by ingestion of parts, and/or injury to persons on the ground. To initially address this potential unsafe condition, Airbus published the inspection SB (original issue up to Revision 03), to provide instructions for SDI of the three acoustic panels of air inlet cowl. Consequently, EASA issued AD 2011-0173 to require repetitive SDI of these air inlet cowl acoustic panels on both engines. Since that AD was issued, Airbus developed mod 202395, installation of improved inner acoustic panels, and published the modification SB, which constitutes an optional terminating action for the SDI. Consequently, EASA AD 2011-0173 was revised to introduce this optional terminating action. Since that revised AD was issued, new events of Rolls-Royce Trent 700 engines air inlet cowl collapse have been reported. These events only occurred on pre-mod 202395 engine air inlet cowls. Prompted by these findings, Airbus performed new calculations of the SDI threshold / interval values and those of the Acceptable / Repairable Damage Limits, leading to an amended inspection programme. For the reasons described above, this AD retains the requirements of EASA AD 2011-0173R1, which is superseded, and requires the SDI of affected parts at amended threshold(s) and interval(s), and, depending on findings, repair or replacement of affected parts. This AD also allows a post-mod aeroplane to be modified, either partially or completely, to pre-mod configuration.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Repetitive Inspections: (1) Group 1 aeroplanes: Within the compliance times specified in the inspection SB, or within 6 months after the effective date of this AD, whichever occurs later, without exceeding 24 months since last SDI (SB A330-71-3024 at any Revision), and, thereafter, at intervals not to exceed 12 months, accomplish an SDI of the affected part of each affected engine of the aeroplane in accordance with the instructions of the inspection SB. Page 2 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0042 Note 1: The inspection SB contains an incorrect circuit breaker reference 73 Q in a “required for compliance” step for Task 713024-833-801-001. The correct circuit breaker for FADEC A ENG 2 is 74 Q. This will be corrected by Airbus at the first opportunity. Corrective Action(s): (2) If, during any SDI as required by paragraph (1) of this AD, disbonding is found on any affected part, within the compliance time(s) defined in the inspection SB, accomplish the applicable corrective action(s) (additional SDI and/or repair of the affected part, or replacement of the affected part), followed by repetitive SDI, in accordance with the instructions of the applicable SB. Terminating Action: (3) Modification of an aeroplane in accordance with the instructions of the modification SB, constitutes terminating action for the repetitive inspections required by paragraphs (1) and (2), provided the aeroplane remains in that configuration. Part(s) Installation: (4) For Group 1 aeroplanes: From the effective date of this AD, installation of an affected part on an aeroplane is allowed, provided that it is a serviceable part, as defined in this AD and that, following installation, the part is inspected as required by this AD. (5) For Group 2 aeroplanes: From the effective date of this AD, installation of an affected part on an aeroplane is allowed, provided that it is a serviceable part, as defined in this AD. After installation of an affected part, the Group 2 aeroplane becomes a Group 1 aeroplane, therefore, following installation, the part must be inspected as required by paragraph (1) of this AD.
+
+Ref. Publications: Airbus SB A330-71-3024 original issue dated 11 May 2011, or Revision 01 dated 27 September 2011, or Revision 02 dated 06 February 2013, or Revision 03 dated 28 November 2014, or Revision 04 dated 17 December 2018. Airbus SB A330-71-3030 original issue dated 09 July 2014. Rolls Royce NMSB RB.211-71-AG419 Revision 3 dated 13 December 2018. Rolls-Royce SB RB.211-71-H205 original issue dated 07 July 2014. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. Page 3 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0042 2. This AD was posted on 04 February 2019 as PAD 19-015 for consultation until 18 February 2019. The Comment Response Documents can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

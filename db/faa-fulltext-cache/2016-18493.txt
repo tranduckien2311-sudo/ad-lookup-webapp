@@ -1,0 +1,383 @@
+[Federal Register Volume 81, Number 154 (Wednesday, August 10, 2016)]
+[Rules and Regulations]
+[Pages 52750-52752]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-18493]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-5462; Directorate Identifier 2015-NM-131-AD; 
+Amendment 39-18606; AD 2016-16-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200, -200 Freighter and -300 series airplanes; and 
+Model A340-200 and -300 series airplanes. This AD was prompted by 
+reports of spurious terrain awareness warning system (TAWS) alerts 
+during approach and takeoff for airplanes fitted with the terrain and 
+traffic collision avoidance system with transponder (T3CAS) when the 
+T3CAS is constantly powered ``ON'' for more than 149 hours. This AD 
+requires repetitive on-ground power cycle of the T3CAS. We are issuing 
+this AD to prevent spurious TAWS alerts (collision prediction and 
+alerting (CPA)), or missing legitimate CPA, which could increase flight 
+crew workload during critical landing or takeoff phases, and could 
+possibly result in reduced control of the airplane.
+
+DATES: This AD is effective September 14, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of September 
+14, 2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+5462.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+5462; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A330-
+200, -200 Freighter and -300 series airplanes; and Model A340-200 and -
+300 series airplanes. The NPRM published in the Federal Register on 
+April 12, 2016 (81 FR 21484) (``the NPRM'').
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2015-0125, dated July 1, 2015; corrected July 3, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200, -200 Freighter and -300 series airplanes; and Model A340-200 
+and -300 series airplanes. The MCAI states:
+
+    Cases were reported of spurious Terrain Awareness Warning System 
+(TAWS) alerts during approach and take off, with aeroplane fitted 
+with the Terrain and Traffic Collision Avoidance System with 
+Transponder (T3CAS). Investigations on the unit were launched with 
+the manufacturer of the system (ACSS). The results of the laboratory 
+investigation confirmed that an internal frozen Global Positioning 
+System position anomaly occurs when the T3CAS is constantly powered 
+`ON' for more than 149 hours. The origin for this defect was 
+identified as a counter limitation related to a T3CAS internal 
+software misbehaviour, not self-detected.
+    This condition, if not corrected, could lead to spurious TAWS 
+alerts (Collision Prediction and Alerting (CPA), or missing 
+legitimate CPA), which could increase flight crew workload during 
+critical landing or take off phases, possibly resulting in reduced 
+control of the aeroplane.
+    Prompted by these reports, Airbus issued Alert Operators 
+Transmission (AOT) A34L003-13 to provide instructions to accomplish 
+an on ground repetitive power cycle of the T3CAS before exceeding 
+120 hours of continuous power, and EASA issued AD 2014-0242 to 
+require repetitive on ground power cycles of the T3CAS unit.
+    Since that [EASA] AD was issued, the AOT A34L003-13 revision 1 
+has been issued which extend[s] the applicability to A340 aeroplanes 
+modified in-service in accordance with Airbus SB 34-4282 (T3CAS std 
+1.2 unit installation). It was also identified that [EASA] AD 2014-
+0242 does not refer to affected A330 in-service aeroplanes on which 
+SB A330-34-3271 or SB A330-34-3286 or SB A330-34-3301 have been 
+embodied.
+    For the reason described above, this [EASA] AD retains the same 
+required actions
+
+[[Page 52751]]
+
+as EASA AD 2014-0242, which is superseded, expands the Applicability 
+of the [EASA] AD to include post SB A330-34-3271, post SB A330-34-
+3286 and post SB A330-34-3301 A330 aeroplanes, and post SB A340-34-
+4282 A340 aeroplanes.
+
+* * * * *
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+5462.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received. The commenters, Air Line 
+Pilots Association International and Mr. Scott Corner, supported the 
+NPRM.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD as proposed, except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission (AOT) A34L003-13, 
+Revision 01, dated May 26, 2015. The service information describes 
+procedures for an on-ground power cycle of the T3CAS. This service 
+information is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 3 airplanes of U.S. registry.
+    We also estimate that it will take about 1 work-hour per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Required parts will cost about $0 per product. 
+Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $255, or $85 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-16-08 Airbus: Amendment 39-18606; Docket No. FAA-2016-5462; 
+Directorate Identifier 2015-NM-131-AD.
+
+(a) Effective Date
+
+    This AD is effective September 14, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the following Airbus airplanes, certificated 
+in any category.
+    (1) Airbus Model A330-201, -202, -203, -223, -243, -223F, -243F, 
+-301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes, 
+all manufacturer serial numbers on which Airbus Modification 202097 
+(T3CAS Standard 1.1) or Modification 202849 (T3CAS Standard 1.2) has 
+been embodied in production; or Airbus Service Bulletin A330-34-
+3271; Airbus Service Bulletin A330-34-3286; or Airbus Service 
+Bulletin A330-34-3301 have been embodied in-service.
+    (2) Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes, all manufacturer serial numbers on which Airbus Service 
+Bulletin A340-34-4282 (T3CAS Standard 1.2) has been embodied in-
+service.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 34, Navigation.
+
+(e) Reason
+
+    This AD was prompted by reports of spurious terrain awareness 
+warning system (TAWS) alerts during approach and takeoff for 
+airplanes fitted with the terrain and traffic collision avoidance 
+system with transponder (T3CAS) when the T3CAS is constantly powered 
+``ON'' for more than 149 hours. We are issuing this AD to prevent 
+spurious TAWS alerts (collision prediction and alerting (CPA)), or 
+missing legitimate CPA, which could increase flight crew workload 
+during critical landing or takeoff phases, and could possibly result 
+in reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) On-Ground Power Cycle
+
+    For Model A330 and A340 airplanes equipped with a T3CAS unit 
+having a part number specified in paragraph (g)(1) or (g)(2) of this 
+AD: Within 30 days after the effective date of this AD, or within 
+120 hours of continuous power of the T3CAS after installation of the 
+T3CAS, as specified in any applicable service information in 
+paragraph (h) of this AD, whichever occurs later, do an on-ground 
+power cycle of the T3CAS, in accordance with the instructions of 
+Airbus Alert Operators Transmission (AOT) A34L003-13, Revision 01, 
+dated May 26, 2015. Thereafter, repeat the on-ground power cycle of 
+the T3CAS at intervals not to exceed 120 hours of continuous power 
+of the T3CAS.
+    (1) Affected T3CAS Units are those having part number (P/N) 
+9005000-10101, Software Standard 1.1.
+    (2) Affected T3CAS Units are those having P/N 9005000-10202, 
+Software Standard 1.2.
+
+[[Page 52752]]
+
+(h) Service Information Used To Install Part Affected
+
+    Paragraphs (h)(1) through (h)(4) of this AD identify the service 
+information that was used to install the T3CAS, as specified in 
+paragraph (g) of this AD.
+    (1) Airbus Service Bulletin A330-34-3271.
+    (2) Airbus Service Bulletin A330-34-3286.
+    (3) Airbus Service Bulletin A330-34-3301.
+    (4) Airbus Service Bulletin A340-34-4282.
+
+(i) Parts Installation Limitations
+
+    As of the effective date of this AD, installation on an airplane 
+of a T3CAS unit having a part number specified in paragraph (g) of 
+this AD is acceptable, provided that, following installation, the 
+T3CAS unit is power cycled on a recurrent basis, as required by 
+paragraph (g) of this AD.
+
+(j) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(g) of this AD, if those actions were performed before the effective 
+date of this AD using Airbus AOT A34L003-13, dated November 25, 
+2013.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the International 
+Branch, send it to ATTN: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI)) EASA Airworthiness Directive 2015-0125, dated July 1, 2015; 
+corrected July 3, 2015, for related information. This MCAI may be 
+found in the AD docket on the Internet at http://www.regulations.gov 
+by searching for and locating Docket No. FAA-2016-5462.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(3) and (m)(4) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission (AOT) A34L003-13, 
+Revision 01, dated May 26, 2015.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on July 25, 2016.
+Victor Wicklund,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-18493 Filed 8-9-16; 8:45 am]
+BILLING CODE 4910-13-P

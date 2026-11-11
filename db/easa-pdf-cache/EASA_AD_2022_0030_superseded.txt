@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2022-0030
+
+Airworthiness Directive
+
+AD No.: 2022-0030
+
+Issued: 25 February 2022 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 11 March 2022 E TCDS Number(s): EASA.A.064 Foreign AD: Not applicable D
+
+Supersedure: None E
+
+ATA 53 – Fuselage – Inner Cap and Frame Flange at Frame 68 Stringer 22 – Inspection S
+
+Manufacturer(s): Airbus, formerly Airbus Industrie R
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, E A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers, except: - A319 aeroplanes on which Airbus modification (mod) 28238, mod 28162 and mod 28342 have P been embodied in production; and - A318 aeroplanes on which mod 39195 has been embodied in production, or Airbus Service Bulletin (SB) A320-00-1219 has been embodied in service. U
+
+Definitions: For the purpose of this AD, the following definitions apply: S Affected area: Inner cap and web horizontal flange at frame 68 (left-hand and right-hand side) at level of stringer 22. The SB: Airbus SB A320-53-1491. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2022-0030
+
+Reason: Cracks have been reported in the affected area during accomplishement of inspections required by EASA AD 2016-0238. This condition, if not detected and corrected, could reduce the structural integrity of the fuselage. To address this potential unsafe condition, Airbus issued the SB to provide instructions for inspection of the affected area. For the reasons described above, this AD requires repetitive special detailed inspection (SDI) of the affected area.
+
+Required Action(s) and Compliance Time(s): D Required as indicated, unless accomplished previously: Inspection(s): E (1) Before exceeding the compliance time(s) defined in Table 1 of this AD, as applicable, and, thereafter, at intervals not to exceed 19 700 flight cycles (FC), accomplish SDI of each affected area, in accordance with the instructions of the SB. D Table 1 – Initial SDI Aeroplane accumulated FC Compliance Time E (on the effective date of this AD) Before exceeding 20 000 FC since aeroplane first flight 33 700 FC or less or within 24 months after the effective date of this AD, S wichever occurs later More than 33 700 FC Within 12 months after the effective date of this AD R Alternative Method: (2) Accomplishment on an aeroplane of (repetitive) maintenance instructions, issued and approved E by Airbus before the effective date of this AD, which supplement or supersede the instructions of the SB, is an acceptable alternative method to comply with the requirements of paragraphs (1) of this AD for that aeroplane. P Corrective Action(s): (3) If, during any inspection as required by paragraph (1) or (2) of this AD, as applicable, U discrepancies and/or cracks are detected, before next flight, contact Airbus for approved corrective action(s) instructions and, within the compliance time specified therein, accomplish those instructions accordingly. S Terminating Action: (4) Accomplishment of corrective action(s) on an aeroplane as required by paragraph (3) of this AD does not constitute terminating action for the repetitive SDI as required by paragraph (1) of this AD for that aeroplane, unless specified otherwise in the instructions provided by Airbus. Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2022-0030
+
+Ref. Publications: Airbus SB A320-53-1491 original issue dated 14 August 2020. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 21 June 2021 as PAD 21-090 for consultation until 19 July 2021. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. D 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. E 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety D reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be E installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. S 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. R E P U S Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

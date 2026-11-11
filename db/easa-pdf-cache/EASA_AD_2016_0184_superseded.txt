@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0184
+
+Airworthiness Directive
+
+AD No.: 2016-0184
+
+Issued: 13 September 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS A318, A319, A320 and A321 aeroplanes E
+
+Effective Date: 20 September 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable D
+
+Supersedure: This AD supersedes EASA AD 2014-0011R1 dated 17 January 2014. E
+
+ATA 27 – Flight Controls – Trimmable Horizontal Stabilizer Actuator – Inspection / Replacement (Life Limitation) S
+
+Manufacturer(s): R Airbus (formerly Airbus Industrie)
+
+Applicability: E Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, P A321-231 and A321-232 aeroplanes, all manufacturer serial numbers.
+
+Reason: In the frame of the A320 Extended Service Goal (ESG) project and the study on the Trimmable U Horizontal Stabilizer Actuator (THSA), a sampling programme of in-service units was performed and several cases of wear at different THSA levels were reported. S This condition, if not detected and corrected, would reduce the remaining life of the THSA, possibly resulting in premature failure and consequent reduced control of the aeroplane. Prompted by these findings, Airbus issued Service Bulletin (SB) A320-27-1227 to provide THSA inspection instructions. Consequently, EASA issued AD 2014-0011 (later revised) to require Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0184 repetitive inspections of the THSA and to introduce a life limit for the THSA, based on flight hours (FH). Since EASA AD 2014-0011R1 was issued, an additional life limitation has been established, based on flight cycles (FC). Furthermore, United Technologies Corporation Aerospace Systems (UTAS), the THSA manufacturer, issued an SB which, after accomplishment on THSA, increases the life limit of the THSA. For the reasons described above, this AD retains the requirements of EASA AD 2014-0011R1, which is superseded, and introduces an additional FC life limit for the affected THSA. This AD also provides a revised life limit for the THSA after UTAS SB accomplishment on that THSA.
+
+Required Action(s) and Compliance Time(s): D Required as indicated, unless accomplished previously: (1) For THSA pre UTAS SB 47145-27-19, before the THSA exceeds 48 000 FH or 30 000 FC, E whichever occurs first since first installation on an aeroplane, and, thereafter, at intervals not to exceed 24 months, accomplish a special detailed inspection (SDI) of the THSA in accordance with the instructions of Airbus SB A320-27-1227 Revision 03. D (2) If, during any SDI as required by paragraph (1) of this AD, any discrepancy is found, replace the THSA with a serviceable THSA (see Note of this AD) within the applicable compliance time, depending on findings and/or oil sample spectrometric test results, as specified in, and in E accordance with the instructions of, Airbus SB A320-27-1227 Revision 03. Note: For the purpose of this AD, a serviceable THSA is a THSA that does not exceed the life limits as S identified in Table 1 of this AD. (3) Within the compliance time defined in Table 1 of this AD, as applicable, replace each THSA with R a serviceable THSA (see Note of this AD) in accordance with the instructions of Airbus SB A320-27-1227 Revision 03. E Table 1: THSA Life Limit Compliance Time (whichever occurs first, A or B) P THSA pre UTAS SB 47145-27-19 THSA post UTAS SB 47145-27-19 Before exceeding 52 500 FH after UTAS SB Before exceeding 67 500 FH since first 47145-27-19 embodiment, without U A installation on an aeroplane exceeding 120 000 FH since first installation on an aeroplane Before exceeding 48 000 FC since first Before exceeding 27 000 FC after UTAS SB S installation on an aeroplane or before 47145-27-19 embodiment, without B 31 December 2016, whichever occurs exceeding 75 000 FC since first installation on later an aeroplane Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0184 (4) Replacement of a THSA on an aeroplane as required by paragraph (2) or (3) of this AD, as applicable, does not constitute terminating action for the repetitive SDI required by paragraph (1) of this AD for that aeroplane, unless the THSA is refurbished in accordance with the instructions of UTAS SB 47145-27-19 (i.e. post-SB). (5) Modification of an aeroplane by installing a THSA that has been refurbished in accordance with UTAS SB 47145-27-19 constitutes terminating action for the repetitive inspections as required by paragraph (1) of this AD for that aeroplane, provided that, following modification, no pre-SB THSA is (re)installed on that aeroplane. (6) Inspections and corrective actions accomplished before the effective date of this AD in accordance with the instructions of Airbus SB A320-27-1227 at original issue, or Revision 01, or Revision 02, are acceptable to comply with the initial requirements of paragraphs (1) and (2) of D this AD. (7) Accomplishment of a repair in shop, in accordance with UTAS Component Maintenance Manual E (CMM) 27-44-51 (at any revision), on a THSA is acceptable to comply with the initial inspection requirement of paragraph (1) of this AD. (8) From the effective date of this AD, installation on an aeroplane of a THSA is allowed, provided D that the THSA is serviceable (see Note of this AD).
+
+Ref. Publications: E Airbus SB A320-27-1227 original issue dated 01 July 2013, or Revision 01 dated 07 October 2013, or Revision 02 dated 02 February 2015, or Revision 03 dated 29 April 2016. S UTAS SB 47145-27-19 original issue dated 15 December 2015. The use of later approved revisions of these documents is acceptable for compliance with the R requirements of this AD.
+
+Remarks: E 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. P 2. This AD was posted on 22 July 2016 as PAD 16-111 for consultation until 05 August 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. U 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please S contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

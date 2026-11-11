@@ -1,0 +1,23 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 2000-520-159(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 aircraft Vertical stabilizer spar box (ATA 55) APPLICABILITY: This
+
+Airworthiness Directive applies to all AIRBUS INDUSTRIE A319/A320/A321 aircraft, all certified models, Manufacturer Serial Numbers (MSN) 0835, 0846, 0864, 0865, 0867, 0871, 0875, 0883, 0885, 0886, 0889, 0891, 0893, 0896, 0898, 0901, 0909, 0910, 0911, 0917, 0918, 0923, 0924, 0930, 0932, 0933, 0934, 0935, 0938, 0940, 0941, 0944, 0946, 0951, 0955, 0959, 0965, 0972, 0974, 0975, 0983, 0984, 0986, 0989, 0990, 0995, 0999, 1001, 1003, 1006, 1007, 1008, 1009, 1012, 1014, 1023, 1026, 1031, 1032, 1035 and 1037, without AIRBUS INDUSTRIE Service Bulletin A320-55-1028. REASONS: This
+
+Airworthiness Directive is prompted by recent findings of localized debondings of spar, stringer and rib to skin attachments on several Vertical Stabilizer Spar Boxes. The debonding results from bonding surface contamination during production process. This condition, if not corrected, could affect the structural integrity of the Vertical Stabilizer Spar Box.
+
+Airworthiness Directive 2000-208-148(B) R1 described a one time inspection of the Vertical Stabilizer Spar Box. This new
+
+Airworthiness Directive replaces the previous
+
+Airworthiness Directive, and introduces a repetitive inspection and a modification. ACTIONS: 1. Within 1100 flights from the previous inspection performed in accordance with the
+
+Airworthiness Directive 2000-208-148(B) R1, inspect the Vertical Stabilizer Spar Box in accordance with AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1. - If no debondings or debondings within the allowable limits as described in the AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1 are detected, repeat the inspection in accordance with AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1 at intervals not exceeding 1100 flights. - In case debondings beyond the allowable limits as described in the AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1 are found, repair the affected areas before further flight in accordance with the repair instructions detailed in the AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1, and repeat the inspection in accordance with AIRBUS INDUSTRIE Service Bulletin A320-55A1027 at Revision 1 at intervals not exceeding 1100 flights. n/JJD …/… AIRBUS INDUSTRIE December 13, 2000 2000-520-159(B) A319/A320/A321 aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 2000-520-159(B) Page n° 2 GSAC 2. Within 5 years from Entry Into Service (EIS), modify the Vertical Stabilizer Spar Box in accordance with the AIRBUS INDUSTRIE Service Bulletin A320-55-1028 at Revision 3. Accomplishment of this Service Bulletin does not require the prior accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-55A1027. REF.: AIRBUS INDUSTRIE Service Bulletin A320-55A1027 Revision 1 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-55-1028 Revision 3 (or any further approved revision). This
+
+Airworthiness Directive replaces AD 2000-208-148(B) which is cancelled by its Revision 2. EFFECTIVE DATE : DECEMBER 23, 2000

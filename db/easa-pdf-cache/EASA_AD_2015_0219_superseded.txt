@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2015-0219
+
+Airworthiness Directive
+
+AD No.: 2015-0219
+
+Issued: 03 November 2015 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 17 November 2015 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 53 – Fuselage – Cabin / Cargo Compartment Parts – Inspection / Replacement [Improper Heat Treatment]
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-112, A319-111, A319-112, A319-115, A319-132, A319-133, A320-214, A320-216, A320-232, A320-233, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial numbers (MSN) 4895, 4903, 4911, 4919, 4929, 4938, 4942, 4944, 4946, 4948 and 4951, MSN 4956 to 5541 inclusive, MSN 5544, 5547, 5550, 5551, 5553, 5556, 5559, 5561, 5562, 5563, 5565, 5566, 5570, 5572, 5576 and 5578.
+
+Reason: Following an Airbus quality control review on the final assembly line, it was discovered that aluminium alloy with inadequate heat treatment were delivered by a supplier for several structural parts. The results of the investigations highlighted that 1% of the stock could be impacted by this wrong material. Structural investigations demonstrated the capability to sustain the static limits loads, and sufficient fatigue life up to a certain inspection threshold. This condition, if not detected and corrected, could reduce the aeroplane structural integrity following fatigue load. Page 1 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2015-0219 To address this potential unsafe condition, Airbus issued Service Bulletins (SB) A320-53-1292, SB A320-53-1293 and SB A320-53-1294 to provide inspection instructions. For the reasons described above, this AD requires a one-time Special Detailed Inspection (SDI) of certain cabin, cargo compartment and frame parts and, depending on findings, replacement with serviceable parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Within 6 years after the aeroplane date of manufacture (see Note 1), accomplish the actions as specified in paragraph (1) and (2) of this AD. Note 1: For the purpose of this AD, the date of manufacture is the date of transfer of title, which is referenced in Airbus documentation at the time of first delivery to an operator. (1) Accomplish an SDI of the affected cabin, cargo compartment and frame parts, listed by Part Number (P/N) and identified as ‘affected P/N’ in Table 1, 2 and 3 of this AD, as applicable, in accordance with the instructions of Airbus SB A320-53-1292, SB A320-53-1293, or SB A320-53-1294, as applicable. (2) If, during an inspection as required by paragraph (1) of this AD, a part with inadequate heat treatment is detected, replace the part with a part identified as ‘Acceptable Replacement P/N‘ in Table 1, 2 and 3 of this AD, in accordance with the instructions of Airbus SB A320-53-1292, SB A320-53-1293, or SB A320-53-1294, as applicable. Table 1 – Cabin Parts to be Inspected / Installed – SB A320-53-1292 Acceptable Affected P/N Replacement P/N D2127245500000 D2127247600200 D2127247600300 D2127399900200 Same P/N D2127399900300 D2127698900800 D2127698902400 D2527075131200 D2527075131251 D2527075131300 D2527075131351 D2527075138000 D2527075138100 Same P/N D2527075138200 D2527075138300 Page 2 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2015-0219 Acceptable Affected P/N Replacement P/N D2527075138600 D2527075138651 D2527075138800 D2527075138851 D2527240220600 D2527240220651 D2527240220700 D2527240220751 D2527240220800 D2527240220851 D9249591201000 Same P/N D9249591201800 D9249591227800 D9249591227851 D9249591227900 D9249591227951 D9249591228000 D9249591228051 D9249591228100 D9249591228151 Table 2 – Cargo Compartment Parts to be Inspected / Installed – SB A320-53-1293 Acceptable Affected P/N Replacement P/N D2707033520000 Same P/N D2827027120000 Same P/N D2827093500400 Same P/N D2907013701200 D2907013701251 D2907013800400 D2907013800451 D3247012900000 D3247012900051 D3817003820000 Same P/N D3817012320200 D3817012320251 D3837021201600 Same P/N D3837033300400 Same P/N D4918518320200 (see Note 2) Same P/N D5347043420400 D5347043420451 D9248511000000 D9248511000051 D9249254100200 D9249254100251 D9249282300000 Same P/N Note 2: P/N D4918518320201 is erroneously quoted in SB A320-53-1293 original issue. This typographical error will be removed in the next issues of the SB. Page 3 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2015-0219 Table 3 - Frame Parts to be Inspected / Installed – SB A320-53-1294 Acceptable Affected P/N Replacement P/N D2827098326800 D2827098326851 D5347051620600 D5347051620651 D5347051720600 D5347051720651 D5347057120000 D5347057120051 D5347067520600 D5347067520651 D5347067521400 D5347067521451 D5347067520800 D5347067520851 D5347067521000 D5347067521051 D5347067521600 D5347067521651 D5347067620600 same P/N D5347067720200 D5347067720251 D5347067720400 D5347067720451 D5347986520200 D5347986520251
+
+Ref. Publications: Airbus SB A320-53-1292 original issue dated 23 July 2015. Airbus SB A320-53-1293 original issue dated 30 July 2015. Airbus SB A320-53-1294 original issue dated 23 July 2015. The use of later approved revisions of these documents are acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 28 September 2015 as PAD 15-127 for consultation until 26 October 2015. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

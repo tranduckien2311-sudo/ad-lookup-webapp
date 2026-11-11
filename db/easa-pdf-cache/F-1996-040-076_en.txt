@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-040-076(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Improvement of avionic protection from trickling water 90 and 91 VUs protection This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, without AIRBUS INDUSTRIE modification 22119 or modification 21999 or without AIRBUS INDUSTRIE Service Bulletin A320-24-1054. In order to improve avionic equipment protection against water contamination in the case of accidental spillage in the cabin or galley area, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 3 years, install drip pans and additional drain gutters on racks 90VU and 91VU in accordance with the instructions given in AIRBUS INDUSTRIE Service Bulletin A320-24-1054. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-24-1054. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-24-1054 (or any further approved revision) EFFECTIVE DATE : FEBRUARY 24, 1996 v/JYR AIRBUS INDUSTRIE February 14, 1996 96-040-076(B) A320 Aircraft

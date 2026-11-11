@@ -1,0 +1,390 @@
+[Federal Register Volume 89, Number 136 (Tuesday, July 16, 2024)]
+[Rules and Regulations]
+[Pages 57725-57728]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-15466]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0763; Project Identifier AD-2023-00924-E; 
+Amendment 39-22785; AD 2024-14-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines, LLC
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+International Aero Engines, LLC (IAE LLC) Model PW1122G-JM, PW1124G1-
+JM, PW1124G-JM, PW1127G1-JM, PW1127G1A-JM, PW1127G1B-JM, PW1127G-JM, 
+PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-JM, and PW1133GA-JM 
+engines. This AD was prompted by an in-flight shutdown (IFSD) caused by 
+the fracture of a low-pressure compressor (LPC) 1st-stage integrally 
+bladed rotor (IBR-1). This AD requires removal and replacement of 
+affected LPC key washers and affected LPC IBR-1 and installation of 
+inlet guide vane (IGV) spacers. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective August 20, 2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-0763; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Carol Nguyen, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(781) 238-7655; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all IAE LLC Model 
+PW1122G-JM, PW1124G1-JM, PW1124G-JM, PW1127G1-JM, PW1127G1A-JM, 
+PW1127G1B-JM, PW1127G-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-
+JM, and PW1133GA-JM engines. The NPRM published in the Federal Register 
+on March 25, 2024 (89 FR 20551). The NPRM was prompted by an incident 
+involving an Airbus Model A320neo airplane powered by IAE LLC Model 
+PW1127G-JM engines that experienced an IFSD. A manufacturer 
+investigation determined that the IFSD was caused by a fractured LPC 
+IBR-1, which resulted from an aerodynamic excitation. The most likely 
+cause of the aerodynamic excitation was a misaligned IGV located 
+directly upstream of the IBR-1. As a result, Pratt & Whitney (PW) 
+redesigned the LPC IGV arm assembly by adding a spacer to provide 
+additional torque capability and to prevent a misaligned vane. PW also 
+redesigned the IBR-1 to better withstand an aerodynamic excitation from 
+a misaligned IGV. In the NPRM, the FAA proposed to require removal and 
+replacement of affected LPC key washers and affected LPC IBR-1 and 
+installation of LPC IGV spacers. The FAA is issuing this AD to address 
+the unsafe condition on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from four commenters. The commenters were 
+the Air Line Pilots Association, International (ALPA), All Nippon 
+Airways CO., LTD. (ANA), Delta Air Lines, Inc (DAL), and Frontier 
+Airlines (Frontier). ALPA supported the NPRM without change. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Update Paragraph (g)(1)
+
+    Frontier requested that the FAA update paragraph (g)(1) of the 
+proposed AD to read as follows: ``For engines that are pre-PW Service 
+Bulletin (SB) PW1000G-C-72-00-0180-00A-930A-D, Issue No. 001, dated 
+October 10, 2020 (PW SB PW1000G-C-72-00-0180-00A-
+
+[[Page 57726]]
+
+930A-D) with installed LPC key washers having P/N 5375416, at the next 
+engine shop visit after the effective date of this AD, remove the 
+affected LPC key washers and replace them with LPC key washers and LPC 
+IGV spacers that are eligible for installation.'' Frontier noted that 
+tracking installed washers on engines is very difficult since they are 
+not tracked parts, and post service bulletin engines have LPC key 
+washers and LPT IGV spacers that are eligible for installation.
+    The FAA agrees to update paragraph (g)(1) of this AD to include 
+reference to engines that have not incorporated PW SB PW1000G-C-72-00-
+0180-00A-930A-D.
+
+Request To Update Paragraph (g)(2)
+
+    Frontier requested that the FAA update paragraph (g)(2) of the 
+proposed AD to read as follows: ``For engines that are pre-service 
+bulletin SB PW1000G-C-72-00-0189-00A-930A-D, with an installed LPC IBR-
+1 having PN 5373831, at the next piece-part exposure after effective 
+date of this AD, remove the affected LPC IBR-1 and replace with an LPC 
+IBR-1 eligible for installation.''
+    The FAA disagrees with the request because the LPC IBR-1 is a 
+tracked life-limited part, so adding qualifying language for ``pre-PW 
+SB PW1000G-C-72-00-0189-00A-930A-D'' engines is unnecessary. The FAA 
+did not change this AD as a result of this comment.
+
+Request To Add ``Credit for Previous Actions'' Paragraph
+
+    DAL requested that the FAA add a ``Credit for Previous Actions'' 
+paragraph to the proposed AD to allow credit for the actions required 
+by paragraph (g)(1) if PW SB PW1000G-C-72-00-0180-00A-930A-D was 
+previously accomplished. ANA also requested that accomplishment of PW 
+SB PW1000G-C-72-00-0180-00A-930A-D be accepted as credit for paragraph 
+(g)(1) of the proposed AD, and accomplishment of PW SB PW1000G-C-72-00-
+0189-00A-930A, Issue 001, dated January 26, 2022, PW SB PW1000G-C-72-
+00-0189-00A-930A, Issue 002, dated March 15, 2022, and PW SB PW1000G-C-
+72-00-0189-00A-930A, Issue 003, dated November 28, 2022, be accepted as 
+credit for paragraph (g)(2) of the proposed AD if these actions were 
+performed before the effective date of the proposed AD. DAL noted that 
+because the proposed AD does not provide credit for installing the 
+post-SB spacers and washers, operators must physically verify that all 
+61 spacers are present and all 61 washers are post-SB on all engines, 
+regardless of whether or not the engine records show accomplishment of 
+PW SB PW1000G-C-72-00-0180-00A-930A-D. DAL also noted that this is a 
+very manual, time-intensive task that should be avoided considering PW 
+SB PW1000G-C-72-00-0180-00A-930A-D installs key washers P/N 5375416 and 
+LPC spacers P/N 5375433, and those parts comply with the ``part 
+eligible for installation'' definitions listed in paragraphs (h)(3) and 
+(h)(4) of the proposed AD.
+    The FAA disagrees with the request to add a ``Credit for Previous 
+Actions'' paragraph to this AD. This AD references affected engines 
+with specific P/Ns installed in paragraph (g) of this AD, and if the 
+service bulletins related to this AD have already been performed on the 
+engine, then the affected P/Ns are no longer installed and the AD is no 
+longer applicable to those engines. Therefore, previous credit is not 
+necessary because the engine no longer has an affected P/N installed. 
+The FAA notes that paragraph (g)(1) of this AD has been changed to 
+reference PW SB PW1000G-C-72-00-0180-00A-930A-D and to reduce the 
+burden on operators. The FAA did not change this AD as a result of this 
+comment.
+
+Request To Clarify Meaning of ``At the Next Piece-Part Exposure''
+
+    ANA requested that the FAA clarify the meaning of ``at the next 
+piece-part exposure'' in paragraph (g)(2) of the proposed AD. ANA asks 
+if LPC IBR-1 is already separated from the LPC module and assembly has 
+already begun by the effective date of this AD, should the requirement 
+of paragraph (g)(2) not be performed in this shop visit? ANA also 
+wondered about the same scenario if the assembly had not begun by the 
+effective date of this AD.
+    To clarify, the FAA's meaning of ``at the next piece-part 
+exposure'' covers both cases. Paragraph (h)(2) of this AD defines a 
+``piece-part exposure'' as when the LPC IBR-1 is separated from the LPC 
+module. The FAA considers the ``next'' exposure to include any 
+separation of the LPC IBR-1 from the LPC module after the effective 
+date of this AD. If the LPC IBR-1 is assembled into the module on the 
+effective date of this AD, then it is not a ``piece-part exposure.'' If 
+the LPC IBR-1 is separated from the LPC module after the effective date 
+of the AD, then paragraph (g)(2) of this AD will need to be performed 
+because it will meet the definition of ``piece-part exposure''. The FAA 
+is not concerned if the assembly of the LPC module has started or not.
+    The FAA did not change this AD as a result of this comment.
+
+Request To Clarify ``Major Mating Engine Flanges''
+
+    ANA requested that the FAA clarify if ``major mating engine 
+flanges'' referenced in paragraph (h)(1) of the proposed AD are 
+considered as flanges E through P.
+    To clarify, the FAA considers the major mating engine flanges 
+referenced in paragraph (h)(1) of this AD as flanges E through P, 
+inclusive. The FAA did not change this AD as a result of this comment.
+
+Request To Clarify ``Induction of an Engine''
+
+    ANA requested that the FAA clarify the meaning of ``induction of an 
+engine'' in paragraph (h)(1) of the proposed AD. ANA asked if an engine 
+is already in-shop for maintenance involving the separation of pairs of 
+major mating engine flanges at the effective date of this AD, does 
+paragraph (g)(1) need to be performed in this shop visit?
+    To clarify, the FAA's meaning of ``induction of an engine'' when 
+using the example provided by ANA is: ``if the engine was already at an 
+engine shop visit on the effective date of this AD, the requirements of 
+paragraph (g)(1) would apply at the next engine shop visit after the 
+effective date of this AD.'' The FAA did not change this AD as a result 
+of this comment.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 215 engines installed on 
+airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this AD:
+
+[[Page 57727]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Replace LPC IBR-1........................  1 work-hours x $85 per hour      $36,350      $36,435      $7,833,525
+                                            = $85.
+Replace IGV key washers and install IGV    20 work-hours x $85 per            4,392        6,092       1,309,780
+ spacers.                                   hour = $1,700.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2024-14-04 International Aero Engines, LLC: Amendment 39-22785; 
+Docket No. FAA-2024-0763; Project Identifier AD-2023-00924-E.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective August 20, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to International Aero Engines Model PW1122G-JM, 
+PW1124G1-JM, PW1124G-JM, PW1127G1-JM, PW1127G1A-JM, PW1127G1B-JM, 
+PW1127G-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-JM, and 
+PW1133GA-JM engines.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an in-flight shutdown caused by the 
+fracture of a low-pressure compressor (LPC) 1st-stage integrally 
+bladed rotor (IBR-1). The FAA is issuing this AD to prevent the 
+failure of the LPC IBR-1. The unsafe condition, if not addressed, 
+could result in damage to the engine, damage to the airplane, and 
+possible loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For affected engines that have not incorporated Pratt & 
+Whitney Service Bulletin PW1000G-C-72-00-0180-00A-930A-D (initial 
+issue or any revision), and with installed LPC key washers having 
+part number (P/N) 5375416, at the next engine shop visit after the 
+effective date of this AD, remove the affected LPC key washers and 
+replace them with LPC key washers and LPC inlet guide vane (IGV) 
+spacers that are eligible for installation.
+    (2) For affected engines with an installed LPC IBR-1 having P/N 
+5373831, at the next piece-part exposure after the effective date of 
+this AD, remove the affected LPC IBR-1 and replace with an LPC IBR-1 
+eligible for installation.
+
+(h) Definitions
+
+    For the purposes of this AD:
+    (1) An ``engine shop visit'' is the induction of an engine into 
+the shop for maintenance involving the separation of pairs of major 
+mating engine flanges, except that the separation of engine flanges 
+solely for the purposes of transportation without subsequent engine 
+maintenance does not constitute an engine shop visit.
+    (2) A ``piece-part exposure'' is when the LPC IBR-1 is separated 
+from the LPC module.
+    (3) ``LPC key washers eligible for installation'' are any LPC 
+key washers having P/N 5375434 or later-approved P/N.
+    (4) ``LPC IGV spacers eligible for installation'' are any LPC 
+IGV spacers having P/N 5375433 or later-approved P/N.
+    (5) An ``LPC IBR-1 eligible for installation'' is any LPC IBR-1 
+having P/N 5373841 or later-approved P/N.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of AIR-520 Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (j) of this AD and email to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact Carol Nguyen, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (781) 238-7655; email: [email protected].
+
+(k) Material Incorporated by Reference
+
+    None.
+
+
+[[Page 57728]]
+
+
+    Issued on July 10, 2024.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-15466 Filed 7-15-24; 8:45 am]
+BILLING CODE 4910-13-P

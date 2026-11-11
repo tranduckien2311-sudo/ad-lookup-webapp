@@ -1,0 +1,13 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 90-138-014(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Trimmable horizontal stabilizer Trimmable horizontal stabilizer (THS) actuator control jamming This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft series 100 and 200 without AIRBUS INDUSTRIE modification 22371 (embodied on production line on aircraft MSN 158 and 159 and since aircraft MSN 190) or without AIRBUS INDUSTRIE Service Bulletin A320-27-1032. In order to avoid complete loss of pitch electrical control (reversion to pitch back-up) associated with increase of manual pitch trim control loads of THS (pitch trim wheel), the following measures A and B are rendered mandatory. Jamming of the normally active electrical motor output bearing of the pitch trim actuator (PTA) leads to : 1/ Pitch trim control loss through both ELAC, 2/ THS actuator electrical control loss, 3/ Increase of manual pitch trim control loads of THS felt by the pilots. This jamming, combined with failures affecting the availability of the pitch control within SEC 1 and 2 would lead to the complete loss of pitch electrical control. A/ Check once a week availability of pitch control through each of both SEC 1 and 2 in accordance with AIRBUS INDUSTRIE inspection SB A320-27-1031. B/ Should one or both SEC 1 or 2 not be available, insure that both are operational before next flight. Note : Above mentioned B measure is already incorporated in AIRBUS INDUSTRIE MMEL TR N° 81. e/C …/… AIRBUS INDUSTRIE October 02, 91 90-138-014(B) R1 A320 aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 90-138-014(B) R1 Page n° 2 BUREAU VERITAS Ref. : AIRBUS INDUSTRIE SB A320-27-1031 and A320-27-1032 AIRBUS INDUSTRIE A320 MMEL TR N° 81 The present AD was the subject of a telegraphic communication by BUREAU VERITAS on July 19, 1990 The present
+
+Airworthiness Directive cancels and replaces the AD 90-138-014(B) dated 22/08/90. EFFECTIVE DATE : UPON RECEIPT (first inspection is to be performed in the week following the reception of this AD)

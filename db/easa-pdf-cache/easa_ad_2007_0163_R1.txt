@@ -1,0 +1,32 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2007-0163R1 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2007-0163R1 Date: 19 December 2013 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes TCDS Number: EASA A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2007-0163 dated 11 June 2007, which superseded DGAC France AD 2002-514 R1 dated 13 November 2002.
+
+ATA 27 Flight Controls – Elevator Backlash – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers (MSN).
+
+Reason: Some operators have reported airframe vibration under specific flight conditions including gusts. Investigations have revealed that under such conditions, vibrations may occur when the hinge moment of the elevator is close to zero, associated to elevator free-play. DGAC France issued AD 2002-514 to address and correct this problem, requiring repetitive inspection/measuring of the elevator backlash and, depending on findings, accomplishment of applicable corrective actions. EASA AD 2007-0163 retained the requirements of DGAC AD 2002-514 R1, which was superseded, expanding the Applicability to include A318 aeroplanes and to extend the inspection interval from 18 to 20 months. Since that AD was issued, the results of further analysis have shown that the compliance times can safely be extended. For the reason described above, this AD is revised to extend the inspection threshold and interval from 20 to 24 months. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2007-0163R1
+
+Effective Date: Revision 1 : 02 January 2014 Original issue : 25 June 2007 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) For all aeroplanes: Time(s): (1.1) Within 24 months from aeroplane entry to service, or within 24 months since the last inspection in accordance with AIRBUS A318/A319/A320/A321 AMM task 27-34-00-200-001, whichever occurs later, inspect/measure the elevator backlash and apply all necessary corrective actions in accordance with the instructions of AIRBUS A318/A319/A320/A321 AMM task 27-34-00-200-001, issued on February 1997, or later revision. (1.2) Thereafter, at intervals not exceeding 24 months, repeat the inspection/measurement of the elevator backlash and apply all necessary corrective actions in accordance with the instructions of AIRBUS A318/A319/A320/A321 AMM task 27-34-00-200-001. (2) For all aeroplanes that have not received modification 26094 in production: DGAC France AD 2002-514 R1 required the setting of elevator surface to 0.5° up in accordance with the instructions of Airbus Service Bulletin (SB) A320-27-1114 at any approved revision dated before 31 March 2003. For aeroplanes where this has not already been accomplished, before next flight after the effective date of this AD, modify the aeroplane in accordance with the instructions of Airbus SB A320- 27-1114 Revision 05, or a later approved revision. (3) For A320 aeroplanes with MSN below 1131, and having received modification 26094 in production: DGAC France AD 2002-514 R1 required the verification of the position of the tail cone triangle in accordance with the instructions given by SB A320- 27-1132 within 800 flight hours (FH) after 12 October 2002, the effective date of that AD. For aeroplanes where this has not already been accomplished, before the accumulation of 800 FH after 12 October 2002, or before next flight, whichever occurs later after the effective date of this AD, verify the position of the tail cone triangle in accordance with the instructions of Airbus SB A320-27-1132 Revision 01, or a later approved revision. (4) Accomplishment of the actions as required by paragraphs (2) and (3) of this AD does not constitute terminating action for the repetitive inspections and measurements required by paragraph (1) of this AD.
+
+Ref. Publications: Airbus AMM task 27.34.00.200.001 issued on February 1997. Airbus SB A320-27-1132 Revision 01 dated 19 June 2002. Airbus SB A320-27-1114 Revision 05 dated 14 March 2001. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 12 March 2007 as PAD 07-038 for consultation until 12 April 2007. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the Safety Information TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2007-0163R1 Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS - Airworthiness Office - EIAS, Fax +33 5 61 93 44 51, E-mail: account.airworth-eas@airbus.com TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 3/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

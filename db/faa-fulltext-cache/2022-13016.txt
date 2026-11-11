@@ -1,0 +1,392 @@
+[Federal Register Volume 87, Number 117 (Friday, June 17, 2022)]
+[Rules and Regulations]
+[Pages 36387-36390]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-13016]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0380; Project Identifier MCAI-2021-01178-T; 
+Amendment 39-22076; AD 2022-12-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A330-200 series airplanes, Model A330-200 
+Freighter series airplanes, and Model A330-300 series airplanes. This 
+AD was prompted by a determination that certain service information 
+specified in AD 2018-20-19 contained instructions that could be 
+misleading, resulting in a necessary inspection not being accomplished 
+on certain airplanes. This AD requires a rototest for certain modified 
+airplanes for any crack around the right-side upper and lower bulk door 
+support or door latch fitting holes at certain bulk cargo door frames, 
+or repetitive inspections for any crack at certain fittings, and on-
+condition actions, as specified in a European Union Aviation Safety 
+Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 22, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of July 22, 
+2022.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. You may view this material at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket at https://www.regulations.gov by searching for and locating 
+Docket No. FAA-2022-0380.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0380; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, the 
+mandatory continuing airworthiness information (MCAI), any comments 
+received, and other information. The address for Docket Operations is 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+Large Aircraft Section, FAA, International Validation Branch, 2200 
+South 216th St., Des Moines, WA 98198; phone 206-231-3229; email 
+[email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2021-0233, dated October 27, 2021 
+(EASA AD
+
+[[Page 36388]]
+
+2021-0233) (also referred to as the MCAI), to correct an unsafe 
+condition for certain Airbus SAS Model A330-200 series airplanes, Model 
+A330-200 Freighter series airplanes, and Model A330-300 series 
+airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A330-200 series airplanes, Model A330-200 Freighter series 
+airplanes, and Model A330-300 series airplanes. The NPRM published in 
+the Federal Register on March 28, 2022 (87 FR 17198). The NPRM was 
+prompted by a determination that tartaric sulfuric anodizing (TSA)/
+chromic acid anodizing (CAA) surface treatment in the door fitting 
+attachment holes leads to a detrimental effect on fatigue behavior; and 
+that certain service information specified in AD 2018-20-19, Amendment 
+39-19453 (83 FR 52126, October 16, 2018) (AD 2018-20-19) contains 
+instructions that could be misleading, resulting in a necessary 
+inspection not being accomplished on certain airplanes. The potentially 
+misleading instructions are for an optional action, and apply only to 
+model A330-200, A330-200 Freighter, and A330-300 airplanes. The NPRM 
+proposed to require a rototest for certain modified airplanes for any 
+crack around the right-side upper and lower bulk door support or door 
+latch fitting holes at certain bulk cargo door frames, or repetitive 
+inspections for any crack at certain fittings, and on-condition 
+actions, as specified in EASA AD 2021-0233.
+    The FAA is issuing this AD to address possible fatigue cracks in 
+the bulk cargo door frames, caused by TSA/CAA surface treatment in 
+frame (FR) 67 and FR69 cargo door frame attachment holes. See the MCAI 
+for additional background information.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from the Air Line Pilots Association, 
+International (ALPA) who supported the NPRM without change.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comment 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator. Accordingly, the FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2021-0233 specifies procedures for a rototest for any crack 
+around the holes at the upper and lower door support fittings of frame 
+FR67 and FR69 right hand side and the holes at door latch fitting of 
+FR69 right hand side; or repetitive detailed inspections of the frame 
+around the fittings, or high frequency eddy current (HFEC) and 
+ultrasonic inspections of the upper door supper fitting holes and 
+rototests of the lower door fitting holes of the door latch fittings at 
+FR69 for any crack; and on-condition actions. On-condition actions 
+include installing new (never installed on an airplane) bushes to the 
+latch fittings of FR69 and repair, and a rototest of the support 
+fittings and the frame holes at FR67.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 109 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+             Labor cost                Parts cost           Cost per product           Cost on U.S.  operators
+----------------------------------------------------------------------------------------------------------------
+Up to 15 work-hours x $85 per hour               $0  Up to $1,275.................  Up to $138,975.
+ = $1,275.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of any 
+required or optional actions. The FAA has no way of determining the 
+number of aircraft that might need this on-condition action:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+3 work-hours x $85 per hour = $255....          $1,915           $2,170
+------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the repairs specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+
+[[Page 36389]]
+
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2022-12-04 Airbus SAS: Amendment 39-22076; Docket No. FAA-2022-0380; 
+Project Identifier MCAI-2021-01178-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 22, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (3) of this AD, certificated in any 
+category, as identified in European Union Aviation Safety Agency 
+(EASA) AD 2021-0233, dated October 27, 2021 (EASA AD 2021-0233).
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that tartaric sulfuric 
+anodizing (TSA)/chromic acid anodizing (CAA) surface treatment in 
+the door fitting attachment holes leads to a detrimental effect on 
+fatigue behavior; and that certain service information specified in 
+AD 2018-20-19 contains instructions that could be misleading, 
+resulting in a necessary inspection not being accomplished on 
+certain airplanes. The FAA is issuing this AD to address possible 
+fatigue cracks in the bulk cargo door frames, caused by TSA/CAA 
+surface treatment in frame (FR) 67 and FR69 cargo door frame 
+attachment holes. Cracks in the bulk cargo door frames can cause the 
+in-flight loss of a bulk cargo door, damage to the airplane, and 
+subsequent reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2021-0233.
+
+(h) Exceptions to EASA AD 2021-0233
+
+    (1) Where EASA AD 2021-0233 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2021-0233 does not apply 
+to this AD.
+    (3) Where paragraph (4) of EASA AD 2021-0233 specifies to 
+``accomplish those instructions accordingly'' if discrepancies are 
+detected, for this AD a discrepancy is any cracking, and if any 
+cracking is detected, the cracking must be repaired before further 
+flight using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (4) Where paragraph (4) of EASA AD 2021-0233 specifies to 
+``contact Airbus for approved repair instructions,'' for this AD use 
+``accomplish corrective actions in accordance with the instructions 
+of the SB and contact the Manager, Large Aircraft Section, 
+International Validation Branch, FAA; or EASA; or Airbus SAS's EASA 
+DOA for approved repair instructions. If approved by the DOA, the 
+approval must include the DOA-authorized signature''
+    (5) Although the service information referenced in EASA AD 2021-
+0233 specifies to do a check of the aircraft records for 
+accomplishment of certain service information, and specifies that 
+action as ``RC,'' (required for compliance), this AD does not 
+include that requirement.
+    (6) Where the Applicability section of EASA AD 2021-0233 refers 
+to ``defects,'' for this AD ``defects'' are cracks.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA AD 2021-0233 
+specifies to submit certain information to the manufacturer, this AD 
+does not include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (k) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph(s) (h)(3) and (4), (i), and (j)(2) of this AD, if any 
+service information contains procedures or tests that are identified 
+as RC, those procedures and tests must be done to comply with this 
+AD; any procedures or tests that are not identified as RC are 
+recommended. Those procedures and tests that are not identified as 
+RC may be deviated from using accepted methods in accordance with 
+the operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(k) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, Large Aircraft Section, FAA, International 
+Validation Branch, 2200 South 216th St., Des Moines, WA 98198; phone 
+206-231-3229; email [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2021-0233, 
+dated October 27, 2021.
+    (ii) [Reserved]
+    (3) For EASA AD 2021-0233, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the
+
+[[Page 36390]]
+
+availability of this material at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on June 3, 2022.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2022-13016 Filed 6-16-22; 8:45 am]
+BILLING CODE 4910-13-P

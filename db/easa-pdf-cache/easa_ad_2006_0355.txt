@@ -1,0 +1,46 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2006-0355 Date: 04 December 2006 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type Approval Holder’s Name: Type/Model designation(s): d ROLLS-ROYCE plc RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 TCDS No: EASA E.042 e Foreign AD number: Not applicable d
+
+Supersedure: This AD supersedes CAA United Kingdom AD G-2004-0016, EASA Approval Number 2004-6754, which superseded CAA-UK AD G-2003-0016, EASA Approval Number 2003-1866. e Engine – HP/IP Turbine Bearing Oil Vent Tubes – Inspection /
+
+ATA 72 Cleaning / Replacement s r
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: Models RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, all e serial numbers. These engines are known to be installed on, but not limited to, Airbus A330 series aeroplanes.
+
+Reason: CAA United Kingdom issued
+
+Airworthiness Directive G-2003-0016 following p a serious in-service incident involving uncontained multiple Intermediate Pressure (IP) turbine blade release on an RB211 Trent 700 series engine. The blade release was the result of an overspeed of the IP turbine rotor that was initiated by an internal fire in the HP/IP bearing chamber. Post incident u analysis and investigation established that blockage of the HP/IP turbine bearing oil vent tube due to oil coking is a significant factor in the failure sequence.
+
+Airworthiness Directive G-2003-0016 was issued to ensure blockage of the vent pipe will not occur and required a one-time inspection S and cleaning of the HP/IP turbine bearing vent tube. AD G-2004-0016 revised and superseded G-2003-0016 by introducing repetitive inspections/cleaning and some changes to the threshold lives. More recently, a vent pipe breach incident has occurred on another engine, resulting in oil loss, in which it is suspected that carbon build up within the vent pipe was a contributing factor. This indicates that further measures are necessary to enhance the cleaning requirements in order to control carbon build-up. For the reason stated above, this
+
+Airworthiness Directive supersedes and cancels United Kingdom CAA AD G-2004-0016, EASA Approval Number 2004-6754. 1/3
+
+--- PAGE 2 ---
+This
+
+Airworthiness Directive requires that the internal vent tube is cleaned at the next scheduled and subsequent inspections, and that the cleaning tool must be able to pass along the full length of the tube. This replaces the acceptance criteria based on inspecting the tubes with an 8mm or 6mm borescope. In addition, this AD requires the inspection and cleaning of both sections of the external vent tube.
+
+Effective Date: 19 December 2006 Compliance/Action: On-wing compliance Within 3 months after the engine 05 module reaches the threshold life of 10,000 hours or 2,500 cycles since new, whichever occurs first, carry out the “Action” detailed below. For engines with a 05 module installed that has already exceeded the threshold life, carry out the Action detailed below within 3 months after the effective date of this directive. 1) HP/IP turbine bearing internal oil vent tubes confirmed to be free of d carbon by passing the Rolls-Royce cleaning tool (HU80298) through the full length may be returned to service and must be re-inspected and cleaned (as necessary) in accordance with the Action detailed below at e intervals of 6,400 hours or 1,600 cycles, which ever occurs first. 2) HP/IP turbine bearing internal oil vent tubes which contain blockage that prevents the Rolls-Royce cleaning tool (HU80298) from passing d through the full length must be removed from service within 10 cycles after the inspection. 3) HP/IP turbine bearing external oil vent tubes which contain carbon of e visible (by borescope inspection) thickness after cleaning may not be returned to service. s Repetitive In-shop compliance Carry out the “Action” detailed below for engines at every engine shop visit. r Action Inspect and clean (as necessary) the HP/IP turbine bearing internal and external (IPC ref 79-22-49, 10-100 and 10-500) oil vent tubes and bearing e chamber (if specified) in accordance with Section 3 Accomplishment Instructions of Rolls-Royce Alert Non Modification Service Bulletin RB211- 72-AE302 Revision 3 or later approved revision. Note: For the purposes of compliance with this
+
+Airworthiness Directive, p inspection/cleaning carried out previously in accordance with superseded CAA-UK
+
+Airworthiness Directives G-2003-0016 or G-2004-0016 is deemed to be valid, ‘next inspection’ intervals previously established in u compliance with the superseded
+
+Airworthiness Directives remain valid until this
+
+Airworthiness Directive is accomplished. Rolls-Royce Alert Non Mod Service Bulletin RB211-72-AE302 Revision 3 or
+
+Ref. Publications: later approved revisions. S
+
+Remarks: 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative Method of Compliance (AMOCs) for this AD. 2. This AD was posted as PAD 06-239 for consultation on 26 October 2006 with a comment period until 26 November 2006. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu 2/3
+
+--- PAGE 3 ---
+4. For any questions concerning the technical content of the requirements in this AD, please contact Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936. d e d e s r e p u S 3/3

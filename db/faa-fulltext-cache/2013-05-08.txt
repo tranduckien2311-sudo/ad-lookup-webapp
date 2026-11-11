@@ -1,0 +1,794 @@
+[Federal Register Volume 78, Number 90 (Thursday, May 9, 2013)]
+[Rules and Regulations]
+[Pages 27015-27020]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-10653]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-0808; Directorate Identifier 2010-NM-170-AD; 
+Amendment 39-17380; AD 2013-05-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200 and A330-300 series airplanes, and Model A340-200 
+and A340-300 series airplanes. This AD was prompted by reports of an 
+elevator blocked in the down position due to two independent failures; 
+first, the inability of a servo control to switch to active mode 
+because it was not detected by a flight control computer; and second, 
+an internal hydraulic leak due to the deterioration of an O-ring seal 
+on a solenoid. This AD requires, depending on airplane configuration, 
+modifying three flight control primary computers (FCPCs); modifying two 
+flight control secondary computers (FCSCs); revising the airplane 
+flight manual (AFM) to include certain information; replacing certain 
+O-rings; and checking part number and replacing certain O-ring seals if 
+needed. We are issuing this AD to detect and correct O-rings with 
+incorrect part numbers whose deterioration could lead to improper 
+sealing of solenoid valves; and to correct FCPC and FCSC software to 
+allow better control of elevator positioning; both conditions, if not 
+corrected, could lead to the loss of elevator control on takeoff, and 
+potentially reduce the controllability of the airplane.
+
+DATES: This AD becomes effective June 13, 2013.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 13, 
+2013.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov or in person at the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, Washington 98057-3356; telephone (425) 
+227-1138; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+That NPRM was published in the Federal Register on August 14, 2012 (77 
+FR 48469). That NPRM proposed to correct an unsafe condition for the 
+specified products. The Mandatory Continuing Airworthiness Information 
+(MCAI) states:
+
+    This [European Aviation Safety Agency (EASA)] AD [2010-0081, 
+dated April 27, 2010] deals with the two following points:
+     Case of an elevator blocked in down position due to two 
+independent failures one of which is hidden:
+    Each elevator is controlled by two servo controls. In normal 
+operation:
+
+--one servo control in active mode controlled by PRIM 1 (Green servo 
+control),
+--one servo control in damping mode (Yellow or Blue servo control) 
+monitored by PRIM 2.
+
+    Change from active mode to damped mode is obtained by means of a 
+mode selector which is controlled by two identical solenoid valves 
+housed on the servo control. The sealing of each solenoid valve is 
+ensured by four O-ring seals.
+    During pre-flight control checks, the flight crew of an A330-200 
+aeroplane observed that one of the elevators was blocked in down 
+position, the ECAM [electronic centralized aircraft monitor] screen 
+displaying ``F/CTL PRIM 1 PITCH FAULT''.
+    This condition was due to two independent failures, one of which 
+was dormant, which occurred on one of the elevators.
+    Investigations revealed that the origin of the elevator 
+malfunction was due to the inability of the Yellow servo control to 
+switch to active mode.
+    This inability:
+
+--was caused by an internal hydraulic leak due to the deterioration 
+of an O-ring seal on a solenoid valve,
+
+[[Page 27016]]
+
+--was not detected by the PRIM 2 computer nor announced to the 
+flight crew.
+
+     Incorrect Part Number (P/N) for solenoid valve O-ring 
+seals in IPC [illustrated parts catalog]:
+    An incorrect O-ring seal P/N in IPC 27-34-51-1 could have led to 
+the installation of O-ring seals incompatible with the hydraulic 
+fluid, causing them to deteriorate.
+    These conditions if not detected could lead to the loss of 
+elevator [control] on takeoff and, potentially reduce the 
+controllability of the aeroplane.
+    The aim of EASA AD 2007-0009 was to:
+
+--take over the requirements of AD F-2004-158, and
+--require the terminating action for Sec.  (1), (2) and (4) of this 
+[EASA] AD by introducing new capped seals on solenoid valves for 
+A330-200 only.
+
+    This new [EASA] AD * * * requires the embodiment of the latest 
+software standard on the three Flight Control Primary Computers 
+(FCPC) and on the two Flight Control Secondary Computers (FCSC) [by 
+modifying the FCPCs and FCSCs] * * *.
+
+    The modification is accomplished either by replacing the FCPCs and 
+FCSCs with new FCPCs and FCSCs, or by replacing or reprogramming the 
+on-board replaceable modules in the FCPCs and FCSCs. Required actions 
+also include, depending on airplane configuration, the following 
+actions: Revising the AFM to include certain information; replacing 
+certain O-rings; and checking part number and replacing certain O-ring 
+seals if needed. You may obtain further information by examining the 
+MCAI in the AD docket.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received.
+
+Request for Exemption for Later Standards of FCPC Software
+
+    Delta Air Lines, Inc. (Delta) requested that we revise the NPRM (77 
+FR 48469, August 14, 2012) to provide an exemption for later standards 
+of FCPC software. Since completing Airbus Mandatory Service Bulletin 
+A330-27-3148, Revision 01, dated October 9, 2008, Delta stated that it 
+upgraded FCPC software from standard P9/M18 to newer standard P11A/M20A 
+as specified in Airbus Mandatory Service Bulletin A330-27-3176, dated 
+July 26, 2011. Delta noted that when there are significant differences 
+between the airspeed sources, the autopilot (AP) and the auto-thrust 
+(A/THR) are designed to disconnect, and the flight directors (FD) bars 
+are automatically removed. Delta also noted that if two of the airspeed 
+sources then read similar, yet erroneous numbers, the AP and A/THR will 
+re-engage, and the FD bars will reappear. Delta stated that this newer 
+standard addresses these safety concerns.
+    We agree to revise this AD to allow modification of the FCPC with 
+the software identified in Airbus Mandatory Service Bulletin A330-27-
+3176, Revision 02, dated April 24, 2012, as well as the software 
+identified in Airbus Mandatory Service Bulletin A330-27-3177, dated 
+December 21, 2011; Airbus Mandatory Service Bulletin A340-27-4174, 
+dated November 21, 2011; and Airbus Mandatory Service Bulletin A340-27-
+4162, Revision 01, dated September 17, 2012. We have added paragraph 
+(o) to this AD to specify that modification of the three FCPC with new 
+software specified in paragraphs (o)(1) through (o)(4) of this AD is 
+acceptable for compliance with the requirements of paragraph (l) of 
+this AD.
+    In addition, we have added new paragraph (p)(4) of this AD to give 
+credit for performing actions before the effective date of this AD 
+using Airbus Service Bulletin A330-27-3176, dated July 26, 2011; Airbus 
+Mandatory Service Bulletin A330-27-3176, Revision 01, dated March 27, 
+2012; and Airbus Mandatory Service Bulletin A340-27-4162, dated January 
+10, 2012.
+    We are also considering further rulemaking that would correspond to 
+EASA AD 2011-0199R1, dated February 17, 2012, to mandate implementation 
+of these new FCPC standards.
+
+Request for Credit for Modification of FCPC Software Using Airbus 
+Mandatory Service Bulletin A330-27-3148, Revision 01, October 9, 2008
+
+    Delta requested that we revise paragraph (o)(2) of the NPRM (77 FR 
+48469, August 14, 2012) to give credit for modification of FCPC 
+software done using Airbus Mandatory Service Bulletin A330-27-3148, 
+Revision 01, dated October 9, 2008. This service bulletin is the 
+appropriate source of service information for accomplishing the actions 
+required by paragraph (l) of the NPRM. Delta stated that paragraph 
+(o)(2) of the NPRM provides credit, if those actions were performed 
+using Airbus Service Bulletin A330-27-3144, dated April 2, 2009, but 
+there are no statements giving credit for modifications of the FCPC 
+performed using Airbus Mandatory Service Bulletin A330-27-3148, 
+Revision 01, dated October 9, 2008.
+    We disagree with this request to revise this AD, but agree to 
+clarify that this AD allows for previous accomplishment of the 
+modification using Airbus Mandatory Service Bulletin A330-27-3148, 
+Revision 01, dated October 9, 2008. Paragraph (l) of this AD mandates 
+modifications of FCPC software using current revisions of the service 
+information, Airbus Service Bulletin A330-27-3144, Revision 01, dated 
+July 16, 2009; or Airbus Mandatory Service Bulletin A330-27-3148, 
+Revision 01, October 9, 2008. Paragraph (p)(2) of this AD (referred to 
+as paragraph (o)(2) in the NPRM (77 FR 48469, August 14, 2012)) gives 
+credit only for actions performed using previous revisions of the 
+service information specified in paragraph (l) of this AD, i.e., Airbus 
+Mandatory Service Bulletin A330-27-3144, dated April 2, 2009; and 
+Airbus Mandatory Service Bulletin A330-27-3148, dated July 17, 2008. 
+Since paragraph (f) of this AD indicates previous accomplishment of 
+modifications do not need to be repeated, the intent of the comment is 
+addressed. No change has been made to the AD in this regard.
+
+Request for Credit for Modification of FCSC Software Using Airbus 
+Service Bulletin A330-27-3145, Revision 1, Dated July 17, 2008
+
+    Delta requested that we revise paragraph (o)(3) of the NPRM (77 FR 
+48469, August 14, 2012) to give credit for modification of the FCSC 
+software done using Airbus Mandatory Service Bulletin A330-27-3146, 
+Revision 01, dated September 3, 2008; and Airbus Service Bulletin A330-
+27-3145, dated December 16, 2008. Delta noted these service bulletins 
+are referred to as the appropriate sources of service information for 
+accomplishing the actions proposed by paragraph (m) of the NPRM. Delta 
+stated that paragraph (o)(3) of the NPRM provides credit, if those 
+actions were performed using Airbus Mandatory Service Bulletin A330-27-
+3146, dated June 1, 2007, but pointed out that there are no statements 
+giving credit for modifications of the FCSC performed using Airbus 
+Mandatory Service Bulletin A330-27-3146, Revision 01, dated September 
+3, 2008.
+    We disagree with this request to revise this AD but agree to 
+clarify that this AD allows for previous accomplishment of the 
+modification using Airbus Mandatory Service Bulletin A330-27-3146, 
+Revision 01, dated September 3, 2008; and Airbus Service Bulletin A330-
+27-3145, dated December 16, 2008. Paragraph (m) of this AD mandates 
+modifications of FCSC software using Airbus Mandatory Service Bulletin 
+A330-27-3146, Revision 01, dated September 3, 2008; or Airbus Service 
+Bulletin A330-27-3145, dated December 16, 2008. Paragraph (p)(3) of 
+this AD (referred to as paragraph (o)(3) in the NPRM (77 FR 48469, 
+August 14, 2012)) gives credit
+
+[[Page 27017]]
+
+only for actions performed using previous revisions of the service 
+information specified in paragraph (m) of this AD, i.e., Airbus Service 
+Bulletin A330-27-3146, dated June 1, 2007. Since paragraph (f) of this 
+AD indicates previous accomplishment of modifications do not need to be 
+repeated, the intent of the comment is addressed. No change has been 
+made to the AD in this regard.
+
+Request for Credit for Installation of Modified Servo-Controls Using 
+Airbus Service Bulletin A330-27-3134, Revision 01, Dated May 12, 2006; 
+and Airbus Mandatory Service Bulletin A330-27-3136, Revision 1, Dated 
+July 19, 2006
+
+    Delta requested that we revise paragraph (p) of the NPRM (77 FR 
+48469, August 14, 2012) to give credit for the installation of modified 
+servo-controls done using Airbus Service Bulletin A330-27-3134, 
+Revision 01, dated May 12, 2006; and Airbus Mandatory Service Bulletin 
+A330-27-3136, Revision 01, dated July 19, 2006.
+    We disagree with this request to revise this AD, but agree to 
+clarify that this AD allows for previous accomplishment of the 
+installation using Airbus Service Bulletin A330-27-3134, Revision 01, 
+dated May 12, 2006; and Airbus Mandatory Service Bulletin A330-27-3136, 
+Revision 01, dated July 19, 2006. Paragraph (q) of this AD (referred to 
+as paragraph (p) of the NPRM (77 FR 48469, August 14, 2012)) provides 
+terminating action for the actions required by paragraphs (g), (h), and 
+(i) of this AD, if the installation of modified servo-controls was 
+using Airbus Service Bulletin A330-27-3134, Revision 01, dated May 12, 
+2006; and Airbus Mandatory Service Bulletin A330-27-3136, Revision 01, 
+dated July 19, 2006. Since paragraph (f) of this AD indicates previous 
+accomplishment of the installation not need to be repeated, the intent 
+of the comment is addressed. No change has been made to the AD in this 
+regard.
+
+Explanation of Change Made to This AD
+
+    We have revised paragraph (n) of this AD to put the AFM text into 
+Figure 1 to paragraph (n) of this AD, and included reference to the 
+figure in that paragraph. This change does not affect the intent of 
+that paragraph.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+the AD with the changes described previously--and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (77 FR 48469, August 14, 2012) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (77 FR 48469, August 14, 2012).
+
+Costs of Compliance
+
+    We estimate that this AD will affect 41 products of U.S. registry. 
+We also estimate that it will take about 5 work-hours per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Required parts will cost about $0 per product. 
+Where the service information lists required parts costs that are 
+covered under warranty, we have assumed that there will be no charge 
+for these parts. As we do not control warranty coverage for affected 
+parties, some parties may incur costs higher than estimated here. Based 
+on these figures, we estimate the cost of this AD to the U.S. operators 
+to be $17,425, or $425 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains the NPRM (77 FR 48469, August 14, 
+2012), the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section. Comments will 
+be available in the AD docket shortly after receipt.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+2013-05-08 Airbus: Amendment 39-17380. Docket No. FAA-2012-0808; 
+Directorate Identifier 2010-NM-170-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective June 13, 
+2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus airplanes, certificated in any 
+category, specified in paragraphs (c)(1) and (c)(2) of this AD.
+    (1) Model A330-201, -202, -203, -223, -243, -301, -302, -303, -
+321, -322, -323,
+
+[[Page 27018]]
+
+-341, -342, and -343 airplanes, all manufacturer serial numbers 
+(MSN).
+    (2) Model A340-211, -212, -213, -311, -312, and -313 airplanes, 
+all MSN.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27: Flight 
+controls.
+
+(e) Reason
+
+    This AD was prompted by reports of an elevator blocked in the 
+down position due to two independent failures; first, the inability 
+of a servo control to switch to active mode because it was not 
+detected by a flight control computer; and second, an internal 
+hydraulic leak due to the deterioration of an O-ring seal on a 
+solenoid. We are issuing this detect and correct O-rings with 
+incorrect part numbers whose deterioration could lead to improper 
+sealing of solenoid valves; and to correct flight control primary 
+computer (FCPC) and flight control secondary computer (FCSC) 
+software to allow better control of elevator positioning; both 
+conditions, if not corrected, could lead to the loss of elevator 
+control on takeoff, and potentially reduce the controllability of 
+the airplane.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Replacement of O-ring Seals for Elevator Servo Controls Installed 
+in Damping Position on Model A330-200 Series Airplanes Only
+
+    For all Airbus Model A330-200 series airplanes, except those on 
+which Airbus modifications 53969 or 54833 have been embodied in 
+production: At the later of the times specified in paragraphs (g)(1) 
+and (g)(2) of this AD, replace the O-ring seals installed on the two 
+solenoid valves of each servo control using new O-ring seals, in 
+accordance with Airbus All Operators Telex (AOT) A330-27A3129, 
+Revision 01, dated July 16, 2004.
+    (1) Before the accumulation of 3,000 flight cycles by the servo 
+control since first installation on an airplane, or 3,000 flight 
+cycles since the installation of the solenoid valve on the servo 
+control.
+    (2) Within 700 flight hours after the effective date of this AD.
+
+(h) Replacement of O-ring Seals on Spare Elevator Servo Controls Whose 
+O-ring Seals Were Not Replaced as Required by Paragraph (g) of This AD
+
+    For all Airbus Model A330-200 series airplanes, except those on 
+which Airbus modifications 53969 or 54833 have been embodied in 
+production: As of the effective date of this AD, before the 
+installation of an elevator servo control on an Airbus Model A330-
+200 airplane, replace the O-ring seals installed on the two spare 
+servo control solenoid valves using new O-ring seals, in accordance 
+with Airbus AOT A330-27A3129, Revision 01, dated July 16, 2004.
+
+(i) Replacement of O-ring Seals with Part Number (P/N) MS28775-XXX or a 
+Part Number that Cannot Be Identified
+
+    For Model A330-200 series airplanes which have been modified as 
+specified in Airbus AOT A330-27A3129, dated June 24, 2004, but which 
+have not been modified as specified in Airbus AOT A330-27A3129, 
+Revision 01, dated July 16, 2004; except those airplanes on which 
+Airbus modifications 53969 or 54833 have been embodied in 
+production: Within 15 days after the effective date of this AD, 
+check the part number (P/N) of the seals installed on the solenoid 
+valve of the servo control of the elevator in the damping position. 
+If the seals installed have P/N MS28775-XXX or a part number that 
+cannot be identified, before further flight, replace the seals with 
+new seals using a part number listed in paragraph (i)(1), (i)(2), or 
+(i)(3) of this AD, in accordance with Airbus AOT A330-27A3129, 
+Revision 01, dated July 16, 2004.
+    (1) Illustrated Parts Catalog (IPC) 27-34-51-1 item 130: 
+NAS1611-011 or NAS1611-011A.
+    (2) IPC 27-34-51-1 item 140: NAS1611-012 or NAS1611-012A.
+    (3) IPC 27-34-51-1 item 150: NAS1611-013 or NAS1611-013A.
+
+(j) Replacement of O-ring Seals on Model A330-200, A330-300, A340-200, 
+and A340-300 Series Airplanes
+
+    For Model A330-200, A330-300, A340-200, and A340-300 series 
+airplanes equipped with elevator servo controls P/N SC4800-2/-4/-7/-
+8 or SC4800-7/-8 modified into P/N SC4800-7A/-9, as specified in 
+Airbus Service Bulletin A340-27-4083 or Airbus Service Bulletin 
+A330-27-3076: Within 1,400 flight hours after the effective date of 
+this AD, replace the O-ring seals installed on the two solenoid 
+valves of each elevator servo control in damping position (except 
+for Model A330-200 series airplanes which have to comply with 
+paragraph (g) of this AD), and in active position, using a new O-
+ring seal P/N NAS1611-XXX or P/N NAS1611-XXXA, in accordance with 
+the Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A330-27A3131, Revision 01, dated March 3, 2005 (for Model A330 
+airplanes); or Airbus Mandatory Service Bulletin A340-27A4130, 
+Revision 01, dated March 3, 2005 (for Model A340 airplanes).
+
+(k) Replacement of O-ring Seals on Spare Elevator Servo Controls on 
+Model A330-200, A330-300, A340-200, and A340-300 Series Airplanes
+
+    For the spare elevator servo controls P/N SC4800-2/-4/-7/-8 or 
+SC4800-7/-8 modified into P/N SC4800-7A/-9, as specified in Airbus 
+Service Bulletin A340-27-4083 or Airbus Service Bulletin A330-27-
+3076: Before the installation of a spare elevator servo control on 
+an airplane, replace the O-ring seals installed on the two spare 
+servo control solenoid valves using a new O-ring seal P/N NAS1611-
+XXX or P/N NAS1611-XXXA, in accordance with the Accomplishment 
+Instructions of Airbus Mandatory Service Bulletin A330-27A3131, 
+Revision 01, dated March 3, 2005 (for Model A330 airplanes); or 
+Airbus Mandatory Service Bulletin A340-27A4130, Revision 01, dated 
+March 3, 2005 (for Model A340 airplanes).
+
+(l) Modification of FCPCs
+
+    For all Airbus Model A330-200 and A330-300 series airplanes, 
+except those on which both Airbus modifications 53468 and 55697 have 
+been embodied in production; and for all Airbus Model A340-200 and 
+A340-300 series airplanes, except those on which both modifications 
+55879 and 55697 have been embodied in production: Within 24 months 
+after the effective date of this AD, modify the three FCPCs, in 
+accordance with the Accomplishment Instructions of the applicable 
+service bulletin identified in paragraph (l)(1) or (l)(2) of this 
+AD.
+    (1) Airbus Service Bulletin A330-27-3144, Revision 01, dated 
+July 16, 2009; or Airbus Mandatory Service Bulletin A330-27-3148, 
+Revision 01, dated October 9, 2008 (for Model A330 airplanes).
+    (2) Airbus Mandatory Service Bulletin A340-27-4144, dated 
+October 19, 2009; or Airbus Mandatory Service Bulletin A340-27-4148, 
+dated June 13, 2008 (for Model A340 airplanes).
+
+(m) Modification of FCSCs
+
+    For all Airbus Model A330-200 and A330-300 series airplanes, 
+except those on which both Airbus modifications 53468 and 55697 have 
+been embodied in production; and for all Airbus Model A340-200 and 
+A340-300 series airplanes, except those on which both modifications 
+55879 and 55697 have been embodied in production: Within 24 months 
+after the effective date of this AD, modify both FCSCs, in 
+accordance with the Accomplishment Instructions of the applicable 
+service bulletin identified in paragraph (m)(1) or (m)(2) of this 
+AD.
+    (1) Airbus Mandatory Service Bulletin A330-27-3146, Revision 01, 
+dated September 3, 2008; or Airbus Service Bulletin A330-27-3145, 
+dated December 16, 2008 (for Model A330 airplanes).
+    (2) Airbus Mandatory Service Bulletin A340-27-4146, June 1, 
+2007; or Airbus Service Bulletin A340-27-4145, dated December 16, 
+2008 (for Model A340 airplanes).
+
+(n) Revise the Airplane Flight Manual
+
+    Before further flight, after doing the applicable actions 
+required by both paragraphs (l) and (m) of this AD, remove the 
+procedure specified in Figure 1 to paragraph (n) of this AD from the 
+airplane flight manual, if inserted, in accordance with the 
+instructions contained in Airbus Temporary Revision TR4, Issue 1.0, 
+``TR 4.02.00/25 Issue 2--Undetected Elevator Control Loss in Case of 
+Dual Failure,'' dated November 26, 2009, to the Airbus A330/A340 
+Airplane Flight Manual; and Airbus Temporary Revision TR22, Issue 
+1.0, ``TR 4.02.00/40 Issue 2--Undetected Elevator Control Loss in 
+Case of Dual Failure,'' dated November 26, 2009, to the Airbus A330/
+A340 Airplane Flight Manual.
+
+[[Page 27019]]
+
+[GRAPHIC] [TIFF OMITTED] TR09MY13.001
+
+(o) Optional Actions Acceptable for Compliance With the Modification 
+Required by Paragraph (l) of This AD
+
+    Accomplishing the actions specified in paragraphs (o)(1) through 
+(o)(4) of this AD, as applicable, is acceptable for compliance with 
+the modification required by paragraph (l) of this AD.
+    (1) For airplanes identified in Airbus Mandatory Service 
+Bulletin A330-27-3176, Revision 02, dated April 24, 2012: 
+Modification or replacement of the three FCPCs with software 
+standard P11A/M20A on FCPC 2K2 hardware, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A330-27-3176, Revision 02, dated April 24, 2012 (for Model A330 
+airplanes).
+    (2) For airplanes identified Airbus Mandatory Service Bulletin 
+A330-27-3177, dated December 21, 2011: Modification or replacement 
+of the three FCPCs with software standard P12A/M21A on FCPC 2K1 
+hardware, and with software standard M21A on FCPC 2K0 hardware, in 
+accordance with the Accomplishment Instructions of Airbus Mandatory 
+Service Bulletin A330-27-3177, dated December 21, 2011 (for Model 
+A330 airplanes).
+    (3) For airplanes identified in Airbus Mandatory Service 
+Bulletin A340-27-4174, dated November 21, 2011: Modification or 
+replacement of the three FCPCs with software standard L22A on FCPC 
+2K1 hardware, and with software standard L22A on FCPC 2K0 hardware, 
+in accordance with the Accomplishment Instructions of Airbus 
+Mandatory Service Bulletin A340-27-4174, dated November 21, 2011 
+(for Model A340 airplanes).
+    (4) For airplanes identified in Airbus Mandatory Service 
+Bulletin A340-27-4162, Revision 01, dated September 17, 2012: 
+Modification or replacement of the three FCPCs with software 
+standard L21A on FCPC 2K2 hardware in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A340-27-4162, Revision 01, dated September 17, 2012 (for Model A340 
+airplanes).
+
+(p) Credit for Previous Actions
+
+    This paragraph provides credit for certain actions described in 
+the following paragraphs. The documents specified in paragraphs 
+(p)(1) through (p)(5) of this AD are not incorporated by reference 
+in this AD.
+    (1) This paragraph provides credit for replacements of the O-
+ring seals, as required by paragraphs (j) and (k) of this AD, if 
+those actions were performed before the effective date of this AD 
+using Airbus Service Bulletin A330-27A3131, dated September 22, 2004 
+(for Model A330 airplanes); or Airbus Service Bulletin 340-27A4130, 
+dated September 22, 2004 (for Model A340 airplanes).
+    (2) This paragraph provides credit for modifications of the 
+FCPC, as required by paragraph (l) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A330-27-3144, dated April 2, 2009 (for Model A330 
+airplanes); or Airbus Mandatory Service Bulletin A330-27-3148, dated 
+July 17, 2008 (for Model A330 airplanes).
+    (3) This paragraph provides credit for modifications of the 
+FCSCs, as required by paragraph (m) of this AD, if those actions 
+were performed before the effective date of this AD using Airbus 
+Mandatory Service Bulletin A330-27-3146, dated June 1, 2007 (for 
+Model A330 airplanes).
+    (4) This paragraph provides credit for modification or 
+replacement of the FCSCs specified in paragraph (o)(1) of this AD, 
+if those actions were performed before the effective date of this AD 
+using Airbus Mandatory Service Bulletin A330-27-3176, dated July 26, 
+2011; or Airbus Mandatory Service Bulletin A330-27-3176, Revision 
+01, dated March 27, 2012 (for Model A330 airplanes).
+    (5) This paragraph provides credit for modification or 
+replacement of the FCSCs specified paragraph (o)(4) of this AD, if 
+those actions were performed before the effective date of this AD 
+using Airbus Mandatory Service Bulletin A340-27-4162, dated January 
+10, 2012 (for Model A340 airplanes).
+
+(q) Terminating Action
+
+    Installation of modified servo-controls at all positions on 
+Model A330-200 series airplanes in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-27-3134, 
+Revision 01, dated May 12, 2006; and Airbus Mandatory Service 
+Bulletin A330-27-3136, Revision 01, dated July 19, 2006; terminates 
+the actions
+
+[[Page 27020]]
+
+required by paragraphs (g), (h), and (i) and of this AD.
+
+(r) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+Washington 98057-3356; telephone (425) 227-1138; fax (425) 227-1149. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(s) Related Information
+
+    (1) Refer to MCAI European Aviation Safety Agency Airworthiness 
+Directive 2010-0081, dated April 27, 2010, and the service 
+information specified in paragraphs (s)(1)(i) through (s)(1)(xix) of 
+this AD, for related information.
+    (i) Airbus All Operators Telex (AOT) A330-27A3129, Revision 01, 
+dated July 16, 2004.
+    (ii) Airbus Mandatory Service Bulletin A330-27-3136, Revision 
+01, dated July 19, 2006.
+    (iii) Airbus Mandatory Service Bulletin A330-27-3146, Revision 
+01, dated September 3, 2008.
+    (iv) Airbus Mandatory Service Bulletin A330-27-3148, Revision 
+01, dated October 9, 2008.
+    (v) Airbus Mandatory Service Bulletin A330-27-3176, Revision 02, 
+dated April 24, 2012.
+    (vi) Airbus Mandatory Service Bulletin A330-27-3177, dated 
+December 21, 2011.
+    (vii) Airbus Mandatory Service Bulletin A330-27A3131, Revision 
+01, dated March 3, 2005.
+    (viii) Airbus Mandatory Service Bulletin A340-27-4144, dated 
+October 19, 2009.
+    (ix) Airbus Mandatory Service Bulletin A340-27-4146, dated June 
+1, 2007.
+    (x) Airbus Mandatory Service Bulletin A340-27-4148, dated June 
+13, 2008.
+    (xi) Airbus Mandatory Service Bulletin A340-27-4162, Revision 
+01, dated September 17, 2012.
+    (xii) Airbus Mandatory Service Bulletin A340-27-4174, dated 
+November 21, 2011.
+    (xiii) Airbus Mandatory Service Bulletin A340-27A4130, Revision 
+01, dated March 3, 2005.
+    (xiv) Airbus Service Bulletin A330-27-3134, Revision 01, dated 
+May 12, 2006.
+    (xv) Airbus Service Bulletin A330-27-3144, Revision 01, dated 
+July 16, 2009.
+    (xvi) Airbus Service Bulletin A330-27-3145, dated December 16, 
+2008.
+    (xvii) Airbus Service Bulletin A340-27-4145, dated December 16, 
+2008.
+    (xviii) Airbus Temporary Revision TR4, Issue 1.0, ``TR 4.02.00/
+25 Issue 2--Undetected Elevator Control Loss in Case of Dual 
+Failure,'' dated November 26, 2009, to the Airbus A330/A340 Airplane 
+Flight Manual.
+    (xix) Airbus Temporary Revision TR22, Issue 1.0, ``TR 4.02.00/40 
+Issue 2--Undetected Elevator Control Loss in Case of Dual Failure,'' 
+dated November 26, 2009, to the Airbus A330/A340 Airplane Flight 
+Manual.
+    (2) For service information identified in this AD, contact 
+Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com. You may review copies of the 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, Washington. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+
+(t) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Airbus All Operators Telex (AOT) A330-27A3129, Revision 01, 
+dated July 16, 2004.
+    (ii) Airbus Mandatory Service Bulletin A330-27-3136, Revision 
+01, dated July 19, 2006.
+    (iii) Airbus Mandatory Service Bulletin A330-27-3146, Revision 
+01, dated September 3, 2008.
+    (iv) Airbus Mandatory Service Bulletin A330-27-3148, Revision 
+01, dated October 9, 2008.
+    (v) Airbus Mandatory Service Bulletin A330-27-3176, Revision 02, 
+dated April 24, 2012.
+    (vi) Airbus Mandatory Service Bulletin A330-27-3177, dated 
+December 21, 2011.
+    (vii) Airbus Mandatory Service Bulletin A330-27A3131, Revision 
+01, dated March 3, 2005.
+    (viii) Airbus Mandatory Service Bulletin A340-27-4144, dated 
+October 19, 2009.
+    (ix) Airbus Mandatory Service Bulletin A340-27-4146, dated June 
+1, 2007.
+    (x) Airbus Mandatory Service Bulletin A340-27-4148, dated June 
+13, 2008.
+    (xi) Airbus Mandatory Service Bulletin A340-27-4162, Revision 
+01, dated September 17, 2012.
+    (xii) Airbus Mandatory Service Bulletin A340-27-4174, dated 
+November 21, 2011.
+    (xiii) Airbus Mandatory Service Bulletin A340-27A4130, Revision 
+01, dated March 3, 2005.
+    (xiv) Airbus Service Bulletin A330-27-3134, Revision 01, dated 
+May 12, 2006.
+    (xv) Airbus Service Bulletin A330-27-3144, Revision 01, dated 
+July 16, 2009.
+    (xvi) Airbus Service Bulletin A330-27-3145, dated December 16, 
+2008.
+    (xvii) Airbus Service Bulletin A340-27-4145, dated December 16, 
+2008.
+    (xviii) Airbus Temporary Revision TR4, Issue 1.0, ``TR 4.02.00/
+25 Issue 2--Undetected Elevator Control Loss in Case of Dual 
+Failure,'' dated November 26, 2009, to the Airbus A330/A340 Airplane 
+Flight Manual.
+    (xix) Airbus Temporary Revision TR22, Issue 1.0, ``TR 4.02.00/40 
+Issue 2--Undetected Elevator Control Loss in Case of Dual Failure,'' 
+dated November 26, 2009, to the Airbus A330/A340 Airplane Flight 
+Manual.
+    (3) For service information identified in this AD, contact 
+Airbus SAS--Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may review copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on February 28, 2013.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-10653 Filed 5-8-13; 8:45 am]
+BILLING CODE 4910-13-P

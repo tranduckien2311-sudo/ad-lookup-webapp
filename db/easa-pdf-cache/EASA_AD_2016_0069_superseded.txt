@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0069
+
+Airworthiness Directive
+
+AD No.: 2016-0069
+
+Issued: 11 April 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 25 April 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 71 – Power Plant – Fan Cowl Door Latch with Key and Flag, CFM engines – Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A319-111, A319-112, A319-113, A319-114, A319-115, A320-211, A320-212, A320-214, A320-215, A320-216, A321-111, A321-112, A321-211, A321-212, and A321-213 aeroplanes, all manufacturer serial numbers.
+
+Reason: Fan Cowl Door (FCD) losses were reported on aeroplanes equipped with CFM56 engines. Investigations confirmed that in all cases the fan cowls were opened prior to the flight and were not correctly re-secured. During the pre-flight inspection, it was then not detected that the FCD were not properly latched. This condition, if not detected and corrected, could lead to in-flight loss of a FCD, possibly resulting in damage to the aeroplane and/or injury to persons on the ground. Page 1 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0069 Prompted by these events, new FCD front latch and keeper assembly were developed, having a specific key necessary to un-latch the FCD. This key cannot be removed unless the FCD front latch is safely closed. The key, after removal, must be stowed in the flight deck at a specific location, as instructed in the applicable Aircraft Maintenance Manual. Applicable Flight Crew Operating Manual has been amended accordingly. After modification, the FCD is identified with a different Part Number (P/N). For the reasons described above, this AD requires modification and re-identification of FCD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: (1) Within 35 months after the effective date of this AD, accomplish concurrently the actions as required by paragraphs (1.1), (1.2) and (1.3) of this AD, in accordance with the instructions of Airbus Service Bulletin (SB) A320-71-1068. (1.1) Modify the left hand and right hand FCD on Engines 1 and 2. (1.2) Install a placard on the box located at the bottom of the 120 VU panel, or at the bottom of the coat stowage, as applicable to aeroplane configuration. (1.3) Re-identify both FCD with the new P/N, as applicable, as specified in Table 1 of this AD. Table 1 – Fan Cowl Door P/N Change Door Position Old P/N New P/N Left Hand Side – CFM56-5A 238-0301-501 238M0301-501 238-0301-503 238M0301-503 238-0301-505 238M0301-505 238-0301-507 238M0301-507 238-0301-511 238M0301-511 238-0301-513 238M0301-513 238-0301-515 238M0301-515 238-0301-517 238M0301-517 238-0301-519 238M0301-519 238-0301-521 238M0301-521 238-0301-523 238M0301-523 238-0301-525 238M0301-525 238-0301-527 238M0301-527 238-0301-529 238-0301-533 238-0301-531 238-0301-535 Page 2 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0069 Table 1 – Fan Cowl Door P/N Change (continued) Door Position Old P/N New P/N Right Hand Side – CFM56-5A 238-0302-501 238M0302-501 238-0302-503 238M0302-503 238-0302-505 238M0302-505 238-0302-509 238M0302-509 238-0302-511 238M0302-511 238-0302-513 238M0302-513 238-0302-515 238M0302-515 238-0302-517 238M0302-517 238-0302-519 238M0302-519 238-0302-521 238M0302-521 238-0302-523 238M0302-523 238-0302-525 238M0302-525 238-0302-527 238M0302-527 238-0302-529 238M0302-529 238-0302-531 238M0302-531 238-0302-533 238M0302-533 238-0302-535 238M0302-535 238-0302-537 238M0302-537 238-0302-539 238-0302-547 238-0302-541 238-0302-549 238-0302-543 238-0302-551 238-0302-545 238-0302-553 Left Hand Side – CFM56-5B 642-3001-503 642M3001-503 642-3001-505 642M3001-505 642-3001-507 642-3001-511 642-3001-509 642-3001-513 Right Hand Side – CFM56-5B 642-3002-503 642M3002-503 642-3002-505 642M3002-505 642-3002-507 642M3002-507 642-3002-509 642M3002-509 642-3002-511 642-3002-519 642-3002-513 642-3002-521 642-3002-515 642-3002-523 642-3002-517 642-3002-525 (2) Replacing the FCDs, having P/N listed as old in Table 1 of this AD, with the FCDs having the corresponding P/N listed as new in Table 1 of this AD, is equal to compliance with paragraph (1.1) and (1.3) of this AD. (3) An aeroplane on which Airbus modification 157517 has been embodied in production, is compliant with the requirements of paragraph (1.1) and (1.3) of this AD, provided it is determined that no FCD, having a P/N identified as “old” in Table 1 of this AD, are installed on that aeroplane at the effective date of the AD. Page 3 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2016-0069 (4) An aeroplane on which Airbus modification 157519 or modification 157521 has been embodied in production is compliant with the requirements of paragraph (1.2) of this AD. (5) Do not install on any aeroplane a FCD, having a P/N identified as “old” in Table 1 of this AD, as required by paragraph (5.1) or (5.2) of this AD, as applicable. (5.1) For an aeroplane with a FCD installed having a P/N identified as “old” in Table 1 of this AD: After modification of that aeroplane as required by paragraph (1) of this AD. (5.2) For an aeroplane that does not have a FCD installed having a P/N identified as “old” in Table 1 of this AD: From the effective date of this AD. (6) Installation on an aeroplane of right hand and left hand FCD, having a P/N approved after the effective date of this AD, is equal to compliance with the requirements of paragraphs (1.1) and (1.3) of this AD for that aeroplane, provided the conditions as specified in paragraphs (6.1) and (6.2) of this AD are met. (6.1) The P/N must be approved by EASA, or approved under Airbus Design Organisation Approval (DOA); and (6.2) The installation must be accomplished in accordance with aeroplane modification instructions approved by EASA, or approved under Airbus DOA.
+
+Ref. Publications: Airbus SB A320-71-1068 original issue dated 18 December 2015. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 09 February 2016 as PAD 16-022 for consultation until 08 March 2016. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 4 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

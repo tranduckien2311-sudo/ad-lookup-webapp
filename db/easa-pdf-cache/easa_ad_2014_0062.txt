@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0062 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0062 Date: 11 March 2014 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes TCDS Number: EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None Exhaust – Thrust Reverser Cowl Door Hinge Sleeves – Identification
+
+ATA 78 / Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342, and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Reason: A manufacturing discrepancy (lack of heat treatment) on a batch of the N°3 and N°4 hinge sleeves installed on Thrust Reverser Unit (TRU) was identified. Those parts are only installed on A330 aeroplanes equipped with Rolls-Royce (RR) Trent 700 engines. This condition, if not corrected, in case of a Fan Blade Off event due to high vibration level, could cause in-flight loss of some heavy components of the TRU, possibly resulting in injury to persons on the ground. As current hinge sleeves are not serialized, it is not possible to identify the TRU hinge sleeves which did not receive the heat treatment. The part supplier has developed an identification procedure for these TRU hinge sleeves in order to identify the affected hinge sleeves, and to allow a better part traceability in the future. For the reason described above, this AD requires identification and replacement of the affected TRU hinge sleeves.
+
+Effective Date: 25 March 2014 TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0062 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 12 months after the effective date of this AD, identify and, if found to Time(s): be affected, replace the hinge sleeves N°3 and N°4 of the TRU cowl door in accordance with the instructions of Airbus Service Bulletin (SB) A330-78-3021 Revision 01. (2) Aeroplanes on which Airbus Modification 202463 has been embodied in production or aeroplanes modified in accordance with the instructions of Airbus SB A330-78-3021 at original issue, are compliant with the requirement of paragraph (1) of this AD. (3) From the effective date of this AD, installation of a TRU is allowed, provided that, prior to installation, it is determined, in accordance with the instructions of Airbus SB A330-78-3021, that the cowl door hinge sleeves installed on the TRU are not affected by the requirements of this AD.
+
+Ref. Publications: Airbus SB A330-78-3021 at original issue dated 17 October 2012, or Revision 01 dated 30 July 2013. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 19 September 2013 as PAD 13-144 for consultation until 17 October 2013, and re-published on 18 December 2013 as PAD 13-144R1 for additional consultation until 01 January 2014. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL; E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

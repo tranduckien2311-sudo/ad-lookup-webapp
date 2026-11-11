@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0062
+
+Airworthiness Directive
+
+AD No.: 2018-0062
+
+Issued: 20 March 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 03 April 2018 TCDS Numbers: EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 29 – Hydraulic Power – Ram Air Turbine Hydraulic Pumps – Replacement Manufacturer (s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), and Airbus A340-211, A340-212, A340-213, A340-311, A340-312 and A340-313 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A330-29-3130 or SB A340-29-4098, as applicable. Affected part: Ram Air Turbine (RAT) hydraulic pumps, having Part Number (P/N) 5916430 and a serial number (s/n) as listed in UTAS / Hamilton Sundstrand SB ERPS06M-29-22. Serviceable part: RAT hydraulic pumps, identified as acceptable in the applicable SB. Groups: Group 1 aeroplanes are those that have an affected part installed. Group 2 aeroplanes are those that do not have an affected part installed. An A330 aeroplane that has embodied Airbus Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0062 modification 206604 in production is a Group 2 aeroplane, provided that the aeroplane remains in that configuration.
+
+Reason: Four A330 RAT units were returned to the supplier due to low discharge pressure. These defects were detected during Airbus production tests. Subsequent investigations by the RAT manufacturer UTAS (formerly Hamilton Sundstrand) revealed that some RAT hydraulic pumps, P/N 5916430, were involved in an alternative manufacturing process of the pump pistons. This resulted in form deviations (rough surface finish and sharp edges), which caused excessive wear and damage to the bore where the pistons moved. This condition, if not corrected, could lead to low performance of the pump, possibly resulting in reduced control of the aeroplane, particularly if occurring following a total engine flame out, or during a total loss of normal electrical power generation. To address this potential unsafe condition, Airbus published SB A330-29-3130 and SB A340-29-4098, providing instructions for identification and replacement of the affected parts. For the reasons described above, this AD requires replacement of the affected parts. This AD also requires re-identification of the RAT module.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Replacement: (1) For Group 1 aeroplanes: Within 18 months after the effective date of this AD, replace the affected part with a serviceable part in accordance with the instructions of the applicable SB. Re-Identification: (2) For Group 1 aeroplanes: Concurrent with the replacement as required by paragraph (1) of this AD, re-identify the P/N of the RAT module in accordance with the instructions of the applicable SB. Note 1: The applicable SB also provides instructions for re-identifying the P/N of RAT hydraulic pumps that are not affected, as well as the P/N of the RAT modules that are not equipped with an affected RAT hydraulic pump. Credit: (3) After re-identification of a RAT Module on an aeroplane, as required by paragraph (2) of this AD, the aeroplane remains compliant with the RAT module re-identification requirements of EASA AD 2015-0008 for that aeroplane. Part installation: (4) Do not install an affected part on any aeroplane, as required by paragraph (4.1) or (4.2) of this AD, as applicable. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0062 (4.1) For Group 1 aeroplanes: After RAT hydraulic pump replacement as required by paragraph (1) of this AD. (4.2) For Group 2 aeroplanes: From the effective date of this AD.
+
+Ref. Publications: Airbus SB A330-29-3130 original issue dated 03 May 2017. Airbus SB A340-29-4098 original issue dated 03 May 2017. UTAS / Hamilton Sundstrand SB ERPS06M-29-22 original issue dated 17 March 2017, or Revision 01 dated 27 June 2017. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 12 December 2017 as PAD 17-169 for consultation until 09 January 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0131
+
+Airworthiness Directive
+
+AD No.: 2018-0131
+
+Issued: 19 June 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS A318, A319, A320 and A321 aeroplanes E
+
+Effective Date: 03 July 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable D
+
+Supersedure: This AD supersedes EASA AD 2015-0170 dated 18 August 2015. E
+
+ATA 92 – Electric and Electronic Common Installation – Cockpit Panel Bracket – Inspection S
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) R
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, E A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers. P
+
+Definitions: For the purpose of this AD, the following definitions apply: U Groups: Group 1 aeroplanes are those in pre modification (mod) 35869 configuration. Group 2 aeroplanes are those in post mod 35869 configuration. S The applicable SB: Airbus Service Bulletin (SB) A320-92-1087 for Group 1 aeroplanes and SB A320-92-1119 for Group 2 aeroplanes. Page 1 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0131
+
+Reason: During an unscheduled maintenance operation on an A330 aeroplane, the 10VU rack was removed for access and cracks were discovered on 10VU rack side fittings on lugs 1, 3 and 4. As a similar design is installed on A320 family aeroplanes, a sampling review was done to determine the possible fleet impact. The result showed that several aeroplanes had cracked or broken 10VU rack side fittings. This condition, if not detected and corrected, could lead to a high vibration level on the primary flight and navigation displays during critical flight phases (take-off and landing), possibly creating reading difficulties for the crew. Prompted by these findings, Airbus developed mod 35869 to reinforce the affected rack fitting lugs. For in-service aeroplanes, Airbus published SB A320-92-1087 to provide detailed inspection (DET) D and repair instructions. Consequently, EASA AD 2015-0170 was issued to require, for all pre mod 35869 aeroplanes, repetitive DET of the affected 10VU rack fitting lugs and, depending on findings, accomplishment of a repair. E Since that AD was issued, analysis confirmed the need to extend the inspection to post mod 35869 aeroplanes. Airbus issued SB A320-92-1119 providing instructions for DET and repair of those aeroplanes accordingly. Airbus developed mod 157335 to further reinforce and adjust the affected D rack fitting lugs. Analysis is still ongoing to confirm mod 157335 as terminating action for the requirements of this AD, and further AD action may follow. E For the reason described above, this AD retains the requirements of EASA AD 2015-0170, which is superseded, expanding the Applicability to include post mod 35869 aeroplanes, and requiring, for all aeroplanes, repetitive DET of the affected 10VU rack fitting lugs and, depending on findings, S accomplishment of a repair.
+
+Required Action(s) and Compliance Time(s): R Required as indicated, unless accomplished previously: Inspection(s): E (1) For Group 1 aeroplanes: Within the compliance time defined in Table 1 of this AD, and, thereafter, at intervals not to exceed 20 000 flight cycles (FC) or 40 000 flight hours (FH), whichever occurs first, accomplish a DET of the 10VU lugs 1, 2, 3 and 4 in accordance with the P instructions of Airbus SB A320-92-1087. Table 1 – Initial Inspection U Compliance Time (whichever occurs later, A or B) Before exceeding 30 000 FC or 60 000 FH, A whichever occurs first since aeroplane first flight S Within 24 months after 01 September 2015 B [the effective date of EASA AD 2015-0170] (2) For Group 2 aeroplanes: Before exceeding 30 000 FC or 60 000 FH, whichever occurs first since aeroplane first flight, and, thereafter, at intervals not to exceed 20 000 FC or 40 000 FH, Page 2 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0131 whichever occurs first, accomplish a DET of the 10VU lugs 1, 2, 3 and 4 in accordance with the instructions of Airbus SB A320-92-1119. Corrective Action(s): (3) If, during any DET as required by paragraph (1) or (2) of this AD, any crack is found on only one 10VU lug, before exceeding 5 000 FC or 10 000 FH, or within 24 months, whichever occurs first, repair the damaged lug in accordance with the instructions of the applicable SB (see Note 1 of this AD). (4) If, during any DET as required by paragraph (1) or (2) of this AD, any crack is found on two or more lugs, before next flight, repair the damaged lugs in accordance with the instructions of the applicable SB (see Note 1 of this AD). D Note 1: Depending on aeroplane configuration, removal, installation and testing of some equipment is not required to accomplish the repair as required by paragraph (3) or (4) of this AD, as applicable, for that aeroplane. E Terminating Action: (5) Accomplishment of corrective action(s) on an aeroplane, as required by paragraph (3) or (4) of this AD, as applicable, does not constitute terminating action for the repetitive inspections as D required by paragraphs (1) or (2) of this AD, as applicable, for that aeroplane. Reporting: E (6) Within 90 days after each DET as required by paragraph (1) or (2) of this AD, as applicable, report the results (including no findings) to Airbus. S
+
+Ref. Publications: Airbus SB A320-92-1087 original issue dated 28 March 2011, or Revision 01 dated 17 May 2011, or Revision 02 dated 25 November 2014, or Revision 03 dated 31 July 2017. R Airbus SB A320-92-1119 original issue dated 28 July 2017. E The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. P
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. U 2. This AD was posted on 04 April 2018 as PAD 18-048 for consultation until 02 May 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. S 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, . Certification Directorate. E-mail: ADs@easa.europa.eu Page 3 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2018-0131 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. D E D E S R E P U S Page 4 of 4 TE.CAP.00110-007 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

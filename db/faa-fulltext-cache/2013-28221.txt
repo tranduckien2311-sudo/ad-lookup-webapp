@@ -1,0 +1,336 @@
+[Federal Register Volume 78, Number 228 (Tuesday, November 26, 2013)]
+[Rules and Regulations]
+[Pages 70487-70489]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-28221]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0750; Directorate Identifier 2013-NE-25-AD; 
+Amendment 39-17672; AD 2013-23-17]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for Rolls-
+Royce plc (RR) RB211-535E4-37, -535E4-B-37, -535E4-C-37, RB211Trent 
+768-60, 772-60, and 772B-60 turbofan engines. This AD requires removal 
+of certain high-pressure (HP) and intermediate-pressure (IP) turbine 
+discs before their accumulated cyclic lives have reached the revised 
+limits. This AD was prompted by a report of an HP disc contaminated 
+with a steel inclusion. We are issuing this AD to prevent failure of 
+the HP or IP turbine disc, uncontained engine failure, and damage to 
+the airplane.
+
+DATES: This AD becomes effective December 11, 2013.
+    We must receive comments on this AD by January 10, 2014.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov and follow the instructions for sending your 
+comments electronically.
+     Mail: U.S. Department of Transportation, 1200 New Jersey 
+Avenue SE., West Building Ground Floor, Room W12-140, Washington, DC 
+20590-0001.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+     Fax: 202-493-2251.
+    For service information identified in this AD, contact Rolls-Royce 
+plc, Corporate Communications, P.O. Box 31, Derby, DE24 8BJ, UK; phone: 
+44-0-1332-242424; fax: 44-0-1332-249936; email: http://www.rolls-royce.com/contact/civil_team.jsp. You may view this service 
+information at the FAA, Engine & Propeller Directorate, 12 New England 
+Executive Park, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call 781-238-7125.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the mandatory continuing 
+airworthiness information (MCAI), the regulatory evaluation, any 
+comments received, and other information. The street address for the 
+Docket Operations office (phone: 800-647-5527) is the same as the Mail 
+address provided in the ADDRESSES section. Comments will be available 
+in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Frederick Zink, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: 781-238-7779; 
+fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+AD 2013-0155, dated July 18, 2013 (referred to herein after as ``the 
+MCAI''), to correct an unsafe condition for the specified products. The 
+MCAI states:
+
+    During a recent inspection of a high pressure (HP) turbine disc 
+forged by a specific supplier, the disc was found to be contaminated 
+with a steel inclusion, due to an inadequate cleaning procedure in 
+the operation of the melt furnace, following a steel melt. Analysis 
+of melt and inspection data concluded that all discs manufactured 
+from the batch of material in which this steel inclusion was found, 
+had a significant risk of containing steel inclusions. Rolls-Royce 
+has carried out an analysis of the effect of the
+
+[[Page 70488]]
+
+steel inclusions on the Declared Safe Cyclic Lives (DSCL) of the 
+affected HP and intermediate pressure (IP) turbine discs. This 
+analysis concluded that the currently published DSCL cannot be 
+supported for several discs containing the subject inclusions.
+    This condition, if not corrected, could lead to an uncontained 
+HP or IP turbine disc failure, possibly resulting in damage to, and 
+reduced control of, the aeroplane.
+    For the reasons described above, this AD requires removal from 
+service of certain HP and IP turbine discs before their accumulated 
+cyclic lives have reached the revised limits.
+
+    You may obtain further information by examining the MCAI in the AD 
+docket on the Internet at http://www.regulations.gov by searching for 
+and locating it in Docket No. FAA-2013-0750.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of the 
+United Kingdom and is approved for operation in the United States. 
+Pursuant to our bilateral agreement with the European Community, EASA 
+has notified us of the unsafe condition described in the MCAI and 
+service information referenced above. We are issuing this AD because we 
+evaluated all information provided by EASA and determined the unsafe 
+condition exists and is likely to exist or develop on other products of 
+the same type design.
+
+FAA's Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule. Therefore, 
+we determined that notice and opportunity for public comment before 
+issuing this AD are impracticable and that good cause exists for making 
+this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2013-0750; Directorate 
+Identifier 2013-NE-25-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact 
+with FAA personnel concerning this AD. Using the search function of the 
+Web site, anyone can find and read the comments in any of our dockets, 
+including, if provided, the name of the individual who sent the comment 
+(or signed the comment on behalf of an association, business, labor 
+union, etc.). You may review the DOT's complete Privacy Act Statement 
+in the Federal Register published on April 11, 2000 (65 FR 19477-78).
+
+Costs of Compliance
+
+    We estimate that this AD will affect 20 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 0 
+hours per engine to comply with this AD. The average labor rate is $85 
+per hour. Required parts will cost about $4,000 per engine. Based on 
+these figures, we estimate the total cost of this AD to U.S. operators 
+is $80,000.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2013-23-17 Rolls-Royce plc: Amendment 39-17672; Docket No. FAA-2013-
+0750; Directorate Identifier 2013-NE-25-AD.
+
+(a) Effective Date
+
+    This AD is effective December 11, 2013.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Rolls-Royce plc (RR) RB211-535E4-37, -535E4-
+B-37, -535E4-C-37, RB211 Trent 768-60, 772-60, and 772B-60 turbofan 
+engines with turbine disc part numbers (P/Ns) and serial numbers (S/
+Ns) listed in Table 1 to paragraph (c) of this AD.
+
+[[Page 70489]]
+
+
+
+   Table 1 to Paragraph (c)--New Reduced Cyclic Life Limits for High-Pressure (HP)/Intermediate-Pressure (IP)
+                                                  Turbine Discs
+----------------------------------------------------------------------------------------------------------------
+                                                                                         New reduced cyclic life
+                Engine                           P/Ns                     S/Ns                    limit
+----------------------------------------------------------------------------------------------------------------
+RB211-535E4-37,-535E4-B-37, -535E4-C-  UL39767................  LDRCZ19900.............  11,400 flight cycles
+ 37.                                                                                      (FCs).
+                                       UL39767................  LDRCZ19903.............
+                                       UL39767................  LDRCZ19904.............
+RB211 Trent 768-60, 772-60, and 772B-  FK26893................  LDRCZ19901.............  8,687 FCs.
+ 60.
+                                       FK26893................  LDRCZ20081.............
+                                       FK26893................  LDRCZ20082.............
+                                       FK26893................  LDRCZ20084.............
+                                       FK26893................  LDRCZ20088.............
+                                       FK26893................  LDRCZ20089.............
+                                       FK26893................  LDRCZ20090.............
+                                       FK26893................  LDRCZ20093.............
+                                       FK26893................  LDRCZ20094.............
+                                       FK26893................  LDRCZ20097.............
+                                       FK26893................  LDRCZ20099.............
+                                       FK26893................  LDRCZ20100.............
+                                       FK20795 or FW53118.....  LDREB12176.............  9,270 FCs.
+                                       FK20795 or FW53118.....  LDREB12177.............
+                                       FK20795 or FW53118.....  LDREB12178.............
+                                       FK20795 or FW53118.....  LDREB12179.............
+                                       FK20795 or FW53118.....  LDREB12180.............
+----------------------------------------------------------------------------------------------------------------
+
+(d) Reason
+
+    This AD was prompted by a report of an HP disc contaminated with 
+a steel inclusion. We are issuing this AD to prevent failure of the 
+HP or IP turbine disc, uncontained engine failure, and damage to the 
+airplane.
+
+(e) Actions and Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+    (1) Remove from service, within 30 days, any HP or IP disc 
+identified in Table 1 to paragraph (c) of this AD that has exceeded 
+the new cyclic life limit, or before the disc accumulates flight 
+cycles that equal the new reduced cyclic life limit listed in Table 
+1 to paragraph (c) of this AD, whichever is later.
+    (2) Do not approve for return to service any engine with any 
+installed HP or IP turbine disc listed in Table 1 to paragraph (c) 
+of this AD, if the disc exceeds the new reduced cyclic life limit 
+listed in Table 1 to paragraph (c) of this AD.
+
+(f) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, may approve AMOCs for 
+this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request.
+
+(g) Related Information
+
+    (1) For more information about this AD, contact Frederick Zink, 
+Aerospace Engineer, Engine Certification Office, FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, MA 
+01803; phone: 781-238-7779; fax: 781-238-7199; email: 
+[email protected].
+    (2) Refer to MCAI European Aviation Safety Agency AD 2012-0155, 
+dated July 18, 2013. You may examine the MCAI in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating it in Docket No. FAA-2013-0750.
+    (3) Rolls-Royce plc, Alert Non-Modification Service Bulletin No. 
+RB.211-72-AH215, dated December 6, 2012 and RB.211-72-AH152, 
+Revision 1, dated July 3, 2013, which are not incorporated by 
+reference in this AD, can be obtained from RR using the contact 
+information in paragraph (g)(4) of this AD.
+    (4) For service information identified in this AD, contact 
+Rolls-Royce plc, Corporate Communications, P.O. Box 31, Derby, DE24 
+8BJ, UK; phone: 44-0-1332-242424; fax: 44-0-1332-249936; email: 
+http://www.rolls-royce.com/contact/civil_team.jsp.
+    (5) You may view this service information at the FAA, Engine & 
+Propeller Directorate, 12 New England Executive Park, Burlington, 
+MA. For information on the availability of this material at the FAA, 
+call 781-238-7125.
+
+(h) Material Incorporated by Reference
+
+    None.
+
+    Issued in Burlington, Massachusetts, on November 8, 2013.
+Colleen M. D'Alessandro,
+Assistant Directorate Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2013-28221 Filed 11-25-13; 8:45 am]
+BILLING CODE 4910-13-P

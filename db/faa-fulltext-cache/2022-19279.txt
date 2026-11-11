@@ -1,0 +1,346 @@
+[Federal Register Volume 87, Number 173 (Thursday, September 8, 2022)]
+[Rules and Regulations]
+[Pages 54863-54865]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-19279]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0675; Project Identifier MCAI-2021-01406-T; 
+Amendment 39-22156; AD 2022-18-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A318, A319, A320, and A321 series airplanes. This AD 
+was prompted by unclear and incomplete placard instructions for the 
+doghouse door lock. This AD requires installing improved handling 
+instruction placards on affected doghouses and re-identifying the 
+doghouses, as specified in a European Union Aviation Safety Agency 
+(EASA) AD, which is incorporated by reference. This AD also prohibits 
+the installation of affected doghouses under certain conditions. The 
+FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective October 13, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 13, 
+2022.
+
+ADDRESSES: For material incorporated by reference (IBR) in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; internet easa.europa.eu. 
+You may find this IBR material on the EASA website at 
+ad.easa.europa.eu. You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov by searching for and locating Docket No. FAA-2022-0675.
+
+[[Page 54864]]
+
+Examining the AD Docket
+
+    You may examine the AD docket at regulations.gov by searching for 
+and locating Docket No. FAA-2022-0675; or in person at Docket 
+Operations between 9 a.m. and 5 p.m., Monday through Friday, except 
+Federal holidays. The AD docket contains this final rule, the mandatory 
+continuing airworthiness information (MCAI), any comments received, and 
+other information. The address for Docket Operations is U.S. Department 
+of Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+Large Aircraft Section, FAA, International Validation Branch, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3229; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2021-0279, dated December 15, 2021 
+(EASA AD 2021-0279) (also referred to as the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model Airbus A318-111, A318-112, 
+A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, 
+A319-131, A319-132, A319-133, A319-151N, A319-153N, A319-171N, A320-
+211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-
+233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, 
+A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, 
+A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, 
+A321-253NX, A321-271N, A321-271NX, A321-272N, and A321-272NX airplanes. 
+Model A320-215 airplanes are not certificated by the FAA and are not 
+included on the U.S. type certificate data sheet; this AD therefore 
+does not include those airplanes in the applicability.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A318, A319, A320, and A321 series airplanes. The NPRM published in the 
+Federal Register on June 13, 2022 (87 FR 35684). The NPRM was prompted 
+by unclear and incomplete placard instructions for the doghouse door 
+lock. The NPRM proposed to require installing improved handling 
+instruction placards on affected doghouses and re-identifying the 
+doghouses, as specified in EASA AD 2021-0279. The NPRM also proposed to 
+prohibit the installation of affected doghouses under certain 
+conditions.
+    The FAA is issuing this AD to address the possible failure of the 
+doghouse door lock latch, which could result in locking the door in the 
+closed position and preventing access to the emergency equipment in the 
+doghouse, possibly resulting in injury to occupants. See the MCAI for 
+additional background information.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received no comments on the NPRM or on the determination of 
+the cost to the public.
+
+Conclusion
+
+    The FAA reviewed the relevant data and determined that air safety 
+requires adopting this AD as proposed. Except for minor editorial 
+changes, this AD is adopted as proposed in the NPRM. None of the 
+changes will increase the economic burden on any operator. Accordingly, 
+the FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2021-0279 specifies procedures for installing improved 
+handling instruction placards on affected doghouses and re-identifying 
+the doghouses, and prohibits installation of affected doghouses under 
+certain conditions. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD would affect 1,825 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............................             $ *              $85         $155,125
+----------------------------------------------------------------------------------------------------------------
+* The FAA has received no definitive data on which to base the cost estimates for the replacement placards
+  specified in this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative,
+
+[[Page 54865]]
+
+on a substantial number of small entities under the criteria of the 
+Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2022-18-05 Airbus SAS: Amendment 39-22156; Docket No. FAA-2022-0675; 
+Project Identifier MCAI-2021-01406-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 13, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category.
+    (1) All Model A318-111, A318-112, A318-121, and A318-122 
+airplanes.
+    (2) All Model A319-111, A319-112, A319-113, A319-114, A319-115, 
+A319-131, A319-132, A319-133, A319-151N, A319-153N, and A319-171N 
+airplanes.
+    (3) All Model A320-211, A320-212, A320-214, A320-216, A320-231, 
+A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, 
+A320-272N, and A320-273N airplanes.
+    (4) All Model A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, 
+A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N, 
+and A321-272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by unclear and incomplete placard 
+instructions for the doghouse door lock, which could lead to 
+incorrect operation of the doghouse door lock. The FAA is issuing 
+this AD to address the possible failure of the doghouse door lock 
+latch, which could result in locking the door in the closed position 
+and preventing access to the emergency equipment in the doghouse, 
+possibly resulting in injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2021-0279, dated December 15, 2021 (EASA AD 2021-0279).
+
+(h) Exceptions to EASA AD 2021-0279
+
+    (1) Where EASA AD 2021-0279 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2021-0279 does not apply 
+to this AD.
+    (3) Where paragraph (1) of EASA AD 2021-0279 refers to affected 
+airplanes, replace the text ``For Group 1 aeroplanes'' with ``Group 
+1 airplanes except for airplanes identified in paragraph (2) of EASA 
+AD 2021-0279.''
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the International 
+Validation Branch, send it to the attention of the person identified 
+in paragraph (j) of this AD. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, Large Aircraft Section, FAA, International 
+Validation Branch, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2021-0279, 
+dated December 15, 2021.
+    (ii) [Reserved]
+    (3) For EASA AD 2021-0279, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on August 17, 2022.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2022-19279 Filed 9-7-22; 8:45 am]
+BILLING CODE 4910-13-P

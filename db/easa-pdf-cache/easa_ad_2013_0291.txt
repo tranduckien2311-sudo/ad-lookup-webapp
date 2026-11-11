@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2013-0291 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2013-0291 Date: 09 December 2013 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design approval Holder’s Name: Type/Model designation(s): A330 aeroplanes AIRBUS TCDS Number: EASA A.004 Foreign AD: Not applicable
+
+Supersedure: None Fire Protection – Extinguishing Pipe Between Frame (FR) 34 and
+
+ATA 26 FR36 – Modification
+
+Manufacturer(s): Airbus (formerly AIRBUS INDUSTRIE)
+
+Applicability: Airbus A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers on which Airbus modification (mod) 58244 or mod 58245 has been embodied in production, except those on which mod 202779 has been embodied in production.
+
+Reason: During installation of the fire extinguishing system in the forward cargo compartment in production, it was established that one pipe was too long and could therefore only be installed under stress. This affected pipe was developed in the frame of Airbus mod 58244 and mod 58245 related to Cabin Intercommunication Data System-Based smoke detection system (CIDS- Based SDS) for A330-300 aeroplanes only. Investigation revealed that due to loads transfer, the clamp could break and the pipe would come into contact with the structure, possibly resulting in leakage in the Halon piping due to chafing, in the forward lower deck cargo compartment (LDCC), which could lead to (potentially undetected) functional loss of fire extinguishing system. This condition, if not corrected, in combination with a fire, could lead to an uncontrolled fire in LDCC, possibly resulting in the loss of aeroplane . To address this unsafe condition, Airbus developed a mod. which consists in installation of a shorter pipe, to be embodied in production with mod 202779 and in-service through Airbus Service Bulletin (SB) A330-26-3053. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2013-0291 For the reasons described above, this AD requires modification of the affected fire extinguishing pipe between FR34 and FR36 in the forward LDCC.
+
+Effective Date: 23 December 2013 Required Action(s) Required as indicated, unless accomplished previously: and Compliance No later than 30 April 2015, modify the affected fire extinguishing pipe Time(s): between FR34 and FR36 in the forward LDCC in accordance with the instructions of Airbus SB A330-26-3053.
+
+Ref. Publications: Airbus SB A330-26-3053 Original issue dated 20 June 2013. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 04 November 2013 as PAD 13-0162 for consultation until 02 December 2013. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

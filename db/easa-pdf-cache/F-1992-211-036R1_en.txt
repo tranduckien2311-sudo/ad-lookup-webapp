@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-211-036(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Trimmable horizontal stabilizer actuator (THS) The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft all models without AIRBUS INDUSTRIE modification 22578 or without AIRBUS INDUSTRIE Service Bulletin A320-27-1045. In order to prevent a control valve desynchronisation of the trimmable horizontal stabilizer (THS) actuator due to an incorrectly performed operational test of the jamming protection device resulting from the application of AMM task 27-44-00-710-001, the following measures are rendered mandatory on the effective date of the present
+
+Airworthiness Directive. The desynchronisation when combined either with the loss of hydraulic pressure on the opposite side, or with the desynchronisation of both control valves versus their control mechanism, can lead to a stabilizer run-away. 1. Before October 15, 1992, unless already accomplished, perform a one time duplicate inspection in order to verify that both Control Valve Detents (CVD's) are closed according to instructions described by AIRBUS INDUSTRIE all operators Telex reference AOT 27-10 dated August 19, 1992. 2. Before December 31, 1995, replace the trimmable horizontal stabilizer actuator by a modified actuator in accordance with instructions of AIRBUS INDUSTRIE Service Bulletin A320-27-1045. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-27-1045. Ref. : AIRBUS INDUSTRIE All Operator Telex AOT 27-10 dated August 19, 1992 A320 Aircraft Maintenance Manual AIRBUS INDUSTRIE Service Bulletin A320-27-1045 (or any further approved revision). The present Revision 1 replaces the original AD 92-211-036(B) dated October 14, 1992. EFFECTIVE DATES : Original AD : Upon receipt of telegraphic AD dated September 30, 1992 Revision 1 : MAY 09, 1993. n/C AIRBUS INDUSTRIE April 28, 1993 92-211-036(B) R1 A320 Aircraft

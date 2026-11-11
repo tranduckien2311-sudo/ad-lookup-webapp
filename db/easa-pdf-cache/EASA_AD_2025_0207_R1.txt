@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0207R1
+
+Airworthiness Directive
+
+AD No.: 2025-0207R1
+
+Issued: 30 October 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A318, A319, A320 and A321 aeroplanes
+
+Effective Date: Revision 01: 06 November 2025 Initial Issue: 07 October 2025 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2025-0207 dated 23 September 2025.
+
+ATA 53 – Fuselage – Seat Rail Connections Nylon Bushes – Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232, aeroplanes, all manufacturer serial numbers (MSN) except those having Airbus modification (mod) 152721 and mod 154725 embodied in production.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part: Nylon bushes having a Part Number (P/N) as listed in Appendix 1 of this AD. Serviceable part: Bronze bushes having a P/N as listed in Appendix 1 of this AD. Affected area: Seat rail connections in the area of frame (FR) 47 (for A320 and A321 aeroplanes), FR47/51 (for A319 aeroplanes), FR47/54 (for A318 aeroplanes), FR35 (for A318, A319 and A320 aeroplanes) and FR35.8 (for A321 aeroplanes), as applicable. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0207R1 The SB: Airbus Service Bulletin (SB) A320-53-1542 and SB A320-53-1543, as applicable.
+
+Reason: Reports were received of broken bolts in the affected areas. This condition, if not corrected, could lead to seat detachment and passengers ’ injuries under emergency landing loads. To address this potential unsafe condition, Airbus issued the SB, providing replacement instructions of the nylon bushes, included in the seat rail connections, by bronze bushes. Consequently, EASA issued AD 2025-0207 requiring to replace the nylon bushes by bronze bushes in the affected areas, and prohibiting re-installation of affected parts in those areas. Since that AD was issued it was determined that certain P/N listed in Appendix 1 are not affected parts, as defined in this AD. For the reasons described above, this AD is revised to update Appendix 1.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Modification: (1) Within 72 months after 07 October 2025 [the effective date of the original issue of this AD], replace each affected part installed in an affected area with a serviceable part in accordance with the accomplishment instructions of the SB (see Note 1 of this AD). Note 1: The requirements of paragraph (1) of this AD include the accomplishment of the checks, inspections and corrective actions, as applicable, as identified in the accomplishment instructions of the SB. (2) For the purpose of this AD, where the SB provides instructions to ‘contact Airbus’, this must be read as ‘contact Airbus for additional instructions and, within the compliance time(s) specified therein, accomplish those instructions accordingly’. Parts Installation: (3) After the modification as required by paragraph (1) of this AD in an affected area, do not install any affected part in that affected area.
+
+Ref. Publications: Airbus SB A320-53-1542 at original issue dated 23 May 2025. Airbus SB A320-53-1543 at original issue dated 23 May 2025. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0207R1
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 21 August 2025 as PAD 25-133 for consultation until 18 September 2025. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0207R1 Appendix 1 Table 1 – P/N of bushes identified in Airbus SB A320-53-1542 Nylon bushes (LN9388) Bronze bushing (LN9468) D5337102620000 D5337102621200 D5337102620200 D5337102621200 D5337102620400 D5337102621400 D5337102620600 D5337102621400 [DELETED] [DELETED] [DELETED] [DELETED] D5337103020000 D5337103021200 D5337103020200 D5337103021200 D5337103020400 D5337103021400 D5337103020600 D5337103021400 Table 2 – P/N of bushes identified in Airbus SB A320-53-1543 Nylon bushes (LN9388) Bronze bushing (LN9468) D5337109720000 D5337109721000 D5337109720200 D5337109721000 D5337109720400 D5337109721200 D5337109720600 D5337109721200 D5347104720000 D5347104720600 D5347104720200 D5347104720800 Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

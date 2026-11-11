@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2024-0247
+
+Airworthiness Directive
+
+AD No.: 2024-0247
+
+Issued: 18 December 2024 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): D AIRBUS S.A.S. A318, A319, A320, A321, A330 and A340 aeroplanes E
+
+Effective Date: 01 January 2025 TCDS Number(s): EASA.A.064, EASA.A.004 and EASA.A.015 D Foreign AD: Not applicable
+
+Supersedure: None E
+
+ATA 27 – Flight Controls – Trimmable Horizontal Stabilizer Actuator – Modification S
+
+Manufacturer(s): Airbus, formerly Airbus Industrie R
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319- E 115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A319-171N, A319-173N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, P A321-212, A321-213, A321-231, A321-232, A321-251N, A321-252N, A321-253N, A321-251NX, A321-252NX, A321-253NX, A321-253NY, A321-271N, A321-272N, A321-271NX and A321-272NX aeroplanes, all manufacturer serial numbers (MSN); and U Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343, A330-743L, S A330-841 and A330-941 aeroplanes, all MSN; and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340- 642 and A340-643 aeroplanes, all MSN. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2024-0247
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part: Trimmable Horizontal Stabilizer Actuators (THSA) having a Part Number (P/N) and serial number (s/n) as listed in the VSIL, except those for which the accumulated life has been recalculated as required by this AD. Serviceable part: A THSA eligible for installation in accordance with Airbus instructions. The OIT: Airbus Operator Information Transmission (OIT) 999.0087/24. The VSIL: Collins Aerospace Vendor Service Information Letter (VSIL) FA3T1-27-04. D Aeroplane date of manufacture: The date of transfer of title (ownership) of the aeroplane upon delivery by Airbus to the first operator, which is referenced in Airbus documentation. E Groups: Group 1 aeroplanes are those that have an affected part installed. Group 2 aeroplanes are those that do not have an affected part installed. An aeroplane having a THSA installed that has never been removed, reinstalled, or repaired since aeroplane date of manufacture, is considered to be a Group 2 aeroplane. D
+
+Reason: Occurrences were reported of THSA delivered to operators having erroneous information E (accumulated life) in the release certificate. These THSA have been released to service between 2014 and 2024 at some Collins Aerospace Maintenance, Repair and Overhaul (MRO) facilities. S This condition, if not corrected, could lead to operation of the THSA beyond the certified life limit. To address this potential unsafe condition, Airbus issued the OIT, referencing the VSIL, to provide R the s/n of the affected parts, and instructions to contact Collins Aerospace for amended data. For the reason described above, this AD requires reassessment of the accumulated life of the E affected parts, and prohibits installation of affected parts.
+
+Required Action(s) and Compliance Time(s): P Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: U Modification: (1) For Group 1 aeroplanes: Within 30 days after the effective date of this AD, contact Collins Aerospace for approved instructions and accomplish those instructions accordingly within the compliance time specified therein. S (2) Replacement of the affected part on an aeroplane with a serviceable part is an acceptable method to comply to the requirements of paragraph (1) of this AD for that aeroplane. Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2024-0247 Note 1: If no approved instructions are provided within the compliance time of paragraph (1) of this AD, paragraph (2) of this AD has to be accomplished. The affected part is eligible to be considered a serviceable part based on the content of the Collins Aerospace approved instructions, once received and accomplished, as required in paragraph (1) of this AD. Part(s) Installation: (3) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not install an affected part on any aeroplane.
+
+Ref. Publications: Airbus OIT 999.0087/24 original issue dated 16 October 2024. Collins Aerospace VSIL FA3T1-27-04 original issue dated 06 August 2024. D
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of E Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. D All interested persons may send their comments, referencing the AD Number, to the E-mail address specified in below Remark 3, prior to 15 January 2025. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA E Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, S Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be R similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than E those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate P (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please U contact: AIRBUS, as specified below: For A320 family program: Airworthiness Office, E-mail: account.airworth-eas@airbus.com. S For A330/A340 family program: Airworthiness Office, E-Mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

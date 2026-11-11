@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page : AIRWORTHINESS DIRECTIVE February 4, 2004 1/2 B No F-2004-018 Direction This
+
+Airworthiness Directive is published by the DGAC : Translation of « Consigne de Navigabilité » of same générale number. on behalf of EASA, the Primary Airworthiness Authority for the In case of difficulty, reference should be made to de l’aviation X affected product. the French issue. civile as the Registration Airworthiness Authority for the affected France aircraft.. GSAC No person may operate an aircraft to which an
+
+Airworthiness Directive applies, publication except in accordance with the requirements of that
+
+Airworthiness Directive, unless otherwise agreed with the Authority of the State of Registry. Corresponding foreign
+
+Airworthiness Directive(s):
+
+Airworthiness Directive(s) replaced: Not applicable 2002-556 cancelled by its revision 2 Person in charge of airworthiness: Type(s): AIRBUS A319, A320 and A321 aircraft D Type certificate(s) No. 180 TCDS No 180 E ATA chapter: Subject: 05 Airworthiness Limitations - Limitation items (ALI) D 1. EFFECTIVITY: E AIRBUS A319, A320 and A321 aircraft all certified models, all serial numbers, except A319 aircraft that have received during production AIRBUS modifications 28238, 28162 and 28342. S 2. REASONS: The certification requirements for damage -tolerant structure are provided in AIRBUS R A318/A319/A320/A321 Maintenance Planning Document (MPD) subsection 9-2 (Airworthiness Limitations Items – ALI). The MPD subsection 9-2 is approved by the DGAC and included in the section 9 (Airworthiness Limitation Section - ALS). E AIRBUS document AI/SE-M4/95A.0252/96 that is referenced in the subsection MPD 9-2, is officially an appendix of AIRBUS A318/A319/A320/A321 Maintenance Review Board (MRB) Report. P AIRBUS document AI/SE-M4/95A.0252/96 that has been approved at issue 6 on July 15, 2003, reduces the threshold and/or the interval of some existing ALI. U 3. MANDATORY ACTIONS AND COMPLIANCE TIME: 3.1. From the effective date of this AD to April 30, 2004, it is mandatory to strictly adhere to the S requirements of AIRBUS A318/A319/A320/A321 AIRBUS MPD subsection 9-2, as defined in AIRBUS document AI/SE-M4/95A.0252/96: - either issue 5 approved on May 21, 2002 - or at issue 6 approved on July 15, 2003 3.2. From April 30 2004, it is mandatory to strictly adhere to the requirements of AIRBUS A318/A319/A320/A321 MPD subsection 9-2, as defined in AIRBUS document AI/SE-M4/95A.0252/96 at issue 6 approved on July 15, 2003: n/GH
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE February 4, 2004 2/2 B No F-2004-018 4. REFERENCE PUBLICATIONS: AIRBUS AI/SE-M4/95A.0252/96 issue 5 dated May 21 2002 AIRBUS AI/SE-M4/95A.0252/96 issue 6 dated July 15, 2003 Any later approved revision of this document is acceptable. 5. EFFECTIVE DATE: February 14, 2004. 6. REMARK: D For questions concerning the technical contents of this AD’s requirements, contact: AIRBUS - Fax 33 5 61 93 44 51. E 7. APPROVAL: This AD is approved under EASA reference No 2004-752 dated January 28, 2004. D E S R E P U S

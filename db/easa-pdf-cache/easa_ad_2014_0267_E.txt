@@ -1,0 +1,37 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0267-E EASA EMERGENCY AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0267-E Date: 09 December 2014 Note: This Emergency
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes TCDS Number: EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None Airplane Flight Manual – Undue Activation of Alpha Protection – ATA Emergency Procedure
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN). Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Reason: An occurrence was reported where an Airbus A321 aeroplane encountered a blockage of two Angle Of Attack (AOA) probes during climb, leading to activation of the Alpha Protection (Alpha Prot) while the Mach number increased. The flight crew managed to regain full control and the flight landed uneventfully. When Alpha Prot is activated due to blocked AOA probes, the flight control laws order a continuous nose down pitch rate that, in a worst case scenario, cannot be stopped with backward sidestick inputs, even in the full backward position. If the Mach number increases during a nose down order, the AOA value of the Alpha Prot will continue to decrease. As a result, the flight control laws will continue to order a nose down pitch rate, even if the speed is above minimum selectable speed, known as VLS. This condition, if not corrected, could result in loss of control of the aeroplane. As the same systems are installed on A330 and A340 aeroplanes, to address this unsafe condition, Airbus have developed a specific Aircraft Flight Manual (AFM) procedures, which has been published in AFM Temporary Revision (TR) TE.CAP.00111-004 © European Aviation Safety Agency. All rights reserved. 1/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0267-E N° 528 for A330 aeroplanes and AFM TR N° 529 for A340 aeroplanes, as applicable to aeroplane type and model. For the reasons described above, this AD requires amendment of the applicable AFM. This is considered to be an interim action and further AD action may follow.
+
+Effective Date: 11 December 2014 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Before next flight after the effective date of this AD, amend the applicable Time(s): AFM by inserting a copy of Airbus AFM A330 TR 528 “Abnormal V alpha Prot”, issue 1 or AFM A340 TR 529 “Abnormal V alpha Prot”, issue 1, as applicable to aeroplane type and model. Alternatively, amending the applicable AFM can be accomplished by inserting of a copy of Appendix 1 – AFM A330 Procedure of this AD or Appendix 2 – AFM A340 Procedure of this AD, as applicable to aeroplane type and model, into the Section Emergency Procedures. (2) Concurrent with the AFM amendment as required by paragraph (1) of this AD, inform all flight crews and, thereafter, operate the aeroplane accordingly.
+
+Ref. Publications: Airbus AFM A330 TR 528 issue 1, EASA approved 05 December 2014. Airbus AFM A340 TR 529 issue 1, EASA approved 05 December 2014. The use of later approved revisions of these documents are acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The results of the safety assessment have indicated the need for immediate publication and notification, without the full public consultation process. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL; E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00111-004 © European Aviation Safety Agency. All rights reserved. 2/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2014-0267-E Appendix 1 – AFM A330 Procedure TE.CAP.00111-004 © European Aviation Safety Agency. All rights reserved. 3/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2014-0267-E Appendix 2 – AFM A340 Procedure TE.CAP.00111-004 © European Aviation Safety Agency. All rights reserved. 4/4 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

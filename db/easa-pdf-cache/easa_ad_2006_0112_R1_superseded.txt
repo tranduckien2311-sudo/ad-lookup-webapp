@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2006-0112R1 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2006-0112R1 Date: 17 October 2008 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate D an aircraft to which an AD applies, except in accordance with the requirements of that AD unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : E AIRBUS A318, A319, A320 and A321 aircraft TCDS Number : EASA.A.064 D Foreign AD : Not applicable Supersedure : This AD revises and replaces EASA AD 2006-0112 dated 15 May 2006. E Landing Gear - Main Landing Gear (MLG) - Door Actuator –
+
+ATA 32 S Inspection
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) R
+
+Applicability: AIRBUS A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, E A321-231 and A321-232 aircraft models, all serial numbers, except those on which Airbus modification 38274 has been embodied in production or AIRBUS Service Bulletin (SB) A320-32-1338 has been embodied in service. P Reminder: It is the responsibility of the operator to ensure that any MLG actuator replaced on aircraft after having complied with this AD, still complies with the requirements of this AD. U
+
+Reason: Some operators reported slow operation of the Main Landing Gear door opening/closing sequence, possibly leading to the generation of ECAM warnings due to slow door operation during the landing gear retraction or extension sequence. S Investigations showed that the damping ring and associated retaining ring of the MLG door actuator deteriorate. The resultant debris increases the friction inside the actuator and may slow down the opening or closing sequence of the MLG door. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2006-0112R1 During freefall operation, a MLG door that opens too slowly could interfere with the MLG wheel and result in a non-extension of the MLG. The original issue of this AD mandates a repetitive inspection of the opening sequence of the MLG door in order to identify the defective actuators. This AD has been amended to Revision 1 in order to recognise that Airbus Modification 38274 (Service Bulletin A320-32-1338) is an acceptable terminating action for the repetitive inspection requirements of this AD.
+
+Effective Date: 26 May 2006 Required Action(s) 1. Unless already accomplished, before the MLG door actuator has and Compliance accumulated 3 000 flight cycles since new or within the next 800 flight Time(s): cycles after the effective date of this AD, whichever occurs later, check D the opening sequence of the door of the MLG and apply the associated corrective actions, if necessary, in accordance with the instructions of AIRBUS Service Bulletin A320-32-1309 at original issue. E Note: If no record of MLG door actuator history is available (number of flight cycles accumulated by the MLG door actuator since new), this check has to be accomplished within the next 800 flight cycles after the effective date of this AD. D 2. Repeat the inspection as described in above paragraph 1 at intervals not exceeding 900 flight cycles. E 3. Modification 38274 / SB A320-32-1338 introduces a MLG door actuator incorporating an improved retaining ring, located on the piston rod's extension end, and a new piston rod with machined shoulder to accommodate the thicker section of the modified retaining ring. S Embodiment of modification 38274 in production or Service Bulletin A320-32-1338 in service constitutes an acceptable terminating action for the repetitive inspection requirements of paragraph 2. of this AD. R
+
+Ref. Publications: AIRBUS Service Bulletin A320-32-1309 original issue, AIRBUS Service Bulletin A320-32-1338 original issue. The use of later approved revisions of these documents is acceptable for E compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance (AMOCs) for this AD. P 2. The original issue of this AD was posted as PAD 06-066 for consultation on 22 March 2006 with a comment period until 21 April 2006. The Comment . Response Document can be found at http://ad.easa.europa.eu 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to the U
+
+Airworthiness Directives, Safety Management & Research Section - . Certification Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAS S . Fax +33 5 61 93 44 51, E-mail: account.airworth-eas@airbus.com EASA Form 110 Page 2/2

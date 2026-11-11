@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-011-075(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Improvement of avionic protection from trickling water hatch door sealing This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, without AIRBUS INDUSTRIE modification 22119 or 21999 or AIRBUS INDUSTRIE Service Bulletin A320-53-1070. In order to improve avionic equipments protection against water spillage in case of accidental leakage at the commercial installation level, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Within 18 months, replace the seal of the hatch door 231 AF in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1070. Note : for aircraft on which the hatch door has been deleted by a means approved by the local authority or being modified by following information of the AIRBUS INDUSTRIE SIL 53-052 are not systematically concerned by this
+
+Airworthiness Directive. In this particular case, inform in writing the local authority of the non applicable status of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1070 (or any further approved revision) EFFECTIVE DATE : JANUARY 13, 1996 v/JYR AIRBUS INDUSTRIE January 03, 1996 96-011-075(B) A320 Aircraft

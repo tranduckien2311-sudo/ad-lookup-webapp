@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-117-025(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Nose wheel steering control The present
+
+Airworthiness Directive applies to A320 AIRBUS INDUSTRIE aircraft all models. In order to allow nose wheel steering control activation as soon as the main landing gear touches the ground at landing and to allow a progressive amplitude authority from 130 to 40 knots, the following measures are rendered mandatory on the effective date of the present
+
+Airworthiness Directive : A/ On aircraft equipped with twin wheel main landing gear without AIRBUS INDUSTRIE modification 22990 or without AIRBUS INDUSTRIE Service Bulletin A320-32-1094 : - Before March 1, 1993, modify the brake steering control unit (BSCU) in accordance with AIRBUS INDUSTRIE Service Bulletin A320-32-1094. B/ On aircraft equipped with bogie wheel main landing gear without AIRBUS INDUSTRIE modification 23106 or without AIRBUS INDUSTRIE Service Bulletin A320-32-1100 : - Before December 31, 1993, modify the brake steering control unit (BSCU) in accordance with AIRBUS INDUSTRIE Service Bulletin A320-32-1100. No further action is required after accomplishment of either the present
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-32-1094 on aircraft equipped with twin wheel main landing gear, or AIRBUS INDUSTRIE Service Bulletin A320-32-1100 on aircraft equipped with bogie wheel main landing gear. …/… n/C AIRBUS INDUSTRIE August 18, 1993 92-117-025(B) R1 A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 92-117-025(B) R1 Page n° 2 BUREAU VERITAS Ref. : - AIRBUS INDUSTRIE Service Bulletin A320-32-1094 (or any further approved revision) - AIRBUS INDUSTRIE Service Bulletin A320-32-1100 (or any further approved revision). The present Revision 1 replaces the original AD 92-117-025(B) dated May 13, 1992. EFFECTIVE DATES : Original AD : MAY 23, 1992 Revision 1 : AUGUST 28, 1993

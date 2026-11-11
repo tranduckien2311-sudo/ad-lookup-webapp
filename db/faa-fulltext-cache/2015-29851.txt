@@ -1,0 +1,562 @@
+[Federal Register Volume 80, Number 228 (Friday, November 27, 2015)]
+[Rules and Regulations]
+[Pages 73960-73963]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-29851]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0928; Directorate Identifier 2014-NM-040-AD; 
+Amendment 39-18333; AD 2015-24-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200 Freighter, A330-200, A330-300, A340-200, A340-
+300, A340-500, and A340-600 series airplanes. This AD was prompted by a 
+report of skin disbonding on a composite side panel of a rudder 
+installed on an A310 airplane. This AD requires a review of the 
+maintenance records of the rudder to determine if any composite side 
+shell panel repair has been done; a thermography inspection limited to 
+the repair areas or complete side shells, as applicable, to identify 
+possible in-service rudder repairs, damages, or fluid ingress; and 
+applicable related investigative and corrective actions. We are issuing 
+this AD to detect and correct the rudder skin disbonding, which could 
+affect the structural integrity of the rudder, and could result in 
+reduced controllability of the airplane.
+
+DATES: This AD becomes effective January 4, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 4, 
+2016.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0928 or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS, 
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+0928.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A330-200 
+Freighter, A330-200, A330-300, A340-200, A340-300, A340-500, and A340-
+600 series airplanes. The NPRM published in the Federal Register on 
+December 29, 2014 (79 FR 77972).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0033, dated February 4, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A330-200 Freighter, A330-200, A330-300, A340-200, A340-300, A340-500, 
+and A340-600 series airplanes. The MCAI states:
+
+    A case of skin disbonding was reported on a composite side panel 
+of a rudder installed on an A310 aeroplane.
+    The investigation results revealed that this disbonding started 
+from a skin panel area previously repaired in-service in accordance 
+with the Structural Repair Manual (SRM).
+    The initial damage has been identified as a disbonding between 
+the core and skin of the repaired area. This damage may not be 
+visually detectable and likely propagates during normal operation 
+due to the variation of pressure during ground-air-ground cycles.
+    Composite rudder side shell panels are also installed on A330 
+and A340 aeroplanes, which may have been repaired in-service using a 
+similar method.
+    This condition, if not detected and corrected, could affect the 
+structural integrity of the rudder, possibly resulting in reduced 
+control of the aeroplane.
+    For the reasons described above, this [EASA] AD requires a one-
+time thermography inspection of a repaired rudder or a rudder whose 
+maintenance records are incomplete and, depending on findings, 
+accomplishment of applicable corrective and follow-up actions 
+[including repetitive inspections].
+
+    The related investigative actions in this AD include, as 
+applicable, an ultrasonic inspection, an elasticity laminate checker 
+inspection, a tap test inspection, detailed inspections, and 
+thermography inspections, and ventilation of the core. The repetitive 
+inspections include detailed inspections and thermography inspections. 
+The corrective actions in this AD include repairs.
+    The compliance time for the related investigative actions is before 
+further flight after accomplishing the applicable inspection required 
+by paragraph (g)(1) or (g)(2)(ii) of this AD.
+    The intervals for the repetitive inspections are either 900 flight 
+hours or 1,000 flight cycles, depending on the applicable conditions 
+identified in the service information.
+    The compliance times for the corrective actions range, depending on 
+the applicable conditions identified in the service information, from 
+before further flight to within 4,500 flight cycles but not to exceed 
+24 months after accomplishing the applicable inspection required by 
+paragraph (g)(1) or (g)(2)(ii) of this AD.
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2014-0928-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (79 
+FR 77972, December 29, 2014) and the FAA's response to each comment.
+
+Request To Use the Latest Service Information
+
+    American Airlines (AAL) and Delta Airlines (DAL) requested that we 
+revise the NPRM (79 FR 77972, December 29, 2014) to cite the latest 
+service information.
+    We agree with the commenters' request. Airbus has issued Airbus 
+Service Bulletin A330-55-3043, Revision 1, dated August 20, 2014, 
+Airbus Service Bulletin A340-55-4039, Revision 1, dated August 20, 
+2014, and Airbus Service Bulletin A340-55-5007,
+
+[[Page 73961]]
+
+Revision 1, dated August 20, 2014. The new service information requires 
+no additional work, and there are no new actions required by this AD. 
+We have updated the AD with the latest service information, and we have 
+also added a credit paragraph for previous actions done before the 
+effective date of this AD using the service information cited in the 
+NPRM (79 FR 77972, December 29, 2014).
+
+Request To Clarify the Structural Repair Manual Repairs That Are 
+Affected
+
+    AAL requested that the NPRM (79 FR 77972, December 29, 2014) 
+clarify the specific structural repair manual (SRM) repairs that are 
+affected. AAL stated that paragraph (j) of the proposed AD states 
+specific serial number ranges that are not affected by the AD provided 
+that it is determined that no repair has been accomplished on the 
+composite side shell panel of that rudder since first installation on 
+the airplane. AAL believes this last sentence is too broad and not in 
+line with the intent of the service information requirements. AAL 
+commented that stating no repair has been accomplished limits 
+acceptable repairs covered by an Airbus repair design approval sheet, 
+designated engineering representative repairs, and other SRM repairs 
+not affected by the improper practices that are the subject of the 
+NPRM. AAL stated that paragraphs (g)(1) and paragraph (l) of the 
+proposed AD list the affected SRM repairs in the service information 
+figures.
+    We agree with the commenter's request. We have revised paragraph 
+(j) of this AD to clarify the specific repairs accomplished as 
+described in the SRM procedures identified in Figure A-GBBAA (Sheet 01 
+and 02) or Figure A-GBCAA (Sheet 02) of the service information 
+specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this AD, as 
+applicable.
+
+Request To Add the Manufacturer Part Number
+
+    DAL requested that the NPRM (79 FR 77972, December 29, 2014) 
+include the manufacturer part numbers of the rudder serial numbers 
+specified in paragraph (j), which provides only a list of rudder serial 
+numbers not affected by the requirements of paragraphs (g) and (h) of 
+the proposed AD. DAL commented that in the event of future aircraft 
+acquisitions or rudder (component only) purchases, operators will need 
+the manufacturer part numbers associated with the listed serial numbers 
+to determine AD applicability.
+    We disagree with the commenter's request to add part numbers to 
+paragraph (j) of this AD. The rudder serial number, regardless of the 
+part number, is the key to identifying whether the rudder is not 
+affected. Only rudders that have certain serial numbers that meet the 
+conditions specified in paragraph (j) of this AD are exempt from the 
+actions required by paragraphs (g) and (h) of this AD. Airbus has 
+informed us that rudders with the same manufacturer part number might 
+or might not be affected; it is the serial number that determines 
+whether it is an affected rudder. We have not changed the AD in this 
+regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (79 FR 77972, December 29, 2014) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (79 FR 77972, December 29, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information:
+     Airbus Service Bulletin A330-55-3043, Revision 1, dated 
+August 20, 2014.
+     Airbus Service Bulletin A340-55-4039, Revision 1, dated 
+August 20, 2014.
+     Airbus Service Bulletin A340-55-5007, Revision 1, dated 
+August 20, 2014.
+    The service information describes procedures for a review of the 
+maintenance records of the rudder to determine if any composite side 
+shell panel repair has been done; a thermography inspection limited to 
+the repair areas or complete side shells, as applicable, to identify 
+possible in-service rudder repairs, damages, or fluid ingress; and 
+applicable related investigative and corrective actions. This service 
+information is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in the ADDRESSES section of this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 55 airplanes of U.S. registry.
+    We also estimate that it would take about 45 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Required parts would cost about $0 per 
+product. Based on these figures, we estimate the cost of this AD on 
+U.S. operators to be $210,375, or $3,825 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW., Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+[[Page 73962]]
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0928; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2015-24-01 Airbus: Amendment 39-18333. Docket No. FAA-2014-0928; 
+Directorate Identifier 2014-NM-040-AD.
+
+(a) Effective Date
+
+    This AD becomes effective January 4, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all airplanes identified in paragraphs (c)(1) 
+and (c)(2) of this AD, certificated in any category.
+    (1) Airbus Model A330-201, -202, -203, -223, -223F,-243, -243F, 
+-301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes, 
+all manufacturer serial numbers.
+    (2) Airbus Model A340-211, -212, -213, -311, -312, -313, -541, 
+and -642 airplanes, all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 55, Stabilizers.
+
+(e) Reason
+
+    This AD was prompted by a report of skin disbonding on a 
+composite side panel of a rudder installed on an A310 airplane. We 
+are issuing this AD to detect and correct the rudder skin 
+disbonding, which could affect the structural integrity of the 
+rudder, and could result in reduced controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Review the Maintenance Records
+
+    Within 24 months after the effective date of this AD: Review the 
+maintenance records of the rudder to determine if any composite side 
+shell panel repair has been accomplished on the rudder since first 
+installation on an airplane.
+    (1) If, based on the maintenance record review, any repair 
+identified in Figure A-GBBAA (Sheet 01 and 02) or Figure A-GBCAA 
+(Sheet 02) of the service information specified in paragraphs 
+(g)(1)(i) through (g)(1)(iii) of this AD is found: Within 24 months 
+after the effective date of this AD, do a thermography inspection 
+for repair, damages, and fluid ingress, limited to the repaired 
+areas, in accordance with the Accomplishment Instructions of the 
+applicable service information specified in paragraphs (g)(1)(i) 
+through (g)(1)(iii) of this AD:
+    (i) Airbus Service Bulletin A330-55-3043, Revision 1, dated 
+August 20, 2014 (for Model A330-201, -202, -203, -223, -223F, -243, 
+-243F, -301, -302, -303, -321, -322, -323, -341, -342, and -343 
+airplanes).
+    (ii) Airbus Service Bulletin A340-55-4039, Revision 1, dated 
+August 20, 2014 (for Model A340-211, -212, -213, -311, -312, and -
+313 airplanes).
+    (iii) Airbus Service Bulletin A340-55-5007, Revision 1, dated 
+August 20, 2014 (for Model A340-541 and -642 airplanes).
+    (2) For a rudder for which maintenance records are unavailable 
+or incomplete, do the actions specified in paragraphs (g)(2)(i) and 
+(g)(2)(ii) of this AD:
+    (i) No later than 3 months before accomplishment of the 
+thermography inspection, as required by paragraph (g)(2)(ii) of this 
+AD, contact Airbus to request related rudder manufacturing data by 
+submitting the serial number of the rudder to Airbus.
+    (ii) Within 24 months after the effective date of this AD: Do a 
+thermography inspection for any repair on complete side shells to 
+identify and mark any repair, in accordance with the Accomplishment 
+Instructions of the applicable service information specified in 
+paragraphs (g)(1)(i) through (g)(1)(iii) of this AD.
+
+(h) Related Investigative Actions, Corrective Actions, and Repetitive 
+Inspections
+
+    After the inspection as required by paragraph (g)(1) or (g)(2) 
+of this AD: At the applicable compliance times specified in 
+paragraph 1.E., ``Compliance,'' of Tables 3, 4A, 4B, 4C, 4D, and 5 
+of the applicable service information specified in paragraphs 
+(g)(1)(i) through (g)(1)(iii) of this AD, accomplish all applicable 
+related investigative and corrective actions, in accordance with the 
+Accomplishment Instructions of the applicable service information 
+specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this AD; 
+except as provided by paragraphs (i)(1) and (i)(2) of this AD. 
+Options provided in the service information specified in paragraphs 
+(g)(1)(i) through (g)(1)(iii) of this AD for accomplishing the 
+actions are acceptable for the corresponding requirements of this 
+paragraph provided that the related investigative and corrective 
+actions are done at the applicable times specified in paragraph 
+1.E., ``Compliance,'' of the applicable service information 
+specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this AD, 
+including applicable repetitive inspection intervals, except as 
+required by paragraphs (i)(1) and (i)(2) of this AD. Thereafter 
+repeat the inspections of the restored and repaired areas at the 
+applicable compliance time specified in paragraph 1.E., 
+``Compliance,'' of Tables 3, 4A, 4B, 4C, 4D, and 5 of the applicable 
+service information specified in paragraphs (g)(1)(i) through 
+(g)(1)(iii) of this AD.
+
+(i) Exceptions to the Service Information
+
+    (1) Where the applicable service information specified in 
+paragraphs (g)(1)(i) through (g)(1)(iii) of this AD specifies a 
+compliance time relative to the date of the service information, 
+this AD requires compliance within the specified compliance time 
+after the effective date of this AD.
+    (2) If the service information in paragraphs (g)(1)(i) through 
+(g)(1)(iii) of this AD specifies to contact Airbus: At the 
+applicable compliance times specified in paragraph 1.E., 
+``Compliance,'' of the applicable service information specified in 
+paragraphs (g)(1)(i) through (g)(1)(iii) of this AD, repair using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).
+
+(j) Provisions for Certain Airplanes
+
+    Airplanes fitted with a rudder having a serial number (S/N) that 
+is not in the range of S/N TS-1001 through S/N TS-1043 inclusive, S/
+N TS-2001 through S/N TS-2074 inclusive, S/N TS-3000 through S/N TS-
+3525 inclusive, S/N TS-4001 through S/N TS-4170 inclusive, S/N TS-
+6001 through S/N TS-6246 inclusive, or S/N TS-5001 through S/N TS-
+5138 inclusive, are not
+
+[[Page 73963]]
+
+affected by the requirements of paragraphs (g) and (h) of this AD 
+provided that it is determined that no repair has been accomplished 
+as described in the procedures identified in Figure A-GBBAA (Sheet 
+01 and 02) or Figure A-GBCAA (Sheet 02) of the service information 
+specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this AD, as 
+applicable, on the composite side shell panel of that rudder since 
+first installation on an airplane.
+
+(k) Parts Installation Limitations
+
+    As of the effective date of this AD, no person may install, on 
+any airplane, a rudder, unless the record review and thermography 
+inspection specified in paragraph (g) of this AD has been done on 
+that rudder and thereafter all applicable related investigative 
+actions, repetitive inspections, and corrective actions are done as 
+required by paragraph (h) of this AD, except as provided in 
+paragraph (j) of this AD.
+
+(l) Repair Prohibition
+
+    As of the effective date of this AD, no person may accomplish a 
+side shell repair on any rudder using a structure repair manual 
+procedure identified in Figure A-GBBAA (Sheet 01 and 02) or Figure 
+A-GBCAA (Sheet 02) of the service information specified in 
+paragraphs (g)(1)(i) through (g)(1)(iii) of this AD, as applicable, 
+on any airplane.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in this 
+AD, if those actions were performed before the effective date of 
+this AD using the service information in paragraphs (m)(1), (m)(2), 
+and (m)(3) of this AD.
+    (1) Airbus Service Bulletin A330-55-3043, dated February 7, 
+2013.
+    (2) Airbus Service Bulletin A340-55-4039, dated February 7, 
+2013.
+    (3) Airbus Service Bulletin A340-55-5007, dated February 7, 
+2013.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the EASA; 
+or Airbus's EASA DOA. If approved by the DOA, the approval must 
+include the DOA-authorized signature.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0033, dated February 4, 
+2014, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2014-0928.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (p)(3) and (p)(4) of this AD.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-55-3043, Revision 1, dated 
+August 20, 2014.
+    (ii) Airbus Service Bulletin A340-55-4039, Revision 1, dated 
+August 20, 2014.
+    (iii) Airbus Service Bulletin A340-55-5007, Revision 1, dated 
+August 20, 2014.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on November 9, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-29851 Filed 11-25-15; 8:45 am]
+ BILLING CODE 4910-13-P

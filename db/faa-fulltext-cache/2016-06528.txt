@@ -1,0 +1,383 @@
+[Federal Register Volume 81, Number 60 (Tuesday, March 29, 2016)]
+[Rules and Regulations]
+[Pages 17365-17367]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-06528]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-4816; Directorate Identifier 2014-NM-238-AD; 
+Amendment 39-18444; AD 2016-06-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A319, A320, and A321 series airplanes. This AD was 
+prompted by investigations that revealed that the cover seal of the 
+brake dual distribution valve (BDDV) was damaged and did not ensure 
+efficient sealing. This AD requires modifying the BDDVs having certain 
+part numbers; modifying the drain hose of the BDDV; checking for the 
+presence of water, ice, and hydraulic fluid; re-identifying the BDDV; 
+and doing related investigative and corrective actions if necessary. We 
+are issuing this AD to prevent damage to the BDDV, which could lead to 
+water ingestion in the BDDV and freezing of the BDDV in flight, 
+possibly resulting in loss of braking system function after landing.
+
+DATES: This AD is effective May 3, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 3, 2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+4816.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+4816; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A319, 
+A320, and A321 series airplanes. The NPRM published in the Federal 
+Register on November 19, 2015 (80 FR 72401) (``the NPRM'').
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0251R1, dated December 17, 2014 (referred 
+to after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A319, A320, and A321 series airplanes. The MCAI states:
+
+    In 1998, an operator experienced a dual loss of braking systems. 
+Investigation results revealed that the cover seal of the Brake Dual 
+Distribution Valve (BDDV) was damaged and did not ensure the sealing 
+efficiency.
+    This condition, if not corrected, could lead to water ingestion 
+in the BDDV and freezing of the BDDV in flight, possibly resulting 
+in loss of braking system function after landing.
+    [The Directorate General for Civil Aviation] (DGAC) France 
+issued AD 2000-258-146 [http://ad.easa.europa.eu/blob/20002580tb_superseded.pdf/AD_F-2000-258-146_1] [which corresponds to 
+certain actions in FAA AD 2001-15-10, Amendment 39-12344 (66 FR 
+39413, July 31, 2001)] to require modification of the BDDV with a 
+new cover and installation of a draining tube with a cap.
+    Since that French AD was issued, following a new event, Airbus 
+developed a modification of the BDDV drain tube which will leave it 
+open, ensuring continuous drainage of any ingested water, thereby 
+preventing freezing of the brake system.
+    For the reasons described above, EASA issued [another AD] * * *, 
+to require modification of the BDDV drain tube.
+    Since that [EASA] AD was issued, comments were received that 
+indicated a need for correction and clarification. Consequently, 
+this [EASA] AD is revised to add a Note to Table 1 and to amend 
+paragraph (3).
+
+    The modification includes a check for the presence of water, ice, 
+and hydraulic fluid, and related investigative and corrective actions 
+if necessary. Related investigative actions include an inspection for 
+corrosion. Corrective actions include replacing the BDDV. You may 
+examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+4816.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comment received.
+
+[[Page 17366]]
+
+United Airlines had no objection to the NPRM.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD as proposed, except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Airbus Service Bulletin A320-32-1415, dated September 
+2, 2014. The service information describes procedures for modifying the 
+BDDVs having certain part numbers; modifying the drain hose of the 
+BDDV; checking for the presence of water, ice, and hydraulic fluid; re-
+identifying the BDDV; and doing related investigative and corrective 
+actions if necessary. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 953 airplanes of U.S. registry.
+    We also estimate that it would take about 6 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Required parts cost about $421 per product. 
+Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $887,243, or $931 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-06-13 Airbus: Amendment 39-18444. Docket No. FAA-2015-4816; 
+Directorate Identifier 2014-NM-238-AD.
+
+(a) Effective Date
+
+    This AD is effective May 3, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs (c)(1) 
+through (c)(3) of this AD, certificated in any category, all 
+manufacturer serial numbers, except those on which Airbus 
+Modification 26925 has been embodied in production.
+    (1) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (2) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (3) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear.
+
+(e) Reason
+
+    This AD was prompted by investigations that revealed that the 
+cover seal of the BDDV was damaged and did not ensure efficient 
+sealing. We are issuing this AD to prevent damage to the BDDV, which 
+could lead to water ingestion in the BDDV and freezing of the BDDV 
+in flight, possibly resulting in loss of braking system function 
+after landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Modification and Re-Identification
+
+    Within 24 months after the effective date of this AD, modify the 
+BDDV having a part number listed in the column ``Old Part Number'' 
+in table 1 to paragraph (g) of this AD; modify the drain hose of the 
+affected BDDV; check for the presence of water, ice, and hydraulic 
+fluid; and re-identify the BDDV to the corresponding part number, as 
+applicable, as listed as ``New Part Number'' in table 1 to paragraph 
+(g) of this AD; and do all applicable related investigative and 
+corrective actions; in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-32-1415, dated 
+September 2, 2014. Do all applicable related investigative and 
+corrective actions before further flight.
+
+ Table 1 to Paragraph (g) of This AD--BDDV Part Number Re-Identification
+------------------------------------------------------------------------
+          Old part number                      New part number
+------------------------------------------------------------------------
+             A25434006-3                       A25434006-3000
+           A25434005-101                       A25434005-1010
+           A25434005-201                       A25434005-2010
+           A25434005-301                       A25434005-3010
+           A25434005-401                       A25434005-4010
+           A25434006-101                       A25434006-1010
+------------------------------------------------------------------------
+
+
+    Note 1 to table 1 to paragraph (g) of this AD:  The part number 
+listed in table 1 to paragraph (g) of this AD can have an ``A'' or 
+``B'' suffix, which is an indication of the amendment level of the 
+BDDV. This does not affect compliance with this AD.
+
+(h) Parts Installation Limitations
+
+    As of the applicable time specified in paragraph (h)(1) or 
+(h)(2) of this AD, no person may install a BDDV having a part number 
+listed as ``Old Part Number'' in table 1 to paragraph (g) of this 
+AD, on any airplane.
+    (1) For any airplane that, on the effective date of this AD, has 
+a BDDV installed with a part number listed as ``Old Part Number'' in 
+table 1 to paragraph (g) of this AD: After modification of the 
+airplane, as required by paragraph (g) of this AD.
+
+[[Page 17367]]
+
+    (2) For any airplane that, on the effective date of this AD, has 
+a BDDV installed with a part number listed as ``New Part Number'' in 
+table 1 to paragraph (g) of this AD, or has a BDDV installed with a 
+part number not listed in table 1 to paragraph (g) of this AD: As of 
+the effective date of this AD.
+
+(i) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(j) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+EASA Airworthiness Directive 2014-0251R1, dated December 17, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2015-4816.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-32-1415, dated September 2, 
+2014.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on March 16, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-06528 Filed 3-28-16; 8:45 am]
+ BILLING CODE 4910-13-P

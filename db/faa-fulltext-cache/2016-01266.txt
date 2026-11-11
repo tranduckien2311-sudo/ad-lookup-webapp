@@ -1,0 +1,335 @@
+[Federal Register Volume 81, Number 16 (Tuesday, January 26, 2016)]
+[Rules and Regulations]
+[Pages 4172-4174]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-01266]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-2983; Directorate Identifier 2015-NE-20-AD; 
+Amendment 39-18383; AD 2016-02-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International S.A. Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+CFM International S.A. (CFM) CFM56-5B series turbofan engines. This AD 
+was prompted by a corrected lifing analysis by the engine manufacturer 
+that shows the need to identify an initial and repetitive inspection 
+threshold for certain part number (P/N) turbine rear frames (TRFs). 
+This AD requires initial and repetitive inspections of certain P/N TRFs 
+on the low-pressure turbine (LPT) frame assembly. We are issuing this 
+AD to prevent failure of the TRF on the LPT frame assembly, which could 
+lead to engine separation, damage to the engine, and damage to the 
+airplane.
+
+DATES: This AD is effective March 1, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 1, 
+2016.
+
+ADDRESSES: For service information identified in this AD, contact CFM 
+International Inc., Aviation Operations Center, 1 Neumann Way, M/D Room 
+285, Cincinnati, OH 45125; phone: 877-432-3272; fax: 877-432-3329; 
+email: [email protected]. You may view this service 
+information at the FAA, Engine & Propeller Directorate, 1200 District 
+Avenue, Burlington, MA. For information on the availability of this 
+material at the FAA, call 781-238-7125. It is also available on the 
+Internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2015-2983.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+2983; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (phone: 800-647-
+5527) is Document Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kyle Gustafson, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 1200 
+District Avenue, Burlington, MA 01803; phone: 781-238-7183; fax: 781-
+238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain CFM CFM56-5B series 
+turbofan engines. The NPRM published in the Federal Register on October 
+2, 2015 (80 FR 59672). The NPRM was prompted by a corrected lifing 
+analysis by the engine manufacturer that shows the need to identify an 
+initial and repetitive inspection threshold for certain P/N TRFs. The 
+NPRM proposed to require initial and repetitive inspections of certain 
+P/N TRFs on the LPT frame assembly. We are issuing this AD to correct 
+the unsafe condition on these products.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM (80 FR 59672, October 2, 
+2015) or on the determination of the cost to the public.
+
+Clarification to the Repetitive Inspection Requirements
+
+    We have revised the Compliance, paragraph (e) of this AD, to 
+clarify the repetitive inspection requirements for when the initial 
+inspection is done prior to the initial inspection threshold.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD as proposed except for the 
+changes described above. We have determined that the changes described 
+above are minor changes, as they:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 59672, October 2, 2015) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 59672, October 2, 2015).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed CFM Service Bulletin (SB) No. CFM56-5B S/B 72-0850, 
+dated December 19, 2012, which describes procedures for inspecting the 
+TRF. This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+final rule.
+
+Other Related Service Information
+
+    We also reviewed CFM SB No. CFM56-5B S/B 72-0308. Operators subject 
+to this AD are required to follow different initial and repetitive 
+inspection intervals depending on whether CFM SB No. CFM56-5B S/B 72-
+0308 has been applied.
+
+Costs of Compliance
+
+    We estimate that this AD affects about 94 engines installed on 
+airplanes of U.S. registry. We also estimate that it will take about 3 
+hours per engine to do the inspection. The average labor rate is $85 
+per hour. Based on these figures, we estimate the cost of this AD on 
+U.S. operators to be $23,970.
+
+Authority for this Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority
+
+[[Page 4173]]
+
+because it addresses an unsafe condition that is likely to exist or 
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for parthttp//www.continentalsanantonio.com 
+39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+    2016-02-04 CFM International S.A.: Amendment 39-18383; Docket 
+No. FAA-2015-2893; Directorate Identifier 2015-NE-20-AD.
+
+(a) Effective Date
+
+    This AD is effective March 1, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to CFM International S.A. (CFM) CFM56-5B engines 
+with turbine rear frame (TRF), part number (P/N) 338-102-907-0 or P/
+N 338-102-908-0, installed.
+
+(d) Unsafe Condition
+
+    This AD was prompted by a corrected lifing analysis by the 
+engine manufacturer that shows the need for an initial and 
+repetitive inspection of certain P/N TRFs on the low-pressure 
+turbine (LPT) frame assembly. We are issuing this AD to prevent 
+failure of the TRF on the LPT frame assembly, which could lead to 
+engine separation, damage to the engine, and damage to the airplane.
+
+(e) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+    (1) For Engines that have Applied CFM Service Bulletin (SB) No. 
+CFM56-5B S/B 72-0308:
+    (i) Prior to accumulating 25,000 cycles since new (CSN) on the 
+TRF of the LPT frame assembly or within 150 cycles after the 
+effective date of this AD, whichever occurs later, perform an 
+initial eddy current inspection (ECI) or a fluorescent penetrant 
+inspection (FPI) of the TRF mount struts on the LPT assembly.
+    (ii) For engines with unknown CSN on the TRF of the LPT frame 
+assembly, perform the initial inspection required by this AD within 
+150 cycles-in-service (CIS) after the effective date of this AD.
+    (iii) Use paragraph 3.B. in the Accomplishment Instructions of 
+CFM SB No. CFM56-5B S/B 72-0850, dated December 19, 2012, to do the 
+ECI and paragraph 3.C. in the Accomplishment Instructions of CFM SB 
+No. CFM56-5B S/B 72-0850, to do the FPI. Do not include TRF mount 
+strut crack lengths towards the cumulative crack length after the 
+cracks are repaired.
+    (iv) If no cracks are found on any of the three TRF mount 
+struts, repeat the inspection within 1,670 cycles since last 
+inspection (CSLI) or prior to accumulating 25,000 CSN on the TRF of 
+the LPT assembly, whichever occurs later.
+    (v) If the cumulative length of all cracks found at any TRF 
+mount strut location is less than 0.20 inches, repeat the inspection 
+within 1,670 cycles CSLI.
+    (vi) If the cumulative length of cracks found at any TRF mount 
+strut location is greater than or equal to 0.20 inches, but less 
+than 0.25 inches, repeat the inspection within 280 CSLI.
+    (vii) If the cumulative length of cracks found at any TRF mount 
+strut location is 0.25 inches or greater, replace the TRF with a 
+part eligible for installation before further flight.
+    (2) For Engines that have Not Applied CFM SB No. CFM56-5B S/B 
+72-0308:
+    (i) Prior to accumulating 32,000 CSN on the TRF of the LPT frame 
+assembly or within 150 cycles after the effective date of this AD, 
+whichever occurs later, perform an initial ECI or FPI of the TRF 
+mount struts on the LPT frame assembly.
+    (ii) For engines with unknown CSN on the TRF of the LPT frame 
+assembly, perform the initial inspection required by this AD within 
+150 CIS after the effective date of this AD.
+    (iii) Use paragraph 3.B. in the Accomplishment Instructions of 
+CFM SB No. CFM56-5B S/B 72-0850, dated December 19, 2012, to do the 
+ECI and paragraph 3.C. in the Accomplishment Instructions of CFM SB 
+No. CFM56-5B S/B 72-0850, to do the FPI. Do not include TRF mount 
+strut crack lengths towards the cumulative crack length after the 
+cracks are repaired.
+    (iv) If no cracks are found on any of the three TRF mount 
+struts, repeat the inspection within 2,500 CSLI or prior to 
+accumulating 32,000 CSN on the TRF of the LPT assembly, whichever 
+occurs later.
+    (v) If the cumulative length of cracks found at any TRF mount 
+strut location is less than 0.20 inches, repeat the inspection 
+within 2,500 CSLI.
+    (vi) If the cumulative length of cracks found at any TRF mount 
+strut location is greater than or equal to 0.20 inches and less than 
+0.25 inches, repeat the inspection within 370 CSLI.
+    (vii) If the cumulative length of cracks found at any TRF mount 
+strut location is 0.25 inches or greater, replace the TRF with a 
+part eligible for installation before further flight.
+
+(f) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, FAA, may approve AMOCs 
+for this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request. You may email your request to: [email protected].
+
+(g) Related Information
+
+    (1) For more information about this AD, contact Kyle Gustafson, 
+Aerospace Engineer, Engine Certification Office, FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA 01803; 
+phone: 781-238-7183; fax: 781-238-7199; email: 
+[email protected].
+    (2) CFM SB No. CFM56-5B S/B 72-0308, which is not incorporated 
+by reference in this AD, can be obtained from CFM, using the contact 
+information in paragraph (h)(4) of this AD.
+
+(h) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+March 1, 2016.
+    (i) CFM International S. A. (CFM) Service Bulletin No. CFM56-5B 
+S/B 72-0850, dated December 19, 2012.
+    (ii) Reserved.
+    (4) For CFM service information identified in this AD, contact 
+CFM International Inc., Aviation Operations Center, 1 Neumann Way, 
+M/D Room 285, Cincinnati, OH 45125; phone: 877-432-3272; fax: 877-
+432-3329; email: [email protected].
+    (5) You may view this service information at the FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA. For 
+information on the availability of this material at the FAA, call 
+781-238-7125.
+    (6) You may view this service information at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call
+
+[[Page 4174]]
+
+202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on January 14, 2016.
+Gaetano Sciortino,
+Acting Directorate Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2016-01266 Filed 1-25-16; 8:45 am]
+ BILLING CODE 4910-13-P

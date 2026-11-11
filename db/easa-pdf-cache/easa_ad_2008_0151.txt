@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2008-0151 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2008-0151 Date: 05 August 2008 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : AIRBUS A318, A319, A320 and A321 aircraft TCDS Number : EASA.A.064 Foreign AD : Not applicable Supersedure : None Equipment / Furnishings – Cockpit Door Latch / Striker Assembly –
+
+ATA 25 Modification / Replacement
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) AIRBUS A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232,
+
+Applicability: A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aircraft, all serial numbers, if equipped with cockpit door electrical latch/striker assembly Part Number (P/N) AR4714-1 or AR4714-3. An A320 aircraft experienced an event where it was not possible to open the reinforced cockpit door, even after power had been removed from the aircraft. Investigation has identified that the cockpit door latch/striker assembly may have overheated, causing permanent internal damage prior to being electrically isolated by the internal thermal fuse. This condition, in case of a rapid decompression in the cockpit, would prevent the necessary unlocking/opening of the door, which may lead to failure of the airplane structure. To prevent this, an improved strike package/door bolting system, including a Polymer Positive Temperature Coefficient (PPTC) element (overheat protection)
+
+Reason: was introduced by Airbus Modification 35219 in production and modification 35218 (Service Bulletin A320-25-1444) in-service. The PPTC is a resettable thermistor and is installed on the frame of the electrically-operated cockpit door latch/striker assembly. The in-service implementation of this modification was originally managed by an Airbus campaign but the rate of installation by operators has not met the expected timescales, making mandatory action necessary to address this. For the reasons described above, this AD requires the installation of improved cockpit door latch/striker assemblies. EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2008-0151
+
+Effective Date: 19 August 2008 Required as indicated, unless accomplished previously: (1) Not later than 31 March 2009, replace the P/N AR4714-1 and AR4714-3 Required Action(s) cockpit door latch/striker assemblies with modified units in accordance with and Compliance Airbus SB A320-25-1444 (Modification 35218). Time(s): (2) After 31 March 2009, no person shall install P/N AR4714-1 or AR4714-3 cockpit door latch/striker assemblies on any aircraft. AIRBUS SB A320-25-1444 original issue dated 29 April 2005, Revision 1 dated 19 July 2005, or Revision 2 dated 01 August 2006.
+
+Ref. Publications: The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD. 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 20 August 2007 as PAD 07-150 for consultation until 17 September 2007. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Airworthiness Remarks : Directives, Safety Management & Research Section, Certification Directorate, EASA; E-mail ADs@easa.europa.eu 4. For any questions concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAS, E-mail: account.airworth-eas@airbus.com. EASA Form 110 Page 2/2

@@ -1,0 +1,232 @@
+[Federal Register Volume 67, Number 157 (Wednesday, August 14, 2002)]
+[Rules and Regulations]
+[Pages 52860-52861]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 02-20515]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2001-NE-37-AD; Amendment 39-12857; AD 2002-16-18]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International CFM56-5B and -7B 
+Series Turbofan Engines
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), that 
+is applicable to CFM International (CFMI) CFM56-5B and -7B series 
+turbofan engines. This amendment requires retirement of stage 2 low 
+pressure turbine (LPT) nozzle segments and stage 3 LPT nozzle segments, 
+listed in Table 1 of this AD, from service before accumulating 25,000 
+cycles-since-new (CSN) or at the next LPT module shop visit when either 
+stage 2 LPT nozzle segments or stage 3 LPT nozzle segments are exposed, 
+whichever occurs first. This amendment also requires installation of 
+new design (either new or reworked) nozzle segments, that will aid in 
+containment of the LPT rotor in the event of LPT shaft failure. This 
+amendment is prompted by a report of an LPT shaft failure caused by a 
+hydromechanical unit (HMU) malfunction that induced a higher than 
+anticipated LPT rotor overspeed. The actions specified by this AD are 
+intended to aid in containment of the LPT rotor in the event of LPT 
+shaft failure, which could result in uncontained engine failure and 
+damage to the airplane.
+
+DATES: Effective September 18, 2002.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from CFM International, Technical Publications Department, 1 
+Neumann Way, Cincinnati, OH 45215; telephone (513) 552-2800; fax (513) 
+552-2816.
+
+FOR FURTHER INFORMATION CONTACT: James Rosa, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine and Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803-5299; telephone (781) 238-
+7152; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an AD that is 
+applicable to CFMI CFM56-5B and -7B series turbofan engines was 
+published in the Federal Register on April 4, 2002 (67 FR 16069). That 
+action proposed to require retirement of stage 2 LPT nozzle segments 
+and stage 3 LPT nozzle segments, listed in Table 1 of that proposed AD, 
+from service before accumulating 25,000 cycles-since-new (CSN), or by 
+October 31, 2008, whichever occurs earlier.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Remove Compliance Date
+
+    Three commenters request that the compliance date of October 31, 
+2008, be removed. This date would not provide enough engine operating 
+time to reach scheduled major maintenance when the affected parts would 
+be exposed.
+    The FAA agrees. The alternate AD compliance requirement of retiring 
+stage 2 LPT nozzle segments and stage 3 LPT nozzle segments from 
+service before accumulating 25,000 CSN meets the manufacturer's removal 
+criteria. In addition, the FAA wishes to clarify that compliance with 
+this AD is required before accumulating 25,000 CSN or at the next LPT 
+module shop visit when either stage 2 LPT nozzle segments or stage 3 
+LPT nozzle segments are exposed, whichever occurs first.
+    After careful review of the available data, including the comments 
+noted above, the FAA has determined that air safety and the public 
+interest require the adoption of the rule with the changes described 
+previously. The FAA has determined that these changes will neither 
+increase the economic burden on any operator nor increase the scope of 
+the AD.
+
+[[Page 52861]]
+
+Economic Analysis
+
+    There are approximately 3,187 CFMI CFM56-5B and -7B series engines 
+of the affected design in the worldwide fleet. The FAA estimates that 
+910 engines installed on airplanes of U.S. registry would be affected 
+by this AD. The FAA also estimates that it would take approximately 10 
+work hours per engine to perform the actions, and that the average 
+labor rate is $60 per work hour. Required parts would cost 
+approximately $34,984 per engine. Based on these figures, the total 
+cost of the AD on U.S. operators is estimated to be $32,381,440.
+
+Regulatory Analysis
+
+    This final rule does not have federalism implications, as defined 
+in Executive Order 13132, because it would not have a substantial 
+direct effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Accordingly, 
+the FAA has not consulted with state authorities prior to publication 
+of this final rule.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under the DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+by contacting the Rules Docket at the location provided under the 
+caption ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec. 39.13  [Amended]
+
+    2. Section 39.13 is amended by adding a new airworthiness directive 
+to read as follows:
+
+2002-16-18  CFM International: Amendment 39-12857. Docket No. 2001-
+NE-37-AD.
+
+Applicability
+
+    This airworthiness directive (AD) is applicable to CFM 
+International (CFMI) CFM56-5B and -7B series turbofan engines. These 
+engines are installed on, but not limited to Boeing 737-600, -700, -
+800, and -900; and Airbus A319, A320, and A321 airplanes.
+
+    Note 1: This AD applies to each engine identified in the 
+preceding applicability provision, regardless of whether it has been 
+modified, altered, or repaired in the area subject to the 
+requirements of this AD. For engines that have been modified, 
+altered, or repaired so that the performance of the requirements of 
+this AD is affected, the owner/operator must request approval for an 
+alternative method of compliance in accordance with paragraph (c) of 
+this AD. The request should include an assessment of the effect of 
+the modification, alteration, or repair on the unsafe condition 
+addressed by this AD; and, if the unsafe condition has not been 
+eliminated, the request should include specific proposed actions to 
+address it.
+
+Compliance
+
+    Compliance with this AD is required before accumulating 25,000 
+cycles-since-new (CSN) on the parts listed in Table 1 of this AD, or 
+at the next low pressure turbine (LPT) module shop visit when either 
+stage 2 LPT nozzle segments or stage 3 LPT nozzle segments are 
+exposed, whichever occurs first, unless already done.
+    To aid in containment of the LPT rotor in the event of LPT shaft 
+failure, which could result in uncontained engine failure and damage 
+to the airplane, do the following:
+    (a) Retire from service stage 2 LPT nozzle segments and stage 3 
+LPT nozzle segments listed in the following Table 1, and install new 
+design (either new or reworked) nozzle segments:
+
+   Table 1.--Stage 2 and Stage 3 LPT Nozzle Segment Part Numbers To Be
+                                 Retired
+------------------------------------------------------------------------
+        Nozzle segments                        Part numbers
+------------------------------------------------------------------------
+(1) Stage 2....................  338-109-104-0, 338-109-105-0, 338-109-
+                                  106-0, 338-109-204-0, 338-109-205-0,
+                                  338-109-206-0, 338-109-304-0, 338-109-
+                                  305-0, 338-109-306-0.
+(2) Stage 3....................  338-109-702-0, 338-109-802-0.
+------------------------------------------------------------------------
+
+    (b) Information on reworking stage 2 LPT nozzle segments and 
+stage 3 LPT nozzle segments, listed in Table 1 of this AD, can be 
+found in CFM International Service Bulletins (SB's) 72-0328, dated 
+May 25, 2000, for CFM56-5 series engines, and SB 72-0241, dated May 
+25, 2000, for CFM56-7 series engines.
+
+Alternative Methods of Compliance
+
+    (c) An alternative method of compliance or adjustment of the 
+compliance time that provides an acceptable level of safety may be 
+used if approved by the Manager, Engine Certification Office (ECO). 
+Operators must submit their request through an appropriate FAA 
+Principal Maintenance Inspector, who may add comments and then send 
+it to the Manager, ECO.
+
+    Note 2: Information concerning the existence of approved 
+alternative methods of compliance with this airworthiness directive, 
+if any, may be obtained from the ECO.
+
+Special Flight Permits
+
+    (d) Special flight permits may be issued in accordance with 
+Secs. 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 
+21.197 and 21.199) to operate the airplane to a location where the 
+requirements of this AD can be done.
+
+Effective Date
+
+    (e) This amendment becomes effective on September 18, 2002.
+
+    Issued in Burlington, Massachusetts, on August 5, 2002.
+Jay J. Pardee,
+Manager, Engine and Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 02-20515 Filed 8-13-02; 8:45 am]
+BILLING CODE 4910-13-P

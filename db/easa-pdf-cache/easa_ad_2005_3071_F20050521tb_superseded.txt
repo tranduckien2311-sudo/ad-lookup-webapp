@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page : AIRWORTHINESS DIRECTIVE April 13, 2005 1/2 B No F-2005-052 R1 Direction This
+
+Airworthiness Directive is published by the DGAC on behalf of Translation of « Consigne de Navigabilité » of same EASA, Airworthiness Authority of the State of Design for the affected générale number. product, part or appliance. In case of difficulty, reference should be made to de l’aviation the French issue. civile France No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive, GSAC unless otherwise agreed with the Authority of the State of Registry. publication Corresponding foreign
+
+Airworthiness Directive(s):
+
+Airworthiness Directive(s) replaced: Not applicable F-2005-052 original issue Person in charge of airworthiness: Type(s): AIRBUS SAS A318, A319, A320 and A321 aircraft D Type certificate(s) No. 180 TCDS No 180 ATA chapter: Subject: E 25 103VU panel - Hinge pin inspection D 1. EFFECTIVITY : E AIRBUS A318, A319, A320 and A321, all certified models, all manufactured serial numbers (MSN) up to MSN 2396 inclusive except MSN 2104, 2143, 2248, 2270, 2347, 2366, 2372, 2376, 2384, 2386, 2388, 2390, 2391, 2393 and 2395. S 2. REASONS : R Cut wires and wires damaged by heat effect have been found in several 103VU panels. Those electrical damages are caused by a contact between the horizontal hinge pin and adjacent electrical harness. Investigation revealed that the manufacturing process used to secure the pin by deforming the hinge ends or E the hinge pin ends does not prevent the pin translatory motion. To avoid harness damage and subsequent failure on the associated systems, this
+
+Airworthiness Directive (AD) mandates an inspection of the 103VU panel hinge pin. P Revision 1 of this AD reduces the effectivity. U 3. MANDATORY ACTIONS AND COMPLIANCE TIMES: Unless already accomplished, within 600 flight hours from the effective date of this AD at original issue, inspect the 103 VU panel hinge pin and apply all necessary corrective actions following the instructions S given in paragraph 4.2 of AIRBUS All Operators Telex (AOT) 25A1440 dated February 15, 2005. 4. REFERENCE PUBLICATION: AIRBUS AOT 25A1440 dated February 15, 2005 Any later approved revision of this document is acceptable. n/GH
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE April 13, 2005 2/2 B No F-2005-052 R1 5. EFFECTIVE DATES : Original issue : April 09, 2005 Revision 1 : Upon receipt from April 13, 2005. 6. REMARK: For questions concerning the technical content of the requirements of this AD, contact: AIRB US SAS - Office of Airworthiness - EAS - Fax: 33 5 61 93 44 51. D 7. APPROVAL: This AD Revision is approved under EASA reference No 2005-3071 dated April 05, 2005. E D E S R E P U S

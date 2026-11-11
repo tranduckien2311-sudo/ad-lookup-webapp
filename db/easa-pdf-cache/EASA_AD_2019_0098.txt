@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0098
+
+Airworthiness Directive
+
+AD No.: 2019-0098
+
+Issued: 03 May 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A321 aeroplanes
+
+Effective Date: 17 May 2019 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 53 – Fuselage – Forward Emergency Exit Door Doubler – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial number (MSN) as listed in Appendix 1 of this AD.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A320-53-1408. Affected part: Internal upper doublers of the forward emergency exit doors (#2 position), left-hand (LH) and right-hand (RH) side.
+
+Reason: It has been determined that, following erroneous positioning of affected parts on the skin of the fuselage during pre-drill phase, unwanted drill-starts could exist on affected parts. This condition, if not detected and corrected, could affect the fatigue properties of an affected part, thereby reducing the structural integrity of the fuselage. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0098 To address this potential unsafe condition, Airbus identified the affected aeroplanes and issued the SB to provide inspection instructions. For the reasons described above, this AD requires a one-time detailed inspection (DET) of the affected parts, both LH and RH sides, and, depending on findings, accomplishment of a high-frequency eddy current (HFEC) inspection and applicable corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) Before exceeding 17 000 flight cycles since aeroplane first flight, accomplish a DET of each affected part in accordance with the instructions of the SB. Corrective Action(s): (2) If, during the DET as required by paragraph (1) of this AD, any drill start is found on an affected part, before next flight, accomplish the applicable corrective actions in accordance with the instructions of the SB. Reporting: (3) Unless already done as required by paragraph (2) of this AD, within 90 days after the inspection as required by paragraph (1) of this AD, report the inspection results to Airbus. Using the instructions of the SB is an acceptable method to comply with this reporting requirement.
+
+Ref. Publications: Airbus SB A320-53-1408 original issue dated 10 January 2019. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 02 April 2019 as PAD 19-055, and re-posted on 03 April 2019 as PAD 19-055R1, for consultation until 30 April 2019. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0098 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Appendix 1 Affected MSN 5169 5795 6056 6221 6326 6468 6579 5409 5860 6063 6222 6334 6473 6581 5418 5876 6070 6227 6344 6475 6585 5438 5890 6083 6233 6346 6479 6592 5523 5904 6089 6236 6359 6482 6599 5584 5909 6097 6241 6366 6488 6615 5594 5913 6119 6245 6371 6490 6652 5603 5916 6122 6252 6385 6495 6657 5606 5932 6130 6253 6390 6499 6658 5633 5936 6138 6256 6395 6504 6667 5636 5939 6146 6261 6399 6508 6678 5644 5946 6152 6266 6407 6517 6682 5647 5960 6159 6268 6409 6523 6687 5655 5969 6165 6273 6420 6531 6691 5696 5983 6175 6276 6432 6532 6693 5705 5994 6185 6294 6435 6534 6698 5720 6013 6194 6303 6440 6545 6701 5747 6027 6201 6305 6448 6558 5758 6042 6210 6313 6451 6560 5770 6049 6219 6319 6461 6569 Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

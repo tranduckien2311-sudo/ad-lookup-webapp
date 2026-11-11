@@ -1,0 +1,648 @@
+[Federal Register Volume 84, Number 33 (Tuesday, February 19, 2019)]
+[Rules and Regulations]
+[Pages 4686-4692]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-02558]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0556; Product Identifier 2018-NM-015-AD; Amendment 
+39- 19555; AD 2019-03-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A318 series; Model A319 series; Model A320 series; and 
+Model A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. 
+This AD was prompted by reports of multiple angle of attack (AoA) probe 
+blockages. This AD requires all elevator
+
+[[Page 4687]]
+
+aileron computer (ELAC) units to be upgraded with new software, or 
+replaced with upgraded units. We are issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective March 26, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 26, 
+2019.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 44 51; email [email protected]; 
+internet http://www.airbus.com. You may view this service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0556.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0556; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus SAS Model A318 
+series; Model A319 series; Model A320 series; and Model A321-111, -112, 
+-131, -211, -212, -213, -231, and -232 airplanes. The NPRM published in 
+the Federal Register on June 20, 2018 (83 FR 28555). The NPRM was 
+prompted by reports of multiple AoA probe blockages. The NPRM proposed 
+to require all ELAC units to be upgraded with new software, or replaced 
+with upgraded units.
+    We are issuing this AD to address the blockage of AoA probes. This 
+condition, if not corrected, could lead to undue activation of the AoA 
+protection, reverting to manual control of the airplane, which, under 
+specific circumstances, could result in reduced control of the 
+airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2018-0007R1, dated January 19, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A318 series; Model 
+A319 series; Model A320 series; and Model A321-111, -112, -131, -211, -
+212, -213, -231, and -232 airplanes. The MCAI states:
+
+    Occurrences were reported on multiple Angle of Attack (AoA) 
+probes blockages. Investigation results indicated the need for 
+improved AoA monitoring in order to detect cases of AoA probe 
+blockage.
+    This condition, if not corrected, could lead to undue activation 
+of the AoA protection, reverting to manual control of the aeroplane, 
+which, under specific circumstances, could result in reduced control 
+of the aeroplane.
+    To address this potential unsafe condition, Airbus developed 
+several Elevator Aileron Computer (ELAC) standards, i.e. ELAC units 
+loaded with a specific software Part Number (P/N), and EASA issued 
+AD 2017-0008, retaining part of the requirements of EASA AD 2015-
+0088R1 [which corresponds to FAA AD 2016-17-03, Amendment 39-18616 
+(81 FR 55358, August 19, 2016) (``AD 2016-17-03'')], which was 
+superseded, and requiring an upgrade of all ELAC units with ELAC L99 
+standard, which introduces improvements in the AoA probe monitoring 
+for Current Engine Option (CEO) aeroplanes, and also incorporates 
+flight control aspects for New Engine Option (NEO) aeroplanes.
+    Since that [EASA] AD was issued, it was determined that 
+clarification is necessary for the Parts Installation requirements, 
+and some typographical (P/N) errors were detected. This [EASA] AD is 
+revised accordingly.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0556.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment. United Airlines had no 
+objection to the NPRM.
+
+Request To Reduce the Compliance Time for Model A320 Airplanes
+
+    Air Line Pilots Association, International (ALPA), requested that 
+the compliance time for the Model A320 series airplanes be reduced from 
+36 to 24 months, the same as for the other models. ALPA contended that 
+36 months is not an appropriate compliance time for the A320 because 
+the severity of risk for the A320 is not less than for the other 
+models.
+    We disagree with the request to reduce the compliance time for 
+Model A320 series airplanes. We concur with the compliance time 
+established by EASA, the state of design authority, which is based on 
+the overall risk to the fleet, including the severity of the failure 
+and the likelihood of the failure's occurrence. In conjunction with the 
+manufacturer, we have determined that the compliance time for each 
+airplane model will accommodate the time necessary to ensure the 
+availability of required parts and maintain an adequate level of 
+safety. However, if additional data are presented that would justify a 
+shorter compliance time, we may consider further rulemaking on this 
+issue. We have not changed this AD regarding this request.
+
+Request To Modify Paragraphs (h)(3) and (j)(2)(iii) of the Proposed AD
+
+    Airbus SAS requested that we modify paragraphs (h)(3) and 
+(j)(2)(iii) of the proposed AD to read: ``The data-loadable ELAC unit 
+is checked by two different means: by the line replaceable unit (LRU) 
+identification and either the label call up or the Alpha Call Up ELA 1 
+and ELA 2 (if available).'' We infer that this change was requested to 
+clarify the meaning of those paragraphs.
+    We agree to clarify the specified paragraphs. We have changed 
+paragraphs (h)(3) and (j)(2)(iii) of this AD accordingly.
+
+Request To Clarify Paragraph (h)(3) of the Proposed AD
+
+    Delta Air Lines (DAL) asked whether paragraph (h)(3) of the 
+proposed AD, as written, actually requires two separate methods of 
+identification for the same unit. DAL explained that not all ELAC units 
+are labeled with the software load, that the labels were added later by 
+Thales, and that there is no guarantee they will be present on the LRU.
+    We agree to clarify that there are two methods of checking the 
+data-loadable ELAC unit. As stated previously, we have revised 
+paragraph (h)(3) of this AD and paragraph (j)(2)(iii) of this AD to 
+make this more clear.
+
+[[Page 4688]]
+
+Request To Clarify Paragraphs (h) and (j)(2) of the Proposed AD
+
+    Alaska Airlines asked whether the four conditions given in 
+paragraphs (h)(1) through (h)(4) and (j)(2)(i) through (j)(2)(iv) of 
+the proposed AD apply only to the ``modification instructions approved 
+by an EASA Design Organization Approval (DOA) (other than Airbus SAS's 
+EASA DOA),'' or also to the modification instructions approved by other 
+authorities, as mentioned earlier in the paragraph.
+    We agree to clarify this aspect of the specified paragraphs. We 
+have revised the language regarding the applicability of the four 
+conditions given in paragraphs (h)(1) through (h)(4) and (j)(2)(i) 
+through (j)(2)(iv) of this AD to clarify that these paragraphs are 
+applicable only to the modification instructions that are part of an 
+FAA-accepted maintenance or inspection program, as applicable. We have 
+revised the language in paragraphs (h) and (j)(2) of this AD 
+accordingly.
+
+Request To Address Onboard Data Loading of ELAC Units
+
+    Alaska Airlines requested that we modify paragraph (j) of the 
+proposed AD to address onboard loading of ELAC units with later 
+software. Alaska Airlines also requested that we revise paragraphs 
+(j)(2) and (j)(4) of the proposed AD to specify that those paragraphs 
+are not applicable to onboard data loading, since they refer to 
+removing and re-installing the data-loadable ELAC units. We infer that 
+Alaska Airlines wants us to revise paragraphs (j)(2)(ii) and (j)(2)(iv) 
+of the proposed AD because those paragraphs refer to the removal and 
+re-installation of the data-loadable ELAC units.
+    We agree. We have modified paragraph (j) of this AD to include 
+onboard loading of ELAC software and revised paragraphs (j)(2)(ii) and 
+(j)(2)(iv) of this AD as requested.
+
+Request To Remove DOA Signature Requirement
+
+    DAL requested that the DOA signature requirement be removed from 
+the proposed AD and that the previously established statement ``The 
+technical content of this document is approved under the authority of 
+Design Organization Approval No. EASA 21J.031'' used by the DOA in 
+Airbus SAS service bulletins be deemed sufficient. DAL observed that if 
+this document requires a signature, it is deviating from the previously 
+established standard and will generate unnecessary alternative method 
+of compliance (AMOC) requests from the administrator and/or unnecessary 
+revisions of service bulletins by the manufacturer. DAL also stated 
+that requiring a signature does not enhance or affect the safety of the 
+aircraft.
+    We disagree with DAL's request to remove the DOA signature 
+requirement. The FAA specifies the DOA signature requirement in the 
+``contacting the manufacturer'' paragraph (such as paragraph (m)(2) of 
+this AD) because in the past some U.S. operators misinterpreted that 
+any document, including an email message, received from a manufacturer 
+or the manufacturer's customer support organization was considered DOA 
+approved. Under the EASA DOA system, the only documents officially 
+recognized as EASA-approved are those accompanied by the DOA-authorized 
+signature. For the purpose of compliance with the ``contacting the 
+manufacturer'' paragraph in FAA ADs, the FAA can only recognize the 
+documents approved by the FAA, or EASA, or those authorized to make an 
+EASA approval under the DOA system.
+    We also disagree with the request to use the statement ``The 
+technical content of this document is approved under the authority of 
+Design Organization Approval No. EASA 21J.031.'' This statement only 
+recognizes that the service bulletin was originally approved under the 
+authority of the DOA system as approved by EASA, and does not provide 
+any process for an operator to receive other approved instructions from 
+either EASA or the authorized DOA as a means of compliance to the FAA 
+AD. The current ``contacting the manufacturer'' paragraph and the 
+requirement for the DOA-authorized signature actually results in fewer 
+AMOCs because of the FAA's recognition of both EASA and specific EASA 
+DOA approvals under the ``contacting the manufacturer'' paragraph in 
+this and other FAA ADs. We have not changed this AD in this regard.
+
+Request To Clarify Paragraph (h)(1) of the Proposed AD
+
+    DAL questioned the purpose of the condition stated in paragraph 
+(h)(1) of the proposed AD, i.e., that there should be no warning or 
+maintenance message before the ELAC unit is removed. DAL stated that if 
+an electronic centralized aircraft monitor (ECAM) has a maintenance 
+message or ECAM warning that is not airworthy, as a standard procedure 
+the aircraft will be repaired and put back in an airworthy condition 
+prior to return to service.
+    We agree that clarification is necessary. The intent of the 
+condition stated in paragraph (h)(1) of this AD is to ensure that all 
+pre-existing conditions have been fixed before uploading new software 
+to an ELAC unit or installing a unit with updated software. We have not 
+changed this AD regarding this question.
+
+Request To Clarify Whether Certain Steps Are Required for Compliance
+
+    DAL questioned whether all of the steps in Airbus SAS Aircraft 
+Maintenance Manual (AMM) Tasks 27-93-34-000-001-A and 27-93-34-400-001-
+A, such as accessing the access doors using an adjustable platform, are 
+required for compliance.
+    We agree to clarify. The conditions in paragraphs (h)(2), (h)(4), 
+(j)(2)(ii), and (j)(2)(iv) of this AD specified that actions must be 
+done as specified in the AMM tasks. We did not intend the accessing and 
+closing instructions of the AMM tasks to be required for compliance. We 
+have revised paragraphs (h)(2), (h)(4), (j)(2)(ii), and (j)(2)(iv) of 
+this AD accordingly.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule with the changes described previously and minor 
+editorial changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-27-1263, dated April 28, 
+2017; and Service Bulletin A320-27-1264, dated April 28, 2017. The 
+service information describes the software upgrade or replacement of 
+ELAC units. These documents are distinct because they apply to 
+different airplane configurations.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 1,250 airplanes of U.S. registry.
+
+[[Page 4689]]
+
+    We estimate the following costs to comply with this AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+             Action                      Labor cost                   Parts cost                   Cost per product            Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Modification....................  Up to 3 work-hours x $85  Up to $7,970..................  Up to $8,225.................  Up to $10,281,250.
+                                   per hour = $255.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2019-03-03 Airbus SAS: Amendment 39-19555; Docket No. FAA-2018-0556; 
+Product Identifier 2018-NM-015-AD.
+
+(a) Effective Date
+
+    This AD is effective March 26, 2019.
+
+(b) Affected ADs
+
+    This AD affects AD 2016-17-03, Amendment 39-18616 (81 FR 55358, 
+August 19, 2016) (``AD 2016-17-03'').
+
+(c) Applicability
+
+    This AD applies to the Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (c)(4) of this AD, certificated in any 
+category, all manufacturer serial numbers.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, 
+and -271N airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Reason
+
+    This AD was prompted by reports of multiple angle of attack 
+(AoA) probe blockages. We are issuing this AD to address the 
+blockage of AoA probes. This condition, if not corrected, could lead 
+to undue activation of the AoA protection, reverting to manual 
+control of the airplane, which, under specific circumstances, could 
+result in reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of Affected Elevator Aileron Computer (ELAC) Units
+
+    For the purposes of this AD, ELAC units having a part number (P/
+N) listed in table 1 to paragraphs (g), (h), and (i) of this AD are 
+hereafter referred to as ``affected ELAC units'' in this AD.
+BILLING CODE 4910-13-P
+
+[[Page 4690]]
+
+[GRAPHIC] [TIFF OMITTED] TR19FE19.014
+
+
+[[Page 4691]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR19FE19.015
+
+(h) Required Actions
+
+    For airplanes with ELAC unit part numbers listed in table 1 to 
+paragraphs (g), (h), and (i) of this AD: Within the applicable 
+compliance times defined in figure 1 to paragraph (h) of this AD, 
+upgrade each ELAC unit by uploading L99 software part number (P/N) 
+3945129111 or by replacing the existing ELAC unit with an ELAC L99 
+P/N 3945128217 unit in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-27-1263, dated April 
+28, 2017, or Airbus Service Bulletin A320-27-1264, dated April 28, 
+2017, as applicable; or in accordance with modification instructions 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA, or by the European Aviation Safety Agency (EASA), or by 
+Airbus SAS's EASA Design Organization Approval (DOA); or in 
+accordance with modification instructions that are part of an FAA-
+accepted maintenance or inspection program, as applicable, provided 
+the conditions specified in paragraphs (h)(1) through (h)(4) of this 
+AD are met. If approved by the DOA, the approval must include the 
+DOA-authorized signature.
+    (1) Absence of electronic centralized aircraft monitor (ECAM) 
+warning or maintenance message related to ELAC, before the data-
+loadable ELAC unit is removed and software is loaded.
+    (2) The data-loadable ELAC unit is removed as specified in 
+Airbus SAS Aircraft Maintenance Manual (AMM) Task 27-93-34-000-001-
+A. The access and closing instructions identified in AMM Task 27-93-
+34-000-001-A are not required by this AD. Operators may perform 
+those actions in accordance with instructions that are part of an 
+FAA-accepted maintenance or inspection program, as applicable.
+    (3) The data-loadable ELAC unit is checked by two different 
+means: by the line replaceable unit (LRU) identification and either 
+the label call-up or the Alpha Call-up ELA 1 and ELA 2 (if 
+available).
+    (4) After the software is loaded, the data-loadable ELAC unit is 
+re-installed as specified in Airbus SAS AMM Task 27-93-34-400-001-A. 
+The access and closing instructions identified in AMM Task 27-93-34-
+400-001-A are not required by this AD. Operators may perform those 
+actions in accordance with instructions that are part of an FAA-
+accepted maintenance or inspection program, as applicable.
+    Note 1 to paragraph (h) of this AD: Non-data-loadable ELAC L99 
+P/N 3945128217 units are fully interchangeable and mixable with 
+data-loadable ELAC L99 P/N 3945129100 units with L99 software P/N 
+3945129111 loaded.
+[GRAPHIC] [TIFF OMITTED] TR19FE19.016
+
+BILLING CODE 4910-13-C
+
+(i) Parts Installation Prohibition
+
+    (1) For airplanes with ELAC units listed in table 1 to 
+paragraphs (g), (h), and (i) of this AD: After modification of an 
+airplane as required by paragraph (h) of this AD, do not install any 
+affected ELAC unit on that airplane.
+    (2) For airplanes with ELAC units not listed in table 1 to 
+paragraphs (g), (h), and (i) of this AD: From the effective date of 
+this AD, do not install any affected ELAC unit on that airplane.
+
+(j) Installation or Onboard Loading of Later Software Versions
+
+    Installation or onboard loading of an ELAC unit with a software 
+standard above L99 is equal to compliance with the requirements of 
+paragraph (h) of this AD, provided the conditions specified in 
+paragraphs (j)(1) and (j)(2) of this AD are met.
+    (1) The ELAC unit part number is approved by the Manager, 
+International Section, Transport Standards Branch, FAA; or EASA; or 
+Airbus SAS's EASA DOA.
+    (2) The installation is accomplished in accordance with 
+modification instructions approved by the Manager, International 
+Section, Transport Standards Branch, FAA, or by EASA, or by Airbus 
+SAS's EASA DOA; or in accordance with modification instructions that 
+are part of an FAA-accepted maintenance or inspection program, as 
+applicable, provided the conditions in paragraphs (j)(2)(i) through 
+(j)(2)(iv) of this AD are met.
+    (i) Absence of ECAM warning or maintenance message related to 
+ELAC, before the data-loadable ELAC unit is removed and software is 
+loaded.
+    (ii) The data-loadable ELAC unit is removed as specified in 
+Airbus SAS AMM Task 27-93-34-000-001-A. This does not apply to the 
+onboard loading of ELAC units. The access and closing instructions 
+identified in AMM Task 27-93-34-000-001-A are not required by this 
+AD. Operators may perform those actions in accordance with 
+instructions that are part of an FAA-accepted maintenance or 
+inspection program, as applicable.
+    (iii) The data-loadable ELAC unit is checked by two different 
+means: by the LRU identification and either the label call-up or the 
+Alpha Call-up ELA 1 and ELA 2 (if available).
+    (iv) After the software is loaded, the data-loadable ELAC unit 
+is re-installed as
+
+[[Page 4692]]
+
+specified in Airbus SAS AMM Task 27-93-34-400-001-A. This does not 
+apply to the onboard loading of ELAC units. The access and closing 
+instructions identified in AMM Task 27-93-34-400-001-A are not 
+required by this AD. Operators may perform those actions in 
+accordance with instructions that are part of an FAA-accepted 
+maintenance or inspection program, as applicable.
+
+(k) Airplanes Not Affected by the Requirements of Paragraph (h) of This 
+AD
+
+    (1) An airplane on which any modification (mod) specified in 
+paragraphs (k)(1)(i) and (k)(1)(ii) of this AD was embodied in 
+production is not affected by the requirements of paragraph (h) of 
+this AD, provided it is determined that no affected ELAC unit is 
+installed as of the effective date of this AD.
+    (i) Airbus SAS mod 161843 (installation of data-loadable ELAC P/
+N 3945129100 unit with L99 software P/N 3945129111) or mod 159979 
+(installation of non-data-loadable ELAC L99 P/N 3945128217 unit).
+    (ii) Airbus SAS mod 160577 (installation of data-loadable ELAC 
+P/N 3945129100 unit with L101 software P/N 3945129112) or mod 162042 
+(installation of non-data-loadable ELAC L101 P/N 3945128218 unit).
+    (2) An airplane that has been modified as specified in the 
+service information identified in paragraph (k)(2)(i), (k)(2)(ii), 
+or (k)(2)(iii) of this AD is not affected by the requirements of 
+paragraph (h) of this AD, provided it is determined that no affected 
+ELAC unit is installed as of the effective date of this AD.
+    (i) Airbus Service Bulletin A320-27-1267, dated September 27, 
+2017 (installation of non-data-loadable ELAC L101 P/N 3945128218 
+unit).
+    (ii) Airbus Service Bulletin A320-27-1268, dated September 27, 
+2017 (installation of data-loadable ELAC P/N 3945129100 unit with 
+L101 software P/N 3945129112 for A320 NEO).
+    (iii) Airbus Service Bulletin A320-27-1269, dated September 27, 
+2017 (installation of data-loadable ELAC P/N 3945129100 unit with 
+L101 software P/N 3945129112).
+
+(l) Terminating Action for AD 2016-17-03
+
+    Accomplishing the actions required by paragraph (h) of this AD 
+or complying with the provisions specified in paragraph (k) of this 
+AD terminates all requirements of AD 2016-17-03.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (n)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0007R1, dated January 19, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0556.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-27-1263, dated April 28, 2017.
+    (ii) Airbus Service Bulletin A320-27-1264, dated April 28, 2017.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; internet 
+http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+    Issued in Des Moines, Washington, on February 1, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-02558 Filed 2-15-19; 8:45 am]
+ BILLING CODE 4910-13-P

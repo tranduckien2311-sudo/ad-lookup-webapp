@@ -1,0 +1,49 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2024-0130
+
+Airworthiness Directive
+
+AD No.: 2024-0130
+
+Issued: 08 July 2024 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines d
+
+Effective Date: 22 July 2024 e TCDS Number(s): EASA.E.042 Foreign AD: Not applicable d
+
+Supersedure: None
+
+ATA 72 – Engine – Low Pressure Compressor Blades – Removal from Service e s
+
+Manufacturer(s): Rolls-Royce plc (RR) r
+
+Applicability: RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, all serial numbers. e These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes. p
+
+Definitions: For the purpose of this AD, the following definitions apply: u The NMSB: RR Alert Non-Modification Service Bulletin (NMSB) RB.211−72−AL053. Where in this AD, reference is made to an RR modification (mod), Service Bulletin (SB) or NMSB S with an ‘A’ (Alert) in the number, it should be recognised that an earlier or later revision may not have that ‘A’. This kind of change does not effectively alter the publication references for the purpose of this AD. Affected part: Low pressure (LP) compressor blades, having Part Number (P/N) FW23741, FW23643, FW23744, KH23403, KH23404, and a serial number listed in Appendix 1 of the NMSB, Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2024-0130 except those which passed the inspection in accordance with the instructions of RR NMSB RB.211−72−L104. Serviceable part: LP compressor blades eligible for installation, which are not an affected part. The applicable ARC date: Issue date of the Authorised Release Certificate (ARC) after the maintenance intervention, during which the non-conforming repair was accomplished, as defined in Appendix 1 of the NMSB. The CRDAA: ‘Cycles to Removal from Date of Applicable ARC’ as defined in Appendix 1 of the NMSB. Groups: Group 1 engines are those having an affected part installed. Group 2 engines are those which do not have an affected part installed.
+
+Reason: d A batch of LP compressor blades have been exposed in service to erroneous repair interventions, resulting in blade configuration deviating from the approved design. These LP compressor blades, non-conforming to the approved design, are prone to blade cracking. e This condition, if not corrected, could lead to multiple structural failures of the affected parts, potentially resulting in increased risk of in-flight shut down (IFSD), uncontrolled fire or uncontained d high energy debris release and consequent potential unsafe condition at aeroplane level. To address this potential unsafe condition, RR issued the NMSB, identifying the batch of affected e parts and providing instructions to remove these parts from service. RR also issued NMSB RB.211−72−L104 providing in-shop (re)inspection instructions allowing release back to service of the s affected parts passing the inspection criteria. r For the reasons described above, this AD requires removal from service of each affected part.
+
+Required Action(s) and Compliance Time(s): e Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: p In service / Removal from Service: (1) For Group 1 engines: Before exceeding the CRDAA limit accumulated since the applicable ARC date, as defined in Appendix 1 of the NMSB, or within the compliance time as defined in Table 1 u of this AD, whichever occurs later, remove each affected part from service in accordance with the instructions of the NMSB. S Table 1 – Compliance Time for Removal of Affected Parts A or B, whichever occurs first after the effective date of this AD A Within 30 flight cycles (FC) B 30 days Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2024-0130 In-Shop: (2) From the effective date of this AD, before release to service of a Group 1 engine after a shop visit, where the remaining CRDAA life of an affected part is 100 FC or less, replace each affected part with a serviceable part in accordance with the instructions of the NMSB (see Note 1 of this AD). Note 1: After replacing each affected part on a Group 1 engine with serviceable parts, that engine is considered to be a Group 2 engine. Parts Installation: (3) For Group 1 and Group 2 engines: From the effective date of this AD, do not install an affected part on any engine.
+
+Ref. Publications: RR NMSB RB.211−72−AL053 original issue dated 01 May 2024. d RR NMSB RB.211−72−L104 original issue dated 01 May 2024. e The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD. d
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. e 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD s with Request for Comments, postponing the public consultation process until after publication. All interested persons may send their comments, referencing the AD Number, to the E-mail r address specified in below Remark 3, prior to 05 August 2024. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. e 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. p 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on u a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or S may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2024-0130 If you do not have a designated representative or Rolls-Royce Care account, please contact Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424, or send an email through http://www.rolls-royce.com/contact/civil_team.jsp identifying the correspondence as being related to
+
+Airworthiness Directives. d e d e s r e p u S Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

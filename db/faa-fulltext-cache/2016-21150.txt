@@ -1,0 +1,854 @@
+[Federal Register Volume 81, Number 188 (Wednesday, September 28, 2016)]
+[Rules and Regulations]
+[Pages 66518-66523]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-21150]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0828; Directorate Identifier 2012-NM-036-AD; 
+Amendment 39-18637; AD 2016-18-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2009-15-17 for 
+certain Airbus Model A330-200 and -300 series airplanes; and Model 
+A340-200 and -300 series airplanes. AD 2009-15-17 required an 
+inspection for damage to the protective treatments or any corrosion of 
+all main landing gear (MLG) bogie beams, and application of protective 
+treatments if no damage or corrosion was found. If any damage or 
+corrosion was found, corrective action followed by the application of 
+protective treatments was required. This new AD continues to require 
+inspections for damage to the protective treatments or any corrosion of 
+all MLG bogie beams, application of protective treatments, and 
+corrective action if necessary. This new AD also requires modification 
+of the MLG bogie beams, which terminates the repetitive inspections for 
+any modified bogie beam. This new AD allows optional methods of 
+compliance for certain actions, and adds Airbus Model A330-200 
+Freighter series airplanes to the applicability. This new AD revises 
+the compliance times and adds a one-time inspection for airplanes that 
+were inspected too early. This AD was prompted by reports of thin paint 
+coats and paint degradation on enhanced main landing gear (MLG) bogie 
+beams, as well as reports that some airplanes have been inspected too 
+early and not re-inspected as needed. We are issuing this AD to detect 
+and correct damage or corrosion of the MLG bogie beams, which could 
+cause a runway excursion event, bogie beam detachment from the 
+airplane, or MLG collapse, and could result in damage to the airplane 
+and injury to the occupants.
+
+DATES: This AD is effective November 2, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 2, 
+2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+September 2, 2009 (74 FR 37523, July 29, 2009).
+
+ADDRESSES: For Airbus service information identified in this final 
+rule, contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 
+36 96; fax: +33 5 61 93 45 80; email: [email protected]; Internet: http://www.airbus.com. For Messier-Dowty 
+service information identified in this final rule, contact Messier-
+Dowty: Messier Services Americas, Customer Support Center, 45360 Severn 
+Way, Sterling, VA 20166-8910; telephone: 703-450-8233; fax: 703-404-
+1621; Internet: https://techpubs.services/messier-dowty.com. You may 
+view this referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, WA. For information on the 
+availability of this material at the FAA, call 425-227-1221. It is also 
+available on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2013-0828.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0828; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone: 800-
+647-
+
+[[Page 66519]]
+
+5527) is Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1138; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a second supplemental notice of proposed rulemaking 
+(SNPRM) to amend 14 CFR part 39 to supersede AD 2009-15-17, Amendment 
+39-15980 (74 FR 37523, July 29, 2009) (``AD 2009-15-17''). AD 2009-15-
+17 applied to certain Airbus Model A330-200 and -300 series airplanes, 
+and Model A340-200 and -300 series airplanes. The second SNPRM 
+published in the Federal Register on February 5, 2016 (81 FR 6185) 
+(``the second SNPRM''). We preceded the second SNPRM with the first 
+SNPRM, which was published in the Federal Register on March 5, 2014 (79 
+FR 12414) (``the first SNPRM''). We preceded the first SNPRM with a 
+notice of proposed rulemaking (NPRM) that published in the Federal 
+Register on September 25, 2013 (78 FR 58978) (``the NPRM''). The NPRM 
+was prompted by reports of thin paint coats and paint degradation on 
+enhanced MLG bogie beams. The NPRM proposed to continue to require 
+inspections for damage to the protective treatments or any corrosion of 
+all MLG bogie beams, application of protective treatments, and 
+corrective action if necessary. The NPRM also proposed to require 
+modification of the MLG bogie beams, which would terminate the 
+repetitive inspections for any modified bogie beam. In addition, the 
+NPRM proposed to allow optional methods of compliance for certain 
+actions, and to add Airbus Model A330-200 Freighter series airplanes to 
+the applicability. The first SNPRM proposed to revise the compliance 
+times and add a one-time inspection for airplanes that were inspected 
+too early. The second SNPRM proposed to clarify the required actions 
+and the specific configurations to which the actions must be applied. 
+We are issuing this AD to detect and correct damage or corrosion of the 
+MLG bogie beams, which could cause a runway excursion event, bogie beam 
+detachment from the airplane, or MLG collapse, and could result in 
+damage to the airplane and injury to the occupants.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2013-0267R1, dated March 4, 2014; corrected May 8, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200 Freighter, -200, and -300 series airplanes; and Model A340-200 
+and -300 series airplanes. The MCAI states:
+
+    The operator of an A330 aeroplane (which has a common bogie beam 
+with the A340) reported a fracture of the Right Hand (RH) main 
+landing gear (MLG) bogie beam, which occurred while turning during 
+low speed taxi maneuvers. The bogie fractured aft of the pivot point 
+and remained attached to the sliding tube by the brake torque 
+reaction rods. After this RH bogie failure, the aeroplane continued 
+for approximately 40 meters on the forks of the sliding member 
+before coming to rest on the taxiway.
+    The investigations revealed that this event was due to corrosion 
+pitting occurring on the bore of the bogie beam.
+    This condition, if not detected and corrected, could lead to a 
+runway excursion event or to detachment of the bogie from the 
+aeroplane, or to MLG collapse, possibly resulting in damage to the 
+aeroplane and injury to the occupants.
+    To enable early detection and repair of corrosion of the 
+internal surfaces, EASA issued EASA AD 2007-0314 to require a one-
+time inspection of all MLG bogie beams, except Enhanced MLG bogie 
+beams, and the reporting of the results to Airbus. EASA AD 2007-0314 
+was revised and later superseded by EASA AD 2008-0093, reducing the 
+inspection threshold period.
+    The results of subsequent investigations showed thin paint coats 
+and paint degradation, confirmed as well on Enhanced MLG bogie 
+beams. To address this additional concern, EASA issued AD 2011-0141 
+[which was not mandated by the FAA], retaining the requirements of 
+EASA AD 2008-0093, which was superseded, to require a one-time 
+visual inspection of all MLG bogie beams, including a visual 
+examination of the internal diameter for corrosion or damage to 
+protective treatments of the bogie beam and measurement of the paint 
+thickness on the internal bore, accomplishment of the applicable 
+corrective actions and a modification of the MLG bogie beam to 
+improve the coat paint application method, and application of 
+corrosion protection.
+    Prompted by in-service requests, EASA issued EASA AD 2012-0015 
+retaining the requirements of EASA AD 2011-0141, which was 
+superseded, and introducing repetitive inspections of the MLG bogie 
+beams, which allows extension of the compliance time for the MLG 
+bogie beam modification from 15 years to 21 years. Modification of a 
+MLG bogie beam constitutes terminating action for the repetitive 
+inspections for that MLG bogie beam.
+    Reports on inspection results provided to Airbus show that some 
+aeroplanes were initially inspected too early (before 4 years and 6 
+months since aeroplane first flight with bogie beam installed/
+installed after overhaul) and have not been re-inspected as 
+required.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2012-0015, which is superseded, and 
+redefines the inspection periodicity. This [EASA] AD also introduces 
+a specific one-time inspection for aeroplanes that have been 
+inspected too early.
+    Prompted by operator comments, this [EASA] AD is revised to 
+clarify the required actions and the specific configurations to 
+which the actions must be applied. Appendix 1 of this [EASA] AD has 
+been amended accordingly.
+    This [EASA] AD is republished to editorially correct paragraph 
+(4).
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0828.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the second 
+SNPRM and the FAA's response.
+
+Request To Revise the Applicability of the Second SNPRM
+
+    American Airlines (AAL) requested that we revise the applicability 
+of the proposed AD (in the second SNPRM) to exclude airplanes with MLG 
+bogie beams that have had Airbus modification 58896 embodied in-
+service, as specified in Airbus Service Bulletin A330-32-3237. AAL 
+pointed out that paragraph (c) of the proposed AD (in the second SNPRM) 
+does not reflect MLG bogie beams that were modified in-service.
+    We disagree with the request to revise the applicability of the 
+proposed AD (in the second SNPRM). Paragraph (k) of this AD 
+specifically requires inspection, repair, modification, and re-
+identification of the MLG bogie beams. However, paragraph (f) of this 
+AD states that actions already done need not be repeated. If an 
+operator has already accomplished the actions required by paragraph (k) 
+of this AD before the effective date of this AD, then the modified 
+airplane is already in compliance with the corresponding requirements 
+of this AD. We have not made any changes to this AD in this regard.
+
+Additional Changes Made in This AD
+
+    We have revised paragraph (m)(1) of this AD to remove reference to 
+paragraph (g) of this AD; the reporting requirement specified in 
+paragraph (m)(1) of this AD is required only for the
+
+[[Page 66520]]
+
+inspection required by paragraph (k) of this AD.
+    We have also revised paragraph (m)(2) of this AD to reference the 
+correct service information for reporting inspection findings for the 
+inspection required by paragraph (h) of this AD.
+
+Conclusion
+
+    We reviewed the available data, including the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+second SNPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the second SNPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information.
+     Airbus Service Bulletin A330-32-3225, Revision 02, 
+including Appendix 1, dated October 26, 2012. This service information 
+describes procedures for cleaning the internal bore and accomplishing a 
+detailed inspection of internal surfaces of the left-hand (LH) and 
+right-hand (RH) MLG bogie beams to detect any damage to the protective 
+treatments and any corrosion, and measuring the paint thickness on the 
+internal bore.
+     Airbus Service Bulletin A330-32-3237, Revision 01, 
+including Reporting Sheet, dated October 14, 2011. This service 
+information describes procedures for a detailed inspection for damage 
+and corrosion of the internal bores of the LH and RH MLG bogie beam and 
+repair, as well as modification and re-identification.
+     Airbus Service Bulletin A340-32-4268, Revision 03, 
+including Appendix 1, dated January 14, 2013. This service information 
+describes procedures for cleaning the internal bore and accomplishing a 
+detailed inspection of internal surfaces of the LH and RH MLG bogie 
+beams to detect any damage to the protective treatments and any 
+corrosion, and measuring the paint thickness on the internal bore.
+     Airbus Service Bulletin A340-32-4279, Revision 01, 
+including Reporting Sheet, dated October 14, 2011. This service 
+information describes procedures for a detailed inspection for damage 
+and corrosion of the internal bores of the LH and RH MLG bogie beam, 
+repair, modification, and reidentification.
+    Messier-Bugatti-Dowty has issued the following service information.
+     Messier-Dowty Service Bulletin A33/34-32-278, Revision 1, 
+including Appendixes A and B, dated August 24, 2011. This service 
+information describes procedures for inspections for damage and 
+corrosion to the protective treatment of the internal bores of the LH 
+and RH MLG bogie beam, and repairs.
+     Messier-Dowty Service Bulletin A33/34-32-283, Revision 1, 
+including Appendix A, dated July 10, 2012. This service information 
+describes procedures for modification of the LH and RH MLG bogie beams.
+     Messier-Dowty Service Bulletin A33/34-32-284, Revision 1, 
+including Appendix A, dated July 10, 2012. This service information 
+describes procedures for modification of the LH and RH MLG bogie beams.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 51 airplanes of U.S. registry.
+    We also estimate that it takes about 34 work-hours per product to 
+comply with this AD, and 1 work-hour per product for reporting. The 
+average labor rate is $85 per work-hour. Based on these figures, we 
+estimate the cost of this AD on U.S. operators to be $151,725, or 
+$2,975 per product.
+    In addition, we estimate that any necessary follow-on actions would 
+take about 10 work-hours at a labor rate of $85 per work-hour, for a 
+cost of $850 per product. We have no way of determining the number of 
+aircraft that might need these actions.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a current valid OMB control number. The control 
+number for the collection of information required by this AD is 2120-
+0056. The paperwork cost associated with this AD has been detailed in 
+the Costs of Compliance section of this document and includes time for 
+reviewing instructions, as well as completing and reviewing the 
+collection of information. Therefore, all reporting associated with 
+this AD is mandatory. Comments concerning the accuracy of this burden 
+and suggestions for reducing the burden should be directed to the FAA 
+at 800 Independence Ave. SW., Washington, DC 20591, ATTN: Information 
+Collection Clearance Officer, AES-200.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+[[Page 66521]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2009-15-17, Amendment 39-15980 (74 FR 37523, July 29, 2009), and adding 
+the following new AD:
+
+2016-18-07 Airbus: Amendment 39-18637; Docket No. FAA-2013-0828; 
+Directorate Identifier 2012-NM-036-AD.
+
+(a) Effective Date
+
+    This AD is effective November 2, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2009-15-17, Amendment 39-15980 (74 FR 37523, 
+July 29, 2009) (``AD 2009-15-17'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs (c)(1) 
+and (c)(2) of this AD, certificated in any category, all 
+manufacturer serial numbers (MSN), except those on which Airbus 
+modification 58896 has been embodied in production.
+    (1) Airbus Model A330-223F, -243F, -201, -202, -203, -223, -243, 
+-301, -302, -303, -321, -322, -323, -341, -342, and -343 airplanes.
+    (2) Airbus Model A340-211, -212, -213, -311, -312, and -313 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+gear.
+
+(e) Reason
+
+    This AD was prompted by reports of thin paint coats and paint 
+degradation on enhanced main landing gear (MLG) bogie beams, as well 
+as reports that some airplanes have been inspected too early and not 
+re-inspected as needed. We are issuing this AD to detect and correct 
+damage or corrosion of the MLG bogie beams, which could cause a 
+runway excursion event, bogie beam detachment from the airplane, or 
+MLG collapse, and could result in damage to the airplane and injury 
+to the occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections for Certain Airplane Configurations
+
+    For airplanes equipped with basic MLG (201252 series), or growth 
+MLG (201490 series): After 54 months at the earliest, but no later 
+than 72 months since the left-hand (LH) or right-hand (RH) MLG bogie 
+beam's first flight on an airplane, or since its first flight on an 
+airplane after overhaul, as applicable, clean the internal bore and 
+accomplish a detailed inspection of internal surfaces of the LH and 
+RH MLG bogie beams to detect any damage to the protective treatments 
+and any corrosion, and measure the paint thickness on the internal 
+bore, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A330-32-3225, Revision 02, including Appendix 1, 
+dated October 26, 2012; or Airbus Service Bulletin A340-32-4268, 
+Revision 03, including Appendix 1, dated January 14, 2013; as 
+applicable. Repeat the inspections thereafter at intervals not less 
+than 54 months, but not exceeding 72 months, after the most recent 
+inspection. During overhaul of a MLG bogie beam, any corrosion will 
+be removed, which means that the first inspection after overhaul of 
+that MLG bogie beam, as required by this paragraph, is between 54 
+months and 72 months since its first flight on an airplane after 
+overhaul.
+
+(h) One-Time Detailed Inspection for Certain Airplane Configurations
+
+    For airplanes equipped with basic MLG (201252 series), or growth 
+MLG (201490 series) having a LH or RH MLG bogie beam that has 
+already exceeded 72 months since its first flight on an airplane, or 
+since its first flight on an airplane after overhaul, as applicable, 
+as of the effective date of this AD; and that has been inspected as 
+specified in Airbus Service Bulletin A330-32-3225 or Airbus Service 
+Bulletin A340-32-4268, as applicable, earlier than 54 months since 
+first flight of the affected MLG bogie beam on an airplane, or since 
+its first flight on an airplane after its most recent overhaul, as 
+applicable: Within the applicable compliance time indicated in 
+paragraphs (h)(1) through (h)(4) of this AD, clean the internal bore 
+and accomplish a detailed inspection of the internal surfaces of the 
+LH and RH MLG bogie beams to detect any damage to the protective 
+treatments and any corrosion, and measure the paint thickness on the 
+internal bore, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-32-3225, Revision 02, including 
+Appendix 1, dated October 26, 2012; or Airbus Service Bulletin A340-
+32-4268, Revision 03, including Appendix 1, dated January 14, 2013; 
+as applicable.
+    (1) For MLG bogie beams having the configurations specified in 
+both paragraphs (h)(1)(i) and (h)(1)(ii) of this AD: Do the detailed 
+inspection specified in the introductory text of paragraph (h) of 
+this AD within 9 months after the effective date of this AD.
+    (i) MLG bogie beams having between 72 and 120 months since first 
+flight on an airplane, or since the MLG bogie beam's first flight on 
+an airplane after the MLG bogie beam's most recent overhaul, as 
+applicable.
+    (ii) MLG bogie beams on which the first inspection was done 
+after 51 months and before 54 months since first flight of the MLG 
+bogie beam on an airplane, or since the MLG bogie beam's first 
+flight on an airplane after the MLG bogie beam's most recent 
+overhaul, as applicable.
+    (2) For MLG bogie beams having the configurations specified in 
+both paragraphs (h)(2)(i) and (h)(2)(ii) of this AD: Do the detailed 
+inspection specified in the introductory text of paragraph (h) of 
+this AD within 3 months after the effective date of this AD.
+    (i) MLG bogie beams having between 72 and 120 months since first 
+flight on an airplane, or since the MLG bogie beam's first flight on 
+an airplane after the MLG bogie beam's most recent overhaul, as 
+applicable.
+    (ii) MLG bogie beams on which the first inspection was done 
+after 45 months and before 51 months since first flight of the MLG 
+bogie beam on an airplane, or since the MLG bogie beam's first 
+flight on an airplane after the MLG bogie beam's most recent 
+overhaul, as applicable.
+    (3) For MLG bogie beams having the configurations specified in 
+both paragraphs (h)(3)(i) and (h)(3)(ii) of this AD: Do the detailed 
+inspection specified in the introductory text of paragraph (h) of 
+this AD within 3 months after the effective date of this AD.
+    (i) MLG bogie beams having between 72 and 96 months since first 
+flight on an airplane, or since the MLG bogie beam's first flight on 
+an airplane after the MLG bogie beam's most recent overhaul, as 
+applicable.
+    (ii) MLG bogie beams which have accumulated, at the effective 
+date of this AD, less than 96 months and on which the first 
+inspection was done before 51 months since first flight of the MLG 
+bogie beam on an airplane, or since the MLG bogie beam's first 
+flight on an airplane after the after the MLG bogie beam's most 
+recent overhaul, as applicable.
+    (4) For MLG bogie beams having the configurations specified in 
+both paragraphs (h)(4)(i) and (h)(4)(ii) of this AD: Do the detailed 
+inspection specified in the introductory text of paragraph (h) of 
+this AD within 1 month after the effective date of this AD.
+    (i) MLG bogie beams having between 96 and 120 months since first 
+flight on an airplane, or since the MLG bogie beam's first flight on 
+an airplane after the MLG bogie beam's most recent overhaul, as 
+applicable.
+    (ii) MLG bogie beams which has accumulated, at the effective 
+date of this AD, 96 months or more and on which the first inspection 
+was done before 45 months since first flight of the MLG bogie beam 
+on an airplane, or since the MLG bogie beam's first flight on an 
+airplane after the MLG bogie beam's most recent overhaul, as 
+applicable.
+
+(i) Application of Protective Treatment
+
+    If, during any inspection required by paragraph (g) or (h) of 
+this AD, no damage or corrosion is found: Before further flight, 
+apply the protective treatments to the MLG bogie beam, in accordance 
+with the Accomplishment Instructions of Messier-Dowty Service 
+Bulletin A33/34-32-272, Revision 1, including Appendixes A, B, C, 
+and D, dated September 22, 2008.
+
+(j) Repair and Application of Protective Treatment
+
+    If, during any inspection required by paragraph (g) or (h) of 
+this AD, any damage or corrosion is found: Before further flight, 
+repair and apply the protective treatments to the MLG bogie beam, in 
+accordance with the Accomplishment Instructions of Messier-Dowty 
+Service Bulletin A33/34-32-272, Revision 1, including Appendixes A, 
+B, C, and D, dated September 22, 2008.
+
+[[Page 66522]]
+
+(k) Inspection and Corrective Actions
+
+    For airplanes equipped with basic MLG (201252 series), growth 
+MLG (201490 series), or enhanced MLG (10-210 series): Before the 
+accumulation of 252 total months on an MLG bogie beam, or within 90 
+days after the effective date of this AD, whichever occurs later, do 
+the actions specified in paragraphs (k)(1) and (k)(2) of this AD 
+concurrently and in sequence.
+    (1) Except as provided by paragraph (k)(3) of this AD: Do a 
+detailed inspection for damage and corrosion of the internal bores 
+of the LH and RH MLG bogie beam, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-32-3237 
+or A340-32-4279, both Revision 01, both including Reporting Sheet, 
+both dated October 14, 2011, as applicable. If any damage or 
+corrosion is found, before further flight, repair in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A330-32-
+3237 or A340-32-4279, both Revision 01, both including Reporting 
+Sheet, both dated October 14, 2011, as applicable.
+    (2) Except as provided by paragraph (k)(3) of this AD: Modify 
+and re-identify, as applicable, the LH and RH MLG bogie beams, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-32-3237 or A340-32-4279, both Revision 01, both 
+including Reporting Sheet, both dated October 14, 2011, as 
+applicable.
+    (3) The inspection requirements of paragraph (k)(1) of this AD, 
+and the modification requirements only of paragraph (k)(2) of this 
+AD, do not apply to any MLG bogie beam with a serial number listed 
+in Appendix A of Messier-Dowty Service Bulletin A33/34-32-283 or 
+A33/34-32-284, both Revision 1, both dated July 10, 2012, as 
+applicable.
+
+(l) Optional Methods of Compliance for Certain Airplane Configurations
+
+    Inspections and corrective actions on both MLG bogie beams done 
+in accordance with the instructions of Messier-Dowty Service 
+Bulletin A33/34-32-271, Revision 1, including Appendixes A and B, 
+dated November 16, 2007; or Messier-Dowty Service Bulletin A33/34-
+32-272, Revision 1, including Appendixes A, B, C, and D, dated 
+September 22, 2008; as applicable; are acceptable methods of 
+compliance for the requirements of paragraph (g) of this AD, 
+provided each inspection is accomplished between 54 months and 72 
+months since the first flight of the affected MLG bogie beam on an 
+airplane, or since the MLG bogie beam's first flight after the MLG 
+bogie beam's most recent overhaul, as applicable.
+
+(m) Reporting Requirement
+
+    (1) Submit a report of the findings (both positive and negative) 
+of each inspection required by paragraph (k) of this AD, as 
+applicable, to Airbus, Customer Service Directorate, 1 Rond Point 
+Maurice Bellonte, 31707 Blagnac Cedex, France, using the applicable 
+Reporting Sheet in Airbus Service Bulletin A330-32-3237, Revision 
+01, including Reporting Sheet, dated October 14, 2011; or Airbus 
+Service Bulletin A340-32-4279, Revision 01, including Reporting 
+Sheet, dated October 14, 2011; at the applicable time specified in 
+paragraph (m)(1)(i) or (m)(1)(ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 90 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 90 days after the effective date 
+of this AD.
+    (2) Submit a report of the findings (both positive and negative) 
+of the inspection required by paragraph (h) of this AD to Airbus, 
+Customer Service Directorate, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France, using the applicable Reporting Sheet in 
+Airbus Service Bulletin A330-32-3225, Revision 02, including 
+Appendix 1, dated October 26, 2012; or Airbus Service Bulletin A340-
+32-4268, Revision 03, including Appendix 1, dated January 14, 2013; 
+at the applicable time specified in paragraph (m)(2)(i) or 
+(m)(2)(ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+
+(n) Optional Method of Compliance for Certain Requirements
+
+    (1) Inspections for damage and corrosion to the protective 
+treatment of the internal bores of the LH and RH MLG bogie beam, and 
+repairs, done in accordance with Messier-Dowty Service Bulletin A33/
+34-32-278, Revision 1, including Appendixes A and B, dated August 
+24, 2011, are acceptable methods of compliance with the 
+corresponding requirements of paragraph (k)(1) of this AD.
+    (2) Modification of the LH and RH MLG bogie beams, done in 
+accordance with Messier-Dowty Service Bulletins A33/34-32-283 or 
+A33/34-32-284, both Revision 1, both including Appendix A, both 
+dated July 10, 2012, as applicable, is an acceptable method of 
+compliance with the corresponding requirements of paragraph (k)(2) 
+of this AD.
+
+(o) Optional Terminating Action for Certain Requirements
+
+    Modification of both LH and RH MLG bogie beams on an airplane, 
+done in accordance with paragraph (k) of this AD, or as specified in 
+paragraphs (n)(1) and (n)(2) of this AD, terminates the repetitive 
+inspections required by paragraph (g) of this AD for this airplane.
+
+(p) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the corresponding 
+inspections and corrective actions done on an LH or RH MLG bogie 
+beam required by paragraph (g) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A330-32-3225, dated November 21, 2007; or Revision 1, dated 
+October 30, 2008; provided the inspections and corrective actions 
+were accomplished between 54 months and 72 months since first flight 
+of the affected MLG bogie beam on an airplane, or since its first 
+flight after the MLG bogie beam's most recent overhaul, as 
+applicable. Airbus Service Bulletin A330-32-3225, dated November 21, 
+2007, is not incorporated by reference in this AD. Airbus Mandatory 
+Service Bulletin A330-32-3225, Revision 01, including Appendix 1, 
+dated October 30, 2008, was incorporated by reference in AD 2009-15-
+07.
+    (2) This paragraph provides credit for the corresponding 
+inspections and corrective actions done on an LH or RH MLG bogie 
+beam required by paragraph (g) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus 
+Mandatory Service Bulletin A340-32-4268, dated November 21, 2007; 
+Revision 01, including Appendix 1, dated October 30, 2008; or 
+Revision 02, dated October 26, 2012; provided these inspections and 
+corrective actions were accomplished between 54 months and 72 months 
+since first flight of the affected MLG bogie beam on an airplane, or 
+since its first flight after the MLG bogie beam's most recent 
+overhaul, as applicable. Airbus Service Bulletin A340-32-4268, dated 
+November 21, 2007; and Revision 02, dated October 26, 2012; are not 
+incorporated by reference in this AD. Airbus Mandatory Service 
+Bulletin A340-32-4268, Revision 01, including Appendix 1, dated 
+October 30, 2008, was incorporated by reference in AD 2009-15-17.
+    (3) This paragraph provides credit for the corresponding actions 
+required by paragraph (n)(1) of this AD, if those actions were 
+performed before the effective date of this AD using Messier-Dowty 
+Service Bulletin A33/34-32-271, dated September 13, 2007, which is 
+not incorporated by reference in this AD.
+    (4) This paragraph provides credit for the corresponding actions 
+required by paragraphs (j) and (n)(1) of this AD, if those actions 
+were performed before the effective date of this AD using Messier-
+Dowty Service Bulletin A33/34-32-272, including Appendixes A, B, C, 
+and D, dated November 16, 2007, which is not incorporated by 
+reference in this AD.
+    (5) This paragraph provides credit for the corresponding actions 
+required by paragraphs (k), (m), and (r)(1)(i) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Airbus Service Bulletin A330-32-3237, including Reporting Sheet, 
+dated January 18, 2011.
+    (6) This paragraph provides credit for the corresponding actions 
+required by paragraphs (k), (m), and (r)(1)(i) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Airbus Service Bulletin A340-32-4279, including Reporting Sheet, 
+dated January 18, 2011.
+    (7) This paragraph provides credit for the corresponding actions 
+required by paragraphs (k)(3), (n)(2), (r)(1)(ii), and (r)(1)(iii) 
+of this AD, if those actions were performed before the effective 
+date of this AD using Messier-Dowty Service Bulletin A33/34-32-283, 
+including Appendix A, dated May 11, 2010, which is not incorporated 
+by reference in this AD.
+    (8) This paragraph provides credit for the corresponding actions 
+required by paragraphs (k)(3), (n)(2), (r)(1)(ii), and (r)(1)(iii) 
+of this AD, if those actions were performed before the effective 
+date of this AD
+
+[[Page 66523]]
+
+using Messier-Dowty Service Bulletin A33/34-32-284, including 
+Appendix A, dated May 11, 2010, which is not incorporated by 
+reference in this AD.
+    (9) This paragraph provides credit for the corresponding actions 
+required by paragraphs (n)(1) and (r)(1)(ii) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Messier-Dowty Service Bulletin A33/34-32-278, including Appendixes A 
+and B, dated February 17, 2010, which is not incorporated by 
+reference in this AD.
+
+(q) Clarification of Inspection Compliance Times
+
+    After accomplishment of the one-time detailed inspection 
+required by paragraph (h) of this AD, the repetitive actions 
+required by paragraph (g) of this AD remain applicable, and must be 
+done within the compliance times specified in paragraph (g) of this 
+AD.
+
+(r) Parts Installation Limitations
+
+    (1) After modification of an airplane, as required by paragraph 
+(k) of this AD, or as specified in paragraphs (n)(1) and (n)(2) of 
+this AD, do not install an MLG bogie beam on any airplane unless it 
+is done in compliance with the requirements of paragraph (r)(1)(i), 
+(r)(1)(ii), or (r)(1)(iii) of this AD.
+    (i) The MLG bogie beam has been modified and re-identified in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-32-3237 or A340-32-4279, both Revision 01, both 
+including Reporting Sheet, both dated October 14, 2011, as 
+applicable.
+    (ii) The MLG bogie beam has been inspected and all applicable 
+corrective actions have been done in accordance with the 
+Accomplishment Instructions of Messier-Dowty Service Bulletin A33/
+34-32-278, Revision 1, dated August 24, 2011; and modified in 
+accordance with the Accomplishment Instructions of Messier-Dowty 
+Service Bulletin A33/34-32-283 or A33/34-32-284, both Revision 1, 
+both including Appendix A, both dated July 10, 2012.
+    (iii) The MLG bogie beam has a serial number listed in Appendix 
+A of Messier-Dowty Service Bulletin A33/34-32-283 or A33/34-32-284, 
+both Revision 1, both dated July 10, 2012, as applicable.
+    (2) As of the effective date of this AD, except as specified in 
+paragraph (r)(1) of this AD, installation of an MLG bogie beam on an 
+airplane is allowed, provided that following the installation it is 
+inspected and all applicable repairs and corrective actions have 
+been done in accordance with the requirements of this AD.
+
+(s) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone: 425-227-1138; fax: 425-227-1149. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Reporting Requirements: A federal agency may not conduct or 
+sponsor, and a person is not required to respond to, nor shall a 
+person be subject to a penalty for failure to comply with a 
+collection of information subject to the requirements of the 
+Paperwork Reduction Act unless that collection of information 
+displays a current valid OMB Control Number. The OMB Control Number 
+for this information collection is 2120-0056. Public reporting for 
+this collection of information is estimated to be approximately 5 
+minutes per response, including the time for reviewing instructions, 
+completing and reviewing the collection of information. All 
+responses to this collection of information are mandatory. Comments 
+concerning the accuracy of this burden and suggestions for reducing 
+the burden should be directed to the FAA at: 800 Independence Ave. 
+SW., Washington, DC 20591, Attn: Information Collection Clearance 
+Officer, AES-200.
+
+(t) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) AD 2013-0267R1, dated March 4, 2014; corrected March 8, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2013-0828.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (u)(5), (u)(6), and (u)(7) of this AD.
+
+(u) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+November 2, 2016.
+    (i) Airbus Service Bulletin A330-32-3225, Revision 02, including 
+Appendix 1, dated October 26, 2012.
+    (ii) Airbus Service Bulletin A330-32-3237, Revision 01, 
+including Reporting Sheet, dated October 14, 2011.
+    (iii) Airbus Service Bulletin A340-32-4268, Revision 03, 
+including Appendix 1, dated January 14, 2013.
+    (iv) Airbus Service Bulletin A340-32-4279, Revision 01, 
+including Reporting Sheet, dated October 14, 2011.
+    (v) Messier-Dowty Service Bulletin A33/34-32-278, Revision 1, 
+including Appendixes A and B, dated August 24, 2011.
+    (vi) Messier-Dowty Service Bulletin A33/34-32-283, Revision 1, 
+including Appendix A, dated July 10, 2012.
+    (vii) Messier-Dowty Service Bulletin A33/34-32-284, Revision 1, 
+including Appendix A, dated July 10, 2012.
+    (4) The following service information was approved for IBR on 
+September 2, 2009 (74 FR 37523, July 29, 2009).
+    (i) Messier-Dowty Service Bulletin A33/34-32-271, Revision 1, 
+including Appendixes A and B, dated November 16, 2007.
+    (ii) Messier-Dowty Service Bulletin A33/34-32-272, Revision 1, 
+including Appendixes A, B, C, and D, dated September 22, 2008.
+    (5) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 45 80; email: [email protected]; 
+Internet: http://www.airbus.com.
+    (6) For Messier-Dowty service information identified in this AD, 
+contact Messier-Dowty: Messier Services Americas, Customer Support 
+Center, 45360 Severn Way, Sterling, VA 20166-8910; telephone 703-
+450-8233; fax 703-404-1621; Internet: https://techpubs.services/messier-dowty.com.
+    (7) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (8) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on August 24, 2016.
+John P. Piccola, Jr.,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-21150 Filed 9-27-16; 8:45 am]
+ BILLING CODE 4910-13-P

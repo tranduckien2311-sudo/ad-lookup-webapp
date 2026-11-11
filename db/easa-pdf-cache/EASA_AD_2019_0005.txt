@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0005
+
+Airworthiness Directive
+
+AD No.: 2019-0005
+
+Issued: 14 January 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320 and A321 aeroplanes
+
+Effective Date: 28 January 2019 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 25 – Equipment / Furnishings – Cabin Attendant Seat – Modification
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A320-214, A320-271N, A321-211 and A321-231 aeroplanes, manufacturer serial numbers (MSN) as listed in Appendix 1 of this AD.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A320-25-1BEK and SB A320-25-1BEL, as applicable. Goodrich SB: Goodrich SB 2427-25-001, Goodrich SB 2428-25-001 and Goodrich SB 2431-25-001. Affected part: Cabin attendant seat as identified in the effectivity of Goodrich SB.
+
+Reason: During a test of a new wall partition for cabin attendant seat model 2428, the backrest was found permanently deformed and did not allow the seat pan to return to a full-up position. Investigation results identified that a heat treatment had not been applied on certain backframes, which could lead to permanent deformation of the seat backrest. Page 1 of 4 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0005 This condition, if not corrected, could reduce the escape path through the adjacent exit door in case of evacuation, possibly resulting in injury to aeroplane occupants. To address this potential unsafe condition, Airbus issued the applicable SB, which refer to Goodrich SB, providing instructions to modify affected parts by replacing the backframe, and to add a placard after modification. For the reasons described above, this AD requires modification of the affected parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification(s): (1) Within 24 months after the effective date of this AD, modify each affected part in accordance with the instructions of the applicable SB. Reporting: (2) Within 30 days after modification of an affected part as required by paragraph (1) of this AD, or within 30 days after the effective date of this AD, whichever occurs later, report that action to Airbus. This can be done using the address monitored.retrofit@airbus.com or in accordance with the instructions of the SB.
+
+Ref. Publications: Airbus SB A320-25-1BEK original issue dated 18 November 2016. Airbus SB A320-25-1BEL original issue dated 18 November 2016. Goodrich SB 2427-25-001 revision C dated 21 October 2016. Goodrich SB 2428-25-001 revision D dated 09 November 2016. Goodrich SB 2431-25-001 revision D dated 09 November 2016. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 14 December 2018 as PAD 18-177 for consultation until 11 January 2019. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 4 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0005 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 4 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0005 Appendix 1 List of affected MSN: Airbus SB Aeroplane model Affected MSN 6669 6672 6704 6736 6770 6773 A320-214, 6787 6793 6804 6825 6835 6838 A320-25-1BEK A321-211, 6845 6848 6867 6889 6891 6897 A321-231 6910 6926 6939 6947 6953 6976 A320-25-1BEL A320-271N 6801 Page 4 of 4 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

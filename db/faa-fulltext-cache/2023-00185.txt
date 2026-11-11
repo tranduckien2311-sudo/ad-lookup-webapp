@@ -1,0 +1,233 @@
+[Federal Register Volume 88, Number 8 (Thursday, January 12, 2023)]
+[Rules and Regulations]
+[Pages 1983-1984]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-00185]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-1105; Project Identifier MCAI-2020-01459-T; 
+Amendment 39-22086; AD 2020-25-03R1]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; removal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is removing Airworthiness Directive (AD) 2020-25-03, 
+which applied to all Airbus SAS Model A318, A319, A320, and A321 series 
+airplanes. AD 2020-25-03 required repetitive checks of the pressure 
+gauges to determine the amount of pressure on the inflation reservoir 
+of each emergency escape slide/raft, and applicable corrective actions. 
+AD 2020-25-03 also provided optional terminating action for the 
+repetitive checks. The FAA issued AD 2020-25-03 to address insufficient 
+reservoir pressure in an emergency escape slide/raft, which would 
+prevent the deployment of the emergency escape slide/raft during an 
+emergency, possibly resulting in injury to the occupants. The FAA has 
+determined that AD 2020-25-03 is no longer necessary because the unsafe 
+condition no longer exists. Accordingly, AD 2020-25-03 is removed.
+
+DATES: This AD becomes effective January 12, 2023.
+
+ADDRESSES: AD Docket: You may examine the AD docket at regulations.gov 
+under Docket No. FAA-2020-1105; or in person at Docket Operations 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this final rule, any comments 
+received, and other information. The address for Docket Operations is 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, Large 
+Aircraft Section, International Validation Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone 206-231-3225; email 
+[email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The European Union Aviation Safety Agency (EASA), which is the 
+Technical Agent for the Member States of the European Union, previously 
+issued AD 2020-0236, dated October 27, 2020 (EASA AD 2020-0236) (also 
+referred to as the Mandatory Continuing Airworthiness Information, or 
+the MCAI), to correct an unsafe condition for all Airbus SAS Model A318 
+series airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, -
+133, -151N, -153N, and -171N airplanes; Model A320-211, -212, -214, -
+215, -216, -231, -232, -233, -251N, -252N, -253N, -271N, -272N, and -
+273N airplanes; and Model A321 series airplanes. The FAA issued 
+corresponding AD 2020-25-03, Amendment 39-21345 (85 FR 79415, December 
+10, 2020) (AD 2020-25-03), for those airplanes except for Model A319-
+153N and A320-215 airplanes, which are not included on the U.S. type 
+certificate data sheet. AD 2020-25-03 required repetitive checks of the 
+pressure gauges to determine the amount of pressure on the inflation 
+reservoir of each emergency escape slide/raft, and applicable 
+corrective actions. AD 2020-25-03 also provided optional terminating 
+action for the repetitive checks. AD 2020-25-03 was prompted by a 
+report of a loud bang heard during airplane boarding. A subsequent 
+inspection revealed that one emergency escape slide/raft was found with 
+zero reservoir pressure due to a burst rupture disk assembly in the 
+inflation reservoir, which was probably caused by a manufacturing 
+defect. The FAA issued AD 2020-25-03 to address insufficient reservoir 
+pressure in an emergency escape slide/raft, which would prevent the 
+deployment of the emergency escape slide/raft during an emergency, 
+possibly resulting in injury to the occupants.
+    Since the FAA issued AD 2020-25-03, EASA issued AD 2020-0236-CN, 
+dated May 16, 2022, to cancel EASA AD 2020-0236. EASA advised the FAA 
+that SAFRAN Aerosystems, the manufacturer of the affected parts, 
+produced service information with instructions for replacement of the 
+rupture disk during overhaul of the affected parts. EASA reports that 
+no rupture disk failures have occurred in service or during overhaul. 
+Consequently, new risk analysis determined that an unsafe condition no 
+longer exists that would warrant AD action.
+    Subsequently, the FAA issued a notice of proposed rulemaking (NPRM) 
+to amend 14 CFR part 39 by removing AD 2020-25-03. The NPRM was 
+published in the Federal Register on June 16, 2022 (87 FR 36274). The 
+FAA is issuing this AD to remove AD 2020-25-03.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from United Airlines Engineering in 
+support of the NPRM without change. The commenter concurred with the 
+proposal to rescind AD 2020-25-03, noting that there have been no known 
+reports of evacuation slide issues related to rupture disc failure 
+while in service or during repair/overhaul. The commenter added that a 
+visual check of the slide pressure is performed prior to each revenue 
+flight.
+
+Change to Project Identifier Number
+
+    The NPRM identified the project number as AD-2020-01459-T. However, 
+the project number for this rescission is MCAI-2020-1459-T. The FAA has 
+revised this rescission accordingly.
+
+[[Page 1984]]
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Except for minor editorial changes, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2020-25-03, Amendment 39-21345 
+(85 FR 79415, December 10, 2020), and
+0
+b. Adding the following new AD:
+
+2020-25-03R1 Airbus SAS: Amendment 39-22086; Docket No. FAA-2020-
+1105; Project Identifier MCAI-2020-01459-T.
+
+(a) Effective Date
+
+    This AD becomes effective January 12, 2023.
+
+(b) Affected ADs
+
+    This AD replaces AD 2020-25-03, Amendment 39-21345 (85 FR 79415, 
+December 10, 2020).
+
+(c) Applicability
+
+    This action applies to all Airbus SAS airplanes, certificated in 
+any category, identified in paragraphs (c)(1) through (4) of this 
+AD.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, and -171N airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, -
+252N, -253N, -271N, -272N, and -273N airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -252N, -253N, -271N, -272N, -251NX, -252NX, -253NX, -271NX, 
+and -272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Related Information
+
+    For more information about this AD, contact Dan Rodina, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+206-231-3225; email [email protected].
+
+(f) Material Incorporated by Reference
+
+    None.
+
+    Issued on January 4, 2023.
+Gaetano A. Sciortino,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2023-00185 Filed 1-11-23; 8:45 am]
+BILLING CODE 4910-13-P

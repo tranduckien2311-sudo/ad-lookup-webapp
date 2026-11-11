@@ -1,0 +1,640 @@
+[Federal Register Volume 83, Number 153 (Wednesday, August 8, 2018)]
+[Rules and Regulations]
+[Pages 38959-38964]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-16736]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0077; Product Identifier 2017-NM-126-AD; Amendment 
+39-19352; AD 2018-16-12]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A319 and A320 series airplanes; and A321-111, -112, -131, 
+-211, -212, -213, -231, and -232 airplanes. This AD was prompted by 
+reports of battery retaining rod failures due to quality defects of the 
+material used during parts manufacturing. This AD requires a detailed 
+inspection of the battery support assemblies to identify the battery 
+retaining rod manufacturer, replacement of the battery retaining rods 
+with serviceable battery retaining rods if necessary, and the addition 
+of the applicable service information label on each battery retaining 
+rod if necessary. We are issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective September 12, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of September 12, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 2 Rond Point Emile 
+Dewoitine, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 44 51; email [email protected]; internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for
+
+[[Page 38960]]
+
+and locating Docket No. FAA-2018-0077.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0077; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3223.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A319 
+and A320 series airplanes; and Model A321-111, -112, -131, -211, -212, 
+-213, -231, and -232 airplanes. The NPRM published in the Federal 
+Register on February 12, 2018 (83 FR 5960) (``the NPRM'').
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0161R1, dated September 19, 2017; corrected September 20, 2017 
+(referred to after this as the Mandatory Continuing Airworthiness 
+Information, or ``the MCAI''), to correct an unsafe condition for 
+certain Airbus Model A319 and A320 series airplanes; and Model A321-
+111, -112, -131, -211, -212, -213, -231, and -232 airplanes. The MCAI 
+states:
+
+    Several occurrences have been reported of battery rod failures 
+on certain Airbus aeroplanes. Subsequent examination of broken rod 
+parts determined that these failures were due to quality defects of 
+the material used during parts manufacturing. Each battery is 
+secured on an aeroplane by two rods. Failure of one rod, in case of 
+severe turbulence during flight or hard landing, could lead to 
+battery displacement, or roll on the remaining rod side, up to a 
+point where the remaining rod could be disengaged. The battery could 
+ultimately detach from its housing and damage relays, connectors, 
+contactor boxes, air ducts and surrounding structure.
+    This condition, if not detected and corrected, could lead to the 
+loss of the normal electrical generation not followed by an 
+automatic recovery of essential network.
+    To address this potential unsafe condition, Airbus issued Alert 
+Operators Transmission (AOT) A92N001-16 (later revised) and EASA 
+issued AD 2016-0204 [which corresponds to FAA AD 2016-25-24 (81 FR 
+90958, December 16, 2016) (``AD 2016-25-24'')] requiring repetitive 
+general visual inspections (GVI) of the four battery rods (two per 
+battery), and, in case of findings, replacement of battery rods.
+    Since that [EASA] AD was issued, the manufacturer of the broken 
+battery retaining rods has been identified, which allows proper 
+identification of the affected parts and their withdrawal from 
+service. Consequently, Airbus issued [service bulletin] SB A320-92-
+1116 and SB A320-92-1118 to provide the necessary instructions to 
+the affected operators. No rods delivered as spare parts are 
+affected by the manufacturing issue.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2016-0204, which is superseded, and requires 
+replacement of battery retaining rods depending on manufacturer 
+identification. This [EASA] AD also provides a terminating action 
+for the repetitive inspections.
+
+You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0077.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Request To Revise the Compliance Time
+
+    Air Line Pilots Association, International (ALPA) requested that we 
+revise the compliance time. ALPA stated that the proposed AD specifies 
+a compliance time of within 24 months after the AD effective date. ALPA 
+commented that because the proposed AD is related to quality, it 
+believes this compliance time is insufficient. ALPA also commented that 
+since the issuance of the manufacturer's service information, operators 
+have had over 12 months to comply with the required corrective actions. 
+ALPA stated that, additionally, the time estimated to complete the 
+inspections and replacement of the affected parts is minimal. ALPA 
+recommended that we consider a compliance time of within 12 months 
+after the AD effective date.
+    We disagree with the commenter. While some U.S. operators have had 
+time to plan and schedule the work contained in the Airbus service 
+information, there is no obligation for any U.S. operator to perform 
+those actions without a regulatory requirement. Therefore, we agree 
+with EASA's decision to allow a 24-month compliance time to plan, 
+schedule, and accomplish the actions necessary to remove the unsafe 
+condition. If additional data are presented that would justify a 
+shorter compliance time, we may consider further rulemaking on this 
+issue. We have not changed this AD in this regard.
+
+Request To Revise the Definition of Serviceable Rod
+
+    Delta Airlines (DAL) requested that we revise the definition of a 
+serviceable rod in paragraph (g) of the proposed AD. DAL stated to add 
+an additional paragraph that specifies:
+
+    A battery retaining rod with an ISB [inspection service 
+bulletin] label installed in accordance with the accomplishment 
+instructions of Airbus Service Bulletin A320-92-1116, Revision 00, 
+dated January 31, 2017 (for Airbus Model A319 and A320 series 
+airplanes; and A321-111, -112, -131, -211, -212, -213, -231, and -
+232 airplanes); or Airbus Service Bulletin A320-92-1118, Revision 
+00, dated January 31, 2017 (for Airbus Model A320-251N and -271N 
+airplanes).
+
+    We partially agree with revising the definition of a serviceable 
+rod in paragraph (g) of this AD. We have determined that the 
+installation of the ISB label does not affect the unsafe condition and 
+have removed the requirement from this AD. We have coordinated this 
+changed with EASA. Furthermore, we have revised paragraph (g) of this 
+AD to clarify that the battery retaining rod used for replacement must 
+be positively identified as a serviceable battery retaining rod.
+
+Request for Clarification Regarding Manufacturer Serial Numbers
+
+    United Airlines (UAL) requested clarification regarding 
+manufacturer serial numbers in the proposed AD. UAL stated that the 
+manufacturer serial numbers are not applicable to the proposed AD as 
+identified in Airbus Service Bulletin A320-92-1116, Revision 00, dated 
+January 31, 2017, and Airbus Service Bulletin A320-92-1118, Revision 
+00, dated January 31, 2017. UAL stated that, although the machining 
+that caused the failure mode is identified in the service information, 
+the same battery retaining rod part number used in pre- and post-
+service information remains unchanged. UAL commented that it is unclear 
+whether a serial number, batch number, or date exists for those battery 
+retaining rods. UAL also asked how were the battery
+
+[[Page 38961]]
+
+retaining rod spares deemed to be serviceable in paragraph (g)(1) of 
+the proposed AD?
+    We agree to provide clarification for the commenter. According to 
+EASA AD 2017-0161R1, dated September 19, 2017; corrected September 20, 
+2017; no spares with manufacturing defects were delivered by Airbus. 
+Only a certain batch of defective parts were installed in production on 
+certain manufacturer serial numbers as specified in Airbus Service 
+Bulletin A320-92-1116, Revision 00, dated January 31, 2017; and Airbus 
+Service Bulletin A320-92-1118, Revision 00, dated January 31, 2017. If 
+an operator does not have an airplane affected as specified in the 
+service information, then there is no concern relative to defective 
+spare parts. We have not changed this AD in this regard.
+
+Request To Clarify the Identification of Affected Parts
+
+    DAL requested that we clarify the identification of the affected 
+parts in paragraph (h) of the proposed AD. DAL stated that the detailed 
+inspection to identify the battery retaining rod manufacturer should be 
+of the battery support assemblies and not the battery retaining rods.
+    We agree with the commenter's request. We have revised paragraph 
+(h) of this AD to require a detailed inspection of the battery support 
+assemblies to identify the manufacturer of the battery retaining rods.
+
+Request To Include an Additional Method of Compliance to the AD 
+Requirements
+
+    DAL requested that we add an additional method of compliance for 
+paragraphs (h), (i), and (j) of the proposed AD. DAL stated that the 
+language, ``or using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus's EASA 
+Design Organization Approval (DOA),'' should be included as an option 
+to using the service information. DAL also stated that this language 
+should be considered standard wording for future ADs as applicable.
+    We disagree with the commenter's request. We have already provided 
+a method of compliance (MOC) for paragraphs (h), (i), and (j) of this 
+AD in accordance with the applicable service information. Any 
+deviations from the required MOC would need an evaluation in form of an 
+AMOC. DAL's proposed option is generally utilized in cases where no MOC 
+has been established or we have known information that the MOC may not 
+be applicable for all airplanes in the U.S fleet. We have not changed 
+the AD in this regard.
+
+Request To Not Require Certain Service Information Labels on the 
+Battery Rod
+
+    DAL and American Airlines (AA) requested that we not mandate that a 
+service information label be attached to each battery retaining rod as 
+required by the Airbus service information specified in paragraphs (j) 
+and (l) of the proposed AD. AA also requested that we not mandate 
+attachments of a service information label as part of the replacement 
+required by paragraph (i) of the proposed AD. DAL stated that it has 7 
+affected airplanes that would have a different final configuration than 
+the current and future fleet of 348 airplanes in its A320FAM fleet.
+    AA stated that all battery retaining rods provided by Airbus post 
+August 2016 are marked and stamped with manufactures part number (MPN) 
+D8241023700000. AA commented that this marking of the new battery 
+retaining rods can be used in lieu of the information service bulletin 
+(ISB) label. AA also commented that it plans to replace all existing 
+battery retaining rods with the new battery retaining rods that are 
+marked with MPN D8241023700000.
+    In addition, AA stated that installing the ISB label on the battery 
+retaining rods on 128 of its A319/A320 airplanes does not add a safety 
+value, but will put a burden on AA to maintain two different 
+configurations of battery retaining rod installation between 128 
+airplanes that are effected by the service information in the proposed 
+AD and 265 airplanes that are not affected by the service information 
+in the proposed AD.
+    We agree with the commenters' request. We agree that the ISB label 
+is not necessary to mitigate the risk addressed in this AD. Therefore, 
+we have determined that the installation of ISB label should be 
+optional and not a required for compliance (RC) step.
+    However, 14 CFR 39.9, specifies that operators have a continuing 
+obligation to maintain compliance with an AD, and the installation of 
+the ISB label or an equivalent method to identify a serviceable battery 
+retaining rod provides the operators with a simplified way to 
+demonstrate compliance with the AD requirements. We have removed 
+paragraph (j) of the proposed AD and revised paragraph (l) of this AD 
+to revise the terminating action requirements. We have also added 
+paragraph (j) of this AD to provide an exception to paragraph (i) of 
+this AD, which specifies that installing the ISB label is not a 
+requirement in this AD.
+
+Request To Revise the Terminating Action Paragraph
+
+    DAL requested that paragraph (l) of the proposed AD, ``Terminating 
+Action,'' be revised to read, ``Replacement of all battery retaining 
+rods,'' and not, ``Replacement of all battery retaining rods marked 
+`SA. . . .' '' DAL stated that the battery retaining rods are not 
+marked with ``SA,'' only the battery support assemblies.
+    We agree with the commenter's request and have revised the AD 
+accordingly.
+
+Request To Use Alternate Part Numbers
+
+    Spirit Airlines requested that either the service information or 
+the proposed AD be revised to provide the use of alternate materials to 
+label part number (P/N) ASNE0248A1-4H9. Spirit Airlines stated that P/N 
+ASNE0248A1-4H9 is no longer available, and that alternate P/N E0248A1-
+4H9P and P/N ASNE0248A1-4H9T may be obtained from Airbus. Spirit 
+Airlines believes that use of these alternate part numbers would 
+provide an equivalent level of safety as referenced in Airbus Dossier 
+Reference 80403684/003, dated January 8, 2018, and Airbus Retrofit 
+Information Letter SA92M16012714 R00, dated February 1, 2017.
+    DAL requested that a previously approved AMOC be used in the 
+proposed AD. DAL stated that in paragraph (h) and (j) of the proposed 
+AD, Airbus Service Bulletin A320-92-1116, Revision 00, dated January 
+31, 2017, calls out a non-procurable part number for the identification 
+label. Therefore, DAL proposed that recognition of AMOC AIR-676-18-152, 
+issued against AD 2016-25-24, which allows an alternate label part 
+number, be added to paragraph (m) of the proposed AD as an acceptable 
+method of compliance to the proposed AD.
+    We partially agree with the commenters request. As we stated 
+previously, we have determined that installation of an ISB label is not 
+an RC step. Therefore, a previously issued AMOC for allowing alternate 
+label part numbers is unnecessary. However, we would like to remind 
+operators that 14 CFR 39.9 specifies an operator's continuing 
+obligation to maintain compliance with an AD, and installation of an 
+ISB label or an equivalent method provides operators with a method to 
+demonstrate the affected battery retaining rods have been removed and 
+replaced with serviceable retaining rods in compliance with the AD 
+requirements.
+
+[[Page 38962]]
+
+Differences Between This AD and the MCAI
+
+    The MCAI includes a requirement to install an ISB label. This AD 
+does not include that requirement. We have determined that the ISB 
+label is not necessary to mitigate the risk addressed in this AD. 
+However, 14 CFR 39.9, specifies that operators have a continuing 
+obligation to maintain compliance with an AD, and the installation of 
+the ISB label or an equivalent method to identify a serviceable battery 
+retaining rod provides the operators with a simplified way to 
+demonstrate compliance with the AD requirements.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-92-1116, Revision 00, dated 
+January 31, 2017; and Service Bulletin A320-92-1118, Revision 00, dated 
+January 31, 2017. This service information describes a detailed 
+inspection of the battery support assemblies to identify the battery 
+retaining rod manufacturer, replacement of the battery retaining rods 
+with serviceable battery retaining rods if necessary, and adding the 
+applicable service information label on each battery retaining rod if 
+necessary. These documents are distinct since they apply to different 
+airplane models. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 330 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection.........................  1 work-hour x $85 per hour               $0             $85         $28,050
+                                      = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacement 
+that would be required based on the results of the inspection. We have 
+no way of determining the number of aircraft that might need this 
+replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                   Action                                 Labor cost                Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement................................  1 work-hour x $85 per hour = $85...              $0             $85
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866,
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    3. Will not affect intrastate aviation in Alaska, and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+
+[[Page 38963]]
+
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-16-12 Airbus: Amendment 39-19352; Docket No. FAA-2018-0077; 
+Product Identifier 2017-NM-126-AD.
+
+(a) Effective Date
+
+    This AD is effective September 12, 2018.
+
+(b) Affected ADs
+
+    This AD affects AD 2016-25-24, Amendment 39-18750 (81 FR 90958, 
+December 16, 2016) (``AD 2016-25-24'').
+
+(c) Applicability
+
+    This AD applies to Airbus Model A319-111, -112, -113, -114, -
+115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -
+216, -231, -232, -233, -251N, and -271N airplanes; and Model A321-
+111, -112, -131, -211, -212, -213, -231, and -232 airplanes, 
+certificated in any category, as identified in Airbus Service 
+Bulletin A320-92-1116, Revision 00, dated January 31, 2017; or 
+Airbus Service Bulletin A320-92-1118, Revision 00, dated January 31, 
+2017.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 92, Electrical 
+system installation.
+
+(e) Reason
+
+    This AD was prompted by reports of battery retaining rod 
+failures due to quality defects of the material used during parts 
+manufacturing. We are issuing this AD to detect and correct broken 
+battery retaining rods, which, in the event of a hard landing or 
+severe turbulence, could cause the battery to detach from its 
+housing, resulting in damage to other electrical equipment and 
+surrounding structure. This condition could lead to loss of normal 
+electrical power generation and subsequent inability to restore 
+electrical power to essential airplane systems.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of a Serviceable Rod
+
+    For the purpose of this AD, a serviceable battery retaining rod 
+is defined in paragraphs (g)(1) or (g)(2) of this AD.
+    (1) A battery retaining rod provided as a spare part by Airbus.
+    (2) A battery retaining rod previously fitted on a battery 
+support assembly installed on an airplane manufacturer serial number 
+that is not specified in Airbus Service Bulletin A320-92-1116, 
+Revision 00, dated January 31, 2017 (for Airbus Model A319 and A320 
+series airplanes; and Model A321-111, -112, -131, -211, -212, -213, 
+-231, and -232 airplanes); or Airbus Service Bulletin A320-92-1118, 
+Revision 00, dated January 31, 2017 (for Airbus Model A320-251N and 
+-271N airplanes), provided the battery retaining rod used for 
+replacement can be positively identified as a serviceable battery 
+retaining rod.
+
+(h) Identification of Affected Parts
+
+    Within 24 months after the effective date of this AD: Accomplish 
+a detailed inspection of the battery support assemblies to identify 
+the battery retaining rod manufacturer, in accordance with the 
+Accomplishment Instructions of the Airbus Service Bulletin A320-92-
+1116, Revision 00, dated January 31, 2017 (for Airbus Model A319 and 
+A320 series airplanes, and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes); or Airbus Service Bulletin A320-92-
+1118, Revision 00, dated January 31, 2017 (for Airbus Model A320-
+251N and -271N airplanes).
+
+(i) Replacement of Affected Parts if Marking Is Found on Battery 
+Support Assembly
+
+    If, during the inspection specified in paragraph (h) of this AD, 
+the quality stamp on any battery support assemblies are found marked 
+with an ``SA'' manufacturer identification, before further flight, 
+replace the battery retaining rods with serviceable battery 
+retaining rods, in accordance with the Accomplishment Instructions 
+of the Airbus Service Bulletin A320-92-1116, Revision 00, dated 
+January 31, 2017 (for Airbus Model A319 and A320 series airplanes; 
+and Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes); or Airbus Service Bulletin A320-92-1118, Revision 00, 
+dated January 31, 2017 (for Airbus Model A320-251N and -271N 
+airplanes); except as provided by paragraph (j) of this AD.
+
+(j) Exception to the Service Information
+
+    Although Airbus Service Bulletin A320-92-1116, Revision 00, 
+dated January 31, 2017; and Airbus Service Bulletin A320-92-1118, 
+Revision 00, dated January 31, 2017; specify to install inspection 
+service bulletin (ISB) labels, this AD does not include that 
+requirement.
+
+(k) Parts Installation Prohibition
+
+    As of the effective date of this AD, no person may install, on 
+any airplane, a non-serviceable battery retaining rod.
+
+(l) Terminating Action
+
+    Replacement of all battery retaining rods with a serviceable 
+battery retaining rod as required by paragraph (i) of this AD 
+constitutes terminating action for all requirements of AD 2016-25-24 
+for that airplane.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (n)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus's EASA Design Organization Approval 
+(DOA). If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0161R1, dated September 19, 2017; corrected 
+September 20, 2017; for related information. This MCAI may be found 
+in the AD docket on the internet at http://www.regulations.gov by 
+searching for and locating Docket No. FAA-2018-0077.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-92-1116, Revision 00, dated 
+January 31, 2017.
+    (ii) Airbus Service Bulletin A320-92-1118, Revision 00, dated 
+January 31, 2017.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 2 Rond Point Emile Dewoitine, 
+31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the
+
+[[Page 38964]]
+
+National Archives and Records Administration (NARA). For information 
+on the availability of this material at NARA, call 202-741-6030, or 
+go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on July 27, 2018.
+James Cashdollar,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-16736 Filed 8-7-18; 8:45 am]
+ BILLING CODE 4910-13-P

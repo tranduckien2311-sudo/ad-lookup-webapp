@@ -1,0 +1,426 @@
+[Federal Register Volume 87, Number 80 (Tuesday, April 26, 2022)]
+[Rules and Regulations]
+[Pages 24407-24410]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-08837]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-1164; Project Identifier MCAI-2021-00975-E; 
+Amendment 39-22019; AD 2022-08-16]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG 
+(Type Certificate Previously Held by Rolls-Royce Plc) Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2020-20-07 
+for certain Rolls-Royce Deutschland Ltd & Co KG (RRD) Trent 1000-AE3, 
+Trent 1000-CE3, Trent 1000-D3, Trent 1000-G3, Trent 1000-H3, Trent 
+1000-J3, Trent 1000-K3, Trent 1000-L3, Trent 1000-M3, Trent 1000-N3, 
+Trent 1000-P3, Trent 1000-Q3, Trent 1000-R3, Trent 7000-72, and Trent 
+7000-72C model turbofan engines. AD 2020-20-07 required initial and 
+repetitive borescope inspections (BSIs) or visual inspections of the 
+intermediate-pressure compressor (IPC) shaft assembly and, depending on 
+the results of the inspection, replacement of the IPC shaft assembly. 
+This AD was prompted by the manufacturer providing optional terminating 
+actions for the required repetitive inspections and alternative 
+inspection instructions. This AD continues to require initial and 
+repetitive BSIs but allows modification of the engine in accordance 
+with RRD service information as a terminating action to these 
+inspections, as specified in a European Union Aviation Safety Agency 
+(EASA) AD, which is incorporated by reference. The FAA is issuing this 
+AD to address the unsafe condition on these products.
+
+DATES: This AD is effective May 31, 2022.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of May 31, 
+2022.
+
+ADDRESSES: For material incorporated by reference in this AD, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 
+8999 000; email: [email protected]. You may find this material on the 
+EASA website at https://ad.easa.europa.eu. You may view this material 
+at the FAA, Airworthiness Products Section, Operational Safety Branch, 
+1200 District Avenue, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call (817) 222-5110. It is 
+also available at https://www.regulations.gov by searching for and 
+locating Docket No. FAA-2021-1164.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2021-1164; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this final rule, the 
+EASA AD, any comments received, and other information. The address for 
+Docket Operations is U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nicholas Paine, Aviation Safety 
+Engineer, ECO Branch, FAA, 1200 District Avenue, Burlington, MA 01803; 
+phone: (781) 238-7116; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2019-0282R1, dated August 25, 2021 
+(EASA AD 2019-0282R1), to address an unsafe condition for all RRD Trent 
+1000-AE3, Trent 1000-CE3, Trent 1000-D3, Trent 1000-G3, Trent 1000-H3, 
+Trent 1000-J3, Trent 1000-K3, Trent 1000-L3, Trent 1000-M3, Trent 1000-
+N3, Trent 1000-P3, Trent 1000-Q3, Trent 1000-R3, Trent 7000-72, and 
+Trent 7000-72C model turbofan engines. The EASA AD includes exceptions 
+that limit the applicability for certain engines.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2020-20-07, Amendment 39-21263 (85 FR 
+62975, October 6, 2020), (AD 2020-20-07). AD 2020-20-07 applied to all 
+RRD Trent 1000-AE3, Trent 1000-CE3, Trent 1000-D3, Trent 1000-G3, Trent 
+1000-H3, Trent 1000-J3, Trent 1000-K3, Trent 1000-L3, Trent 1000-M3, 
+Trent 1000-N3, Trent 1000-P3, Trent 1000-Q3, Trent 1000-R3, Trent 7000-
+72, and Trent 7000-72C model turbofan engines. The NPRM published in 
+the Federal Register on December 28, 2021 (86 FR 73690). The NPRM was 
+prompted by a report of crack findings in the front air seal on the IPC 
+shaft assembly during the stripping of a flight test engine. The NPRM 
+was also prompted by the manufacturer's publication of service 
+information that provides optional terminating actions for the required 
+repetitive inspections and alternative inspection instructions. In the 
+NPRM, the FAA proposed to continue to require initial and repetitive 
+BSIs of the IPC shaft assembly. In the NPRM, the FAA also proposed to 
+require compliance with the required actions from November 10, 2020, 
+the effective date of AD 2020-20-07. In the NPRM, the FAA also proposed 
+to allow modification of the engine in accordance with Rolls-Royce 
+service information as a terminating action to the initial and 
+repetitive BSIs of the IPC shaft assembly. In the NPRM, the FAA also 
+proposed to require accomplishing
+
+[[Page 24408]]
+
+the actions specified in EASA AD 2019-0282R1, described previously, as 
+incorporated by reference, except for any differences identified as 
+exceptions in the regulatory text of this AD. The FAA is issuing this 
+AD to address the unsafe condition on these products. See EASA AD 2019-
+0282R1 for additional background information.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from two commenters. The commenters were 
+Delta Air Lines, Inc. (DAL), and The Boeing Company (Boeing). The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Reevaluate the Need for This FAA AD
+
+    DAL requested that the FAA reevaluate the need for the proposed AD. 
+DAL noted that after EASA revised EASA AD 2019-0282, RRD requested, and 
+the FAA granted, a global Alternative Methods of Compliance (AMOC) that 
+includes the changes in EASA AD 2019-0282R1. DAL reasoned that the 
+regulatory requirements in the proposed NPRM are captured by AD 2020-
+20-07 and the global AMOC.
+    The FAA disagrees with withdrawing the NPRM. Issuing this AD 
+addresses the unsafe condition, incorporates an optional terminating 
+action, and incorporates by reference the required actions and 
+compliance times specified in EASA AD 2019-0282R1. The FAA did not 
+change the AD as a result of this comment.
+
+Request To Recognize AMOCs Approved for AD 2020-20-07
+
+    DAL requested that the FAA update paragraph (i) of this AD to 
+recognize AMOCs previously approved under AD 2020-20-07. DAL received 
+an FAA-approved AMOC to AD 2020-20-07 for deviations in the on-wing 
+inspection procedure, material, and tooling as specified in Rolls-Royce 
+Trent 1000 Alert NMSB 72-AK451, Initial Issue, dated November 14, 2019. 
+DAL used this AMOC to comply with AD 2020-20-07 and will need to 
+continue to use the provisions in this AMOC to comply with this AD. DAL 
+reasoned that since the AD retains all the requirements of AD 2020-20-
+07, AMOCs granted for AD 2020-20-07 should also be applicable to this 
+AD.
+    The FAA agrees and has revised paragraph (i) of this AD to include 
+that AMOCs approved previously for AD 2020-20-07 are approved as AMOCs 
+for the corresponding provisions of this AD.
+
+Support for the AD
+
+    Boeing expressed support for the AD as written.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2019-0282R1. EASA AD 2019-0282R1 describes 
+actions for initial and repetitive BSIs of the IPC shaft assembly. This 
+material is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in ADDRESSES.
+
+Other Related Service Information
+
+    The FAA reviewed Rolls-Royce Trent 1000 Alert Non-Modification 
+Service Bulletin (NMSB) 72-AK451, Revision 1, dated July 15, 2021 
+(Rolls-Royce Trent 1000 Alert NMSB 72-AK451); Rolls-Royce Trent 1000 SB 
+72-K570; and Rolls-Royce Trent 1000 SB 72-K571.
+    Rolls-Royce Trent 1000 Alert NMSB 72-AK451 describes procedures for 
+initial and repetitive BSIs of the IPC shaft assembly. Rolls-Royce 
+Trent 1000 SB 72-K570 and Rolls-Royce Trent 1000 SB 72-K571, 
+differentiated by engine model, describe procedures for the 
+modification of the engine as a terminating action to the initial and 
+repetitive BSIs of the IPC shaft assembly.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 22 engines installed on 
+airplanes of U.S. Registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+BSI or visual inspection of IPC shaft   3.5 work-hours x $85 per              $0         $297.50          $6,545
+ assembly.                               hour = $297.50.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary 
+replacement that is required based on the results of the inspection. 
+The agency has no way of determining the number of aircraft that might 
+need this replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace IPC shaft assembly....................  1,080 work-hours x $85 per hour       $1,365,219      $1,457,019
+                                                 = $91,800.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and
+
+[[Page 24409]]
+
+procedures the Administrator finds necessary for safety in air 
+commerce. This regulation is within the scope of that authority because 
+it addresses an unsafe condition that is likely to exist or develop on 
+products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2020-20-07, Amendment 39-21263 (85 
+FR 62975, October 6, 2020); and
+0
+b. Adding the following new airworthiness directive:
+
+2022-08-16 Rolls-Royce Deutschland Ltd & Co KG (Type Certificate 
+previously held by Rolls-Royce plc): Amendment 39-22019; Docket No. 
+FAA-2021-1164; Project Identifier MCAI-2021-00975-E.
+
+ (a) Effective Date
+
+    This airworthiness directive (AD) is effective May 31, 2022.
+
+(b) Affected ADs
+
+    This AD replaces AD 2020-20-07, Amendment 39-21263 (85 FR 62975, 
+October 6, 2020) (AD 2020-20-07).
+
+(c) Applicability
+
+    This AD applies to Rolls-Royce Deutschland Ltd & Co KG (RRD) 
+Trent 1000-AE3, Trent 1000-CE3, Trent 1000-D3, Trent 1000-G3, Trent 
+1000-H3, Trent 1000-J3, Trent 1000-K3, Trent 1000-L3, Trent 1000-M3, 
+Trent 1000-N3, Trent 1000-P3, Trent 1000-Q3, Trent 1000-R3, Trent 
+7000-72, and Trent 7000-72C model turbofan engines installed as 
+identified in European Union Aviation Safety Agency (EASA) AD 2019-
+0282R1, dated August 25, 2021 (EASA AD 2019-0282R1).
+
+(d) Subject
+
+    Joint Aircraft Service Component (JASC) Code 7230, Turbine 
+Engine Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of crack findings in the front 
+air seal on the intermediate-pressure compressor (IPC) shaft 
+assembly during the stripping of a flight test engine. The FAA is 
+issuing this AD to prevent failure of the IPC shaft assembly. The 
+unsafe condition, if not addressed, could result in loss of thrust 
+control and reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraph (h) of this AD: Perform all 
+required actions within the compliance times specified in, and in 
+accordance with, EASA AD 2019-0282R1.
+
+(h) Exceptions to EASA AD 2019-0282R1
+
+    (1) Where EASA AD 2019-0282R1 requires compliance from November 
+27, 2019, the effective date of EASA AD 2019-0282, this AD requires 
+compliance from November 10, 2020, the effective date of FAA AD 
+2020-20-07.
+    (2) Where EASA AD 2019-0282R1 requires contacting Rolls-Royce 
+for approved corrective actions if a crack is detected during any 
+on-wing inspection and in-shop inspection, this AD requires removing 
+the IPC shaft assembly and replacing it with a part eligible for 
+installation before further flight.
+    (3) Where EASA AD 2019-0282R1 defines a serviceable part as an 
+IPC shaft assembly which is not an affected part; or an affected 
+part which is new (never previously installed on an engine); or an 
+affected part that, before (re)installation, has passed (no crack 
+detected) an inspection in accordance with the instructions of the 
+NMSB, this AD also includes in that definition an IPC shaft assembly 
+that, before (re)installation, has passed a visual inspection (no 
+crack detected) of the exposed part using FAA-approved maintenance 
+procedures.
+    (4) Where EASA AD 2019-0282R1 references on-wing inspections, 
+this AD allows for a visual inspection of the IPC shaft assembly 
+using FAA-approved maintenance procedures as a substitute for any 
+on-wing borescope inspection if the affected part is exposed, 
+provided that the compliance times specified in this AD are not 
+exceeded.
+    (5) This AD does not mandate compliance with the ``Remarks'' 
+section of EASA AD 2019-0282R1.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, ECO Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or local Flight Standards District Office, as 
+appropriate. If sending information directly to the manager of the 
+ECO Branch, send it to the attention of the person identified in 
+paragraph (j)(1) of this AD. Information may be emailed to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) AMOCs approved previously for AD 2020-20-07 are approved as 
+AMOCs for the corresponding provisions of this AD.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Nicholas Paine, 
+Aviation Safety Engineer, ECO Branch, FAA, 1200 District Avenue, 
+Burlington, MA 01803; phone: (781) 238-7116; email: 
+[email protected].
+    (2) For service information identified in this AD that is not 
+incorporated by reference, contact Rolls-Royce plc, Corporate 
+Communications, P.O. Box 31, Derby, DE24 8BJ, United Kingdom; phone: 
++44 (0)1332 242424 fax: +44 (0)1332 249936; website: https://www.rolls-royce.com/contact-us.aspx. You may view this material at 
+the FAA, Airworthiness Products Section, Operational Safety Branch, 
+1200 District Avenue, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call (817) 222-5110.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2019-0282R1, 
+dated August 25, 2021.
+    (ii) [Reserved]
+    (3) For more information about EASA AD 2019-0282R1, contact 
+EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 
+8999 000; email: [email protected]. You may find this material on 
+the EASA website at https://ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 1200 District Avenue, 
+Burlington, MA 01803. For information on the availability of this 
+material at the FAA, call (817) 222-5110. This material may be found 
+in the AD docket at https://www.regulations.gov by searching for and 
+locating Docket No. FAA-2021-1164.
+    (5) You may view this material that is incorporated by reference 
+at the National
+
+[[Page 24410]]
+
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, email [email protected], 
+or go to https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on April 8, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-08837 Filed 4-25-22; 8:45 am]
+BILLING CODE 4910-13-P

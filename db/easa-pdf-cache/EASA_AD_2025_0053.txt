@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0053
+
+Airworthiness Directive
+
+AD No.: 2025-0053
+
+Issued: 05 March 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 and A340 aeroplanes
+
+Effective Date: 19 March 2025 TCDS Number(s): EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 52 – Doors – Forward Passenger/Crew Doors – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343, A330-841 and A330-941 aeroplanes, all manufacturer serial numbers; and A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-52-3150, SB A340-52-4128 or SB A340-52-5035, as applicable, all at revision (rev) 1. Aeroplane date of manufacture: The date of transfer of title (ownership) of the aeroplane upon delivery by Airbus to the first operator, which is referenced in Airbus documentation. Groups: Group 1 are aeroplanes having Airbus modification (mod) 48493 or mod 49223 embodied. Group 2 are aeroplanes which are not Group 1. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0053
+
+Reason: Occurrences were reported of forward passenger/crew doors (Door 1L and Door 1R) jamming during slide deployment. Following investigations, it has been determined that those events were caused by door mis-rigging. This condition, if not detected and corrected, could lead to unsuccessful slide deployment which, in case of an emergency, could prevent timely evacuation from the aeroplane, possibly resulting in injury to the occupants. To address this potential unsafe condition, Airbus issued the original issue of the SB, providing inspection instructions. During the consultation period of the proposal to issue this AD, it has been determined that, for Group 2 aeroplanes, the inspection instructions had to be amended, and Airbus issued the SB, as defined in this AD, accordingly. For the reason described above, this AD requires repetitive detailed inspections and, depending on findings, corrective action(s).
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the actions required by this AD have been already accomplished: Inspection(s): (1) For Group 1 and Group 2: Within 24 months after the aeroplane date of manufacture, or 16 months after the effective date of this AD, whichever occurs later, and, thereafter, at intervals not to exceed 72 months, inspect the LH and RH forward passenger/crew doors in accordance with the instructions of the SB. Corrective Action(s): (2) If, during any inspection as required by paragraph (1) of this AD, any discrepancy is detected, as defined in the SB, before next flight, accomplish the applicable corrective actions in accordance with the instructions of the SB. (3) If, after accomplishment of the corrective action as required by paragraph (2) of this AD, any discrepancy is still detected, as defined in the SB, before next flight, contact Airbus for further instructions and, within the compliance time specified in those instructions, accomplish those instructions accordingly. Terminating Action: (4) Corrective action(s) accomplished on an aeroplane as required by paragraph (2) or (3) of this AD, as applicable, do not constitute terminating action for the repetitive inspections as required by paragraph (1) of this AD for that aeroplane, unless specified otherwise in Airbus instructions. Reporting: (5) If, during any inspection as required by paragraph (1) of this AD, or following the accomplishment of corrective actions in accordance with the instructions of the SB, as required by paragraph (2) of this AD, as applicable, any discrepancy is detected, as defined in the SB, within 90 days after that inspection, or after the effective date of this AD, whichever occurs Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0053 later, report the inspection results to Airbus. Using the Inspection Report attached to the SB is an acceptable method to comply with this requirement. Additional Work: (6) For Group 2 aeroplanes: If, before the effective date of this AD, any inspection and corrective actions have been accomplished on an aeroplane in accordance with the instructions of the original issue of the SB, within 3 months after the effective date of this AD, contact Airbus for additional work instructions and, within the compliance time specified in those instructions, accomplish those instructions accordingly. Credit: (7) For Group 1 aeroplanes: Inspection and corrective actions, accomplished on an aeroplane before the effective date of this AD in accordance with the instructions of the original issue of the SB, are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD, as applicable, for that aeroplane. (8) For Group 2 aeroplanes: Inspection and corrective actions, accomplished on an aeroplane before the effective date of this AD in accordance with the instructions of the original issue of the SB and Airbus additional work instructions (RDAF), are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD, as applicable, for that aeroplane.
+
+Ref. Publications: Airbus SB A330-52-3150 original issue dated 25 June 2024, and rev 1 dated 11 February 2025. Airbus SB A340-52-4128 original issue dated 12 June 2024, and rev 1 dated 12 February 2025. Airbus SB A340-52-5035 original issue dated 12 June 2024, and rev 1 dated 13 February 2025. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 04 July 2024 as PAD 24-079 for consultation until 01 August 2024. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0053 may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

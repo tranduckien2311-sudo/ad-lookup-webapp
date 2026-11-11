@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0176
+
+Airworthiness Directive
+
+AD No.: 2019-0176
+
+Issued: 19 July 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 02 August 2019 TCDS Number(s): EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 35 – Oxygen – Passenger Oxygen Containers – Inspection / Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-223F, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343 aeroplanes, manufacturer serial numbers (MSN) as specified in the applicable SB. Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, MSN as specified in the applicable SB.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable SB: Airbus Service Bulletin (SB) A330-35-3058, SB A340-35-4035 and SB A340-35-5027, as applicable. Affected part: Passenger oxygen containers (POC), having Part Number (P/N) DG1L644-25, P/N 13C22L215170100, P/N 13C22R215170100, P/N 13C22L2F5170100, P/N 13C22R2F5170100, P/N 14C22L215170100, or P/N 14C22R215170100. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0176 Serviceable part: POC with correct P/N as specified in Airbus Illustrated Parts Catalogue (IPC) Revision dated April 2019 or later.
+
+Reason: Following a review of the Airbus A330 and A340 IPC content, it was identified that several erroneous interchangeability conditions were published in the IPC concerning the POC of aeroplanes fitted with chemical oxygen system. Consequently, non-approved POC may have been installed during maintenance activities due to Airbus IPC wrong interchangeability indications. This condition, if not detected and corrected, could lead to reduced available oxygen capacity, possibly resulting in injury to aeroplane occupants following a depressurization event. To address this potential unsafe condition, Airbus issued the applicable SB to provide inspection instructions. For the reasons described above, this AD requires a one-time special detailed inspection (SDI) of each POC and, depending on findings, replacement with a serviceable part.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection: (1) Within 24 months after the effective date of this AD, inspect (see Note 1 of this AD) each POC to determine if it is an affected part, in accordance with the instructions of the applicable SB. Note 1: A review of aeroplane maintenance records is acceptable in lieu of an inspection to make this determination, provided those records can be relied upon for that purpose and the P/N of the POC installed on the aeroplane can be positively identified from that review. Corrective Action(s): (2) If, during the inspection as required by paragraph (1) of this AD, any POC is identified as an affected part, before next flight, or within the provisions of the operator Minimum Equipment List, as applicable, replace each affected part with a serviceable part in accordance with the instructions of the applicable SB. Part(s) Installation: (3) From the effective date of this AD, it is allowed to install any POC on an aeroplane, provided it is a serviceable part, as defined in this AD.
+
+Ref. Publications: Airbus SB A330-35-3058 original issue dated 07 May 2019. Airbus SB A340-35-4035 original issue dated 21 May 2019. Airbus SB A340-35-5027 original issue dated 07 May 2019. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0176 The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 27 May 2019 as PAD 19-094 for consultation until 24 June 2019. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

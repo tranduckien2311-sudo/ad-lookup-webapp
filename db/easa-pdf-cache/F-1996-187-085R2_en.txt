@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-187-085(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Capacitor of the landing gear retraction control circuit This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all certified models and all serial numbers without AIRBUS INDUSTRIE modifications 21574 (PM 2025) or 21999 or AIRBUS INDUSTRIE Service Bulletin A320-32-1139 R1 or further approved revisions. In order to avoid the interruption of the landing gear retraction cycle in case of electrical power loss due to the rupture of the capacitor of the retraction control circuit, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Before September 21, 1997 in accordance with AIRBUS INDUSTRIE Service Bulletin A320-32-1139 Rev. 1, replace capacitor 57GA installed in electronic rack 90VU by an electrolyte capacitor with tantalum casing. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-32-1139 Rev. 1 (or further approved revisions) This Revision 2 replaces the Revision 1 dated October 23, 1996. EFFECTIVE DATES : Original AD : SEPTEMBER 21, 1996 Revision 1 : NOVEMBER 02, 1996 Revision 2 : FEBRUARY 08, 1997 n/JYR AIRBUS INDUSTRIE January 29, 1997 96-187-085(B) R2 A320 Aircraft

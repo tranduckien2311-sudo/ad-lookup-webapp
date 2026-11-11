@@ -1,0 +1,31 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2022-0159-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2022-0159-CN
+
+Issued: 04 August 2022 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A320 aeroplanes
+
+Effective Date: 04 August 2022 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Cancellation: This Notice cancels DGAC France AD 90-076-008(B) R1 dated 23 January 1991.
+
+ATA 23 – CANCELLED: Communications – Passenger Address System / Cabin Intercommunication Data System – Director 1 Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A320-211 and A320-231 aeroplanes, all manufacturer serial numbers equipped with a Cabin Intercommunication Data System (CIDS) Step 3, including Director (DIR 1) Part Number (P/N) Z010H0002110.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Industrie All Operators Telex (AOT) 23/89/01 dated 27 December 1989.
+
+Reason: During an event on an A320 aeroplane equipped with CIDS Step 3, the public address and evacuation signalling were only operational until engine shut down. Investigations determined that CIDS DIR 1 had been de-activated by its own internal monitoring due to an audio board failure. DIR 2 was unable to take over under the circumstances due to the absence of power transfer relay output from DIR 1, leading to unintended de-energization of DIR 2. This condition, if not corrected, could result in loss of the passenger address system during an evacuation event. Page 1 of 2 TE.CAP.00116-007 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2022-0159-CN To address this potential unsafe condition, Airbus Industrie issued the AOT and DGAC France issued AD 90-076-008(B) (later revised) to require replacement of CIDS DIR 1 with a CIDS Step 4 (Airbus Industrie modification 21916, P/N Z010H0002110 Amendment A). Since that AD was issued it has been determined that all affected aeroplanes were modified to CIDS Step 4. No new occurrences have been reported and existing Maintenance Review Board Report tasks are adequate to prevent new occurrences. For the reason described above, this Notice cancels DGAC France AD 90-076-008(B) R1.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Airbus Industrie AOT 23/89/01 dated 27 December 1989.
+
+Remarks: 1. This AD-CN was posted on 20 June 2022 as PAD 22-080-CN for consultation until 18 July 2022. No comments were received during the consultation period. 2. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 3. For any question concerning the technical content of this AD-CN, please contact: AIRBUS S.A.S. – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 2 of 2 TE.CAP.00116-007 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

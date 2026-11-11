@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0164
+
+Airworthiness Directive
+
+AD No.: 2025-0164
+
+Issued: 29 July 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: 12 August 2025 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 71 – Powerplant – Nacelle Inlet Cowl – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: A330-243, A330-243F, A330-341, A330-342, A330-343 and A330-743L aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-71-3042. Affected part: Nacelle Inlet Cowl, Part Number (P/N) SJ30820, all serial number up to 3012 inclusive; except those having embodied Airbus modification 210288 (Rolls-Royce SB RB.211-71- K923). Batch 1 part: An affected part which has Structural Repair Manual (SRM) repair FRSZ026 embodied and on which the restraint brackets have not been replaced or permanently repaired (referred to as “active FRSZ026 repair” in the SB). Batch 2 part: An affected part which is not Batch 1. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0164 Serviceable part: Nacelle Inlet Cowl, eligible for installation in accordance with Airbus instructions, which is not an affected part. Groups: Group 1 aeroplanes are those having an affected part installed. Group 2 aeroplanes are those not having an affected part installed.
+
+Reason: Cracked and broken restraint brackets of the anti-ice piccolo tube were reportedly found during maintenance on affected parts. This condition, if not detected and corrected, could lead to a thermal anti-ice feed pipe disengagement and decrease the effectiveness of the thermal anti-ice system, allowing ice build-up on the inlet lip skin, which could result in damage to the engine and reduced control of the aeroplane. To address this potential unsafe condition, Airbus issued the SB, providing instructions for repetitive inspections and modification of affected parts. For the reason described above, this AD requires repetitive special detailed inspections (SDI) of Batch 2 parts and, depending on findings, corrective action(s), and modification of Batch 1 parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the actions required by this AD have been already accomplished: Modification: (1) For Group 1 aeroplanes having a Batch 1 part installed: Within 300 flight cycles (FC) after the effective date of this AD, but not exceeding 8 000 flight hours (FH) after last embodiment of repair FRSZ026 on that Batch 1 part, modify that Batch 1 part in accordance with the instructions of the SB. Repetitive Inspections: (2) For Group 1 aeroplanes having a Batch 2 part installed: Before that Batch 2 part accumulates 5 000 FC (see Note 1 of this AD), or within 12 months after the effective date of this AD, whichever occurs later, but not exceeding 10 years after the effective date of this AD, and, thereafter, at intervals not to exceed 340 FC, inspect that Batch 2 part in accordance with the instructions of the SB. Note 1: The FC identified in paragraph (2) of this AD are those accumulated by the nacelle inlet cowl since new, or since embodiment of Rolls-Royce SB RB.211-71-H847, whichever occurs later. Corrective Action(s): (3) If, during any inspection as required by paragraph (2) of this AD, any discrepancy, as identified in the SB, is found on an affected part, before next flight, modify that part in accordance with the instructions of the SB. Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0164 Alternative Method: (4) Replacing the affected part on an aeroplane with a serviceable part, is an acceptable alternative method to comply with the requirements of paragraph (1) or (3) of this AD, as applicable, for that affected part of that aeroplane. This can be accomplished in accordance with the instructions of the applicable Aircraft Maintenance Manual. Terminating Action: (5) Modification of an affected part in accordance with the instructions of Rolls-Royce SB RB211-71- K923 constitutes terminating action for the repetitive inspections as required by paragraph (2) of this AD for that part. Additional Requirements: (6) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, do not accomplish the SRM repair FRSZ026 on any affected part. Part(s) Installation: (7) For Group 1 and Group 2 aeroplanes: From the effective date of this AD, it is allowed to install an affected part on an aeroplane provided that, after that installation, the actions required by this AD, as applicable, are accomplished on that part.
+
+Ref. Publications: Airbus SB A330-71-3042 original issue dated 01 April 2025. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 18 June 2025 as PAD 25-086 for consultation until 16 July 2025. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0164 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

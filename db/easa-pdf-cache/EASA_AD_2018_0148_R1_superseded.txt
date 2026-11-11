@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0148R1
+
+Airworthiness Directive
+
+AD No.: 2018-0148R1
+
+Issued: 05 April 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: Revision 1: 12 April 2019 Original issue: 27 July 2018 TCDS Numbers: EASA.A.004 Foreign AD: Not applicable Revision: This AD revises EASA AD 2018-0148 dated 13 July 2018.
+
+ATA 78 – Exhaust – Thrust Reverser Lower Beam – Inspection / Repair
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-78-3023. The NMSB: Rolls Royce Non Modification SB (NMSB) RB.211-78-AH677, which includes a reference to Safran Nacelles NMSB 78-AH677. TRU Beam: Thrust Reverser (TR) Unit (TRU) C-duct lower structural 6 o’clock beam. Page 1 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0148R1
+
+Reason: Occurrences have been reported on A330 aeroplanes fitted with Trent 700 engines where a TRU beam was found with evidence of thermally caused material degradation in the rearmost section of the TRU beam at latches 5, 6 and 7 areas. Subsequent fatigue analysis determined that the static strength margins of the material of the TRU beam could be reduced, with detrimental effect on the operational fatigue life of the beam. This condition, if not detected and corrected, could lead to disconnection of the TRU from the engine, with possible damage to the engine adjacent structure and controls, and/or damage to the aeroplane, and injury to persons on the ground. To address this potential unsafe condition, Airbus issued the SB, which includes reference to the instructions of the NMSB, providing instructions to inspect each TRU beam. For the reasons described above, EASA issued AD 2018-0148 to require repetitive special detailed inspections (SDI) of the TRU beams and, depending on findings, accomplishment of applicable corrective action(s). Since that AD was issued, it was found that there may be cases where the flight cycles (FC) accumulated by a TRU beam are unknown (at that time, not a tracked part). This AD is revised to clarify that the FC accumulated by the TRU assembly can be used to determine the first inspection. This revised AD also introduces a new Table 1 (previous Table 1 becomes Table 2) to improve understanding of the initial compliance time and clarifies the area to be inspected, as specified in Table 2 of this revised AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Repetitive Inspections: (1) Within the compliance times specified in Table 1 of this AD, as applicable, and, thereafter, at intervals not to exceed 3 300 FC or 24 months accumulated by the TRU beam, whichever occurs first, accomplish an SDI (conductivity test) of each left-hand (LH) and right-hand (RH) TRU beam in accordance with the instructions of the SB. Table 1 – Initial SDI (Conductivity test) of TRU Beam Compliance Time (whichever occurs later, A or B) Before exceeding 3 300 FC or within 24 months, whichever occurs first since first A installation of the TRU beam or TRU assembly on an aeroplane Within 3 300 FC or 24 months, whichever occurs first after 27 July 2018 [the effective B date of this AD at original issue] Corrective Action(s): (2) If, during any SDI as required by paragraph (1) of this AD, damage to a TRU beam exceeds the limits specified in the NMSB (see Note 1 of this AD), before next flight, replace that TRU beam with a serviceable beam in accordance with the instructions of the SB. Page 2 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0148R1 Note 1: The NMSB contains, by reference to Safran Nacelles SB 78-AH677, a matrix to define “GO – NO GO” criteria and includes permitted fly-on damage limits. (3) If, during any SDI as required by paragraph (1) of this AD, the inspection result of one or more TRU beams is “GO” (see Note 1 of this AD), before next flight, accomplish the inspections as specified in Table 2 of this AD, as applicable, and, depending on findings, accomplish the applicable corrective action(s) in accordance with the instructions of the SB. Table 2 – Detailed Inspection (DET) / Ultrasonic Inspection TRU Position(s) Inspection Method, Areas and Purpose LH DET of TRU beam latches (5, 6 and 7) for bush migration and crack/deformation RH DET of TRU beam clevises (5, 6 and 7) for crack/deformation LH and RH Ultrasonic inspection of TR Outer Fixed Structure rear area for delamination Terminating Action: (4) None. Part Installation: (5) From the effective date of this AD, installation of a TRU beam on an aeroplane is allowed, provided that the TRU assembly of which that TRU beam is a component, or the TRU beam, as applicable, has not exceeded 3 300 FC or 24 months, whichever occurs first since its first installation on an aeroplane, or has passed an inspection (no defects found) in accordance with the instructions of the SB, and that, following its installation, it is inspected as required by paragraph (1) of this AD.
+
+Ref. Publications: Airbus SB A330-78-3023 original issue dated 12 December 2017. Rolls Royce NMSB RB211-78-AH677 original issue dated 18 December 2017. Safran Nacelles SB 78-AH677 dated 18 December 2017. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This revised AD was posted on 08 March 2019 as PAD 19-036 for consultation until 22 March 2019. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. The original issue of this AD was posted on 20 April 2018 as PAD 18-056 for consultation until 18 May 2018. The Comment Page 3 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2018-0148R1 Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming & Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

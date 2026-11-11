@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0281 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0281 Date: 22 December 2014 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EU 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EU 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): d AIRBUS A330 aeroplanes e TCDS Number: EASA.A.004 Foreign AD: Not applicable d
+
+Supersedure: This AD supersedes EASA AD 2014-0273 dated 17 December 2014. e Electrical Power – Alternating Current Emergency Generation –
+
+ATA 24 Operational Procedure s r
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, e A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers. p
+
+Reason: The Constant Speed Motor/Generator (CSM/G), as installed on Airbus A330 aeroplanes, is qualified for an overload condition of 9.5kVA for 30 minutes. This u duration is sufficient to perform safe landing and a GO-AROUND. However, electrical load analysis revealed that the hydraulic power might not be sufficient to supply the CSM/G during slat/flap extension, when only one engine is running. S This condition, if not corrected, and in conjunction with the loss of main electrical system, could lead to the scenario, where the crew is not clearly warned that the electrical system has switched on the battery and thus has a limited duration that would allow a safe landing. To address this potential unsafe condition, Airbus issued an Aircraft Flight Manual (AFM) Temporary Revision (TR) on A330 aeroplane to update the electrical emergency configuration “ELEC EMER CONFIG” procedure to require the pilot to deploy the ram air turbine manually before setting the Landing Recovery to ON position to provide sufficient hydraulic power and avoid CSM/G shedding under worst-case operational conditions. amendment of the AFM Consequently, EASA issued AD 2014-0273 to require TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0281 by incorporating the applicable Airbus TR. After that AD was issued, EASA became aware that the reference to Airbus modification (mod) 47930 was insufficient to define which AFM TR is applicable to which aeroplane (configuration), as this mod can be embodied in service with Airbus Service Bulletin (SB) A330-28-3067. For the reason described above, this AD retains the requirements of EASA AD 2014-0273, which is superseded, and corrects the information included in Table 1.
+
+Effective Date: 05 January 2015 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 15 days after the effective date of this AD, amend the emergency Time(s): procedures section of Airbus A330 AFM to incorporate the updated “ELEC - EMER CONFIG” procedure by inserting the AFM TR as defined in Table 1 of this AD, depending on aeroplane configuration. d Table 1 Aeroplane configuration AFM TR e A330 Pre-mod 47930; TR 427 issue 1 A330 Pre-SB A330-28-3067. A330 Post-mod 47930; d TR 428 issue 1 A330 Post-SB A330-28-3067. Amending the applicable AFM to incorporate a later revision which e includes the AFM TR as required by this AD, is acceptable to comply with the requirements of paragraph (1) of this AD. s (2) Concurrent with the AFM amendment as required by paragraph (1) of this AD, inform all flight crews and, thereafter, operate the aeroplane r accordingly.
+
+Ref. Publications: Airbus A330 AFM TR 427 Issue 1 EASA approved on 14 October 2014, e Airbus A330 AFM TR 428 Issue 1 EASA approved on 14 October 2014, Airbus A330 SB A330-28-3067 Original issue dated 23 March 2001, or Revision 1 dated 16 July 2001. p The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. u
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have S decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Certification Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS SAS – Airworthiness Office – EAL. E-mail: airworthiness.A330-A340@airbus.com. TE.CAP.00110-004 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

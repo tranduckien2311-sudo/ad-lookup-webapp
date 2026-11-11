@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-056-040(B) R3 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft BF GOODRICH carbon brakes Reduction of braking performances This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, on which AIRBUS INDUSTRIE modification 20856 or AIRBUS INDUSTRIE Service Bulletin A320-32-1090 has been incorporated without AIRBUS INDUSTRIE modification 23597 (brakes P/N 2-1526-4) or AIRBUS INDUSTRIE modification 24260 (brakes P/N 2-1526-5) or AIRBUS INDUSTRIE Service Bulletin A320-32-1114. In order to cover the reduction of braking performances of aircraft equipped with BF GOODRICH carbon brakes, the following measure is rendered mandatory on the effective date of this
+
+Airworthiness Directive : - Verify in the Aircraft Flight Manual incorporation of the Temporary Revision reference 9.99.99/89 issue 2 dated December 16, 1992. NOTE : For aircraft on which AIRBUS INDUSTRIE Modification 23597 or AIRBUS INDUSTRIE modification 24260 or total accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-32-1114 has been incorporated, the requirements of the present
+
+Airworthiness Directive are cancelled. Ref. : A320 Aircraft Flight Manual : Temporary Revision N° 9.99.99/89 issue 2 dated December 16, 1992 AIRBUS INDUSTRIE Service Bulletin A320-32-1114 (or any further approved revision). n/JYR …/… AIRBUS INDUSTRIE January 02, 1997 93-056-040(B) R3 A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 93-056-040(B) R3 Page n° 2 GSAC This Revision 3 replaces AD 93-056-040(B)R2 dated March 30, 1994. EFFECTIVE DATES : Original AD : MAY 09, 1993 Revision 1 : FEBRUARY 26, 1994 Revision 2 : APRIL 09, 1994 Revision 3 : JANUARY 11, 1997

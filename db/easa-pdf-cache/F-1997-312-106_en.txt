@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-312-106(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage - Inspection longitudinal lap joints Applicability : A320 AIRBUS INDUSTRIE all certified models MSN 002 to 008, 010 to 0,14, 0,16 to 039, 041 to 052, 054, 056 and 057 inclusive without AIRBUS INDUSTRIE Service Bulletin A320-53-1056 before accumulation of 20,000 flights. Reason : During fatigue tests, cracks on longitudinal lap joints have been detected. Actions : Mandatory on the effective date of this
+
+Airworthiness Directive : 1/ Before accumulation of 20,000 flights, inspect the upper river row of the longitudinal lap joint in accordance with AIRBUS INDUSTRIE Service Bulletin A320-53-1057 : - by a detail visual inspection, or - by Eddy Current method. 2/ If no crack is detected, repeat the inspection defined in paragraph 1) of this
+
+Airworthiness Directive : - every 4,000 flights if a detailed visual inspection has been performed, or - every 12,000 flights if the Eddy Current method was used. 3/ If cracks are found, depending on their length : - repeat the inspection at intervals and in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1057, or - repair in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1057. Note : Total application of AIRBUS INDUSTRIE Service Bulletin A320-53-1056 before accumulation of 20,000 flights cancels the requirements of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1056 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-53-1057 (or any further approved revision) d/JYR EFFECTIVE DATE : NOVEMBER 01, 1997 AIRBUS INDUSTRIE October 22, 1997 97-312-106(B) A320 Aircraft

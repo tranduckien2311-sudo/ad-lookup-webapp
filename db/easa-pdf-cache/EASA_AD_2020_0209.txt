@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0209
+
+Airworthiness Directive
+
+AD No.: 2020-0209
+
+Issued: 05 October 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 19 October 2020 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 53 – Fuselage – Wing-to-Fuselage Fillet Fairing Adjustable Rods – Replacement
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A330-243, A330-343 and A330-941 aeroplanes, manufacturer serial numbers (MSN) 1889, 1891 and 1893 to 1899 inclusive.
+
+Definitions: For the purpose of this AD, the following definitions apply: The SB: Airbus Service Bulletin (SB) A330-53-3297. Airbus date of manufacture: The date of transfer of title (ownership) which is referenced in Airbus documentation at the time of first delivery to an operator. Affected parts: Fillet fairing adjustable rods. Serviceable part: An affected part that is new (never installed).
+
+Reason: During a quality inspection on the final assembly line, at the wing/fuselage fillet interface, evidence of black stains and white oxidation was seen on several areas of the adjustable rods. These rods are Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0209 used to adjust and close the fillet fairing panels which provide the aerodynamic fairing between the wing and the fuselage. Additionally, it was determined that the black stains and oxidation are due to surface corrosion, which could continue to develop into the structure of the rods in the presence of natural air humidity. This condition, if not corrected, could lead to rod failure(s), and consequent fillet fairing detachment, possibly resulting in damage to the tailplane and consequent reduced control of the aeroplane. To address this potential unsafe condition, Airbus identified the MSN that may be affected by this issue and published the SB with inspection and replacement instructions. For the reason described above, this AD requires replacement of each affected part.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Replacement: Before exceeding 24 months since Airbus date of manufacture, replace each affected part with a serviceable part in accordance with the instructions of the SB.
+
+Ref. Publications: Airbus SB A330-53-3297 original issue dated 21 July 2020. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 26 August 2020 as PAD 20-125 for consultation until 23 September 2020. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0209 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

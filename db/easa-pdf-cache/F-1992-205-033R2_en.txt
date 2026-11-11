@@ -1,0 +1,18 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 92-205-033(B) R2 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage - Inspection - Pressure floor between frames 42 and 43 This
+
+Airworthiness Directive applies to A320 AIRBUS INDUSTRIE aircraft MSN 002 to 008, 010 to 014, 016 to 078, 080 to 104, 106 and 107 included. In order to detect or prevent any damage related to structural fatigue, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1/ Before accumulation of 12,000 flights, inspect pressure floor between frames 42 and 43 in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1024. 2/ Repeat the inspections as defined in paragraph 1. of this
+
+Airworthiness Directive in accordance with requirements as defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1024. 3/ For aircraft having incorporated AIRBUS INDUSTRIE Service Bulletin A320-53-1023 prior to the issue of revision N°3 and before accumulation of 24,000 flights, re-inspect pressure floor between frames 42 and 43 in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1024 and refer to paragraph 2. of this
+
+Airworthiness Directive for subsequent inspection. 4/ For aircraft having previously incorporated AIRBUS INDUSTRIE Service Bulletin A320-53-1023 prior to the issue of revision N°7, refer to AD 96-053-077(B). Note : Total application of AIRBUS INDUSTRIE Service Bulletin A320-53-1023 revision 7 cancels requirements of this
+
+Airworthiness Directive. Ref. : DGAC
+
+Airworthiness Directive N° 96-053-077(B) AIRBUS INDUSTRIE Service Bulletin A320-53-1023R7 AIRBUS INDUSTRIE Service Bulletin A320-53-1024 This Revision 2 replaces AD 92-205-033(B)R1 dated June 22, 1994. EFFECTIVE DATES : Original AD : OCTOBER, 10 1992 Revision 1 : JULY 02, 1994 Revision 2 : MARCH 23, 1996 v/JYR AIRBUS INDUSTRIE March 13, 1996 92-205-033(B) R2 A320 Aircraft

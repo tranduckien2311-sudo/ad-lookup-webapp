@@ -1,0 +1,43 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0246R1
+
+Airworthiness Directive
+
+AD No.: 2017-0246R1
+
+Issued: 06 April 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: Revision 1: 13 April 2018 Original issue: 25 December 2017 TCDS Numbers: EASA.A.004 Foreign AD: Not applicable Revision: This AD revises EASA AD 2017-0246 dated 11 December 2017.
+
+ATA 27 – Flight Controls – Flight Control Primary Computer – Modification / Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), if equipped with Flight Control Primary Computer (FCPC) having software standard P13/M22 (hardware 2K2), P14/M23 (hardware 2K1) or M23 (hardware 2K0), or earlier standard. Note 1: These software standards correspond, respectively, to Part Number (P/N) LA2K2B100DG0000, P/N LA2K1A100DF0000 and P/N LA2K01500AF0000. All affected aeroplanes should be equipped with this software, as required by EASA AD 2015-0124R3.
+
+Reason: In 2015, occurrences were reported of multiple Angle of Attack (AOA) blockages. Investigation results indicated the need for AOA monitoring in order to better detect cases of AOA blockage. Page 1 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0246R1 This condition, if not corrected, could, under specific circumstances, lead to undue activation of the Alpha protection, possibly resulting in reduced control of the aeroplane. To address this potential unsafe condition, Airbus developed new FCPC software standards for enhanced AOA monitoring and, consequently, EASA issued AD 2015-0124 (later revised) to require these software standard upgrades. Since EASA AD 2015-0124R3 was issued, it was identified that, for some cases, AOA blockages were not detected by those FCPC software standards. Consequently, new FCPC software standards, as specified in Table 1 of this AD, have been developed (Airbus modification (mod) 206412, mod 206413 and mod 206414) to further improve the detection of AOA blockage. Airbus issued Service Bulletin (SB) A330-27-3222 and SB A330-27-3223 to implement these mods on in-service aeroplanes. Consequently, EASA issued AD 2017-0246 to require a software standard upgrade of the three FCPCs, either by modification or replacement. Since that AD was issued, it was determined that the Aircraft Flight Manual (AFM) Emergency Procedure, as previously required by EASA AD 2014-0267-E, can also be removed for other AOA sensors and FCPC configurations. This AD revises paragraph (2) accordingly, also introducing Table 2 for that purpose.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 2: Airbus SB A330-27-3222 and SB A330-27-3223 are collectively referred to as ‘the applicable Airbus SB’ in this AD. Note 3: For the purpose of this AD, Group 1 aeroplanes are those in pre-mod 206412, pre-mod 206413 or pre-mod 206414 configuration, as applicable. Group 2 aeroplanes are those in post-mod (206412, 206413 or 206414) configuration. Modification / Replacement: (1) For Group 1 aeroplanes: Within 12 months after 25 December 2017 [the effective date of the original issue of this AD], modify or replace the three FCPCs, by installing software standards as specified in Table 1 of this AD, in accordance with the instructions of the applicable Airbus SB. Table 1 – Software Standard Updates FCPC Hardware Software Standard to Applicable SB be installed Standard(s) P15/M24 2K2 SB A330-27-3222 P16/M25 2K1 SB A330-27-3223 M25 2K0 Page 2 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0246R1 AFM Change: (2) After modification of an aeroplane as required by paragraph (1) of this AD and with an AOA configuration as identified in Table 2 of this AD, or as identified in paragraph (10) of EASA AD 2015-0134, as applicable, the operational procedure ‘AFM Temporary Revision 528’ (any issue), as previously required by EASA AD 2014-0267-E, is no longer necessary and can be removed from the AFM of that aeroplane. Table 2 – AOA Sensor Installation configurations AOA Sensor P/N - Captain AOA Sensor P/N - First Officer AOA Sensor P/N - Standby C16291AB, C16291AA, C16291AB or C16291AA C16291AB or C16291AA 0861ED or 0861ED2 Note 4: For AOA Sensor P/N C16291AA, the DET and a functional heating test of each sensor must be accomplished as required by paragraph (3) of EASA AD 2015-0134. Credit: (3) An aeroplane modified as required by paragraph (1) of this AD remains compliant with the modification requirements of paragraph (1) of EASA AD 2015-0124 (any revision) for that aeroplane. Part Installation Prohibition: (4) Do not install on an aeroplane any software or hardware of a version earlier than the one listed in Table 1 of this AD, as required by paragraph (4.1) or (4.2) of this AD, as applicable. (4.1) For Group 1 aeroplanes: After modification of the aeroplane as required by paragraph (1) of this AD. (4.2) For Group 2 aeroplanes: From 25 December 2017 [the effective date of the original issue of this AD].
+
+Ref. Publications: Airbus SB A330-27-3222 original issue dated 16 February 2017. Airbus SB A330-27-3223 original issue dated 06 June 2017. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 24 October 2017 as PAD 17-153 for consultation until 21 November 2017. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. Page 3 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2017-0246R1 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

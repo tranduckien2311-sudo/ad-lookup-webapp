@@ -1,0 +1,8 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 89-198-004(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 aircraft Stand-by generator control unit (GCU) The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320, all models, without modification AIRBUS INDUSTRIE 21052 embodied, or without AIRBUS INDUSTRIE Service Bulletin A320-24-1022 and AIRBUS INDUSTRIE modification 21736, or without AIRBUS Service Bulletin A320-24-1035. In order to prevent an incorrect in-service functioning of the stand-by GCU, the following measure is rendered mandatory : - Unless already carried out and before May 31, 1990, replace stand-by GCU : - For P/N 520738 by a GCU P/N 520915 according to instructions given by Service Bulletins AIRBUS INDUSTRIE A320-24-1022 and A320-24-1035. - For P/N 520754 by a GCU P/N 520915 according to instructions given by Service Bulletin AIRBUS INDUSTRIE A320-24-1035. Ref. : SB AIRBUS INDUSTRIE A320-24-1022 SB AIRBUS INDUSTRIE A320-24-1035 This revision 1 cancels and replaces the original AD 89-198-004(B) dated December 27, 1989. EFFECTIVE DATE : JUNE 6, 1992 e/C AIRBUS INDUSTRIE May 27, 1992 89-198-004(B) R1 A320 aircraft

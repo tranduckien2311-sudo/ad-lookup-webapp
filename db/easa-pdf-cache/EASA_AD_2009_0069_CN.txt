@@ -1,0 +1,34 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2009-0069-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2009-0069-CN
+
+Issued: 21 February 2025 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines
+
+Effective Date: 21 February 2025 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable Cancellation: This AD-CN cancels EASA AD 2009-0069 dated 25 March 2009.
+
+ATA 72 – CANCELLED: Engine – Intermediate Pressure Turbine Bearing Oil Vent & Scavenge Tube – Inspection / Modification
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, except engines modified in accordance with Rolls-Royce Service Bulletin (SB) RB211-72-E708, SB RB.211-72-E965 or SB RB.211-72-F227. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: None.
+
+Reason: In 2004, two Trent 700 engines were removed due to high oil consumption. Investigation determined that the High Pressure/Intermediate Pressure (HP/IP) turbine bearing oil tubes had been fretted by the tubes’ damaged heatshields. On both occasions, the outer heatshield had fretted through the tube wall, in one case affecting the feed tube, and in the other one the scavenge tube. A previous service incident has shown that ingestion of HP3 cooling air into a breached scavenge or vent tube can cause over-pressurisation of the HP/IP bearing chamber. This would cause oil ejection from the rear of the chamber. The possible ignition of this oil could result in Page 1 of 3 TE.CAP.00116-008 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2009-0069-CN an IPT shaft failure, leading to IP turbine disc overspeed and resultant release of hazardous high energy debris. This condition, if not detected and corrected, could result to engine fire and damage to or reduced control of the aeroplane. To address this potential unsafe condition, the Civil Aviation Authority of the United Kingdom issued AD G-2005-0016, requiring the inspection of the vent- and scavenge tubes and heatshields for damage. That AD was revised and subsequently superseded by EASA AD 2005-0024, retaining the requirements thereof and requiring the modification of the tubes to delete or upgrade the outer heatshield. Later, EASA AD 2007-0255 superseded EASA AD 2005-0024, retaining the requirements thereof and adding an inspection of the vent pipe restrictor, to ensure that blockage of the restrictor does not occur due to carbon deposits loosened by the heatshield inspection. Subsequently, EASA AD 2009-0069 superseded EASA AD 2007-0255 retaining its requirements, expanding the Applicability by adding 772C-60 engines and extending the deadline for accomplishing the terminating action. Since EASA AD 2009-0069 was issued, Rolls-Royce confirmed that all in-service Trent 700 engines were modified to embody Rolls-Royce SB RB.211-72-E708 and SB RB.211-72-F227 and are not affected anymore by the unsafe condition addressed by that AD. This Notice, therefore, cancels EASA 2009-0069.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Rolls-Royce Non-Modification Service Bulletin RB211-72-AE792 Revision 4 dated 02 August 2007, or Revision 5 dated 06 December 2024. Rolls-Royce Modification Service Bulletin (MSB) RB211-72-F227 original issue 30 March 2007, or Revision 1 dated 08 October 2007, or Revision 2 dated 01 December 2013. Rolls-Royce MSB RB211-72-AE708 Revision 2 dated 06 September 2005. Rolls-Royce MSB RB211-72-F117 original issue dated 06 June 2006, or Revision 1 dated 14 September 2006, or Revision 2 dated 25 September 2006. Rolls-Royce MSB RB211-72-E965 Revision 1 dated 18 December 2009.
+
+Remarks: 1. This AD-CN was posted on 20 January 2025 as PAD 25-014-CN for consultation until 17 February 2025. No comments were received during the consultation period. 2. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 3 TE.CAP.00116-008 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA AD Cancellation Notice No.: 2009-0069-CN 3. For any question concerning the technical content of this AD-CN, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. Page 3 of 3 TE.CAP.00116-008 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

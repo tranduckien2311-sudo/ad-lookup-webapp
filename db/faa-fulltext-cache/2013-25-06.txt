@@ -1,0 +1,558 @@
+[Federal Register Volume 79, Number 3 (Monday, January 6, 2014)]
+[Rules and Regulations]
+[Pages 532-536]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2013-31527]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0208; Directorate Identifier 2012-NM-204-AD; 
+Amendment 39-17702; AD 2013-25-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A318, A319, A320, and A321 series airplanes. This AD was 
+prompted by a determination that certain maintenance activities, such 
+as repairs or the accumulation of paint layers, might cause the weight 
+of an elevator to exceed the certified limits. This AD requires 
+checking the weight of certain elevators, and corrective action if 
+necessary; and re-identifying the elevators. We are issuing this AD to 
+detect and correct elevators that exceed the certified weight limits, 
+which could result in reduced control of the airplane.
+
+DATES: This AD becomes effective February 10, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 10, 
+2014.
+
+ADDRESSES: You may examine the AD on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-0208; or in person at the 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., 
+Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may view this
+
+[[Page 533]]
+
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, WA. For information on the 
+availability of this material at the FAA, call 425-227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone (425) 227-1405; 
+fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to the specified products. 
+The NPRM was published in the Federal Register on March 11, 2013 (78 FR 
+15335). The NPRM proposed to correct an unsafe condition for the 
+specified products.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2012-0221, dated October 23, 2012 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+It has been identified that maintenance activities, such as repairs 
+or the accumulation of paint layers, may cause the weight of an 
+elevator to exceed the certified limits.
+This condition, if not detected and corrected, could result in 
+reduced control of the aeroplane.
+For the reasons described above, this [EASA] AD requires a onetime 
+weight check of both left-hand (LH) and right-hand (RH) elevators, 
+accomplishment of corrective actions, as applicable, depending on 
+findings, and re-identification of the elevators.
+The monitoring of elevator weight evolution after having complied 
+with this [EASA] AD is ensured by Airbus A318/A319/A320/A321 ALS 
+Part 2 CDCCL (Critical Design Configuration Control Limitations), 
+compliance with which is currently required by EASA AD 2010-0071R1 
+(http://ad.easa.europa.eu/blob/easa_ad_2010_0071_R1.pdf/AD_2010-0071R1_1), [which corresponds to FAA AD 2011-14-06, Amendment 
+39-16741 (76 FR 42024, July 18, 2011)].
+
+Corrective action includes removing the paint from the elevator surface 
+and repainting, or replacing the elevator with a serviceable elevator 
+if the weight estimate is over the certified weight limit; and 
+repairing the elevator. You may examine the MCAI in the AD docket on 
+the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-
+0208-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received.
+
+Support for the NPRM (78 FR 15335, March 11, 2013)
+
+    US Airways stated it agrees with the NPRM (78 FR 15335, March 11, 
+2013) to ensure safety and has been actively weighing and applying new 
+part numbers for over a year.
+
+Request To Change Compliance Time Stipulation
+
+    Airbus requested we change paragraph (i) of the NPRM (78 FR 15335, 
+March 11, 2013) to specify that the corrective action for an overweight 
+elevator is required before further flight for that elevator and not 
+for the airplane.
+    We agree with the commenter's request because the intent of the 
+final rule is to prohibit flight with elevators that exceed the weight 
+limit established in accordance with Airbus Service Bulletin A320-55-
+1034, including Appendices 1 and 2, dated August 19, 2011. We have 
+changed paragraph (i) in this final rule to state ``. . . Before 
+further flight with an elevator that exceeds the weight limits 
+established in Airbus Service Bulletin A320-55-1034, including 
+Appendices 1 and 2, dated August 19, 2011, repair . . . .''
+
+Request To Allow Maintenance Record Check To Identify Affected 
+Elevators
+
+    Delta Airlines (DAL) requested we revise the NPRM (78 FR 15335, 
+March 11, 2013) to allow omitting the elevator weight check if a review 
+of the airplane maintenance records shows that an affected elevator is 
+not installed on the airplane.
+    We disagree with the commenter's request. This final rule does not 
+specify a particular method of determining if an affected elevator is 
+installed. Paragraph (c) of this final rule identifies the affected 
+airplanes, and table 1 to paragraph (g) of this AD lists the affected 
+elevator part numbers. Once an operator determines an affected elevator 
+part number is not installed on an airplane in its fleet, the operator 
+may record compliance with this AD for those airplanes and elevator 
+part numbers. However, the operator is still subject to paragraph (l) 
+of this AD, which prohibits installing the elevator part numbers listed 
+in table 1 to paragraph (g) of this AD, unless the actions required by 
+this AD are accomplished on the elevator before installation. We have 
+not changed this final rule in this regard.
+
+Request To Omit the Elevator Weight Check Under Certain Conditions
+
+    DAL requested we add a note to the NPRM (78 FR 15335, March 11, 
+2013) similar to a note in paragraph 1.E., ``Compliance,'' of Airbus 
+Service Bulletin A320-55-1034, including Appendices 1 and 2, dated 
+August 19, 2011. DAL stated that elevator installation requires 
+compliance with a critical design configuration control limitation 
+(CDCCL) that requires weighing the elevator. DAL commented that the 
+note states it is not necessary to weigh the elevator again if an 
+elevator has previously been weighed for the CDCCL requirement and, 
+since the elevator was weighed, no maintenance actions were carried out 
+on it that could have led to an elevator weight increase.
+    We disagree with the commenter's request to add a note to this 
+final rule. Paragraph (g)(1) of this AD already allows a records review 
+if the elevator weight can be conclusively determined from review of 
+maintenance records. We have not changed this final rule in this 
+regard.
+
+Request To Change Applicability
+
+    US Airways requested we change the applicability of the NPRM (78 FR 
+15335, March 11, 2013) from airplanes to all part numbers of affected 
+elevators. US Airways stated that the NPRM should be a component AD, as 
+the elevators are interchanged among the fleet, and AD applicability by 
+manufacturer serial number (MSN) of the airplane could be confusing.
+    We disagree with the commenter's request. The FAA risk assessment 
+was performed to determine corrective action(s) for mitigating the 
+unsafe condition at an airplane level. Since the elevator parts are 
+interchanged among the fleet, this final rule applicability at an 
+airplane level will ensure discrepant elevator parts are identified and 
+corrected. We have not changed this final rule in this regard.
+
+Request for Clarification of Applicability
+
+    US Airways requested clarification as to why elevators having ``MPN 
+D55280002002 & D55280002003'' are not included in the NPRM (78 FR 
+15335, March 11, 2013). US Airways stated that these elevators have a 
+requirement for a weight check after any repair according to Component 
+Maintenance Manual Manufacturer 55-21-15, Revision 13, dated January 1, 
+2013.
+
+[[Page 534]]
+
+    We agree to clarify. The purpose of this AD is to perform a one-
+time weight check of all elevators that are in service with no record 
+of weight at the time of production. Airbus Modification 150390 
+installs a placard with the elevator weight during production. The two 
+part numbers referenced by US Airways are installed in production by 
+Airbus Modification 150390, and the configuration is maintained by 
+CDCCL in Airbus A318/A319/A320/A321 Airworthiness Limitations Section 
+Part 2--Damage-Tolerant Airworthiness Limitation Items. Therefore, the 
+two part numbers are not included in this final rule. We have not 
+changed this final rule in this regard.
+
+Request To Approve Alternative Paints
+
+    US Airways requested we change the corrective actions in the NPRM 
+(78 FR 15335, March 11, 2013) to reflect that primer paints called out 
+in Structural Repair Manual 51-23-11, Page 10, Table 6, Sheet 3 (F1 
+area), are approved as alternate paints to apply to elevators that need 
+to be re-painted. US Airways stated that Appendix 1, step (5)(b) and 
+step (6) of Airbus Service Bulletin A320-55-1034, including Appendices 
+1 and 2, dated August 19, 2011, requires an external paint scheme and 
+the primer materials called out in this service information are not 
+readily available.
+    We disagree with the commenter's request. The commenter did not 
+provide substantiation for an equivalent alternative to the primer 
+material referenced in the service information in this final rule. The 
+operator may apply for approval of an alternative method of compliance 
+under the provisions of paragraph (m) of this final rule to use 
+different primer material. We have not changed this final rule in this 
+regard.
+
+Request To Correct Typographical Error
+
+    DAL noted an error in paragraph (h)(2) of the NPRM (78 FR 15335, 
+March 11, 2013), which should state ``than'' instead of ``that.''
+    Paragraph (h)(2) of the NPRM (78 FR 15335, March 11, 2013) stated 
+``For elevators other that those identified in . . . .'' We agree with 
+the commenter's request and have changed paragraph (h)(2) of this final 
+rule to state ``For elevators other than those . . . .''
+
+Request To Revise Certain Terminology
+
+    Airbus requested we revise paragraph (i) of the NPRM (78 FR 15335, 
+March 11, 2013) to use the word ``restore'' in lieu of ``repair.'' 
+Airbus stated it considers the word ``restore'' to be more appropriate 
+for the required actions (i.e., removal of paint layers).
+    We disagree with the commenter's request. The intent of word 
+``repair'' is to restore the structure/part to its original type design 
+configuration. Therefore, replacing the word ``repair'' with 
+``restore'' may be misinterpreted. We have not changed this final rule 
+in this regard.
+
+Change to This Final Rule
+
+    We have changed the first compliance time specified in paragraph 
+(i) of this AD from ``before further flight'' to ``within the 
+applicable time specified in paragraph (h)(1) or (h)(2) of this AD.'' 
+We have determined that this change will provide sufficient time to 
+adequately address the identified unsafe condition.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (78 FR 15335, March 11, 2013) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (78 FR 15335, March 11, 2013).
+
+Costs of Compliance
+
+    We estimate that this AD affects 755 products of U.S. registry. We 
+estimate that it will take about 45 work-hours per product to comply 
+with the basic requirements of this AD. The average labor rate is $85 
+per work-hour. Based on these figures, we estimate the cost of this AD 
+to the U.S. operators to be $2,887,875, or $3,825 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-0208-0002; or in 
+person at the Docket Operations office between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD, the regulatory evaluation, any comments received, and other 
+information. The street address for the Docket Operations office 
+(telephone (800) 647-5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+[[Page 535]]
+
+2013-25-06 Airbus: Amendment 39-17702. Docket No. FAA-2013-0208; 
+Directorate Identifier 2012-NM-204-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective February 10, 
+2014.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, listed in paragraphs (c)(1) through (c)(4) of this AD, all 
+serial numbers.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-111, -211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 55, Stabilizers.
+
+(e) Reason
+
+    This AD was prompted by a determination that certain maintenance 
+activities, such as repairs or the accumulation of paint layers, 
+might cause the weight of an elevator to exceed the certified 
+limits. We are issuing this AD to detect and correct elevators that 
+exceed certified weight limits, which could result in reduced 
+control of the airplane.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Weight Check
+
+    At the applicable time specified in paragraph (h)(1) or (h)(2) 
+of this AD: Do a weight check on the elevators identified in table 1 
+to paragraph (g) of this AD. Do the weight check in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A320-55-
+1034, including Appendices 1 and 2, dated August 19, 2011, except as 
+specified in paragraphs (g)(1), (g)(2), and (g)(3) of this AD.
+
+    Table 1 to Paragraph (g) of This AD--Affected Part Numbers (P/N)
+------------------------------------------------------------------------
+                 Part name                   P/N (first 12 digits only)
+------------------------------------------------------------------------
+Left Hand Elevator........................  D55280001000
+Left Hand Elevator........................  D55280001002
+Left Hand Elevator........................  D55280001004
+Left Hand Elevator........................  D55280001008
+Left Hand Elevator........................  D55280001010
+Left Hand Elevator........................  D55280001012
+Left Hand Elevator........................  D55280002000
+Right Hand Elevator.......................  D55280001001
+Right Hand Elevator.......................  D55280001003
+Right Hand Elevator.......................  D55280001005
+Right Hand Elevator.......................  D55280001009
+Right Hand Elevator.......................  D55280001011
+Right Hand Elevator.......................  D55280001013
+Right Hand Elevator.......................  D55280002001
+------------------------------------------------------------------------
+
+    (1) A review of the airplane maintenance records is acceptable 
+in lieu of the weight check required by the introductory text of 
+paragraph (g) of this AD, provided the elevator weight can be 
+conclusively determined from that review.
+    (2) The use of elevator weight data from production, as 
+specified in Airbus Service Bulletin A320-55-1034, including 
+Appendices 1 and 2, dated August 19, 2011, is acceptable in lieu of 
+the weight check required by the introductory text of paragraph (g) 
+of this AD, provided that the affected elevator has not been 
+subjected to any maintenance action that could have modified the 
+weight.
+    (3) Airplanes on which Airbus Modification 150390 has been 
+embodied in production are not required to do the actions specified 
+in the introductory text of paragraph (g) of this AD, provided that 
+no elevator having a part number specified in table 1 to paragraph 
+(g) of this AD has been installed on that airplane since the 
+airplane's first flight.
+
+(h) Compliance Time for the Actions Specified in Paragraphs (g) and (i) 
+of This AD
+
+    (1) For an elevator for which, as of the effective date of this 
+AD, the records show that no maintenance actions have been performed 
+since first installation of the elevator on an airplane, which might 
+have increased its weight: Within 72 months after the effective date 
+of this AD.
+    (2) For elevators other than those identified in paragraph 
+(h)(1) of this AD: Within 48 months after the effective date of this 
+AD.
+
+(i) Corrective Actions
+
+    If the elevator weight, determined as required by paragraph (g) 
+of this AD, exceeds the weight limit specified in the Accomplishment 
+Instructions of Airbus Service Bulletin A320-55-1034, including 
+Appendices 1 and 2, dated August 19, 2011: Within the applicable 
+time specified in paragraph (h)(1) or (h)(2) of this AD, do the 
+applicable corrective actions followed by a new weight check of the 
+elevator, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-55-1034, including Appendices 1 and 2, 
+dated August 19, 2011. If the elevator weight, determined as 
+required by the new weight check, exceeds the weight limit specified 
+in the Accomplishment Instructions of Airbus Service Bulletin A320-
+55-1034, including Appendices 1 and 2, dated August 19, 2011: Before 
+further flight with an elevator that exceeds the weight limits 
+established in Airbus Service Bulletin A320-55-1034, including 
+Appendices 1 and 2, dated August 19, 2011, repair the elevator using 
+a method approved by either the Manager, International Branch, ANM-
+116, Transport Airplane Directorate, FAA; or the European Aviation 
+Safety Agency (EASA) (or its delegated agent).
+
+(j) Elevator Re-Identification
+
+    If the elevator weight, determined by the weight check specified 
+in paragraph (g) or (i) of this AD, does not exceed the weight limit 
+specified in the Accomplishment Instructions of Airbus Service 
+Bulletin A320-55-1034, including Appendices 1 and 2, dated August 
+19, 2011: Within 72 months after the effective date of this AD, 
+record the elevator weight and re-identify the elevator, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-55-1042, Revision 01, dated June 29, 2012.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(j) of this AD, if those actions were performed before the effective 
+date of this AD using Airbus Service Bulletin A320-55-1042, dated 
+August 19, 2011, which is not incorporated by reference in this AD.
+
+(l) Parts Installation Limitation
+
+    As of the effective date of this AD, no person may install on 
+any airplane an elevator with a part number listed in table 1 to 
+paragraph (g) of this AD, unless that elevator is in compliance with 
+the requirements of this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone (425) 227-1405; fax (425) 227-1149. Information may 
+be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2012-0221, dated
+
+[[Page 536]]
+
+October 23, 2012, for related information. You may examine the MCAI 
+in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2013-0208-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference may be obtained at the addresses specified 
+in paragraph (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-55-1034, including Appendices 1 
+and 2, dated August 19, 2011.
+    (ii) Airbus Service Bulletin A320-55-1042, Revision 01, dated 
+June 29, 2012.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view copies of the service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 4, 2013.
+John P. Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2013-31527 Filed 1-3-14; 8:45 am]
+BILLING CODE 4910-13-P

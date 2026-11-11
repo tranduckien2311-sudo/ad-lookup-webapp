@@ -1,0 +1,35 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2021-0071
+
+Airworthiness Directive
+
+AD No.: 2021-0071
+
+Issued: 12 March 2021 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 26 March 2021 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None ATA – Aircraft Flight Manual –Take-off Distance Determination Procedure – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-323, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AFM CP: Airbus A330 Aircraft Flight Manual (AFM) Certification Package (CP) 238 introducing Complementary Performance Data File (CPDF) CP330A03.
+
+Reason: An erroneous value has been discovered in some aeroplane Aircraft Data Files used for AFM performance computation. The effect of the computation of this erroneous value generates a wrong displacement drag in the Take-Off, Accelerate-Stop and Landing Distances computations for particular situations. This condition, if not corrected, in combination with one-engine inoperative at take-off and with more than 50 mm dry snow at an airport within an AFM altitude domain between 8 000 and 12 500 Page 1 of 2 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2021-0071 feet, could lead to substantially reduced performance of the aeroplane, leading to a runway overrun, possibly resulting in damage to the aeroplane and injury to occupants. To address this potential unsafe condition, Airbus corrected the data file used for performance computation on dry snow contaminants and issued the AFM CP, as defined in this AD, with the corrected data file in the performance database section. For the reasons described above, this AD requires amendment of the applicable AFM by inserting the amended performance database section.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: AFM Amendment: (1) Within 30 days after the effective date of this AD, implement the AFM CP, as defined in this AD, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the AFM of an aeroplane by incorporating a later AFM revision which includes the content(s) of the AFM CP, as defined in this AD, is acceptable to comply with the requirements of paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus A330 AFM CP 238 introducing CPDF CP330A03, dated 03 April 2020.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve alternative methods of compliance for this AD. 2. This AD was posted on 23 February 2021 as PAD 21-028 for consultation until 09 March 2021. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 2 of 2 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

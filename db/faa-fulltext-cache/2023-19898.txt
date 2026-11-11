@@ -1,0 +1,419 @@
+[Federal Register Volume 88, Number 177 (Thursday, September 14, 2023)]
+[Rules and Regulations]
+[Pages 63011-63014]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-19898]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1051; Project Identifier MCAI-2022-01565-T; 
+Amendment 39-22529; AD 2023-17-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200 series airplanes, Model A330-200 Freighter 
+series airplanes, Model A330-300 series airplanes, Model A340-200 
+series airplanes, and Model A340-300 series airplanes. This AD was 
+prompted by a report that certain overheat detection system (OHDS) 
+sensing elements, produced before January 31, 2021, may not properly 
+detect thermal bleed leak events due to a quality escape during the 
+manufacturing process. This AD requires a one-time special detailed 
+inspection (SDI) for discrepancies of each affected part installed at 
+an affected position, and replacement of discrepant parts, as specified 
+in a European Union Aviation Safety Agency (EASA) AD, which is 
+incorporated by reference. This AD would also prohibit the installation 
+of affected parts. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+
+DATES: This AD is effective October 19, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of October 19, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-1051; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material incorporated by reference in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; website easa.europa.eu. You 
+may find this material on the EASA website at ad.easa.europa.eu.
+     For Kidde Aerospace & Defense service information 
+incorporated by reference in this AD, contact Kidde Aerospace & 
+Defense, 4200 Airport Drive NW, Building B, Wilson, NC 27896; telephone 
+319-295-5000; website kiddetechnologies.com/aviation.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2023-1051.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+telephone 206-231-3667; email [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A330-200 \1\ series airplanes, Model A330-200 Freighter series 
+airplanes, Model A330-300 series airplanes, Model A340-200 series 
+airplanes, and Model A340-300 series airplanes. The NPRM published in 
+the Federal Register on May 26, 2023 (88 FR 34097). The NPRM was 
+prompted by AD 2022-0243, dated December 8, 2022, issued by EASA, which 
+is the Technical Agent for the Member States of the European Union 
+(EASA AD 2022-0243) (also referred to as the MCAI). The MCAI states 
+that the affected part manufacturer, Kidde Aerospace & Defense, 
+reported that certain OHDS sensing elements, produced before January 
+31, 2021, may not properly detect thermal bleed leak events due to a 
+quality escape during the manufacturing process.
+---------------------------------------------------------------------------
+
+    \1\ In the preamble of the NPRM, the FAA inadvertently referred 
+to model ``A320-200'' series airplanes. The affected airplane 
+models, however, were correctly described in the Applicability 
+paragraph. The preamble of this final rule has been corrected to 
+reference the correct model, ``A330-200'' series airplanes.
+---------------------------------------------------------------------------
+
+    In the NPRM, the FAA proposed to require a one-time SDI for 
+discrepancies of each affected part installed at an affected position, 
+and replacement of discrepant parts, as specified in EASA AD 2022-0243. 
+The NPRM also proposed to prohibit the installation of
+
+[[Page 63012]]
+
+affected parts. The FAA is issuing this AD to address an air leak 
+remaining undetected by the OHDS sensing element and not being isolated 
+during flight. The unsafe condition, if not addressed, could possibly 
+result in localized areas of the airplane being exposed to high 
+temperatures, with consequent reduced structural integrity of the 
+airplane.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2023-1051.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Air Line Pilots Association, 
+International (ALPA), who supported the NPRM without change.
+    The FAA received additional comments from Airbus SAS. The following 
+presents the comment received on the NPRM and the FAA's response.
+
+Request To Correct the Referenced EASA AD Number
+
+    Airbus SAS requested to correct the EASA AD number referenced in 
+paragraph (h)(5) of the proposed AD. The reference to EASA AD 2022-0234 
+is a mistake as it should refer to EASA AD 2022-0243.
+    The FAA agrees that EASA AD 2022-0243 is correct for paragraph 
+(h)(5) of this AD. The FAA has changed this AD accordingly.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, and any other changes described previously, this AD is adopted 
+as proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA 2022-0243 specifies procedures for a one-time SDI for 
+discrepancies of each affected part installed at an affected position, 
+and replacement of discrepant parts where the displayed electronic 
+centralized aircraft monitoring (ECAM) warning is not related to 
+results of a heat gun test at certain locations. EASA AD 2022-0243 also 
+prohibits the installation of affected parts.
+    The FAA reviewed Kidde Aerospace & Defense Service Bulletin CFD-26-
+3, dated January 13, 2022; and Revision 1, dated March 29, 2022, which 
+identify affected OHDS sensing elements (those having certain part 
+numbers and corresponding date codes). These documents are distinct 
+because Revision 1 corrects typographical errors and clarifies wording.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 119 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+Up to 64 work-hours x $85 per hour = $5,440..................              $0           $5,440         $647,360
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+13 work-hours x $85 per hour = $1,105.             * $           $1,105
+------------------------------------------------------------------------
+* The FAA has received no definitive data on which to base the parts
+  cost.
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this AD may be covered under warranty, thereby reducing the cost impact 
+on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+
+[[Page 63013]]
+
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-17-03 Airbus SAS: Amendment 39-22529; Docket No. FAA-2023-1051; 
+Project Identifier MCAI-2022-01565-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 19, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes specified in 
+paragraphs (c)(1) through (5) of this AD, certificated in any 
+category.
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (4) Model A340-211, -212, and -213 airplanes.
+    (5) Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 36, Pneumatic.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that certain overheat detection 
+system (OHDS) sensing elements, produced before January 31, 2021, 
+may not properly detect the thermal bleed leak events due to a 
+quality escape during the manufacturing process. The FAA is issuing 
+this AD to address an air leak remaining undetected by the OHDS 
+sensing element and not being isolated during flight. The unsafe 
+condition, if not addressed, could possibly result in localized 
+areas of the airplane being exposed to high temperatures, with 
+consequent reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2022-0243, dated December 8, 2022 (EASA AD 2022-0243).
+
+(h) Exceptions to EASA AD 2022-0243
+
+    (1) Where EASA AD 2022-0243 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) This AD does not adopt the ``Remarks'' section of EASA AD 
+2022-0243.
+    (3) Where EASA AD 2022-0243 defines ``affected part'' and refers 
+to ``the VSB'' for the part numbers and date codes, for this AD, use 
+Kidde Aerospace & Defense Service Bulletin CFD-26-3, dated January 
+13, 2022; or Revision 1, dated March 29, 2022, as ``the VSB'' for 
+the part numbers and date codes.
+    (4) Where EASA AD 2022-0243 defines Groups, replace the text 
+``the SB'' with ``Airbus Service Bulletin A330-36-3052, dated June 
+27, 2022; or Airbus SB A340-36-4036, dated June 27, 2022; as 
+applicable.''
+    (5) Where paragraph (2) of EASA AD 2022-0243 specifies action if 
+``any discrepancy as defined in the SB is detected,'' for this AD a 
+discrepancy is when the displayed electronic centralized aircraft 
+monitoring (ECAM) warning is not related to results of a heat gun 
+test at certain location.
+
+(i) No Reporting Requirement and No Return of Parts
+
+    (1) Although the service information referenced in EASA AD 2022-
+0243 specifies to submit certain information to the manufacturer, 
+this AD does not include that requirement.
+    (2) Although the service information referenced in EASA AD 2022-
+0243 specifies to return certain parts to the manufacturer, this AD 
+does not include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the International 
+Validation Branch, send it to the attention of the person identified 
+in paragraph (k) of this AD. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (j)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(k) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 206-231-3667; email 
+[email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2022-0243, 
+dated December 8, 2022.
+    (ii) Kidde Aerospace & Defense Service Bulletin CFD-26-3, dated 
+January 13, 2022.
+    (iii) Kidde Aerospace & Defense Service Bulletin CFD-26-3, 
+Revision 1, dated March 29, 2022.
+    Note 1 to paragraph (l)(2)(iii): The revision level of this 
+document is identified on only the transmittal page; no other page 
+of the document contains this information.
+    (3) For EASA AD 2022-0243, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) For Kidde Aerospace & Defense service information, contact 
+Kidde Aerospace & Defense, 4200 Airport Drive NW, Building B, 
+Wilson, NC 27896; telephone 319-295-5000; website 
+kiddetechnologies.com/aviation.com.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (6) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability
+
+[[Page 63014]]
+
+of this material at NARA, email [email protected], or go to: 
+www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on September 7, 2023.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2023-19898 Filed 9-13-23; 8:45 am]
+BILLING CODE 4910-13-P

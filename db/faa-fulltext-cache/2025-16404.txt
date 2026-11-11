@@ -1,0 +1,471 @@
+[Federal Register Volume 90, Number 164 (Wednesday, August 27, 2025)]
+[Rules and Regulations]
+[Pages 41773-41776]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-16404]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0213; Project Identifier MCAI-2024-00385-T; 
+Amendment 39-23115; AD 2025-17-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2017-14-
+14, which applied to all Airbus SAS Model A321-111, -112, -131, -211, -
+212, -213, -231, and -232 airplanes. AD 2017-14-14 required repetitive 
+inspections for cracking in the cabin floor beam junction at certain 
+fuselage frame locations and repair if necessary. Since the FAA issued 
+AD 2017-14-14, further analysis determined that the compliance times 
+for the inspections must also be based on flight hours. This AD 
+continues to require the actions in AD 2017-14-14, revises compliance 
+times, and adds a provision for optional modifications. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective October 1, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 1, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0213; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-
+
+[[Page 41774]]
+
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; telephone +49 221 8999 000; email [email protected]. 
+You may find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-0213.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3667; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2017-14-14, Amendment 39-18958 (82 FR 
+33002, July 19, 2017) (AD 2017-14-14). AD 2017-14-14 applied to all 
+Airbus SAS Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes. AD 2017-14-14 required repetitive inspections for cracking 
+in the cabin floor beam junction at certain fuselage frame locations 
+and repair if necessary. The FAA issued AD 2017-14-14 to detect and 
+correct cracking in the cabin floor beam junction at certain fuselage 
+frame locations, which could result in reduced structural integrity of 
+the airplane.
+    The NPRM was published in the Federal Register on February 27, 2025 
+(90 FR 10801). The NPRM was prompted by AD 2024-0128, dated July 3, 
+2024 (EASA AD 2024-0128) (also referred to as ``the MCAI''), issued by 
+EASA, which is the Technical Agent for the Member States of the 
+European Union. The MCAI states that the manufacturer developed a 
+modification that restores the fatigue potential at each location 
+(junction) by doing cold-working at the cabin floor beam and fitting 
+junction for airplanes with a pre-mod 155607 configuration. The 
+manufacturer also developed optional modification instructions for 
+airplanes with a post-mod 155607 configuration. These modifications can 
+be used to extend the compliance time for an inspection cycle. In 
+addition, further analysis determined that the compliance times for the 
+inspections must also be based on flight hours.
+    In the NPRM, the FAA proposed to continue to require the actions in 
+AD 2017-14-14 and to revise compliance times and add a provision for 
+optional modifications, as specified in EASA AD 2024-0128. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-0213.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from an individual who supported the NPRM 
+without change.
+    The FAA received additional comments from an anonymous commenter 
+and ProTech Aero Services Limited (ProTech). The following presents the 
+comments received on the NPRM and the FAA's response to each comment.
+
+Request To Confirm Use of Later Revisions Is Allowed
+
+    ProTech requested the FAA confirm that the proposed AD would allow 
+the use of later-approved revisions of the material specified in EASA 
+AD 2024-0128, as acceptable for compliance with the AD requirements.
+    This AD does allow the use of later-approved revisions of the 
+material referenced in EASA AD 2024-0128 as acceptable for compliance 
+with the required actions. This AD adopts the ``Ref. Publications'' 
+section of EASA AD 2024-0128, which includes the current version of the 
+referenced material as well as later approved revisions.
+
+Request To Consider Alternatives to Repetitive Inspections
+
+    The anonymous commenter suggested that the FAA should explore the 
+feasibility of design modifications or reinforcements to eliminate the 
+need for repetitive inspections. The commenter stated design 
+improvements can provide long-term solutions to structural issues.
+    The FAA acknowledges the commenter's concern. The FAA evaluated the 
+available information and determined that the actions required by this 
+AD are sufficient to address the unsafe condition. However, under the 
+provisions of paragraph (j)(1) of this AD, any person may request 
+approval of an alternative method of compliance (AMOC), including 
+design improvements or other alternatives, if the proposal provides an 
+acceptable level of safety. The FAA has not changed this AD in this 
+regard.
+
+Request To Reduce Inspection Intervals
+
+    The anonymous commenter requested that the FAA reduce the 
+inspection intervals proposed in the NPRM. The commenter reasoned that 
+frequent inspections have been shown to identify structural issues 
+before they escalate.
+    The FAA does not agree to reduce the inspection intervals. A full-
+scale fatigue test campaign was performed on a Model A321 airframe, and 
+the test results were used to determine an appropriate inspection 
+interval. The FAA also considered the safety implications, parts 
+availability, and normal maintenance schedules for timely 
+accomplishment of the repetitive inspections. In consideration of all 
+of these factors, the FAA determined that the compliance time, as 
+proposed, represents an appropriate interval in which the affected 
+cabin floor beam junctions can be inspected in a timely manner within 
+the fleet, while still maintaining an adequate level of safety. If 
+additional data are presented that would justify a shorter compliance 
+time, the FAA may consider further rulemaking. The FAA has not changed 
+this AD in this regard.
+
+Request To Confirm Non-Destructive Testing (NDT) Methods Were 
+Considered
+
+    The anonymous commenter asked whether the FAA has considered 
+mandating advanced NDT methods such as ultrasonic or eddy current 
+inspections. The commenter asserted that advanced NDT methods would 
+enhance detection of subsurface cracks.
+    The FAA is aware of those NDT inspections and requires such 
+inspections where appropriate or necessary for detecting cracks. It was 
+determined that detailed inspections are sufficient for addressing the 
+unsafe condition of this AD. However, under the provisions of paragraph 
+(j)(1) of this AD, any person may request approval of an AMOC to use 
+other types of inspections if the proposal provides an acceptable level 
+of safety. The FAA has not changed this AD in this regard.
+
+Request To Require Inspection Reporting
+
+    The anonymous commenter stated that operators should be required to 
+report all findings of cracks to the FAA to facilitate data collection 
+and trend analysis. The commenter reasoned that reports aid in 
+identifying patterns and prevent issues.
+    The FAA does not agree to require reporting. In certain cases, the 
+FAA
+
+[[Page 41775]]
+
+might determine that additional information (i.e., data collection) is 
+needed to understand the problem and develop appropriate mitigation for 
+an unsafe condition. In this case, because the safety concern was found 
+during a full-scale fatigue test campaign, the unsafe condition was 
+identified and a corrective action was developed without the need to 
+require additional operator reports. However, an operator may still 
+choose to send relevant inspection information to the FAA. The FAA has 
+not changed this AD in this regard.
+
+Request To Mitigate the Financial Impact
+
+    The anonymous commenter asked the FAA what measures will be taken 
+to mitigate the economic impact of the proposed inspections on small 
+operators. The commenter stated that small operators may face financial 
+challenges in complying with frequent inspections.
+    The FAA acknowledges the commenter's concern and recognizes that 
+this AD imposes certain operational costs on operators. Under certain 
+circumstances, the airplane manufacturer might provide financial 
+relief, but the FAA does not provide economic mitigation to small 
+operators. The FAA has not changed this AD in this regard.
+
+Conclusion
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA reviewed the relevant 
+data, considered any comments received, and determined that air safety 
+requires adopting this AD as proposed. Accordingly, the FAA is issuing 
+this AD to address the unsafe condition on this product. Except for 
+minor editorial changes, this AD is adopted as proposed in the NPRM. 
+None of the changes will increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2024-0128, which specifies procedures for 
+inspections for cracking on the frame to cabin floor beam junction at 
+certain fuselage frame locations (frames 35.1 and 35.2, left- and 
+right-hand sides), repairs, and optional modifications to extend an 
+inspection interval. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 494 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                    Labor cost        Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2017-14-  Up to 8 work-hours x         None  Up to $680 per        Up to $335,920 per
+ 14.                                $85 per hour = $680                inspection cycle.     inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+
+                                      Estimated Costs for Optional Actions
+----------------------------------------------------------------------------------------------------------------
+               Labor cost                             Parts cost                       Cost per product
+----------------------------------------------------------------------------------------------------------------
+Up to 135 work-hours x $85 per hour =     Up to $7,510.....................  Up to $18,985.
+ $11,475.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+              Labor cost                Parts cost     Cost per product
+------------------------------------------------------------------------
+Up to 50 work-hours x $85 per hour =        $1,600               $5,850
+ $4,250..............................
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities
+
+[[Page 41776]]
+
+under the criteria of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2017-14-14, Amendment 39-18958 
+(82 FR 33002, July 19, 2017); and
+0
+b. Adding the following new AD:
+
+2025-17-05 Airbus SAS: Amendment 39-23115; Docket No. FAA-2025-0213; 
+Project Identifier MCAI-2024-00385-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 1, 2025.
+
+(b) Affected ADs
+
+    This AD replaces AD 2017-14-14, Amendment 39-18958 (82 FR 33002, 
+July 19, 2017) (AD 2017-14-14).
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS Model A321-111, -112, -131, -
+211, -212, -213, -231, and -232 airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination from fatigue testing on 
+the Model A321 airframe that cracks could develop in the cabin floor 
+beam junction at certain fuselage frame locations. The FAA is 
+issuing this AD to address cracking in the cabin floor beam junction 
+at certain fuselage frame locations. The unsafe condition, if not 
+addressed, could result in reduced structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2024-0128, dated July 3, 2024 (EASA AD 2024-0128).
+
+(h) Exceptions to EASA AD 2024-0128
+
+    (1) Where EASA AD 2024-0128 refers to ``13 June 2016 [the 
+effective date of EASA AD 2016-0105],'' this AD requires using 
+August 23, 2017 (the effective date of AD 2017-14-14).
+    (2) Where EASA AD 2024-0128 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (3) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0128.
+    (4) Where paragraph (2) of EASA AD 2024-0128 specifies an option 
+to ``contact Airbus for approved repair instructions and, within the 
+compliance time specified therein, accomplish those instructions 
+accordingly'', this AD requires replacing that text with ``the crack 
+must be repaired before further flight using a method approved by 
+the Manager, AIR-520, Continued Operational Safety Branch, FAA; or 
+EASA; or Airbus SAS's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature''.
+
+(i) No Reporting Requirement
+
+    Although the material referenced in EASA AD 2024-0128 specifies 
+to submit certain information (inspection report sheet) to the 
+manufacturer, this AD does not include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (k) of this AD and email to: 
+[email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2017-14-14 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2024-0128 that are 
+required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (i) and (j)(2) of this AD, if any material contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(k) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3667; email: [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0128, 
+dated July 3, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on August 19, 2025.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2025-16404 Filed 8-26-25; 8:45 am]
+BILLING CODE 4910-13-P

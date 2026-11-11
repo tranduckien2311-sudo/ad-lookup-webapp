@@ -1,0 +1,478 @@
+[Federal Register Volume 82, Number 182 (Thursday, September 21, 2017)]
+[Rules and Regulations]
+[Pages 44053-44057]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: R1-2017-19301]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0809; Product Identifier 2017-NM-094-AD; Amendment 
+39-19030; AD 2017-18-21]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+Republication
+
+    Editorial Note: Rule document 2017-19301 was originally 
+published on pages 42929 through 42932 in the issue of Wednesday, 
+September 13, 2017. In that publication, on page 42931, Figure 1 was 
+formatted incorrectly. The corrected document is republished here in 
+its entirety.
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2017-13-12, 
+which applied to all Airbus Model A318 and A319 series airplanes; Model 
+A320-211, -212, -214, -231, -232, and -233 airplanes; and Model A321-
+111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 2017-
+13-12 required modification or replacement of certain side stay 
+assemblies of the main landing gear (MLG). This new AD clarifies the 
+formatting of a figure in the published version of AD 2017-13-12. This 
+new AD was prompted by reports indicating that affected parties 
+misinterpreted the applicability of the affected part numbers due to 
+the
+
+[[Page 44054]]
+
+formatting of a figure in the published version of AD 2017-13-12, which 
+could result in a negative effect on compliance. We are issuing this AD 
+to address the unsafe condition on these products.
+
+DATES: This AD is effective September 28, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of August 9, 
+2017 (82 FR 30949, July 5, 2017).
+    We must receive comments on this AD by October 30, 2017.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For Airbus service information identified in this final rule, 
+contact Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet: http://www.airbus.com.
+    For Messier-Dowty service information identified in this final 
+rule, contact Messier-Dowty: Messier Services Americas, Customer 
+Support Center, 45360 Severn Way, Sterling, VA 20166-8910; telephone: 
+703-450-8233; fax: 703-404-1621; Internet: https://techpubs.services/messier-dowty.com.
+    You may view this referenced service information at the FAA, 
+Transport Standards Branch, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0809.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0809; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 1601 Lind 
+Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; fax 425-227-
+1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On June 19, 2017, we issued AD 2017-13-12, Amendment 39-18942 (82 
+FR 30949, July 5, 2017) (``AD 2017-13-12''), which applied to all 
+Airbus Model A318 series airplanes and A319 series airplanes; Model 
+A320-211, -212, -214, -231, -232, and -233 airplanes; and Model A321-
+111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 2017-
+13-12 was prompted by an evaluation by the design approval holder 
+(DAH), which indicates that the main landing gear (MLG) does not comply 
+with certification specifications, which could result in a locking 
+failure of the MLG side stay. AD 2017-13-12 required modification or 
+replacement of certain MLG side stay assemblies. We issued AD 2017-13-
+12 prevent possible collapse of the MLG during takeoff and landing.
+    Since we issued AD 2017-13-12, we have received reports indicating 
+that affected parties misinterpreted the applicability of the affected 
+part numbers due to the formatting of figure 1 to paragraphs (g), (h), 
+and (i) in the published version of AD 2017-13-12, which could result 
+in a negative effect on compliance. Therefore, we have determined that 
+clarification of the formatting of the published figure is necessary.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2016-0018R1, dated September 14, 2016 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus Model A318 and A319 series 
+airplanes; Model A320-211, -212, -214, -231, -232, and -233 airplanes; 
+and Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes. The EASA AD is referenced in AD 2017-13-12. EASA has not 
+revised its AD since the issuance of AD 2017-13-12.
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0809.
+
+Related Service Information Under 1 CFR Part 51
+
+    We have reviewed the following service information.
+     Airbus Service Bulletin A320-32-1429, Revision 01, dated 
+February 29, 2016.
+     Messier-Bugatti-Dowty Service Bulletin 200-32-315, dated 
+April 24, 2015.
+     Messier-Bugatti-Dowty Service Bulletin 201-32-63, dated 
+April 24, 2015.
+    The service information describes procedures for modifying the MLG 
+side stay assembly. The Messier-Bugatti-Dowty documents are distinct 
+since they apply to different airplane models. This service information 
+is reasonably available because the interested parties have access to 
+it through their normal course of business or by the means identified 
+in the ADDRESSES section.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+
+FAA's Justification and Determination of the Effective Date
+
+    We are superseding AD 2017-13-12 to clarify the formatting of a 
+figure in the regulatory text of the published AD. No other changes 
+have been made to AD 2017-13-12. Therefore, we determined that notice 
+and opportunity for prior public comment are unnecessary.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant
+
+[[Page 44055]]
+
+data, views, or arguments about this AD. Send your comments to an 
+address listed under the ADDRESSES section. Include ``Docket No. FAA-
+2017-0809; Product Identifier 2017-NM-094-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this AD. We will 
+consider all comments received by the closing date and may amend this 
+AD because of those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 959 airplanes of U.S. registry. 
+This AD adds no new economic burden to AD 2017-13-12. We estimate the 
+following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Replacement or modification (retained   9 work-hours x $85 per           $14,104         $14,869     $14,259,371
+ actions from AD 2017-13-12).            hour = $765.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2017-13-12, Amendment 39-18942 (82 FR 30949, July 5, 2017), and adding 
+the following new AD:
+
+2017-18-21 Airbus: Amendment 39-19030; Docket No. FAA-2017-0809; 
+Product Identifier 2017-NM-094-AD.
+
+(a) Effective Date
+
+    This AD is effective September 28, 2017.
+
+(b) Affected ADs
+
+    This AD replaces AD 2017-13-12, Amendment 39-18942 (82 FR 30949, 
+July 5, 2017) (``AD 2017-13-12'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), and (c)(4) of this AD, certificated in any 
+category, all manufacturer serial numbers.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear.
+
+(e) Reason
+
+    This AD was prompted by an evaluation by the design approval 
+holder that indicates that the main landing gear (MLG) does not 
+comply with certification specifications, which could result in a 
+locking failure of the MLG side stay. We are issuing this AD to 
+prevent possible collapse of the MLG during takeoff and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Modification or Replacement, With Revised Figure 
+Formatting
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2017-13-12, with revised figure formatting. Within 120 months after 
+August 9, 2017 (the effective date of AD 2017-13-12), accomplish the 
+action specified in paragraph (g)(1) or (g)(2) of this AD.
+    (1) Modify each MLG side stay assembly having a part number 
+listed in figure 1 to paragraphs (g), (h), and (i) of this AD, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-32-1429, Revision 01, dated February 29, 2016, and the 
+service information specified in paragraph (g)(1)(i) or (g)(1)(ii) 
+of this AD, as applicable. The modification may be done ``off 
+wing,'' provided the modified MLG is reinstalled on the airplane.
+    (i) For Model A318 series airplanes; Model A319 series 
+airplanes; and Model A320-211, -212, -214, -231, -232, and -233 
+airplanes: Messier-Bugatti-Dowty Service Bulletin 200-32-315, dated 
+April 24, 2015.
+
+[[Page 44056]]
+
+    (ii) For Model A321 series airplanes: Messier-Bugatti-Dowty 
+Service Bulletin 201-32-63, dated April 24, 2015.
+    (2) Replace the MLG side stay assembly with a side stay assembly 
+that has been modified in accordance with paragraph (g)(1) of this 
+AD. Do the replacement using a method approved by the Manager, 
+International Section, Transport Standards Branch, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA).
+
+    Note 1 to paragraph (g)(2) of this AD:  Additional guidance for 
+the replacement can be found in Chapter 32 of the Airbus A318/A319/
+A320/A321 Aircraft Maintenance Manual.
+
+[GRAPHIC] [TIFF OMITTED] TR21SE17.000
+
+(h) Retained Provisions for Unaffected Airplanes, With No Changes
+
+    This paragraph restates the provisions of paragraph (h) of AD 
+2017-13-12, with no changes. An airplane on which Airbus 
+Modification (Mod) 156646, Airbus Mod 161202, or Airbus Mod 161346 
+has been embodied in production is not affected by the requirements 
+of paragraph (g) of this AD, provided it is determined that no part 
+having a part number identified in figure 1 to paragraphs (g), (h), 
+and (i) of this AD has been installed on that airplane since the 
+date of issuance of the original certificate of airworthiness or the 
+original export certificate of airworthiness. A review of the 
+airplane maintenance records is acceptable to make this 
+determination, provided that these records are accurate and can be 
+relied upon to conclusively make that determination.
+
+(i) Retained Parts Installation Prohibition, With No Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2017-13-12, with no changes. As of August 9, 2017 (the effective 
+date of AD 2017-13-12), do not install on any airplane, an MLG side 
+stay assembly having a part number, with the strike number not 
+cancelled, as identified in figure 1 to paragraphs (g), (h), and (i) 
+of this AD, unless it has been modified in accordance with the 
+requirements of paragraph (g) of this AD.
+
+(j) Retained Credit for Previous Actions, With No Changes
+
+    This paragraph restates the provisions of paragraph (j) of AD 
+2017-13-12, with no
+
+[[Page 44057]]
+
+changes. This paragraph provides credit for actions required by 
+paragraph (g) of this AD, if those actions were performed before 
+August 9, 2017 (the effective date of AD 2017-13-12), using Airbus 
+Service Bulletin A320-32-1429, dated September 10, 2015.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Section, send it to the 
+attention of the person identified in paragraph (l)(2) of this AD. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus's EASA 
+DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2016-0018R1, dated September 14, 2016, for related 
+information. You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-
+2017-0809.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 
+425-227-1405; fax 425-227-1149.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(3), (m)(4), and (m)(5) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+August 9, 2017 (82 FR 30949, July 5, 2017).
+    (i) Airbus Service Bulletin A320-32-1429, Revision 01, dated 
+February 29, 2016.
+    (ii) Messier-Bugatti-Dowty Service Bulletin 200-32-315, dated 
+April 24, 2015.
+    (iii) Messier-Bugatti-Dowty Service Bulletin 201-32-63, dated 
+April 24, 2015.
+    (4) For Airbus service information identified in this AD, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: [email protected]; 
+Internet: http://www.airbus.com.
+    (5) For Messier-Dowty service information identified in this AD, 
+contact Messier-Dowty: Messier Services Americas, Customer Support 
+Center, 45360 Severn Way, Sterling, VA 20166-8910; telephone: 703-
+450-8233; fax: 703-404-1621; Internet: https://techpubs.services/messier-dowty.com.
+    (6) You may view this service information at the FAA, Transport 
+Standards Branch, 1601 Lind Avenue SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on August 31, 2017.
+Dionne Palermo,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+Editorial Note: Proposed rule document 2017-19301 was originally 
+published on pages Pages 42929 through 42932 in the issue of 
+Wednesday, September 13, 2017. In that publication, on page 42931, 
+Figure 1 was formatted incorrectly. The corrected document is 
+republished here in its entirety.
+
+[FR Doc. R1-2017-19301 Filed 9-20-17; 8:45 am]
+BILLING CODE 1301-00-D

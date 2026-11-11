@@ -1,0 +1,10 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 89-100-002(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 airplanes Automatic landing in categorie III conditions The present
+
+Airworthiness Directive concerns AIRBUS INDUSTRIE A320 aircraft all models, which have not received embodiment of modification AIRBUS INDUSTRIE 21011 or Service Bulletin AIRBUS INDUSTRIE A320-24-1013 and A320-24-1031. In order to prevent the risks of runway getting out possibilities due to connection of defective ILS wirings during automatic landing and roll out and take-off with reduced visibility, the following measures are rendered mandatory : - Before the partial embodiment of the SB A320-24-1013 (on connectors 2RT1-A panel 95VU and 2RT2-A panel 96VU) and the inspection in accordance with SB A320-24-1031 : 1/ Do not perform automatic landing in categorie III conditions. Limit the use of automatic landing to the categorie II minima. 2/ Disconnect the automatic pilot at the touch down. Do not use the automatic roll-out. 3/ For A/C equipped with head-up display (mod. 20126, 21054) do not use the head-up display with the special take-off minima. 4/ Introduce the associated temporary revisions of the airplane flight manual. Ref. : AIRBUS INDUSTRIE Service Bulletins A320-24-1013, A300-24-1031 Note : the present AD was the subject of a telegraphic communication by on July 12, 1989. BUREAU VERITAS The present
+
+Airworthiness Directive is the subject in FRG of LTA N° 89-127 This revision 1 cancels and replaces the original AD 89-100-002(B) dated July 19, 1989. EFFECTIVE DATES : ORIGINAL AD : UPON RECEIPT e/C REVISION 1 : JUNE 6, 1992 AIRBUS INDUSTRIE May 27, 1992 89-100-002(B) R1 A320 airplanes

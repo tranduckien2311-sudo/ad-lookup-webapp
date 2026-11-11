@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0315R1
+
+Airworthiness Directive
+
+AD No.: 2019-0315R1
+
+Issued: 27 June 2022 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301 or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303 or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: Revision 01: 04 July 2022 Original Issue: 06 January 2020 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable Revision: This AD revises EASA AD 2019-0315 dated 23 December 2019.
+
+ATA 53 – Fuselage – Frame 67 Stringer 44 Right Hand – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-301,A330-302, A330-303, A330- 321, A330-322, A330-323, A330-341, A330-342 and A330-343aeroplanes, all manufacturer serial numbers, except those on which Airbus Service Bulletin (SB) A330-53-3299 has been embodied.
+
+Definitions: The AOT: Airbus Alert Operators Transmission (AOT) A53L014-19. Affected area: Stringer (STR) 44 right-hand (RH) side at fuselage frame (FR) 67. Airbus date of manufacture: The date of transfer of title (ownership) of the aeroplane upon delivery by Airbus to the first operator. The correct NTM procedure: High-frequency eddy current (HFEC) inspection as specified in Appendix 1 of the AOT, or as specified in the applicable Airbus Non-destructive Testing Manual (NTM), dated April 2020 (or later), task 53-40-17, that contains the content of Appendix 1 of the Page 1 of 4 TE.CAP.00110-011 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0315R1 AOT. Appendix 1 of the AOT also provides correctly written instructions and an illustration showing the correct location for the inspection. The SB: Airbus SB A330-53-3299.
+
+Reason: A review of NTM task 53-40-17 procedure revealed that STR44 RH at fuselage FR67 is incorrectly shown at location STR43 RH of the figure 1 – Illustration of the NTM, whereas the written description provides correct instructions. Consequently, the inspection of the affected area could inadvertently have been accomplished at the wrong location and, as a result, potential damage in the affected area, as defined in this AD, could have remained undetected. This condition, if not detected and corrected, could affect the structural integrity of the affected area, leading to in-flight loss of the bulk cargo door, possibly resulting in damage to the aeroplane and injury to persons on the ground. To address this potential unsafe condition, Airbus issued the AOT to provide instructions for repetitive detailed inspections (DET) until accomplishment of the correct NTM procedure, and EASA issued AD 2019-0315, requiring repetitive DET of the affected area, and, depending on findings, accomplishment of applicable corrective action(s). Since that AD was issued, Airbus issued the SB, the accomplishment of which cancels the inspection requirements of Airworthiness Limitation Section Part 2 tasks 53-40-17-01 and 53-40-17-02. Furthermore, it has been determined that A330-223F and A330-243F aeroplanes are not affected by the potential unsafe condition addressed by this AD. Finally, the NTM has been revised, to include the content of Appendix 1 of the AOT. This AD is revised accordingly, introducing reference to the SB and reducing the Applicability.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspections: (1) Within the compliance time as defined in Table 1 of this AD and, thereafter, at intervals not exceeding 150 flight cycles (FC), accomplish a DET of the affected area, as defined in this AD, in accordance with the instructions of the AOT. Table 1 – DET threshold Compliance Time (A or B, whichever occurs later) A Before exceeding 22 200 FC since Airbus date of manufacture B Within 250 FC or 2 months, whichever occurs first after 06 January 2020 [the effective date of the original issue of this AD] Page 2 of 4 TE.CAP.00110-011 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0315R1 Corrective Action: (2) If, during any DET as required by paragraph (1) of this AD, any discrepancy is detected, before next flight, contact Airbus for approved instructions and accomplish those instructions accordingly. Alternative Inspection: (3) Accomplishment on an aeroplane of the correct NTM procedure, as defined in this AD, is an acceptable method to comply with the initial DET and the corrective action(s) as required by paragraph (1) and (2) of this AD, for that aeroplane. Terminating Action: (4) Accomplishment on an aeroplane of the correct NTM procedure, as defined in this AD, constitutes terminating action for the repetitive DET as required by paragraph (1) of this AD for that aeroplane. (5) Accomplishment of corrective action(s) on an aeroplane, as required by paragraph (2) of this AD, does not constitute terminating action for the repetitive DET as required by paragraph (1) of this AD for that aeroplane, unless the Airbus instructions specify otherwise. (6) Modification of an aeroplane in accordance with the instruction of the SB constitutes terminating action for the repetitive DET as required by paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: Airbus AOT A53L014-19 original issue dated 17 December 2019. Airbus SB A330-53-3299 original issue dated 30 April 2021. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be Page 3 of 4 TE.CAP.00110-011 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0315R1 installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – IIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-011 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

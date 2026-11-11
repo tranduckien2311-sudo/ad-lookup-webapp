@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2006 - 0153R2 Date: 12 June 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type Approval Holder’s Name: Type/Model designations: AIRBUS A318, A319, A320 and A321 aircraft TCDS Number: EASA.A.064 Foreign AD: Not Applicable Revision: This AD revises EASA AD 2006-0153R1 dated 27 November 2006 Auxiliary Power Unit (APU) - Starter Motor and Air Intake System –
+
+ATA 49 Inspection/Cleaning
+
+Manufacturer(s): AIRBUS, (formerly AIRBUS INDUSTRIE)
+
+Applicability: AIRBUS A318, A319, A320 and A321 aircraft, all certified models, all serial numbers, except : - aircraft equipped with APIC APS 3200 APU, that have received AIRBUS modification (mod) 35803 in production or AIRBUS service bulletin (SB) A320-49-1070 in service. - aircraft equipped with Honeywell 131-9A APU, that have received Mod 35936 in production or SB A320-49-1075 in service. - aircraft equipped with Honeywell GTCP36-300 APU, that have received SB A320-49-1077 in service.
+
+Reason: An operator reported black smoke at the rear of the fuselage during taxi after landing. The smoke was caused by a fire in the APU air intake. The analysis has demonstrated that following numerous unsuccessful APU start attempts in flight, there is a risk of reverse flow leading to flame propagation to the APU air inlet and air intake duct. If this zone is contaminated, a fire may be initiated. It is reminded that the Flight Crew Operating Manual (FCOM) limits the number of APU start attempts as follows: 1/2
+
+--- PAGE 2 ---
+APU STARTER After 3 starter motor duty cycles, wait 60 minutes before attempting 3 more cycles. AD 2006-0153 mandated repetitive inspections of the APU starter motor, APU inlet plenum and APU air intake as well as repetitive cleaning of the APU air intake. Revision 1 of this AD was issued to reduce the applicability and to introduce an optional termination action. Revision 2 of this AD reduces the applicability.
+
+Effective Date: 26 June 2007 1. Within the next 600 flight hours from June 09, 2006 (effective date of AD Compliance: 2006-0153), inspect the APU starter motor, APU air inlet plenum and APU air intake, and apply the necessary corrective actions in accordance with the instructions given in the SB A320-49-1068 revision 1. 2. Repeat the inspection as per above paragraph 1, at intervals not exceeding 600 flight hours. 3. Prior to the accumulation of 2400 flight hours since the aircraft first flight or within the next 600 flight hours from June 09, 2006 (effective date of AD 2006-0153), whichever occurs later, unless already accomplished as per SB A320-49-1068 at original issue, clean the APU air intake in accordance with the instructions given in the SB A320-49-1068 revision 1. 4. Repeat the cleaning task as per above paragraph 3, at intervals not exceeding 2400 flight hours. The embodiment of SB A320-49-1070 in service on aircraft equipped with APIC APS 3200 APU, or SB A320-49-1075 in service on aircraft equipped with Honeywell 131-9A APU, or SB A320-49-1077 in service on aircraft equipped with Honeywell GTCP36-300 APU renders void the requirements of this AD.
+
+Ref. Publications: AIRBUS Service Bulletin A320-49-1068 revision 1; AIRBUS Service Bulletin A320-49-1070 original issue; AIRBUS Service Bulletin A320-49-1075 original issue; AIRBUS Service Bulletin A320-49-1077 original issue, or any later approved revisions of these documents.
+
+Remarks: 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative Method of Compliance (AMOCs) for this AD. 2. This AD was posted as PAD 06-054 for consultation on 13 March 2006 with a comment period until 27 March 2006. The Comment Response Document can be found at http://ad.easa.europa.eu . 3. Enquiries regarding this AD should be addressed to the AD Focal Point, Certification Directorate, EASA. E-mail ADs@easa.europa.eu . 4. For any question concerning the technical content of the requirements in this AD, please contact AIRBUS - Fax 33 5 61 93 44 51. 2/2

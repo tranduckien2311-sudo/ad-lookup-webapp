@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 96-238-091(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Fuselage - Inspection of frame 60 and 62 at bulk cargo door frame This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all certified models and all serial numbers with bulk cargo door installed (AIRBUS INDUSTRIE modification 20029), and without AIRBUS INDUSTRIE modification 21277 embodied in production or AIRBUS INDUSTRIE Service Bulletin A320-53-1021. In order to detect cracks at frames 60 and 62, which could affect the structural integrity of the airplane, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1- Before accumulation of 20,000 flights, do an Eddy Current inspection of the upper frame flanges at frames 60 and 62 between stringers 40 and 42 in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1022 R1. 2- In case of crack findings, apply the repair as defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1021 R1. 3- In case of no crack findings, repeat inspection defined in paragraph 1 of this
+
+Airworthiness Directive at intervals not exceeding 1,200 flights. NOTE : Total application of AIRBUS INDUSTRIE Service Bulletin A320-53-1021 R1 cancels requirements of this
+
+Airworthiness Directive. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-53-1021 R1 AIRBUS INDUSTRIE Service Bulletin A320-53-1022 R1 (or any further approved revision) EFFECTIVE DATE : NOVEMBER 02, 1996 n/JYR AIRBUS INDUSTRIE October 23, 1996 96-238-091(B) A320 Aircraft

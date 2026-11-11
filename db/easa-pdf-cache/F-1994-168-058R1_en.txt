@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 94-168-058(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Smoke detection in lavatories This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, without AIRBUS INDUSTRIE modification 22561 or without AIRBUS INDUSTRIE Service Bulletin A320-26-1017. In order to detect incorrect installation of the lavatory air extraction duct grill, which could reduce the performance of the smoke detection system, the following measures are rendered mandatory on July 30, 1994. 1- Within 450 flight hours, unless already accomplished, carry out a one time check, on each lavatory, for correct installation of the air extraction duct grille in accordance with the instructions of A.O.T. AIRBUS INDUSTRIE A320/AOT 26-12 dated June 06, 1994. 2- The application of
+
+Airworthiness Directive 96-007-073(B) cancels requirements of this
+
+Airworthiness Directive. Ref. : A.O.T. AIRBUS INDUSTRIE A320/AOT 26-12 dated June 06, 1994
+
+Airworthiness Directive 96-007-073(B) This Revision 1 replaces original AD 94-168-058(B) dated July 20, 1994. EFFECTIVE DATES : Original AD : JULY 30, 1994 Revision 1 : JANUARY 13, 1996 v/JYR AIRBUS INDUSTRIE January 03, 1996 94-168-058(B) R1 A320 Aircraft

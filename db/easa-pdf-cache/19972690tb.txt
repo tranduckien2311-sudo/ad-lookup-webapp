@@ -1,0 +1,8 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-269-103(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320, A321, A319 aircraft Toilet rinse valve Applicability : AIRBUS INDUSTRIE A320, A321 and A319 all models and all serial numbers having toilets equipped with Monogram rinse valve PN 15800-348 rev. C and without AIRBUS INDUSTRIE modification 26145 or AIRBUS INDUSTRIE Service Bulletin A320-38-1049. Reasons : An incorrect functionning of the rinse valve Monogram PN 15800-348 Rev. C could cause an overflow of the toilet bowl. As consequence, during aircraft pitch down, a certain quantity of water coming from toilet(s) could fall down the avionic computers. Actions : Mandatory on the effective date of this
+
+Airworthiness Directive, unless already accomplished. Before October 4, 1998, replace all Monogram rinse valves PN 15800-348 Rev. C installed on toilet(s) in accordance with AIRBUS INDUSTRIE Service Bulletin A320-38-1049. References : AIRBUS INDUSTRIE Service Bulletin A320-38-1049. EFFECTIVE DATE : OCTOBER 04, 1997 d/JYR AIRBUS INDUSTRIE September 24, 1997 97-269-103(B) A320, A321, A320 aircraft

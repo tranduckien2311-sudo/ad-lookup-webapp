@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-051-125(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A321 Aircraft Rear fuselage - Reinforcement of structure between frames 62 and 64 (ATA 53) APPLICABILITY AIRBUS INDUSTRIE A321 all models without AIRBUS INDUSTRIE modification 25791 in production or AIRBUS INDUSTRIE Service Bulletin A320-53-1130 in service. REASON In order to increase strength margin in case of undetected tail scrape of the rear part of the fuselage with the ground, the rear fuselage structure between frames 62 and 64 has to be reinforced. ACTION Before February 20, 2005, reinforce the fuselage structure between frames 62 and 64 in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-53-1130. REF. : Service Bulletin AIRBUS INDUSTRIE A320-53-1130 (or any further approved revision) EFFECTIVE DATE : FEBRUARY 20, 1999 n/ JJD AIRBUS INDUSTRIE February 10, 1999 1999-051-125(B) A321 Aircraft

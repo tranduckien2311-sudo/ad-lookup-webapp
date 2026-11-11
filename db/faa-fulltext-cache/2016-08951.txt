@@ -1,0 +1,571 @@
+[Federal Register Volume 81, Number 80 (Tuesday, April 26, 2016)]
+[Rules and Regulations]
+[Pages 24459-24462]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-08951]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-6547; Directorate Identifier 2014-NM-129-AD; 
+Amendment 39-18490; AD 2016-08-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2014-03-14 for 
+all Airbus Model A330-200 and -300 series airplanes, and Model A340-
+200, -300, -500, and -600 series airplanes. AD 2014-03-14 required 
+removing bulb-type maintenance lights; installing a drain mast on 
+certain airplanes; and installing muffs on connecting bleed elements on 
+certain airplanes. For certain Model A340-200 and -300 series 
+airplanes, this new AD also requires replacing certain insulation 
+sleeves with new insulation sleeves. This AD results from fuel system 
+reviews conducted by the airplane manufacturer. We are issuing this AD 
+to prevent ignition sources inside fuel tanks, which, in combination 
+with flammable fuel vapors, could result in fuel tank explosions and 
+consequent loss of the airplane.
+
+DATES: This AD is effective May 31, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of May 31, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of March 
+26, 2014 (79 FR 9382, February 19, 2014).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+6547.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+6547; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2014-03-14, Amendment 39-17752 (79 FR 9382, 
+February 19, 2014) (``AD 2014-03-14''). AD 2014-03-14 applied to all 
+Airbus Model A330-200 and -300 series airplanes, and Model A340-200, -
+300, -500, and -600 series airplanes. The NPRM published in the Federal 
+Register on December 11, 2015 (80 FR 76875) (``the NPRM''). The NPRM 
+was prompted by fuel system reviews conducted by the airplane 
+manufacturer. The NPRM proposed to continue to require removing bulb-
+type maintenance lights; installing a drain mast on certain airplanes; 
+and installing muffs on connecting bleed elements on certain airplanes. 
+The NPRM also proposed to require, for certain Model A340-200 and -300 
+series airplanes, replacing certain insulation sleeves with new 
+insulation sleeves. We are issuing this AD to prevent ignition sources 
+inside fuel tanks, which, in combination with flammable fuel vapors, 
+could result in fuel tank explosions and consequent loss of the 
+airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0148, dated June 13, 2014 (referred to 
+after this the Mandatory Continuing Airworthiness Information, or ``the 
+MCAI''), to correct an unsafe condition for all Airbus Model A330-200 
+and -300 series airplanes, and Model A340-200, -300, -500, and -600 
+series airplanes. The MCAI states:
+
+    [Subsequent to accidents involving Fuel Tank Systems in flight 
+and on ground] * * *, the FAA published Special Federal Aviation 
+Regulation (SFAR) 88 [(66 FR 23086, May 7, 2001)], and the Joint 
+Aviation Authorities (JAA) published Interim Policy INT/POL/25/12.
+    In response to these regulations, a global design review 
+conducted by Airbus on the A330 and A340 type design Section 19, 
+which is a flammable fluid leakage zone and a zone adjacent to a 
+fuel tank, highlighted potential deviations. The specific identified 
+cases were that in-flight fuel drainage is insufficient on A340-500/
+-600 aeroplanes, maintenance lights are not qualified explosion-
+proof, and hot surfaces may exist on bleed systems during normal/
+failure operations.
+
+[[Page 24460]]
+
+    This condition, if not corrected, in combination with a fuel 
+leak generating flammable vapours in the area, could result in a 
+fuel tank explosion and consequent loss of the aeroplane.
+    To address this unsafe condition, Airbus developed various 
+modifications of the aeroplane, to be embodied in service.
+    Consequently, EASA issued AD 2013-0033 [http://ad.easa.europa.eu/blob/easa_ad_2013-0033_superseded.pdf/AD_2013-0033_1, which corresponds to FAA AD 2014-03-14, Amendment 39-17752 
+(79 FR 9382, February 19, 2014)] to require removal of bulb type 
+maintenance lights for all aeroplanes, installation of a drain mast 
+between Frame (FR) 80 and FR83 for A340-500/-600 aeroplanes, and 
+installation of muffs on connecting bleed elements to minimize hot 
+surfaces on A330 and A340-200/-300 aeroplanes.
+    Since that [EASA] AD was issued, it was reported that, for A340-
+200/-300 aeroplanes, accomplishment instructions in the applicable 
+Airbus Service Bulletins (SB) for aeroplanes in Configurations 002 
+and 005 were detailed in Configuration 003 and, conversely, 
+accomplishment instructions for aeroplane[s] in Configuration 003 
+were detailed in Configurations 002 and 005. This can lead to 
+incorrect installation of some insulation sleeves on the Auxiliary 
+Power Unit (APU) Air Bleed Ducts between Frame 83 and 84 for 
+configurations 002, 003 and 005 as per Airbus SB A340-36-4035 at 
+original issue. Prompted by this finding, Airbus revised the 
+affected SB with additional work required for aeroplanes included in 
+configurations 002, 003 and 005 that were modified using the 
+original issue of the SB.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2013-0033, which is superseded, incorporates 
+reference to the corrected Airbus SB A340-36-4035 Revision 01 and 
+requires the additional work as specified in Airbus SB A340-36-4035 
+Revision 01 for aeroplanes already modified per the original SB 
+A340-36-4035.
+
+    The additional work is replacing the insulation sleeves between 
+FR83 and FR84 with new insulation sleeves. You may examine the MCAI in 
+the AD docket on the Internet at http://www.regulations.gov by 
+searching for and locating Docket No. FAA-2015-6547.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We received no comments on the NPRM or on the determination of 
+the cost to the public.
+
+Change Made To This Final Rule: Updated Service Information
+
+    Airbus has issued Service Bulletin A330-36-3038, Revision 01, dated 
+May 11, 2015. The additional work specified in this service information 
+is minimal and consists of modifying the routing of a harness. This 
+additional work is not required for airplanes on which the actions 
+previously required by paragraph (h) of AD 2014-03-14 have been done 
+before the effective date of this AD. Paragraph (h) of this AD retains 
+the requirements of paragraph (h) of AD 2014-03-14. We have revised 
+paragraph (h)(1) of this AD to specify Airbus Service Bulletin A330-36-
+3038, Revision 01, dated May 11, 2015, as an appropriate source of 
+service information.
+
+Conclusion
+
+    We reviewed the available data and determined that air safety and 
+the public interest require adopting this AD with the change described 
+previously and minor editorial changes. We have determined that these 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service bulletins.
+     Airbus Service Bulletin A330-33-3041, Revision 02, dated 
+November 7, 2013, which describes procedures for removing bulb-type 
+maintenance lights.
+     Airbus Service Bulletin A330-36-3037, Revision 02, 
+including Appendix 01, dated April 7, 2014, which describes procedures 
+for modifying the bleed leak detection loop of the auxiliary power unit 
+(APU).
+     Airbus Service Bulletin A330-36-3038, Revision 01, dated 
+May 11, 2015, which describes procedures for bleed leak detection loop 
+modification of the APU.
+     Airbus Service Bulletin A340-33-4026, Revision 02, dated 
+November 7, 2013, which describes procedures for removing bulb-type 
+maintenance lights.
+     Airbus Service Bulletin A340-36-4033, Revision 02, 
+including Appendix 01, dated May 19, 2014, which describes procedures 
+for bleed leak detection loop modification of the APU.
+     Airbus Service Bulletin A340-36-4035, including Appendix 
+01, dated September 18, 2012, which describes procedures for installing 
+muffs on connecting bleed elements on certain airplanes.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 43 Model A330 series airplanes of 
+U.S. registry. There are no Model A340 airplanes registered in the U.S.
+    The actions required by AD 2014-03-14, and retained in this AD take 
+about 21 work-hours per product, at an average labor rate of $85 per 
+work-hour. Required parts cost about $5,219 per product. Based on these 
+figures, the estimated cost of the actions that were required by AD 
+2014-03-14 is $7,004 per product.
+    We also estimate that it will take about 6 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Required parts will cost about $279 per 
+product. Based on these figures, we estimate the cost of this AD on 
+U.S. operators to be $33,927, or $789 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+
+[[Page 24461]]
+
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2014-03-14, Amendment 39-17752 (79 FR 9382, February 19, 2014), and 
+adding the following new AD:
+
+2016-08-14 Airbus: Amendment 39-18490. Docket No. FAA-2015-6547; 
+Directorate Identifier 2014-NM-129-AD.
+
+(a) Effective Date
+
+    This AD is effective May 31, 2016.
+
+(b) Affected ADs
+
+    This AD replaces AD 2014-03-14, Amendment 39-17752 (79 FR 9382, 
+February 19, 2014) (``AD 2014-03-14'').
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, specified in paragraphs (c)(1) and (c)(2) of this AD, all 
+manufacturer serial numbers.
+    (1) Airbus Model A330-201, -202, -203, -223, -243, -301, -302, -
+303, -321, -322, -323, -341, -342, and -343 airplanes.
+    (2) Airbus Model A340-211, -212, -213, -311, -312, -313, -541, 
+and -642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 26, Fire 
+protection; 33, Lights; 36, Pneumatic; 53, Fuselage.
+
+(e) Reason
+
+    This AD results from fuel system reviews conducted by the 
+airplane manufacturer. We are issuing this AD to prevent ignition 
+sources inside fuel tanks, which, in combination with flammable fuel 
+vapors, could result in fuel tank explosions and consequent loss of 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Maintenance Light Removal, With New Service Information
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2014-03-14, with new service information. Except for airplanes on 
+which Airbus Modification 56739 has been incorporated in production: 
+Within 26 months after March 26, 2014 (the effective date of AD 
+2014-03-14), remove the maintenance lights, in accordance with the 
+Accomplishment Instructions of the applicable Airbus service 
+information specified in paragraphs (g)(1), (g)(2), and (g)(3) of 
+this AD.
+    (1) Airbus Mandatory Service Bulletin A330-33-3041, Revision 01, 
+dated July 10, 2012; or Airbus Service Bulletin A330-33-3041, 
+Revision 02, dated November 7, 2013 (for Model A330 series 
+airplanes). As of the effective date of this AD, use only Airbus 
+Service Bulletin A330-33-3041, Revision 02, dated November 7, 2013, 
+for the actions required by paragraph (g) of this AD.
+    (2) Airbus Mandatory Service Bulletin A340-33-4026, Revision 01, 
+dated July 10, 2012; or Airbus Service Bulletin A340-33-4026, 
+Revision 02, dated November 7, 2013 (for Model A340-200 and -300 
+series airplanes). As of the effective date of this AD, use only 
+Airbus Service Bulletin A340-33-4026, Revision 02, dated November 7, 
+2013, for the actions required by paragraph (g) of this AD.
+    (3) Airbus Mandatory Service Bulletin A340-33-5006, dated 
+January 3, 2012 (for Model A340-500 and -600 series airplanes).
+
+    Note 1 to paragraph (g) of this AD:  For Model A340-500 and -600 
+series airplanes, Airbus has issued Airbus Service Bulletin A340-33-
+5007 to introduce halogen-type lights, which are qualified as 
+explosion-proof, and that can be installed (at operators' 
+discretion) after removal of the non-explosion-proof lights required 
+by paragraph (g) of this AD. For Model A330 series airplanes and 
+Model A340-200 and -300 series airplanes, Airbus has issued Airbus 
+Service Bulletins A330-33-3042 and A340-33-4027 for the installation 
+of similar lights.
+
+(h) Retained Insulation Muff Installation, With New Service Information
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2014-03-14, with new service information. For Model A330-200 and -
+300 series airplanes, and Model A340-200 and -300 series airplanes, 
+except those airplanes on which Airbus Modification 52260 has been 
+incorporated in production: Within 26 months after March 26, 2014 
+(the effective date of AD 2014-03-14), install insulation muffs on 
+the connecting auxiliary power unit (APU) bleed air duct, in 
+accordance with the Accomplishment Instructions of the applicable 
+Airbus service information specified in paragraphs (h)(1), (h)(2), 
+and (h)(3) of this AD.
+    (1) Airbus Service Bulletin A330-36-3038, dated January 16, 
+2012; or Airbus Service Bulletin A330-36-3038, Revision 01, dated 
+May 11, 2015; for Model A330 series airplanes on which Airbus 
+Service Bulletin A330-36-3032 has been incorporated. As of the 
+effective date of this AD, use only Airbus Service Bulletin A330-36-
+3038, Revision 01, dated May 11, 2015.
+    (2) Airbus Mandatory Service Bulletin A330-36-3040, Revision 01, 
+dated November 26, 2012, for Model A330 series airplanes on which 
+Airbus Service Bulletin A330-36-3032 has not been incorporated.
+    (3) Airbus Mandatory Service Bulletin A340-36-4035, Revision 01, 
+dated September 24, 2013, for Model A340 series airplanes.
+
+(i) Retained Alternative Action to Paragraph (h) of This AD, With New 
+Service Information
+
+    This paragraph restates the alternative action specified in 
+paragraph (i) of AD 2014-03-14, with new service information. For 
+Model A330 series airplanes on which the modification specified in 
+Airbus Service Bulletin A330-36-3032 has not been incorporated, and 
+for Model A340 series airplanes: Doing the bleed leak detection loop 
+modification of the APU, in accordance with the Accomplishment 
+Instructions of the applicable Airbus service information specified 
+in paragraphs (i)(1) and (i)(2) of this AD, is an acceptable 
+alternative to the actions required by paragraph (h) of this AD, 
+provided the modification is accomplished within 26 months after 
+March 26, 2014 (the effective date of AD 2014-03-14).
+    (1) Airbus Service Bulletin A330-36-3037, Revision 02, including 
+Appendix 01, dated April 7, 2014.
+    (2) Airbus Service Bulletin A340-36-4033, Revision 02, including 
+Appendix 01, dated May 19, 2014.
+
+(j) Retained Drain Mast Installation, With No Changes
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2014-03-14, with no changes. For Model A340-500 and -600 series 
+airplanes, except those on which Airbus Modification 54636 or 54637 
+has been incorporated in production: Within 26 months after March 
+26, 2014 (the effective date of AD 2014-03-14), install a drain mast 
+between frame (FR) 80 and FR83, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A340-53-5031, Revision 02, dated August 3, 2011.
+
+(k) New Requirement of This AD: Replacement of Certain Insulation 
+Sleeves
+
+    For Model A340 series airplanes in configurations 002, 003, and 
+005, as described in Airbus Service Bulletin A340-36-4035, including 
+Appendix 01, dated September 18, 2012, that have been modified 
+before the effective date of this AD as specified in Airbus Service 
+Bulletin A340-36-4035, including Appendix 01, dated September 18, 
+2012: Within 14 months after the effective date of this AD, replace 
+the insulation sleeves between FR83 and FR84 with new insulation 
+sleeves, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A340-36-4035, Revision 01, dated September 
+24, 2013.
+
+(l) Credit for Previous Actions
+
+    (1) This paragraph provides credit for actions required by 
+paragraph (g) of this AD, if those actions were performed before 
+March 26, 2014 (the effective date of AD 2014-03-14), using Airbus 
+Service Bulletin A330-33-
+
+[[Page 24462]]
+
+3041, dated January 3, 2012; or Airbus Service Bulletin A340-33-
+4026, dated January 3, 2012; as applicable. This service information 
+is not incorporated by reference in this AD.
+    (2) This paragraph provides credit for actions required by 
+paragraph (h) of this AD, if those actions were performed before 
+March 26, 2014 (the effective date of AD 2014-03-14), using Airbus 
+Service Bulletin A330-36-3040, dated September 18, 2012. This 
+service information is not incorporated by reference in this AD.
+    (3) For Model A340 series airplanes in configurations 001 and 
+004, as described in Airbus Service Bulletin A340-36-4035, including 
+Appendix 01, dated September 18, 2012: This paragraph provides 
+credit for actions required by paragraph (h) of this AD, if those 
+actions were performed before the effective date of this AD using 
+Airbus Service Bulletin A340-36-4035, including Appendix 01, dated 
+September 18, 2012.
+    (4) This paragraph provides credit for actions required by 
+paragraph (j) of this AD, if those actions were performed before 
+March 26, 2014 (the effective date of AD 2014-03-14), using Airbus 
+Service Bulletin A340-53-5031, dated July 31, 2006; or Airbus 
+Service Bulletin A340-53-5031, Revision 01, dated January 10, 2008; 
+as applicable. This service information is not incorporated by 
+reference in this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (ii) AMOCs approved previously for paragraphs (g) and (h) of AD 
+2014-03-14 are approved as AMOCs for the corresponding provisions of 
+paragraphs (g) and (h) of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0148, dated June 13, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2015-6547.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(5) and (o)(6) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+May 31, 2016.
+    (i) Airbus Service Bulletin A330-33-3041, Revision 02, dated 
+November 7, 2013.
+    (ii) Airbus Service Bulletin A330-36-3037, Revision 02, 
+including Appendix 01, dated April 7, 2014.
+    (iii) Airbus Service Bulletin A330-36-3038, Revision 01, dated 
+May 11, 2015.
+    (iv) Airbus Service Bulletin A340-33-4026, Revision 02, dated 
+November 7, 2013.
+    (v) Airbus Service Bulletin A340-36-4033, Revision 02, including 
+Appendix 01, dated May 19, 2014.
+    (vi) Airbus Service Bulletin A340-36-4035, including Appendix 
+01, dated September 18, 2012.
+    (4) The following service information was approved for IBR on 
+March 26, 2014 79 FR 9382, February 19, 2014).
+    (i) Airbus Mandatory Service Bulletin A330-33-3041, Revision 01, 
+dated July 10, 2012.
+    (ii) Airbus Mandatory Service Bulletin A330-36-3040, Revision 
+01, dated November 26, 2012.
+    (iii) Airbus Mandatory Service Bulletin A340-33-4026, Revision 
+01, dated July 10, 2012.
+    (iv) Airbus Mandatory Service Bulletin A340-33-5006, dated 
+January 3, 2012.
+    (v) Airbus Mandatory Service Bulletin A340-36-4035, Revision 01, 
+dated September 24, 2013.
+    (vi) Airbus Mandatory Service Bulletin A340-53-5031, Revision 
+02, dated August 3, 2011.
+    (5) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on April 8, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-08951 Filed 4-25-16; 8:45 am]
+ BILLING CODE 4910-13-P

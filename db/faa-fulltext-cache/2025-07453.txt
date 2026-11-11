@@ -1,0 +1,421 @@
+[Federal Register Volume 90, Number 82 (Wednesday, April 30, 2025)]
+[Rules and Regulations]
+[Pages 17888-17891]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-07453]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0745; Project Identifier MCAI-2025-00187-T; 
+Amendment 39-23028; AD 2025-09-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A330-243, -243F, -841, and -941 airplanes. 
+This AD was prompted by reports of loss of data synchronization between 
+radio management panels (RMPs) and the audio management unit (AMU). 
+This AD requires revising the existing airplane flight manual (AFM) by 
+providing instructions to address dual loss of RMP data 
+synchronization, and the existing minimum equipment list (MEL) by 
+removing relief for an inoperative RMP 3. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective May 15, 2025.
+    The FAA must receive comments on this AD by June 16, 2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+
+[[Page 17889]]
+
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0745; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: James Clary, Aviation Safety Engineer, 
+FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 817-222-5138; 
+email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2025-0745; Project 
+Identifier MCAI-2025-00187-T'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to James 
+Clary, Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, 
+WA 98198; phone: 817-222-5138; email: [email protected]. Any 
+commentary that the FAA receives which is not specifically designated 
+as CBI will be placed in the public docket for this rulemaking.
+
+Background
+
+    The European Union Aviation Safety Agency (EASA), which is the 
+Technical Agent for the Member States of the European Union, has issued 
+EASA AD 2025-0043, dated February 19, 2025 (EASA AD 2025-0043) (also 
+referred to as ``the MCAI''), to correct an unsafe condition for Airbus 
+SAS Model A330-243, -243F, -841, and -941 airplanes with the digital 
+RMP function installed by modification 207423. The MCAI states loss of 
+data synchronization between the RMPs and the AMU were reported. Such 
+loss of data synchronization can lead to the loss of radio 
+communication, uncommanded changes of transponder and traffic alert and 
+collision avoidance system (TCAS) settings, and activation of standby 
+navigation mode on all RMPs. This condition, if not corrected, could 
+result in total loss of radio communication if RMP 3 is inoperative 
+prior to dispatch, including loss of transponder functionality and 
+standby navigation.
+    Accordingly, EASA AD 2025-0043 describes procedures for revising 
+the existing AFM by providing instructions to address dual loss of RMP 
+data synchronization. EASA AD 2025-0043 also specifies procedures for 
+revising the master minimum equipment list (MMEL) by adding relief to 
+allow airplane dispatch with an inoperative RMP 1 or RMP 2 (instead of 
+only RMP 2) and removing the relief that allows airplane dispatch with 
+an inoperative RMP 3.
+    The FAA is issuing this AD to address the unsafe condition on these 
+products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-0745.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this AD after determining that the 
+unsafe condition described previously is likely to exist or develop on 
+other products of the same type design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2025-0043 described previously, except as discussed under ``Differences 
+Between This AD and the MCAI.''
+
+Compliance With AFM and MEL Revisions
+
+    EASA AD 2025-0043 requires operators to ``inform all flight crews'' 
+of revisions to the AFM and MEL, and thereafter to ``operate the 
+aeroplane accordingly.'' However, this AD does not specifically require 
+those actions as those actions are already required by FAA regulations.
+    FAA regulations require that operators furnish to pilots any 
+changes to the AFM (for example, 14 CFR 121.137) and that pilots are 
+familiar with the AFM (for example, 14 CFR 91.505). As with any other 
+flightcrew training requirement, training on the updated AFM content is 
+tracked by the operators and recorded in each pilot's training record, 
+which is available for the FAA to review. FAA regulations also require 
+pilots to follow the procedures in the AFM including all updates. 
+Section 91.9 requires that any person operating a civil aircraft must 
+comply with the operating limitations specified in the AFM.
+    FAA regulations (14 CFR 121.628(a)(2)) require operators to provide 
+pilots with access to all of the information contained in the 
+operator's MEL. Further, Sec.  121.628(a)(5) requires airplanes to be 
+operated under all applicable conditions and limitations contained in 
+the operator's MEL.
+    Therefore, including a requirement in this AD to operate the 
+airplane according to the revised AFM or MEL would be redundant and 
+unnecessary.
+
+Differences Between This AD and the MCAI
+
+    The Airbus MMEL update referenced in EASA AD 2025-0043 allows 
+airplane dispatch with an inoperative RMP 1 or RMP 2. This AD, however, 
+does not allow dispatch with an inoperative RMP 1. According to FAA 
+MMEL Policy Letter 63, revision 4, dated July 5, 2012, the MMEL/MEL may 
+not provide relief for instruments and equipment that are
+
+[[Page 17890]]
+
+necessary for accomplishing an emergency procedure. However, relief may 
+be considered for redundant instruments or equipment powered by the 
+same power source used for accomplishing the emergency procedure.
+    The digital RMP function consists of three RMPs, but only RMP 1 
+functions in an emergency electrical configuration (i.e., RMP 2 and RMP 
+3 are not available if the flightcrew needs to switch to emergency 
+power). Therefore, the FAA has determined that an airplane cannot be 
+dispatched with an inoperative RMP 1 because it is essential for safe 
+operation under emergency conditions.
+
+Interim Action
+
+    The FAA considers that this AD is an interim action. The design 
+approval holder is currently developing a modification that will 
+address the unsafe condition identified in this AD. Once this 
+modification is developed, approved, and available, the FAA might 
+consider additional rulemaking.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because dual loss of data synchronization between RMP 1/RMP 2 and the 
+AMU during flight, in combination with an inoperative RMP 3 prior to 
+takeoff, could result in total loss of radio communication, transponder 
+functionality, and standby navigation, impacting the flightcrew's 
+ability to safely navigate, avoid air traffic collisions, and safely 
+land the airplane. In addition, the compliance time for the required 
+actions is 7 days, which is a shorter time period than the time 
+necessary for the public to comment and for publication of the final 
+rule. Accordingly, notice and opportunity for prior public comment are 
+impracticable and contrary to the public interest pursuant to 5 U.S.C. 
+553(b).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 86 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+            Action                         Labor cost               Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+AFM Revision..................  1 work-hour x $85 per hour = $85              $0             $85          $7,310
+MEL Revision..................  1 work-hour x $85 per hour = $85               0              85           7,310
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-09-07 Airbus SAS: Amendment 39-23028; Docket No. FAA-2025-0745; 
+Project Identifier MCAI-2025-00187-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective May 15, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A330-243, -243F, -841, and -
+941 airplanes, certificated in any category, with the digital
+
+[[Page 17891]]
+
+radio management panel (RMP) function installed by Airbus 
+modification 207423.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 23, 
+Communications.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of loss of data synchronization 
+between RMPs and the audio management unit (AMU). The FAA is issuing 
+this AD to address loss of radio communication, uncommanded changes 
+of transponder and traffic alert and collision avoidance system 
+(TCAS) settings, and activation of standby navigation mode on all 
+RMPs. This condition, if not corrected, could result in total loss 
+of radio communication if RMP 3 is inoperative prior to dispatch, 
+including loss of transponder functionality and standby navigation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Airplane Flight Manual (AFM) Revision
+
+    Within 7 days after the effective date of this AD, revise the 
+Emergency Procedures section of the existing AFM to include the 
+information in figure 1 to paragraph (g) of this AD. This may be 
+done by inserting a copy of figure 1 to paragraph (g) of this AD 
+into the existing AFM. Using a different document with information 
+identical to that contained in figure 1 to paragraph (g) of this AD 
+is acceptable for compliance with the requirements of this 
+paragraph.
+
+Figure 1 to Paragraph (g)--AFM Procedure
+[GRAPHIC] [TIFF OMITTED] TR30AP25.053
+
+(h) Minimum Equipment List (MEL) Revision
+
+    Before further flight after accomplishing the requirements of 
+paragraph (g) of this AD, revise the existing FAA-approved MEL to 
+prohibit airplane dispatch (operation) with an inoperative RMP 3 
+under the MEL item equivalent to FAA master minimum equipment list 
+(MMEL) 23-81-01.
+
+(i) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the AFM revision required 
+by paragraph (g) of this AD, if the revision was performed before 
+the effective date of this AD using Airbus A330/A340 Operations 
+Engineering Bulletin (OEB) 58, issue 1.0, dated February 7, 2025.
+    (2) This paragraph provides credit for the AFM revision required 
+by paragraph (g) of this AD, if the revision was performed before 
+the effective date of this AD using Airbus A330 Airplane Flight 
+Manual Temporary Revision TR819, Issue 1, dated March 6, 2025.
+
+(j) Additional AD Provisions4
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+AIR-520, Continued Operational Safety Branch, FAA, send it to the 
+attention of the person identified in paragraph (k)(1) of this AD 
+and email to: [email protected]. Before using any approved AMOC, notify 
+your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or European Union Aviation 
+Safety Agency (EASA); or Airbus SAS's EASA Design Organization 
+Approval (DOA). If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+
+(k) Additional Information
+
+    (1) For more information about this AD, contact James Clary, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 817-222-5138; email: [email protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at Airbus SAS, Airworthiness Office--EAL, 
+Rond-Point Emile Dewoitine No: 2, 31700 Blagnac Cedex, France; 
+telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; email 
+airbus.com">airworthiness.A330-A340@airbus.com; website airbus.com.
+
+(l) Material Incorporated by Reference
+
+    None.
+
+    Issued on April 25, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-07453 Filed 4-25-25; 4:15 pm]
+BILLING CODE 4910-13-P

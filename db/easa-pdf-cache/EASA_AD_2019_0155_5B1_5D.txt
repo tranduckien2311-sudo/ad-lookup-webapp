@@ -1,0 +1,47 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0155
+
+Airworthiness Directive
+
+AD No.: 2019-0155
+
+Issued: 03 July 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 17 July 2019 TCDS Number(s): EASA.A.004, EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2010-0135 dated 05 July 2010.
+
+ATA 52 – Doors – Passenger / Crew / Emergency Exit Door Girt Bar Slider Mechanism – Functional Check / Lubrication
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343 and A330-941 aeroplanes, all manufacturer serial numbers (MSN); and Airbus A340 aeroplanes, all certified models, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable MRBR task: Airbus Maintenance Review Board Report (MRBR) task 52.10.00/09, or MRBR task 52.22.00/09, as applicable. The applicable AOT: Airbus All Operator Telex (AOT) A330-52A3063 and AOT A340-52A4075, as applicable, both at Revision 01. Page 1 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0155 Groups: Group 1 aeroplanes are all A330 and A340 models identified in the Applicability section of this AD, except A340-500 and -600, and A330-941 aeroplanes. Group 2 are A340-500 and -600, and A330-941 aeroplanes.
+
+Reason: At the end of an escape slide deployment test performed on the left-hand forward passenger/crew door of an A330 aeroplane, the girt bar attaching the escape slide to the fuselage was found not in a locked position and detached from the aeroplane. The investigation results showed that a component of the slide release mechanism (slider) was unserviceable (spring function inoperative due to corrosion or missing). This condition, if not detected and corrected, could result in the slide detaching from the door after being inflated which, during an emergency, would impair the safe evacuation of occupants, possibly resulting in personal injuries. To address this potential unsafe condition, Airbus issued AOT A330-52A3063 and A340-52A4075 (later revised) to provide the necessary instructions. Consequently, DGAC France issued AD F-2001-053 (later R1, EASA approval 2004-2113) and AD F-2001-052 (later R2, EASA approval 2004-2112) to require repetitive functional checks and lubrication of door girt bar slider and, depending on findings, accomplishment of applicable corrective action(s). After those ADs were issued, EASA issued AD 2010-0135, retaining the requirements of DGAC France AD F-2001-053R1 and AD F-2001-052R2, which were superseded, to expand the Applicability to include models A330-223F and A330-243F, and to clarify the required actions. Since EASA AD 2010-0135 was issued, it was determined that the threshold and interval value can be extended from 18 to 24 months. In addition, A340-500 and -600 aeroplanes are also affected but were not addressed by AD 2010-0135. A330-941 aeroplanes are also affected. For the reasons described above, this AD retains the requirements of EASA AD 2010-0135, which is superseded, adds A340-500 and -600 series, and A330-941 aeroplanes to the Applicability, and extends the compliance times from 18 to 24 months.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Functional Check / Lubrication: (1) For Group 1 aeroplanes: Before exceeding 24 months since aeroplane first flight, or within 550 flight hours after 17 February 2001 [effective date of DGAC France AD F-2001-053R1 and AD F-2001-052R2], whichever occurs later, and, thereafter, at intervals not to exceed 24 months, accomplish a functional check and lubrication of the door girt bar slider of each passenger/crew door and passenger compartment emergency exit, in accordance with the instructions of the applicable AOT. (2) For Group 2 aeroplanes: Before exceeding 24 months since the aeroplane first flight, or within 24 months after the effective date of this AD, whichever occurs later, and, thereafter, at intervals not to exceed 24 months, accomplish a functional check and lubrication of door girt Page 2 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0155 bar slider of each passenger/crew door and passenger compartment emergency exit. This can be accomplished by using the instructions of the applicable MRBR task. Corrective Action(s): (3) If, during any functional test or lubrication, as required by paragraph (1) or (2) of this AD, as applicable, a slider is found without locking function, before next flight, repair or replace the affected door girt bar slider. This can be accomplished by using the instructions of the applicable MRBR task, or in accordance with the instructions of the applicable AOT (Group 1). Credit: (4) For Group 1 aeroplanes: Functional checks, lubrications and corrective action(s) on an aeroplane, accomplished before 17 July 2010 [the effective date of EASA AD 2010-0135] in accordance with the instructions of Airbus AOT A330-52A3063 or AOT A340-52-A4075 at original issue, are acceptable to comply with the initial requirements of paragraph (1) of this AD for that aeroplane. Alternative Method: (5) Accomplishment of the applicable Aircraft Maintenance Manual (AMM) task 52-10-00-200-805 or AMM task 52-22-00-200-805 on an aeroplane, within the thresholds and intervals defined in paragraphs (1) and (2) of this AD, constitutes an acceptable alternative method to comply with the functional checks and lubrication requirements of this AD for that aeroplane. Terminating Action: (6) None.
+
+Ref. Publications: Airbus AOT A330-52A3063 original issue dated 02 August 2000, or Revision 01 dated 03 January 2001. Airbus AOT A340-52A4075 original issue dated 02 August 2000, or Revision 01 dated 03 January 2001. Airbus A330 MRBR Revision 18 dated April 2019. Airbus A340 MRBR Revision 18 dated April 2019. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 15 March 2019 as PAD 19-039 for consultation until 12 April 2019, and re-published on 11 June 2019 as PAD 19-039R1 for additional consultation until 25 June 2019. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. Page 3 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2019-0155 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, E-mail:airworthiness.A330-A340@airbus.com. Page 4 of 4 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

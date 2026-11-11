@@ -1,0 +1,50 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0187
+
+Airworthiness Directive
+
+AD No.: 2016-0187
+
+Issued: 19 September 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320 and A321 aeroplanes
+
+Effective Date: 03 October 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 52 – Door – Forward and Aft Cargo Door Frame Forks – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial numbers (MSN) up to 0758 inclusive.
+
+Reason: During full scale fatigue test, cracks have been found on frame forks and outer skin on forward and aft cargo doors. To improve the fatigue behaviour of the frame forks, Airbus introduced modification (mod) 22948 in production, and issued inspection Service Bulletin (SB) A320-52-1032 and modification SB A320-52-1042, both recommended. Since those actions were taken, further improved cargo compartment doors have been introduced in production through Airbus mod 26213, on aeroplanes having MSN 0759 and up. This modification, which is not available for in-service retrofit, also includes provisions that exclude installation of pre-mod 26213 aft and forward compartment cargo doors on an aeroplane. Page 1 of 5 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0187 In the frame of the Widespread Fatigue Damage (WFD) study, it has been determined that repetitive inspections are necessary for aft and forward cargo compartment doors on aeroplanes that do not (or no longer) embody mod 22948 (or SB A320-52-1042), and those that do not embody mod 26213. Failure to detect cracks would reduce the cargo door structural integrity. This condition, if not detected and corrected, could lead to cargo door failure, possibly resulting in decompression of the aeroplane and injury to occupants. To address this unsafe condition, Airbus issued SB A320-52-1171 to provide inspection instructions. This SB was later revised to correct the list of affected cargo doors. Airbus also issued SB A320-52- 1170, introducing a door modification which constitutes terminating action for the repetitive special detailed inspection (SDI). For the reason described above, this AD requires accomplishment of repetitive SDI by rototest of all frame forks in beam 4 area to detect cracks, and, depending on findings, accomplishment of applicable corrective action(s). This AD also provides an optional terminating action for the repetitive SDI required by this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: for the purpose of this AD, an “affected door” is a forward or aft cargo compartment door, having any of the P/N listed in Appendix 1 of this AD, except those on which Airbus SB A320-52-1042 or Airbus SB A320-52-1170 are embodied. (1) Within the compliance time defined in Table 1 of this AD, as applicable, and, thereafter, at intervals not to exceed 3 000 flight cycles (FC), accomplish a SDI of all frame forks in beam 4 area of any affected door (see Note 1 of this AD) of the aeroplane in accordance with the instructions of Airbus SB 320-52-1171 Revision 01. A review of the aeroplane delivery or maintenance records is acceptable to identify whether an affected door is installed on an aeroplane, provided that the cargo compartment door P/N can be conclusively determined from that review. Table 1 – Inspection Threshold Compliance Time (whichever occurs later, A, B, C, or D) – See Note 2 of this AD A Before exceeding 37 500 FC since first installation of the door on an aeroplane Within 900 FC after the effective date of this AD, without exceeding 41 950 FC since first B installation of the door on an aeroplane Within 50 FC after the effective date of this AD, for a door having reached or exceeded C 41 900 FC since first installation on an aeroplane Within 3 000 FC since last inspection in accordance with the instructions of Airbus SB D A320-52-1032 Page 2 of 5 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0187 Note 2: If no data, or only partial data, are available, operators may refer to the guidance specified in ALS Part 1 Section 1 chapter 5.2 (traceability) to determine the FC accumulated by a forward or aft cargo compartment door. (2) If, during any SDI as required by paragraph (1) of this AD, any crack is detected on a door, accomplish the applicable corrective action(s) within the compliance time specified in, and in accordance with the instructions of, Airbus SB A320-52-1171 Revision 01. (3) Inspections and corrective actions, accomplished before the effective date of this AD in accordance with the instructions of Airbus SB A320-52-1171 original issue, are acceptable to comply with the initial requirements of paragraphs (1) and (2) of this AD, provided reference to the affected door P/N, as listed in Appendix 1 of this AD and in Revision 01 of Airbus SB A320-52-1171, has been made. (4) Accomplishment of corrective action(s) on an aeroplane, as required by paragraph (2) of this AD, does not constitute terminating action for the repetitive inspections required by paragraph (1) for that aeroplane. (5) Modification of all affected doors of an aeroplane in accordance with the instructions of Airbus SB A320-52-1042 or SB A320-52-1170 constitutes terminating action for the repetitive SDI required by paragraph (1) of this AD for that aeroplane, provided that, after modification, no affected doors are re-installed on that aeroplane. Modification of any affected door on an aeroplane, in case of finding damaged frame forks, in accordance with the instructions of Airbus SB A320-52-1042 or SB A320-52-1170, and Airbus Repair Design Approval Sheet (RDAS), constitutes terminating action for the repetitive SDI required by paragraph (1) of this AD for that aeroplane, provided that, after modification, no affected doors are re-installed on that aeroplane. (6) From the effective date of this AD, it is allowed to install an affected door on an aeroplane, provided that, following installation, the affected door is inspected as required by paragraph (1) of this AD.
+
+Ref. Publications: Airbus SB A320-52-1032 original issue dated 16 August 1993, Revision 01 dated 21 March 1994 or Revision 02 dated 10 February 1999. Airbus SB A320-52-1042 original issue dated 16 August 1993, Revision 01 dated 22 November 1993 or Revision 02 dated 14 January 1997. Airbus SB A320-52-1170 original issue dated 05 September 2016. Airbus SB A320-52-1171 original issue dated 29 October 2015 or Revision 01 dated 05 September 2016. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. Page 3 of 5 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2016-0187
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 4 of 5 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2016-0187 Appendix 1 Affected Cargo Doors P/N Forward Cargo Doors Aft Cargo Doors P/N P/N D52371000000 D52371900000 D52371000002 D52371900002 D52371000004 D52371900004 D52371000006 D52371900008 D52371000008 D52371900010 D52371000010 D52371900012 D52371000012 D52371900014 D52371000014 D52371900016 D52371000016 D52371900018 D52371000018 D52371900022 D52371000022 Page 5 of 5 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

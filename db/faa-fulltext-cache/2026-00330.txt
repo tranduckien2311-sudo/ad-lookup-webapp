@@ -1,0 +1,544 @@
+[Federal Register Volume 91, Number 7 (Monday, January 12, 2026)]
+[Rules and Regulations]
+[Pages 1078-1082]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-00330]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0480; Project Identifier AD-2024-00546-E; 
+Amendment 39-23226; AD 2025-26-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines LLC Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+International Aero Engines, LLC (IAE LLC) Model PW1122G-JM, PW1124G-JM, 
+PW1124G1-JM, PW1127G-JM, PW1127G1-JM, PW1127G1A-JM, PW1127G1B-JM, 
+PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-JM, PW1133GA-JM, PW1428G-
+JM, PW1428GA-JM, PW1428GH-JM, PW1431G-JM, PW1431GA-JM, and PW1431GH-JM 
+engines. This AD was prompted by multiple reports of fan blade fracture 
+events, three of which resulted in an engine under cowl fire or pool 
+fire. This AD requires removal of one loop cushion clamp from the 
+hydraulic fuel pressure fuel oil cooler fuel tube assembly (CP09 tube 
+assembly), replacement of the thermal management system (TMS) clevis 
+mounts with redesigned TMS clevis mounts, and reinstallation of the 
+loop cushion clamp, as applicable. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective February 17, 2026.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 17, 
+2026.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0480; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For Pratt & Whitney (PW) material identified in this AD, 
+contact IAE LLC, 400 Main Street, East Hartford, CT 06118; phone: (860) 
+565-0140; email: [email protected]; website: connect.prattwhitney.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 1200 District Avenue, 
+Burlington, MA 01803. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+regulations.gov under Docket No. FAA-2025-0480.
+
+FOR FURTHER INFORMATION CONTACT: Carol Nguyen, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(781) 238-7655; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all International Aero 
+Engines, LLC (IAE LLC) Model PW1122G-JM, PW1124G-JM, PW1124G1-JM, 
+PW1127G-JM, PW1127G1-JM, PW1127G1A-JM, PW1127G1B-JM, PW1127GA-JM, 
+PW1129G-JM, PW1130G-JM, PW1133G-JM, PW1133GA-JM, PW1428G-JM, PW1428GA-
+JM, PW1428GH-JM, PW1431G-JM, PW1431GA-JM, and PW1431GH-JM engines. The 
+NPRM was published in the Federal Register on March 28, 2025 (90 FR 
+14057). The NPRM wasF prompted by multiple reports of fan blade 
+fracture events due to bird strikes. Three of these events resulted in 
+an engine under cowl fire or pool fire. In the NPRM, the FAA proposed 
+to require removal of one loop cushion clamp from the CP09 tube 
+assembly and replacement of the TMS clevis mounts with redesigned TMS 
+clevis mounts.
+    The FAA is issuing this AD to prevent a fuel leak resulting from a 
+fan blade fracture. The unsafe condition, if not addressed, could 
+result in an uncontrolled engine fire and damage to the airplane.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from nine commenters. The commenters were
+
+[[Page 1079]]
+
+the Airline Pilots Association, International (ALPA); All Nippon 
+Airways (ANA); Delta Air Lines (Delta); Lufthansa Technik AG 
+(Lufthansa); PW; ProTech Aero Services Limited (ProTech); United 
+Airlines (United); and an individual. The following presents the 
+comments received on the NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    ALPA, United, and the individual expressed support for the NPRM.
+
+Request To Define ``Next Engine Shop Visit''
+
+    In the NPRM, the FAA proposed that paragraph (g) would require 
+certain parts to be replaced ``at the next engine shop visit.'' 
+Lufthansa, Delta, and ANA requested that the FAA refine this term. 
+Delta stated that there was no definition of ``engine shop visit'' in 
+the NPRM. Lufthansa requested that the FAA specify the type of shop 
+visit. Lufthansa stated that during quick-turn shop visits with nose-
+down procedure, it is not possible to perform the required 
+modification. Lufthansa also noted that the modification requirement 
+could have a significant effect on operations that are intended to 
+minimize turnaround time, and requested that such types of visits be 
+excluded from the rule. ANA indicated that the engine manufacturer's 
+recommended maintenance program defines ``shop visit'' as ``whenever an 
+engine maintenance opportunity entails separating pairs of major mating 
+gas path flanges.'' ANA requested clarification on whether this 
+definition of ``shop visit'' from the engine maintenance program is 
+applicable.
+    The FAA agrees to define ``next engine shop visit,'' however, the 
+FAA does not agree to exclude quick-turn shop visits. To clarify, for 
+this AD quick-turn shop visits are defined as limited scope and meant 
+to target specific engine issues. However, regardless of the reason for 
+induction, the FAA considers those quick-turn shop visits to be 
+``engine shop visits,'' as defined in paragraph (i) of this final rule. 
+Operators may request an alternative method of compliance (AMOC) in 
+accordance with the procedures specified in paragraph (k) of this AD, 
+provided sufficient data are submitted to substantiate that the AMOC 
+would provide an acceptable level of safety. The FAA has revised this 
+final rule by including paragraph (i), which includes the definition of 
+``engine shop visit.''
+
+Request To Alter Compliance Times
+
+    The individual requested that the FAA account for different 
+compliance schedules in relation to this NPRM. The commenter stated 
+that the compliance schedule of the required actions could affect 
+operators with major operational interruptions and higher maintenance 
+costs if additional down time is necessary to comply with this proposed 
+AD. Additionally, the commenter encouraged the FAA to work with 
+stakeholders to improve the AD, such as by exploring other alternative 
+methods of risk reduction or conducting a cost-benefit analysis.
+    The FAA disagrees with the request to alter the compliance times of 
+this AD. In developing an appropriate compliance time for this action, 
+the FAA considered the recommendations from the manufacturer. These 
+recommendations included the urgency associated with the unsafe 
+condition, the availability of required parts, and the practical aspect 
+of accomplishing the required modification within a period of time that 
+corresponds to the normal scheduled maintenance for most affected 
+operators. In consideration of these items, the FAA has determined that 
+the specified compliance times will ensure an acceptable level of 
+safety. The NPRM gives all stakeholders and the general public the 
+opportunity to comment on the proposed required actions and compliance 
+times.
+    As to the commenter's other suggestion, the FAA worked with 
+industry stakeholders, including the manufacturer, and affected 
+operators through the public comment process, to develop this final 
+rule. However, any operator may request an AMOC in accordance with the 
+procedures specified in paragraph (k) of this AD, provided sufficient 
+data are submitted to substantiate that the AMOC would provide an 
+acceptable level of safety. The FAA has not changed this AD based on 
+this comment.
+
+Request for Different Compliance Times for Engines That Are Not 
+Installed
+
+    ProTech stated support for the compliance times for engines that 
+are already installed on airplanes. However, ProTech requested that the 
+FAA specify a compliance time of ``Within 30 days after the effective 
+date of this AD, or at the time of installation on an airplane, 
+whichever comes later . . .'' for engines which are not installed on an 
+airplane.
+    The FAA agrees to clarify the compliance time and has revised 
+paragraph (g)(1) of this AD to account for each subset of engines.
+
+Request To Remove Certain Language
+
+    PW requested that the FAA remove ``due to bird strike'' from the 
+Summary, Background, and the Unsafe Condition sections.
+    The FAA agrees with the request. Although three of the six fan 
+blade fracture events were caused by bird strikes, other events can 
+fracture a fan blade. The FAA has removed all instances of ``due to 
+bird strike'' in this final rule, except for the description of the 
+NPRM in the Background section.
+
+Request To Use Updated Service Material
+
+    Delta and ANA requested that the FAA update the required actions to 
+refer to an updated revision of the applicable service material. Delta 
+stated that the later revision allows operators to reuse certain part-
+numbered bolts that are removed, if the bolts pass certain inspection 
+requirements. Delta stated that this is based on parts availability. 
+Delta also requested the FAA revise the credit for previous actions 
+paragraph to include the updated service material.
+    ANA stated that the instructions in a certain engine manual do not 
+specify the requirement to discard bolt part number MS9716-08 or to 
+install new bolts. ANA also stated that if the bolts have passed 
+certain inspections and procedures and the required torque was applied, 
+these bolts are not required to be discarded. ANA requested that the 
+FAA allow certain part-numbered bolts to be reused and not discarded if 
+they have passed certain inspections and procedures.
+    The FAA agrees to allow certain part-numbered bolts to be reused if 
+they have passed certain inspections and procedures. Additionally, 
+since the NPRM was published, the manufacturer has released multiple 
+revisions to PW Alert Service Bulletin (ASB) PW1000G-C-72-00-0214-00A-
+930A-D. The FAA has revised this AD to reference PW ASB PW1000G-C-72-
+00-0214-00A-930A-D, Issue 006 as the appropriate source of material and 
+has included credit for all previous revisions.
+
+Request To Require Reinstallation of the Loop Cushion Clamp
+
+    Delta requested that the FAA revise the required actions to require 
+reinstallation of the loop cushion clamp after replacement of the TMS 
+clevis mounts. Delta stated that PW ASB PW1000G-C-72-00-0214-00A-930A-D 
+contains a step for reinstalling the loop cushion clamp after the TMS 
+clevis mounts have been replaced, which the FAA did not include in the 
+NPRM. Delta expressed the expectation that
+
+[[Page 1080]]
+
+since the required steps of the service material include removal of the 
+loop cushion clamp, that the intention would also be to reinstall.
+    The FAA agrees. However, since the NPRM was published, PW ASB 
+PW1000G-C-72-00-0214-00A-930A-D has been updated and the FAA has 
+revised this AD to refer to the latest revision of the required 
+material. Additionally, the steps contained in the updated material 
+have changed, which in turn, caused the steps referenced in this AD to 
+change. Accordingly, the FAA has revised paragraph (g)(2) of this AD to 
+require the steps in the latest revision of PW ASB PW1000G-C-72-00-
+0214-00A-930A-D, which includes reinstalling the loop cushion clamp 
+with the redesigned TMS clevis mounts after the TMS clevis mounts are 
+replaced.
+
+Request To Revise Terminating Action
+
+    PW requested that the FAA revise the terminating action paragraph 
+of the NPRM to specify that the actions specified in paragraph (g)(2) 
+of the NPRM constitute a terminating action for the entire NPRM. No 
+further justification was provided.
+    The FAA disagrees with the request to revise the terminating action 
+to apply to the entire AD. The FAA notes that the terminating action 
+paragraph of this AD only applies to the removal of the loop cushion 
+clamp because once the TMS clevis mounts are replaced, this action is 
+no longer necessary. The FAA has not changed this AD based on this 
+request.
+
+Request To Change Interim Action to Final Action
+
+    PW requested that the FAA revise the wording of the NPRM to specify 
+that the required actions are final and that the NPRM is not considered 
+an interim action. PW stated that the TMS clevis mounts replacement and 
+subsequent reinstallation of the loop cushion clamp addresses the 
+unsafe condition.
+    The FAA agrees that the TMS clevis mounts replacement and 
+subsequent reinstallation of the loop cushion clamp does address the 
+unsafe condition. However, since the FAA has not included the interim 
+action paragraph in this final rule, there is no need for the FAA to 
+change this final rule based on the request.
+
+Request for Clarification Regarding Removal of the Loop Cushion Clamp
+
+    ANA requested that the FAA revise paragraphs (c) or (g)(1) of the 
+NPRM to include an exemption for engines that have already complied 
+with ASB PW1000G-C-72-00-0214-00A-930A-D. ANA requested clarification 
+whether engines that have replaced the TMS clevis mounts are also 
+required to remove the loop cushion clamp. ANA stated that even though 
+the terminating action removes the requirement to remove the loop 
+cushion clamp, there is still possibility for confusion for the 
+operator, which may accidentally do both actions.
+    The FAA agrees to clarify. The replacement of the TMS clevis mounts 
+specified in paragraph (g)(2) of this AD terminates the loop clamp 
+removal specified in paragraph (g)(1) of this AD. As discussed 
+previously in this final rule, the FAA has also included reinstallation 
+of the loop clamp as an additional requirement to paragraph (g)(2) of 
+this AD and as such, there is no need to include the language suggested 
+by the commenter. Furthermore, paragraph (f) of this AD states to 
+accomplish the required actions within the compliance times specified, 
+``unless already done.'' Therefore, if operators have accomplished the 
+actions required for compliance with this AD before the effective date 
+of this AD, no further action is necessary. The FAA has not revised 
+this AD in this regard.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed the following material.
+     PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 006, 
+dated August 19, 2025, which specifies procedures for replacement of 
+the TMS clevis mounts with redesigned TMS clevis mounts and 
+reinstallation of the loop cushion clamp.
+     PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 005, 
+dated September 18, 2024, which specifies procedures for removing one 
+loop cushion clamp from the CP09 tube assembly.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 586 engines installed on 
+airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Remove one loop cushion clamp from the     9 work-hours x $85 per hour           $0         $765        $448,290
+ CP09 tube assembly.                        = $765.
+Replace the TMS clevis mounts............  107 work-hours x $85 per          17,000       26,095      15,291,670
+                                            hour = $9,095.
+Install one loop cushion clamp on the      9 work-hours x $85 per hour            0          765         448,290
+ CP09 tube assembly.                        = $765.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or
+
+[[Page 1081]]
+
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-26-04 International Aero Engines LLC: Amendment 39-23226; 
+Docket No. FAA-2025-0480; Project Identifier AD-2024-00546-E.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective February 17, 
+2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to International Aero Engines, LLC Model 
+PW1122G-JM, PW1124G-JM, PW1124G1-JM, PW1127G-JM, PW1127G1-JM, 
+PW1127G1A-JM, PW1127G1B-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, 
+PW1133G-JM, PW1133GA-JM, PW1428G-JM, PW1428GA-JM, PW1428GH-JM, 
+PW1431G-JM, PW1431GA-JM, and PW1431GH-JM engines.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 1400, Miscellaneous 
+Hardware.
+
+(e) Unsafe Condition
+
+    This AD was prompted by multiple reports of fan blade fracture 
+events, three of which resulted in an engine under cowl fire or pool 
+fire. The FAA is issuing this AD to prevent a fuel leak resulting 
+from a fan blade fracture. The unsafe condition, if not addressed, 
+could result in an uncontrolled engine fire and damage to the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 30 days after the effective date of this AD or upon 
+installation of an affected engine, whichever occurs later, remove 
+one loop cushion clamp, part number ST1540-06, from the hydraulic 
+fuel pressure fuel oil cooler fuel tube assembly (CP09 tube 
+assembly) in accordance with the Accomplishment Instructions, For 
+Engines Installed On Aircraft, paragraph C, or For Engines Not 
+Installed On Aircraft, paragraph A, of Pratt & Whitney (PW) Alert 
+Service Bulletin (ASB) PW1000G-C-73-00-0053-00A-930A-D, Issue No. 
+005, dated September 18, 2024.
+    (2) At the next engine shop visit after the effective date of 
+this AD, replace the thermal management system (TMS) clevis mount 
+with redesigned TMS clevis mounts in accordance with paragraphs AI, 
+AJ, AL through AN, and AZ(6) of the Accomplishment Instructions of 
+PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 006, dated August 
+19, 2025.
+
+(h) Terminating Action
+
+    The actions specified in paragraph (g)(2) of this AD constitute 
+terminating action for the requirements of paragraph (g)(1) of this 
+AD. This terminating action may be accomplished instead of the 
+actions specified in paragraph (g)(1) of this AD.
+
+(i) Definition
+
+    For the purpose of this AD, an ``engine shop visit'' is the 
+induction of an engine into the shop for maintenance.
+
+(j) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions specified in 
+paragraph (g)(1) of this AD, if done before the effective date of 
+this AD using any of the material specified in paragraph (j)(1)(i) 
+through (iv) of this AD inclusive.
+    (i) PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 001, dated 
+October 25, 2022.
+    (ii) PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 002, 
+dated November 07, 2022.
+    (iii) PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 003, 
+dated November 21, 2022.
+    (iv) PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 004, 
+dated March 15, 2024.
+    (2) This paragraph provides credit for the actions specified in 
+paragraph (g)(2) of this AD, if done before the effective date of 
+this AD using any of the material specified in paragraph (j)(2)(i) 
+through (v) of this AD inclusive.
+    (i) PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 001, dated 
+July 19, 2023.
+    (ii) PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 002, 
+dated March 15, 2024.
+    (iii) PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 003, 
+dated May 16, 2024.
+    (iv) PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 004, 
+dated September 18, 2024.
+    (v) PW ASB PW1000G-C-72-00-0214-00A-930A-D, Issue No. 005, dated 
+July 30, 2025.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of AIR-520 Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (l)(1) of this AD and email to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact Carol Nguyen, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (781) 238-7655; email: [email protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (m)(3) 
+of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Pratt & Whitney (PW) Alert Service Bulletin (ASB) PW1000G-C-
+72-00-0214-00A-930A-D, Issue No. 006, dated August 19, 2025.
+    (ii) PW ASB PW1000G-C-73-00-0053-00A-930A-D, Issue No. 005, 
+dated September 18, 2024.
+    (3) For PW material identified in this AD, contact International 
+Aero Engines, LLC, 400 Main Street, East Hartford, CT 06118; phone: 
+(860) 565-0140; email: [email protected]; website: 
+connect.prattwhitney.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 1200 District Avenue,
+
+[[Page 1082]]
+
+Burlington, MA 01803. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on December 23, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-00330 Filed 1-9-26; 8:45 am]
+BILLING CODE 4910-13-P

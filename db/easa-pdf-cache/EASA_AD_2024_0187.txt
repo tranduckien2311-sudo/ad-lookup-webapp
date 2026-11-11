@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2024-0187
+
+Airworthiness Directive
+
+AD No.: 2024-0187
+
+Issued: 25 September 2024 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 09 October 2024 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 52 – Doors – Overwing Exit Door Latch Bracket Bushes – Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A321-251NX, A321-252NX, A321-253NX, A321-271NX and A321-272NX aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The ISB: Airbus Inspection Service Bulletin (ISB) A320-52-1203. The MSB: Airbus Modification Service Bulletin (MSB) A320-52-1204. Affected part: Bracket assembly (assy) latch having a Part Number (P/N) as listed in Table 1 of this AD installed on an overwing exit door (door assembly overwing) having a P/N as listed in Table 2 of this AD. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2024-0187 Table 1 - Bracket Assembly Latch P/N Bracket Assembly D5227347700000 D5227348400000 D5227348400100 Latch P/N Table 2 - Door Assembly Overwing P/N D5227331202800 D5227331203400 D5227331205400 D5227331203800 Door D5227331205200 D5227331205800 D5227331204800 D5227331203200 Assembly Overwing D5227331204600 D5227331203600 D5227331204200 D5227331205600 P/N D5227331204000 D5227331203000 D5227331204400 D5227331205000 Groups: Group 1 aeroplanes are those having an affected part installed. Group 2 aeroplanes are those which do not have an affected part installed. An aeroplane on which Airbus modification (mod) 168741 has been embodied in production is considered to be a Group 2 aeroplane, provided that no affected part has been installed after the aeroplane date of manufacture.
+
+Reason: During accomplishment of an inspection on an in-service aeroplane, two bushes have been found migrated on the latch shaft of an emergency overwing exit door. This condition, if not detected and corrected, could affect the fatigue life of the lower beam of the overwing exit door, and consequently the structural integrity of the aeroplane. To address this potential unsafe condition, Airbus issued the ISB to provide detailed inspection (DET) instructions of the affected parts and issued the MSB to provide modification instructions preventing bush migration. For the reasons described above, this AD requires accomplishment of repetitive DETs of the affected parts, and in case of findings, modification.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Inspection(s): (1) For Group 1 aeroplanes: Before exceeding 11 000 flight cycles (FC) since aeroplane first flight, and, thereafter, at intervals not to exceed 11 000 FC, accomplish a DET of the bracket bushes of each affected part in accordance with the instructions of the ISB. Corrective Action(s): (2) If, during any inspection as required by paragraph (1) of this AD, discrepancies, as defined in the ISB, are detected, before exceeding 11 000 FC since aeroplane first flight, or since the Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2024-0187 previous inspection without findings, whichever occurs later, accomplish the corrective actions in accordance with the instructions of the MSB. Terminating Action: (3) Modification on an aeroplane in accordance with the instruction of the MSB constitutes terminating action for the repetitive inspections as required by paragraph (1) of this AD for that aeroplane. Part(s) Installation: (4) Do not install an affected part on any aeroplane, as required by paragraph (4.1) or (4.2) of this AD, as applicable. (4.1) For Group 1 aeroplanes: After modification of the aeroplane in accordance with the instructions of the MSB. (4.2) For Group 2 aeroplanes: From the effective date of this AD.
+
+Ref. Publications: Airbus SB A320-52-1203 at original issue dated 31 May 2024. Airbus SB A320-52-1204 at original issue, dated 31 May 2024 or Revision 01 dated 30 August 2024. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 31 July 2024 as PAD 24-098 for consultation until 28 August 2024. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

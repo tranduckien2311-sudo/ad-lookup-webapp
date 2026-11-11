@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0130
+
+Airworthiness Directive
+
+AD No.: 2020-0130
+
+Issued: 08 June 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: 22 June 2020 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 32 – Landing Gear – Main Landing Gear Torque Link Apex Pin – Replacement / Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, A319-171N, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N and A321-272NX aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AOT: Airbus Alert Operators Transmission (AOT) A32N018-20 Revision 01. Affected part: Main landing gear (MLG) torque link Apex pins, having Part Number (P/N) 201383606 and having a serial number (s/n) listed in Appendix 1 or 4 of the AOT. Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0130 Serviceable part: MLG torque link Apex pins that are not an affected part; or an affected part having a s/n listed in Appendix 4 of the AOT which has passed (no discrepancies detected) an inspection in accordance with the instructions of the AOT, or which has been overhauled.
+
+Reason: Two cases of MLG torque link Apex pin rupture were reported in service. Subsequent investigation results concluded that these events occurred as a consequence of a manufacturing defect. While all parts of the concerned batch were recovered, it was determined that other batches could also be affected. This condition, if not detected and corrected, could lead to disconnection of the MLG torque links, possibly resulting in reduced braking efficiency or an increased risk of tyre burst during take-off or landing phases. To address this potential unsafe condition, Airbus published the AOT at original issue, listing affected parts (Appendix 1, parts manufactured shortly before and after the concerned batch) and providing replacement instructions. Prompted by additional findings, the AOT was revised to expand the list of affected parts (Appendix 4, all parts possibly manufactured with an incorrect radius) and to add instructions for inspection. For the reasons described above, this AD requires replacement of the affected parts listed by s/n in Appendix 1 of the AOT, and a one-time magnetic particle inspection (MPI) of the affected parts listed by s/n in Appendix 4 of the AOT and, depending on findings, replacement with serviceable parts.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Replacement / Inspection: (1) Within 3 months or 200 flight cycles, whichever occurs later after the effective date of this AD, accomplish the actions as required by paragraph (1.1) and/or (1.2) of this AD, as applicable, in accordance with the instructions of the AOT. (1.1) For affected parts having a s/n listed in Appendix 1 of the AOT: Replace each affected part with a serviceable part. (1.2) For affected parts having a s/n listed in Appendix 4 of the AOT: Accomplish an MPI of each affected part. Corrective Action(s): (2) If, during the MPI as required by paragraph (1.2) of this AD, any discrepancies as defined in the AOT are detected on an affected part, before next flight, replace that affected part with a serviceable part in accordance with the instructions of the AOT. Parts Installation: (3) From the effective date of this AD, it is allowed to install on any aeroplane an affected part, provided it is a serviceable part, as defined in this AD. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0130
+
+Ref. Publications: Airbus AOT A32N018-20 Revision 01 dated 27 April 2020. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

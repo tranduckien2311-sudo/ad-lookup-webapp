@@ -1,0 +1,8 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are madatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 98-178-115(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319 / A320 / A321 Aircraft Improvement of avionic protection from trickling water installed in the rack 90VU (ATA 25) 1. APPLICABILITY This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A319, A320 and A321 aircraft all certified models, all serial numbers, without AIRBUS INDUSTRIE modification 25995 or without AIRBUS INDUSTRIE Service Bulletin A320-25-1186. 2. REASON Deeper analysis have been performed by the manufacturer in order to minimize the risk of computers and/or electrical connectors installed on the rack 90VU contamination by water dripping. 3. ACTION Before May 16th, 2000, modify the computer and electrical connector protection on rack 90VU in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-25-1186. REF : AIRBUS INDUSTRIE Service Bulletin A320-25-1186 (or any further approved revision) EFFECTIVE DATE : MAY 16, 1998 n/JYR AIRBUS INDUSTRIE May 06, 1998 98-178-115(B) A319 / A320 / A321 Aircraft

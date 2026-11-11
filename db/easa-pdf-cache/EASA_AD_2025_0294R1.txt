@@ -1,0 +1,50 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0294R1
+
+Airworthiness Directive
+
+AD No.: 2025-0294R1
+
+Issued: 09 February 2026 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): B/E AEROSPACE FISCHER GmbH Medical Seat 230/305
+
+Effective Date: Revision 01: 16 February 2026 Original issue: 05 January 2026 ETSO Authorisation(s): EASA.21O.10056272 Foreign AD: Not applicable Revision: This AD revises EASA AD 2025-0294 dated 22 December 2025.
+
+ATA 25 – Equipment / Furnishings – Medical Seats – Modification
+
+Manufacturer(s): B/E Aerospace Fischer (Fischer Seats)
+
+Applicability: Medical seat Part Number (P/N) 9613-1-35-( ), serial numbers (s/n) 3241, 3242, 3243, 3244, 3245, 3473, 3474, 3475, 3476, 3481, 3482, 3483, 3484, 3546, 3547, 3548, 3549, 3575, 3576, 3577, 3578, 3591, 3646, 3647, 3648, 3649, 3703, 3958, 3959, 3960, 3961, 4114, 4115, 4116, 4117, 4118, 4119, 4120, 4121, 4122, 4131, 4132, 4133, 4134, 4135, 4175, 4180, 4202, 4203, 4204, 4205, 4206, 4207, 4208, 4209, 4210, 4211, 4212 and 4213. Appendix 1 of this AD lists, for information only, the complete P/N of the medical seats as initially delivered by Fischer seats. These seats are known to be installed on, but not limited to, Airbus Helicopters Deutschland (AHD) EC135, AHD MBB-BK 117, Bell Textron Canada 429 and Bell Textron 412 helicopters.
+
+Definitions: For the purpose of this AD, the following definitions apply: The ASB: Fischer Seats Alert Service Bulletin (ASB) 9613-005 Issue D. Page 1 of 5 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0294R1
+
+Reason: It was determined that the affected seats, certified for aft facing (AF) and forward facing (FF) installations, have been delivered with an incorrect version of swivel unit, which has been certified only for AF installation. This condition, if not corrected, could lead to injury to the occupant of a FF seat during a survivable accident. To address this potential unsafe condition, Fischer Seats issued the ASB, providing instructions to reconfigure the swivel unit, and EASA issued AD 2025-0294 to require modifications of the seats. Since that AD was issued, comments have been received during the post publication consultation period. Consequently, this AD is revised to correct a typographical error in the ASB definition, and to add Appendix 1, listing the complete P/N of the affected seats, as delivered by Fischer Seats.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Modification: (1) Within 30 days after 05 January 2026 [the effective date of the original issue of this AD], modify and reidentify the medical seat in accordance with the instructions of the ASB. Limitations: (2) From 05 January 2026 [the effective date of the original issue of this AD], and until modification of the seat as required by paragraph (1) of this AD, it is not allowed to occupy a FF medical seat. Alternative Method: (3) As an alternative to the requirements of paragraph (1) of this AD, marking a seat as inoperative and assuring that seat is not occupied during flight operations, is an acceptable alternative method to defer compliance with the requirements of paragraph (1) of this AD for that seat, provided this is accomplished within the provisions of the applicable (master) minimum equipment list. Credit: (4) Modification of a medical seat, accomplished before 05 January 2026 [the effective date of the original issue of this AD] in accordance with the instructions of Fischer Seats ASB 9613-005 Issue A, B or C, is acceptable to comply with the modification requirement of paragraph (1) of this AD for that seat.
+
+Ref. Publications: Fischer Seats Alert Service Bulletin (ASB) 9613-005 Issue A dated 08 August 2024, Issue B dated 24 October 2024, Issue C dated 13 November 2024 or Issue D dated 03 December 2025. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD. Page 2 of 5 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0294R1
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, the original issue of this AD was posted on 22 December 2025 as Final AD with Request for Comments, postponing the public consultation process until 19 January 2026. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (‘zipped’) file, attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: B/E Aerospace Fischer GmbH (Part of Collins Aerospace) Müller-Armack-Str. 4, D-84034 Landshut Tel.: +49 (871) 9 32 48-0 E-Mail: info.fischer@collins.com. Page 3 of 5 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0294R1 Appendix 1 – Affected seats P/N (for information only) The P/Ns identified in this Appendix are the P/N of the seats as initially delivered from Fischer Seats. Seat P/N s/n 9613-1-35-0X004B220X0001X 3241 9613-1-35-0X004B220X0001X 3242 9613-1-35-0X004B320X0001X 3243 9613-1-35-0X004B320X0001X 3244 9613-1-35-0X004B320X0001X 3245 9613-1-35-0X004B220X0001X 3473 9613-1-35-0X004B220X0001X 3474 9613-1-35-0X004B220X0001X 3475 9613-1-35-0X004B320X0001X 3476 9613-1-35-0X004B320X0001X 3481 9613-1-35-0X004B320X0001X 3482 9613-1-35-0X004B320X0001X 3483 9613-1-35-0X004B320X0001X 3484 9613-1-35-0X004B220X0001X 3546 9613-1-35-0X004B220X0001X 3547 9613-1-35-0X004B320X0001X 3548 9613-1-35-0X004B320X0001X 3549 9613-1-35-0X004B220X0001X 3575 9613-1-35-0X004B220X0001X 3576 9613-1-35-0X004B220X0001X 3577 9613-1-35-0X004B220X0001X 3578 9613-1-35-0X004B320X0001X 3591 9613-1-35-0X004B220X0001X 3646 9613-1-35-0X004B220X0001X 3647 9613-1-35-0X004B220X0001X 3648 9613-1-35-0X004B220X0001X 3649 9613-1-35-0X004B320X0001X 3703 9613-1-35-0X004B320X0001X 3958 9613-1-35-0X004B320X0001X 3959 9613-1-35-0X004B320X0001X 3960 9613-1-35-0X004B320X0001X 3961 9613-1-35-0X004B320X0001X 4114 9613-1-35-0X004B320X0001X 4115 9613-1-35-0X004B320X0001X 4116 9613-1-35-0X004B320X0001X 4117 9613-1-35-0X004B320X0001X 4118 9613-1-35-0X004B320X0001X 4119 9613-1-35-0X004B320X0001X 4120 9613-1-35-0X004B320X0001X 4121 9613-1-35-0X004B320X0001X 4122 9613-1-35-0X004B220X0001X 4131 Page 4 of 5 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2025-0294R1 Seat P/N s/n 9613-1-35-0X004B220X0001X 4132 9613-1-35-0X004B320X0001X 4133 9613-1-35-0X004B320X0001X 4134 9613-1-35-0X004B320X0001X 4135 9613-1-35-0X004B320X0001X 4175 9613-1-35-0X004B320X0001X 4180 9613-1-35-0X004B220X0001X 4202 9613-1-35-0X004B220X0001X 4203 9613-1-35-0X004B220X0001X 4204 9613-1-35-0X004B220X0001X 4205 9613-1-35-0X004B320X0001X 4206 9613-1-35-0X004B320X0001X 4207 9613-1-35-0X004B320X0001X 4208 9613-1-35-0X004B320X0001X 4209 9613-1-35-0X004B320X0001X 4210 9613-1-35-0X004B320X0001X 4211 9613-1-35-0X004B320X0001X 4212 9613-1-35-0X004B320X0001X 4213 Page 5 of 5 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

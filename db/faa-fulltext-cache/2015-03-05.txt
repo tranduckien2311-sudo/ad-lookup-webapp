@@ -1,0 +1,472 @@
+[Federal Register Volume 80, Number 32 (Wednesday, February 18, 2015)]
+[Rules and Regulations]
+[Pages 8513-8516]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-02697]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0484; Directorate Identifier 2013-NM-245-AD; 
+Amendment 39-18101; AD 2015-03-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2012-09-07 for 
+certain Airbus Model A319-111, -112, and -132 airplanes; Model A320-
+111, -211, -212, -214, and -232 airplanes; and Model A321-111, -211, -
+212, and -231 airplanes. AD 2012-09-07 required an electrical bonding 
+test between the gravity fill re-fuel adaptor and the top skin panels 
+on the wings; and, if necessary, an inspection for corrosion of the 
+component interface and adjacent area; and repairing the gravity fuel 
+adaptor if necessary. This new AD adds airplanes to the applicability 
+and requires inspecting those airplanes to determine if a repair was 
+done, and doing the electrical bonding test and corrective action if 
+necessary. This AD was prompted by a determination that more airplanes 
+are
+
+[[Page 8514]]
+
+subject to the identified unsafe condition. We are issuing this AD to 
+detect and correct corrosion and improper bonding, which, in 
+combination with a lightning strike in this area, could create a source 
+of ignition in a fuel tank, resulting in a fire or explosion and 
+consequent loss of the airplane.
+
+DATES: This AD becomes effective March 25, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 25, 
+2015.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0484; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+0484.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2012-09-07, Amendment 39-17042 (77 FR 28238, 
+May 14, 2012). AD 2012-09-07 applied to certain Airbus Model A319-111, 
+-112, and -132 airplanes; Model A320-111, -211, -212, -214, and -232 
+airplanes; and Model A321-111, -211, -212, and -231 airplanes. The NPRM 
+published in the Federal Register on July 30, 2014 (79 FR 44144).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2013-0277R1, dated December 4, 2013 (referred 
+to after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A318-111, -112, -121, and -122 airplanes; Model A319-111, -112, -113, -
+114, -115, -131, -132, and -133 airplanes; Model A320-111, -211, -212, 
+-214, -231, -232, and -233 airplanes; and Model A321-111, -112, -131, -
+211, -212, -213, -231, and -232 airplanes. The MCAI states:
+
+    Cases of corrosion findings were reported on the overwing 
+refueling aperture (used to fill the fuel tank by gravity) on the 
+wing top skin. The reported corrosion was on the mating surface of 
+the aperture flange, underneath the refuel adaptor. Corrosion 
+findings have been repaired on a case by case basis in accordance 
+with approved data.
+    For certain aeroplanes, the repair provided by Airbus contained 
+instructions to apply primer coating on the mating surface. Since 
+doing those repairs, it has been found that this primer coating may 
+prevent proper electrical bonding provision between the overwing 
+refueling cap adaptor and the wing skin.
+    This condition, if not detected and corrected, could, in 
+combination with a lightning strike in this area, create a source of 
+ignition in a fuel tank, possibly resulting in a fire or explosion 
+and consequent loss of the aeroplane.
+    To address this potential unsafe condition, EASA issued AD 2011-
+0034 [http://ad.easa.europa.eu/blob/easa_ad_2011_0034.pdf/AD_2011-0034] to require a one-time electrical bonding check between the 
+gravity fill re-fuel adaptor and the top skin panels on the affected 
+aeroplanes (identified by MSN [manufacturer serial number] in the 
+applicability section of that [EASA] AD) and, in case of findings, 
+the accomplishment of applicable corrective actions.
+    Since that [EASA] AD was issued, EASA has been made aware that 
+some operators may inadvertently have applied an Airbus repair, 
+approved for only one aeroplane MSN, to other aeroplanes, without 
+requesting a revision of the repair to add aeroplanes, or to notify 
+Airbus of such action(s). Consequently, the condition addressed by 
+EASA AD 2011-0034 could affect more aeroplanes than initially 
+determined.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2011-0034, which is superseded, and expands 
+the Applicability to all A320 family aeroplane Models, all MSN.
+    This [EASA] AD has been revised to amend and clarify paragraph 
+(3), and to correct an error in the Type/Model designations on page 
+1, where the A318 was inadvertently omitted.
+
+For the newly added airplanes, required actions include inspecting for 
+the presence of a corrosion repair on an overwing refueling aperture, 
+and doing the electrical bonding test and applicable corrective actions 
+if a repair has been installed. You may examine the MCAI in the AD 
+docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2014-0484-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the NPRM (79 FR 
+44144, July 30, 2014) and the FAA's response to the comment.
+
+Request To Include Revised Service Information
+
+    United Airlines (UAL) asked that we include a statement in the NPRM 
+(79 FR 44144, July 30, 2014), which allows performing the required 
+actions in accordance with the instructions of Airbus Service Bulletin 
+A320-57-1152, Revision 01, dated December 19, 2013. UAL stated that the 
+revised service information specifies the same method of inspection as 
+specified in Airbus Service Bulletin A320-57-1152, dated June 14, 2010. 
+UAL further stated that Revision 01 of this service bulletin also 
+provides operators with updated repair instructions that were not 
+available in the original issue of this service bulletin.
+    We agree with the commenter's request. Since issuance of the NPRM 
+(79 FR 44144, July 30, 2014), Airbus has issued Service Bulletin A320-
+57-1152, Revision 01, dated December 19, 2013. This revision states 
+that no additional work is necessary on airplanes changed in accordance 
+with Airbus Service Bulletin A320-57-1152, dated June 14, 2010, which 
+was specified as the appropriate source of service information in the 
+NPRM (79 FR 44144, July 30, 2014).
+    We have changed paragraph (g) of this AD to specify Airbus Service 
+Bulletin A320-57-1152, Revision 01, dated December 19, 2013. We have 
+also added a new paragraph (h) to this AD to give credit for actions 
+done before the effective date of this AD using Airbus Service Bulletin 
+A320-57-1152, dated June 14, 2010, and redesignated subsequent 
+paragraphs accordingly.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this AD with the changes described 
+previously and minor editorial changes. We have determined that these 
+minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (79 FR 44144, July 30, 2014) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already
+
+[[Page 8515]]
+
+proposed in the NPRM (79 FR 44144, July 30, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Service Bulletin A320-57-1152, Revision 01, dated 
+December 19, 2013. The service information describes procedures for 
+inspecting certain airplanes to determine if a repair was done, and 
+doing an electrical bonding test and corrective action if necessary. 
+This service information is reasonably available; see ADDRESSES for 
+ways to access this service information.
+
+Costs of Compliance
+
+    We estimate that this AD affects 851 airplanes of U.S. registry.
+    The actions required by AD 2012-09-07, Amendment 39-17042 (77 FR 
+28238, May 14, 2012), and retained in this AD take about 2 work-hours 
+per product, at an average labor rate of $85 per work-hour. Based on 
+these figures, the estimated cost of the actions that were required by 
+AD 2012-09-07 is $170 per product.
+    We also estimate that it takes about 2 work-hours per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Required parts cost about $0 per product. Based 
+on these figures, we estimate the cost of this AD on U.S. operators to 
+be $144,670, or $170 per product.
+    In addition, we estimate that any necessary follow-on actions will 
+take about 11 work-hours, for a cost of $935 per product. We have no 
+way of determining the number of aircraft that might need these 
+actions.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0484; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2012-09-07, Amendment 39-17042 (77 FR 28238, May 14, 2012), and adding 
+the following new AD:
+
+2015-03-05 Airbus: Amendment 39-18101. Docket No. FAA-2014-0484; 
+Directorate Identifier 2013-NM-245-AD.
+
+(a) Effective Date
+
+    This AD becomes effective March 25, 2015.
+
+(b) Affected ADs
+
+    This AD replaces AD 2012-09-07, Amendment 39-17042 (77 FR 28238, 
+May 14, 2012).
+
+(c) Applicability
+
+    (1) This AD applies to Airbus Model A318-111, -112, -121, and -
+122 airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes; Model A320-111, -211, -212, -214, -231, -232, 
+and -233 airplanes; and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes; certificated in any category; all 
+manufacturer serial numbers, except airplanes identified in 
+paragraph (c)(2) of this AD.
+    (2) Airplanes that have been delivered from production with 
+Airbus Modification 38209 (Removal of the Outer Wing Refueling 
+Aperture) incorporated, and without Airbus Modification 38206 (Re-
+introduction of the Outer Wing Refueling Aperture) incorporated, are 
+not affected by the requirements of this AD.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by a determination that more airplanes are 
+subject to the identified unsafe condition. We are issuing this AD 
+to detect and correct corrosion and improper bonding, which, in 
+combination with a lightning strike in this area, could create a 
+source of ignition in a fuel tank, resulting in a fire or explosion 
+and consequent loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Electrical Bonding Test, and General Visual Inspection if 
+Necessary, With Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2012-09-07, Amendment 39-17042 (77 FR 28238, May 14, 2012), with 
+revised repair approval language and revised service information. 
+For Model A319-111, -112, and -132 airplanes; Model A320-111, -211, 
+-212, -214 and -232 airplanes; and Model A321-111, -211, -212, and -
+231 airplanes; certificated in any category; having manufacturer 
+serial numbers 0039, 0078, 0109, 0118, 0120, 0153, 0174, 0187, 0203, 
+0215, 0218, 0226, 0227, 0228, 0236, 0237, 0269, 0270, 0278, 0285, 
+0286, 0287, 0288, 0294, 0301, 0337, 0377, 0462, 0463, 0464, 0465, 
+0520, 0523, 0528, 0876, 0888, 0921, 0935, 0974, 1014, 1102, 1130, 
+1160, 1162, 1177, 1215, 1250, 1287, 1336, 1388, 1404, 1444, 1449, 
+1476, 1505, 1524, 1564, 1605, 1616, 1622, 1640, 1645, 1658, 1677, 
+1691, 1729, and 1905: Within 24 months after June 18, 2012 (the 
+effective date of AD 2012-09-07), do an electrical bonding
+
+[[Page 8516]]
+
+test to check for bonding between the re-fuel adaptor of the gravity 
+fill and the top skin panels on the left-hand and right-hand wings, 
+in accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A320-57-1152, Revision 01, dated December 19, 2013.
+    (1) If the resistance value is 10 milliohms or less at the left-
+hand and right-hand wing, no further action is required by this 
+paragraph.
+    (2) If the resistance value is greater than 10 milliohms at the 
+left-hand or right-hand wing, before further flight, do a general 
+visual inspection for corrosion of the component interface and 
+adjacent area, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-57-1152, Revision 01, dated December 
+19, 2013. If any corrosion is found during the inspection, before 
+further flight, repair the gravity fill fuel adaptor, in accordance 
+with the Accomplishment Instructions of Airbus Service Bulletin 
+A320-57-1152, Revision 01, dated December 19, 2013; except where 
+Airbus Service Bulletin A320-57-1152, Revision 01, dated December 
+19, 2013, specifies to contact Airbus, before further flight, repair 
+using a method approved by the Manager, International Branch, ANM-
+116, Transport Airplane Directorate, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus's EASA Design Organization Approval 
+(DOA). If approved by the DOA, the approval must include the DOA-
+authorized signature.
+
+(h) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Airbus Service Bulletin A320-57-
+1152, dated June 14, 2010, which was incorporated by reference in AD 
+2012-09-07, Amendment 39-17042 (77 FR 28238, May 14, 2012).
+
+(i) New Requirement of This AD: Maintenance Check/Electrical Bonding 
+Test and Corrective Action if Necessary
+
+    For airplanes other than those identified in paragraph (g) of 
+this AD: Within 24 months after the effective date of this AD, 
+determine whether a corrosion repair has been done on an overwing 
+refueling aperture, whereby a primer coating has been applied on the 
+mating surface of the aperture flange. A review of the airplane 
+maintenance records is acceptable to make this determination, 
+provided that whether a primer coat was applied can be conclusively 
+determined from that review.
+    (1) If it is determined that a primer coating was applied on the 
+mating surface of the aperture flange; or if a determination cannot 
+be made, or the outcome is inconclusive: Within 24 months after the 
+effective date of this AD do the electrical bonding test specified 
+in paragraph (g) of this AD, and before further flight, do all 
+applicable actions specified in paragraph (g)(2) of this AD.
+    (2) If it is determined that a corrosion repair has not been 
+done, and a primer coating has not been applied on the mating 
+surface of the aperture flange since first entry into service, no 
+further action is required by this paragraph.
+
+(j) Corrosion Repair Provision
+
+    As of the effective date of this AD, any corrosion repair done 
+on an overwing refueling aperture on any airplane must comply with 
+the repair requirements of paragraph (g)(2) of this AD.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (ii) AMOCs approved previously for AD 2012-09-07, Amendment 39-
+17042 (77 FR 28238, May 14, 2012), are approved as AMOCs for the 
+corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2013-0277R1, dated December 4, 
+2013, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2014-0484-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference in this AD is available at the addresses 
+specified in paragraphs (m)(4) and (m)(5) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-57-1152, Revision 01, dated 
+December 19, 2013.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on February 4, 2015.
+Dionne Palermo,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-02697 Filed 2-17-15; 8:45 am]
+BILLING CODE 4910-13-P

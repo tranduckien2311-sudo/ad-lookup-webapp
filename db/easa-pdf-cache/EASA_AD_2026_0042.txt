@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2026-0042
+
+Airworthiness Directive
+
+AD No.: 2026-0042
+
+Issued: 03 March 2026 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A330 aeroplanes
+
+Effective Date: 17 March 2026 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2024-0213 dated 14 November 2024.
+
+ATA 05 – Time Limits / Maintenance Checks – Airworthiness Limitations Section Part 1 – Safe Life Airworthiness Limitation Items – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, A330-343, A330-841 and A330-941 aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The ALS: Airbus A330 Airworthiness Limitations Section (ALS) Part 1, Safe Life Airworthiness Limitation Items (SL-ALI) Revision 14. The AMP: The Aircraft Maintenance Programme (AMP) contains the tasks on the basis of which the scheduled maintenance is conducted to ensure the continuing airworthiness of each operated aeroplane. For aeroplanes operated under EU regulation the operator or the owner ensures compliance with the AMP as stipulated in Commission Regulation (EU) 1321/2014. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2026-0042 New and/or more restrictive tasks: This includes all limitations that are new and all limitations for which a threshold or interval was reduced, which were introduced into the ALS (as defined in this AD) since the previous ALS revision that is currently incorporated in the AMP.
+
+Reason: The airworthiness limitations for the Airbus A330 aeroplanes, which are approved by EASA, are currently defined and published in the A330 ALS document. These instructions have been identified as mandatory for continued airworthiness. The airworthiness limitations applicable to the A330 SL-ALI are specified in ALS Part 1. Failure to accomplish these instructions could result in an unsafe condition. EASA previously issued AD 2024-0213, to require the actions described in Airbus A330 ALS Part 1, SL-ALI, Revision 13. Since that AD was issued, Airbus published the ALS, as defined in this AD, to introduce new and/or more restrictive tasks . For the reason described above, this AD retains the requirements of EASA AD 2024-0213, which is superseded, and requires accomplishment of the actions and limitations as specified in the ALS.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: Replacement of Life Limited Parts: (1) From the effective date of this AD, replace each component before exceeding the applicable life limit, as specified in the ALS, as applicable to aeroplane model and depending on aeroplane configuration. AMP Revision: (2) Within 12 months after the effective date of this AD, revise the approved AMP by incorporating the limitations described in the ALS, as applicable to aeroplane model and depending on aeroplane configuration. Credit: (3) If, before the effective date of this AD, the AMP has been revised to incorporate the limitations as specified in a previous ALS revision of Airbus A330 ALS Part 1, that action ensures the continued accomplishment of those limitations. Consequently, for an aeroplane to which that AMP applies, it is acceptable to accomplish the new and/or more restrictive tasks, as defined in this AD, as applicable to aeroplane model and depending on aeroplane configuration, within the compliance times as specified in the ALS to comply with paragraph (1) of this AD. For that AMP, it is acceptable to incorporate the new and/or more restrictive tasks, as defined in this AD, as applicable to aeroplane model and depending on aeroplane configuration, into the AMP to comply with paragraph (2) of this AD. Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2026-0042 Recording AD Compliance: (4) When the AMP of an aeroplane has been revised as required by paragraph (2) or (3) of this AD, as applicable, that action ensures continued accomplishment of the tasks as required by paragraph (1) of this AD for that aeroplane. Consequently, after revising the AMP, as required by paragraph (2) or (3) of this AD, as applicable, it is not necessary that accomplishment of individual action is recorded for demonstration of AD compliance on a continued basis.
+
+Ref. Publications: Airbus A330 ALS Part 1, SL-ALI Revision 14 dated 19 December 2025. The use of later approved variations or revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 29 January 2026 as PAD 26-016 for consultation until 26 February 2026. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – 1IAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

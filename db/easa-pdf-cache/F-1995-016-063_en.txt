@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 95-016-063(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Main landing gear shock absorber upper bearing dowel retention This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 serie 200 aircraft without AIRBUS INDUSTRIE modification 24594 or without AIRBUS INDUSTRIE Service Bulletin A320-32-1144. In order to prevent possible damage of the main landing gear shock absorber due to the rupture of the upper bearing dowel retention which could lead to main landing gear collapse, the following measures are rendered mandatory : - Before accumulation of 6000 landings since last build/strip/overhaul of main landing gear shock absorber or within 6 months of the effective date of this
+
+Airworthiness Directive, whichever occurs later, replace the upper bearing dowel retention of both main landing gear shock absorbers in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-32-1144. No further action is required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-32-1144. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-32-1144 (or any further approved revision) EFFECTIVE DATE : JANUARY 28, 1995 d/JYR AIRBUS INDUSTRIE January 18, 1995 95-016-063(B) A320 Aircraft

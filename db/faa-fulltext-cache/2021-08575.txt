@@ -1,0 +1,516 @@
+[Federal Register Volume 86, Number 78 (Monday, April 26, 2021)]
+[Rules and Regulations]
+[Pages 21920-21923]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-08575]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0851; Product Identifier 2020-NM-081-AD; Amendment 
+39-21507; AD 2021-08-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A318 series airplanes; Model A319-111, A319-112, A319-
+113, A319-114, A319-115, A319-131, A319-132, and A319-133 airplanes; 
+Model A320-211, A320-212, A320-214, A320-216, A320-231, A320-232, and 
+A320-233 airplanes; and Model A321-111, A321-112, A321-131, A321-211, 
+A321-212, A321-213, A321-231, and A321-232 airplanes. This AD was 
+prompted by reports that certain oxygen supply solenoid valves are a 
+potential source of increased flow resistance within the flightcrew 
+oxygen system. This AD requires a detailed inspection (flow test) of 
+certain solenoid valves, and replacement if necessary, as specified in 
+European Union Aviation Safety Agency (EASA) ADs, which are 
+incorporated by reference. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective June 1, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 1, 2021.
+
+ADDRESSES: For EASA material incorporated by reference (IBR) in this 
+AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. For Airbus SAS service information 
+incorporated by reference in this final rule, contact Airbus SAS, 
+Airworthiness Office--EIAS, Rond-Point Emile Dewoitine No: 2, 31700 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; internet https://www.airbus.com. You may view this IBR material at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available in the AD 
+docket on the internet at https://www.regulations.gov by searching for 
+and locating Docket No. FAA-2020-0851.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0851; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0104R1 dated January 28, 2021 
+(EASA AD 2020-0104R1) (referred to after this as the Mandatory 
+Continuing Airworthiness Information, or the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model A318-111, A318-112, A318-121, 
+and A318-122 airplanes; Model A319-111, A319-112, A319-113, A319-114, 
+A319-115, A319-131, A319-132, and A319-133 airplanes; Model A320-211, 
+A320-212, A320-214, A320-216, A320-231, A320-232, and A320-233 
+airplanes; and Model A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, and A321-232 airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A318 series airplanes; Model A319-111, A319-112, A319-113, A319-114, 
+A319-115, A319-131, A319-132, and A319-133 airplanes; Model A320-211, 
+A320-212, A320-214, A320-216, A320-231, A320-232, and A320-233 
+airplanes; and Model A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, and A321-232 airplanes. The NPRM published in the 
+Federal Register on October 15, 2020 (85 FR 65282). The NPRM was 
+prompted by reports that certain oxygen supply solenoid valves are a 
+potential source of increased flow resistance within the flightcrew 
+oxygen system. The NPRM proposed to require a detailed inspection (flow 
+test) of certain solenoid valves, and replacement if necessary, as 
+specified in EASA AD 2020-0104R1.
+    The FAA is issuing this AD to address increased flow resistance 
+within the flightcrew oxygen system, which could lead to a reduced flow 
+of oxygen supply to the flightcrew oxygen masks, and in combination 
+with in-flight depressurization, smoke in the flight deck, or a smoke 
+evacuation procedure, could lead to flightcrew hypoxia and loss of 
+useful consciousness, resulting in loss of control of the airplane. See 
+the MCAI for additional background information.
+
+Revised EASA AD
+
+    In the NPRM, the FAA referred to EASA AD 2020-0104, dated May 7, 
+2020 (EASA AD 2020-0104). Since the NPRM was issued, EASA issued AD 
+2020-0104R1, which clarifies that certain solenoid valves are no longer 
+considered affected parts.
+    The agency determined that no additional work is required for 
+airplanes
+
+[[Page 21921]]
+
+that have accomplished the actions as required by EASA AD 2020-0104. 
+Therefore, the agency has revised all applicable sections in this final 
+rule to also specify EASA AD 2020-0104R1.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA) stated that 
+it supports the NPRM.
+
+Request To Allow Use of Additional Service Information
+
+    American Airlines (AA) requested that operators be allowed to use 
+the deviation provided in an Airbus technical adaptation for a certain 
+solenoid valve test. The operator noted that there is a discrepancy in 
+the Airbus service bulletin specified in EASA AD 2020-0104. The 
+commenter explained that one of the required for compliance (RC) 
+paragraphs in the service bulletin states that a test of the solenoid 
+valve is required, no matter the result of the three masks flow test, 
+but a flowchart in that service bulletin does not indicate that this 
+test is required if the three masks flow test was successful. The 
+commenter stated that it contacted Airbus regarding this issue and 
+Airbus confirmed that there is an error and provided a Design 
+Organization Approval (DOA) approved technical adaptation to address 
+that error.
+    The FAA agrees with the commenter's request for the reasons 
+provided. The FAA has added paragraph (h)(4) to this AD to allow the 
+use of Airbus Technical Adaptation 80843604/008/2020, Issue 1, dated 
+November 3, 2020.
+
+Request To Include Requirement for Part Marking
+
+    United Air Lines (UAL) requested that affected parts that were 
+inspected and passed the three masks flow test be marked. The commenter 
+explained that this would assist operators in easily identifying an 
+affected part that has been inspected and passed the three masks flow 
+test. The commenter stated that this would prevent the part from being 
+tied to a specific airplane and would allow installation of that part 
+on another airplane.
+    The FAA disagrees with the commenter's request. The FAA conferred 
+with EASA and EASA responded that allowing an affected part to become a 
+rotable part had been discussed during development of its original 
+proposed AD. It was determined that, because of the potential 
+differences in the oxygen system architecture in the configuration of 
+different airplanes, a part that successfully passed the three masks 
+flow test on one airplane does not guarantee that an air flow deficit 
+would not exist if that part was moved to another airplane with a 
+different oxygen system configuration. In addition, Airbus recommended 
+that a pass/fail label not be applied to tested valves to avoid 
+complications in tracking parts based on the tested oxygen system 
+configuration. For these reasons, the FAA finds that no change to this 
+AD is necessary in regard to this issue.
+
+Request To Clarify Parts Installation Paragraph
+
+    UAL stated that it objected to paragraph (3), Part(s) Installation, 
+of EASA AD 2020-0104 that was referred to in the proposed AD. The 
+commenter stated that, in the interest of safety, an affected part 
+should not be allowed to be installed on an airplane. The FAA infers 
+that the commenter is requesting that the proposed AD be revised to 
+include a Parts Installation Prohibition paragraph to prohibit 
+operators from installing an affected part on an airplane.
+    The FAA does not agree with the commenter's request. The FAA has 
+determined that if, before the next flight after installation on an 
+airplane, an affected part passes the required flow test, the unsafe 
+condition identified in this AD has been addressed and there is not a 
+safety of flight issue. The FAA has not revised this AD in regard to 
+this issue.
+
+Request To Omit Duplicate Test
+
+    UAL requested that the order of certain actions identified as RC in 
+the Airbus SAS service bulletin specified in EASA AD 2020-0104 be 
+changed. The commenter suggested that, instead of waiting until after 
+the failure of a test to check that the oxygen storage cylinder is 
+fully open and then doing the test again, the check of the oxygen 
+cylinder should be part of the test preparation. The commenter 
+explained that this would preclude the repetition of the test.
+    The FAA disagrees with the commenter's request. The FAA conferred 
+with EASA and it is presumed that the oxygen cylinder is fully open 
+prior to starting the test. In addition, the majority of test reports 
+provided by operators to Airbus and EASA did not identify any flow 
+blockage. Therefore, adding the step to ensure that the oxygen cylinder 
+is fully open would increase the work involved to accomplish each test 
+versus doing only a check for the sole purpose of demonstrating 
+compliance with an AD. Neither Airbus nor EASA recommend changing the 
+order of the actions identified as RC in the Airbus SAS service 
+bulletin and the FAA concurs. However, the FAA does not have any 
+objection if the commenter or any operator includes a step in the test 
+preparation to ensure that the oxygen cylinder is fully open to avoid 
+the duplicative test identified by the commenter. The FAA has not 
+revised this AD in regard to this issue.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the changes described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA ADs 2020-0104 and 2020-0104R1 describe procedures for doing a 
+detailed inspection (flow test) of certain solenoid valves using the 
+flightcrew oxygen masks and replacing any solenoid valve that fails the 
+flow test with a serviceable part. These documents are distinct since 
+AD 2020-0104R1 clarifies that certain solenoid valves are no longer 
+considered affected parts.
+    Airbus SAS has issued Technical Adaptation 80843604/008/2020, Issue 
+1, dated November 3, 2020, which specifies that, when a solenoid valve 
+successfully passes the three masks flow test, operators do not need to 
+do the test specified in paragraph 3.E.(1) of the Accomplishment 
+Instructions of the Airbus SAS service information specified in EASA 
+ADs 2020-0104 and 2020-0104R1.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+[[Page 21922]]
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,100 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+3 work-hours x $85 per hour = $255...........................              $0             $255         $280,500
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need this on-condition action:
+
+                 Estimated Costs of On-Condition Action
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85......             $ *              $85
+------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable the agency
+  to provide parts cost estimates for the on-condition replacement
+  specified in this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators. The FAA does not control warranty coverage for 
+affected operators. As a result, the FAA has included all known costs 
+in our cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-08-13 Airbus SAS: Amendment 39-21507; Docket No. FAA-2020-0851; 
+Product Identifier 2020-NM-081-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective June 1, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes specified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category.
+    (1) Model A318-111, A318-112, A318-121, and A318-122 airplanes.
+    (2) Model A319-111, A319-112, A319-113, A319-114, A319-115, 
+A319-131, A319-132, and A319-133 airplanes.
+    (3) Model A320-211, A320-212, A320-214, A320-216, A320-231, 
+A320-232, and A320-233 airplanes.
+    (4) Model A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, and A321-232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 35, Oxygen.
+
+(e) Reason
+
+    This AD was prompted by reports that certain oxygen supply 
+solenoid valves are a potential source of increased flow resistance 
+within the flightcrew oxygen system. The FAA is issuing this AD to 
+address increased flow resistance within the flightcrew oxygen 
+system, which could lead to a reduced flow of oxygen supply to the 
+flightcrew oxygen masks, and in combination with in-flight 
+depressurization, smoke in the flight deck, or a smoke evacuation 
+procedure, could lead to flightcrew hypoxia and loss of useful 
+consciousness, resulting in loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in
+
+[[Page 21923]]
+
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2020-0104, dated May 7, 2020 (EASA AD 2020-0104) or EASA AD 2020-
+0104R1, dated January 28, 2021 (EASA AD 2020-0104R1).
+
+(h) Exceptions to EASA ADs 2020-0104 and 2020-0104R1
+
+    (1) Where EASA AD 2020-0104 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2020-0104R1 refers to May 21, 2020 ``[the 
+effective date of the original issue of this [EASA] AD],'' this AD 
+requires using the effective date of this AD.
+    (3) The ``Remarks'' sections of EASA ADs 2020-0104 and 2020-
+0104R1 do not apply to this AD.
+    (4) Where procedure step 3.E.(1) of the Accomplishment 
+Instructions of Airbus SAS Service Bulletin A320-35-1096, dated 
+September 18, 2019, specified in EASA ADs 2020-0104 and 2020-0104R1, 
+requires a test of the solenoid valve, this AD allows deviation from 
+that Required for Compliance (RC) action, as specified in Airbus SAS 
+Technical Adaptation 80843604/008/2020, Issue 1, dated November 3, 
+2020.
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA ADs 2020-
+0104 and 2020-0104R1 specify to submit certain information to the 
+manufacturer, this AD does not include that requirement.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the Large Aircraft Section, International Validation Branch, send it 
+to the attention of the person identified in paragraph (k) of this 
+AD. Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA ADs 2020-0104 and 2020-0104R1 that contains RC 
+procedures and tests: Except as required by paragraphs (h)(4) and 
+(j)(2) of this AD, if any service information contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(k) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0104, 
+dated May 7, 2020.
+    (ii) European Union Aviation Safety Agency (EASA) AD 2020-
+0104R1, dated January 28, 2021.
+    (iii) Airbus SAS Technical Adaptation 80843604/008/2020, Issue 
+1, dated November 3, 2020.
+
+    Note 1 to paragraph (l)(2)(iii):  The issue date of the document 
+is identified only on the last page of the document.
+
+    (3) For EASA ADs 2020-0104 and 2020-0104R1, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; Internet www.easa.europa.eu. You 
+may find these EASA ADs on the EASA website at https://ad.easa.europa.eu.
+
+    Note 2 to paragraph (l)(3):  EASA AD 2020-0104 can be accessed 
+in the zipped file at the bottom of the web page for EASA AD 2020-
+0104R1. When EASA posts a revised AD on their website, they 
+watermark the previous AD as ``Revised,'' alter the file name by 
+adding ``_revised'' to the end, and move it into a zipped file 
+attached at the bottom of the AD web page.
+
+    (4) For Airbus SAS service information, contact Airbus SAS, 
+Airworthiness Office--EIAS, Rond-Point Emile Dewoitine No: 2, 31700 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 
+44 51; email [email protected]; internet https://www.airbus.com.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2020-0851.
+    (6) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on April 5, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-08575 Filed 4-23-21; 8:45 am]
+BILLING CODE 4910-13-P

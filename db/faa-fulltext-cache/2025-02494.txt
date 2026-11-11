@@ -1,0 +1,460 @@
+[Federal Register Volume 90, Number 27 (Tuesday, February 11, 2025)]
+[Rules and Regulations]
+[Pages 9286-9289]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-02494]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0198; Project Identifier MCAI-2024-00762-T; 
+Amendment 39-22956; AD 2025-03-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A318, A319, A320, and A321 series airplanes; Model 
+A330-200, -200 Freighter, -300, -800, and -900 series airplanes; and 
+Model A340-200, -300, -500, and -600 series airplanes. This AD was 
+prompted by reports of trimmable horizontal stabilizer actuators 
+(THSAs) being delivered to operators having erroneous information 
+(accumulated life) in the authorized release certificate. This AD 
+requires contacting Collins Aerospace for amended authorized release 
+certificates for the affected parts and replacing the affected parts if 
+necessary, and prohibits the installation of affected parts, as 
+specified in a European Union Aviation Safety Agency (EASA) AD, which 
+is incorporated by reference. The FAA is issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective February 26, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of February 26, 
+2025.
+    The FAA must receive comments on this AD by March 28, 2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0198; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 
+000; email [email protected]; website easa.europa.eu. You may find 
+this material on the EASA website at ad.easa.europa.eu.
+     For Collins Aerospace material identified in this AD, 
+contact Collins Aerospace, Product Support Department 13, Avenue de 
+L'Eguillette--Saint-Ouen L'Aumone, Boite Postale 7186 95056 Cergy 
+Pontoise Cedex, France; telephone 1-877-808-7575; email 
+[email protected]; website https://www.collinsaerospace.com/support.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-0198.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone 206-
+231-3667; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2025-0198; Project 
+Identifier MCAI-2024-00762-T'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+
+[[Page 9287]]
+
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Timothy 
+Dowling, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone 206-231-3667; email [email protected]. 
+Any commentary that the FAA receives which is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2024-0247, dated December 18, 2024 
+(EASA AD 2024-0247) (also referred to as the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model A318 and A319 series 
+airplanes; Model A320-211, 212, -214, -215, -216, -231, -232, -233, -
+251N, -252N, -253N, -271N, -272N, and -273N airplanes; Model A321 
+series airplanes; Model A330-201, -202, -203, -223, -243, -223F, -243F, 
+-301, -302, -303, -321, -322, -323, -341, -342, -343, -743L, -841, and 
+-941 airplanes; and Model A340-211, -212, -213, -311, -312, -313, -541, 
+-542, -642, and -643 airplanes. Model A320-215, A330-743L, A340-542, 
+and A340-643 airplanes are not certificated by the FAA and are not 
+included on the U.S. type certificate data sheet; this AD therefore 
+does not include those airplanes in the applicability. The MCAI states 
+that occurrences were reported of THSAs delivered to operators having 
+erroneous information (accumulated life) in the authorized release 
+certificates. These THSAs were released to service between 2014 and 
+2024 at some Collins Aerospace Maintenance, Repair, and Overhaul (MRO) 
+facilities where the THSA screw jack assemblies were replaced with 
+parts having higher cumulative operating life than was documented on 
+the authorized release certificates.
+    The FAA is issuing this AD to address erroneous accumulated life 
+information in the THSA release certificate, which could lead to 
+operation of the THSA beyond the certificated life limit; operation of 
+the THSA beyond the certificated life limit could result in failure of 
+the THSA and consequent reduced controllability of the airplane.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-0198.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2024-0247 specifies procedures for contacting Collins 
+Aerospace for approved instructions for obtaining amended authorized 
+release certificates, which will allow operators to correctly manage 
+the maintenance consequences of erroneous accumulated life values and 
+ensure compliance with ADs and required airworthiness limitations 
+(Airworthiness Limitations Section (ALS) Part 4). EASA AD 2024-0247 
+also specifies procedures for replacement of affected THSAs and 
+prohibits the installation of affected THSAs.
+    This AD also requires Collins Aerospace Vendor Service Information 
+Letter FA3T1-27-04, dated August 6, 2024, which provides a list of 
+affected THSAs that were repaired at Collins Aerospace MRO facilities 
+between 2014 and 2024 and released with incorrect authorized release 
+certificates containing erroneous accumulated life values.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI and 
+material referenced above. The FAA is issuing this AD after determining 
+that the unsafe condition described previously is likely to exist or 
+develop on other products of the same type design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in the 
+material described previously, except for any differences identified as 
+exceptions in the regulatory text of this AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, 
+EASA AD 2024-0247 is incorporated by reference in this AD. This AD 
+requires compliance with EASA AD 2024-0247 in its entirety through that 
+incorporation, except for any differences identified as exceptions in 
+the regulatory text of this AD. Using common terms that are the same as 
+the heading of a particular section in EASA AD 2024-0247 does not mean 
+that operators need comply only with that section. For example, where 
+the AD requirement refers to ``all required actions and compliance 
+times,'' compliance with this AD requirement is not limited to the 
+section titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 
+2024-0247. Material required by EASA AD 2024-0247 for compliance will 
+be available at regulations.gov under Docket No. FAA-2025-0198 after 
+this AD is published.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because erroneous accumulated life
+
+[[Page 9288]]
+
+values could significantly affect the operator's ability to accurately 
+manage compliance with ADs and ALS Part 4 (airworthiness limitations) 
+and cause operation of the THSA beyond the certificated life limit, 
+which could result in failure of the THSA and consequent reduced 
+controllability of the airplane. Accordingly, notice and opportunity 
+for prior public comment are impracticable and contrary to the public 
+interest pursuant to 5 U.S.C. 553(b).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 2,087 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                 Labor cost                        Parts cost        Cost per product    Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85............                  $0                  $85                  $177,395
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data that would enable the 
+agency to provide cost estimates for the on-condition replacement 
+specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-03-08 Airbus SAS: Amendment 39-22956; Docket No. FAA-2025-0198; 
+Project Identifier MCAI-2024-00762-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective February 26, 
+2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS Model airplanes, certificated 
+in any category, as identified in paragraphs (c)(1) through (6) of 
+this AD.
+    (1) Airbus SAS Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -
+132, -133, -151N, -153N, -171N, and -173N airplanes.
+    (3) Airbus SAS Model A320-211, -212, -214, -216, -231, -232, -
+233, -251N, -252N, -253N, -271N, -272N, and -273N airplanes.
+    (4) Airbus SAS Model A321-111, -112, -131, -211, -212, -213, -
+231, -232, -251N, -252N, -253N, -271N, -272N, -251NX, -252NX, -
+253NX, -253NY, -271NX, and -272NX airplanes.
+    (5) Airbus SAS Model A330-201, -202, -203, -223, -243, -223F, -
+243F, -301, -302, -303, -321, -322, -323, -341, -342, -343, -841, 
+and -941 airplanes.
+    (6) Airbus SAS Model A340-211, -212, -213, -311, -312, -313, -
+541, and -642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of trimmable horizontal 
+stabilizer actuators (THSAs) being delivered to operators having 
+erroneous information (accumulated life) in the authorized release 
+certificate. The FAA is issuing this AD to address erroneous 
+accumulated life information in the THSA release certificate, which 
+could lead to operation of the THSA beyond the certificated life 
+limit; operation of the THSA beyond the certificated life limit 
+could result in failure of the THSA and consequent reduced 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0247, dated December 18, 2024 (EASA AD 
+2024-0247).
+
+(h) Exceptions to EASA AD 2024-0247
+
+    (1) Where EASA AD 2024-0247 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2024-0247 defines a serviceable part as ``A 
+THSA eligible for installation in accordance with Airbus 
+instructions,'' this AD requires replacing that text with ``A THSA 
+eligible for installation.''
+    (3) Where EASA AD 2024-0247 defines ``the VSIL,'' for this AD, 
+operators must use Collins Aerospace Vendor Service Information 
+Letter FA3T1-27-04, dated August 6, 2024.
+
+[[Page 9289]]
+
+    (4) This AD requires replacing Note 1 of EASA AD 2024-0247 with 
+``If no approved instructions are provided within the compliance 
+time of paragraph (1) of this AD, paragraph (2) of this AD must be 
+accomplished before further flight. The affected part is eligible to 
+be considered a serviceable part based on the content of the Collins 
+Aerospace approved instructions, once received and accomplished, as 
+required in paragraph (1) of this AD.''
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0247.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (j) of this AD and email to: 
+[email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(j) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone 206-231-3667; email [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0247, 
+dated December 18, 2024.
+    (ii) Collins Aerospace Vendor Service Information Letter FA3T1-
+27-04, dated August 6, 2024.
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (4) For Collins Aerospace material identified in this AD, 
+contact Collins Aerospace, Customer Support Center, 2730 West Tyvola 
+Road, Charlotte, NC 28217; telephone 860-654-2500; email 
+[email protected]; website customers.collinsaerospace.com.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (6) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on February 4, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02494 Filed 2-7-25; 11:15 am]
+BILLING CODE 4910-13-P

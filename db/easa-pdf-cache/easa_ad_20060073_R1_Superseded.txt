@@ -1,0 +1,59 @@
+--- PAGE 1 ---
+EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2006 – 0073R1 Date: 24 October 2006 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s): Type Approval Holder’s Name: RB211 TRENT 768-60, 772-60, 772B-60, ROLLS-ROYCE PLC 772C-60 TCDS Number: EASA E.042 Foreign AD: N/A Revision/Supersedure: EASA AD 2006-0073
+
+ATA 72 Engine - IP Turbine Bearing / Oil Feed Tube Frettage- Inspection
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: Models RB211 Trent 768-60, 772-60, 772B-60, 772C-60 engines pre SB 72- F048 and pre SB72-F117. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Reason: In 2005 a Trent 700 engine was removed due to oil loss and low oil pressure. Investigation has established that the HP/IP turbine bearing oil feed tubes had been fretted by a damaged outer heat shield. Breach of the oil feed tube at the outer heat shield position caused leakage of oil, some of which had travelled forward to the cavity in front of the HP/IP turbine support structure and ignited causing localised damage and heating damage to the rear of the HP turbine disc. This incident has illustrated the possibility for HP turbine disc overheat and burst as a result of HP/IP turbine bearing oil feed tube heat shield deterioration. This
+
+Airworthiness Directive instructs inspection of the feed tube heat shields for damage which might lead to an oil fire that could cause HP turbine disc overheat and burst. Revision 1of this
+
+Airworthiness Directive revises the Applicability to exclude engines of post SB72-F117 (deletion of the feed pipe heatshield) standard. A correction is also included to the reference in Compliance 1)a)ii)(e)(iii) which previously read ..d)(i) and now reads ..e)(i). All other parts of the
+
+Airworthiness Directive, including the AD effective date, remain as originally published. 1/4
+
+--- PAGE 2 ---
+Note:
+
+Airworthiness Directive 2005-0024 instructs similar corrective action and scavenge tubes and should not be for the HP/IP turbine bearing vent confused with this
+
+Airworthiness Directive.
+
+Effective Date: 10 April 2006 Compliance: 1) Inspection- On wing Inspect and assess the condition of the HP/IP turbine bearing internal oil feed tube in accordance with Rolls-Royce Alert Non Modification Service Bulletin RB211-72-AF045 original issue (or later approved issue) section 3 Accomplishment Instructions Part A as follows: a) For 05 modules which have not been previously inspected in accordance with this
+
+Airworthiness Directive: i) Carry out the inspection at an 05 module threshold life of 10,000 hours or 2,500 cycles (whichever occurs first) since new or since overhaul: (a) For 05 modules that exceed the threshold life at the effective date of this
+
+Airworthiness Directive, carry out the inspection within 1 months of the effective date of this
+
+Airworthiness Directive. (b) For 05 modules that are below the threshold life at the effective date of this
+
+Airworthiness Directive, carry out the inspection within 3 months of reaching the threshold life. ii) Determine the serviceability and establish interval to next inspection as follows: (a) HP/IPT support assemblies with no visible damage to the feed tube outer heat shields must be re-inspected at a ‘never exceed’ interval of 10,000 hours or 2,500 cycles, which ever occurs first. (b) HP/IPT support assemblies with partial cracking up to 90 degrees around the circumference or 10 mm along the length of the feed tube outer heat shield must be re- inspected at a ‘never exceed’ interval of 6,400 hours or 1600 cycles, which ever occurs first. (c) HP/IPT support assemblies with cracking in excess of that in 1a)(ii)(b) but less than 360 degrees around the circumference of the feed tube outer heat shield must be re- inspected at a ‘never exceed’ interval of 1,600 hours or 400 cycles whichever occurs first. (d) HP/IPT support assemblies with no feed tube outer heat shield material remaining that can cause further frettage are acceptable for continued operation with no further inspection, subject to any existing frettage being less than 0,46 mm (0.018in.) depth. (e) HP/IPT support assemblies with cracking around the complete circumference of the feed tube outer heat shield, or if there is any missing material from the heat shield, re- inspect or reject in accordance with the following; (i) If the insulation blanket is in place inside the heat shield and preventing frettage between the heat shield and the tube, then the tube must be re- inspected at a ‘never exceed’ interval of 1,600 hours or 400 cycles, which ever occurs first. 2/4
+
+--- PAGE 3 ---
+(ii) If the tube is fretted by loose heat shield material where the maximum depth of frettage is less than 0,46mm/0.018 inch, then the tubes must be re-inspect at a ‘never exceed’ interval of 400 hours or 100 cycles, which ever occurs first. (iii) If it is not possible to determine the depth of frettage around the full 360 degrees of the tube (and 1a)ii)e)(i) above is not applicable), then the assembly must be rejected from service within 50 cycles of the inspection being carried out. (iv) If the tube is fretted by loose heat shield material and the maximum depth of frettage is greater than 0,46mm/0.018 inch, then the assembly must be rejected from service within 10 cycles of the inspection being carried out. b) For HP/IPT support assemblies which have been previously inspected in accordance with this
+
+Airworthiness Directive: i) Inspect the tube before reaching the ‘never exceed’ period as established in 1 a) ii) or 2 b). ii) Determine the serviceability and ‘never exceed’ period to the next inspection as detailed in 1 a) ii) above. 2) Inspection- In shop Inspect and assess the condition of the HP/IP turbine bearing internal oil feed tube in accordance with Rolls-Royce Alert Non Modification Service Bulletin RB211-72-AF045 original issue (or later approved issue) section 3 Accomplishment Instructions Part B as follows a) At every shop visit (regardless of module life since new or overhaul, and regardless of life since previous inspection). b) Determine the serviceability and establish interval to next inspection of the HP/IPT support assemblies as follows: i) HP/IPT support assemblies with no visible damage to the feed tube outer heat shield must be re-inspected at a ‘never exceed’ interval of 10,000 hours or 2,500 cycles, which ever occurs first. ii) HP/IPT support assemblies with partial cracking up to 90 degrees around the circumference or 10 mm along the length of the feed tube outer heat shield must be re-inspected at a ‘never exceed’ interval of 6,400 hours or 1600 cycles, which ever occurs first. iii) HP/IPT support assemblies with visible cracking greater than 90 degrees of the circumference or 10 mm in length of the feed tube outer heat shield must be rejected and the module subjected to 05 module overhaul (see note 2). Notes: 1) The hours and cycles quoted in paragraph 1 and 2 of this
+
+Airworthiness Directive refer to those hours and cycles accrued on the 05 module. 2) For the purposes of this
+
+Airworthiness Directive, the term “05 module overhaul” quoted in paragraph 2 of this
+
+Airworthiness Directive refers to an 05 module shop visit where the HP/IP turbine internal vent and scavenge tubes have been exposed and the tube heat shields subjected to a detailed visual inspection in accordance with the Trent 700 Engine Manual task 72-51-24-200-801. 3/4
+
+--- PAGE 4 ---
+Ref. Publications: Rolls-Royce Alert Non Modification Service Bulletin RB211-72-AF045 original issue or later approved revisions.
+
+Remarks: 1. If requested and appropriately substantiated the responsible EASA manager for the related product has the authority to accept Alternative Methods of Compliance (AMOCs) for this AD. 2. This AD was posted as PAD 06-063 for consultation on 15 March 2006 with a comment period until 29 March 2006. The Comment Response Document can be found at http://ad.easa.europa.eu . 3. Enquiries regarding this
+
+Airworthiness Directive should be referred to Mr. M. Capaccio,
+
+Airworthiness Directive Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . 4. For any questions concerning the technical content of the requirements in this AD, please contact Rolls-Royce plc. PO Box 31, Derby, DE24 8BJ, United Kingdom. Phone: +44 (0) 1332 242424, Fax: +44 (0) 1332 249936. 4/4

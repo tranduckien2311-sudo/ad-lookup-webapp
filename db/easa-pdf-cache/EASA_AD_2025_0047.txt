@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0047
+
+Airworthiness Directive
+
+AD No.: 2025-0047
+
+Issued: 20 February 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): ELBE FLUGZEUGWERKE GmbH Passenger to Freighter conversion
+
+Effective Date: 06 March 2025 STC Number: EASA Supplemental Type Certificate (STC) STC 10063798 Foreign AD: Not applicable
+
+Supersedure: None Aeroplane Flight Manual – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-243, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, which have been modified in accordance with EASA STC 10063798 (passenger to freighter conversion) up to revision 36.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AFM-S update: Aeroplane Flight Manual Supplement (AFM-S) Limitations update, as defined in Appendix 1 of this AD; and Elbe Flugzeug Werke (EFW) A330 P2F Flight Crew Operating Manual Supplement (FCOM-S) ENV – Temporary Revision No. 00-007 (Based on the Apr 01/23). Groups: Group 1 aeroplanes are those that have a cockpit crew oxygen system supplied from a single 115 cubic foot (cuft) oxygen cylinder configuration installed. Group 2 aeroplanes are those that have a cockpit crew oxygen system supplied from two 77 cuft oxygen cylinders configuration installed, either as non-segregated or as segregated system. Page 1 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0047
+
+Reason: It was identified that the oxygen supply of Group 1 aeroplanes will not be sufficient under all circumstances for ETOPS-180 operation with 4 cockpit crew members, when considering the modified procedures for aeroplanes having the EASA STC 10063798 embodied. It was also identified that the minimum oxygen dispatch pressure information in the FCOM-S was not properly referenced by the AFM-S. This condition, if not corrected, could lead to insufficient oxygen supply in emergency situations during ETOPS-180 operation with 4 cockpit crew. To address this potential unsafe condition, EFW issued the AFM-S Revision 14, to limit ETOPS-180 operations of Group 1 aeroplanes to 3 cockpit crew, and to ensure that the updated minimum oxygen dispatch pressure information in the latest FCOM-S Revision is used for Group 1 and 2 aeroplanes. EFW also issued the Flight Operations Transmission EFW-FOT-00001 Rev. G to provide additional information. For the reason described above, this AD mandates the implementation of the AFM-S update.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the actions required by this AD have been already accomplished: AFM Amendment: (1) For Group 1 and 2 aeroplanes: Within 30 days after the effective date of this AD, implement the AFM-S update, as defined in this AD, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) Amending the applicable AFM-S of an aeroplane by incorporating the EFW A330 P2F AFM-S Revision 14, or any later revision of that AFM-S, and the EFW A330 P2F FCOM-S Revision 09, or any later revision of that FCOM-S, is an acceptable method to comply with the requirements of paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: EFW A330 P2F AFM Supplement Revision 14 dated 01 November 2024. EFW A330 P2F FCOM-S ENV TR-00-007 based on the APR 01/23 revision, dated 15 November 2024. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. All interested persons may send their comments, referencing the AD Number, to the E-mail Page 2 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0047 address specified in below Remark 3, prior to 20 March 2025. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact EFW Office of Airworthiness, airworthiness@efw.aero. Page 3 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2025-0047 Appendix 1 - Limitations Page 4 of 4 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

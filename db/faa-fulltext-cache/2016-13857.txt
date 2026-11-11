@@ -1,0 +1,551 @@
+[Federal Register Volume 81, Number 114 (Tuesday, June 14, 2016)]
+[Rules and Regulations]
+[Pages 38577-38580]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-13857]
+
+
+
+[[Page 38577]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6900; Directorate Identifier 2016-NM-064-AD; 
+Amendment 39-18559; AD 2016-12-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2016-09-07 for 
+all Airbus Model A318, A319, A320, and A321 series airplanes. AD 2016-
+09-07 required replacing certain pitot probes on the captain, first 
+officer, and standby sides. This new AD retains those requirements, but 
+with a revised compliance time. Since we issued AD 2016-09-07, we 
+received additional reports of airspeed indication discrepancies during 
+flight at high altitudes in inclement weather. We are issuing this AD 
+to prevent airspeed indication discrepancies caused by accumulation of 
+ice crystals during inclement weather, which, depending on the 
+prevailing altitude, could lead to reduced controllability of the 
+airplane.
+
+DATES: This AD is effective June 29, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 10, 2016 
+(81 FR 27298, May 6, 2016).
+    We must receive comments on this AD by July 29, 2016.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this final rule, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 5 
+61 93 44 51; email: [email protected]; Internet: http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6900.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6900; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., proposed AD, the regulatory evaluation, any comments received, 
+and other information. The street address for the Docket Operations 
+office (telephone 800-647-5527) is in the ADDRESSES section. Comments 
+will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1405; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    On April 20, 2016, we issued AD 2016-09-07, Amendment 39-18505 (81 
+FR 27298, May 6, 2016) (``AD 2016-09-07''), for all Airbus Model A318, 
+A319, A320, and A321 series airplanes. AD 2016-09-07 was prompted by 
+reports of airspeed indication discrepancies during flight at high 
+altitudes in inclement weather. AD 2016-09-07 required replacing 
+certain pitot probes on the captain, first officer, and standby sides 
+with certain new pitot probes. We issued AD 2016-09-07 to prevent 
+airspeed indication discrepancies caused by accumulation of ice 
+crystals during inclement weather, which, depending on the prevailing 
+altitude, could lead to reduced controllability of the airplane.
+    Since we issued AD 2016-09-07, we have received additional reports 
+of airspeed indication discrepancies during flight at high altitudes in 
+inclement weather. Certain pitot probes are susceptible to adverse 
+environmental conditions and have a high tendency to accumulate ice 
+crystals resulting in airspeed indication discrepancies, which could 
+result in reduced controllability of the airplane.
+    As we explained in AD 2016-09-07, the European Aviation Safety 
+Agency (EASA), which is the Technical Agent for the Member States of 
+the European Union, issued EASA Airworthiness Directive 2015-0205, 
+dated October 9, 2015 (referred to after this as the Mandatory 
+Continuing Airworthiness Information, or ``the MCAI''), to correct an 
+unsafe condition for all Airbus Model A318, A319, A320, and A321 series 
+airplanes. The MCAI states:
+
+    Occurrences were reported on A320 family aeroplanes of airspeed 
+indication discrepancies while flying at high altitudes in inclement 
+weather conditions. Investigation results indicated that A320 
+aeroplanes equipped with Thales Avionics Part Number (P/N) 50620-10 
+or P/N C16195AA pitot probes appear to have a greater susceptibility 
+to adverse environmental conditions than aeroplanes equipped with 
+certain other pitot probes.
+    Prompted by earlier occurrences, DGAC [Direction 
+G[eacute]n[eacute]rale de l'Aviation Civile] France issued [DGAC] AD 
+2001-362 [http://ad.easa.europa.eu/ad/F-2001-362] [which corresponds 
+to paragraph (f) of FAA AD 2004-03-33, Amendment 39-13477 (69 FR 
+9936, March 3, 2004)] to require replacement of Thales (formerly 
+known as Sextant) P/N 50620-10 pitot probes with Thales P/N C16195AA 
+probes.
+    Since that [DGAC] AD was issued, Thales pitot probe P/N C15195BA 
+was designed, which improved airspeed indication behavior in heavy 
+rain conditions, but did not demonstrate the same level of 
+robustness to withstand high-altitude ice crystals. Based on these 
+findings, EASA decided to implement replacement of the affected 
+Thales [pitot] probes as a precautionary measure to improve the 
+safety level of the affected aeroplanes.
+    Consequently, EASA issued AD 2014-0237 (later revised) [http://ad.easa.europa.eu/blob/easa_ad_2014_0237.pdf/AD_2014-0237], 
+retaining the requirements of DGAC France AD 2001-362, which was 
+superseded, and cancelling two other [DGAC] ADs, to require 
+replacement of Thales Avionics pitot probes P/N C16195AA and P/N 
+C16195BA.
+    Since EASA AD 2014-0237R1 [http://ad.easa.europa.eu/ad/2014-0237R1] was issued, results of further analyses have determined that 
+the compliance time (48 months) of that AD has to be reduced in 
+relation to the risk assessment.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2014-0237R1, which is superseded, but 
+reduces the compliance time [24 months].
+
+    You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6900.
+
+[[Page 38578]]
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information:
+     Airbus Service Bulletin A320-34-1170, Revision 30, dated 
+June 18, 2015.
+     Airbus Service Bulletin A320-34-1456, Revision 01, dated 
+May 15, 2012.
+     Airbus Service Bulletin A320-34-1463, Revision 01, dated 
+May 15, 2012.
+    The service information describes procedures for replacing certain 
+Thales pitot probes on the captain, first officer, and standby sides. 
+This service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+
+Explanation of Compliance Time
+
+    We have reduced the compliance time in this AD for the pitot probe 
+replacement because of the new reports of airspeed indication 
+discrepancies during flight at high altitudes in inclement weather. The 
+MCAI requires replacement within 2 years after the effective date of 
+the original MCAI 2014-0237 (November 12, 2014). Both EASA and Airbus 
+recommend the pitot probe replacement in accordance with the MCAI 
+requirement. Based on new reports of airspeed indication discrepancies, 
+our risk assessment considered the overall risk to the fleet, including 
+the severity of the failure and the likelihood of the failure's 
+occurrence. In support of the MCAI compliance requirement and Airbus 
+recommendation, we have therefore concluded that the pitot probes must 
+be replaced by November 12, 2016. That compliance time corresponds to 
+the date specified by the MCAI and represents an appropriate interval 
+of time allowable for affected airplanes to continue to operate without 
+compromising safety. In conjunction with the manufacturer, we have 
+determined that the new compliance time will accommodate the time 
+necessary to ensure the availability of required parts.
+
+FAA's Justification and Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because 
+airspeed indication discrepancies caused by accumulation of ice 
+crystals during inclement weather, which, depending on the prevailing 
+altitude, could lead to reduced controllability of the airplane. 
+Therefore, we determined that notice and opportunity for public comment 
+before issuing this AD are impracticable and that good cause exists for 
+making this amendment effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2016-6900; Directorate 
+Identifier 2016-NM-064-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 953 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+               Action                        Labor cost           Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+Pitot probe replacement (retained     4 work-hours x $85 per          $21,930          $22,270      $21,223,310
+ actions from AD 2016-09-07).          hour = $340.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 38579]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2016-09-07, Amendment 39-18505 (81 FR 27298, May 6, 2016), and adding 
+the following new AD:
+
+2016-12-10 Airbus: Amendment 39-18559. Docket No. FAA-2016-6900; 
+Directorate Identifier 2016-NM-064-AD.
+
+(a) Effective Date
+
+    This AD is effective June 29, 2016.
+
+(b) Affected ADs
+
+    (1) This AD replaces AD 2016-09-07, Amendment 39-18505 (81 FR 
+27298, May 6, 2016) (``AD 2016-09-07'').
+    (2) This AD affects AD 2004-03-33, Amendment 39-13477 (69 FR 
+9936, March 3, 2004) (``AD 2004-03-33'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), and (c)(4) of this AD, certificated in any 
+category, all manufacturer serial numbers.
+    (1) Airbus Model A318-111, -112, -121, and -122 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 34, Navigation.
+
+(e) Reason
+
+    This AD was prompted by reports of airspeed indication 
+discrepancies during flight at high altitudes in inclement weather. 
+We are issuing this AD to prevent airspeed indication discrepancies 
+caused by accumulation of ice crystals during inclement weather, 
+which, depending on the prevailing altitude, could lead to reduced 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Pitot Probe Replacement
+
+    On or before November 12, 2016: Replace any Thales pitot probe 
+having part number (P/N) C16195AA or P/N C16195BA with a Goodrich 
+pitot probe having P/N 0851HL, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-34-1170, Revision 30, 
+dated June 18, 2015. The replacement in this paragraph terminates 
+the requirements of paragraph (f) of AD 2004-03-33 for that airplane 
+only.
+
+(h) Other Acceptable Compliance
+
+    (1) Replacement of the pitot probes in accordance with the 
+Accomplishment Instructions of both Airbus Service Bulletin A320-34-
+1456, Revision 01, dated May 15, 2012 (pitot probes on the captain 
+and standby sides); and Airbus Service Bulletin A320-34-1463, 
+Revision 01, dated May 15, 2012 (pitot probes on the first officer 
+side); is an acceptable method of compliance for the requirements of 
+paragraph (g) of this AD.
+    (2) Airplanes on which Airbus Modification 25578 was embodied in 
+production, except for post-modification 25578 airplanes on which 
+Airbus Modification 155737 (installation of Thales pitot probes) was 
+also embodied in production, are compliant with the requirements of 
+paragraph (g) of this AD, provided it can be conclusively determined 
+that no Thales pitot probe having P/N C16195AA, P/N C16195BA, or P/N 
+50620-10 has been installed since the date of issuance of the 
+original certificate of airworthiness or the date of issuance of the 
+original export certificate of airworthiness. Post-modification-
+25578 airplanes on which Airbus Modification 155737 (installation of 
+Thales pitot probes) was also embodied in production must be in 
+compliance with the requirements of paragraph (g) of this AD.
+
+(i) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before 
+June 10, 2016 (the effective date of AD 2016-09-07), using service 
+information identified in paragraphs (i)(1)(i) through (i)(1)(xxvi) 
+of this AD. This service information is not incorporated by 
+reference in this AD.
+    (i) Airbus Service Bulletin A320-34-1170, Revision 04, dated May 
+24, 2000.
+    (ii) Airbus Service Bulletin A320-34-1170, Revision 05, dated 
+September 11, 2000.
+    (iii) Airbus Service Bulletin A320-34-1170, Revision 06, dated 
+October 18, 2001.
+    (iv) Airbus Service Bulletin A320-34-1170, Revision 07, dated 
+December 4, 2001.
+    (v) Airbus Service Bulletin A320-34-1170, Revision 08, dated 
+January 15, 2003.
+    (vi) Airbus Service Bulletin A320-34-1170, Revision 09, dated 
+February 17, 2003.
+    (vii) Airbus Service Bulletin A320-34-1170, Revision 10, dated 
+November 21, 2003.
+    (viii) Airbus Service Bulletin A320-34-1170, Revision 11, dated 
+August 18, 2004.
+    (ix) Airbus Service Bulletin A320-34-1170, Revision 12, dated 
+December 2, 2004.
+    (x) Airbus Service Bulletin A320-34-1170, Revision 13, dated 
+January 18, 2005.
+    (xi) Airbus Service Bulletin A320-34-1170, Revision 14, dated 
+April 21, 2005.
+    (xii) Airbus Service Bulletin A320-34-1170, Revision 15, dated 
+July 19, 2005.
+    (xiii) Airbus Service Bulletin A320-34-1170, Revision 16, dated 
+November 23, 2006.
+    (xiv) Airbus Service Bulletin A320-34-1170, Revision 17, dated 
+February 14, 2007.
+    (xv) Airbus Service Bulletin A320-34-1170, Revision 18, dated 
+October 9, 2009.
+    (xvi) Airbus Service Bulletin A320-34-1170, Revision 19, dated 
+November 9, 2009.
+    (xvii) Airbus Service Bulletin A320-34-1170, Revision 20, dated 
+December 1, 2010.
+    (xviii) Airbus Service Bulletin A320-34-1170, Revision 21, dated 
+March 24, 2011.
+    (xix) Airbus Service Bulletin A320-34-1170, Revision 22, dated 
+July 19, 2011.
+    (xx) Airbus Service Bulletin A320-34-1170, Revision 23, dated 
+February 3, 2012.
+    (xxi) Airbus Service Bulletin A320-34-1170, Revision 24, dated 
+April 12, 2012.
+    (xxii) Airbus Service Bulletin A320-34-1170, Revision 25, dated 
+September 4, 2012.
+    (xxiii) Airbus Service Bulletin A320-34-1170, Revision 26, dated 
+September 16, 2013.
+    (xxiv) Airbus Service Bulletin A320-34-1170, Revision 27, dated 
+March 18, 2014.
+    (xxv) Airbus Service Bulletin A320-34-1170, Revision 28, dated 
+September 1, 2014.
+    (xxvi) Airbus Service Bulletin A320-34-1170, Revision 29, dated 
+February 16, 2015.
+    (2) This paragraph provides credit for the replacement of pitot 
+probes on the captain and standby sides specified in paragraph 
+(h)(1) of this AD, if the replacement was performed before June 10, 
+2016 (the effective date of AD 2016-09-07), using Airbus Service 
+Bulletin A320-34-1456, dated December 2, 2009, which is not 
+incorporated by reference in this AD.
+    (3) This paragraph provides credit for the replacement of pitot 
+probes on the first officer side as specified in paragraph (h)(1) of 
+this AD, if those actions were performed before June 10, 2016 (the 
+effective date of AD 2016-09-07), using Airbus Service Bulletin 
+A320-34-1463, dated March 9, 2010, which is not incorporated by 
+reference in this AD.
+
+(j) Parts Installation Limitations
+
+    (1) At the applicable time specified in paragraph (j)(1)(i) or 
+(j)(1)(ii) of this AD: No person may install on any airplane a 
+Thales pitot probe having P/N C16195AA or P/N C16195BA.
+    (i) For airplanes with a Thales pitot probe having P/N C16195AA 
+or P/N C16195BA installed: After replacement with BF Goodrich pitot 
+probe P/N 0851HL.
+    (ii) For airplanes without a Thales pitot probe having P/N 
+C16195AA or P/N C16195BA installed: As of June 10, 2016 (the 
+effective date of AD 2016-09-07).
+    (2) As of June 10, 2016 (the effective date of AD 2016-09-07), 
+no person may install on any airplane a Thales pitot probe having P/
+N 50620-10.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local
+
+[[Page 38580]]
+
+Flight Standards District Office, as appropriate. If sending 
+information directly to the International Branch, send it to ATTN: 
+Sanjay Ralhan, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone: 425-227-1405; fax: 425-227-1149. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office. The AMOC approval letter must specifically reference this 
+AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0205, dated October 9, 
+2015, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-6900.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(4) and (m)(5) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+June 10, 2016 (81 FR 27298).
+    (i) Airbus Service Bulletin A320-34-1170, Revision 30, dated 
+June 18, 2015.
+    (ii) Airbus Service Bulletin A320-34-1456, Revision 01, dated 
+May 15, 2012.
+    (iii) Airbus Service Bulletin A320-34-1463, Revision 01, dated 
+May 15, 2012.
+    (4) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: [email protected]; Internet: 
+http://www.airbus.com.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on June 2, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-13857 Filed 6-13-16; 8:45 am]
+ BILLING CODE 4910-13-P

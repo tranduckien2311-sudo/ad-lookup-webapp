@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2019-0312
+
+Airworthiness Directive
+
+AD No.: 2019-0312
+
+Issued: 20 December 2019 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: 03 January 2020 TCDS Number(s): EASA.A.004 and EASA.A.015 Foreign AD: Not applicable
+
+Supersedure: None ATA – Aircraft Flight Manual – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturing serial numbers (MSN); and Airbus A340-211, A340-212, A340-213, A340-311, A340-312, A340-313, A340-541, A340-542, A340-642 and A340-643 aeroplanes, all MSN.
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable AFM TR: Airbus A330 Aircraft Flight Manual (AFM) Temporary Revision (TR) 528, and A340 AFM TR 529, as applicable.
+
+Reason: EASA AD 2017-0246 (A330), AD 2018-0196 (A330 MRTT) and AD 2019-0028 (A340) do not explicitly require removal of the applicable AFM TR, as defined in this AD, which was intended to be removed following modification of an aeroplane to a configuration as specified in those ADs. Whereas the benefit of applying that emergency procedure is confirmed on pre-mod aeroplanes, it has been Page 1 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2019-0312 determined that for post-mod aeroplanes, retaining the AFM TR in the AFM is not allowed. Due to the absence of a clear requirement to remove the AFM TR, some aeroplanes may still be operated with that emergency procedure in the AFM. This condition, if not corrected, could, under certain conditions, lead to wrong application of the procedure by the flight crew, possibly resulting in increased flight crew workload and consequent reduced control of the aeroplane. For the reason described above, this AD requires, for certain aeroplane configurations, amendment of the AFM by removing the Emergency Procedure as specified in the AFM TR, as defined in this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Post-modification AFM Amendment: (1) Within 30 days, or concurrently with installation of a configuration as referenced in Table 1 of this AD, as applicable, or later configuration, whichever occurs later after the effective date of this AD, remove the applicable AFM TR, as defined in this AD, previously inserted in the applicable AFM as required by EASA Emergency AD 2014-0267-E, from the AFM. Table 1 – Post-mod Configurations Aeroplane(s) Configuration As required by paragraph (1) of EASA AD 2017-0246R1 and having an Angle of Attack (AOA) sensor configuration as A330 identified in Table 2 of AD 2017-0246R1, or as identified in paragraph (10) of EASA AD 2015-0134, as applicable, As required by paragraph (1) of EASA AD 2018-0196 and having an AOA sensor configuration as identified in Table 1 of A330 MRTT EASA AD 2018-0196, or as identified in paragraph (10) of EASA AD 2015-0134, as applicable As required by paragraph (1) of EASA AD 2019-0028 and having an AOA sensor configuration as identified in Table 2 of A340 EASA AD 2019-0028, or as identified in paragraph (10) of EASA AD 2015-0134, as applicable (2) Before next flight after amendment of the AFM on an aeroplane as required by paragraph (1) of this AD, inform all flight crews and, thereafter, operate that aeroplane accordingly.
+
+Ref. Publications: Airbus A330 AFM TR 528 issue 1, EASA approved 05 December 2014. Airbus A340 AFM TR 529 issue 1, EASA approved 05 December 2014. Page 2 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2019-0312
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-009 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

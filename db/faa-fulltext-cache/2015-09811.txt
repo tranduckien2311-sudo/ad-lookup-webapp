@@ -1,0 +1,513 @@
+[Federal Register Volume 80, Number 83 (Thursday, April 30, 2015)]
+[Rules and Regulations]
+[Pages 24207-24210]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-09811]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0589; Directorate Identifier 2014-NM-069-AD; 
+Amendment 39-18148; AD 2015-09-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A318-111 and -112 airplanes and Model A319, A320, and A321 
+series airplanes. This AD was prompted by reports of cracks on the 
+forward corner fittings of engine pylon aft secondary structures. This 
+AD requires repetitive inspections of certain forward corner fittings 
+of the pylon aft secondary structures, and corrective actions if 
+necessary. This AD also provides optional terminating action for the 
+repetitive inspections. We are issuing this AD to detect and correct 
+detachment of the lower fairing attachment and/or loss of the aft fixed 
+fairing with the movable fairing from the airplane in flight, which 
+could result in damage to the airplane.
+
+DATES: This AD becomes effective June 4, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of June 4, 2015.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0589 or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+0589.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A318-
+111 and -112 airplanes and Model A319, A320, and A321 series airplanes. 
+The NPRM published in the Federal Register on September 3, 2014 (79 FR 
+52267). The NPRM was prompted by reports of cracks on the forward 
+corner fittings of engine pylon aft secondary structures. The NPRM 
+proposed to require repetitive inspections of certain forward corner 
+fittings of the pylon aft secondary structures, and corrective actions 
+if necessary. The NPRM also proposed to provide optional terminating 
+action for the repetitive inspections. We are issuing this AD to detect 
+and correct detachment of the lower fairing attachment and/or loss of 
+the aft fixed fairing with the movable fairing from the airplane in 
+flight, which could result in damage to the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0064, dated March 14, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition. The MCAI states:
+
+    Several operators of A320 family aeroplanes have reported 
+finding cracks on the forward corner fittings of engine pylon aft 
+secondary structures, on the lateral face (lateral panel side). In 
+some cases, these cracks had propagated onto the forward face (Rib 
+11 side). Investigation results have highlighted that these cracks 
+are initiated by stress corrosion.
+    This condition, if not detected and corrected, could lead to 
+loss (i.e. detachment from the aeroplane) of the lower fairing 
+attachment at Rib 10, and/or loss of the aft fixed fairing with the 
+movable fairing, possibly resulting in * * * [damage to the 
+airplane].
+    For the reasons described above, this [EASA] AD requires 
+repetitive detailed inspections (DI) of the right hand (RH) Part 
+Number (P/N) D54530014201 and left hand (LH) P/N D54530014200 corner 
+fittings of engine pylon aft secondary structures (pre-mod 38067 or 
+pre-Airbus Service Bulletin (SB) A320-54-1019) to detect cracks or 
+deformation in the splicing area with corner fitting between Ribs 
+11-12 and, depending on findings, replacement of the corner 
+fittings.
+    This [EASA] AD also recognizes that replacement of the corner 
+fittings with improved parts (as per Airbus SB A320-54-1019) 
+constitutes a terminating action for the repetitive DI required by 
+this [EASA] AD.
+
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2014-0589-0003.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM (79 
+FR 52267, September 3, 2014) and the FAA's response to each comment.
+
+Requests to Reference Revised Service Bulletins
+
+    United Airlines and US Airways requested that we revise the NPRM 
+(79 FR 52267, September 3, 2014) to reference Airbus Service Bulletin 
+A320-54-1019, Revision 02, dated April 15, 2014, in lieu of Airbus 
+Service Bulletin A320-54-1019, Revision 01, dated April 10, 2008. 
+United Airlines also requested that we revise the NPRM to reference 
+Airbus Service Bulletin A320-54-1022, Revision 03, dated April 15, 
+2014, in lieu of Airbus Service Bulletin A320-54-1022, Revision 02, 
+dated July 12, 2013.
+    We agree with the commenters' requests to reference revised service 
+bulletins. Airbus Service Bulletin A320-54-1019, Revision 02, dated 
+April 15, 2014, improves the test procedures, and Airbus Service 
+Bulletin A320-54-1022, Revision 03, dated April 15, 2014, specifies 
+that certain actions in the Accomplishment Instructions are
+
+[[Page 24208]]
+
+required for compliance (RC). Both service bulletins state that no 
+additional work is required for airplanes modified by any previous 
+issue. We have revised paragraphs (g) and (h) of this AD to reference 
+Airbus Service Bulletin A320-54-1022, Revision 03, dated April 15, 
+2014, and paragraphs (h)(2) and (i) of this AD to reference Airbus 
+Service Bulletin A320-54-1019, Revision 02, dated April 15, 2014, as 
+the appropriate sources of service information for accomplishing the 
+required actions.
+    We have redesignated paragraph (l) of the NPRM (79 FR 52267, 
+September 3, 2014) as paragraph (l)(1) of this AD and revised it to 
+give credit for actions required by paragraphs (g) and (h) of this AD, 
+if those actions were performed before the effective date of this AD 
+using Airbus Service Bulletin A320-54-1022, Revision 02, dated July 12, 
+2013. We have added new paragraph (l)(2) to this AD to give credit for 
+actions required by paragraph (i) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A320-54-1019, Revision 01, dated April 10, 2008.
+    Airbus Service Bulletin A320-54-1022, Revision 03, dated April 15, 
+2014, steps that are identified as RC must be done to comply with the 
+AD. However, steps that are not identified as RC are recommended. We 
+have added an explanation of RC steps in the preamble of this AD. We 
+have also added new paragraph (m)(3) to this AD to specify compliance 
+with RC steps.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (79 FR 52267, September 3, 2014) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (79 FR 52267, September 3, 2014).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Explanation of ``RC'' Steps in Service Information
+
+    The FAA worked in conjunction with industry, under the 
+Airworthiness Directives Implementation Aviation Rulemaking Committee 
+(ARC), to enhance the AD system. One enhancement was a new process for 
+annotating which procedures and tests in the service information are 
+required for compliance with an AD. Differentiating these procedures 
+and tests from other tasks in the service information is expected to 
+improve an owner's/operator's understanding of crucial AD requirements 
+and help provide consistent judgment in AD compliance. The procedures 
+and tests identified as RC (required for compliance) in any service 
+information have a direct effect on detecting, preventing, resolving, 
+or eliminating an identified unsafe condition.
+    Procedures and tests that are identified as RC in any service 
+information must be done to comply with the AD. However, procedures and 
+tests that are not identified as RC are recommended. Those procedures 
+and tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an alternative method 
+of compliance (AMOC), provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in a serviceable 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC will require approval of an AMOC.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Airbus Service Bulletin A320-54-1022, Revision 03, 
+dated April 15, 2014. This service information describes procedures for 
+inspections of forward corner fittings of the engine pylon aft 
+secondary structures, and corrective actions.
+    We also reviewed Airbus Service Bulletin A320-54-1019, Revision 02, 
+dated April 15, 2014. This service information describes procedures for 
+replacement of the corner fittings on the engine pylons.
+    This service information is reasonably available at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+0589. Or see ADDRESSES for other ways to access this service 
+information.
+
+Costs of Compliance
+
+    We estimate that this AD affects 851 airplanes of U.S. registry.
+    We also estimate that it would take about 30 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $2,170,050, or $2,550 per product.
+    In addition, we estimate the optional terminating modification 
+would take about 60 work-hours and require parts costing about $932 per 
+product, for a cost of $6,032 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 24209]]
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2014-0589; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2015-09-03 Airbus: Amendment 39-18148. Docket No. FAA-2014-0589; 
+Directorate Identifier 2014-NM-069-AD.
+
+(a) Effective Date
+
+    This AD becomes effective June 4, 2015.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1) through (c)(4) of this AD, certificated in any category, 
+except for airplanes on which Airbus Modification 33844 or 
+Modification 33847, as applicable, has been embodied in production.
+    (1) Airbus Model A318-111 and -112 airplanes.
+    (2) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (3) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (4) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 54, Nacelles/
+pylons.
+
+(e) Reason
+
+    This AD was prompted by reports of cracks on the forward corner 
+fittings of engine pylon aft secondary structures. We are issuing 
+this AD to detect and correct detachment of the lower fairing 
+attachment and/or loss of the aft fixed fairing with the movable 
+fairing from the airplane in flight, which could result in damage to 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections
+
+    At the latest of the times specified in paragraphs (g)(1), 
+(g)(2), and (g)(3) of this AD: Do a detailed inspection for cracking 
+of forward corner fittings having part number (P/N) D54530014201 
+(right-hand (RH)) and P/N D54530014200 (left-hand (LH)) of the pylon 
+aft secondary structures, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-54-1022, Revision 03, 
+dated April 15, 2014, except as provided by paragraph (j) of this 
+AD. Repeat the inspection thereafter at intervals not to exceed 
+15,000 flight cycles or 22,500 flight hours, whichever occurs first. 
+Accomplishment of the actions specified in paragraph (i) of this AD 
+terminates the actions required by this paragraph.
+    (1) Within 15,000 flight cycles or 22,500 flight hours, 
+whichever occurs first since first flight of the airplane.
+    (2) Within 5,000 flight cycles or 7,500 flight hours after the 
+effective date of this AD, without exceeding 40,750 flight cycles or 
+60,750 flight hours, whichever occurs first since first flight of 
+the airplane.
+    (3) Within 750 flight cycles or 750 flight hours, whichever 
+occurs first after the effective date of this AD.
+
+(h) Related Investigative and Corrective Actions
+
+    If any crack is found on the corner fittings of a pylon during 
+any inspection required by paragraph (g) of this AD: Before further 
+flight, do a detailed inspection for cracking of the lower and 
+medium spars, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-54-1022, Revision 03, dated April 15, 
+2014.
+    (1) If any damage is found: Before further flight, repair using 
+a method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).
+    (2) If no damage is found: Within 5,000 flight cycles or 7,500 
+flight hours, whichever occurs first after the detailed inspection 
+specified in the introductory text to paragraph (h) of this AD, 
+modify the airplane, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-54-1019, Revision 02, 
+dated April 15, 2014.
+
+(i) Optional Terminating Action
+
+    Modification of an airplane by installation of corner fittings 
+having P/N D0041092120000 (RH) and P/N D0041092120100 (LH) on both 
+pylons, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A320-54-1019, Revision 02, dated April 15, 2014, 
+constitutes terminating action for the repetitive inspections 
+required by paragraph (g) of this AD.
+
+(j) Parts Installation Limitation
+
+    Airplanes on which Airbus Modification 38067 (installation of 
+new corner fittings) has been embodied in production, and airplanes 
+already modified in service as described in Airbus Service Bulletin 
+A320-54-1019, are not affected by the requirements of paragraph (g) 
+of this AD, provided that no corner fittings having P/N D54530014201 
+(RH) or P/N D54530014200 (LH) have been installed since first flight 
+of the airplane, or since modification, as applicable.
+
+(k) Parts Installation Prohibition
+
+    (1) As of the effective date of this AD, for airplanes on which 
+Airbus Modification 38067 has been embodied in production on both 
+pylons, and for airplanes previously modified in service as 
+described in Airbus Service Bulletin A320-54-1019: Do not install 
+any corner fittings having P/N D54530014201 (RH) or P/N D54530014200 
+(LH).
+    (2) After modification as required by paragraph (h) of this AD, 
+or after optional modification as specified in paragraph (i) of this 
+AD, as applicable: Do not install any corner fittings having P/N 
+D54530014201 (RH) or P/N D54530014200 (LH).
+
+(l) Credit for Previous Actions
+
+    (1) This paragraph provides credit for actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using a service bulletin 
+identified in paragraph (l)(1)(i), (l)(1)(ii), or (l)(1)(iii) of 
+this AD; this service information is not incorporated by reference 
+in this AD.
+    (i) Airbus Service Bulletin A320-54-1022, dated July 7, 2009.
+    (ii) Airbus Service Bulletin A320-54-1022, Revision 01, dated 
+September 29, 2011.
+    (iii) Airbus Service Bulletin A320-54-1022, Revision 02, dated 
+July 12, 2013.
+    (2) This paragraph provides credit for actions required by 
+paragraphs (h)(2) and (i) of this AD, if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A320-54-1019, Revision 01, dated April 10, 2008, which is 
+not incorporated by reference in this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected]. Before using
+
+[[Page 24210]]
+
+any approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the EASA; 
+or Airbus's EASA DOA. If approved by the DOA, the approval must 
+include the DOA-authorized signature.
+    (3) Required for Compliance: Except as required by paragraph (i) 
+of this AD: If any service information contains procedures or tests 
+that are identified as RC, those procedures and tests must be done 
+to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in a serviceable condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information EASA 
+Airworthiness Directive 2014-0064, dated March 14, 2014, for related 
+information. This MCAI may be found in the AD docket on the Internet 
+at http://www.regulations.gov/#!documentDetail;D=FAA-2014-0589-0003.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-54-1019, Revision 02, dated 
+April 15, 2014.
+    (ii) Airbus Service Bulletin A320-54-1022, Revision 03, dated 
+April 15, 2014.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on April 17, 2015.
+Victor Wicklund,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-09811 Filed 4-29-15; 8:45 am]
+ BILLING CODE 4910-13-P

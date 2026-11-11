@@ -1,0 +1,52 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0255
+
+Airworthiness Directive
+
+AD No.: 2018-0255
+
+Issued: 27 November 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320, and A321 aeroplanes
+
+Effective Date: 11 December 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 25 – Equipment / Furnishings – Aft Galley Waste Compartment Door – Modification
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers equipped with an aft galley having a Part Number (P/N) and serial number (s/n) as listed in Appendix 1 of this AD.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected galley: Aft galley G5 with a P/N and s/n listed in Appendix 1 of this AD.
+
+Reason: At the occasion of a re-engineering of galley G5, a 9G forward full scale qualification test was performed during which the door of the waste compartment opened before the required load was reached. The investigation determined that the opening of the waste compartment door was caused by the galley global deflection. Page 1 of 5 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0255 This condition, if not corrected, could lead to failure of the galley door and release of trolleys during a rejected take-off or an emergency landing, possibly resulting in injury to occupants and damage to the aeroplane. To address this potential unsafe condition, Airbus developed a modification (mod 159298) to equip the waste compartment door of galley G5 with a door catch bracket and a new striker. Zodiac Galleys Europe (formerly Driessen) published Service Bulletin (SB) 213510-25-001 and Airbus published SB A320-25-1BF6, both of them later revised, for in-service installation. For the reasons described above, this AD requires modification of the waste compartment door of galley G5.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) Within 12 months after the effective date of this AD, modify the waste compartment door of each affected galley by installing a door catch bracket and a new striker in accordance with the instructions of Airbus SB A320-25-1BF6 revision (rev.) 01 and Zodiac Galleys Europe SB 213510-25-001 rev. B. Credit: (2) Modification of the waste compartment door of an affected galley accomplished on an aeroplane, before the effective date of this AD, in accordance with the instructions of Airbus SB A320-25-1BF6 (any revision) and Zodiac Galleys Europe SB 213510-25-001 rev. A or rev. B is acceptable to comply with the requirements of paragraph (1) of this AD, as applicable, for that aeroplane.
+
+Ref. Publications: Airbus SB A320-25-1BF6 original issue dated 30 May 2017, or rev. 01 dated 27 December 2017. Zodiac Galleys Europe SB 213510-25-001 rev. A dated 04 August 2017, or rev. B dated 23 April 2018. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 09 January 2018 as PAD 18-001 for consultation until 06 February 2018. The Comment Response Documents can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 5 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0255 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com . Page 3 of 5 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2018-0255 Appendix 1 - List of affected aft galley P/N and s/n Part Number Serial Number (inclusive) 601856-000501 001 to 012 601856-000701 001 to 014 601856-000801 001 to 015 601856-000901 001 to 014 601856-001001 001 to 029 601856-001101 001 to 024 601856-001201 001 to 019 601856-001501 001 to 007 601856-001601 001 to 013 601856-001701 001 to 002 601856-001801 001 to 006 601856-001901 001 to 004 601856-002001 001 to 003 601857-000101 001 to 007 601857-000501 001 to 009 601857-000701 001 to 002 601857-001001 001 to 004 601857-001101 001 to 021 601857-001201 001 to 007 601857-001501 001 to 012 601857-001601 001 to 015 601857-001801 001 to 011 601857-001901 001 to 016 601857-002001 001 to 005 601857-002101 001 to 005 601857-002201 001 to 009 601857-002301 001 to 005 601858-000301 001 to 007 601858-000401 001 to 002 601858-000501 001 to 003 601858-000801 001 to 026 601858-000901 001 to 002 601858-001001 001 to 002 601858-001201 001 to 001 601858-001301 001 to 003 601858-001701 001 to 002 601858-002101 001 to 004 601858-002201 001 to 008 601858-002401 001 to 010 601858-002501 001 to 003 601858-002801 001 to 001 Page 4 of 5 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2018-0255 Appendix 1 - List of affected aft galley P/N and s/n – continued Part Number Serial Number (inclusive) 601858-003001 001 to 004 601858-003301 001 to 002 601858-003401 001 to 010 601858-003601 001 to 015 601858-003801 001 to 002 601858-003901 001 to 009 601858-004101 001 to 056 601858-004201 001 to 002 601858-004301 001 to 002 601858-004401 001 to 012 601858-004601 001 to 001 601858-004701 001 to 015 601858-004801 001 to 003 601858-004901 001 to 001 601858-005001 001 to 009 601858-005201 001 to 008 601858-005301 001 to 007 601858-005401 001 to 002 601858-005501 001 to 001 601858-005601 001 to 013 601858-005701 001 to 004 601858-005901 001 to 005 601858-006001 001 to 004 601858-006201 001 to 002 601858-006301 001 to 005 601858-006901 001 to 002 601858-007001 001 to 001 601857-000801 001 to 010 Page 5 of 5 TE.CAP.00110-008 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

@@ -1,0 +1,512 @@
+[Federal Register Volume 80, Number 247 (Thursday, December 24, 2015)]
+[Rules and Regulations]
+[Pages 80239-80242]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-31714]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0083; Directorate Identifier 2014-NM-131-AD; 
+Amendment 39-18347; AD 2015-25-09]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes; and all Model A340-200 and A340-300 series airplanes. This 
+AD was prompted by reports that a bracket that attaches the cockpit 
+instrument panel to the airplane structure does not sustain the fatigue 
+loads of the design service goal. This AD requires repetitive 
+inspections of that bracket for cracking and to determine if both lugs 
+are fully broken, an inspection for cracking of an adjacent bracket if 
+necessary, and corrective actions if necessary. This AD also provides 
+an optional modification, which terminates the repetitive inspections. 
+We are issuing this AD to detect and correct cracking on a bracket of 
+the cockpit instrument panel, which, combined with failure of the 
+horizontal beam, could lead to collapse of the cockpit panel, and 
+reduced controllability of the airplane.
+
+DATES: This AD becomes effective January 28, 2016.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 28, 
+2016.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-0083; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this final rule, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 
+93 45 80; email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0083.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus Model A330-
+200, A330-200 Freighter, and A330-300 series airplanes; and all Model 
+A340-200 and A340-300 series airplanes. The NPRM published in the 
+Federal Register on February 13, 2015 (80 FR 7989).
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2014-0127, dated May 15, 2014 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for certain Airbus Model 
+A330-200, A330-200 Freighter,
+
+[[Page 80240]]
+
+and A330-300 series airplanes; and all Model A340-200, and A340-300 
+series airplanes. The MCAI states:
+
+    During flight tests, high stress levels have been measured on 
+the bracket No 6 which attaches the cockpit instrument panel to the 
+aeroplane structure, apparently introduced through the nose landing 
+gear due to bumps on the runway. Airbus determined that the bracket 
+does not sustain the fatigue loads during the Design Service Goal 
+(DSG).
+    This condition, if not detected and corrected, combined with 
+failure of the horizontal beam, could lead to collapse of the 
+cockpit panel, possibly resulting in reduced control of the 
+aeroplane.
+    To address this potential unsafe condition, Airbus developed a 
+program to inspect the condition of the affected cockpit instrument 
+panel bracket No 6, and designed a stronger (reinforced titanium 
+undrilled) bracket. The new bracket can be installed in-service 
+through Airbus Service Bulletin (SB) A330-25-3548 or SB A340-25-
+4354, as applicable to aeroplane type.
+    For the reasons described above, this [EASA] AD requires 
+repetitive inspections of the cockpit instrument panel bracket No 6 
+and, depending on findings, the accomplishment of applicable 
+corrective actions. This [EASA] AD also provides the installation of 
+the stronger bracket as optional terminating action for the 
+repetitive actions required by this [EASA] AD.
+
+The corrective actions include replacing bracket No. 6 and bracket No. 
+7 with serviceable parts, and repair, as applicable.
+    You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2015-0083-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We have considered the comment received. The following 
+presents the comment received on the NPRM (80 FR 7989, February 13, 
+2015) and the FAA's response.
+
+Request To Identify Part Numbers in Paragraphs (g) and (h)
+
+    Delta Airlines requested that paragraphs (g) and (h) of the 
+proposed AD (80 FR 7989, February 13, 2015) be revised to specify the 
+part numbers of the affected brackets. Delta suggested that paragraph 
+(g) of the proposed AD be revised to include the part number after the 
+reference to bracket No. 6 (part number (P/N) F2511012820000, pre-
+modification Number 55128S18242; and P/N F2511373420000, post-
+modification Number 55128S18242). Delta also requested that paragraph 
+(h)(2) of the proposed AD be revised to include the part number after 
+bracket No. 6 (P/N F2511012820000, pre-modification Number 55128S18242; 
+and P/N F2511373420000, post-modification Number 55128S18242) and 
+bracket No. 7 (P/N F2511012820000, pre-modification Number 55128S18242; 
+and P/N F2511373420000, post-modification Number 55128S18242). Delta 
+stated that Airbus Service Bulletin A330-25-3538, Revision 02, dated 
+April 24, 2014, specifies to inspect only P/N F2511012820000, pre-
+modification Number 55128S18242, and P/N F2511373420000, post-
+modification Number 55128S18242, and identifies only those part numbers 
+as ``affected'' brackets that are used on both bracket No. 6 and 
+bracket No. 7.
+    We agree to include the part numbers identified by the commenter in 
+paragraphs (g) and (h)(2) of this AD. We have also included the part 
+numbers in paragraphs (h)(1) and (h)(2)(i) of this AD. The ``Reason/
+Description/Operational Consequences'' section of Airbus Service 
+Bulletin A330-25-3538, Revision 02, dated April 24, 2014, specifies to 
+inspect P/N F2511012820000, pre-modification Number 55128S18242, and P/
+N F2511373420000, post-modification Number 55128S18242. Also, the 
+Accomplishment Instructions of that service bulletin specify to replace 
+P/N F2511012820000 or P/N F2511373420000, as applicable. We contacted 
+Airbus for verification that only those part numbers are considered to 
+be ``affected'' brackets and Airbus confirmed that only those part 
+numbers are affected. The same affected and replacement parts are used 
+on both Airbus Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes; and A340-200 and A340-300 series airplanes.
+
+Additional Change to This AD
+
+    A typographical error in paragraph (c)(1) of the proposed AD (80 FR 
+7989, February 13, 2015) has been corrected in this final rule. 
+Paragraph (c)(1) of the proposed AD inadvertently included Model A330-
+313 airplanes instead of Model A330-343 airplanes. The SUMMARY section 
+and preamble of the NPRM stated that the applicability included Model 
+A330-300 series airplanes, which include Model A330-343 airplanes.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM (80 FR 7989, February 13, 2015) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM (80 FR 7989, February 13, 2015).
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information.
+     Airbus Service Bulletin A330-25-3538, Revision 02, dated 
+April 24, 2014, which provides procedures for inspection of cockpit 
+instrument panel bracket 6.
+     Airbus Service Bulletin A330-25-3548, dated October 31, 
+2013, which provides procedures for replacement of cockpit instrument 
+panel bracket 6 with a reinforced titanium bracket.
+     Airbus Service Bulletin A340-25-4351, Revision 01, dated 
+January 31, 2014, which provides procedures for inspection of cockpit 
+instrument panel bracket 6.
+     Airbus Service Bulletin A340-25-4354, dated October 31, 
+2013, which provides procedures for replacement of cockpit instrument 
+panel bracket 6 with a reinforced titanium bracket.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 76 airplanes of U.S. registry.
+    We also estimate that it will take about 8 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $51,680, or $680 per product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the follow-on repairs specified in this AD.
+    In addition, we estimate that any necessary replacements will take 
+about 23 work-hours and require parts costing $0, for a cost of $1,955 
+per product. We have no way of determining the number of aircraft that 
+might need these actions.
+    We estimate that the optional modification will take about 9 work 
+hours and require parts costing $1,770, for a cost of $2,535.
+
+[[Page 80241]]
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2015-0083; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2015-25-09 Airbus: Amendment 39-18347. Docket No. FAA-2015-0083; 
+Directorate Identifier 2014-NM-131-AD.
+
+(a) Effective Date
+
+    This AD becomes effective January 28, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1) and (c)(2) of this AD.
+    (1) Model A330-201, -202, -203, -223, -243, -223F, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, and -343 airplanes, all 
+manufacturer serial numbers except those on which Airbus 
+Modification 203287 has been embodied in production.
+    (2) Model A340-211, -212, -213, -311, -312, and -313 airplanes, 
+all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Reason
+
+    This AD was prompted by reports that a bracket that attaches the 
+cockpit instrument panel to the airplane structure does not sustain 
+the fatigue loads of the design service goal. We are issuing this AD 
+to detect and correct cracking on a bracket of the cockpit 
+instrument panel, which, combined with failure of the horizontal 
+beam, could lead to collapse of the cockpit panel, and reduced 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection of Bracket No. 6 of the Cockpit Instrument Panel
+
+    At the latest of the times specified in paragraphs (g)(1), 
+(g)(2), and (g)(3) of this AD: Do a detailed inspection of bracket 
+No. 6 (part number (P/N) F2511012820000, pre-modification Number 
+55128S18242; or P/N F2511373420000, post-modification Number 
+55128S18242) of the cockpit instrument panel for cracking and to 
+determine if both bracket lugs are fully broken, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A330-25-
+3538, Revision 02, dated April 24, 2014; or Airbus Service Bulletin 
+A340-25-4351, Revision 01, dated January 31, 2014; as applicable. 
+Repeat the inspection thereafter at intervals not to exceed 2,600 
+flight cycles.
+    (1) Prior to accumulating 17,200 total flight cycles since the 
+airplane's first flight.
+    (2) Prior to bracket No. 6 of the cockpit instrument panel 
+accumulating 17,200 total flight cycles since installation on an 
+airplane.
+    (3) Within 500 flight cycles after the effective date of this 
+AD.
+
+(h) Inspection and Corrective Actions
+
+    (1) If, during any inspection required by paragraph (g) of this 
+AD, any cracking of bracket No. 6 (P/N F2511012820000, pre-
+modification Number 55128S18242; or P/N F2511373420000, Post-
+modification Number 55128S18242) of the cockpit instrument panel is 
+found, and both bracket lugs are not fully broken: Within 2,600 
+flight cycles after that inspection, replace bracket No. 6 of the 
+cockpit instrument panel with a serviceable part, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A330-25-
+3538, Revision 02, dated April 24, 2014; or Airbus Service Bulletin 
+A340-25-4351, Revision 01, dated January 31, 2014; as applicable. 
+Replacement of bracket No. 6 (P/N F2511012820000, pre-modification 
+Number 55128S18242; or P/N F2511373420000, post-modification Number 
+55128S18242) of the cockpit instrument panel does not constitute 
+terminating action for the repetitive inspections required by 
+paragraph (g) of this AD.
+    (2) If, during any inspection required by paragraph (g) of this 
+AD, any cracking of bracket No. 6 (P/N F2511012820000, pre-
+modification Number 55128S18242; or P/N F2511373420000, Post-
+modification Number 55128S18242) of the cockpit instrument panel is 
+found and both bracket lugs are fully broken: Before further flight, 
+do a detailed inspection of bracket No. 7 (P/N F2511012820000, pre-
+modification Number 55128S18242; or P/N F2511373420000, Post-
+modification Number 55128S18242) of the cockpit instrument panel for 
+cracking, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-25-3538, Revision 02, dated April 24, 
+2014; or Airbus Service Bulletin A340-25-4351, Revision 01, dated 
+January 31, 2014; as applicable.
+    (i) If, during the inspection required by paragraph (h)(2) of 
+this AD, no cracking is found in bracket No. 7 of the cockpit 
+instrument panel: Before further flight, replace bracket No. 6 and 
+bracket No. 7 of the cockpit instrument panel with serviceable 
+parts, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A330-25-3538, Revision 02, dated April 24, 2014; or 
+Airbus Service Bulletin A340-25-4351, Revision 01, dated January 31, 
+2014; as applicable. Replacement of bracket No. 6 (P/N 
+F2511012820000, pre-
+
+[[Page 80242]]
+
+modification Number 55128S18242; or P/N F2511373420000, post-
+modification Number 55128S18242) of the cockpit instrument panel 
+does not constitute terminating action for the repetitive 
+inspections required by paragraph (g) of this AD.
+    (ii) If, during the inspection required by paragraph (h)(2) of 
+this AD, any cracking is found in bracket No. 7 of the cockpit 
+instrument panel: Although Airbus Service Bulletin A330-25-3538, 
+Revision 02, dated April 24, 2014; and Airbus Service Bulletin A340-
+25-4351, Revision 01, dated January 31, 2014; specify to contact 
+Airbus for repair instructions, and specify that action as ``RC'' 
+(Required for Compliance), repair the cracking before further flight 
+using a repair method approved by the Manager, International Branch, 
+ANM-116, Transport Airplane Directorate, FAA; or the European 
+Aviation Safety Agency (EASA); or Airbus's EASA Design Organization 
+Approval (DOA).
+
+(i) Optional Terminating Modification for Paragraph (g) of This AD
+
+    Modifying an airplane by replacing bracket No. 6 of the cockpit 
+instrument panel with a new, reinforced bracket, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A330-25-
+3548, dated October 31, 2013; or Airbus Service Bulletin A340-25-
+4354, dated October 31, 2013; as applicable; terminates the 
+repetitive inspections required by paragraph (g) of this AD.
+
+(j) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using the service information 
+identified in paragraph (j)(1), (j)(2), or (j)(3) of this AD, which 
+is not incorporated by reference in this AD.
+    (1) Airbus Service Bulletin A330-25-3538, dated September 10, 
+2013.
+    (2) Airbus Service Bulletin A330-25-3538, Revision 01, dated 
+April 24, 2014.
+    (3) Airbus Service Bulletin A340-25-4351, dated September 10, 
+2014.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the EASA; 
+or Airbus's EASA DOA. If approved by the DOA, the approval must 
+include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (h)(2)(ii) of this AD, if Airbus Service Bulletin A330-25-
+3538, Revision 02, dated April 24, 2014; or Airbus Service Bulletin 
+A340-25-4351, Revision 01, dated January 31, 2014; contain 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures and tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from, using 
+accepted methods in accordance with the operators maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2014-0127, dated May 15, 2014, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-
+2015-0083-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(3) and (m)(4) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-25-3538, Revision 02, dated 
+April 24, 2014.
+    (ii) Airbus Service Bulletin A330-25-3548, dated October 31, 
+2013.
+    (iii) Airbus Service Bulletin A340-25-4351, Revision 01, dated 
+January 31, 2014.
+    (iv) Airbus Service Bulletin A340-25-4354, dated October 31, 
+2013.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 9, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-31714 Filed 12-23-15; 8:45 am]
+BILLING CODE 4910-13-P

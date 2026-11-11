@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 2000-256-145(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 aircraft Cockpit - Sliding table/cockpit footrest improvement (ATA 25) APPLICABILITY: All AIRBUS INDUSTRIE A319/A320/A321 aircraft, all certified models, all serial numbers, without AIRBUS INDUSTRIE modification 28472 in production or without AIRBUS INDUSTRIE Service Bulletin A320-25-1225 in-service. REASON: A recent loss of a retaining clip of the footrest actuator on first officer side has been reported in flight on an A320 aircraft. A missing or broken retaining clip can result in footrest actuator detachment, which can cause the rudder pedals to be blocked. This new AD takes over the inspection being mandatory per AD 1999-074-127(B) R1 up to accomplishment of the mandatory terminating action. ACTIONS AND COMPLIANCE: The following measures are rendered mandatory: 1) At the latest within 500 flight hours since March 06, 1999 [effective date of the AD 1999-074-127(B)]: - perform a detailed visual inspection and accomplish all necessary corrective actions in accordance with the instructions given in the AIRBUS INDUSTRIE Service Bulletin A320-25-1220. 2) At intervals not to exceed 15 months repeat the inspections of paragraph 1 of this AD up to accomplishment of paragraph 3 hereunder. 3) Not later than October 31, 2001, unless already accomplished, perform modification of all footrest assemblies by new assemblies in accordance with Service Bulletin A320-25-1225. …/… n/ JJD AIRBUS INDUSTRIE June 14, 2000 2000-256-145(B) A319/A320/A321 aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 2000-256-145(B) Page n° 2 This
+
+Airworthiness Directive replaces AD 1999-074-127(B) which is cancelled by its Revision 2 dated June 14, 2000. REF.: AIRBUS INDUSTRIE Service Bulletin A320-25-1220 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-25-1225 (or any further approved revision). EFFECTIVE DATE : JUNE 24, 2000

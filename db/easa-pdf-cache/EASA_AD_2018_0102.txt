@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2018-0102
+
+Airworthiness Directive
+
+AD No.: 2018-0102
+
+Issued: 27 April 2018 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A321 aeroplanes
+
+Effective Date: 11 May 2018 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 57 – Wings – Rib 5 to Rear Spar Attachment – Inspection
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial numbers (MSN) listed in Airbus Service Bulletin (SB) A320-57-1167 Revision 01.
+
+Reason: During removal of the left hand (LH) rib 5, two of the fasteners (bolts) attaching the rib to the wing inner rear spar were found to have failed and two more failed during their removal. Two of the bolts were found separated from the bolt shanks when the overcoat sealant was being removed, and the other two bolt heads broke away during removal. This condition, if not detected and corrected, could reduce the structural integrity of the wing. To address this possible unsafe condition, Airbus issued SB A320-57-1167 to provide inspection instructions. After that SB was issued, a potential manufacturing issue was identified on early production A321 concerning reports of fasteners “jamming” during installation on spar assemblies. A process change was introduced in production line, and SB A320-57-1167 was revised, changing Page 1 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2018-0102 the affected population to include all A321 aeroplanes delivered before the introduction of that process change. For the reasons described above, this AD requires a one-time special detailed inspection (SDI) of the wing rib 5-to-rear spar attachments, both LH and right hand (RH) wings, and, depending on findings, accomplishment of a repair. This AD also requires the reporting of findings.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) Within 30 months after the effective date of this AD, accomplish an SDI of the rib 5-to-rear spar attachment, both RH and LH wings, in accordance with the instructions of Airbus SB A320-57-1167 Revision 01. Corrective Action(s): (2) If, during the SDI as required by paragraph (1) of this AD, any cracked or failed bolt is found, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of Airbus SB A320-57-1167 Revision 01. Reporting (3) Within 90 days after the inspection as required by paragraph (1) of this AD report the results (including no findings) to Airbus. Credit: (4) Inspection and corrective action(s) on an aeroplane, and reporting, accomplished before the effective date of this AD in accordance with the instructions of Airbus SB A320-57-1167 at original issue, are acceptable to comply with the requirements of paragraphs (1), (2) and (3) of this AD for that aeroplane.
+
+Ref. Publications: Airbus SB A320-57-1167 original issue dated 11 August 2011, or Revision 01 dated 16 January 2018. The use of later approved revisions of the above mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 02 February 2018 as PAD 18-015 for consultation until 02 March 2018. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 2 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2018-0102 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-006 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

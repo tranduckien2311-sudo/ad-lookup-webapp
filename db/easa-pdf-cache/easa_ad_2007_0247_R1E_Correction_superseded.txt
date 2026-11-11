@@ -1,0 +1,25 @@
+--- PAGE 1 ---
+EASA EMERGENCY AIRWORTHINESS DIRECTIVE EAD No : 2007-0247 R1-E [Correction: 04 October 2007] Date: 07 September 2007 No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise agreed with the Authority of the State of Registry. Type/Model designation(s) : Type Approval Holder’s Name : d AIRBUS SAS A330 and A340 aircraft e TCDS Number: EASA A.004, A.015 Foreign AD: Not applicable. d
+
+Supersedure: This Emergency AD (EAD) revised EASA EAD 2007-0247-E dated 06 September 2007. e
+
+ATA 57 Wings – Main Landing Gear (MLG) Rib 6 Aft Bearing Lugs – Inspection s r
+
+Manufacturer(s): AIRBUS (formerly AIRBUS INDUSTRIE) e
+
+Applicability: AIRBUS aircraft A330-200, A330-300, A340-200, A340-300, A340-500 and A340-600 series, all certified models, all serial numbers. p
+
+Reason: During MLG lubrication, a crack was found visually in the MLG rib 6 aft bearing forward lug on one A330 in service aircraft. The crack had extended through the entire thickness of the forward lug at approximately the 4 o’clock position (when looking u forward). Despite intensive investigation so far, Airbus has not been able to determine the root cause of this single event. This condition, if not detected and corrected, could affect the structural integrity of the MLG attachment. Emergency
+
+Airworthiness Directive (EAD) 2006-0364-E was issued to require S repetitive detailed visual inspections of the LH and RH wing MLG rib 6 aft bearing lugs. This new EAD, which supersedes EAD 2006-0364-E, is issued to: - expand the applicability to all A330 and A340 series aircraft, because the interference fit bushes cannot be considered as a terminating action, owing to unknown root cause; and - add a second parameter quoted in Flight Hours (FH) to the inspection interval in order to reflect the aircraft utilisation in service. This EAD has been republished to correct a typographical error.
+
+Effective Date: 10 September 2007 1/2
+
+--- PAGE 2 ---
+Compliance: In accordance with instructions defined in AIRBUS SB A330-57-3096 Revision 02 or SB A340-57-4104 Revision 02 or SB A340-57-5009 Revision 01, as applicable: (1) Unless already accomplished, before accumulation of 5 years from first flight or within 14 calendar days following the effective date of this EAD, whichever occurs later, perform a detailed visual inspection of the LH and RH Wing MLG Rib 6 aft bearing lugs (forward and aft) to detect any cracks. Note 1: Accomplishment of SB A330-57A3096 instructions at original issue or Revision 01 or SB A340-57A4104 instructions at original issue or Revision 01, or SB A340-57A5009 instructions at original issue, is acceptable to comply with the requirements of paragraph (1) of this EAD; any repetitive inspections after the effective date and subsequent corrective actions must be accomplished in accordance with instructions of SB A330-57-3096 Revision 02 or SB A340-57-4104 Revision 02 or SB A340-57-5009 Revision 01, as applicable. (2) If no crack is detected, repeat the inspection within the following intervals: d Inspection interval, whichever occurs first: Model (series) FC FH A330-200 300 1 500 e A330-300 300 900 A340-200 200 800 d A340-300 (except WV27) 200 800 A340-300 WV27 200 400 A340-500 and -600 100 500 e (3) For aircraft that have already been inspected in accordance with SB A330- 57A3096 at original issue or Revision 01 or SB A340-57A4104 at original issue s or Revision 01, or SB A340-57A5009 at original issue, as applicable, the new intervals are to be applied from the first inspection, scheduled in accordance with r EAD 2006-0364-E, that occurs after the effective date of the present EAD. (4) If any crack is detected during the inspections required by paragraph (1) or (2) of this directive, contact AIRBUS immediately and, before next flight, replace the e cracked MLG Rib 6 fitting. Note 2: Replacement of the MLG Rib 6 fitting does not constitute terminating action for the inspection requirements of this directive. p
+
+Ref. Publications: AIRBUS Service Bulletin A330-57-3096 Revision 02; AIRBUS Service Bulletin A340-57-4104 Revision 02; AIRBUS Service Bulletin A340-57-5009 Revision 01; u or later approved revisions of these documents. Remarks : 1. If requested and appropriately substantiated, EASA can accept Alternative Methods of Compliance for this AD. S 2. The safety assessment has requested not to implement the full consultation process and an immediate publication and notification 3. Enquiries regarding this AD should be referred to the AD Focal Point - Certification Directorate, EASA. E-mail: ADs@easa.europa.eu . 4. For any question concerning the technical content of the requirements, please contact: AIRBUS SAS – Airworthiness Office – EAL Fax : +33 5 61 93 45 80. E- mail: airworthiness.A330-A340@airbus.com. 2/2

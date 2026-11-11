@@ -1,0 +1,38 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2011-0007R1 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2011-0007R1 Date: 14 February 2011 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s) : Type Approval Holder’s Name : d AIRBUS A330 and A340 aeroplanes e TCDS Number : EASA.A.004 and EASA.A.015 Foreign AD : Not applicable d Revision : This AD revises EASA AD 2011-0007 dated 18 January 2011 e Doors – Forward and Aft Cargo Compartment Doors – s
+
+ATA 52 Inspection r
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) e
+
+Applicability: Airbus A330 aeroplanes, models -201, -202, -203, -223, -223F, -243, - 243F, -301, -302, -303, -321, -322, -323, -341, -342 and -343, all manufacturer serial numbers. p Airbus A340 aeroplanes, models -211, -212, -213, -311, -312 and -313, all manufacturer serial numbers. u
+
+Reason: Two operators have reported cases of some sheared fasteners on the outside skin of the forward cargo door, detected during walk around checks. Further inspections revealed crack findings on the frame (FR) fork ends. S In addition, during a scheduled maintenance check, the aft cargo door frame 64A of an aeroplane has been found cracked for a length of more than 3 inches. Outer skin rivets were also found sheared. At time of findings the aeroplane had accumulated 10564 flight cycles (FC), i.e. below the 12000 FC threshold defined in DGAC France AD F-2001-124(B) and DGAC France AD F-2001-126(B), which require a special detailed inspection of the aft cargo compartment door. In case of cracked or ruptured (forward or aft) cargo door frame, the loads will be transferred to the remaining structural elements. Such second load path is able to sustain the loads for a limited number of flight cycles only. Rupture of two vertical frames could result in the loss of the structural integrity of the forward or aft cargo door. EASA Form 110 Page 1/3
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2011-0007R1 For the above described reasons, this AD requires repetitive detailed visual inspections of the aft and forward cargo doors outer skin for sheared, loose or missing rivets at all frame fork ends and the accomplishment of the applicable corrective actions. This AD is considered to be an interim action, further actions might be required to revise/supersede the above mentioned DGAC France ADs. This AD is revised in order to recognize that aeroplanes on which Airbus modification 44852 has been embodied in production are not affected by the repetitive inspection requirements of this AD on the Aft Cargo Compartment Door.
+
+Effective Date: Revision 01 : 28 February 2011 Original issue : 01 February 2011 Required action(s) Required as indicated, unless accomplished previously: and Compliance Forward Cargo Compartment Door Time(s): d (1) Before the accumulation of 6 000 total FC since the aeroplane first flight or within 400 FC after the effective date of this AD at original issue, whichever occurs later, perform a detailed visual inspection of e outer skin rivets at the frame fork ends between FR20B and FR25 of the forward cargo door, in accordance with the instructions of All Operators Telex (AOT) A330-52A3085 or AOT A340-52A4092, as d applicable to aeroplane type. (2) Repeat the inspection defined in paragraph (1) of this AD at intervals not to exceed 800 FC from the last inspection. e Aft Cargo Compartment Door s (3) For All A330 and A340 aeroplanes identified in the applicability section of this AD except those on which Airbus modification (mod.) 44854 or r mod. 44852 has been embodied in production or Airbus Service Bulletin (SB) A330-52-3044 or SB A340-52-4054 has been embodied in service: e (3.1) Before the accumulation of 4 000 total FC since the aeroplane first flight or within 400 FC after the effective date of this AD at original issue, whichever occurs later, perform a detailed visual inspection p of outer skin rivets at the frame fork ends between FR60 and FR64A of the Aft cargo door, in accordance with the instructions of AOT A330-52A3084 or AOT A340-52A4091, as applicable to u aeroplane type. (3.2) Repeat the inspection defined in paragraph (3.1) of this AD at intervals not to exceed 400 FC from the last inspection. S (4) If any discrepancy is found during the initial or repetitive inspections required by paragraph (1) or (2) or (3.1) or (3.2) of this AD, before further flight, contact Airbus to obtain the necessary approved instructions for corrective action and accomplish those instructions accordingly.
+
+Ref. Publications: All Operators Telex A330-52A3084 dated 20 December 2010 All Operators Telex A330-52A3085 dated 20 December 2010 All Operators Telex A340-52A4091 dated 20 December 2010 All Operators Telex A340-52A4092 dated 20 December 2010 EASA Form 110 Page 2/3
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2011-0007R1 Airbus Service Bulletin A330-52-3044 at Original Issue Airbus Service Bulletin A340-52-4054 at Original Issue. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The required actions and the risk allowance have granted the issuance of a Final AD with Request for Comments, postponing the public consultation process after publication. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification . Directorate, EASA. E-mail: ADs@easa.europa.eu 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAL; . E-mail: airworthiness.A330-A340@airbus.com d e d e s r e p u S EASA Form 110 Page 3/3

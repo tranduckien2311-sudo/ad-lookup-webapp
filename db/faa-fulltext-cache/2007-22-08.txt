@@ -1,0 +1,325 @@
+[Federal Register Volume 72, Number 207 (Friday, October 26, 2007)]
+[Rules and Regulations]
+[Pages 60762-60764]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E7-20913]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-28976; Directorate Identifier 2007-NE-28-AD; 
+Amendment 39-15244; AD 2007-22-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc (RR) RB211 Trent 768-
+60, 772-60, 772B-60, and 772C-60 Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for the 
+products listed above. This AD results from mandatory continuing 
+airworthiness information (MCAI) provided by the aviation authority for 
+the United Kingdom to identify and correct an unsafe condition on an 
+aviation product. The MCAI states the following:
+
+    This action is necessary following the discovery of IP 
+Compressor Rotor stage 2-3 interstage spacer cracking on an in-
+service Trent 700 engine. Stress analysis of the damaged rotor has 
+shown a possible threat to the rotor integrity, the cracking 
+therefore presents a potential unsafe condition. The cause of the 
+cracking is currently under investigation.
+
+We are issuing this AD to detect cracks in the stage 2-3 interstage 
+spacer of the intermediate pressure (IP) Compressor Rotor. Cracking of 
+the stage 2-3 interstage spacer could result in an uncontained engine 
+failure and damage to the airplane.
+
+DATES: This AD becomes effective November 13, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of RR service bulletins (SBs) RB.211-72-AE753, Revision 1, 
+dated May 24, 2005, and RB.211-72-AF197, dated December 20, 2006, 
+listed in the AD as of November 13, 2007.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Government-wide rulemaking Web site: Go to http://www.regulations.gov and follow the instructions for sending your 
+comments electronically.
+     Mail: Docket Management Facility, U.S. Department of 
+Transportation, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey, Avenue, SE., Washington, DC 20590-0001.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+     Fax: (202) 493-2251.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is the same as 
+the Mail address provided in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Christopher Spinney, Aerospace 
+Engineer, Engine Certification Office, FAA, Engine & Propeller 
+Directorate, 16 New England Executive Park, Burlington, MA 01803; e-
+mail: [email protected]; telephone (781) 238-7175; fax (781) 
+238-7199.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2007-0136, dated May 14, 2007, to correct an 
+unsafe condition for the specified products. The EASA AD states:
+
+    This Airworthiness Directive requires inspections for cracks in 
+the stage 2-3 interstage spacer of the IP Compressor Rotor during 
+shop visit.
+    This action is necessary following the discovery of IP 
+Compressor Rotor stage 2-3 interstage spacer cracking on an in-
+service Trent 700 engine. Stress analysis of the damaged rotor has 
+shown a possible threat to the rotor integrity, the cracking 
+therefore presents a potential unsafe condition. The cause of the 
+cracking is currently under investigation.
+
+You may obtain further information by examining the EASA AD in the AD 
+docket.
+
+Relevant Service Information
+
+    Rolls-Royce plc has issued Service Bulletins RB.211-72-AE753, 
+Revision 1, dated May 24, 2005, and RB.211-72-AF197, dated December 20, 
+2006. The actions described in that service information are intended to 
+correct the unsafe condition identified in the EASA AD.
+
+FAA's Determination and Requirements of this AD
+
+    This product has been approved by the aviation authority of the 
+United Kingdom, and is approved for operation in the United States. 
+Pursuant to our bilateral agreement with the United Kingdom, they have 
+notified us of the unsafe condition described in the EASA AD and 
+service information referenced above. We are issuing this AD because we 
+evaluated all the information provided by the EASA and determined the 
+unsafe condition exists and is likely to exist or develop on other 
+products of the same type design. We are issuing this AD to detect 
+cracks in the stage 2-3 interstage spacer of the IP Compressor Rotor. 
+Cracking of the stage 2-3 interstage spacer could result in an 
+uncontained engine failure and damage to the airplane. This AD requires 
+inspecting the stage 2-3 interstage spacer using an eddy current 
+inspection process at every shop visit. You must use the service 
+information described previously to perform the actions required by 
+this AD.
+
+FAA's Determination of the Effective Date
+
+    Although no airplanes that are registered in the United States use 
+these engines, the possibility exists that the engines could be used on 
+airplanes that are registered in the United States in the future. The 
+unsafe condition described previously is likely to exist or develop on 
+other RR RB211 Trent 768-60, 772-60, 772B-60, and 772C-60 turbofan 
+engines of the same type design. Therefore, we determined that notice 
+and opportunity for public comment before issuing this AD are 
+unnecessary and that good cause exists for making this amendment 
+effective in fewer than 30 days.
+
+[[Page 60763]]
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2007-28976; Directorate 
+Identifier 2007-NE-28-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD because of 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979); and
+    3. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+2007-22-08 Rolls-Royce plc: Amendment 39-15244; Docket No. FAA-2007-
+28976; Directorate Identifier 2007-NE-28-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective November 
+13, 2007.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Rolls-Royce plc RB211 Trent 768-60, 772-
+60, 772B-60, and 772C-60 turbofan engines. These engines are 
+installed on, but not limited to, Airbus A330 series airplanes.
+
+Reason
+
+    (d) This action is necessary following the discovery of IP 
+Compressor Rotor stage 2-3 interstage spacer cracking on an in-
+service Trent 700 engine. Stress analysis of the damaged rotor has 
+shown a possible threat to the rotor integrity, the cracking 
+therefore presents a potential unsafe condition. The cause of the 
+cracking is currently under investigation.
+    We are issuing this AD to detect cracks in the stage 2-3 
+interstage spacer of the IP Compressor Rotor. Cracking of the stage 
+2-3 interstage spacer could result in an uncontained engine failure 
+and damage to the airplane.
+
+Actions and Compliance
+
+    (e) Inspect the IP compressor drum stage 2-3 interstage spacer 
+for cracking at every shop visit as follows:
+
+Inspection In-shop
+
+    (1) If the IP Compressor rotor is not removed from the IP 
+Compressor Casing, inspect the IP compressor drum stage 2-3 
+interstage spacer by borescope in accordance with Rolls-Royce RB211 
+Propulsion System Alert Non Modification Service Bulletin RB211-72-
+AE753 revision 1, section 3 Accomplishment Instructions (paragraphs 
+F and G are applicable in revision 1).
+    (2) If the IP Compressor rotor is removed from the IP Compressor 
+Casing inspect the IP compressor drum stage 2-3 interstage spacer by 
+Eddy Current Inspection in accordance with Rolls-Royce RB211 
+propulsion System Alert Non Modification Service Bulletin RB211-72-
+AF197 initial issue, section 3 accomplishment Instructions.
+    (3) IP compressor drums on which cracking is identified by the 
+above means must be rejected from service.
+
+FAA AD Differences
+
+    (f) None.
+
+Other FAA AD Provisions
+
+    (g) Alternative Methods of Compliance (AMOCs): The Manager, 
+Engine Certification Office, FAA, has the authority to approve AMOCs 
+for this AD, if requested using the procedures found in 14 CFR 
+39.19.
+
+Related Information
+
+    (h) Refer to EASA Airworthiness Directive 2007-0136, dated May 
+14, 2007, for related information.
+    (i) Contact Christopher Spinney, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine & Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7175; fax (781) 
+238-7199, for more information about this AD.
+
+Material Incorporated by Reference
+
+    (j) You must use the service information specified in Table 1 of 
+this AD to do the actions required by this AD, unless the AD 
+specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of this service information under 5 
+U.S.C. 552(a) and 1 CFR part 51.
+    (2) For service information identified in this AD, contact 
+Rolls-Royce plc, P.O. Box 31, DERBY, DE24 8BJ, UK, telephone: 44 (0) 
+1332 242424; fax: 44 (0) 1332 249936.
+    (3) You may review copies at the FAA, New England Region, 12 New 
+England Executive Park, Burlington, MA 01803; or at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call (202) 741-6030, or go 
+to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+[[Page 60764]]
+
+
+
+                                  Table 1.--Material Incorporated by Reference
+----------------------------------------------------------------------------------------------------------------
+       Service Bulletin No.                 Page                 Revision                      Date
+----------------------------------------------------------------------------------------------------------------
+RB.211-72-AE753..................  All..................  1....................  May 24, 2005.
+RB.211-72-AF197..................  All..................  Original.............  December 20, 2006.
+----------------------------------------------------------------------------------------------------------------
+
+
+    Issued in Burlington, Massachusetts, on October 17, 2007.
+Peter A. White,
+Acting Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. E7-20913 Filed 10-25-07; 8:45 am]
+BILLING CODE 4910-13-P

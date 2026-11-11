@@ -1,0 +1,34 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2014-0019 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2014-0019 Date: 17 January 2014 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type/Model designation(s): Design Approval Holder’s Name: D Crash Position Indicator System HR Smith (Technical Developments) 15-503-134 and 15-503-134-1 series ETSO : CAA.O.0005 E Foreign AD: Not applicable D
+
+Supersedure: None E Equipment / Furnishings – Crash Position Indicator – Modification
+
+ATA 25 S Aircraft Flight Manual – Amendment R
+
+Manufacturer(s): HR Smith (Technical Developments)
+
+Applicability: HR Smith (Technical Developments) Crash Position Indicator (CPI) System E 15-503-134 and 15-503-134-1 series equipped with Control Panel part number (P/N) 503-22-() and Beacon release unit P/N 503-21 and System Interface Unit P/N 503-24-() or 503-42-(), except System Interface Unit P/N 503-24-A, or P 503-24-()-A, or 503-24-G, or 503-24-()-G, or 503-42-A or 503-42-()-A or 503-42-G or 503-42-()-G. This CPI System is known to be installed on, but not limited to the following U aircraft: - Eurocopter Models EC 155 B1, AS 365 N, AS 365 N2,AS 365 N3, AS 332 L1, AS 332 L2 and EC 225 LP, S - Eurocopter Deutschland EC 135 series, BK117-C2, - Agusta Westland A109 series, AB139 and AW139, - Sikorsky S-61N, S-76 series and S-92A, and - MD Helicopters Inc. MD900.
+
+Reason: During investigations of helicopter accidents, it was discovered that once the deployable CPI is manually selected to TRANSMIT, the CPI will not automatically deploy either by means of the g-switch or the water activated switch, unless a system reset has been performed by pressing the TEST/RESET button on the cockpit control panel. This condition, if not corrected, could delay in locating and rescuing the TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2014-0019 survivors. For the reasons described above, this AD requires temporary amendment of the aircraft flight manual (AFM) and installation of a placard. This AD also requires replacement of the System Interface Unit with improved part as a terminating measure for temporary AFM amendment and placard installation.
+
+Effective Date: 31 January 2014 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 30 days after the effective date of this AD, for aircraft equipped with Time(s): an Automatic Fixed (AF) Emergency Locator Transmitter (ELT) and a CPI, install a placard “DO NOT USE TRANSMIT OVER WATER” next to CPI control panel and amend the AFM of the affected aircraft, by inserting a copy of this AD into the Emergency Procedures Section of the AFM, to incorporate updated procedure for manual activation of the CPI System in emergency as follows, and operate the aircraft accordingly: When flying over water: D (1.1) Do not use the Beacon Transmit Switch for manual activation of the CPI, and (1.2) Use only the Deploy Beacon Switch to activate the CPI in E emergency. (2) Within 24 months after the effective date of this AD, replace the System Interface Unit P/N 503-24-() or 503-42-() with an improved part P/N D 503-24-A, or 503-24-()-A, or 503-24-G, or 503-24-()-G, or 503-42-A or 503-42-()-A or 503-42-G or 503-42-()-G (that incorporates automatic CPI deployment after manual activation) in accordance with an approved E aircraft maintenance instruction. (3) From the effective date of this AD, do not install a HR Smith (Technical Developments) CPI System series 15-503-134 or 15-503-134-1 equipped S with control panel P/N 503-22-(), Beacon Release Unit P/N 503-21 and System Interface Unit P/N 503-24-() or P/N 503-42-(), excluding System Interface Unit P/N 503-24-A, or 503-24-()-A, or 503-24-G, or 503-24-()-G, R or 503-42-A or 503-42-()-A or 503-42-G or 503-42-()-G, on an aircraft, unless in compliance with the requirements of this AD. (4) For all aircraft equipped with an AF ELT and a CPI, concurrently with the E modification of the aircraft, as required by paragraph (2) of this AD, remove AFM amendment and placard as required by paragraph (1) of this AD. P
+
+Ref. Publications: U
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. S 2. This AD was posted on 12 November 2013 as PAD 13-165 for consultation until 10 December 2013. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: Techtest Limited Street Court Kingsland Leominster TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2014-0019 Herefordshire HR6 9QA The United Kingdom Tel.: +44 01568 708744 Email: quality@hrsmith.biz. Web: http://www.hr-smith.com/. D E D E S R E P U S TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 3/3 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

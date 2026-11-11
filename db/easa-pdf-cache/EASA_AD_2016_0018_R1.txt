@@ -1,0 +1,43 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0018R1
+
+Airworthiness Directive
+
+AD No.: 2016-0018R1
+
+Issued: 14 September 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes
+
+Effective Date: Revision 1: 21 September 2016 Original issue: 02 February 2016 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable Revision: This AD revises EASA AD 2016-0018, dated 19 January 2016.
+
+ATA 32 – Landing Gear – Main Landing Gear Side Stay Assemblies – Replacement / Modification
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers.
+
+Reason: During studies for a new landing gear design, it was discovered that the single-locked upper and lower cardan joints of the Main Landing Gear (MLG) do not comply with the certification specifications of (CS, formerly JAR) Part 25.607. This condition, if not corrected, could lead to MLG side stay locking failure that, during take off and landing, may result in damage to the aeroplane and detrimental effect on safe flight. To address this potential unsafe condition, the MLG manufacturer developed a modification to change the single-locked MLG joint into a double-locked one. This modification is available for Page 1 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0018R1 in-service application through Messier-Bugatti-Dowty (MBD) Service Bulletin (SB) 200-32-315 or SB 201-32-63, or Airbus SB A320-32-1429. For the reasons described above, EASA issued AD 2016-0018 to require modification or replacement of the MLG side stay assemblies, introducing the double locking of the MLG upper and lower cardan joints. Following new engineering evaluation, this AD is revised to extend the compliance time. This revised AD also clarifies the affected Part Number (P/N) references in Appendix 1 by adding Notes, and introduces some editorial changes without affecting the requirements.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: For the purpose of this AD, the ‘affected’ MLG side stay assemblies are those identified in Appendix 1 of this AD. (1) Within 120 months after 02 February 2016 [the effective date of the original issue of this AD], modify each affected MLG side stay assembly in accordance with the instructions of MBD SB 200-32-315 or SB 201-32-63, or replace each affected MLG side stay assembly with a modified one in accordance with the instructions of Airbus SB A320-32-1429, as applicable. Note 2: Replacing a MLG on an aeroplane with a MLG which includes a MLG side stay assembly modified in accordance with the instructions of MBD SB 200-32-315 or SB 201-32-63, as applicable, is acceptable to comply with the requirements of paragraph (1) of this AD, as applicable to that MLG for that aeroplane. (2) An aeroplane on which Airbus modification (mod) 156646 or mod 161202 or mod 161346 has been embodied in production is not affected by the requirements of paragraph (1) of this AD, provided it is determined that no affected MLG side stay assembly (see Note 1 of this AD) is installed on that aeroplane. A maintenance records check is acceptable to make this determination, provided that these records are accurate and can be relied upon for that purpose. (3) Do not install on any aeroplane an affected MLG side stay assembly (see Note 1 of this AD), as required by paragraph (3.1) or (3.2) of this AD, as applicable. (3.1) For an aeroplane that has an affected MLG side stay assembly (see Note 1 of this AD) installed: After modification of the aeroplane as required by paragraph (1) of this AD. (3.2) For an aeroplane that does not have an affected MLG side stay assembly installed (see Note 1 of this AD): From the effective date of this AD. (4) Installation on an aeroplane of a MLG, or of a MLG side stay assembly, approved after the effective date of this AD, is equal to compliance with the requirements of paragraph (1) of this AD, as applicable to that MLG for that aeroplane, provided the conditions as specified in paragraphs (4.1) and (4.2) of this AD are met. Page 2 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0018R1 (4.1) The MLG standard must be approved by EASA, or approved under Airbus Design Organisation Approval (DOA); and (4.2) The installation must be accomplished in accordance with aeroplane modification instructions approved by EASA, or approved under Airbus DOA.
+
+Ref. Publications: Airbus SB A320-32-1429 original issue dated 10 September 2015, or Revision 01 dated 29 February 2016. Messier-Bugatti-Dowty SB 200-32-315 dated 24 April 2015. Messier-Bugatti-Dowty SB 201-32-63 dated 24 April 2015. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. The original issue of this AD was posted on 29 October 2015 as PAD 15-135 for consultation until 26 November 2015. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. Page 3 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2016-0018R1 Appendix 1 – MLG Side Stay Assemblies to be modified / replaced P/N Range Strike number Note(s) Applicability not cancelled Ref. From to 201166001-xxx 12 201166002-xxx 12 201166003-xxx 12 201166004-xxx 12 201166005-xxx 12 201166006-xxx 12 A1 201166007-xxx 12 A318, A319 and A320 201166008-xxx 12 201166009-xxx 12 201166010-xxx 12 201166011-xxx 12 201166012-xxx 12 201166013-000 201166013-030 12 201166014-000 201166014-030 12 201390001-000 201390001-040 15 201390002-000 201390002-040 15 A321-100 201527001-000 201527001-025 15 A2 and A3 201527002-000 201527002-025 15 201524001-000 201524001-035 15 201524002-000 201524002-035 15 A321-200 201660001-000 201660001-030 15 201660002-000 201660002-030 15 Note A1: The ‘xxx’ used in the table above can be any 3-digit combination. It may be possible to find units having a P/N with no dash number after the first 9 digits: these units are also affected. Note A2: Units having a P/N with no dash number after the first 9 digits are also affected. Note A3: Units having a P/N with the first 9 digits listed in this Appendix 1, and a dash number higher than those listed, are not affected by the requirements of this AD. Page 4 of 4 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

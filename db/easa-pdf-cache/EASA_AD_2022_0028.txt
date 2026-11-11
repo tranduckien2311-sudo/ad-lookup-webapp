@@ -1,0 +1,54 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2022-0028
+
+Airworthiness Directive
+
+AD No.: 2022-0028
+
+Issued: 22 February 2022 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320 and A321 aeroplanes
+
+Effective Date: 08 March 2022 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2021-0150 dated 21 June 2021, including its correction dated 25 June 2021. ATA – Aircraft Flight Manual / Section Normal Procedures – Amendment
+
+ATA 34 – Navigation – Master Minimum Equipment List – Integrated Standby Instrument System – Amendment
+
+ATA 27 – Flight Controls – Elevator Aileron Computer System - Modification
+
+Manufacturer(s): Airbus
+
+Applicability: Airbus A319-151N, A319-153N, A319-171N, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-273N, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N and A321-272NX aeroplanes, all manufacturer serial numbers.
+
+Definitions: For the purpose of this AD, the following definitions apply: The AFM TR: Airbus A319/A320/A321 Airplane Flight Manual (AFM) Temporary Revision (TR) 787 Issue 1. Page 1 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2022-0028 The MMEL TR: Airbus A318/A319/A320/A321 Master Minimum Equipment List (MMEL) item 34-23-02B update, ident. MI-34-23-00008619.0009001 dated 18 June 2021. The SB: Airbus Service Bulletin (SB) A320-27-1288. Affected ELAC: Elevator aileron computer (ELAC) standard as listed in Appendix 1 of this AD. Serviceable ELAC: ELAC standard 103+, having Part Number (P/N) 3945129117 (data loadable) or P/N 3945128223 (non data loadable), or any later approved standards. Groups: Group 1 aeroplanes are those that have an affected ELAC installed. Group 2 aeroplanes are those that do not have an affected ELAC installed. An aeroplane on which Airbus modification (mod) 169275 has been embodied in production is a Group 2 aeroplane, provided no affected ELAC is installed on that aeroplane.
+
+Reason: EASA and Airbus issued various pieces of communication (respectively EASA Safety Information Bulletin (SIB) 2020-14, Airbus Operators Information Transmission (OIT) 999.0048/20, Airbus Operational Training Transmission (OTT) 999.0025/21, and Airbus Flight Operations Transmission (FOT) 999.0020/21) to remind operators to apply appropriate protection measures when an aeroplane is parked or stored (even for short periods of time), and to follow recognised manufacturer’s procedures to check the Air Data Probes prior to return to service after such parking/storage. Notwithstanding the above, an increasing number of operational disruptions due to airspeed discrepancies have been reported. Prompted by investigations performed as part of continuous development, computational simulations identified that the occurrence on the A320neo family of ‘consistent erroneous airspeed indications’ (which stands for 2 or 3 pitot probes delivering erroneous speed information within the same speed range) may affect the aeroplane’s response, in particular during the rotation phase. This condition has not been encountered during operations. This condition, if not corrected, could lead to an unstable flight path after take-off, possibly resulting in reduced control of the aeroplane. To address this potential unsafe condition, Airbus issued the AFM TR, reinforcing the airspeed check during the take-off phase and providing instructions to abort take-off in case of unreliable airspeed situation is detected, and the MMEL TR, requiring that the Integrated Standby Instrument System (ISIS) Airspeed Indication must be operative to allow this detection. Airbus also issued FOT 999.0042/21 and RED Operations Engineering Bulletin (OEB) 59, providing reinforced aeroplane speed check instructions during take-off. Consequently, EASA issued AD 2021-0150, later corrected, to require amendment of the applicable AFM by incorporating the AFM TR, and the implementation of the MMEL TR. Since that AD was issued, Airbus developed mod 169275 to correct the abovementioned potential unsafe condition. Page 2 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2022-0028 For the reason described above, this AD retains the requirements of EASA AD 2021-0150, which is superseded, and requires the installation of a new ELAC standard upgrade. This AD also requires, following that new ELAC upgrade, the removal of the AFM TR and of the MMEL TR from the applicable AFM and MMEL.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Re-statement of the Requirements of EASA AD 2021-0150: AFM Amendment: (1) For Group 1 aeroplanes: Within 7 days after 28 June 2021 [the effective date of EASA AD 2021- 0150], amend the applicable AFM by incorporating the AFM TR, inform all flight crews, and, thereafter, operate the aeroplane accordingly. (2) For Group 1 aeroplanes: Amending the applicable AFM of an aeroplane by incorporating a later AFM revision, which includes the same content as the AFM TR, is acceptable to comply with the requirements of paragraph (1) of this AD for that aeroplane. MMEL Amendment: (3) For Group 1 aeroplanes: Concurrently with the AFM amendment as required by paragraph (1) of this AD, implement the instructions of the MMEL TR, as defined in this AD, on the basis of which the operator’s MEL must be amended, inform all flight crews, and, thereafter, operate the aeroplane accordingly. New Requirements of this AD: Modification: (4) For Group 1 aeroplanes: Within 9 months after the effective date of this AD, replace each affected ELAC with serviceable ELAC in accordance with the instructions of the SB. AFM and MMEL Change: (5) Within 3 months after modification of an aeroplane as required by paragraph (4) of this AD, or after the effective date of this AD, whichever occurs later, remove the AFM TR, as required by paragraph (1) of this AD, and the instructions implementation of the MMEL TR, as required by paragraph (3) of this AD, from the AFM and MEL of that aeroplane, inform all flight crews, and, thereafter, operate the aeroplane accordingly. Parts Installation: (6) Do not install an affected ELAC on any aeroplane, as required by paragraph (6.1) or (6.2) of this AD, as applicable. (6.1) For Group 1 aeroplanes: After modification of the aeroplane as required by paragraph (4) of this AD. (6.2) For Group 2 aeroplanes: From the effective date of this AD. Page 3 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2022-0028
+
+Ref. Publications: Airbus A319/A320/A321 AFM TR 787 Issue 1, EASA approval date 17 June 2021. Airbus A318/A319/A320/A321 MMEL item 34-23-02B update, ident. MI-34-23-00008619.0009001, dated 18 June 2021. Airbus SB A320-27-1288 original issue dated 15 October 2021. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 12 January 2022 as PAD 22-002 for consultation until 09 February 2022. The Comment Response Documents can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 4 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2022-0028 Appendix 1 – List of Affected ELAC Part Number Designation FIN 3945129110 ELAC soft std L98 data loadable 3945129111 ELAC soft std L99 data loadable 2CE1 SW1 3945129112 ELAC soft std L101 data loadable 2CE2 SW1 3945129114 ELAC soft std L102 data loadable 3945129115 ELAC soft std L103 data loadable 3945128216 ELAC L98 non data loadable 3945128217 ELAC L99 non data loadable 2CE1 3945128218 ELAC L101 non data loadable 2CE2 3945128220 ELAC L102 non data loadable 3945128221 ELAC L103 non data loadable Page 5 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

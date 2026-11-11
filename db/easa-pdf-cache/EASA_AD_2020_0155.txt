@@ -1,0 +1,52 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0155
+
+Airworthiness Directive
+
+AD No.: 2020-0155
+
+Issued: 14 July 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A320, A321, A330 and A350 aeroplanes
+
+Effective Date: 21 July 2020 TCDS Number(s): EASA.A.004, EASA.A.064 and EASA.A.151 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 23, 44 – Communications / Cabin Systems – Removable Display Unit and Display Docking Station Attachment Interface – Operational Restriction / Inspection
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A320-251N, A320-271N, A321-251N, A321-252NX, A321-271N, A321-271NX and A321-272N aeroplanes, manufacturer serial numbers (MSN) 7486, 7535, 7567, 7634, 7663, 7697, 7839, 7881, 7891, 8090, 8095, 8106, 8117, 8150, 8187, 8212, 8229, 8242, 8277, 8291, 8349, 8483, 8484, 8524, 8552, 8568, 8619, 8626, 8755, 8813, 8837, 8860, 8866, 8876, 8933, 8980, 9087, 9119, 9131, 9147, 9198, 9208, 9303, 9314, 9419, 9505 and 9574; Airbus A330-243, A330-343 and A330-941 aeroplanes, MSN 0990, 1003, 1035, 1449, 1456, 1460, 1463, 1467, 1475, 1482, 1504, 1820, 1828, 1832, 1872, 1878, 1910, 1923, 1929, 1937 and 1938; and Airbus A350-941 and A350-1041 aeroplanes, MSN 0005, 0065, 0193, 0221, 0228, 0236, 0243, 0274, 0280, 0293, 0298, 0303, 0318, 0319, 0325, 0331, 0334, 0336, 0339, 0347, 0349, 0357 to 0359 inclusive, 0376, 0378, 0381, 0391 and 0400. Page 1 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0155
+
+Definitions: For the purpose of this AD, the following definitions apply: The applicable AOT: Airbus Alert Operators Transmission (AOT) A23N002-20 (A320/A321 aeroplanes), AOT A23L001-20 (A330 aeroplanes) and AOT A44P001-20 (A350 aeroplanes), as applicable. Affected part: Display docking stations (DDS) for removable display units (RDU), having a Part Number (P/N) as listed in Appendix 1 of this AD. Affected location: Zone 200, location where baby bassinet or cabin attendant seat (CAS) are present and where an affected part is installed.
+
+Reason: In-service occurrences were reported of RDU found undocked from the DDS hosting them. Further investigation identified that incorrect RDU installation or damaged DDS had caused these events. Potentially affected aeroplanes (MSN) were identified. This condition, if not detected and corrected, could lead to detachment of an RDU, possibly resulting in injury to aeroplane occupants. To address this potential unsafe condition, Airbus issued the applicable AOT to provide instructions for inspection of the affected parts. For the reasons described above, this AD requires removal of the RDU or the implementation of an operational restriction, and a one-time inspection of the RDU installation onto the DDS and, depending on findings, accomplishment of applicable corrective action(s). Following accomplishment of the inspection (without findings), or of the corrective action(s), as applicable, the operational restriction can be removed or the RDU can be reinstalled.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Operational Restriction / Removal of RDU: (1) Within 14 days after the effective date of this AD, for all affected locations, as defined in this AD, accomplish the action as specified in paragraph (1.1), or the action specified in paragraph (1.2) of this AD, in accordance with the instructions of the applicable AOT. (1.1) Mark the baby bassinet attachment points or CAS as inoperative. (1.2) Remove the RDU. Inspection: (2) Within the compliance times specified in Table 1 of this AD, as applicable, accomplish a one-time inspection of each affected part, as defined in this AD, in accordance with the instructions of the applicable AOT. Page 2 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0155 Table 1 – Inspection Compliance Time (whichever occurs later Aeroplanes after the effective date of this AD) A320 and A321 750 flight hours (FH) or 2 months A330 and A350 1 000 FH or 2 months Corrective Action(s): (3) If, during the inspection as required by paragraph (2) of this AD, any discrepancies (as defined in the applicable AOT) are found, before next flight, accomplish the applicable corrective action(s) in accordance with the instructions of the applicable AOT. Removal of Operational Restriction: (4) For an aeroplane on which the baby bassinet attachment points or CAS were marked as inoperative, as specified in paragraph (1.1) of this AD: After passing the inspection (no discrepancies found) as required by paragraph (2) of this AD, or, depending on findings, accomplishment of applicable corrective action(s) on an aeroplane, as required by paragraph (3) of this AD, the operational restriction as implemented by paragraph (1.1) of this AD is no longer necessary and can be removed from that aeroplane. RDU Reinstallation: (5) For an aeroplane on which an RDU was removed from an affected location, as specified in paragraph (1.2) of this AD: After passing the inspection (no discrepancies found) as required by paragraph (2) of this AD, or, depending on findings, accomplishment of applicable corrective action(s) on an aeroplane, as required by paragraph (3) of this AD, an RDU can be reinstalled on the affected location on that aeroplane.
+
+Ref. Publications: Airbus AOT A23N002-20 original issue dated 17 June 2020. Airbus AOT A23L001-20 original issue dated 20 April 2020. Airbus AOT A44P001-20 original issue dated 20 April 2020. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. Page 3 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2020-0155 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact AIRBUS, as specified below: IIASA Airworthiness Office; E-mail: account.airworth-eas@airbus.com. IIAL Airworthiness Office E-mail: airworthiness.A330-A340@airbus.com. IIAK Airworthiness Office E-mail: continued.airworthiness.a350@airbus.com. Page 4 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 5 ---
+EASA
+
+AD No.: 2020-0155 Appendix 1 - RDU P/N 00-5120-01 00-5120-02 00-5123-01 00-5123-02 00-5124-01 00-5124-02 00-5125-01 00-5125-02 00-5127-01 00-5127-02 Page 5 of 5 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

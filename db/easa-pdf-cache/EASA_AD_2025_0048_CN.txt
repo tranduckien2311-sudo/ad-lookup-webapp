@@ -1,0 +1,31 @@
+--- PAGE 1 ---
+EASA AD Cancellation Notice No.: 2025-0048-CN
+
+Airworthiness Directive Cancellation Notice
+
+AD No.: 2025-0048-CN
+
+Issued: 21 February 2025 Note: This
+
+Airworthiness Directive (AD) Cancellation Notice (CN) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines
+
+Effective Date: 21 February 2025 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable Cancellation: This AD-CN cancels CAA UK AD 003-12-2001 dated 01 December 2001.
+
+ATA 72 – CANCELLED: Engine – High Pressure Drum – Life Management
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: RB211 Trent 768-60, 772-60 and 772B-60 engines. These engines are known to be installed on, but not limited to, Airbus A330 aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part(s): High-pressure compressor (HPC) rotor shafts having Part Number (P/N) FK24031 in pre-Service Bulletin (SB) RB211-72-B172 configuration; P/N FK22745 in post-SB RB211-72-B172 configuration; P/N FK23313 in post-SB RB211-72-B261 and pre-SB RB211-72-B653 configuration; P/N FK25502 in post-SB RB211-72-B653 configuration; P/N FK26185 in post-SB RB211-72-B921 configuration; P/N FK32129 in post-SB RB211-72-C746 configuration; P/N FW20195 in post-SB RB211-72-D533 configuration; P/N FW20196 in post-SB RB211-72-D533 configuration; P/N FW20197 in post-SB RB211-72-D533 configuration; or P/N FW20638 in post-SB RB211-72-D533 configuration. The NMSB: Rolls-Royce Non-Mandatory Service Bulletin (NMSB) RB211-72-D586. Page 1 of 2 TE.CAP.00116-008 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA AD Cancellation Notice No.: 2025-0048-CN
+
+Reason: Cracking of the affected parts were reported in the area of the blade loading slots. The subsequent investigation determined the need to reduce the declared life of the affected parts. This condition, if not corrected, could lead to structural failure of the affected part and subsequent release of high energy debris, possibly resulting in damage to, or reduced control of, the aeroplane. To address this potential unsafe condition, Rolls-Royce issued the original issue of the NMSB RB211-72-D586 to reduce the life limit for the affected parts and, consequently, the Civil Aviation Authority of the United Kingdom (CAA UK) issued AD 003-12-2001 (adopted by EASA) to require implementation of that action. Since that AD was issued, Rolls-Royce issued Revision 2 of the NMSB RB211-72-D586 confirming that all the affected parts have incorporated SB RB211-72-E106, RB211-73-G279 and RB211-72-G612, respectively, and are not affected anymore by the unsafe condition addressed by CAA UK AD 003-12-2001. This Notice, therefore, cancels CAA UK AD 003-12-2001.
+
+Required Action(s) and Compliance Time(s): None.
+
+Ref. Publications: Rolls-Royce NMSB RB211-72-D586 original issue 10 December 2001, or Revision 1 dated 26 February 2002, or Revision 2 dated 09 December 2024.
+
+Remarks: 1. This AD-CN was posted on 20 January 2025 as PAD 25-015-CN for consultation until 17 February 2025. No comments were received during the consultation period. 2. Enquiries regarding this AD-CN should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 3. For any question concerning the technical content of this AD-CN, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. Page 2 of 2 TE.CAP.00116-008 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

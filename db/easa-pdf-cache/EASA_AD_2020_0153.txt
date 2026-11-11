@@ -1,0 +1,42 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2020-0153
+
+Airworthiness Directive
+
+AD No.: 2020-0153
+
+Issued: 10 July 2020 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320 and A321 aeroplanes
+
+Effective Date: 24 July 2020 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: This AD supersedes EASA AD 2014-0177 dated 25 July 2014.
+
+ATA 53 – Fuselage – Rear Fuselage Clips, Shear Webs and Angles – Replacement
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, all manufacturer serial numbers, except those on which Airbus modification 30975 has been embodied in production.
+
+Definitions: For the purpose of this AD, the following definitions apply: Affected part: Clips, shear webs and angles at rear fuselage section 19, Frame (FR)72 and FR74. The SB: Airbus Service Bulletin (SB) A320-53-1266. The modification SB: Airbus SB A320-53-1363.
+
+Reason: During the A320 fatigue test campaign for Extended Service Goal (ESG), it was determined that fatigue damage could appear on affected parts. Page 1 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2020-0153 This condition, if not detected and corrected, could affect the structural integrity of the aeroplane. To address this potential unsafe condition, Airbus published the SB, providing instructions to replace affected parts, which allows an aeroplane to be operated up to the new ESG limit. Consequently, EASA issued AD 2014-0177 requiring that replacement. For aeroplanes having accomplished the SB before accumulating 30 000 flight cycles (FC) or 60 000 flight hours (FH), that AD also required a further replacement of affected parts. Since that AD was issued, it has been determined that the SB cannot be accomplished twice on the same aeroplane. Consequently, Airbus issued the modification SB to provide relevant instructions. For the reasons described above, this AD partially retains the requirements of EASA AD 2014-0177, which is superseded, and requires accomplishment of the modification SB.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Modification: (1) Before exceeding 48 000 FC or 96 000 FH, whichever occurs first since aeroplane first flight, but not before exceeding 30 000 FC or 60 000 FH, whichever occurs first since aeroplane first flight, replace the affected parts in accordance with the instructions of the SB. (2) Within 49 600 FC or 99 300 FH, whichever occurs first after replacement of affected parts as required by paragraph (1) of this AD, but not before exceeding 66 900 FC or 133 800 FH, whichever occurs first since aeroplane first flight, replace the affected parts in accordance with the instructions of the modification SB.
+
+Ref. Publications: Airbus SB A320-53-1266 original issue dated 11 January 2013, or Revision 01 dated 20 June 2013, or Revision 02 dated 13 August 2014, or Revision 03 dated 07 May 2015, or Revision 04 dated 07 June 2016, or Revision 05 dated 24 March 2017, or Revision 06 dated 30 November 2017, or Revision 07 dated 18 May 2018, or Revision 08 dated 11 January 2019, or Revision 09 dated 25 February 2019. Airbus SB A320-53-1363 original issue dated 03 March 2020. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 28 May 2020 as PAD 20-088 for consultation until 25 June 2020. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD. Page 2 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2020-0153 3. Enquiries regarding this AD should be referred to the EASA Programming and Continued Airworthiness Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – IIASA; E-mail: account.airworth-eas@airbus.com. Page 3 of 3 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

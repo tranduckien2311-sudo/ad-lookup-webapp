@@ -1,0 +1,15 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 98-509-123(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 Aircraft Central fuselage : Frame and frame feet with frames at FR37 thru FR41 (ATA 53) 1. APPLICABILITY : AIRBUS INDUSTRIE A319, A320 and A321 all certified models, all serial numbers without AIRBUS INDUSTRIE modifications 25896 or 25592 or 25593 in production or AIRBUS INDUSTRIE Service Bulletins A320-53-1128. 2. REASON : Between frames FR37 and FR41, during inspection program of fastener holes of frame feet left and right hand sides as per Service Bulletin A320-53-1025, cracks were found around fastener holes. 3. ACTION : 1. Inspect frames and frame feet in accordance with thresholds and instructions defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1141 and apply if necessary corrective actions. 2. Repeat the inspection at intervals as defined in AIRBUS INDUSTRIE Service Bulletin A320-53-1141 until accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-53-1128. The total application of Service Bulletin A320-53-1128 cancels the requirements of this
+
+Airworthiness Directive. REF. : Service Bulletin AIRBUS INDUSTRIE A320-53-1128 (or any further approved revision) Service Bulletin AIRBUS INDUSTRIE A320-53-1141 (or any further approved revision). This
+
+Airworthiness Directive cancels and replaces
+
+Airworthiness Directive 95-101-069(B) issued May 24, 1995. AIRBUS INDUSTRIE December 16, 1998 98-509-123(B) A319-A320/A321 Aircraft
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 98-509-123(B) Page n° 2 EFFECTIVE DATE : DECEMBER 26, 1998 n/JJD

@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-004(AB) In case of any difficulty, reference should be made to the French original issue. SICMA AERO SEAT Cabin attendant seats (Formerly FARNER) Installation of protection plates (ATA 25) 1. APPLICABILITY This
+
+Airworthiness Directive applies to FARNER cabin attendant seats series 150 type WN and 151 type FN, all part numbers, all serial numbers. These seats are identical to 150 and 151 series SICMA seats subject of
+
+Airworthiness Directive 98- 341(B) R1. They are labelled with a manufacturer placard FARNER, as initially the two manufacturers SICMA and FARNER were making identical products. As FARNER stopped its production, airworthiness follow up is to this day performed by SICMA AERO SEAT. These attendant seats can be found on AIRBUS INDUSTRIE A320 series aircraft, but not limited to. 2. REASONS The bottom seat mechanism of the seat has a gap where children can have fingers trapped and injured while trying to unfold the seat. The aim of this
+
+Airworthiness Directive is to render mandatory the installation of plates concealing this gap and thus avoid contact with the bottom folding mechanism. 3. COMPLIANCE Before March 31, 1999, install on each affected cabin attendant seat two protection fairings P/N 160100-49 as per instruction given in paragraph 2 of SICMA AEROSEAT : ◊ Service Bulletin 150-25-036 ◊ Service Bulletin 151-25-037 and replace the existing identification placard with a new one as per instructions given in paragraph 3 of the applicable service bulletin. Note : Alternative means of compliance For AIRBUS INDUSTRIE aircraft A320, aircraft, accomplishment of AIRBUS INDUSTRIE Service Bulletin A320-25-1208 Revision 1 is accepted as an alternative means of compliance to this
+
+Airworthiness Directive. n/GH .../... SICMA AERO SEATS January 13, 1999 1999-004(AB) Cabin attendant seats (Formenty FARNER)
+
+--- PAGE 2 ---
+GSAC AIRWORTHINESS DIRECTIVE ref. : 1999-004(AB) Page n° 2 4. REFERENCES SICMA AERO SEAT Service Bulletin 150-25-036 SICMA AERO SEAT Service Bulletin 151-25-037 AIRBUS INDUSTRIE Service Bulletin A320-25-1208 R1. EFFECTIVE DATE : JANUARY 23, 1999

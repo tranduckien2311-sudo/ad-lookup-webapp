@@ -1,0 +1,395 @@
+[Federal Register Volume 90, Number 22 (Tuesday, February 4, 2025)]
+[Rules and Regulations]
+[Pages 8901-8903]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-02134]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-1294; Project Identifier MCAI-2024-00042-T; 
+Amendment 39-22921; AD 2024-26-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2022-16-
+06, which applied to certain Airbus SAS Model A330-200, A330-200 
+Freighter, A330-300, and A330-900 series airplanes; and all Model A340-
+200 and A340-300 series airplanes. AD 2022-16-06 required modifying the 
+trimmable horizontal stabilizer actuator (THSA) installation, 
+implementing the electrical load sensing device (ELSD) wiring 
+provisions, and installing and activating the ELSD. This AD was 
+prompted by tests that demonstrated that when the upper secondary load 
+path (SLP) of the THSA is engaged, the THSA might not stall, with 
+consequently no indication of SLP engagement, and by the recent 
+determination that the required actions of AD 2022-16-06 cannot be 
+accomplished on certain airplanes. This AD continues to require the 
+actions in AD 2022-16-06 with revised procedures, and also requires 
+additional actions for certain airplanes, as specified in a European 
+Union Aviation Safety Agency (EASA) AD, which is incorporated by 
+reference. The FAA is issuing this AD to address the unsafe condition 
+on these products.
+
+DATES: This AD is effective March 11, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 11, 
+2025.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-1294; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 
+000; email [email protected]; website easa.europa.eu. You may find 
+this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2024-1294.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 206-231-3229; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2022-16-06, Amendment 39-22135 (87 FR 
+51588, August 23, 2022) (AD 2022-16-06). AD 2022-16-06 applied to 
+certain Airbus SAS Model A330-201, -202, -203, -223, -223F, -243, -
+243F, -301, -302, -303, -321, -322, -323, -341, -342, -343, and -941 
+airplanes; and all Model A340-211, -212, -213, -311, -312, and -313 
+airplanes. AD 2022-16-06 required modifying the THSA installation, 
+implementing the ELSD wiring provisions, and installing and activating 
+the ELSD. The FAA issued AD 2022-16-06 to address damage on the upper 
+THSA SLP attachment with consequent mechanical disconnection of the 
+THSA, possibly resulting in loss of control of the airplane.
+    The NPRM published in the Federal Register on May 13, 2024 (89 FR 
+41365). The NPRM was prompted by AD 2024-0016, dated January 11, 2024, 
+issued by EASA, which is the Technical Agent for the Member States of 
+the European Union (EASA AD 2024-0016) (also referred to as the MCAI). 
+The MCAI states it has been determined that the actions specified in 
+EASA AD 2022-0039 cannot be accomplished on certain affected airplanes. 
+Airbus subsequently developed additional instructions and corrections 
+for the procedures. In certain circumstances, there may be no 
+indication to the flightcrew of the engagement of the upper SLP of the 
+THSA. This condition, if not addressed, could lead to damage on the 
+upper THSA SLP attachment with consequent mechanical disconnection of 
+the THSA, resulting in loss of control of the airplane.
+    In the NPRM, the FAA proposed to continue to require modifying the 
+THSA installation, implementing the ELSD wiring provisions, and 
+installing and activating the ELSD, as specified in FAA AD 2022-16-06 
+and EASA AD 2022-0039, with revised procedures and additional actions, 
+as specified in EASA AD 2024-0016. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-1294.
+
+[[Page 8902]]
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received a comment from the Air Line Pilots Association, 
+International (ALPA), who supported the NPRM without change.
+    The FAA received an additional comment from Delta Air Lines 
+(Delta). The following presents that comment and the FAA's response.
+
+Request for Clarification of Mandatory Service Information
+
+    The proposed AD would adopt EASA AD 2024-0016, which requires 
+certain actions in accordance with a specific revision of Airbus 
+Service Bulletin A330-27-3237, depending on the airplane serial number, 
+and allows use of later-approved revisions. Delta requested that the 
+FAA clarify the effect of any potential changes, including rework, that 
+are proposed to be included in the forthcoming Revision 03 of Service 
+Bulletin A330-27-3237. According to Delta, Airbus has indicated that 
+Revision 03 will require additional work for any airplane modified by 
+Airbus Service Bulletin A330-27-3237, Revision 01, dated June 20, 2023, 
+or Revision 02, dated February 9, 2024. Delta added that Airbus planned 
+to issue Revision 03 by the end of June 2024.
+    The FAA provides the following clarification. Revision 03 of Airbus 
+Service Bulletin A330-27-3237 has not been released by Airbus. EASA has 
+informed the FAA of ongoing discussions with Airbus regarding the scope 
+of additional work, the timeline for release of Revision 03 of that 
+service bulletin, and a potential revision to EASA AD 2024-0016. If 
+EASA issues a new AD because it is determined that additional work is 
+needed to address the unsafe condition, then the FAA may consider 
+further rulemaking at that time. This AD requires accomplishing the 
+actions specified in EASA AD 2024-0016. The specific revisions of the 
+service bulletins referenced in EASA AD 2024-0016, as well as later-
+approved revisions of those service bulletins, are acceptable methods 
+of compliance for accomplishing the requirements of this AD. If an 
+operator elects to use a later-approved revision of a service bulletin, 
+then all the actions identified as ``RC'' (required for compliance) in 
+that service bulletin must be accomplished, unless alternative actions 
+are approved under the provisions of paragraph (i) of this AD. The FAA 
+has not changed this AD as a result of this comment.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, this AD is adopted as proposed in the NPRM. None of the 
+changes will increase the economic burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2024-0016 specifies procedures for installing and 
+activating the ELSD and wiring provisions, and doing additional work 
+that includes additional instructions and corrections for certain 
+airplanes. This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 120 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                   Labor cost          Parts cost       Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD          57 work-hours x     Up to $23,000.....  Up to $27,845.....  Up to $3,341,400.
+ 2022[dash]16[dash]06.             $85 per hour =
+                                   $4,845.
+New actions.....................  5 work-hours x $85  $43,966...........  $44,391...........  Up to $5,326,920.
+                                   per hour = $425.
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator,
+
+[[Page 8903]]
+
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2022-16-06, Amendment 39-22135 
+(87 FR 51588, August 23, 2022); and
+0
+b. Adding the following new AD:
+
+2024-26-06 Airbus SAS: Amendment 39-22921; Docket No. FAA-2024-1294; 
+Project Identifier MCAI-2024-00042-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 11, 2025.
+
+(b) Affected ADs
+
+    This AD replaces AD 2022-16-06, Amendment 39-22135 (87 FR 51588, 
+August 23, 2022) (AD 2022-16-06).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes specified in paragraphs 
+(c)(1) and (2) of this AD, certificated in any category, as 
+identified in European Union Aviation Safety Agency (EASA) AD 2024-
+0016, dated January 11, 2024 (EASA AD 2024-0016).
+    (1) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, and -941 airplanes.
+    (2) Model A340-211, -212, -213, -311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Unsafe Condition
+
+    This AD was prompted by tests that demonstrated that when the 
+upper secondary load path (SLP) of the trimmable horizontal 
+stabilizer actuator (THSA) is engaged, the THSA might not stall, 
+with consequently no indication of SLP engagement, and by the recent 
+determination that the required actions of AD 2022-16-06 cannot be 
+accomplished on certain airplanes. The FAA is issuing this AD to 
+prevent damage on the upper THSA SLP attachment with consequent 
+mechanical disconnection of the THSA, that could result in loss of 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0016.
+
+(h) Exceptions to EASA AD 2024-0016
+
+    (1) Where EASA AD 2024-0016 refers to ``22 March 2022 [the 
+effective date of EASA AD 2022-0039],'' this AD requires using 
+September 27, 2022 (the effective date of AD 2022-16-06).
+    (2) Where EASA AD 2024-0016 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (3) Where paragraph (1) of EASA AD 2024-0016 applies to 
+airplanes in ``Group 1,'' this AD requires replacing that text with 
+``Group 1 airplanes, except as specified in paragraph (3)''.
+    (4) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0016.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, send it to the attention of the 
+person identified in paragraph (j) of this AD and email to: 
+[email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2022-16-06 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2024-0016 that are 
+required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 206-231-3229; email: 
+[email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0016, 
+dated January 11, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on January 28, 2025.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02134 Filed 2-3-25; 8:45 am]
+BILLING CODE 4910-13-P

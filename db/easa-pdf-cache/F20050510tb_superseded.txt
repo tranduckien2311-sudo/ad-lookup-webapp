@@ -1,0 +1,17 @@
+--- PAGE 1 ---
+Distribution: Issue date: Page : AIRWORTHINESS DIRECTIVE March 30, 2005 1/2 B No F-2005-051 Direction This
+
+Airworthiness Directive is published by the DGAC on behalf of Translation of « Consigne de Navigabilité » of same EASA, Airworthiness Authority of the State of Design for the affected générale number. product, part or appliance. In case of difficulty, reference should be made to de l’aviation the French issue. civile France No person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive, GSAC unless otherwise agreed with the Authority of the State of Registry. publication Corresponding foreign
+
+Airworthiness Directive(s):
+
+Airworthiness Directive(s) replaced: Not applicable None Person in charge of airworthiness: Type(s): AIRBUS SAS A318, A319, A320 and A321 aircraft D Type certificate(s) No. 180 TCDS No 180 ATA chapter: Subject: E 27 Flight controls - Trimmable horizontal stabilizer actuator D 1. EFFECTIVITY: E AIRBUS A318, A319, A320 and A321 all certified models, all manufactured serial numbers. S 2. REASONS: The Trimmable Horizontal Stabilizer Actuator (THSA) of the Single Aisle aircraft has been tested on rig in order to check its behaviour in case of primary load path failure. In that configuration, the loads are R transferred to the secondary nut, which should jam, preventing any THS motion. Tests have shown that the secondary nut did not jam as expected, preventing the detection of the primary E load path failure. In order to verify the integrity of the THS actuator primary load path, this
+
+Airworthiness Directive (AD) asks for two repetitive inspections allowing confirming that the secondary load path is not loaded. P 3. MANDATORY ACTIONS AND COMPLIANCE TIMES: U 3.1. Unless already accomplished, within 20 months since first flight or within 600 flight hours from the effective date of this AD, whichever occurs later: S - do a check of the clearance between secondary nut trunnion and junction plates at the lower THSA attachment and apply, if necessary, the corrective actions in accordance with the instructions given in AIRBUS Service Bulletin (SB) A320-27-1164 Revision 2 and - inspect the upper THSA attachment and apply, if necessary, the corrective actions in accordance with the instructions given in SB A320-27-1164 Revision 2 and - report the results of these 2 inspections to AIRBUS through page 2 of appendix 01 of SB A320-27-1164 Revision 2 “inspection reporting sheet”. n/GH
+
+--- PAGE 2 ---
+Distribution: Issue date: Page: AIRWORTHINESS DIRECTIVE March 30, 2005 2/2 B No F-2005-051 3.2. Repeat the inspections as defined in above paragraph 3.1., at interval not exceeding 20 months. 4. REFERENCE PUBLICATION: AIRBUS Service Bulletin A320-27-1164 Revision 2. Any later approved revision of this document is acceptable. 5. EFFECTIVE DATE: April 09, 2005. D 6. REMARK: For questions concerning the technical contents of this AD’s requirements, contact: E AIRBUS SAS - Fax 33 5 61 93 44 51. 7. APPROVAL: D This AD is approved under EASA reference No 2005-2572 dated March 22, 2005. E S R E P U S

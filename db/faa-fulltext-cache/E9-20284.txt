@@ -1,0 +1,309 @@
+[Federal Register Volume 74, Number 165 (Thursday, August 27, 2009)]
+[Rules and Regulations]
+[Pages 43634-43636]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E9-20284]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2008-0174; Directorate Identifier 2008-NE-03-AD; 
+Amendment 39-15997; AD 2009-18-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International, S.A. CFM56-5B1/P; -
+5B2/P; -5B3/P; -5B3/P1; -5B4/P; -5B4/P1; -5B5/P; -5B6/P; -5B7/P; -5B8/
+P; -5B9/P; -5B1/3; -5B2/3; -5B3/3; -5B4/3; -5B5/3; -5B6/3; -5B7/3; -
+5B8/3; -5B9/3; -5B3/3B1; and -5B4/3B1 Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for CFM 
+International, S.A. CFM56-5B1/P; -5B2/P; -5B3/P; -5B3/P1; -5B4/P; -5B4/
+P1; -5B5/P; -5B6/P; -5B7/P; -5B8/P; -5B9/P; -5B1/3; -5B2/3; -5B3/3; -
+5B4/3; -5B5/3; -5B6/3; -5B7/3; -5B8/3; -5B9/3; -5B3/3B1; and -5B4/3B1 
+turbofan engines. This AD requires initial and repetitive eddy current 
+inspections (ECIs) of certain part number (P/N) low-pressure (LP) 
+turbine rear frames. This AD results from a refined lifing analysis by 
+the engine manufacturer that shows the need to identify initial and 
+repetitive inspection thresholds for inspecting certain LP turbine rear 
+frames. We are issuing this AD to detect low-cycle-fatigue cracks in 
+the LP turbine rear frame, which could result in an engine separating 
+from the airplane, causing damage to, and possibly leading to loss of 
+control of the airplane.
+
+DATES: This AD becomes effective October 1, 2009. The Director of the 
+Federal Register approved the incorporation by reference of certain 
+publications listed in the regulations as of October 1, 2009.
+
+ADDRESSES: You can get the service information identified in this AD 
+from CFM International, Technical Publications Department, 1 Neumann 
+Way, Cincinnati, OH 45215; telephone (513) 552-2800; fax (513) 552-
+2816.
+    The Docket Operations office is located at Docket Management 
+Facility, U.S. Department of Transportation, 1200 New Jersey Avenue, 
+SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-
+0001.
+
+FOR FURTHER INFORMATION CONTACT: Stephen Sheely, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7750; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 
+with a proposed AD and a supplemental proposed AD. The proposed AD 
+applies to CFM International, S.A. CFM56-5B1/P; -5B2/P; -5B3/P; -5B3/
+P1; -5B4/P; -5B4/P1; -5B5/P; -5B6/P; -5B7/P; -5B8/P; and -5B9/P 
+turbofan engines, and the supplemental proposed AD applies to CFM 
+International, S.A. CFM56-5B1/P; -5B2/P; -5B3/P; -5B3/P1; -5B4/P; -5B4/
+P1; -5B5/P; -5B6/P; -5B7/P; -5B8/P; -5B9/P; -5B1/3; -5B2/3; -5B3/3; -
+5B4/3; -5B5/3; -5B6/3; -5B7/3; -5B8/3; -5B9/3; -5B3/3B1; and -5B4/3B1 
+turbofan engines. We published the proposed AD in the Federal Register 
+on May 7, 2008 (73 FR 25597). That action proposed to require initial 
+and repetitive ECIs of certain P/N LP turbine rear frames. We published 
+the supplemental proposed AD in the Federal Register on April 24, 2009 
+(74 FR 18662). That action proposed to require initial and repetitive 
+ECIs of those same P/N LP turbine rear frames, to add two additional P/
+N LP turbine rear frames, to add 11 engine models to the applicability, 
+and to clarify the commercial and corporate engines/LP turbine rear 
+frames applicability.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Operations office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The street address for 
+the Docket Operations office (telephone (800) 647-5527) is provided in 
+the ADDRESSES section. Comments will be available in the AD docket 
+shortly after receipt.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comment received.
+    One commenter, CFM International, S.A. requests that we reference 
+the latest European Aviation Safety Agency AD 2009-0110, dated May 7, 
+2009, as it is up-to-date on P/Ns and engine models affected.
+    We agree and changed the AD to reference AD 2009-0110.
+
+[[Page 43635]]
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comment received, and determined that air safety and the public 
+interest require adopting the AD with the changes described previously. 
+We have determined that these changes will neither increase the 
+economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    We estimate that this AD will affect 282 CFM56-5B series turbofan 
+engines installed on airplanes of U.S. registry. We estimate that it 
+will take about 3 work-hours to perform an eddy current inspection of 
+an LP turbine rear frame. The average labor rate is $80 per work-hour. 
+A replacement LP turbine rear frame costs about $102,240. If all 282 LP 
+turbine rear frames needed replacement, we estimate the total cost of 
+the AD to U.S. operators to be $28,899,360. Our cost estimate is 
+exclusive of possible warranty coverage.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+subtitle VII, part A, subpart III, section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary at the 
+address listed under ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2009-18-01 CFM International, S.A.: Amendment 39-15997. Docket No. 
+FAA-2008-0174; Directorate Identifier 2008-NE-03-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective October 
+1, 2009.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to:
+    (1) CFM International, S.A. turbofan engines with a low-pressure 
+(LP) turbine rear frame, part number (P/N) 338-171-703-0; 338-171-
+704-0; 338-171-705-0; or 338-171-706-0 installed, as follows:
+    (i) Commercial application CFM56-5B1/P; -5B2/P; -5B3/P; -5B3/P1; 
+-5B4/P; -5B4/P1; -5B5/P; -5B6/P; -5B7/P; -5B8/P; -5B9/P turbofan 
+engines.
+    (ii) Corporate application CFM56-5B6/P and -5B7/P turbofan 
+engines.
+    (2) CFM International, S.A. turbofan engines with an LP turbine 
+rear frame, P/N 338-171-751-0; or 338-171-752-0 installed, on 
+corporate and commercial applications of CFM56-5B1/P; -5B2/P; -5B3/
+P; -5B3/P1; -5B4/P; -5B4/P1; -5B5/P; -5B6/P; -5B7/P; -5B8/P; -5B9/P; 
+-5B1/3; -5B2/3; -5B3/3; -5B4/3; -5B5/3; -5B6/3; -5B7/3; -5B8/3; -
+5B9/3; -5B3/3B1; and -5B4/3B1 turbofan engines.
+    (3) These engines are installed on, but not limited to, Airbus 
+A318, A319, A320, and A321 series airplanes.
+
+Unsafe Condition
+
+    (d) This AD results from a refined lifing analysis by the engine 
+manufacturer that shows the need to identify initial and repetitive 
+inspection thresholds for inspecting certain LP turbine rear frames. 
+We are issuing this AD to detect low-cycle-fatigue cracks in the LP 
+turbine rear frame, which could result in an engine separating from 
+the airplane, causing damage to, and possibly leading to loss of 
+control of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified unless the 
+actions have already been done.
+
+Initial Inspection
+
+    (f) Perform an initial eddy current inspection (ECI) of the LP 
+turbine rear frame using paragraphs 3.A. through 3.A.(7)(d) of the 
+Accomplishment Instructions of CFM International, S.A. Service 
+Bulletin (SB) No. CFM56-5B S/B 72-0620, Revision 2, dated December 
+1, 2008, at the following compliance times:
+    (1) For commercial engine applications, within 25,000 cycles-
+since-new (CSN) on the LP turbine rear frame.
+    (2) For corporate engine applications, within 19,000 CSN on the 
+LP turbine rear frame.
+    (3) For engines with unknown LP turbine rear frame CSN, within 
+300 cycles-in-service from the effective date of this AD.
+
+Repetitive Inspections
+
+    (g) Perform repetitive ECIs of the LP turbine rear frame using 
+paragraphs 3.A. through 3.A.(7)(d) of the Accomplishment 
+Instructions of CFM International, S.A. SB No. CFM56-5B S/B 72-0620, 
+Revision 2, dated December 1, 2008. Use the inspection intervals in 
+paragraph 3.A.(8) of the Accomplishment Instructions of CFM 
+International, S.A. SB No. CFM56-5B S/B 72-0620, Revision 2, dated 
+December 1, 2008.
+
+LP Turbine Rear Frame Removal Criteria
+
+    (h) Remove LP turbine rear frames from service that have a 
+single crack length of 2.56 inches (65 mm) or longer, or multiple 
+cracks with an accumulated crack length of 2.56 inches (65 mm) or 
+longer.
+
+Previous Credit
+
+    (i) Initial and repetitive inspections done before the effective 
+date of this AD using CFM International, S.A. SB No. CFM56-5B S/B 
+72-0620, dated May 3, 2007, or SB No. CFM56-5B S/B 72-0620, Revision 
+1, dated December 20, 2007, comply with the initial and repetitive 
+inspection requirements specified in this AD. Operators must 
+continue performing the repetitive inspections required in paragraph 
+(g) of this AD.
+
+Alternative Methods of Compliance
+
+    (j) The Manager, Engine Certification Office, has the authority 
+to approve alternative methods of compliance for this AD if 
+requested using the procedures found in 14 CFR 39.19.
+
+[[Page 43636]]
+
+Related Information
+
+    (k) European Aviation Safety Agency AD 2009-0110, dated May 7, 
+2009, also addresses the subject of this AD.
+    (l) Contact Stephen Sheely, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine and Propeller Directorate, 12 New 
+England Executive Park, Burlington, MA 01803; e-mail: 
+[email protected]; telephone (781) 238-7750; fax (781) 238-
+7199, for more information about this AD.
+
+Material Incorporated by Reference
+
+    (m) You must use CFM International, S.A. SB No. CFM56-5B S/B 72-
+0620, Revision 2, dated December 1, 2008 to perform the inspections 
+required by this AD. The Director of the Federal Register approved 
+the incorporation by reference of this service bulletin in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Contact CFM 
+International, Technical Publications Department, 1 Neumann Way, 
+Cincinnati, OH 45215; telephone (513) 552-2800; fax (513) 552-2816, 
+for a copy of this service information. You may review copies at the 
+FAA, New England Region, 12 New England Executive Park, Burlington, 
+MA; or at the National Archives and Records Administration (NARA). 
+For information on the availability of this material at NARA, call 
+202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on August 17, 2009.
+Peter A. White,
+Assistant Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. E9-20284 Filed 8-26-09; 8:45 am]
+BILLING CODE 4910-13-P

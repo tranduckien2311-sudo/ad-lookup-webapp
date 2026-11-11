@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2010-0210 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2010-0210 [Corrected: 27 October 2010] Date: 21 October 2010 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. D Type/Model designation(s) : Type Approval Holder’s Name : A318, A319 and A320 aeroplanes AIRBUS E TCDS Number : EASA.A.064 D Foreign AD : Not applicable Supersedure : None E Equipment / Furnishings – Off-wing Escape Slide Enclosure –
+
+ATA 25 Modification S
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) R Airbus A318-111, A318-112, A318-121, A318-122, A319-111, A319-112,
+
+Applicability: A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232 and A320-233 aeroplanes models, all manufacturer serial numbers, if E equipped with Air Cruisers / Aerazur Part Number (P/N) D31865-109, P/N D31865-110, P/N D31865-209 or P/N D31865-210 Off-wing Escape Slides (OWS). P One operator has reported a torn out aspirator following scheduled (for on-
+
+Reason: ground testing purposes) deployment of the Left Hand (LH) OWS. Investigations have revealed that the aspirator of the off-wing ramp/slide system interferes with the extrusion lip of the OWS enclosure during the initial U stage of the deployment sequence. This condition, if not corrected, could result in both LH and Right Hand (RH) off-wing exits being unserviceable which, during an emergency, would impair S the safe evacuation of occupants, possibly resulting in personal injuries. For the reasons described above, this AD requires the modification of the OWS enclosures on both sides. This AD has been republished to delete A321 aeroplanes from the Applicability, which were included by mistake.
+
+Effective Date: 04 November 2010 EASA Form 110 Page 1/2
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2010-0210 Required Action(s) Required as described, unless already accomplished: and Compliance (1) Within the next 36 months after the effective date of this AD, modify both Time(s): LH and RH OWS enclosures in accordance with the instructions of Airbus Service Bulletin A320-25-1649. (2) Aeroplanes that have been delivered with Airbus modification 30088 that install P/N D31865-111 and P/N D31865-112 OWS are not affected by the requirements of paragraph (1) of this AD, provided that no modification or replacement of OWS with an OWS whose P/N is listed in the applicability section of this AD has been performed since the aeroplane first flight. (3) After modification of an aeroplane as required by paragraph (1) of this AD, do not install P/N D31865-109, P/N D31865-110, P/N D31865-209 or P/N D31865-210 OWS on that aeroplane. (4) For aeroplanes identified in paragraph (2) of this AD, from the effective D date of this AD, do not install P/N D31865-109, P/N D31865-110, P/N D31865-209 or P/N D31865-210 OWS on any of these aeroplanes.
+
+Ref. Publications: Airbus Service Bulletin A320-25-1649 at original issue. E The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve D Alternative Methods of Compliance for this AD. 2. This AD was posted on 21 June 2010 as PAD 10-060 for consultation until 19 July 2010.The Comment Response Document can be found at E . http://ad.easa.europa.eu 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail ADs@easa.europa.eu S 4. For any questions concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EAS Fax +33 5 . 61 93 44 51, E-mail: account.airworth-eas@airbus.com R E P U S EASA Form 110 Page 2/2

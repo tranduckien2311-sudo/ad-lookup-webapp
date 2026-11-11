@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2025-0275
+
+Airworthiness Directive
+
+AD No.: 2025-0275
+
+Issued: 09 December 2025 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I Part M.A.301, or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I Part M.A.303, or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS S.A.S. A319, A320 and A321 aeroplanes
+
+Effective Date: 23 December 2025 TCDS Number(s): EASA.A.064 Foreign AD: Not applicable
+
+Supersedure: None ATA – Aircraft Flight Manual / Normal Procedure Ground Engine Operation in Icing Condition – Amendment
+
+Manufacturer(s): Airbus, formerly Airbus Industrie
+
+Applicability: Airbus A319-171N, A319-173N, A320-271N, A320-272N, A320-273N, A321-271N, A321-271NX, A321-271NY, A321-272N, and A321-272NX, aeroplanes, all manufacturer serial numbers (MSN).
+
+Definitions: For the purpose of this AD, the following definitions apply: AFM DU: Aircraft Flight Manual (AFM) Documentary Unit (DU) 00017198.0001001 dated 01 December 2025.
+
+Reason: Reports were received of engine stalls during take-off in icing conditions with low visibility due to icing fog. Relevant investigations are still ongoing. This condition, if not corrected, could lead to a dual engine surge in a critical flight phase. Page 1 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2025-0275 To address this potential unsafe condition, Airbus published the AFM DU, as defined in this AD, introducing a requirement for minimum visibility of 150 meters during ground engine operation and take-off in freezing fog conditions, updating the engine run-up procedure in ground icing conditions. For the reasons described above, this AD requires implementing the content of the AFM DU. This AD is considered to be an interim action and further AD action may follow.
+
+Required Action(s) and Compliance Time(s): Required as indicated by this AD, unless the action(s) required by this AD have been already accomplished: AFM amendment: (1) Within 7 days after the effective date of this AD, implement the procedure as identified in the AFM DU, as defined in this AD, inform all flight crews, and thereafter, operate the aeroplane accordingly. (2) Amending the AFM of an aeroplane by inserting a copy of the AFM DU is an acceptable method to comply with the requirements of paragraph (1) of this AD for that aeroplane. (3) Amending the AFM of an aeroplane by incorporating a later AFM revision, which includes the AFM DU, is an acceptable method to comply with the requirements of paragraph (1) of this AD for that aeroplane.
+
+Ref. Publications: AIRBUS A319/A320/A321 AFM DU 00017198.0001001 dated 01 December 2025. The use of later approved revisions of the above-mentioned document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. All interested persons may send their comments, referencing the AD Number, to the E-mail address specified in below Remark 3, prior to 06 January 2026. Only if any comment is received during the consultation period, a Comment Response Document will be published in the EASA Safety Publications Tool, in a compressed (‘zipped’) file, attached to the record for this AD. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety Page 2 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2025-0275 reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – 1IASA; E-mail: account.airworth-eas@airbus.com . Page 3 of 3 TE.CAP.00110-012 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

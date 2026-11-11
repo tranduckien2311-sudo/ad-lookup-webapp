@@ -1,0 +1,375 @@
+[Federal Register Volume 81, Number 84 (Monday, May 2, 2016)]
+[Rules and Regulations]
+[Pages 26113-26115]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-10117]
+
+
+
+[[Page 26113]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-6539; Directorate Identifier 2015-NM-036-AD; 
+Amendment 39-18504; AD 2016-09-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A318-111 and -112 airplanes; Model A319-111, -112, -113, -
+114, and -115 airplanes; Model A320-211, -212, and -214 airplanes; and 
+Model A321-111, -112, -211, -212, and -213 airplanes. This AD was 
+prompted by the results of an evaluation by the design approval holder 
+(DAH). During a residual fatigue test, the forward engine mount failed 
+prior to reaching the threshold/interval for the detailed inspections 
+of the forward engine mounts specified in the airworthiness 
+limitations. This AD requires repetitive detailed inspections of the 
+right and left forward engine mounts, and corrective action if 
+necessary. These inspections are required by AD 2015-05-02. This AD 
+reduces the compliance times for those inspections. We are issuing this 
+AD to detect and correct fatigue cracking in the forward engine mounts. 
+Such cracking could result in reduced structural integrity of the 
+airplane and could lead to in-flight loss of an engine, possibly 
+resulting in reduced controllability of the airplane.
+
+DATES: This AD is effective June 6, 2016.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+6539; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A318-111 
+and -112 airplanes; Model A319-111, -112, -113, -114, and -115 
+airplanes; Model A320-211, -212, and -214 airplanes; and Model A321-
+111, -112, -211, -212, and -213 airplanes. The NPRM published in the 
+Federal Register on November 30, 2015 (80 FR 74723) (``the NPRM'').
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2015-0038, dated March 4, 2015 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A318-111 and -112 airplanes; Model A319-111, -112, -113, -114, and -115 
+airplanes; Model A320-211, -212, and -214 airplanes; and Model A321- 
+111, -112, -211, -212, and -213 airplanes. The MCAI states:
+
+    During a A320 Extended Service Goal (ESG) residual fatigue test, 
+in which new loads were used, taking into account the results of the 
+2006 fleet survey, the CFM56-5A/5B forward engine mount experienced 
+a failure before reaching the threshold/interval for the detailed 
+inspection of that forward engine mount, as identified in Airbus 
+A318/A319/A320/A321 Airworthiness Limitations Section (ALS) Part 2 
+(hereafter referred to in this [EASA] AD as `the ALS') task 712111-
+01. In case of total loss of the primary load path, the current 
+maintenance requirements do not ensure the design integrity of the 
+remaining structure.
+    This condition, if not corrected, could lead to in-flight loss 
+of an engine, possibly resulting in reduced control of the aeroplane 
+and injury to persons on the ground.
+    For the reasons described above, this [EASA] AD requires 
+implementation of a reduced threshold and interval for the detailed 
+inspections (DET) of the forward engine mount on both right hand 
+(RH) and left hand (LH) sides, as specified in the ALS, task 712111-
+01.
+    Once further investigations and test are completed, the 
+threshold and interval of the ALS task 712111-01 will likely be 
+modified accordingly.
+
+Required actions include repair of discrepancies (cracks) found during 
+the inspection. You may examine the MCAI in the AD docket on the 
+Internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2015-6539.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comment received on the NPRM and 
+the FAA's response.
+
+Request To Clarify That This Final Rule Was Not Prompted by Widespread 
+Fatigue Damage (WFD)
+
+    Airbus requested that all references to WFD be removed from the 
+NPRM. Airbus stated that the root cause of the unsafe condition was not 
+associated with WFD. The unsafe condition was revealed during a 
+residual fatigue test of the CFM56-5A/5B forward engine mount. The 
+forward engine mount failed prior to reaching the threshold/interval 
+for the detailed inspections specified in the Airbus A318/A319/A320/
+A321 Airworthiness Limitations Section Part 2--Damage-Tolerant 
+Airworthiness Limitation Items.
+    Based on the information provided by the commenter we agree to 
+remove all references to WFD from the preamble and regulatory text and 
+include an explanation that this final rule was prompted by the results 
+of an evaluation by the DAH.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    We also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+[[Page 26114]]
+
+Costs of Compliance
+
+    We estimate that this AD affects 940 airplanes of U.S. registry.
+    We also estimate that it will take about 1 work-hour per product to 
+comply with the basic requirements of this AD. The average labor rate 
+is $85 per work-hour. Based on these figures, we estimate the cost of 
+this AD on U.S. operators to be $79,900, or $85 per product.
+    We have received no definitive data that will enable us to provide 
+cost estimates for the on-condition parts cost specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-09-06 Airbus: Amendment 39-18504. Docket No. FAA-2015-6539; 
+Directorate Identifier 2015-NM-036-AD.
+
+(a) Effective Date
+
+    This AD is effective June 6, 2016.
+
+(b) Affected AD
+
+    This AD affects AD 2015-05-02, Amendment 39-18112 (80 FR 15152, 
+March 23, 2015) (``AD 2015-05-02'').
+
+(c) Applicability
+
+    This AD applies to all Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1), (c)(2), (c)(3), and 
+(c)(4) of this AD.
+    (1) Model A318-111 and -112 airplanes.
+    (2) Model A319-111, -112, -113, -114, and -115 airplanes.
+    (3) Model A320-211, -212, and -214 airplanes.
+    (4) Model A321-111, -112, -211, -212, and -213 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Periodic 
+Inspections.
+
+(e) Reason
+
+    This AD was prompted by the results of an evaluation by the 
+design approval holder. During a residual fatigue test the forward 
+engine mount failed prior to reaching the threshold/interval for the 
+detailed inspections of the forward engine mounts specified in the 
+airworthiness limitations. We are issuing this AD to detect and 
+correct fatigue cracking in the forward engine mounts. Such cracking 
+could result in reduced structural integrity of the airplane and 
+could lead to in-flight loss of an engine, possibly resulting in 
+reduced controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections
+
+    At the latest of the times specified in paragraphs (g)(1), 
+(g)(2), and (g)(3) of this AD: Do a detailed inspection of the left 
+and right forward engine mounts for discrepancies (cracking), using 
+a method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA. Repeat the inspection 
+thereafter at intervals not to exceed 800 flight cycles.
+
+    Note 1 to paragraphs (g) and (h) of this AD:  Guidance for the 
+inspection and engine mount replacement can be found in Task 712111-
+210-040 of the Airbus A318/A319/A320/A321 Maintenance Manual.
+
+    (1) Within 800 flight cycles since the first flight of the 
+airplane.
+    (2) Within 800 flight cycles since the most recent detailed 
+inspection specified in Airbus Airworthiness Limitation Tasks 
+712111-01-1, 712111-01-2, 712111-01-3, or 712111-01-4, ``Detailed 
+Inspection of Forward Engine Mount Installation,'' as applicable.
+    (3) Within 800 flight cycles after the effective date of this 
+AD.
+
+(h) Corrective Action
+
+    If any discrepancy (cracking) is found during any inspection 
+required by paragraph (g) of this AD: Before further flight, replace 
+the affected forward engine mount with a serviceable part, using a 
+method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or the European Aviation Safety 
+Agency (EASA); or Airbus's EASA Design Organization Approval (DOA).
+
+(i) No Terminating Action
+
+    Replacement of a forward engine mount does not constitute 
+terminating action for the repetitive inspections required by 
+paragraph (g) of this AD.
+
+(j) Termination of Certain Tasks Required by AD 2015-05-02
+
+    Accomplishment of the inspections required by paragraph (g) of 
+this AD terminates the initial and repetitive inspections specified 
+in paragraph (n)(2) of AD 2015-05-02, for Airbus Airworthiness 
+Limitation Tasks 712111-01-1, 712111-01-2, 712111-01-3, and 712111-
+01-4, ``Detailed Inspection of Forward Engine Mount Installation.''
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: 9-ANM-116-
+
+[[Page 26115]]
+
+[email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office. The AMOC approval letter must 
+specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the EASA; 
+or Airbus's EASA DOA. If approved by the DOA, the approval must 
+include the DOA-authorized signature.
+
+(l) Special Flight Permits
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2015-0038, dated March 4, 2015, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2015-6539.
+    (2) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com. You may view this service information at the FAA,
+    Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+WA. For information on the availability of this material at the FAA, 
+call 425-227-1221.
+
+(n) Material Incorporated by Reference
+
+    None.
+
+    Issued in Renton, Washington, on April 20, 2016.
+John P. Piccola, Jr.,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-10117 Filed 4-29-16; 8:45 am]
+ BILLING CODE 4910-13-P

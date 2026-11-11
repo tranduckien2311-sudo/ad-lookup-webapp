@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2017-0041
+
+Airworthiness Directive
+
+AD No.: 2017-0041 [Correction: 28 February 2017]
+
+Issued: 24 February 2017 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 aeroplanes
+
+Effective Date: 10 March 2017 TCDS Number(s): EASA.A.004 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 71 – Powerplant – Engine Hydraulic Damper – Replacement [Life Limit]
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-243, A330-243F, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers.
+
+Reason: Following introduction in-service of Airbus modification (mod) 205242, a new hydraulic pressure tube assembly Part Number (P/N) AE711121-18 was installed, one on each engine, with an integral ripple damper. It was determined that, at a relatively low number of cycles, cracks can develop on the ripple damper weld of this new hydraulic pressure tube, which could lead to hydraulic leakage and consequent loss of the green hydraulic system. Recently, there has been a high rate of failure of the affected dampers that, if continued, may exceed the overall safety objective of the certified design. This condition, if not corrected, could, in combination with other system failures, result in reduced control of the aeroplane. Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2017-0041 Prompted by these findings, Airbus issued Alert Operators Transmission (AOT) A71L012-16 Revision 01, to provide instructions to replace the hydraulic pressure tube assembly P/N AE711121-18 with an improved assembly, P/N AE711121-18 Rev A, equipped with a double-welded ripple damper. For the reasons described above, this AD requires replacement of each affected hydraulic pressure tube assembly with a tube assembly having the double welded ripple damper installed. This AD also requires implementation of a life limit on the new part. This AD is considered as interim measure and further AD action may follow. This AD is republished to correct the TCDS number and add a previous manufacturer name.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: For the purpose of this AD, a hydraulic pressure tube assembly P/N AE711121-18, as introduced by Airbus mod 205242, is hereafter referred to as ‘affected part’ in this AD. Parts Removal from Service: (1) Within the compliance time specified in Table 1 of this AD, as applicable, or within 5 months after the effective date of this AD, whichever occurs first, replace each affected part (see Note 1 of this AD) with a serviceable part (see Note 3 of this AD) in accordance with the instructions of Airbus AOT A71L012-16 Revision 01. Table 1 – Replacement (see Note 2 of this AD) Flight Cycles (FC) Accumulated Compliance Time Less than 775 FC Before exceeding 800 FC 775 FC or more Within 25 FC after the effective date of this AD FC unknown Note 2: Unless specified otherwise, the FC in Table 1 of this AD are those accumulated by an affected hydraulic pressure tube assembly, on the effective date of this AD, since first installation on an aeroplane. Note 3: For the purpose of this AD, a ‘serviceable part’ is a P/N AE711121-18 Rev A pressure tube assembly (which has a double welded ripple damper installed), that has accumulated less than 800 FC since first installation on an aeroplane. The P/N AE711121-18 Rev A pressure tube assembly is introduced by Airbus mod 206979 on the production line. Credit: (2) Modification of an aeroplane, before the effective date of this AD in accordance with the instructions of Airbus AOT A71L012-16 at original issue, is acceptable to comply with the requirements of paragraph (1) of this AD for that aeroplane. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2017-0041 Life Limit Implementation: (3) Before a serviceable part (see Note 3 of this AD) exceeds 800 FC since first installation on an aeroplane, replace it with a serviceable part in accordance with the instructions of Airbus AOT A71L012-16 Revision 01. Engine Installation: (4) From the effective date of this AD, except as required by paragraph (5) of this AD, it is allowed to install on any aeroplane a replacement engine, having an affected part (see Note 1 of this AD) installed, provided that, before that affected part exceeds 800 FC since first installation on an aeroplane, or within 5 months after the effective date of this AD, whichever occurs first, the part is replaced in accordance with the instructions of Airbus AOT A71L012-16 Revision 01. Engine / Part Installation: (5) From 10 August 2017, do not install on any aeroplane an affected part (see Note 1 of this AD), or an engine having an affected part installed.
+
+Ref. Publications: Airbus AOT A71L012-16 original issue dated 22 December 2016, or Revision 01 dated 24 February 2017. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAL, E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

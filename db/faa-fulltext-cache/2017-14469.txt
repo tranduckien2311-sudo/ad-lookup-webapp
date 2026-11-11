@@ -1,0 +1,612 @@
+[Federal Register Volume 82, Number 135 (Monday, July 17, 2017)]
+[Rules and Regulations]
+[Pages 32622-32626]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-14469]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9567; Directorate Identifier 2016-NM-147-AD; 
+Amendment 39-18955; AD 2017-14-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2007-13-08, 
+for certain Airbus Model A318, A319, A320, and A321 series airplanes. 
+AD 2007-13-08 required repetitive inspections of the auxiliary power 
+unit (APU) starter motor, APU inlet plenum, and APU air intake for 
+discrepancies; repetitive cleaning of the APU air intake; and 
+applicable corrective actions. This AD expands the applicability of AD 
+2007-13-08, and includes an optional terminating installation for the 
+repetitive actions. This AD was prompted by a determination that the 
+unsafe condition could occur on additional airplanes. We are issuing 
+this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective August 21, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of August 21, 
+2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of July 
+25, 2007 (72 FR 33877, June 20, 2007).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 44 51; email: account.airworth-eas@
+
+[[Page 32623]]
+
+airbus.com; Internet: http://www.airbus.com. You may view this 
+referenced service information at the FAA, Transport Airplane 
+Directorate, 1601 Lind Avenue SW., Renton, WA. For information on the 
+availability of this material at the FAA, call 425-227-1221. It is also 
+available on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-9567.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9567; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The address for the Docket Office (telephone 800-
+647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2007-13-08, Amendment 39-15112 (72 FR 33877, 
+June 20, 2007) (``AD 2007-13-08''). AD 2007-13-08 applied to certain 
+Airbus Model A318, A319, A320, and A321 series airplanes. The NPRM 
+published in the Federal Register on January 6, 2017 (82 FR 1623). The 
+NPRM was prompted by a determination that the unsafe condition could 
+occur on additional airplanes. The NPRM proposed to continue to require 
+repetitive inspections of the APU starter motor, APU inlet plenum, and 
+APU air intake for discrepancies; repetitive cleaning of the APU air 
+intake; and applicable corrective actions. We are issuing this AD to 
+detect and correct reverse flow during APU startup, which could lead to 
+flame propagation in the APU air inlet and intake duct. Such conditions 
+could result in an in-flight fire in the APU area.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2016-0176, dated August 31, 2016; corrected September 1, 2016 (referred 
+to after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A318, A319, A320, and A321 airplanes. The MCAI states:
+
+    An operator reported black smoke at the rear of the fuselage 
+during taxi after landing. The smoke was caused by a fire in the 
+auxiliary power unit (APU) air intake. The subsequent analysis 
+demonstrated that, following numerous unsuccessful APU start 
+attempts in flight, there is a risk of reverse flow leading to flame 
+propagation to the APU air inlet and air intake duct.
+    This condition, if not detected and corrected, could result in 
+an in-flight fire in the APU area.
+    Prompted by these findings, Airbus issued Service Bulletin (SB) 
+A320-49-1068 to provide inspection and cleaning instructions. The 
+applicable Flight Crew Operating Manual (FCOM) already contained a 
+limitation for the number of APU start attempts, as follows:
+
+APU STARTER
+After 3 starter motor duty cycles, wait 60 minutes before attempting 
+3 more cycles
+
+    To address this potential unsafe condition, EASA issued AD 2006-
+0153 to require repetitive inspections of the APU starter motor, APU 
+inlet plenum and APU air intake [for discrepancies], as well as 
+repetitive cleaning of the APU air intake [and applicable corrective 
+actions].
+    As the reverse flow inside the APU can only occur in flight with 
+the APU inlet closed, various modifications (mod) were developed to 
+introduce a new electronic control box (ECB) with associated 
+software, the functionality of which keeps the APU inlet door open 
+for 15 minutes, following an APU auto-shutdown in flight. 
+Consequently, AD 2006-0153 [which corresponds to FAA AD 2007-13-08], 
+was revised reducing the Applicability by excluding certain post-mod 
+aeroplanes, and introducing these modifications as optional 
+terminating actions.
+    After EASA AD 2006-0153R2 was issued, it was determined that, as 
+an APU ECB can be replaced (or moved from one aeroplane to another) 
+in service, inadvertently installing a pre-mod ECB would reintroduce 
+the unsafe condition. Prompted by this finding, EASA issued AD 2016-
+0159, retaining the requirements of EASA AD 2006-0153R2, which was 
+superseded, expanding the Applicability and including references to 
+additional optional terminating actions.
+    Since EASA AD 2016-0159 was issued, it was determined that 
+paragraph (5) of the [EASA] AD contained some erroneous statements, 
+inadvertently excluding certain aeroplanes, those that have Airbus 
+mod 23698 or mod 24498 embodied in production, from the repetitive 
+actions.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2016-0159, which is superseded, and corrects 
+paragraph (5). For post-mod aeroplanes where, inadvertently, an 
+`affected' ECB has been installed in service, this AD adds the 
+requirement to restore those aeroplanes to post-mod configuration by 
+installation of a `serviceable' ECB. This [EASA] AD also introduces 
+some editorial changes, not affecting the required actions.
+    This [EASA] AD is republished as it was determined that one 
+`affected' and one `non-affected' ECB were inadvertently omitted in 
+the Tables.
+
+    Discrepancies include a defective APU starter motor, misaligned 
+brush wear indicator-pin, oil contamination of the brush wear 
+indicator, and dirt, debris, dust, sand, oil, combustible residues, 
+grease and other contaminations of the APU inlet plenum. Corrective 
+actions include replacement of the APU starter motor and cleaning the 
+APU air intake, if necessary. You may examine the MCAI in the AD docket 
+on the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2016-9567.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response to each comment.
+
+Support for the NPRM
+
+    United Airlines and Air Line Pilots Association, International, 
+stated their support for the content of the NPRM.
+
+Request To Include Missing Part Number
+
+    Airbus asked that electronic control box (ECB) part number (P/N) 
+3888394-230300 for APU GTCP36-300 be added to table 1 to paragraph (g) 
+of the proposed AD. Airbus stated that the part number is missing in 
+the table.
+    We agree with the commenter's request. We have added ECB P/N 
+3888394-230300 for APU GTCP36-300 to table 1 to paragraphs (g), (h), 
+(i)(2)(ii), (j), and (k) of this AD. That part number was omitted from 
+EASA AD 2016-0176, dated August 31, 2016; however, EASA issued a 
+correction, which added that part number, on September 1, 2016. We have 
+also included the corrected EASA AD in this final rule.
+
+Request To Provide Retrofit Installation Method and Interchangeability 
+Information
+
+    Virgin America asked that the proposed AD requirements provide an 
+approved retrofit installation method for P/N 3888394-321206. Virgin 
+America also asked that the proposed AD requirements clearly state the 
+interchangeability or lack of
+
+[[Page 32624]]
+
+interchangeability for the part numbers identified in table 2 of the 
+proposed AD.
+    Virgin America stated that it receives the Airbus Illustrated Parts 
+Catalog (IPC) on a quarterly basis, which it regularly corrects to 
+remove interchangeability. Virgin America added that in addition to 
+correcting the IPC every quarter, it has repeatedly requested that 
+Airbus Airworthiness and Engineering synchronize their viewpoint of how 
+the IPC is intended to be utilized by operators. Virgin America noted 
+that since EASA has corresponding ADs, it would mean that no ECB can be 
+considered ``interchangeable'' by Airbus, since accomplishing a service 
+bulletin is not the same as accomplishing an airplane maintenance 
+manual. Virgin America requested this coordination within Airbus, both 
+from an ever increasing manpower requirement (i.e., the more ADs, the 
+more IPCs that need interchangeability monitored and removed quarterly) 
+and also from a parts support request, since some parts providers use 
+the IPC as the means to pool and issue parts. Virgin America concluded 
+that a separate pool of non-interchangeable parts adds significantly to 
+the cost impact of the proposed AD.
+    We acknowledge the commenter's concerns; however, an approved 
+retrofit installation method and interchangeability of part numbers are 
+not addressed by this AD. While there might be merit to the commenter's 
+suggestions, this AD is not the appropriate document in which to 
+evaluate those suggestions. Therefore, we have not changed this AD in 
+this regard.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information, which 
+describes procedures for replacing the ECB. These documents are 
+distinct since they apply to different airplane models in different 
+configurations.
+     Airbus Service Bulletin A320-49-1077, Revision 04, dated 
+February 27, 2013.
+     Airbus Service Bulletin A320-49-1098, dated June 21, 2011.
+     Airbus Service Bulletin A320-49-1102, dated January 3, 
+2012.
+     Airbus Service Bulletin A320-49-1107, Revision 02, dated 
+May 10, 2016.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 1,182 airplanes of U.S. registry.
+    The actions required by AD 2007-13-08, and retained in this AD, 
+take about 4 work-hours per product, at an average labor rate of $85 
+per work-hour. Based on these figures, the estimated cost of the 
+actions that are required by AD 2007-13-08 is $340 per product.
+    We also estimate that it will take about 4 work-hours per product 
+to comply with the basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD on U.S. operators to be $401,880, or $340 per product.
+    We have received no definitive data that will enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2007-13-08, Amendment 39-15112 (72 FR 33877, June 20, 2007), and adding 
+the following new AD:
+
+2017-14-11 Airbus: Amendment 39-18955; Docket No. FAA-2016-9567; 
+Directorate Identifier 2016-NM-147-AD.
+
+(a) Effective Date
+
+    This AD is effective August 21, 2017.
+
+(b) Affected ADs
+
+    This AD replaces AD 2007-13-08, Amendment 39-15112 (72 FR 33877, 
+June 20, 2007) (``AD 2007-13-08'').
+
+(c) Applicability
+
+    This AD applies to Airbus airplanes identified in paragraphs 
+(c)(1), (c)(2), (c)(3), and (c)(4) of this AD, all manufacturer 
+serial numbers, certificated in any category.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -231, -232, and -233 airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 49, Airborne 
+Auxiliary Power.
+
+[[Page 32625]]
+
+(e) Reason
+
+    This AD was prompted by a report of a fire in the auxiliary 
+power unit (APU) air intake. An analysis demonstrated that, 
+following numerous unsuccessful APU start attempts in flight, there 
+is a risk of reverse flow, which could lead to flame propagation to 
+the APU air inlet and air intake duct. This AD was also prompted by 
+the determination that AD 2007-13-08 only addresses the unsafe 
+condition for certain airplanes. We are issuing this AD to detect 
+and correct reverse flow during APU startup, which could lead to 
+flame propagation in the APU air inlet and intake duct. Such 
+conditions could result in an in-flight fire in the APU area.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections and Corrective Actions
+
+    Except as provided by paragraph (i) of this AD, within 600 
+flight hours after July 25, 2007 (the effective date of AD 2007-13-
+08), or within 60 days after the effective date of this AD, 
+whichever occurs later: Inspect the APU starter motor, APU air inlet 
+plenum, and APU air intake of each affected APU identified in table 
+1 to paragraphs (g), (h), (i)(2)(ii), (j), and (k) of this AD for 
+discrepancies; and do all applicable corrective actions before 
+further flight; in accordance with the Accomplishment Instructions 
+of Airbus Service Bulletin A320-49-1068, Revision 01, dated February 
+2, 2006. Repeat the inspection thereafter at intervals not to exceed 
+600 flight hours.
+
+  Table 1 to Paragraphs (g), (h), (i)(2)(ii), (j), and (k) of This AD--
+                            Affected APU and
+                      Electronic Control Box (ECB)
+------------------------------------------------------------------------
+                APU                          ECB part Nos. (P/N)
+------------------------------------------------------------------------
+APIC APS 3200.....................  4500003D, 4500003E, 4500003F,
+                                     4500003G, 4500003H, or 4500003J.
+Honeywell 131-9A..................  3888394-120201, 3888394-121202,
+                                     3888394-121203, 3888394-221202, or
+                                     3888394-221203.
+Honeywell GTCP36-300..............  307950-1, 307950-2, 307950-3, 307950-
+                                     4, 304640-1, 304640-2, 304640-3,
+                                     304640-4, 304817-1, 304817-2, or
+                                     3888394-230300.
+------------------------------------------------------------------------
+
+(h) Repetitive Cleanings
+
+    Except as provided by paragraph (i) of this AD, prior to the 
+accumulation of 2,400 flight hours since first flight of the 
+airplane, or within 600 flight hours after July 25, 2007 (the 
+effective date of AD 2007-13-08), or within 60 days after the 
+effective date of this AD, whichever occurs latest, unless 
+accomplished previously in accordance with Airbus Service Bulletin 
+A320-49-1098, dated June 21, 2011: Clean the APU air intake of each 
+affected APU identified in table 1 to paragraphs (g), (h), 
+(i)(2)(ii), (j), and (k) of this AD, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-49-1068, 
+Revision 01, dated February 2, 2006. Repeat the cleaning task 
+thereafter at intervals not to exceed 2,400 flight hours.
+
+(i) Exceptions to Requirements in Paragraphs (g) and (h) of This AD
+
+    (1) For airplanes equipped with an APU and associated ECB part 
+number identified in table 2 to paragraphs (i)(1), (i)(2)(ii), and 
+(j) of this AD, the actions specified in paragraphs (g) and (h) of 
+this AD are not required.
+
+   Table 2 to Paragraphs (i)(1), (i)(2)(ii), and (j) of This AD--Non-
+                              Affected ECB
+------------------------------------------------------------------------
+                APU                          ECB Part Nos. (P/N)
+------------------------------------------------------------------------
+APIC APS 3200.....................  4500003K, 4500003L, or 4500003M.
+Honeywell 131-9A..................  3888394-121204, 3888394-121205,
+                                     3888394-221204, 3888394-221205, or
+                                     3888394-321206.
+Honeywell GTCP36-300..............  304640-5, 304817-3, or 3888394-
+                                     230301.
+------------------------------------------------------------------------
+
+    (2) For airplanes on which Airbus Modification 35803, 35936, 
+152289, 152645, 155015, or 157848 has been embodied in production, 
+the actions specified in paragraphs (g) and (h) of this AD are not 
+required provided that, within 30 days after the effective date of 
+this AD, the applicable actions specified in paragraphs (i)(2)(i) 
+and (i)(2)(ii) of this AD are done.
+    (i) The part number of the installed ECB is identified.
+    (ii) Any affected ECB identified in table 1 to paragraphs (g), 
+(h), (i)(2)(ii), (j), and (k) of this AD that is found to be 
+installed is replaced with an ECB having a part number identified in 
+table 2 to paragraphs (i)(1), (i)(2)(ii), and (j) of this AD, as 
+applicable to the APU installed on the airplane; and the replacement 
+is done in accordance with the Accomplishment Instructions of the 
+applicable service information identified in paragraph 
+(i)(2)(ii)(A), (i)(2)(ii)(B), (i)(2)(ii)(C), (i)(2)(ii)(D), 
+(i)(2)(ii)(E), or (i)(2)(ii)(F) of this AD; or using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, or the European Aviation Safety Agency 
+(EASA), or Airbus's EASA Design Organization Approval (DOA).
+    (A) Airbus Service Bulletin A320-49-1070, dated July 28, 2006.
+    (B) Airbus Service Bulletin A320-49-1075, Revision 01, dated 
+December 1, 2006.
+    (C) Airbus Service Bulletin A320-49-1077, Revision 04, dated 
+February 27, 2013.
+    (D) Airbus Service Bulletin A320-49-1098, dated June 21, 2011.
+    (E) Airbus Service Bulletin A320-49-1102, dated January 3, 2012.
+    (F) Airbus Service Bulletin A320-49-1107, Revision 02, dated May 
+10, 2016.
+    (3) For airplanes on which an APU ECB having a part number 
+approved after the effective date of this AD is installed, the 
+actions specified in paragraphs (g) and (h) of this AD are not 
+required, provided the conditions specified in paragraphs (i)(3)(i) 
+and (i)(3)(ii) of this AD are met.
+    (i) The part number must be approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+or EASA; or Airbus's EASA DOA.
+    (ii) The installation must be accomplished in accordance with 
+airplane modification instructions approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+or EASA; or Airbus's EASA DOA.
+
+(j) Optional Terminating Action
+
+    Replacing an affected ECB identified in table 1 to paragraphs 
+(g), (h), (i)(2)(ii), (j), and (k) of this AD with an ECB having a 
+part number identified in table 2 to paragraphs (i)(1), (i)(2)(ii), 
+and (j) of this AD, as applicable to the APU installed on the 
+airplane, constitutes terminating action for the repetitive 
+inspections required by paragraphs (g) and (h) of this AD. The 
+replacement must be done in accordance with the Accomplishment 
+Instructions of the applicable service information identified in 
+paragraph (i)(2)(ii)(A), (i)(2)(ii)(B), (i)(2)(ii)(C), 
+(i)(2)(ii)(D), (i)(2)(ii)(E), or (i)(2)(ii)(F) of this AD, or using 
+a method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA.
+
+(k) Parts Installation Prohibition
+
+    As of the effective date of this AD, no person may install on 
+any airplane an APU with an associated ECB identified in table 1 to 
+paragraphs (g), (h), (i)(2)(ii), (j), and (k) of this AD.
+
+[[Page 32626]]
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for actions specified in 
+paragraphs (i)(2) and (j) of this AD, if those actions were 
+performed before the effective date of this AD using any of the 
+service information specified in paragraphs (l)(1) through (l)(7) of 
+this AD.
+    (1) Airbus Service Bulletin A320-49-1075, dated September 22, 
+2006, which was incorporated by reference in AD 2007-13-08.
+    (2) Airbus Service Bulletin A320-49-1077, dated March 21, 2007, 
+which is not incorporated by reference in this AD.
+    (3) Airbus Service Bulletin A320-49-1077, Revision 01, dated 
+August 9, 2007, which is not incorporated by reference in this AD.
+    (4) Airbus Service Bulletin A320-49-1077, Revision 02, dated 
+July 1, 2008, which is not incorporated by reference in this AD.
+    (5) Airbus Service Bulletin A320-49-1077, Revision 03, dated 
+December 8, 2008, which is not incorporated by reference in this AD.
+    (6) Airbus Service Bulletin A320-49-1107, dated November 5, 
+2013, which is not incorporated by reference in this AD.
+    (7) Airbus Service Bulletin A320-49-1107, Revision 01, dated 
+July 28, 2015, which is not incorporated by reference in this AD.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Branch, send it to the 
+attention of the person identified in paragraph (n)(2) of this AD. 
+Information may be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office. The AMOC approval letter must specifically 
+reference this AD.
+    (ii) AMOCs approved previously for AD 2007-13-08 are approved as 
+AMOCs for the corresponding provisions of paragraphs (g) and (h) of 
+this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA; or EASA; or Airbus's EASA DOA. If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2016-0176, dated August 31, 2016; corrected September 
+1, 2016, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-9567.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(5) and (o)(6) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+August 21, 2017.
+    (i) Airbus Service Bulletin A320-49-1077, Revision 04, dated 
+February 27, 2013.
+    (ii) Airbus Service Bulletin A320-49-1098, dated June 21, 2011.
+    (iii) Airbus Service Bulletin A320-49-1102, dated January 3, 
+2012.
+    (iv) Airbus Service Bulletin A320-49-1107, Revision 02, dated 
+May 10, 2016.
+    (4) The following service information was approved for IBR on 
+July 25, 2007 (72 FR 33877, June 20, 2007).
+    (i) Airbus Service Bulletin A320-49-1068, Revision 01, dated 
+February 2, 2006.
+    (ii) Airbus Service Bulletin A320-49-1070, dated July 28, 2006.
+    (iii) Airbus Service Bulletin A320-49-1075, Revision 01, dated 
+December 1, 2006.
+    (5) For service information identified in this AD, contact 
+Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: [email protected]; Internet: 
+http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on June 29, 2017.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2017-14469 Filed 7-14-17; 8:45 am]
+BILLING CODE 4910-13-P

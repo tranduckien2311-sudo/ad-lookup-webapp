@@ -1,0 +1,29 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2013-0050 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2013-0050 Date: 05 March 2013 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with EU 748/2012, Part 21.A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. D Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A318, A319, A320 and A321 aeroplanes E TCDS Number: EASA.A.064 Foreign AD: Not applicable D
+
+Supersedure: None E Powerplant – CFM56-5/-5B – Aft Engine Mount Retainers –
+
+ATA 71 Inspection / Replacement S
+
+Manufacturer(s): Airbus (formerly Airbus Industries)
+
+Applicability: Airbus A318-111, A318-112, A319-111, A319-112, A319-113, A319-114, R A319-115, A320-111, A320-211, A320-212, A320-214, A320-215, A320-216, A321-111, A321-112, A321-211, A321-212 and A321-213 aeroplanes, all manufacturer serial numbers. E
+
+Reason: During in-service inspections, several aft engine mount retainers, fitted on aeroplanes equipped with CFM56-5/5B engines, have been found broken. The results of the investigations highlight that two different types of surface finish have been applied (respectively bright and dull material finishes), and that P dull finish adversely affects the strength of the retainer with regard to fatigue properties of the part. The pins which attach the engine link to the aft mount are secured by two nuts, which do not have a self-locking feature; this function is provided by the retainer U brackets. In case of failure of the retainer bracket, the locking feature of the nuts of the inner and outer pins is lost; as a result, these nuts could subsequently become loose. S In case of full loss of the nuts, there is the potential to also lose the pins, in which case the aft mount link will no longer be secured to the aft engine mount. The same locking feature is used for the three link assemblies of the aft mount. For the reasons described above, this AD requires a one-time detailed visual inspection (DVI) of the aft engine mount to identify the affected dull finish retainers and replace these with serviceable retainers. This AD also prohibits installation of any dull finish aft engine mount retainers. TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 1/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2013-0050
+
+Effective Date: 19 March 2013 Required Action(s) Required as indicated, unless accomplished previously: and Compliance (1) Within 3 months after the effective date of this AD, accomplish a DVI of the Time(s): aft engine mount retainers in accordance with the instructions of Airbus Alert Operators Transmission (AOT) A71N001-12 Revision 01. (2) If, during the DVI as required by paragraph (1) of this AD, any installed dull finish aft engine mount retainer is found without cracks and not failed, within 25 flight cycles (FC), repeat the DVI as required by paragraph (1) of this AD and, within 50 FC after the first DVI as required by paragraph (1) of this AD, replace all dull finish retainers in accordance with the instructions of Airbus AOT A71N001-12 Revision 01. (3) If, during any DVI as required by paragraph (1) of this AD, any installed aft engine mount retainer is found cracked or failed, before next flight, replace D all affected aft engine mount retainers in accordance with the instructions of Airbus AOT A71N001-12 Revision 01. (4) Aeroplanes from MSN 4942 and higher have been delivered by Airbus with non-affected aft engine mount retainers. These aeroplanes are not affected E by the requirements of paragraph (1) of this AD, provided that no engines and/or no aft engine mount retainers have been removed since first flight. (5) From the effective date of this AD, do not install any dull finish aft engine D mount retainer on an aeroplane. The instructions of Airbus AOT A71N001- 12, or those of Goodrich Service Bulletin (SB) RA32071-146, can be used to verify the correct finish of the part. E
+
+Ref. Publications: Airbus AOT A71N001-12 Revision 01 dated 09 August 2012. Goodrich SB RA32071-146 Revision 2, dated 26 July 2012. The use of later approved revisions of these documents is acceptable for compliance with the requirements of this AD. S 1. If requested and appropriately substantiated, EASA can approve
+
+Remarks: Alternative Methods of Compliance for this AD. R 2. This AD was posted on 21 December 2012 as PAD 12-161 for consultation until 18 January 2013. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the Safety Information E Section, Executive Directorate, EASA. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS - Airworthiness Office – EIAS, Fax +33 5 61 93 44 51, E-mail: account.airworth-eas@airbus.com. P U S TE.CAP.00110-003 © European Aviation Safety Agency. All rights reserved. 2/2 Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.

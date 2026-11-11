@@ -1,0 +1,505 @@
+[Federal Register Volume 83, Number 170 (Friday, August 31, 2018)]
+[Rules and Regulations]
+[Pages 44457-44460]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-18736]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0169; Product Identifier 2017-NM-095-AD; Amendment 
+39-19372; AD 2018-17-18]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2015-02-17, 
+which applied to all Airbus Model A330-200, A330-200 Freighter, and 
+A330-300 series airplanes. AD 2015-02-17 required revising the 
+electrical emergency configuration procedure in the Emergency 
+Procedures section of the airplane flight manual (AFM) to include 
+procedures for deploying the ram air turbine manually to provide 
+sufficient hydraulic power and avoid constant speed motor/generator 
+(CSM/G) shedding. Since we issued AD 2015-02-17, we have determined 
+that replacement or modification of the two flight warning computers 
+(FWCs) is necessary to address the identified unsafe condition. This AD 
+requires the replacement or modifications of the two FWCs. This AD also 
+removes airplanes from the applicability. We are issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective October 5, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 5, 
+2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of 
+February 13, 2015 (80 FR 4762, January 29, 2015).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAW, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 44 51; email [email protected]; 
+internet http://www.airbus.com. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 2200 South 216th 
+St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2018-0169.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0169; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is Docket Operations, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2015-02-17,
+
+[[Page 44458]]
+
+Amendment 39-18084 (80 FR 4762, January 29, 2015) (``AD 2015-02-17''). 
+AD 2015-02-17 applied to all Airbus Model A330-200, A330-200 Freighter, 
+and A330-300 series airplanes. The NPRM published in the Federal 
+Register on April 16, 2018 (83 FR 16248). The NPRM was prompted by a 
+determination that replacement or modification of the two FWCs is 
+necessary to address the identified unsafe condition. The NPRM proposed 
+to require the replacement or modification of the two FWCs. The NPRM 
+also proposed to remove airplanes from the applicability. We are 
+issuing this AD to address the identified unsafe condition.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0105R1, dated July 17, 2017 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A330-200, A330-200 
+Freighter, and A330-300 series airplanes. The MCAI states:
+
+    The Constant Speed Motor/Generator (CSM/G), as installed on 
+Airbus A330 aeroplanes, is qualified for an overload condition of 
+9.5 kVA [kilovolt-ampere] for 30 minutes. This duration is 
+sufficient to perform safe landing and go-around. However, 
+electrical load analysis revealed that the hydraulic power might not 
+be sufficient to supply the CSM/G during slat/flap extension, when 
+only one engine is running.
+    This condition, if not corrected, and in conjunction with the 
+loss of main system, could lead to a scenario where the crew is not 
+clearly warned that the electrical system has switched on the 
+battery and thus has a limited duration to support a safe landing.
+    To initially address this potential unsafe condition, Airbus 
+issued an Aircraft Flight Manual (AFM) Temporary Revision (TR) to 
+amend the electrical emergency configuration ``ELEC EMER CONFIG'' 
+procedure to require the pilot to deploy the ram air turbine 
+manually before setting the Landing Recovery to ``ON'' position, 
+which provides sufficient hydraulic power and avoids CSM/G shedding 
+under worst-case operational conditions. Consequently, EASA issued 
+AD 2014-0273 to require amendment of the AFM by incorporating the 
+applicable Airbus TR.
+    After finding that [EASA] AD 2014-0273 contained some incorrect 
+and incomplete information, EASA issued AD 2014-0281 [which 
+corresponds to FAA AD 2015-02-17], retaining the requirements of 
+EASA AD 2014-0273, which was superseded, but correcting the 
+information related to premod/pre Service Bulletin (SB) or post-mod/
+post SB aeroplane configurations.
+    Since EASA AD 2014-0281 was issued, in order to improve the 
+``ELEC EMER CONFIG'' procedure, Airbus developed modifications to 
+install improved FWCs, which is embodied in production through 
+Airbus modification (mod) 205228, and to be embodied in service with 
+Airbus SB A330-31-3232 * * *.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2014-0281, which is superseded, and requires 
+installation of a software standard upgrade [or replacement] of the 
+two FWCs and removal of the applicable AFM TR once the aeroplane is 
+modified.
+    Since EASA AD 2017-0105 was issued, it was identified that there 
+was no need to require removal of applicable AFM TR, nor 
+incorporation of a later AFM revision, as the contents are 
+identical. This revised [EASA] AD deletes the requirement of 
+paragraph (3) [of EASA AD 2017-0105].
+* * * * *
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0169.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment. The Air Line Pilots 
+Association, International (ALPA), indicated its support for the NPRM.
+
+Request for Additional Credit
+
+    Delta Air Lines requested that paragraph (l) of the proposed AD, 
+``Credit for Previous Actions,'' include Airbus Service Bulletin A330-
+31-3232, Revision 01, dated February 14, 2017, as well as Airbus 
+Service Bulletin A330-31-3232, dated May 4, 2016.
+    We disagree this change is necessary. Paragraph (f) of this AD 
+requires compliance with this AD unless already done. Paragraph (j) of 
+this AD mandates actions in accordance with Airbus Service Bulletin 
+A330-31-3232, Revision 01, dated February 14, 2017. Therefore, as 
+specified in paragraph (f) of this AD, having previously accomplished 
+the actions specified in Airbus Service Bulletin A330-31-3232, Revision 
+01, dated February 14, 2017, means compliance with paragraph (j) of 
+this AD has already been established. In paragraph (l) of this AD, we 
+give credit to operators that have previously accomplished an earlier 
+revision of the required service information identified in paragraph 
+(j) of this AD; therefore, as specified in paragraph (l) of this AD, 
+having accomplished Airbus Service Bulletin A330-31-3232, dated May 4, 
+2016, prior to the effective date of this AD means compliance with 
+paragraph (j) of this AD has already been established. We have not 
+changed this AD in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule as proposed, except for minor editorial changes. We 
+have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus SAS has issued A330/A340 Airplane Flight Manual (AFM) 
+Temporary Revision (TR) TR427, UPDATE OF ELEC--EMER CONFIG PROCEDURE, 
+Issue 1.0, dated November 7, 2014; and A330/A340 AFM TR TR428, UPDATE 
+OF ELEC--EMER CONFIG PROCEDURE, Issue 1.0, dated November 7, 2014. This 
+service information describes updated electrical emergency 
+configuration procedures in the AFM. This service information is 
+distinct because it applies to airplanes in different configurations.
+    Airbus SAS has issued Service Bulletin A330-31-3232, Revision 01, 
+including Appendix 01, dated February 14, 2017. This service 
+information describes procedures for replacement or modification of the 
+FWCs.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 105 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+[[Page 44459]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+4 work-hour x $85 per hour = $340............................              $0             $340          $35,700
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2015-02-2017, Amendment 39-18084 (80 FR 4762, January 29, 2015), and 
+adding the following new AD:
+
+2018-17-18 Airbus SAS: Amendment 39-19372; Docket No. FAA-2018-0169; 
+Product Identifier 2017-NM-095-AD.
+
+(a) Effective Date
+
+    This AD is effective October 5, 2018.
+
+(b) Affected ADs
+
+    This AD replaces AD 2015-02-17, Amendment 39-18084 (80 FR 4762, 
+January 29, 2015) (``AD 2015-02-17'').
+
+(c) Applicability
+
+    This AD applies to the airplanes identified in paragraphs 
+(c)(1), (c)(2), and (c)(3) of this AD, certificated in any category, 
+all manufacturer serial numbers, except those airplanes with Airbus 
+modification 205228 embodied in production.
+    (1) Airbus SAS Model A330-201, -202, -203, -223, and -243 
+airplanes.
+    (2) Airbus SAS Model A330-223F and -243F airplanes.
+    (3) Airbus SAS Model A330-301, -302, -303, -321, -322, -323, -
+341, -342, and -343 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 24, Electrical 
+power.
+
+(e) Reason
+
+    This AD was prompted by an electrical load analysis that 
+revealed that hydraulic power might not be sufficient to supply the 
+constant speed motor/generator (CSM/G) during slat/flap extension 
+when only one engine is running and a determination that replacement 
+or modification of the two flight warning computers (FWCs) is 
+necessary to address the identified unsafe condition. We are issuing 
+this AD to prevent such a condition which, in conjunction with the 
+loss of the main electrical system, could lead to the scenario where 
+the flight crew is not clearly warned that the electrical system has 
+switched on the battery and thus has a limited duration that would 
+allow a safe landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Airplane Flight Manual (AFM) Revision, With a New 
+Exception
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2015-02-17, with a new exception. Except for airplanes identified in 
+paragraph (h) of this AD: Within 15 days after February 13, 2015 
+(the effective date of AD 2015-02-17), revise the Emergency 
+Procedures section of the Airbus A330/A340 AFM to include the 
+information in the applicable Airbus temporary revision (TR) 
+specified in paragraph (g)(1) or (g)(2) of this AD. This may be done 
+by inserting a copy of the applicable TR specified in paragraph 
+(g)(1) or (g)(2) of this AD into the AFM. Operate the airplane 
+according to the procedures in the applicable TR. When the 
+information in the applicable TR has been included in the general 
+revisions of the AFM, the general revisions may be inserted into the 
+AFM, provided the relevant information in the general revision is 
+identical to that in the TR, and the TR may be removed.
+    (1) For airplanes in Airbus pre-modification 47930 configuration 
+and pre-Airbus Service Bulletin A330-28-3067 configuration: Airbus 
+A330/A340 AFM TR TR427, UPDATE OF ELEC--EMER CONFIG PROCEDURE, Issue 
+1.0, dated November 7, 2014.
+    (2) For airplanes in Airbus post-modification 47930 
+configuration or post-Airbus Service Bulletin A330-28-3067 
+configuration: Airbus A330/A340 AFM TR TR428, UPDATE OF ELEC--EMER 
+CONFIG PROCEDURE, Issue 1.0, dated November 7, 2014.
+
+[[Page 44460]]
+
+(h) New Airplanes Not Affected by the Retained AFM Revision
+
+    Airplanes operated with an AFM that incorporates the information 
+in Airbus EMERGENCY PROCEDURES/24-ELECTRICAL POWER/ELEC--EMER CONFIG 
+Documentary Unit (DU) 00005218.0001001 (for airplanes in Airbus pre-
+modification 47930 configuration and pre-Airbus Service Bulletin 
+A330-28-3067 configuration), or DU 00005218.0002001 (for airplanes 
+in an Airbus post-modification 47930 configuration or post-Airbus 
+Service Bulletin A330-28-3067 configuration), as applicable, are 
+compliant with the requirements of paragraph (g) of this AD, 
+provided that the applicable DU is not removed from the AFM.
+
+(i) New Definitions
+
+    (1) For the purposes of this AD, an affected FWC is an FWC 
+standard lower than T7-0. An FWC that is not affected is an FWC 
+standard T7-0 having part number (P/N) LA2E20202T70000, or higher 
+standard.
+    (2) For the purposes of this AD: Group 1 airplanes are those 
+equipped with an affected FWC (as defined in paragraph (i)(1) of 
+this AD) as of the effective date of this AD. Group 2 airplanes are 
+those equipped with FWCs that are not affected (as defined in 
+paragraph (i)(1) of this AD) as of the effective date of this AD.
+
+(j) New Requirement of This AD: FWC Replacement or Modification
+
+    For Group 1 airplanes: Within 24 months after the effective date 
+of this AD: Replace or modify an affected FWC with an FWC that is 
+not affected, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-31-3232, Revision 01, including 
+Appendix 01, dated February 14, 2017.
+
+(k) Parts Installation Prohibition
+
+    (1) For Group 1 airplanes: After accomplishing the actions 
+required by paragraph (j) of this AD, no person may install an 
+affected FWC on the modified airplane.
+    (2) For Group 2 airplanes: As of the effective date of this AD, 
+no person may install an affected FWC on any airplane.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(j) of this AD, if those actions were performed before the effective 
+date of this AD using Airbus Service Bulletin A330-31-3232, dated 
+May 4, 2016.
+
+(m) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (n)(2) of this AD. Information 
+may be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (ii) AMOCs approved previously for AD 2015-02-17 are approved as 
+AMOCs for the corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus SAS's EASA Design Organization Approval (DOA). If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0105R1, dated July 17, 2017, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0169.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(5) and (o)(6) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+October 5, 2018.
+    (i) Airbus Service Bulletin A330-31-3232, Revision 01, including 
+Appendix 01, dated February 14, 2017.
+    (ii) Reserved.
+    (4) The following service information was approved for IBR on of 
+February 13, 2015 (80 FR 4762, January 29, 2015).
+    (i) Airbus A330/A340 Airplane Flight Manual (AFM) Temporary 
+Revision TR427, UPDATE OF ELEC--EMER CONFIG PROCEDURE, Issue 1.0, 
+dated November 7, 2014.
+    (ii) Airbus A330/A340 AFM Temporary Revision TR428, UPDATE OF 
+ELEC--EMER CONFIG PROCEDURE, Issue 1.0, dated November 7, 2014.
+    (5) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAW, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; internet 
+http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on August 17, 2018.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-18736 Filed 8-30-18; 8:45 am]
+ BILLING CODE 4910-13-P

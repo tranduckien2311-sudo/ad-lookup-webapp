@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-085-099(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 and A321 Aircraft Slats-flaps control computer This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 models -111, -211, -212, -214, -231, -232, -233, all serial numbers having not received AIRBUS INDUSTRIE modification N° 25094 or AIRBUS INDUSTRIE Service Bulletin A320-27-1096 and A321 models -111, -112 and -131, all serial numbers having not received AIRBUS INDUSTRIE modification N° 25360 or AIRBUS INDUSTRIE Service Bulletin A320-27-1103. In order to avoid a possible uncommanded retraction of slats and/or flaps due to Command Sensor Unit malfunction, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive : 1) Within 24 months, modify the SFCC standard in accordance with AIRBUS INDUSTRIE Service Bulletin A320-27-1096 for A320 or AIRBUS INDUSTRIE Service Bulletin A320-27-1103 for A321. 2) After application of paragraph 1) of this
+
+Airworthiness Directive delete the T.R. N° 4.02.00/02 from A320/A321 Flight Manual. Ref. : AIRBUS INDUSTRIE Service Bulletin A320-27-1096 (or any further approved revision) AIRBUS INDUSTRIE Service Bulletin A320-27-1103 (or any further approved revision) EFFECTIVE DATE : MARCH 22, 1997 v/JYR AIRBUS INDUSTRIE March 12, 1997 97-085-099(B) A320 and A321 Aircraft

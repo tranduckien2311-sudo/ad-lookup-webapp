@@ -1,0 +1,38 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0137R1
+
+Airworthiness Directive
+
+AD No.: 2016-0137R1
+
+Issued: 21 July 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A330 and A340 aeroplanes
+
+Effective Date: Revision 1: 22 July 2016 Original issue: 22 July 2016 TCDS Number(s): EASA.A.004, EASA.A.015 Foreign AD: Not applicable Revision: This AD revises EASA AD 2016-0137 dated 08 July 2016.
+
+ATA 25 – Equipment / Furnishings – Emergency Exit Door 3 Type 1 Slide – Identification / Replacement
+
+Manufacturer(s): Airbus (formerly Airbus Industrie)
+
+Applicability: Airbus A330-201, A330-202, A330-203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, A330-303, A330-321, A330-322, A330-323, A330-341, A330-342 and A330-343 aeroplanes, all manufacturer serial numbers (MSN), except those that have embodied Airbus modification (mod) 40161 in production, and Airbus A340-211, A340-212, A340-213, A340-311, A340-312 and A340-313 aeroplanes, all MSN, except those that have embodied Airbus mod 40161 in production.
+
+Reason: It has been reported that some door 3 Type 1 escape slides Part Number (P/N) 7A1509-series may have sustained damage to the slide aspirator, due to an incorrect packing during last overhaul. This damage affects the air inlet end of the slide aspirator by either permanently deforming the inlet, or leading to cracks in the supply line to the aspirator nozzle. Page 1 of 3 TE.CAP.00111-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0137R1 This condition, if not detected and corrected, could lead to failure of the slide aspirator to perform its intended function to inflate the evacuation slide, preventing slide deployment during an emergency, possibly resulting in reduced evacuation capacity from the aeroplane and consequent injury to occupants. Prompted by these findings, Airbus issued Alert Operators Transmission (AOT) A25L009-16 to provide instructions to identify and replace the affected slides. Consequently, EASA issued AD 2016-0137, requiring identification of the door 3 Type 1 slide installed on the aeroplane, and, depending on findings, the replacement of the slide with a serviceable part. Since that AD was issued, it was identified that affected slides cannot be installed on aeroplanes embodying optional Airbus mod 40161. For the reason described above, this AD is revised to reduce the Applicability, by excluding aeroplanes that have embodied Airbus mod 40161 in production.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Note 1: For the purpose of this AD, an affected slide has a P/N and a Serial Number (s/n) as listed in Table 1 of this AD. Table 1 – Affected Slides Slide P/N Slide s/n 7A1509-027 AD0918, AD0975, AD0979, AD1111 and AD1155 AD0488, AD0759, AD0942, AD0960, AD1025, AD1033, AD1034, AD1080 and 7A1509-037 AD1184 AD1231, AD1232, AD1450, AD1565, AD1730, AD1737, AD1805, AD1822 and 7A1509-123 AD1860 AD1769, AD1780, AD1781, AD1816, AD1834, AD1841, AD1862, AD1869, 7A1509-125 AD2066, AD2103, AD2104, AD2178, AD2223, AD2263, AD2279, AD2301, AD2407, AD2409 and AD2497 (1) Within 30 days after the effective date of this AD, inspect each left hand (LH) and right hand (RH) door 3 Type 1 slide to identify the P/N and the s/n in accordance with the instructions of Airbus AOT A25L009-16. A review of aeroplane delivery and/or maintenance records is acceptable in lieu of this inspection, provided that those records can be relied upon for that purpose and the P/N and the s/n of each slide can be positively identified from that review. Note 2: Airbus AOT A25L009-16 lists the corresponding aeroplane MSN on which the affected slides (see Table 1 of this AD) were reinstalled after last maintenance. That MSN list is for information only, as it cannot be excluded that a potentially affected slide has been removed from an aeroplane and later re-installed on another aeroplane. Page 2 of 3 TE.CAP.00111-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0137R1 (2) For each affected slide, identified as required in paragraph (1) of this AD, within the compliance time defined in Table 2 of this AD, as applicable, replace each affected slide with a serviceable one in accordance with the instructions of Airbus AOT A25L009-16. Table 2 – Slides Replacement Affected Slide Compliance Time / Action Position(s) Before next flight after identification as required by paragraph (1) of this AD, replace at least one slide, and, within 10 months or 4 100 flight hours LH and RH side (FH), whichever occurs first after the effective date of this AD, replace the second slide Within 10 months or 4 100 FH, whichever occurs first after the effective LH or RH side date of this AD, replace the slide (3) From the effective date of this AD, it is allowed to install an affected slide (see Table 1 of this AD) on any aeroplane at door 3 Type 1 position, provided it is determined that the slide has been overhauled after 01 May 2016.
+
+Ref. Publications: Airbus AOT A25L009-16 original issue dated 07 July 2016. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – EIAL (Airworthiness Office), E-mail: airworthiness.A330-A340@airbus.com. Page 3 of 3 TE.CAP.00111-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

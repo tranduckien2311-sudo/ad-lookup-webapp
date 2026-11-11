@@ -1,0 +1,6 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1999-412-141(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A321 Aircraft RAT Actuator (ATA 29) APPLICABILITY: AIRBUS INDUSTRIE A319 and A321 all certified models all serial numbers without AIRBUS INDUSTRIE modification 27015 in production or AIRBUS INDUSTRIE Service Bulletin A320-29-1088 in service. REASON: The Ram Air Turbine (RAT) actuator may jam if the RAT deploy is initiated with the aircraft in negative G conditions. In such case, the RAT is not recoverable during flight. ACTION: Before April 30, 2001, replace the RAT actuator by an improved one in accordance with the instructions of AIRBUS INDUSTRIE Service Bulletin A320-29-1088. REF. : AIRBUS INDUSTRIE Service Bulletin A320-29-1088 (or any further approved revision) EFFECTIVE DATE : OCTOBER 30, 1999 n/ JJD AIRBUS INDUSTRIE October 20, 1999 1999-412-141(B) A319/A321 aircraft

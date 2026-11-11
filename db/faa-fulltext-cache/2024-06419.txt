@@ -1,0 +1,1272 @@
+[Federal Register Volume 89, Number 60 (Wednesday, March 27, 2024)]
+[Rules and Regulations]
+[Pages 21181-21190]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-06419]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-2401; Project Identifier AD-2023-01278-E; 
+Amendment 39-22703; AD 2024-05-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines, LLC Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2022-19-15 
+for certain International Aero Engines, LLC (IAE LLC) Model PW1100G 
+series engines; and AD 2023-16-07 for certain IAE LLC Model PW1100G 
+series engines and PW1400G series engines. AD 2022-19-15 required an 
+angled ultrasonic inspection (AUSI) of the high-pressure turbine (HPT) 
+1st-stage disk and HPT 2nd-stage disk, and replacement, if necessary. 
+AD 2023-16-07 required an AUSI of the HPT 1st-stage hub (also known as 
+the HPT 1st-stage disk) and HPT 2nd-stage hub (also known as the HPT 
+2nd-stage disk) for cracks, and replacement, if necessary, which is 
+terminating action for AD 2022-19-15. This AD was prompted by an 
+investigation that determined an increased risk of powdered metal 
+anomalies for all powdered metal parts in certain powdered metal 
+production campaigns, which are susceptible to failure significantly 
+earlier than previously determined. This AD retains the AUSI 
+requirement for certain HPT 1st-stage and HPT 2nd-stage hubs from AD 
+2023-16-07. This AD requires performing an AUSI of the HPT 1st-stage 
+hub, HPT 2nd-stage hub, high-pressure compressor (HPC) 7th-stage 
+integrally bladed rotor (IBR-7), and HPC 8th-stage integrally bladed 
+rotor (IBR-8) for cracks, and replacing if necessary. This AD also 
+requires accelerated replacement of the HPC IBR-7, HPC IBR-8, HPC rear 
+hub, HPT 1st-stage hub, and HPT 2nd-stage hub. The FAA is issuing this 
+AD to address the unsafe condition on these products.
+
+DATES: This AD is effective April 11, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of April 11, 
+2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of August 
+28, 2023 (88 FR 56999, August 22, 2023).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+November 7, 2022 (87 FR 59660, October 3, 2022; corrected October 24, 
+2022 (87 FR 64156)).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-2401; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For Pratt & Whitney (PW) service information that is 
+incorporated by reference, contact International Aero Engines, LLC, 400 
+Main Street, East Hartford, CT 06118; phone: (860) 565-0140; email: 
+[email protected]; website: connect.prattwhitney.com.
+     You may view this service information that is incorporated 
+by reference at the FAA, Airworthiness Products Section, Operational 
+Safety Branch, 1200 District Avenue, Burlington, MA 01803. For 
+information
+
+[[Page 21182]]
+
+on the availability of this material at the FAA, call (817) 222-5110. 
+It is also available at regulations.gov under Docket No. FAA-2023-2401.
+
+FOR FURTHER INFORMATION CONTACT: Carol Nguyen, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(781) 238-7655; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (referred to herein 
+as the NPRM) to amend 14 CFR part 39 to supersede AD 2022-19-15, 
+Amendment 39-22184 (87 FR 59660, October 3, 2022; corrected October 24, 
+2022 (87 FR 64156)) (AD 2022-19-15); and AD 2023-16-07, Amendment 39-
+22526 (88 FR 56999, August 22, 2023) (AD 2023-16-07). AD 2022-19-15 
+applied to certain IAE LLC Model PW1122G-JM, PW1124G1-JM, PW1124G-JM, 
+PW1127G1-JM, PW1127GA-JM, PW1127G-JM, PW1129G-JM, PW1130G-JM, PW1133GA-
+JM, and PW1133G-JM engines. AD 2023-16-07 applied to certain IAE LLC 
+Model PW1122G-JM, PW1124G1-JM, PW1124G-JM, PW1127G-JM, PW1127G1-JM, 
+PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-JM, PW1133GA-JM, PW1428G-
+JM, PW1428GA-JM, PW1428GH-JM, PW1431G-JM, PW1431GA-JM, and PW1431GH-JM 
+engines. The NPRM published in the Federal Register on December 28, 
+2023 (88 FR 89627). The NPRM was prompted by manufacturer analysis of 
+an HPC IBR-7 failure that determined it was caused by a powdered metal 
+anomaly that is similar in nature to the anomalies outlined in AD 2022-
+19-15. The analysis concluded that there is an increased risk of 
+failure for additional powdered metal parts in certain powdered metal 
+production campaigns, including the HPC IBR-7 and HPC IBR-8, and that 
+all affected parts are susceptible to failure significantly earlier 
+than previously determined. The condition, if not addressed, could 
+result in uncontained hub failure, release of high-energy debris, 
+damage to the engine, damage to the airplane, and loss of the airplane.
+    To address the unsafe condition, the FAA issued an NPRM (Docket No. 
+FAA-2023-2237; Project Identifier AD-2023-01057-E) (referred to herein 
+as the previous NPRM) to supersede AD 2022-19-15 and AD 2023-16-07, 
+which was published in the Federal Register on December 12, 2023 (88 FR 
+86088). However, after the previous NPRM was issued, the FAA received 
+information from PW that an error was inadvertently included in the 
+previous NPRM's compliance times for some of the HPT 1st-stage and 2nd-
+stage hubs, which would have required removal significantly later than 
+necessary. Due to the need to shorten the removal timeframe, the FAA 
+determined it was necessary to withdraw the previous NPRM and issue the 
+NPRM for the unsafe condition with the correct compliance times.
+    In the NPRM, the FAA proposed to continue to require performing an 
+AUSI of the HPT 1st-stage hub and HPT 2nd-stage hub and replacing as 
+necessary. The NPRM proposed to require performing an AUSI of the HPC 
+IBR-7 and HPC IBR-8 for cracks and replacing as necessary. The NPRM 
+also proposed to require accelerated replacement of the HPC IBR-7, HPC 
+IBR-8, HPC rear hub, HPT 1st-stage hub, HPT 1st-stage air seal, HPT 
+1st-stage blade retaining plate, HPT 2nd-stage hub, HPT 2nd-stage blade 
+retaining plate, and HPT 2nd-stage rear seal. The FAA is issuing this 
+AD to address the unsafe condition on these products.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from 14 commenters, including the Air 
+Line Pilots Association, International (ALPA); Air New Zealand; All 
+Nippon Airways CO., LTD. (ANA); Delta Air Lines, Inc. (DAL); Hawaiian 
+Airlines; Hong Kong Express Airways Limited (HK Express); InterGlobe 
+Aviation Limited (IndiGo); JetBlue Airways (JetBlue); Lufthansa Group 
+PW1100G-JM Operators: Lufthansa, SWISS International, Austrian, 
+Lufthansa Cityline (Lufthansa Group); Lufthansa Technik AG; MTU 
+Maintenance Hannover GmbH; PW; United Airlines; and Vietnam Airlines 
+JSC. ALPA urged the manufacturer to develop measures to minimize the 
+operational impact these inspections will have on operators but 
+supported the proposed AD without change. Thirteen commenters requested 
+changes to the proposed AD. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Update Service Information
+
+    Three commenters, Delta, JetBlue, and Lufthansa Technik AG 
+requested that the FAA revise paragraphs (h)(2), (h)(6), and (m)(3)(ii) 
+of the proposed AD to refer to PW ASB PW1000G-C-72-00-0225-00A-930A-D, 
+Issue 002, dated December 12, 2023, rather than PW ASB PW1000G-C-72-00-
+0225-00A-930A-D, Issue 001, dated November 3, 2023. Lufthansa Technik 
+AG noted that it would be beneficial to use the latest SB revision in 
+sections (h), (i), and (j) of the proposed AD.
+    The FAA agrees. PW Alert Service Bulletin (ASB) PW1000G-C-72-00-
+0225-00A-930A-D, Issue No: 002, dated December 12, 2023, adds 
+alternative methods of AUSI compliance to the Compliance section, adds 
+service information to the References section, and removes unnecessary 
+steps from the Accomplishment Instructions. The FAA revised this AD to 
+refer to PW ASB PW1000G-C-72-00-0225-00A-930A-D, Issue No: 002, dated 
+December 12, 2023. The FAA also revised paragraph (j), Credit for 
+Previous Actions, of this AD to allow credit for certain actions 
+performed in accordance with PW ASB PW1000G-C-72-00-0225-00A-930A-D, 
+Issue No: 001, dated November 3, 2023.
+
+Request To Add Service Information
+
+    One commenter, Lufthansa Technik AG, requested the addition of the 
+following documents to the Related Service Information Under 1 CFR part 
+51 paragraph of the NPRM:
+     Special Instruction (SI) 46F-23A, dated April 4, 2023, 
+which provides instructions to inspect IBR-7 parts;
+     SI 47F-23A, dated April 4, 2023, which provides 
+instructions to inspect IBR-8 parts; and
+     SI 169F-23B, dated October 11, 2023, and previous, which 
+provides a procedure to inspect all affected hardware in-shop.
+    Lufthansa Technik AG noted that SI 169F-23B should be added to the 
+proposed AD to ensure that credit can be taken from last accomplishment 
+of this SI.
+    The FAA disagrees. The Related Service Information Under 1 CFR part 
+51 paragraph contains service information that is incorporated by 
+reference in this AD, and the above-referenced service information is 
+not incorporated by reference. The FAA did not change this final rule 
+as a result of this comment.
+
+Request To Allow Future Revisions of Service Information
+
+    Three commenters, ANA, Hawaiian Airlines, and HK Express Airways 
+requested the FAA add ``or later'' to SI No. 222F-23 in the AD or to 
+consider not requiring a specific SI No. 222F-23 revision. The 
+commenters noted that this SI will be revised periodically and 
+suggested that the later revisions should also be exempt from the 
+proposed AD. One commenter, ANA, also requested that the FAA add the 
+phrase ``or later
+
+[[Page 21183]]
+
+revision'' to each service information (Service Bulletin and PW Special 
+Instruction) stated in paragraph (m) of the proposed AD.
+    The FAA disagrees with adding ``or later'' or ``or later revision'' 
+for service information incorporated by reference in this AD. Future 
+revisions of the service information have not yet been published by the 
+manufacturer or reviewed by the FAA, and therefore cannot be approved 
+as required service information. A request for an alternative method of 
+compliance (AMOC) can be submitted to the FAA in accordance with the 
+requirements of paragraph (k) of this AD if future revisions of the 
+service information referenced in this AD are published. Additionally, 
+if future revisions of the service information are published by the 
+manufacturer and approved by the FAA, the FAA may consider further 
+rulemaking. The FAA did not change this AD as a result of these 
+comments.
+
+Request To Exclude Unaffected Parts
+
+    Eleven commenters, ANA, DAL, Hawaiian Airlines, HK Express Airways, 
+IndiGo, JetBlue, Lufthansa Group, Lufthansa Technik AG, MTU Maintenance 
+Hannover GmbH, PW, and United Airlines, recommended the FAA exempt the 
+HPC IBR-7, HPC IBR-8, HPC Rear Hub, HPT 1st stage hub, and HPT 2nd 
+stage hub serial numbers listed in Tables 1, 2, and 3 of PW SI No. 
+222F-23 from the requirements set forth in the proposed AD. PW 
+explained that SI No. 222F-23 identifies specific part numbers and 
+serial numbers that were manufactured outside the affected population 
+of material manufactured from powdered metal addressed by the proposed 
+AD. PW requested modifying the ``Applicability'' section of the 
+proposed AD to exclude parts which are not in the affected population.
+    The FAA agrees. The FAA will revise paragraph (c), Applicability, 
+of this AD to reference Tables 1, 2, and 3 of PW SI No. 222F-23, 
+Revision A, dated February 13, 2024, which specifies part numbers and 
+serial numbers verified as manufactured from powdered metal campaigns 
+produced prior to November 1, 2015, or after September 1, 2021, and 
+which are therefore outside the population of material manufactured 
+from powdered metal addressed by this AD. This change in the 
+applicability reduces the affected part numbers and serial numbers.
+
+Request Clarification on IBR-8 Part Numbers
+
+    Lufthansa Technik AG commented that two IBR-8 P/Ns, 30G3808 and 
+30G6308, are listed in the Illustrated Parts Catalog and in the 
+airworthiness limitations, but not in the proposed AD. The commenter 
+asked for clarification that these part numbers do not require AUSI and 
+have no additional part replacement but are not allowed for 
+reinstallation in accordance with paragraph (i)(5) of the proposed AD. 
+The commenter suggested this could be due to low life-limited part 
+life.
+    For clarity, the FAA did not address HPC IBR-8 having P/N 30G3808 
+and 30G6308 in this AD because the FAA has determined that those parts 
+are either retired, out of service, or have airworthiness limitations 
+that are more restrictive than the requirements of this AD. The FAA did 
+not change this AD as a result of this comment.
+
+Request To Modify Paragraph (g) of the Proposed AD To Include Certain 
+Part Numbers
+
+    Lufthansa Technik AG requested that the FAA review the inclusion of 
+all four affected HPT Stg 1 and Stg 2 part numbers in paragraphs (g)(1) 
+and (2) of the proposed AD for completeness of retaining the 
+requirements of AD 2023-16-07 with no change.
+    The FAA disagrees. Paragraph (g), Retained Inspections from AD 
+2023-16-07, With No Changes, of this AD applies to certain part and 
+serial numbers as specified. The FAA did not change this AD as a result 
+of this comment.
+
+Request To Modify the Compliance Language in Paragraph (g) of the 
+Proposed AD
+
+    One commenter, ANA, requested to change the required action 
+specified in paragraph (g) of the proposed AD from ``perform an AUSI of 
+the affected parts within 30 days,'' to ``remove the affected engine 
+from service within 30 days, and thereafter perform an AUSI of the 
+affected part before release to service.''
+    The FAA disagrees. The commenter provided no justification for the 
+request, and the FAA has determined that this AD as written 
+accomplishes the same result requested by the commenter. The FAA did 
+not change this AD as a result of this comment.
+
+Request To Remove References to Certain Parts
+
+    Two commenters, Air New Zealand and PW, observed that Table 3 of 
+the proposed AD includes a reference to components that are not 
+affected by the powdered metal issue and are not referenced in PW SB 
+PW1000G-C-72-00-0224 and PW1000G-C-72-00-0225. Air New Zealand 
+suggested that including these in the proposed AD would create 
+confusion and unnecessary complexity when processing and showing 
+compliance. PW noted that the proposed AD would not require accelerated 
+replacement of HPT 1st-stage front air seal, HPT 2nd-stage rear air 
+seal, HPT 1st-stage blade retaining plate, and HPT 2nd-stage blade 
+retaining plate, and further noted that these parts would be 
+automatically replaced with incorporation of the Block D 1st and 2nd 
+stage turbine disks. Air New Zealand requested the removal of the 
+references to the HPT 1&2 air seals and the HPT Stage 1 & 2 retaining 
+plates.
+    The FAA agrees. The FAA will remove the references to HPT 1st-stage 
+front air seal, HPT 2nd-stage rear air seal, HPT 1st-stage blade 
+retaining plate, and HPT 2nd-stage blade retaining plate from this AD.
+
+Request To Include Calculation for Mixed Model Management
+
+    Three commenters, ANA, Lufthansa Group, and Lufthansa Technik AG, 
+observed that a mixed model management calculation as defined in PW ASB 
+PW1000G-C-72-00-0224-00A-930A-D and PW ASB PW1000G-C-72-00-0225-00A-
+930A-D is not mentioned in the proposed AD. Lufthansa Technik AG 
+suggested that this calculation is also referenced in SIL 17. Lufthansa 
+Group noted that, without a stated reference to the mixed model 
+management calculation, it is possible that engines operated at any 
+time at the higher thrust rating must be treated as such. The 
+commenters requested that the FAA state in the proposed AD that mixed 
+model management calculation can be applied to address parts that have 
+operated in both Group 1 and Group 2 engines.
+    The FAA agrees. The FAA will revise paragraph (h), New Required 
+Actions, of this AD to address the calculation of cyclic limits for 
+part replacement and AUSI compliance times for parts that have been 
+installed in a Group 1 and Group 2 configuration as defined in the note 
+to Table 3 of the compliance paragraph of PW ASB PW1000G-C-72-00-0224-
+00A-930A-D, Issue No: 001 and PW1000G-C-72-00-0225-00A-930A-D, Issue 
+No: 002. The FAA has not reviewed SIL 17 and will not reference this 
+service information in this AD.
+
+Request To Add a Cyclic Limit to Paragraph (h)(1) of the Proposed AD
+
+    One commenter, Lufthansa Technik AG, requested the FAA add a cyclic 
+limit to paragraph (h)(1) of the proposed AD. The commenter noted that 
+all affected hardware is covered by the 100-flight cycle (FC) timeframe 
+in paragraph (h)(9) of the proposed AD. The
+
+[[Page 21184]]
+
+commenter suggested that, since there are other unrelated issues in the 
+HPC, and as there is no cyclic limitation planned for the AUSI of the 
+HPC parts, the FAA exclude the requirement to perform an AUSI in 
+accordance with paragraph (h)(1) of the proposed AD below 500 FCs since 
+the last AUSI or since new, unless the HPC rotor is disassembled. The 
+commenter explained that this would remove the need to inspect parts 
+that were recently installed but removed for access.
+    The FAA disagrees. The FAA cannot account for all circumstances 
+that would require an engine shop visit. Unusual engine shop visit 
+circumstances may be considered through the provisions of paragraph 
+(k), Alternative Methods of Compliance, of this AD. The FAA did not 
+change this AD as a result of this comment.
+
+Request To Clarify Discrepancy in Compliance Times Between the Proposed 
+AD and the PW ASB
+
+    Two commenters, DAL and IndiGo, noted a discrepancy between the 
+compliance times in the proposed AD and those in the PW ASBs. IndiGo 
+requested that the FAA clarify if the compliance timeline in the 
+proposed AD supersedes the compliance timeline in the PW ASBs, and if 
+the operators can wait for the proposed AD to be issued and follow the 
+effective date stated in the proposed AD. DAL requested that the FAA 
+add a paragraph or revise paragraph (h)(2) to address the 100-FC 
+drawdown periods in the proposed AD and the discrepancy between the 
+compliance times of the AD and the PW ASBs.
+    The FAA disagrees with adding a paragraph. Operators are required 
+to comply within the compliance times specified in this AD. However, 
+how an operator reacts to recommended actions from the design approval 
+holder (DAH) should be spelled out in their approved maintenance 
+program and is not governed by this AD. The FAA did not change this AD 
+as a result of this comment.
+
+Request To Adjust Compliance Time To Account for Cycle Count
+
+    One commenter, Vietnam Airlines, observed that the drawdown cycles 
+for mandated actions (such as part replacement or inspection) shall be 
+contingent upon the cycle count surpassing the compliance threshold 
+outlined in Table 1 to Paragraph (h)(2) and Table 2 to Paragraph (h)(3) 
+of the proposed AD. The commenter suggested that there should be 
+distinctions in treatment between an engine exceeding the threshold by 
+1,000 cycles and one exceeding the threshold by 200 cycles. Should the 
+former exhibit a drawdown period of 100 cycles, the commenter 
+recommended that the latter be allocated a longer period for 
+compliance.
+    The FAA disagrees. The FAA determined that a tiered drawdown is not 
+necessary because all parts exceeding the compliance time or cycle 
+limit stated in Table 1 to paragraph (h)(2) and Table 2 to paragraph 
+(h)(3) of this AD must be removed within 100 FCs after the effective 
+date of this AD. The FAA did not change this AD as a result of this 
+comment.
+
+Request To Include Life Reduction for Certain HPC Rear Hub
+
+    One commenter, ANA, noted that the compliance times for HPC rear 
+hub having P/N 30G4008 are specified in ASB PW1000G-C-72-00-0224-00A-
+930A-D, but they are not included in Table 3 of the proposed AD. 
+Therefore, the commenter observed, an engine may be used beyond the 
+compliance times specified in ASB PW1000G-C-72-00-0224-00A-930A-D. ANA 
+requested that the proposed AD be revised to include the compliance 
+times for P/N 30G4008 specified in ASB PW1000G-C-72-00-0224-00A-930A-D.
+    The FAA disagrees. This AD requires the removal of HPC rear hub 
+having P/N 30G4008 at either the next HPC engine shop visit or the next 
+HPT engine shop visit, whichever occurs first. The FAA determined that 
+it is not necessary to specify a compliance time for HPC rear hub 
+having P/N 30G4008 due to the cycle limits for the associated HPC and 
+HPT parts. The FAA did not change this AD as a result of this comment.
+
+Request To Change ``Crack'' to ``Defect'' in Paragraph (h)(8) of the 
+Proposed AD
+
+    One commenter, Lufthansa Technik AG, observed that paragraph (h)(8) 
+of the proposed AD requires to remove only parts found with a crack. 
+The commenter stated that due to AUSI procedure, it cannot be 
+determined if it is a crack or just an anomaly. Therefore, the 
+commenter requested that the FAA change the wording so that all parts 
+with defects will be removed from service.
+    The FAA partially agrees. The FAA does not agree with the wording 
+proposed by the commenter. The FAA agrees to meet the commenter's 
+intent by changing the wording of paragraph (h)(9) of this AD from ``if 
+any crack is found,'' to ``if any crack indication is found.''
+
+Request To Include Reference to New Parts
+
+    One commenter, Lufthansa Technik AG, requested that the FAA change 
+paragraph (h)(9) of the proposed AD to read ``[. . .] 100 FCs or less 
+since the last AUSI OR NEW, (re-)inspection [. . .].'' The commenter 
+explained that this would allow also counting from reinstallation of 
+new hardware (where it cannot be determined if the AUSI was performed 
+during production at OEM).
+    The FAA disagrees. Paragraph (h)(10) of this AD applies to 
+repetitive inspections of affected parts installed within the last 100 
+FCs. Parts that are not included in paragraph (c), Applicability, of 
+this AD are not subject to the repetitive AUSI requirement. The FAA did 
+not change this AD as a result of this comment.
+
+Request To Revise Heading of Table 1 to Paragraph (h)(2) of the 
+Proposed AD
+
+    One commenter, Lufthansa Technik AG, noted that it would avoid 
+confusion to reference HPT hub stage 1 and 2 only in the heading of 
+Table 1 to (h)(2). The commenter requested that the FAA include the 
+part names in the header of the table.
+    The FAA disagrees. The FAA has determined that including the part 
+names in the header is not necessary because paragraph (h)(2) specifies 
+the parts and part numbers subject to the compliance time specified in 
+Table 1 to Paragraph (h)(2) of this AD. The FAA did not change this AD 
+as a result of this comment.
+
+Request To Reference AUSI Performed in Service in Table 1 to (h)(2) of 
+the Proposed AD
+
+    One commenter, Lufthansa Technik AG, suggested that the new 
+production parts inspection regime was updated and that Table 1 to 
+(h)(2) of the proposed AD is not covering this AUSI inspection at 
+production. The commenter requested that the second column of Table 1 
+to (h)(2) of the proposed AD be revised to state that this reflects 
+only ``AUSI performed in service prior to the effective date of this 
+AD.''
+    The FAA disagrees. However, the FAA has updated paragraph (c), 
+Applicability, of this AD to exempt serial numbers listed in Tables 1, 
+2, and 3 of SI 222F-23, Revision A, which includes parts subject to 
+AUSI at production.
+
+Request To Add Airworthiness Limitation to Table 2 to Paragraph (h)(3) 
+of the Proposed AD
+
+    One commenter, Lufthansa Technik AG, noted that in Table 2 to 
+paragraph
+
+[[Page 21185]]
+
+(h)(3) of the proposed AD, for Group 1 engines, the 1st-Stage Hub P/N 
+30G4201 or 30G6201 with AUSI performed refers to 3,800 FCs since the 
+last AUSI. The commenter also noted that for Group 2 engines, the 1st-
+Stage Hub P/N 30G4201 or 30G6201 with AUSI performed refers to 2,800 
+FCs since the last AUSI. The commenter observed that the part needs 
+removal within the airworthiness limitation. The commenter requested 
+that the FAA add a statement similar to the 2nd-stage hubs.
+    The FAA disagrees. The FAA has determined that adding such a 
+statement is unnecessary because the existing airworthiness limitations 
+are more restrictive. The FAA did not change this AD as a result of 
+this comment.
+
+Request To Make Changes to Tables
+
+    Three commenters, HK Express Airways, JetBlue, and Lufthansa 
+Technik AG, expressed that the lack of borderlines in Table 2 for 
+paragraph (h)(3) and Table 3 for paragraph (h)(4) of the proposed AD is 
+confusing. Lufthansa Technik AG notes that on the first look, it seems 
+that the compliance time for part removal at next HPT shop visit is 
+applicable to one row only, but in fact should be applicable for all 
+parts listed below. The commenters requested that the FAA complete the 
+engine group and compliance time boxes for each line item listed in 
+Table 2 and Table 3 of the proposed AD.
+    The FAA agrees. The FAA has revised Table 2 to paragraph (h)(3) and 
+Table 3 to paragraph (h)(4) of this AD to complete the engine group and 
+compliance time columns for each line item.
+
+Request To Provide Additional Cycles for Alternate Climb Operations
+
+    One commenter, JetBlue, stated that JetBlue has been operating with 
+the Alternate Climb modification on the fleet. The commenter explained 
+that the Alternate Climb modification is performed pre-delivery and 
+decreases work/stress on the engine during the entire climb duration, 
+which effectively alleviates stress/fatigue. The commenter requested 
+that the FAA analyze the data to check the feasibility of providing 
+additional cycles for the Alternate Climb modification to meet the 
+proposed AD timelines.
+    The FAA disagrees. Operators can submit a request for an AMOC to 
+the FAA in accordance with the requirements of paragraph (k) of this AD 
+with the data that shows the modification provides an acceptable level 
+of safety. The FAA did not change this AD in response to this comment.
+
+Request To Modify Definition for Part Eligible for Installation
+
+    One commenter, HK Express Airways, noted that PW SI 222F-23 
+identifies parts exempted from repetitive AUSI and early retirement 
+carrying the same part number, and the commenter observed that the 
+proposed AD did not mention this SI in paragraph (i). HK Express 
+Airways requested adding reference to SI 222F-23 to the definition of 
+``part eligible for installation,'' so the parts listed in the SI are 
+deemed to be eligible for installation. The commenter also noted that 
+SI 222F-23 will be updated quarterly by PW, therefore the AD should not 
+fix the SI version.
+    The FAA agrees to revise the definition of ``part eligible for 
+installation'' in paragraph (i) of this AD to reference part serial 
+numbers identified in Tables 1, 2, and 3 of SI 222F-23, Revision A. The 
+FAA does not agree to include an undated reference to SI 222F-23. 
+Future revisions of service information have not yet been published by 
+the manufacturer or reviewed by the FAA, and therefore cannot be 
+approved as required service information. A request for an AMOC can be 
+submitted to the FAA in accordance with paragraph (k) of this AD if 
+future revisions of the service information referenced in this AD are 
+published. Additionally, if future revisions of the service information 
+are published by the manufacturer and approved by the FAA, the FAA may 
+consider further rulemaking.
+
+Request To Clarify if Newly Produced Parts Are Eligible for 
+Installation
+
+    Three commenters, DAL, HK Express Airways, and Lufthansa Technik 
+AG, observed that the proposed AD did not address newly produced parts 
+carrying the same part number in the definition of ``part eligible for 
+installation'' in paragraph (i)(5) of the proposed AD. Therefore, the 
+commenters reasoned, the proposed AD does not define installation 
+eligibility for any new/not service run HPC/HPT hardware that is not 
+currently installed on a Group 1 or Group 2 engine. The commenters 
+requested that paragraph (i)(5) of the proposed AD be revised to add 
+installation eligibility for new production parts.
+    The FAA agrees. If the newly produced parts are manufactured from 
+powdered metal material produced prior to November 1, 2015, or after 
+September 1, 2021, as identified in the original manufacturing records 
+or in Tables 1, 2, and 3 of SI No. 222F-23, Revision A, those parts are 
+not affected by this AD. The FAA revised the definition of ``part 
+eligible for installation'' in paragraph (i)(5) of this AD to reference 
+parts identified as not affected by this AD in paragraph (c)(2) of this 
+AD. Therefore, parts identified in Tables 1, 2, and 3 of SI No. 222F-
+23, Revision A, will meet the definition of ``part eligible for 
+installation.'' To meet the updated definition of ``part eligible for 
+installation,'' affected parts need to be inspected in accordance with 
+this AD. Unaffected parts can be installed without performing the 
+requirements of this AD.
+
+Request To Clarify Meaning of Induction as Used in Paragraph (i), 
+Definitions, of the Proposed AD
+
+    One commenter, ANA, asked the FAA to clarify that the definition of 
+``induction'' in paragraph (i) of the proposed AD is the timing when 
+the engine disassembly is started. ANA asked the FAA to clarify a 
+particular situation to have a correct understanding. ANA noted that, 
+in terms of paragraph (h)(1) and (2) of the proposed AD, if an engine 
+is already in shop for maintenance involving the separation H-flange or 
+M-flange, then assembly has already been started at the effective date 
+of this AD. The commenter asked if an angled ultrasonic scan inspection 
+should therefore not be performed in this shop visit.
+    The FAA agrees to clarify. The FAA does not have a set definition 
+for induction. Reference your approved maintenance program to determine 
+what ADs apply to your engines during an engine shop visit. In the 
+example provided, if the engine were already at an engine shop visit on 
+the effective date of this AD, the requirements of paragraphs (h)(1) 
+and (2) would apply at the next engine shop visit after the effective 
+date of this AD. The FAA did not change this AD in response to this 
+comment.
+
+Request To Include 2nd-Stage HPT Retaining Plates in Paragraph (i), 
+Definitions, of the Proposed AD
+
+    One commenter, Lufthansa Technik AG, requested that the FAA include 
+2nd-stage HPT retaining plates in the definition of parts eligible for 
+installation.
+    The FAA disagrees. The FAA revised this final rule to remove 
+references to HPT retaining plates in response to another comment. The 
+FAA did not change this AD in response to this comment.
+
+[[Page 21186]]
+
+Request To Identify Previous AUSI Service Information in Paragraph (j), 
+Credit for Previous Actions, of the Proposed AD
+
+    One commenter, Lufthansa Technik AG, observed that, in addition to 
+the credit for paragraphs (g)(1) and (2) of the proposed AD, it should 
+be required to note down which procedures qualify as ``AUSI performed'' 
+for cyclic requirements under paragraphs (h)(2) with table 1 and (h)(8) 
+of the proposed AD to correctly determine the remaining life and if the 
+AUSI was performed prior to AD e[fflig]ectivity. The commenter listed 
+the following service information: For HPT hubs in accordance with 
+(h)(2) and (8) of the proposed AD:
+     SI 169F-23;
+     SB PW1000G-C-72-00-0188-00A-930A-D, Issue 1 dated 
+September 13, 2021; and
+     PW1000G-C-72-00-0188-00A-930A-D, Issue 2 dated July 8, 
+2022.
+    For HPC parts in accordance with paragraph (h)(8) of the proposed 
+AD:
+     SI 46F-23; and
+     SI 47F-23.
+    The FAA infers that the commenter requested that the FAA add the 
+service information identified to paragraph (j), Credit for Previous 
+Actions, of this AD. The FAA disagrees. PW SB PW1000G-C-72-00-0188-00A-
+930A-D, Issue No: 001, dated September 13, 2021, is referenced in 
+paragraph (j), Credit for Previous Actions, of this AD. The FAA revised 
+paragraph (j), Credit for Previous Actions, of this AD to include PW 
+ASB PW1000G-C-72-00-0225-00A-930A-D, Issue No. 001, dated November 3, 
+2023, which provides methods for AUSI that may have been previously 
+used, in response to a separate comment. The FAA did not change this AD 
+in response to this comment.
+
+Request To Add Special Flights Permit Paragraph
+
+    One commenter, HK Express Airways, noted that according to PW, non-
+revenue maintenance or check flights are permitted if the aircraft is 
+required to re-locate to base maintenance facilities for storage or 
+engine removal after the compliance time. The commenter requested that 
+the FAA add a paragraph to the proposed AD to clearly state that non-
+revenue maintenance flights are permitted within the proposed AD.
+    The FAA disagrees because 14 CFR 39.23 allows for special flight 
+permits unless specified as limited or prohibited in the AD. The FAA 
+did not change this AD in response to this comment.
+
+Additional Change Made to the Applicability
+
+    Since the NPRM published, the FAA determined the need to add IAE 
+LLC Models PW1127G1A-JM and PW1127G1B-JM to paragraph (c), 
+Applicability, in this AD. These engine models were recently 
+certificated but are not in production yet. The FAA revised the 
+applicability of this AD to include these additional engine models. 
+None of the engines added to the applicability of this AD are on the 
+U.S. Register. Additional notice and opportunity for public comment 
+before issuing this AD are therefore unnecessary. Since there are no 
+additional engines on the U.S. registry, no changes have been made to 
+the Costs of Compliance paragraph in this final rule.
+
+Updated Service Information for Paragraph (c)(2) of the Applicability
+
+    Since the NPRM comment period closed, PW updated SI 222F-23, 
+Revision A, to add additional part numbers and serial numbers verified 
+as manufactured from powdered metal campaigns produced prior to 
+November 1, 2015, or after September 1, 2021, and which are therefore 
+outside the population of material manufactured from powdered metal 
+addressed by this AD. For this reason, the FAA updated paragraph (c)(2) 
+of the Applicability to reference Tables 1, 2, and 3 of PW SI No. 222F-
+23, Revision B, dated March 1, 2024. This change to the applicability 
+of this AD reduces the affected part numbers and serial numbers.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting the AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed the following service information:
+     PW ASB PW1000G-C-72-00-0224-00A-930A-D, Issue No: 001, 
+dated November 3, 2023, which specifies procedures for performing an 
+AUSI for cracks on affected HPC IBR-7 and HPC IBR-8;
+     PW ASB PW1000G-C-72-00-0225-00A-930A-D, Issue No: 002, 
+dated December 12, 2023, which specifies procedures for performing an 
+AUSI for cracks on affected HPT 1st-stage hubs and HPT 2nd-stage hubs;
+     PW SI No. 198F-23, dated November 3, 2023, which specifies 
+the list of affected HPT 1st-stage hubs and HPT 2nd-stage hubs, 
+identified by part number and serial number, installed on certain IAE 
+LLC engines;
+     PW SI No. 222F-23, Revision B, dated March 1, 2024, which 
+specifies the list of part numbers and serial numbers that were 
+manufactured outside of the affected population of material 
+manufactured from powdered metal;
+     PW Service Bulletin PW1000G-C-72-00-0188-00A-930A-D, Issue 
+No: 002, dated July 8, 2022, which was previously approved for 
+incorporation by reference on November 7, 2022 (87 FR 59660, October 3, 
+2022; corrected October 24, 2022 (87 FR 64156)). This service 
+information specifies procedures for performing an AUSI for cracks on 
+affected HPT 1st-stage hubs and HPT 2nd-stage hubs; and
+     PW SI No. 149F-23, dated August 4, 2023, which was 
+previously approved for incorporation by reference on August 28, 2023 
+(88 FR 56999, August 22, 2023). This service information specifies the 
+list of affected HPT 1st-stage hubs and HPT 2nd-stage hubs, identified 
+by part number and serial number, installed on certain IAE LLC engines.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Interim Action
+
+    The FAA considers this AD to be an interim action. The unsafe 
+condition is still under investigation by the manufacturer and, 
+depending on the results of that investigation, the FAA may consider 
+further rulemaking action.
+
+Justification for Determination of the Effective Date
+
+    Section 553(d) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to make rules effective in less than 
+thirty days, upon a finding of ``good cause.'' The FAA has found that 
+the risk to the flying public justifies a shortened effective date for 
+this rule due to powdered metal anomalies in HPT 1st-stage hub, HPT 
+2nd-stage hub, HPC IBR-7, and HPC IBR-8 that could lead to premature 
+fracture and uncontained failure, which could lead to the release of 
+high-energy debris, damage to the engine, damage to the airplane, and 
+loss of the airplane. The compliance time for replacement of
+
+[[Page 21187]]
+
+certain parts is within 100 flight cycles after the effective date of 
+this AD, which is on average one calendar month of operation. The 
+longer these parts remain in service, the higher the probability of 
+failure. Additionally, the FAA did not receive any adverse comments or 
+useful information about this AD from U.S. operators that necessitates 
+waiting 30 days for this AD to become effective. Accordingly, the FAA 
+finds that good cause exists pursuant to 5 U.S.C. 553(d) for making 
+this amendment effective in less than 30 days.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 430 engines installed on 
+airplanes of U.S. registry. The FAA estimates that 366 engines will 
+need replacement of the HPT 1st-stage hub; 351 engines will need 
+replacement of the HPT 2nd-stage hub; 408 engines will need replacement 
+of the HPC IBR-7; 368 engines will need replacement of the HPC IBR-8; 
+and 283 engines will need replacement of the HPC rear hub.
+    The FAA estimates the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                        Parts cost
+                 Action                          Labor cost            (average pro-    Cost per   Cost on U.S.
+                                                                        rated cost)     product      operators
+----------------------------------------------------------------------------------------------------------------
+AUSI of HPT 1st-stage hub, HPT 2nd-      80 work-hours x$85 per                    $0     $6,800      $2,924,000
+ stage hub, HPC IBR-7, and HPC IBR-8      hour = $6,800.
+ for cracks.
+Replace HPT 1st-stage hub..............  10 work-hours x$85 per                56,000     56,850      20,807,100
+                                          hour = $850.
+Replace HPT 2nd-stage hub..............  10 work-hours x$85 per                62,000     62,850     $22,060,350
+                                          hour = $850.
+Replace HPC IBR-7......................  10 work-hours x$85 per                82,000     82,850      33,802,800
+                                          hour = $850.
+Replace HPC IBR-8......................  10 work-hours x$85 per                93,000     93,850      34,536,800
+                                          hour = $850.
+Replace HPC rear hub...................  10 work-hours x$85 per               132,000    132,850      37,596,550
+                                          hour = $850.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA has determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2022-19-15, Amendment 39-22184 (87 
+FR 59660, October 3, 2022; corrected October 24, 2022 (87 FR 64156)); 
+and Airworthiness Directive 2023-16-07, Amendment 39-22526 (88 FR 
+56999, August 22, 2023); and
+0
+b. Adding the following new airworthiness directive:
+
+2024-05-11 International Aero Engines, LLC: Amendment 39-22703; 
+Docket No. FAA-2023-2401; Project Identifier AD-2023-01278-E.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective April 11, 2024.
+
+(b) Affected ADs
+
+    (1) This AD replaces AD 2022-19-15, Amendment 39-22184 (87 FR 
+59660, October 3, 2022; corrected October 24, 2022 (87 FR 64156)).
+    (2) This AD replaces AD 2023-16-07, Amendment 39-22526 (88 FR 
+56999, August 22, 2023) (AD 2023-16-07).
+
+(c) Applicability
+
+    (1) This AD applies to International Aero Engines, LLC (IAE LLC) 
+Model PW1122G-JM, PW1124G1-JM, PW1124G-JM, PW1127G-JM, PW1127G1-JM, 
+PW1127G1A-JM, PW1127G1B-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, 
+PW1133G-JM, PW1133GA-JM, PW1428G-JM, PW1428GA-JM, PW1428GH-JM, 
+PW1431G-JM, PW1431GA-JM, and PW1431GH-JM engines with an installed:
+    (i) High-pressure compressor (HPC) 7th-stage integrally bladed 
+rotor (IBR-7) having part number (P/N) 30G2307 or 30G4407;
+    (ii) HPC 8th-stage integrally bladed rotor (IBR-8) having P/N 
+30G5608, 30G5908, or 30G8908;
+    (iii) HPC rear hub having P/N 30G4008 or 30G8208;
+    (iv) High-pressure turbine (HPT) 1st-stage hub having P/N 
+30G4201, 30G6201, or 30G7301; or
+    (v) HPT 2nd-stage hub having P/N 30G3902, 30G5502, or 30G6602.
+    (2) This AD does not apply to parts identified in paragraphs 
+(c)(1)(i) through (v) of this AD if those parts were manufactured 
+from powdered metal material produced prior to November 1, 2015, or 
+after September 1, 2021, as identified by part serial number in 
+Tables 1, 2, and 3 of PW Special Instruction (SI) No. 222F-23, 
+Revision B, dated March 1, 2024 (PW SI No. 222F-23, Revision B) or 
+in the original manufacturing records for the part.
+
+[[Page 21188]]
+
+    (3) If the original manufacturing records do not identify the 
+production date of the powdered metal used to make the parts 
+identified in paragraphs (c)(1)(i) through (v) of this AD, and the 
+part serial number is not listed in Tables 1, 2, and 3 of PW SI No. 
+222F-23, Revision B, then the part is subject to the requirements of 
+this AD.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section; 7250, Turbine Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an analysis of an event involving an IAE 
+LLC Model PW1127GA-JM engine, which experienced failure of an HPC 
+IBR-7 that resulted in an engine shutdown and aborted takeoff. The 
+FAA is issuing this AD to prevent failure of the HPT 1st-stage hub, 
+HPT 2nd-stage hub, HPC IBR-7, and HPC IBR-8. The unsafe condition, 
+if not addressed, could result in uncontained hub failure, release 
+of high-energy debris, damage to the engine, damage to the airplane, 
+and loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Inspections From AD 2023-16-07, With No Changes
+
+    (1) This paragraph restates the requirements of paragraph (g)(1) 
+of AD 2023-16-07. For Group 1 and Group 2 engines with an installed 
+HPT 1st-stage hub having part number (P/N) 30G7301 and a serial 
+number (S/N) listed in Tables 1, 2, 3, or 4 of PW Special 
+Instruction (SI) No. 149F-23, dated August 4, 2023 (PW SI No. 149F-
+23), within 30 days after August 28, 2023 (the effective date of AD 
+2023-16-07), perform an AUSI of the HPT 1st-stage hubs for cracks in 
+accordance with the Accomplishment Instructions, paragraph 9.A. or 
+9.B., as applicable, of Pratt & Whitney (PW) Service Bulletin 
+PW1000G-C-72-00-0188-00A-930A-D, Issue No: 002, dated July 8, 2022 
+(PW1000G-C-72-00-0188-00A-930A-D, Issue No: 002).
+    (2) This paragraph restates the requirements of paragraph (g)(2) 
+of AD 2023-16-07. For Group 1 and Group 2 engines with an installed 
+HPT 2nd-stage hub having P/N 30G6602 and an S/N listed in Tables 1, 
+2, 3, or 4 of PW SI No. 149F-23, within 30 days after August 28, 
+2023 (the effective date of AD 2023-16-07), perform an AUSI of the 
+HPT 2nd-stage hubs for cracks in accordance with the Accomplishment 
+Instructions, paragraph 9.C. or 9.D., as applicable, of PW1000G-C-
+72-00-0188-00A-930A-D, Issue No: 002.
+
+(h) New Required Actions
+
+    (1) For Group 1 and Group 2 engines with an affected HPC IBR-7 
+having P/N 30G2307 or 30G4407, or an affected HPC IBR-8 having P/N 
+30G5608, 30G5908, or 30G8908, at the next HPC engine shop visit and 
+thereafter at every HPC engine shop visit, perform an angled 
+ultrasonic scan inspection (AUSI) of the affected HPC IBR-7 or HPC 
+IBR-8, as applicable, for cracks in accordance with the 
+Accomplishment Instructions, paragraph 4.E.(1) or 4.E.(2), of PW 
+Alert Service Bulletin (ASB) PW1000G-C-72-00-0224-00A-930A-D, Issue 
+No: 001, dated November 3, 2023 (PW ASB PW1000G-C-72-00-0224-00A-
+930A-D, Issue No: 001).
+    (2) For Group 1 and Group 2 engines with an affected HPT 1st-
+stage hub having P/N 30G7301 or an HPT 2nd-stage hub having P/N 
+30G6602, before exceeding the applicable compliance time in Table 1 
+to paragraph (h)(2) of this AD, except as required by paragraphs 
+(g)(1) and (2) and paragraph (h)(7) of this AD, perform an AUSI of 
+the affected HPT 1st-stage hub or HPT 2nd-stage hub, as applicable, 
+for cracks in accordance with the Accomplishment Instructions, 
+paragraph 1.D.(7)(a) or 1.D.(7)(b) of PW ASB PW1000G-C-72-00-0225-
+00A-930A-D, Issue No: 002, dated December 12, 2023 (PW ASB PW1000G-
+C-72-00-0225-00A-930A-D, Issue No: 002). Thereafter, repeat the AUSI 
+at the applicable interval in Table 1 to paragraph (h)(2) of this 
+AD.
+
+           Table 1 to Paragraph (h)(2)--AUSI Compliance Times
+------------------------------------------------------------------------
+               AUSI performed prior to
+Engine group   effective date of this   Compliance time     Repetitive
+                         AD                                  interval
+------------------------------------------------------------------------
+1...........  No......................  Before           Thereafter at
+                                         accumulating     each HPT
+                                         3,800 cycles     engine shop
+                                         since new        visit or
+                                         (CSN) or         before
+                                         within 100       exceeding
+                                         flight cycles    3,800 FCs from
+                                         (FCs) after      the last AUSI
+                                         the effective    of the
+                                         date of this     affected hub,
+                                         AD, whichever    whichever
+                                         occurs later.    occurs first.
+1...........  Yes.....................  At the next HPT  Thereafter at
+                                         engine shop      each HPT
+                                         visit, not to    engine shop
+                                         exceed 3,800     visit or
+                                         FCs since the    before
+                                         previous AUSI,   exceeding
+                                         or within 100    3,800 FCs from
+                                         FCs after the    the last AUSI
+                                         effective date   of the
+                                         of this AD,      affected hub,
+                                         whichever        whichever
+                                         occurs later.    occurs first.
+2...........  No......................  Before           Thereafter at
+                                         accumulating     each HPT
+                                         2,800 CSN or     engine shop
+                                         within 100 FCs   visit or
+                                         after the        before
+                                         effective date   exceeding
+                                         of this AD,      2,800 FCs from
+                                         whichever        the last
+                                         occurs later.    angled AUSI of
+                                                          the affected
+                                                          hub, whichever
+                                                          occurs first.
+2...........  Yes.....................  At the next HPT  Thereafter at
+                                         engine shop      each HPT
+                                         visit, not to    engine shop
+                                         exceed 2,800     visit or
+                                         FCs since the    before
+                                         previous AUSI,   exceeding
+                                         or within 100    2,800 FCs from
+                                         FCs after the    the last AUSI
+                                         effective date   of the
+                                         of this AD,      affected hub,
+                                         whichever        whichever
+                                         occurs later.    occurs first.
+------------------------------------------------------------------------
+
+    (3) For Group 1 and Group 2 engines with an affected part listed 
+in Table 2 to paragraph (h)(3) of this AD, at the next HPT engine 
+shop visit not to exceed the applicable cyclic limit specified in 
+Table 2 to paragraph (h)(3) of this AD, or 100 FCs after the 
+effective date of the AD, whichever occurs later, except as required 
+by paragraphs (h)(6) and (8) of this AD, remove the affected part 
+from service and replace with a part eligible for installation.
+
+                         Table 2 to Paragraph (h)(3)--Part Replacement Compliance Times
+----------------------------------------------------------------------------------------------------------------
+                      AUSI performed prior to
+   Engine group      effective date of this AD          Part name             Part No.           Cyclic limit
+----------------------------------------------------------------------------------------------------------------
+1................  Yes..........................  HPT 1st-stage hub...  30G4201 or 30G6201.  3,800 FCs since
+                                                                                              last AUSI.
+1................  No...........................  HPT 1st-stage hub...  30G4201 or 30G6201.  3,800 CSN.
+1................  Yes..........................  HPT 2nd-stage hub...  30G3902 or 30G5502.  3,800 FCs since
+                                                                                              last AUSI or 7,000
+                                                                                              CSN, whichever
+                                                                                              comes first.
+
+[[Page 21189]]
+
+ 
+1................  No...........................  HPT 2nd-stage hub...  30G3902 or 30G5502.  3,800 CSN.
+2................  Yes..........................  HPT 1st-stage hub...  30G4201 or 30G6201.  2,800 FCs since
+                                                                                              last AUSI.
+2................  No...........................  HPT 1st-stage hub...  30G4201 or 30G6201.  2,800 CSN.
+2................  Yes..........................  HPT 2nd-stage hub...  30G3902 or 30G5502.  2,800 FCs since
+                                                                                              last AUSI or 5,000
+                                                                                              CSN, whichever
+                                                                                              comes first.
+2................  No...........................  HPT 2nd-stage hub...  30G3902 or 30G5502.  2,800 CSN.
+----------------------------------------------------------------------------------------------------------------
+
+    (4) For Group 1 and Group 2 engines with an affected part listed 
+in Table 3 to paragraph (h)(4) of this AD, before exceeding the 
+applicable compliance times specified in Table 3 to paragraph (h)(4) 
+of this AD, remove the affected part from service and replace with a 
+part eligible for installation.
+
+                         Table 3 to Paragraph (h)(4)--Part Replacement Compliance Times
+----------------------------------------------------------------------------------------------------------------
+    Engine group                  Part name                         Part No.                  Compliance time
+----------------------------------------------------------------------------------------------------------------
+1 and 2.............  HPC rear hub....................  30G4008.........................  At the next HPC shop
+                                                                                           visit or HPT shop
+                                                                                           visit, whichever
+                                                                                           occurs first after
+                                                                                           the effective date of
+                                                                                           this AD.
+1...................  HPC rear hub....................  30G8208.........................  Before accumulating
+                                                                                           7,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+1...................  HPC IBR-7.......................  30G2307 or 30G4407..............  Before accumulating
+                                                                                           7,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+1...................  HPC IBR-8.......................  30G5608 or 30G5908 or 30G8908...  Before accumulating
+                                                                                           7,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+1...................  HPT 1st-stage hub...............  30G7301.........................  Before accumulating
+                                                                                           7,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+1...................  HPT 2nd-stage hub...............  30G6602.........................  Before accumulating
+                                                                                           7,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+2...................  HPC rear hub....................  30G8208.........................  Before accumulating
+                                                                                           5,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+2...................  HPC IBR-7.......................  30G2307 or 30G4407..............  Before accumulating
+                                                                                           5,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+2...................  HPC IBR-8.......................  30G5608 or 30G5908 or 30G8908...  Before accumulating
+                                                                                           5,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+2...................  HPT 1st-stage hub...............  30G7301.........................  Before accumulating
+                                                                                           5,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+2...................  HPT 2nd-stage hub...............  30G6602.........................  Before accumulating
+                                                                                           5,000 CSN or within
+                                                                                           100 FCs after the
+                                                                                           effective date of
+                                                                                           this AD, whichever
+                                                                                           occurs later.
+----------------------------------------------------------------------------------------------------------------
+
+    (5) For affected parts that have been operated in a Group 1 and 
+Group 2 configuration, calculate part replacement and AUSI times 
+required by paragraphs (h)(2) through (4) using the note to Table 3 
+of the compliance paragraph of PW ASB PW1000G-C-72-00-0224-00A-930A-
+D, Issue No: 001 or PW ASB PW1000G-C-72-00-0225-00A-930A-D, Issue 
+No: 002, as applicable, which addresses calculating mixed model 
+cycles.
+    (6) For Group 1 and Group 2 engines with an installed HPT 1st-
+stage hub having P/N 30G6201 or an HPT 2nd-stage hub having P/N 
+30G5502 and an S/N listed in Tables 1, 2, 3, or 4 of PW SI No. 149F-
+23 that has not had an AUSI performed before the effective date of 
+this AD, before further flight, remove the affected hub from 
+service.
+    (7) For Group 1 and Group 2 engines with an installed HPT 1st-
+stage hub having P/N 30G7301 or an HPT 2nd-stage hub having P/N 
+30G6602 with an S/N listed in Tables 1, 2, 3, or 4 of PW SI No. 
+198F-23, dated November 3, 2023 (PW SI No. 198F-23), within 100 FC 
+after the effective date of this AD, perform an AUSI of the affected 
+hub for cracks in accordance with the Accomplishment Instructions, 
+paragraph 1.D.(7)(a) or 1.D.(7)(b) of PW ASB PW1000G-C-72-00-0225-
+00A-930A-D, Issue No: 002.
+    (8) For Group 1 and Group 2 engines with an installed HPT 1st-
+stage hub having P/N 30G6201 or an HPT 2nd-stage hub having P/N 
+30G5502 with an S/N listed in Tables 1, 2, 3, or 4 of PW SI No. 
+198F-23, within 100 FC after the effective date of this AD, remove 
+the hub from service and replace with a part eligible for 
+installation.
+    (9) If any crack indication is found during any AUSI required by 
+this AD, before further flight, remove the affected part from 
+service and replace with a part eligible for installation.
+    (10) If an affected part has accumulated 100 FCs or less since 
+the last AUSI, reinspection is not required provided that the part 
+was not damaged during removal from the engine.
+
+(i) Definitions
+
+    (1) For the purposes of this AD, ``Group 1 engines'' are IAE LLC 
+Model PW1122G-JM, PW1124G1-JM, PW1124G-JM, PW1127G-JM, PW1127G1-JM, 
+PW1127G1A-JM, PW1127G1B-JM, and PW1127GA-JM engines.
+    (2) For the purposes of this AD, ``Group 2 engines'' are IAE LLC 
+Model PW1129G-JM, PW1130G-JM, PW1133G-JM, PW1133GA-JM, PW1428G-JM, 
+PW1428GA-JM, PW1428GH-JM, PW1431G-JM, PW1431GA-JM, and PW1431GH-JM 
+engines.
+    (3) For the purposes of this AD, an ``HPC engine shop visit'' is 
+the induction of an
+
+[[Page 21190]]
+
+engine into the shop for maintenance involving the separation of the 
+H-flange.
+    (4) For the purposes of this AD, an ``HPT engine shop visit'' is 
+the induction of an engine into the shop for maintenance involving 
+the separation of the M-flange.
+    (5) For the purposes of this AD, a ``part eligible for 
+installation'' is:
+    (i) An HPC IBR-7 having P/N 30G2307 or 30G4407 that has passed 
+the AUSI required by paragraph (h)(1) of this AD or is identified as 
+not affected by this AD in paragraph (c)(2) of this AD, or later 
+approved P/N.
+    (ii) An HPC IBR-8 having P/N 30G5608, 30G5908, or 30G8908 that 
+has passed the AUSI required by paragraph (h)(1) of this AD or is 
+identified as not affected by this AD in paragraph (c)(2) of this 
+AD, or later approved P/N.
+    (iii) An HPT 1st-stage hub having P/N 30G7301 that has passed 
+the AUSI required by paragraph (h)(2) of this AD or is identified as 
+not affected by this AD in paragraph (c)(2) of this AD, or later 
+approved P/N.
+    (iv) An HPT 2nd-stage hub having P/N 30G6602 that has passed the 
+AUSI required by paragraph (h)(2) of this AD or is identified as not 
+affected by this AD in paragraph (c)(2) of this AD, or later 
+approved P/N.
+    (v) An HPC rear hub having P/N 30G8208 and is identified as not 
+affected by this AD in paragraph (c)(2) of this AD, or later 
+approved P/N.
+
+(j) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions specified in 
+paragraph (g)(1) and (2) of this AD, if those actions were performed 
+before the effective date of this AD using PW Service Bulletin 
+PW1000G-C-72-00-0188-00A-930A-D, Issue No: 001, dated September 13, 
+2021. This service information is not incorporated by reference in 
+this AD.
+    (2) This paragraph provides credit for the actions specified in 
+paragraph (h)(2) and (6) of this AD, if those actions were performed 
+before the effective date of this AD using PW Alert Service Bulletin 
+PW ASB PW1000G-C-72-00-0225-00A-930A-D, Issue No: 001, dated 
+November 3, 2023. This service information is not incorporated by 
+reference in this AD.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the AIR-520 Continued 
+Operational Safety Branch, send it to the attention of the person 
+identified in paragraph (l)(1) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact Carol Nguyen, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (781) 238-7655; email: [email protected].
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the address specified in 
+paragraph (m)(6) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+April 11, 2024.
+    (i) Pratt & Whitney Alert Service Bulletin PW1000G-C-72-00-0224-
+00A-930A-D, Issue No: 001, dated November 3, 2023.
+    (ii) Pratt & Whitney Alert Service Bulletin PW1000G-C-72-00-
+0225-00A-930A-D, Issue No: 002, dated December 12, 2023.
+    (iii) Pratt & Whitney Special Instruction No. 198F-23, dated 
+November 3, 2023.
+    (iv) Pratt & Whitney Special Instruction No. 222F-23, Revision 
+B, dated March 1, 2024.
+    (4) The following service information was approved for IBR on 
+August 28, 2023 (88 FR 56999, August 22, 2023).
+    (i) Pratt & Whitney Special Instruction No. 149F-23, dated 
+August 4, 2023.
+    (ii) [Reserved]
+    (5) The following service information was approved for IBR on 
+November 7, 2022 (87 FR 59660, October 3, 2022; corrected October 
+24, 2022 (87 FR 64156)).
+    (i) Pratt & Whitney Service Bulletin PW1000G-C-72-00-0188-00A-
+930A-D, Issue No: 002, dated July 8, 2022.
+    (ii) [Reserved]
+    (6) For Pratt & Whitney service information that is incorporated 
+by reference, contact International Aero Engines, LLC, 400 Main 
+Street, East Hartford, CT 06118; phone: (860) 565-0140; email: 
+[email protected]; website: connect.prattwhitney.com.
+    (7) You may view this service information that is incorporated 
+by reference at the FAA, Airworthiness Products Section, Operational 
+Safety Branch, 1200 District Avenue, Burlington, MA 01803. For 
+information on the availability of this material at the FAA, call 
+(817) 222-5110.
+    (8) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on March 8, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-06419 Filed 3-22-24; 11:15 am]
+BILLING CODE 4910-13-P

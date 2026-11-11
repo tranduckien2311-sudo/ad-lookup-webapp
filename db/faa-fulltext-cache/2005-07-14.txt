@@ -1,0 +1,404 @@
+[Federal Register Volume 70, Number 66 (Thursday, April 7, 2005)]
+[Rules and Regulations]
+[Pages 17591-17594]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 05-6685]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2004-19762; Directorate Identifier 2004-NM-168-AD; 
+Amendment 39-14038; AD 2005-07-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A318, A319, A320, and A321 
+Series Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus Model A318, A319, A320, and A321 series airplanes. This AD 
+requires an inspection of the spoiler servo control for certain part 
+numbers, and corrective action if necessary. This AD is prompted by a 
+report of a broken piston rod bearing of the spoiler servo control. We 
+are issuing this AD to prevent breakage of the piston rod bearing, 
+which could cause loss of the associated hydraulic system and spoiler 
+extension, and could result in reduced controllability of the airplane.
+
+DATES: This AD becomes effective May 12, 2005.
+    The incorporation by reference of certain publications listed in 
+the AD is approved by the Director of the Federal Register as of May 
+12, 2005.
+
+ADDRESSES: For service information identified in this AD, contact 
+Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, France.
+    Docket: The AD docket contains the proposed AD, comments, and any 
+final disposition. You can examine the AD docket on the Internet at 
+http://dms.dot.gov, or in person at the Docket Management Facility 
+office between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The Docket Management Facility office (telephone (800) 647-
+5227) is located on the plaza level of the Nassif Building at the U.S. 
+Department of Transportation, 400 Seventh Street, SW., room PL-401,
+
+[[Page 17592]]
+
+Washington, DC. This docket number is FAA-2004-19762; the directorate 
+identifier for this docket is 2004-NM-168-AD.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2125; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR Part 39 
+with an AD for all Airbus Model A318, A319, A320, and A321 series 
+airplanes. That action, published in the Federal Register on December 
+7, 2004 (69 FR 70568), proposed to require an inspection of the spoiler 
+servo control for certain part numbers and corrective action if 
+necessary.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+submitted on the proposed AD.
+
+Request To Change Applicability
+
+    One commenter asks that the applicability statement in the proposed 
+AD be changed. The commenter states that, as written, the applicability 
+does not limit the effectivity, but instead applies to every Model 
+A318, A319, A320, and A321 series airplane previously delivered or that 
+is yet to be delivered. The commenter adds that the proposed visual 
+inspection would have to be done regardless of the documented status of 
+the spoiler servo controls, which introduces unnecessary maintenance 
+activity. The commenter notes that paragraph (j) of the proposed AD 
+prohibits installation of an affected spoiler servo control on any 
+airplane; therefore, the applicability statement could be altered to 
+limit the effectivity to those airplanes affected by the service 
+bulletins referenced therein. The commenter states that limiting the 
+applicability would apply if supporting documentation is provided which 
+verifies that no spoiler servo control has been changed before the 
+effective date of the AD. The commenter adds that this change would 
+provide assurance that all affected spoiler servo controls are removed 
+from service and would also eliminate unnecessary maintenance activity. 
+The commenter operates 148 Model A319 and A320 series airplanes, but of 
+those airplanes, only one spoiler servo control is affected. The 
+commenter states that the applicability statement, as written, would 
+require that the general visual inspection be done on all 148 
+airplanes. In conclusion, the commenter states that the applicability 
+should be limited to Model A318, A319, A320, and A321 series airplanes, 
+all certified models, all serial numbers, on which Goodrich spoiler 
+actuators with part number (P/N) 31077-050, -060, -070, -110, or -112 
+are installed.
+    We do not agree to change the applicability identified in the 
+proposed AD. As specified in the Differences section of the proposed 
+AD, ``French airworthiness directive F-2004-122, dated July 21, 2004, 
+has an effectivity of `AIRBUS A318, A319, A320 and A321 aircraft, all 
+certified models, all serials numbers, fitted with GOODRICH spoiler 
+actuators P/N 31077-050, -060, -070, -110 or -112.' However, because 
+spoiler actuators are interchangeable on Airbus Model A318, A319, A320, 
+and A321 series airplanes, airplanes not fitted with the spoiler 
+actuators P/N 31077-050, -060, -070, -110 or -112 may have a spoiler 
+actuator P/N 31077-050, -060, -070, -110 or -112 installed in the 
+future by operators during normal maintenance. Therefore, the 
+applicability of this proposed AD includes all Airbus Model A318, A319, 
+A320, and A321 series airplanes. Both the proposed AD and French 
+airworthiness directive require an inspection for the part number of 
+the spoiler actuator (spoiler servo control).''
+    We do agree to allow a review of the airplane maintenance records 
+instead of accomplishing the Phase 1 or Phase 2 inspection. We have 
+changed paragraphs (f) and (g) of this final rule to allow a review of 
+the airplane maintenance records to determine the part number of the 
+spoiler servo controls. However, if the part number cannot be 
+positively identified from the records review, the inspection will need 
+to be done.
+
+Request To Reference New Service Information
+
+    One commenter asks that Airbus Service Bulletins A320-27-1158 and 
+A320-27-1159; both Revision 01; both dated September 3, 2004; be 
+included as the sources of service information for accomplishing the 
+inspections in the proposed AD. The original issues of those service 
+bulletins were referenced as the appropriate sources of service 
+information for accomplishing the actions specified in the proposed AD.
+    We agree with the commenter's request. We have added Revision 01, 
+which is the most current source of service information for the actions 
+in this AD, to this final rule as the source of service information for 
+accomplishing those actions. Revision 01 adds no further work to the 
+original issues of the service bulletin; operators are merely informed 
+that the revised service bulletins are mandatory. We have also added a 
+new paragraph (i) to this final rule which allows credit for actions 
+done in accordance with the original issue of the service bulletins. We 
+have re-identified subsequent paragraphs accordingly.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been submitted, and determined that air safety and 
+the public interest require adopting the AD with the changes described 
+previously. We have determined that these changes will neither increase 
+the economic burden on any operator nor increase the scope of the AD.
+
+Costs of Compliance
+
+    The following table provides the estimated costs for U.S. operators 
+to comply with this AD.
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                             Number of
+                                       Work       Average      Cost per        U.S.-
+               Action                  hours    labor rate     airplane     registered          Fleet cost
+                                                 per hour                    airplanes
+----------------------------------------------------------------------------------------------------------------
+Inspection.........................      3-5           $65     $195-$325           648         $126,360-$210,600
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+
+[[Page 17593]]
+
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD. See the ADDRESSES section for a location to 
+examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2005-07-14 Airbus: Amendment 39-14038. Docket No. FAA-2004-19762; 
+Directorate Identifier 2004-NM-168-AD.
+
+Effective Date
+
+    (a) This AD becomes effective May 12, 2005.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to all Airbus Model A318, A319, A320, and 
+A321 series airplanes; certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD was prompted by a report of a broken piston rod 
+bearing of the spoiler servo control. We are issuing this AD to 
+prevent breakage of the piston rod bearing, which could cause loss 
+of the associated hydraulic system and spoiler extension, and could 
+result in reduced controllability of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+Phase 1 Inspection or Review of Maintenance Records
+
+    (f) Within 12 months after the effective date of this AD, do a 
+general visual inspection for the part number (P/N) of the spoiler 
+servo control at the applicable locations specified in Table 1 of 
+this AD, in accordance with Airbus Service Bulletin A320-27-1158, 
+Revision 01, excluding Appendices 01 and 02, dated September 3, 
+2004. Instead of inspecting the spoiler servo control, a review of 
+the airplane maintenance records is acceptable if the P/N of the 
+spoiler servo control can be conclusively determined from that 
+review.
+
+    Note 1: For the purposes of this AD, a general visual inspection 
+is: ``A visual examination of an interior or exterior area, 
+installation or assembly to detect obvious damage, failure or 
+irregularity. This level of inspection is made from within touching 
+distance unless otherwise specified. A mirror may be necessary to 
+ensure visual access to all surfaces in the inspection area. This 
+level of inspection is made under normal available lighting 
+conditions such as daylight, hangar lighting, flashlight or 
+droplight and may require removal or opening of access panels or 
+doors. Stands, ladders or platforms may be required to gain 
+proximity to the area being checked.''
+
+
+           Table 1.--Phase 1 Spoiler Servo Control Inspection
+------------------------------------------------------------------------
+                                          Inspect spoiler servo controls
+           For airbus model--                          at--
+------------------------------------------------------------------------
+A318 and A319 series airplanes.........  Positions 2, 3, 4, and 5.
+A320 series airplanes..................  Position 2.
+A321 series airplanes..................  Positions 2, 3, and 4.
+------------------------------------------------------------------------
+
+Phase 2 Inspection or Review of Maintenance Records
+
+    (g) Within 30 months after the effective date of this AD, do a 
+general visual inspection for the P/N of the spoiler servo control 
+at the applicable locations specified in Table 2 of this AD, in 
+accordance with Airbus Service Bulletin A320-27-1159, Revision 01, 
+excluding Appendices 01 and 02, dated September 3, 2004. Instead of 
+inspecting the spoiler servo control, a review of the airplane 
+maintenance records is acceptable if the P/N of the spoiler servo 
+control can be conclusively determined from that review.
+
+           Table 2.--Phase 2 Spoiler Servo Control Inspection
+------------------------------------------------------------------------
+                                          Inspect spoiler servo controls
+           For airbus model--                          at--
+------------------------------------------------------------------------
+A318 and A319 series airplanes.........  Position 1.
+A320 series airplanes on which Airbus    Positions 1 and 3.
+ modification 26335 and Airbus Service
+ Bulletin A320-27-1115, dated October
+ 27, 1997; and Revision 01, dated June
+ 22, 1999; has not been done.
+A320 series airplanes on which Airbus    Positions 1, 3, 4, and 5.
+ modification 26335 or Airbus Service
+ Bulletin A320-27-1115, dated October
+ 27, 1997; or Revision 01, dated June
+ 22, 1999; has been done.
+A321 series airplanes..................  Positions 1 and 5.
+------------------------------------------------------------------------
+
+
+[[Page 17594]]
+
+Corrective Action
+
+    (h) If, during any inspection specified in paragraph (f) or (g) 
+of this AD, P/N 31077-050, -060, -070, -110, or -112 is found or if 
+unable to determine the P/N, before further flight, replace the 
+spoiler servo control with a new or modified spoiler servo control, 
+in accordance with Airbus Service Bulletin A320-27-1158 or A320-27-
+1159; both Revision 01; both excluding Appendices 01 and 02; both 
+dated September 3, 2004; as applicable.
+
+    Note 2: Airbus Service Bulletins A320-27-1158, Revision 01; and 
+A320-27-1159, Revision 01; refer to Goodrich Service Bulletin 31077-
+27-14, dated May 24, 2004; as an additional source of service 
+information for modifying the spoiler servo control.
+
+Actions Accomplished Per Previous Issues of Service Information
+
+    (i) Actions accomplished before the effective date of this AD in 
+accordance with Airbus Service Bulletin A320-27-1158; or Airbus 
+Service Bulletin A320-27-1159; both excluding Appendices 01 and 02; 
+both dated May 26, 2004; are considered acceptable for compliance 
+with the corresponding actions required by this AD.
+
+Reporting Not Required
+
+    (j) Although Airbus Service Bulletin A320-27-1158, Revision 01, 
+dated September 3, 2004; and Airbus Service Bulletin A320-27-1159, 
+Revision 01, dated September 3, 2004; specify to submit certain 
+information to the manufacturer, this AD does not include that 
+requirement.
+
+Parts Installation
+
+    (k) As of the effective date of this AD, no person may install a 
+spoiler servo control, P/N 31077-050, -060, -070, -110, or -112, on 
+any airplane, unless it has been modified according to Airbus 
+Service Bulletin A320-27-1158 or A320-27-1159; both Revision 01; 
+both excluding Appendices 01 and 02; both dated September 3, 2004.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (l) The Manager, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, has the authority to approve AMOCs for 
+this AD, if requested in accordance with the procedures found in 14 
+CFR 39.19.
+
+Related Information
+
+    (m) French airworthiness directive F-2004-122, dated July 21, 
+2004, also addresses the subject of this AD.
+
+Material Incorporated by Reference
+
+    (n) You must use Airbus Service Bulletin A320-27-1158, Revision 
+01, excluding Appendices 01 and 02, dated September 3, 2004; and 
+Airbus Service Bulletin A320-27-1159, Revision 01, excluding 
+Appendices 01 and 02, dated September 3, 2004; as applicable; to 
+perform the actions that are required by this AD, unless the AD 
+specifies otherwise. The Director of the Federal Register approves 
+the incorporation by reference of these documents in accordance with 
+5 U.S.C. 552(a) and 1 CFR part 51. To get copies of the service 
+information, go to Airbus, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France. To view the AD docket go to the Docket 
+Management Facility, U.S. Department of Transportation, 400 Seventh 
+Street SW, room PL-401, Nassif Building, Washington, DC. To review 
+copies of the service information, go to the National Archives and 
+Records Administration (NARA), call (202) 741-6030, or go to http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+
+    Issued in Renton, Washington, on March 24, 2005.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 05-6685 Filed 4-6-05; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,521 @@
+[Federal Register Volume 82, Number 241 (Monday, December 18, 2017)]
+[Rules and Regulations]
+[Pages 59960-59963]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-26837]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0627; Product Identifier 2017-NM-037-AD; Amendment 
+39-19127; AD 2017-25-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A330-200 Freighter, -200, and -300 series airplanes; and 
+Airbus Model A340-200, -300, -500, and -600 series airplanes. This AD 
+was prompted by a report that the trimmable horizontal stabilizer 
+actuator (THSA) might not function as intended after failure of the 
+primary load path. This AD requires repetitive detailed visual 
+inspections for discrepancies of the THSA upper attachments and no-back 
+housing. We are issuing this AD to address the unsafe condition on 
+these products.
+
+DATES: This AD is effective January 22, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 22, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 45 80; email: [email protected]; 
+internet: http://www.airbus.com. You may view this referenced service 
+information at the FAA, Transport Standards Branch, 1601 Lind Avenue 
+SW, Renton, WA. For information on the availability of this material at 
+the FAA, call 425-227-1221. It is also available on the internet at 
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2017-0627.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0627; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone: 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 1601 Lind 
+Avenue SW, Renton, WA 98057-3356; telephone: 425-227-1138; fax: 425-
+227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A330-200 
+Freighter, -200, and -300 series airplanes; and Airbus Model A340-200, 
+-300, -500, and -600 series airplanes. The NPRM published in the 
+Federal Register on June 30, 2017 (82 FR 29795) (``the NPRM''). The 
+NPRM was prompted by a report that the THSA might not function as 
+intended after failure of the primary load path. The NPRM proposed to 
+require repetitive detailed visual inspections for discrepancies of the 
+THSA upper attachments and no-back housing. We are issuing this AD to 
+detect and correct discrepancies of the THSA upper attachments and no-
+back housing, which could lead to THSA upper attachment failure and 
+consequent disconnection of the THSA from the airplane structure, 
+possibly resulting in loss of control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0044, dated March 9, 2017 (referred to after this as the Mandatory 
+Continuing Airworthiness Information, or ``the MCAI''), to correct an 
+unsafe condition for all Airbus Model A330-200 Freighter, -200 and -300 
+series airplanes; and Airbus Model A340-200, -300, -500, and -600 
+series airplanes. The MCAI states:
+
+    The Trimmable Horizontal Stabilizer Actuator (THSA), as 
+installed on A330 and A340 aeroplanes, was initially designed to 
+stall when engaging on the upper secondary load path (SLP) after 
+primary load path (PLP) failure. Such stall triggers system 
+monitoring detection. New mission profile analysis revealed that in 
+some cases, the THSA could be operated while engaged on the upper 
+SLP without stalling [i.e., the THSA might not function as intended 
+after failure of the primary load path]. The partial engagement of 
+the SLP at upper attachment level does not trigger any indication to 
+the flight crew.
+    This condition, if not detected and corrected, could lead to 
+THSA upper attachment failure and consequent disconnection of the 
+THSA from the aeroplane structure, possibly resulting in loss of 
+control of the aeroplane.
+    For the reasons described above, this [EASA] AD requires 
+repetitive detailed [visual] inspections (DET) of the upper THSA 
+attachments parts and the PLP and SLP fuselage attachment points, 
+and, depending on findings (which include, but are not limited to, 
+failure of the primary load path), accomplishment of applicable 
+[additional inspections for discrepancies and] corrective action(s).
+
+    The additional inspections include a detailed visual inspection for 
+discrepancies of the upper attachment fitting of the airplane and a 
+detailed visual inspection for discrepancies of the removed THSA. 
+Corrective actions include repair and replacement of the THSA. You may 
+examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0627.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. The following presents the comments received on the NPRM and 
+the FAA's response.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA), expressed 
+its support for the NPRM.
+
+Request To Delay Publication of the Final Rule or Note Discrepancy in 
+Service Information
+
+    Delta Airlines (DAL) requested that we delay publication of the 
+final rule or include information regarding a
+
+[[Page 59961]]
+
+discrepancy found in Airbus Service Bulletin A330-27-3218, Revision 01, 
+dated December 5, 2016, which specifies to use Aircraft Maintenance 
+Manual (AMM) task 27-44-00-210-805. However, AMM task 27-44-00-210-805 
+is missing from the A330 AMM revision dated July 1, 2017. DAL preferred 
+to avoid the need for an alternative method of compliance (AMOC) to 
+accomplish the tasks required by Airbus Service Bulletin A330-27-3218, 
+Revision 01, dated December 5, 2016. DAL also contacted Airbus 
+regarding this issue.
+    We disagree with the request to delay this final rule. We also 
+disagree that information regarding the discrepancy should be 
+specifically included. Although Airbus Service Bulletin A330-27-3218, 
+Revision 01, dated December 5, 2016, specifies to use AMM task 27-44-
+00-210-805, the service information also includes information to 
+perform a detailed visual inspection using SUBTASK 273218-832-001-001 
+if AMM task 27-44-00-210-805 is unavailable. Therefore, no changes to 
+this AD are necessary regarding this issue.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD as proposed except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information.
+     Airbus Service Bulletin A330-27-3218, Revision 01, dated 
+December 5, 2016.
+     Airbus Service Bulletin A340-27-4203, Revision 01, dated 
+December 5, 2016.
+     Airbus Service Bulletin A340-27-5067, Revision 01, dated 
+December 5, 2016.
+    This service information describes procedures for detailed visual 
+inspections for discrepancies of the THSA upper attachments and no-back 
+housing, additional inspections for discrepancies, and corrective 
+actions. These documents are distinct since they apply to different 
+airplane models. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 102 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+           Action                  Labor cost         Parts cost       Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspection.................  3 work-hours x $85                 $0  $255 per inspection    $26,010 per
+                              per hour = $255 per                    cycle.                 inspection cycle.
+                              inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the required inspection. 
+We have no way of determining the number of aircraft that might need 
+these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                   Action                                 Labor cost                Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement................................  20 work-hours x $85 per hour =             $734,661        $736,361
+                                              $1,700.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for other on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 59962]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2017-25-13 Airbus: Amendment 39-19127; Docket No. FAA-2017-0627; 
+Product Identifier 2017-NM-037-AD.
+
+(a) Effective Date
+
+    This AD is effective January 22, 2018.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-201, -202, -203, -223, -
+223F, -243, -243F, -301, -302, -303, -321, -322, -323, -341, -342 
+and -343 airplanes; and Airbus Model A340-211, -212, -213, -311, -
+312, -313, -541, and -642 airplanes; certificated in any category, 
+all manufacturer's serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Reason
+
+    This AD was prompted by a report that the trimmable horizontal 
+stabilizer actuator (THSA) might not function as intended after 
+failure of the primary load path. We are issuing this AD to detect 
+and correct discrepancies of the THSA upper attachments and no-back 
+housing, which could lead to THSA upper attachment failure and 
+consequent disconnection of the THSA from the airplane structure, 
+possibly resulting in loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Detailed Visual Inspections
+
+    Before exceeding the threshold in Table 1 to paragraph (g) of 
+this AD, as applicable, or within 3 months after the effective date 
+of this AD, whichever occurs later; and thereafter at intervals not 
+to exceed the inspection interval values defined in Table 1 to 
+paragraph (g) of this AD; accomplish a detailed visual inspection 
+for discrepancies of the THSA upper attachments and no-back housing, 
+in accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-27-3218, Revision 01, A340-27-4203, Revision 01, or 
+A340-27-5067, Revision 01, all dated December 5, 2016, as 
+applicable. Where the ``Threshold'' column of table 1 to paragraph 
+(g) of this AD specifies compliance times in ``FH'' (flight hours) 
+or ``FC'' (flight cycles), those compliance times are flight hours 
+or flight cycles since the first flight of the airplane, or since 
+the last accomplishment of Airbus Model A330 or A340 Maintenance 
+Review Board Report task 27.40.00/07, or since the last detailed 
+visual inspection of the THSA done in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-27-3218, 
+Revision 00, A340-27-4203, Revision 00, or A340-27-5067, Revision 
+00, all dated July 1, 2016, as applicable.
+
+   Table 1 to Paragraph (g) of This AD--THSA Upper Attachments/No-Back
+                           Housing Inspections
+------------------------------------------------------------------------
+                                    Compliance times (whichever occurs
+                                    first, flight hours (FH) or flight
+                                               cycles (FC))
+       Affected airplanes        ---------------------------------------
+                                                          Inspection
+                                       Threshold       interval (not to
+                                                            exceed)
+------------------------------------------------------------------------
+A330, A340-200 and A340-300.....  Before 4,000 FH or  4,000 FH or 1,000
+                                   1,000 FC.           FC
+A340-500 and A340-600...........  Before 4,000 FH or  4,000 FH or 800 FC
+                                   800 FC.
+------------------------------------------------------------------------
+
+(h) Additional Inspections and Corrective Actions
+
+    (1) If, during any inspection required by paragraph (g) of this 
+AD, any discrepancy identified in the Accomplishment Instructions of 
+Airbus Service Bulletin A330-27-3218, Revision 01, A340-27-4203, 
+Revision 01, or A340-27-5067, Revision 01, all dated December 5, 
+2016, as applicable, is detected, before further flight, remove the 
+THSA, and accomplish a detailed visual inspection for discrepancies 
+of the upper attachment fitting of the airplane and a detailed 
+visual inspection for discrepancies of the removed THSA, in 
+accordance with the Accomplishment Instructions of Airbus Service 
+Bulletin A330-27-3218, Revision 01, A340-27-4203, Revision 01, or 
+A340-27-5067, Revision 01, all dated December 5, 2016, as 
+applicable. As an alternative to the removed THSA inspections 
+required by this paragraph, before further flight, replace the THSA 
+with a serviceable part (as defined in paragraph (i) of this AD).
+    (2) If, during any inspection of the upper attachment fitting of 
+the airplane required by paragraph (h)(1) of this AD, any 
+discrepancy identified in the Accomplishment Instructions of Airbus 
+Service Bulletin A330-27-3218, Revision 01, A340-27-4203, Revision 
+01, or A340-27-5067, Revision 01, all dated December 5, 2016, as 
+applicable, is detected, before further flight, repair using a 
+method approved in accordance with the procedures specified in 
+paragraph (k)(2) of this AD.
+    (3) If, during any inspection of the removed THSA required by 
+paragraph (h)(1) of this AD, no discrepancy specified in the 
+Accomplishment Instructions of Airbus Service Bulletin A330-27-3218, 
+Revision 01, A340-27-4203, Revision 01, or A340-27-5067, Revision 
+01, all dated December 5, 2016, as applicable, is detected, before 
+further flight, reinstall the THSA, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A330-27-3218, 
+Revision 01, A340-27-4203, Revision 01, or A340-27-5067, Revision 
+01, all dated December 5, 2016, as applicable.
+    (4) If, during any inspection of the removed THSA required by 
+paragraph (h)(1) of this AD, any discrepancy specified in the 
+Accomplishment Instructions of Airbus Service Bulletin A330-27-3218, 
+Revision 01, A340-27-4203, Revision 01, or A340-27-5067, Revision 
+01, all dated December 5, 2016, as applicable, is detected, before 
+further flight, replace the THSA with a serviceable part (as defined 
+in paragraph (i) of this AD), in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A330-27-3218, Revision 01, 
+A340-27-4203, Revision 01, or A340-27-5067, Revision 01, all dated 
+December 5, 2016, as applicable.
+
+(i) Definition of Serviceable THSA
+
+    For the purpose of this AD, a serviceable THSA is a part that 
+has accumulated less than 4,000 FH or 1,000 FC (for Airbus Model 
+A330, A340-200, or A340-300 airplanes) or 4,000 FH or 800 FC (for 
+Airbus Model A340-500 or A340-600 airplanes), whichever occurs first 
+since the first flight of the airplane, or since the last overhaul 
+of the THSA, or since the last detailed visual inspection of the 
+THSA in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A330-27-3218, Revision 01, A340-27-4203, Revision 
+01, or A340-27-5067, Revision 01, all dated December 5, 2016, as 
+applicable.
+
+(j) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g), (h)(1), (h)(3), and (h)(4) of this AD, if those 
+actions were performed before the effective date of this AD using 
+the service information specified in
+
+[[Page 59963]]
+
+paragraph (j)(1), (j)(2), or (j)(3) of this AD, as applicable.
+    (1) Airbus Service Bulletin A330-27-3218, Revision 00, dated 
+July 1, 2016.
+    (2) Airbus Service Bulletin A340-27-4203, Revision 00, dated 
+July 1, 2016.
+    (3) Airbus Service Bulletin A340-27-5067, Revision 00, dated 
+July 1, 2016.
+
+(k) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (l)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus's EASA Design Organization Approval 
+(DOA). If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (h)(2) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(l) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0044, dated March 9, 2017, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2017-0627.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 1601 Lind Avenue SW, Renton, WA 98057-3356; 
+telephone: 425-227-1138; fax: 425-227-1149.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (m)(3) and (m)(4) of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-27-3218, Revision 01, dated 
+December 5, 2016.
+    (ii) Airbus Service Bulletin A340-27-4203, Revision 01, dated 
+December 5, 2016.
+    (iii) Airbus Service Bulletin A340-27-5067, Revision 01, dated 
+December 5, 2016.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; 
+fax: +33 5 61 93 45 80; email: [email protected]; 
+internet: http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 1601 Lind Avenue SW, Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 5, 2017.
+Dionne Palermo,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2017-26837 Filed 12-15-17; 8:45 am]
+ BILLING CODE 4910-13-P

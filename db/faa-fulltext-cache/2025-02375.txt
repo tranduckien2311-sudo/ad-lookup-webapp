@@ -1,0 +1,421 @@
+[Federal Register Volume 90, Number 26 (Monday, February 10, 2025)]
+[Rules and Regulations]
+[Pages 9214-9216]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-02375]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-2323; Project Identifier MCAI-2024-00171-T; 
+Amendment 39-22937; AD 2025-02-04]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2022-22-
+10, which applied to certain Airbus SAS Model A318, A319, A320, and 
+A321 series airplanes. AD 2022-22-10 required revising the existing 
+maintenance or inspection program, as applicable, to incorporate new or 
+more restrictive airworthiness limitations. This AD was prompted by a 
+determination that new or more restrictive airworthiness limitations 
+are necessary. This AD continues to require certain actions in AD 2022-
+22-10 and requires revising the existing maintenance or inspection 
+program, as applicable, to incorporate new or more restrictive 
+airworthiness limitations, as specified in a European Union Aviation 
+Safety Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective March 17, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of March 17, 
+2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+December 30, 2022 (87 FR 72374, November 25, 2022).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-2323; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 
+000; email [email protected]; website easa.europa.eu. You may find 
+this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2024-2323.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 206-231-3367; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2022-22-10, Amendment 39-22225 (87 FR 
+72374, November 25, 2022) (AD 2022-22-10). AD 2022-22-10 applied to 
+certain Airbus SAS Model A318, A319, A320, and A321 series airplanes. 
+AD 2022-22-10 required revising the existing maintenance or inspection 
+program, as applicable, to incorporate new or more restrictive 
+airworthiness limitations. The FAA issued AD 2022-22-10 to address 
+failure of certain life-limited parts, which could result in reduced 
+structural integrity of the airplane.
+    The NPRM published in the Federal Register on October 1, 2024 (89 
+FR 79789). The NPRM was prompted by AD 2024-0066, dated March 8, 2024, 
+issued by EASA, which is the Technical Agent for the Member States of 
+the European Union (EASA AD 2024-0066) (also referred to as the MCAI). 
+The MCAI states that new or more restrictive airworthiness limitations 
+have been developed.
+    In the NPRM, the FAA proposed to continue to require certain 
+requirements of AD 2022-22-10. The FAA also proposed to require 
+revising the existing maintenance or inspection program, as applicable, 
+to incorporate additional new or more restrictive airworthiness 
+limitations, as specified in EASA AD 2024-0066. The FAA is issuing this 
+AD to address failure of certain life-limited parts, which could result 
+in reduced structural integrity of the airplane.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-2323.
+
+[[Page 9215]]
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received one comment from an individual who supported the 
+NPRM without change.
+
+Change Made to This AD
+
+    The FAA revised paragraph (m) of this AD to specify that previously 
+approved AMOCs for AD 2022-22-10 are approved as AMOCs for the 
+corresponding provisions of EASA AD 2022-0082, dated May 10, 2022 (EASA 
+AD 2022-0082), which are required by paragraph (g) of this AD, and the 
+corresponding provisions of EASA AD 2024-0066, which are required by 
+paragraph (j) of this AD.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comment received, and determined that air safety requires adopting this 
+AD as proposed. Accordingly, the FAA is issuing this AD to address the 
+unsafe condition on this product. Except for minor editorial changes, 
+and any other changes described previously, this AD is adopted as 
+proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2024-0066 specifies new or more restrictive airworthiness 
+tasks and limitations for airplane structures and safe life limits.
+    This AD also requires EASA AD 2022-0082, which the Director of the 
+Federal Register approved for incorporation by reference as of December 
+30, 2022 (87 FR 72374, November 25, 2022).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,857 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+    The FAA estimates the total cost per operator for the retained 
+actions from AD 2022-22-10 to be $7,650 (90 work-hours x $85 per work-
+hour).
+    The FAA has determined that revising the existing maintenance or 
+inspection program takes an average of 90 work-hours per operator, 
+although the agency recognizes that this number may vary from operator 
+to operator. Since operators incorporate maintenance or inspection 
+program changes for their affected fleet(s), the FAA has determined 
+that a per-operator estimate is more accurate than a per-airplane 
+estimate.
+    The FAA estimates the total cost per operator for the new actions 
+to be $7,650 (90 work-hours x $85 per work-hour).
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2022-22-10, Amendment 39-22225 
+(87 FR 72374, November 25, 2022); and
+0
+b. Adding the following new AD:
+
+2025-02-04 Airbus SAS: Amendment 39-22937; Docket No. FAA-2024-2323; 
+Project Identifier MCAI-2024-00171-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 17, 2025.
+
+(b) Affected ADs
+
+    This AD replaces AD 2022-22-10, Amendment 39-22225 (87 FR 72374, 
+November 25, 2022) (AD 2022-22-10).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model airplanes identified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category, with an original airworthiness certificate or original 
+export certificate of airworthiness issued on or before November 6, 
+2023.
+    (1) A318-111, -112, -121, and -122 airplanes.
+    (2) A319-111, -112, -113, -114, -115, -131, -132, -133, -151N, -
+153N, and -171N airplanes.
+    (3) A320-211, -212, -214, -216, -231, -232, -233, -251N, -252N, 
+-253N, -271N, -272N, and -273N airplanes.
+    (4) A321-111, -112, -131, -211, -212, -213, -231, -232, -251N, -
+252N, -253N, -271N, -272N, -251NX, -252NX, -253NX, -271NX, and -
+272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Time Limits/
+Maintenance Checks.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that new or more 
+restrictive airworthiness limitations are necessary. The FAA is 
+issuing this AD to address failure of certain life-limited parts. 
+The unsafe condition, if not addressed, could result in reduced 
+structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 9216]]
+
+(g) Retained Revision of the Existing Maintenance or Inspection 
+Program, With a New Terminating Action
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2022-22-10, with a new terminating action. For airplanes with an 
+original airworthiness certificate or original export certificate of 
+airworthiness issued on or before February 2, 2022, except as 
+specified in paragraph (h) of this AD: Comply with all required 
+actions and compliance times specified in, and in accordance with, 
+European Union Aviation Safety Agency (EASA) AD 2022-0082, dated May 
+10, 2022 (EASA AD 2022-0082). Accomplishing the revision of the 
+existing maintenance or inspection program required by paragraph (j) 
+of this AD terminates the requirements of this paragraph.
+
+(h) Retained Exceptions to EASA AD 2022-0082, With No Changes
+
+    This paragraph restates the exceptions specified in paragraph 
+(k) of AD 2022-22-10, with no changes.
+    (1) Where EASA AD 2022-0082 refers to its effective date, this 
+AD requires using December 30, 2022 (the effective date of AD 2022-
+22-10).
+    (2) The requirements specified in paragraph (1) of EASA AD 2022-
+0082 do not apply to this AD.
+    (3) Paragraph (2) of EASA AD 2022-0082 specifies revising ``the 
+approved AMP'' within 12 months after its effective date, but this 
+AD requires revising the existing maintenance or inspection program, 
+as applicable, within 90 days after December 30, 2022 (the effective 
+date of AD 2022-22-10).
+    (4) The initial compliance time for doing the tasks specified in 
+paragraph (2) of EASA AD 2022-0082 is at the applicable 
+``limitations'' as incorporated by the requirements of paragraph (2) 
+of EASA AD 2022-0082, or within 90 days after December 30, 2022 (the 
+effective date of AD 2022-22-10), whichever occurs later.
+    (5) The provisions specified in paragraphs (3) and (4) of EASA 
+AD 2022-0082 do not apply to this AD.
+    (6) The ``Remarks'' section of EASA AD 2022-0082 does not apply 
+to this AD.
+
+(i) Retained Restrictions on Alternative Actions and Intervals, With a 
+New Exception
+
+    This paragraph restates the requirements of paragraph (l) of AD 
+2022-22-10, with a new exception. Except as required by paragraph 
+(j) of this AD, after the existing maintenance or inspection program 
+has been revised as required by paragraph (g) of this AD, no 
+alternative actions (e.g., inspections) and intervals are allowed 
+unless they are approved as specified in the provisions of the 
+``Ref. Publications'' section of EASA AD 2022-0082.
+
+(j) New Revision of the Existing Maintenance or Inspection Program
+
+    Except as specified in paragraph (k) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0066, dated March 8, 2024 (EASA AD 
+2024-0066). Accomplishing the revision of the existing maintenance 
+or inspection program required by this paragraph terminates the 
+requirements of paragraph (g) of this AD.
+
+(k) Exceptions to EASA AD 2024-0066
+
+    (1) This AD does not adopt the requirements specified in 
+paragraph (1) of EASA AD 2024-0066.
+    (2) Paragraph (2) of EASA AD 2024-0066 specifies revising ``the 
+approved AMP,'' within 12 months after its effective date, but this 
+AD requires revising the existing maintenance or inspection program, 
+as applicable, within 90 days after the effective date of this AD.
+    (3) The initial compliance time for doing the tasks specified in 
+paragraph (2) of EASA AD 2024-0066 is at the applicable 
+``limitations'' as incorporated by the requirements of paragraph (2) 
+of EASA AD 2024-0066, or within 90 days after the effective date of 
+this AD, whichever occurs later.
+    (4) This AD does not adopt the provisions specified in 
+paragraphs (3) and (4) of EASA AD 2024-0066.
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0066.
+
+(l) New Provisions for Alternative Actions and Intervals
+
+    After the existing maintenance or inspection program has been 
+revised as required by paragraph (j) of this AD, no alternative 
+actions (e.g., inspections) and intervals are allowed unless they 
+are approved as specified in the provisions of the ``Ref. 
+Publications'' section of EASA AD 2024-0066.
+
+(m) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (n) of this AD and email to: 
+[email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2022-22-10 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2022-0082 that are 
+required by paragraph (g) of this AD.
+    (iii) AMOCs approved previously for AD 2022-22-10 are approved 
+as AMOCs for the corresponding provisions of EASA AD 2024-0066 that 
+are required by paragraph (j) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(n) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 206-231-3367; email: 
+[email protected].
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (3) The following material was approved for IBR on March 17, 
+2025.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0066, 
+dated March 8, 2024.
+    (ii) [Reserved]
+    (4) The following material was approved for IBR on December 30, 
+2022 (87 FR 72374, November 25, 2022).
+    (i) EASA AD 2022-0082, dated May 10, 2022.
+    (ii) [Reserved]
+    (5) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; website easa.europa.eu. You may 
+find this material on the EASA website at ad.easa.europa.eu.
+    (6) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (7) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on January 15, 2025.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02375 Filed 2-7-25; 8:45 am]
+BILLING CODE 4910-13-P

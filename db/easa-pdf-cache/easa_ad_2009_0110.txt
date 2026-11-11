@@ -1,0 +1,27 @@
+--- PAGE 1 ---
+EASA AD No : 2009-0110 EASA AIRWORTHINESS DIRECTIVE
+
+AD No.: 2009-0110 Date: 07 May 2009 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) No 216/2008 on behalf of the European Community, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation This AD is issued in accordance with EC 1702/2003, Part 21A.3B. In accordance with EC 2042/2003 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an
+
+Airworthiness Directive applies, except in accordance with the requirements of that
+
+Airworthiness Directive unless otherwise specified by the Agency [EC 2042/2003 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [EC 216/2008, Article 14(4) exemption]. Type Approval Holder’s Name : Type/Model designation(s) : CFM International SA CFM56-5B turbofan engines TCDS Number : EASA.E.003 Foreign AD : Not applicable Supersedure : None Time Limits – Low Pressure Turbine Rear Frame – Life Limit /
+
+ATA 05 Mandatory Inspection
+
+Manufacturer(s): Snecma, GE Aviation
+
+Applicability: CFM International (CFM) CFM56-5B1/P, -5B2/P, -5B3/P, -5B4/P, -5B5/P, -5B6/P, -5B7/P, -5B8/P, -5B9/P, -5B3/P1, -5B4/P1, -5B1/3, -5B2/3, -5B3/3, -5B4/3, -5B5/3, -5B6/3, -5B7/3, -5B8/3, -5B9/3, -5B3/3B1, -5B4/3B1 turbofan engines (CFM56-5Bn/P SAC and CFM56-5Bn/3) operating in commercial application and in corporate application (CFM56-5B Service Bulletin SB 72-0308 applied) equipped with a low pressure turbine (LPT) rear frame part number (P/N) 338-171-751-0 and 338-171-752-0. These engines are known to be installed on, but not limited to, Airbus A318, A319, A320 and A321 series aeroplanes.
+
+Reason: The concerned LPT rear frame part numbers were introduced by the CFM56-5B Service Bulletin SB 72-0570 revision 02 issued 21 January 2008. They are obtained by modifying (reworking) older P/N. The issue of the CFM56-5B Engine Shop Manual (ESM) Temporary Revisions (TR) 05-0184, 05-0185, and 05-0186 in November 2008 introduced a life limit and mandatory inspection for the concerned LPT rear frames. In December 2008, ESM TR 05-0184 and 05-0185 were cancelled and superseded by ESM 05-0187 and 05-0188 which contain the same requirements for the concerned LPT rear frame. This AD is issued to make sure that all operators are informed about the Low Cycle Fatigue (LCF) life limits or mandatory inspections affecting these new EASA Form 112 Page 1/2
+
+--- PAGE 2 ---
+EASA AD No : 2009-0110 P/N and revise their aircraft maintenance programs accordingly.
+
+Effective Date: 21 May 2009 Required Action(s) Required as indicated, unless accomplished previously: and Compliance 1) Within 30 days after the effective date of this AD, amend the Time(s): approved operator maintenance programme to incorporate the new LCF life limits or mandatory inspections for LPT rear frame P/N 338-171-751-0 and 338-171-752-0, in accordance with the CFM56-5B ESM chapter 05 Temporary Revision (TR) 05-0186, 05-0187 and 05-0188 applicable to the Engine Shop Manual Revision 52 or in accordance with subsequent revisions of the Engine Shop Manual that incorporate these Temporary Revisions. 2) If the number of total engine cycles accumulated by a LPT rear frame P/N 338-171-751-0 and 338-171-752-0 cannot be positively established, then within 300 engine cycles after the effective date of the AD, remove and replace the LPT rear frame or perform the inspections in accordance with CFM56-5B Service Bulletin SB 72-0620 revision 2. Note: The number of total engine cycles accumulated of the LPT rear frame is the sum of the number of engine cycles accumulated before and after compliance with CFM56-5B SB 72-0570. CFM56-5B Engine Shop Manual chapter 05 Temporary Revisions (TR) 05-0186, 05-0187 and 05-0188 applicable to the Engine Shop Manual Revision 52. Engine Shop Manual Revision 53 incorporates these Temporary Revisions.
+
+Ref. Publications: CFM56-5B Service Bulletin SB 72-0620 revision 2. The use of later approved revisions of the Service Bulletin is acceptable for compliance with the requirements of this AD. Remarks : 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 04 March 2009 as PAD 09-048 for consultation until 01 April 2009. The Comment Response Document can be found at http://ad.easa.europa.eu. 3. Enquiries regarding this AD should be referred to the
+
+Airworthiness Directives, Safety Management & Research Section, Certification Directorate, EASA. E-mail ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: CFM SA Customer Support Center E-mail : snecma.csc@snecma.fr International Phone : +33 1 64 14 88 66 Fax : +33 1 64 79 85 55 or CFM Inc. Customer Support Center E-mail : geae.csc@ae.ge.com International Phone: +1 513-552-3272 USA Phone: 877-GEAE-CSC EASA Form 112 Page 2/2

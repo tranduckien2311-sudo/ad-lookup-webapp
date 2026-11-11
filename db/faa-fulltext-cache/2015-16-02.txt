@@ -1,0 +1,519 @@
+[Federal Register Volume 80, Number 154 (Tuesday, August 11, 2015)]
+[Rules and Regulations]
+[Pages 48019-48022]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-19182]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0834; Directorate Identifier 2012-NM-045-AD; 
+Amendment 39-18227; AD 2015-16-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directives (AD) 2003-14-11, 
+AD 2004-11-08, AD 2004-13-25, AD 2004-18-14, AD 2007-05-12, AD 2008-06-
+07, AD 2009-18-20, AD 2010-15-02, and AD 2012-04-07 that apply to 
+certain Airbus Model A330 and A340 series airplanes. AD 2003-14-11, AD 
+2004-11-08, AD 2004-13-25, AD 2004-18-14, AD 2007-05-12, AD 2008-06-07, 
+AD 2009-18-20, AD 2010-15-02, and AD 2012-04-07 required revising the 
+maintenance program to incorporate certain maintenance requirements and 
+airworthiness limitations; replacing certain flap rotary actuators; 
+repetitively inspecting elevator servo-controllers and pressure relief 
+valves of the spoiler servo controls; repetitively testing the elevator 
+servo control loops, modifying the elevator servo controls, and 
+repetitively replacing certain retraction brackets of the main landing 
+gear; and revising the airplane flight manual. This new AD requires 
+revising the maintenance program or inspection program to incorporate 
+certain maintenance requirements and airworthiness limitations. This 
+new AD also removes Airbus Model A340-200, -300, -500, and -600 series 
+airplanes from the applicability and adds Airbus Model A330-323 
+airplanes to the applicability. This AD was prompted by a determination 
+that more restrictive maintenance requirements and airworthiness 
+limitations are necessary. We are issuing this AD to address the aging 
+effects of aircraft systems. Such aging effects could change the 
+characteristics of those systems, which, in isolation or in combination 
+with one or more other specific failures or events, could result in 
+failure of certain life limited parts, which could reduce the 
+structural integrity of the airplane or reduce the controllability of 
+the airplane.
+
+DATES: This AD becomes effective September 15, 2015.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of September 15, 
+2015.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-0834; or in person at the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus SAS, 
+Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; 
+email [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0834.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a supplemental notice of proposed rulemaking (SNPRM) to 
+amend 14 CFR part 39 to revise the following airworthiness directives 
+that applied to certain Airbus Model A330 and A340 series airplanes.
+     AD 2003-14-11, Amendment 39-13230 (68 FR 41521, July 14, 
+2003).
+     AD 2004-11-08, Amendment 39-13654 (69 FR 31874, June 8, 
+2004).
+     AD 2004-13-25, Amendment 39-13707 (69 FR 41394, July 9, 
+2004).
+     AD 2004-18-14, Amendment 39-13793 (69 FR 55326, September 
+14, 2004).
+     AD 2007-05-12, Amendment 39-14973 (72 FR 10057, March 7, 
+2007).
+     AD 2008-06-07, Amendment 39-15419 (73 FR 13103, March 12, 
+2008; corrected April 15, 2008 (73 FR 20367)).
+     AD 2009-18-20, Amendment 39-16017 (74 FR 46313, September 
+9, 2009).
+     AD 2010-15-02, Amendment 39-16368 (75 FR 42589, July 22, 
+2010).
+     AD 2012-04-07, Amendment 39-16963 (77 FR 12989, March 5, 
+2012).
+
+[[Page 48020]]
+
+    The SNPRM published in the Federal Register on March 9, 2015 (80 FR 
+12360). We preceded the SNPRM with a notice of proposed rulemaking 
+(NPRM) that published in the Federal Register on November 7, 2013 (78 
+FR 66861). The NPRM was prompted by a determination that more 
+restrictive maintenance requirements and airworthiness limitations were 
+necessary. The NPRM proposed to supersede AD 2003-14-11, Amendment 39-
+13230 (68 FR 41521, July 14, 2003); AD 2004-11-08, Amendment 39-13654 
+(69 FR 31874, June 8, 2004); AD 2004-13-25, Amendment 39-13707 (69 FR 
+41394, July 9, 2004); AD 2004-18-14, Amendment 39-13793 (69 FR 55326, 
+September 14, 2004); AD 2008-06-07, Amendment 39-15419 (73 FR 13103, 
+March 12, 2008; corrected April 15, 2008 (73 FR 20367)); and AD 2012-
+04-07, Amendment 39-16963 (77 FR 12989, March 5, 2012) to require 
+actions intended to address the aging effects of aircraft systems. The 
+NPRM proposed to require revising the maintenance program or inspection 
+program, as applicable, to incorporate certain maintenance requirements 
+and airworthiness limitations.
+    The SNPRM (80 FR 12360, March 9, 2015) proposed to supersede AD 
+2007-05-12, Amendment 39-14973 (72 FR 10057, March 7, 2007); AD 2009-
+18-20, Amendment 39-16017 (74 FR 46313, September 9, 2009); and AD 
+2010-15-02, Amendment 39-16368 (75 FR 42589, July 22, 2010); in 
+addition to those ADs already identified in the NPRM (78 FR 66861, 
+November 7, 2013), as well as to require more restrictive limitations 
+and to add Airbus Model A330-323 airplanes to the applicability. We are 
+issuing this AD to address the aging effects of aircraft systems. Such 
+aging effects could change the characteristics of those systems, which, 
+in isolation or in combination with one or more other specific failures 
+or events, could result in failure of certain life limited parts, which 
+could reduce the structural integrity of the airplane or reduce the 
+controllability of the airplane.
+    The European Aviation Safety Agency (EASA) which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2013-0268, dated November 7, 2013 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition on certain Airbus Model 
+A330 series airplanes. EASA AD 2013-0268 supersedes and retains the 
+requirements of four EASA ADs and requires accomplishment of the 
+actions specified in Airbus A330 Airworthiness Limitations Section 
+(ALS) Part 4--Aging Systems Maintenance, Revision 04, dated August 27, 
+2013. The MCAI states:
+
+    The airworthiness limitations for Airbus aeroplanes are 
+currently published in Airworthiness Limitations Section (ALS) 
+documents.
+    The airworthiness limitations applicable to the Ageing Systems 
+Maintenance (ASM) are given in Airbus A330 ALS Part 4, which is 
+approved by EASA.
+    Revision 04 of Airbus A330 ALS Part 4 introduces more 
+restrictive maintenance requirements and/or airworthiness 
+limitations. Failure to comply with these instructions could result 
+in an unsafe condition.
+    For the reason described above, this [EASA] AD retains the 
+requirements of EASA AD 2012-0020 [http://ad.easa.europa.eu/ad/2012-0020], which is superseded, and requires accomplishment of the 
+actions specified in Airbus A330 ALS Part 4 at Revision 04.
+    In addition, this [EASA] AD also supersedes EASA AD 2006-0159 
+[http://ad.easa.europa.eu/ad/2006-0159], EASA AD 2008-0026 [http://ad.easa.europa.eu/ad/2008-0026] and EASA AD 2008-0160 [http://ad.easa.europa.eu/ad/2008-0160] [which correspond to FAA ADs 2007-
+05-12, Amendment 39-14973 (72 FR 10057, March 7, 2007); 2010-15-02, 
+Amendment 39-16368 (75 FR 42589, July 22, 2010); and 2009-18-20, 
+Amendment 39-16017 (74 FR 46313, September 9, 2009), respectively], 
+whose requirements applicable to A330 aeroplanes have been 
+transferred into Airbus A330 ALS Part 4.
+
+You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating it in Docket No. FAA-
+2013-0834.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comment received. An anonymous commenter 
+supported the SNPRM (80 FR 12360, March 9, 2015).
+
+Conclusion
+
+    We reviewed the available data, including the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD as proposed except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+SNPRM (80 FR 12360, March 9, 2015) for correcting the unsafe condition; 
+and
+     Do not add any additional burden upon the public than was 
+already proposed in the SNPRM (80 FR 12360, March 9, 2015).
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus issued A330 Airworthiness Limitations Section (ALS) Part 4--
+Aging Systems Maintenance, Revision 04, dated August 27, 2013, and 
+Airbus A330 ALS Part 4--Aging Systems Maintenance (ASM), Variation 4.1 
+and Variation 4.2, both dated July 23, 2014. This service information 
+describes preventative maintenance requirements and associated 
+airworthiness limitations applicable to aircraft systems susceptible to 
+aging effects. This service information is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 79 airplanes of U.S. registry.
+    We estimate that it will take about 2 work-hours per product to 
+comply with the new basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Required parts will cost $0 per product. 
+Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $13,430, or $170 per product.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+
+[[Page 48021]]
+
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2013-0834; or in person at the 
+Docket Management Facility between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by
+0
+a. Removing Airworthiness Directive (AD) 2003-14-11, Amendment 39-13230 
+(68 FR 41521, July 14, 2003); AD 2004-11-08, Amendment 39-13654 (69 FR 
+31874, June 8, 2004); AD 2004-13-25, Amendment 39-13707 (69 FR 41394, 
+July 9, 2004); AD 2004-18-14, Amendment 39-13793 (69 FR 55326, 
+September 14, 2004); AD 2007-05-12, Amendment 39-14973 (72 FR 10057, 
+March 7, 2007); AD 2008-06-07, Amendment 39-15419 (73 FR 13103, March 
+12, 2008; corrected April 15, 2008 (73 FR 20367)); AD 2009-18-20, 
+Amendment 39-16017 (74 FR 46313, September 9, 2009); AD 2010-15-02, 
+Amendment 39-16368 (75 FR 42589, July 22, 2010); AD 2012-04-07, 
+Amendment 39-16963 (77 FR 12989, March 5, 2012); and
+0
+b. Adding the following new AD:
+
+2015-16-02 Airbus: Amendment 39-18227. Docket No. FAA-2013-0834; 
+Directorate Identifier 2012-NM-045-AD.
+
+(a) Effective Date
+
+    This AD becomes effective September 15, 2015.
+
+(b) Affected ADs
+
+    This AD replaces the ADs specified in paragraphs (b)(1) through 
+(b)(9) of this AD.
+    (1) AD 2003-14-11, Amendment 39-13230 (68 FR 41521, July 14, 
+2003).
+    (2) AD 2004-11-08, Amendment 39-13654 (69 FR 31874, June 8, 
+2004).
+    (3) AD 2004-13-25, Amendment 39-13707 (69 FR 41394, July 9, 
+2004).
+    (4) AD 2004-18-14, Amendment 39-13793 (69 FR 55326, September 
+14, 2004).
+    (5) AD 2007-05-12, Amendment 39-14973 (72 FR 10057, March 7, 
+2007).
+    (6) AD 2008-06-07, Amendment 39-15419 (73 FR 13103, March 12, 
+2008; corrected April 15, 2008 (73 FR 20367)).
+    (7) AD 2009-18-20, Amendment 39-16017 (74 FR 46313, September 9, 
+2009).
+    (8) AD 2010-15-02, Amendment 39-16368 (75 FR 42589, July 22, 
+2010).
+    (9) AD 2012-04-07, Amendment 39-16963 (77 FR 12989, March 5, 
+2012).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-201, -202, -203, -223, -
+243, -223F, -243F, -301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes; certificated in any category; all manufacturer 
+serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Time Limits/
+Maintenance Checks.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that more restrictive 
+maintenance requirements and airworthiness limitations are 
+necessary. We are issuing this AD to address the aging effects of 
+aircraft systems. Such aging effects could change the 
+characteristics of those systems, which, in isolation or in 
+combination with one or more other specific failures or events, 
+could result in failure of certain life limited parts, which could 
+reduce the structural integrity of the airplane or reduce the 
+controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Maintenance Program Revision and Actions
+
+    Within 6 months after the effective date of this AD, revise the 
+maintenance program or inspection program, as applicable, by 
+incorporating Airbus A330 Airworthiness Limitations Section (ALS) 
+Part 4--Aging Systems Maintenance, Revision 04, dated August 27, 
+2013, and Airbus A330 ALS Part 4--Aging Systems Maintenance (ASM), 
+Variation 4.1 and Variation 4.2, both dated July 23, 2014. The 
+initial compliance times for the actions are within the applicable 
+compliance times specified in the Record of Revisions pages of 
+Airbus A330 ALS Part 4--Aging Systems Maintenance, Revision 04, 
+dated August 27, 2013, Airbus A330 ALS Part 4--Aging Systems 
+Maintenance (ASM), Variation 4.1 and Variation 4.2, both dated July 
+23, 2014, or within 6 months after the effective date of this AD, 
+whichever is later, except as required by paragraph (h) of this AD.
+
+(h) Exceptions to Initial Compliance Times
+
+    (1) Where Airbus A330 ALS Part 4--Aging Systems Maintenance, 
+Revision 04, dated August 27, 2013, defines a calendar compliance 
+time for elevator servo-controls having part number (P/N) SC4800-2, 
+SC4800-3, SC4800-4, SC4800-6, SC4800-7, or SC4800-8 as ``August 31, 
+2004,'' the calendar compliance time is June 13, 2007 (34 months 
+after August 13, 2004 (the effective date of AD 2004-13-25, 
+Amendment 39-13707 (69 FR 41394, July 9, 2004))).
+    (2) Where Airbus A330 ALS Part 4--Aging Systems Maintenance, 
+Revision 04, dated August 27, 2013, defines a calendar compliance 
+time for spoiler servo-controls (SSCs) having P/N 1386A0000-01, P/N 
+1386B0000-01, P/N 1387A0000-01 or P/N 1387B0000-01 as ``December 31, 
+2003,'' the calendar compliance time is November 19, 2005 (13 months 
+after October 19, 2004 (the effective date of AD 2004-18-14, 
+Amendment 39-13793 (69 FR 55326, September 14, 2004))).
+    (3) Where Airbus A330 ALS Part 4--Aging Systems Maintenance, 
+Revision 04, dated August 27, 2013, defines a calendar compliance 
+time for elevator servo-controls having P/N SC4800-73, SC4800-93, 
+SC4800-103 and SC4800-113 as ``June 30, 2008,'' the calendar 
+compliance time is September 16, 2009 (17 months after April 16, 
+2008 (the effective date of AD 2008-06-07, Amendment 39-15419 (73 FR 
+13103, March 12, 2008; corrected April 15, 2008 (73 FR 20367)))).
+    (4) The initial compliance time for replacement of the 
+retraction brackets of the main landing gear (MLG) having a part 
+number specified in paragraphs (h)(4)(i) through (h)(4)(xvi) of this 
+AD is before the accumulation of 19,800 total landings on the 
+affected retraction brackets of the MLG, or within 900 flight hours 
+after April 9, 2012 (the effective date of AD 2012-04-07, Amendment 
+39-16963 (77 FR 12989, March 5, 2012), whichever occurs later.
+    (i) 201478303
+    (ii) 201478304
+    (iii) 201478305
+    (iv) 201478306
+    (v) 201478307
+    (vi) 201478308
+    (vii) 201428380
+    (viii) 201428381
+    (ix) 201428382
+    (x) 201428383
+    (xi) 201428384
+    (xii) 201428385
+    (xiii) 201428378
+    (xiv) 201428379
+
+[[Page 48022]]
+
+    (xv) 201428351
+    (xvi) 201428352
+    (5) Where Airbus A330 ALS Part 4--Aging Systems Maintenance, 
+Revision 04, dated August 27, 2013, defines a calendar compliance 
+time for the modification of SSCs on three hydraulic circuits having 
+part numbers MZ4339390-01X, MZ4306000-01X, MZ4339390-02X, MZ4306000-
+02X, MZ4339390-10X, or MZ4306000-10X as ``March 5, 2010,'' the 
+calendar compliance time is April 14, 2011 (18 months after October 
+14, 2009 (the effective date of AD 2009-18-20, Amendment 39-16017 
+(74 FR 46313, September 9, 2009))).
+    (6) Where Note (6) of ``ATA 27-64-00 Flight Control--Spoiler 
+Hydraulic Actuation,'' of Sub-part 4-2-1, ``Life Limits,'' of Sub-
+part 4-2, ``Systems Life Limited Components,'' of Airbus A330 ALS 
+Part 4--Aging Systems Maintenance, Revision 04, dated August 27, 
+2013, defines a calendar date of ``September 5, 2008,'' as a date 
+for the determination of accumulated flight cycles since the 
+aircraft initial entry into service, the date is October 14, 2009 
+(the effective date of AD 2009-18-20, Amendment 39-16017 (74 FR 
+46313, September 9, 2009)).
+    (7) Where Note (6) of ``ATA 27-64-00 Flight Control--Spoiler 
+Hydraulic Actuation,'' of Sub-part 4-2-1, ``Life Limits,'' of Sub-
+part 4-2, ``Systems Life Limited Components,'' of Airbus A330 ALS 
+Part 4--Aging Systems Maintenance, Revision 04, dated August 27, 
+2013, defines a calendar compliance time as ``March 5, 2010,'' for 
+the modification of affected servo controls, the calendar compliance 
+time is April 14, 2011 (18 months after October 14, 2009 (the 
+effective date of AD 2009-18-20, Amendment 39-16017 (74 FR 46313, 
+September 9, 2009))).
+
+(i) No Alternative Actions or Intervals
+
+    After accomplishing the revision required by paragraph (g) of 
+this AD, no alternative actions (e.g., inspections) or intervals may 
+be used unless the actions or intervals are approved as an 
+alternative method of compliance (AMOC) in accordance with the 
+procedures specified in paragraph (j)(1) of this AD.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using 
+any approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(k) Related Information
+
+    Refer to Mandatory Continuing Airworthiness Information (MCAI) 
+European Aviation Safety Agency (EASA) AD 2013-0268, dated November 
+7, 2013, for related information. This MCAI may be found in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2013-0834.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus A330 Airworthiness Limitations Section ALS Part 4--
+Aging Systems Maintenance, Revision 04, dated August 27, 2013.
+    (ii) Airbus A330 ALS Part 4--Aging Systems Maintenance (ASM), 
+Variation 4.1, dated July 23, 2014.
+    (iii) Airbus A330 ALS Part 4--Aging Systems Maintenance (ASM), 
+Variation 4.2, dated July 23, 2014.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on July 28, 2015.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-19182 Filed 8-10-15; 08:45 am]
+ BILLING CODE 4910-13-P

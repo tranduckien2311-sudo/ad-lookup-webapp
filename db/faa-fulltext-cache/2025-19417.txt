@@ -1,0 +1,477 @@
+[Federal Register Volume 90, Number 189 (Thursday, October 2, 2025)]
+[Rules and Regulations]
+[Pages 47523-47526]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-19417]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-3427; Project Identifier MCAI-2025-01344-T; 
+Amendment 39-23166; AD 2025-20-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200, A330-200 Freighter, A330-300, A340-200, 
+A340-300, A340-500, and A340-600 series airplanes. This AD was prompted 
+by the determination that, during flight with landing gear down, the 
+brake system accumulators and shut-off valve (SOV) protecting the brake 
+accumulators might be exposed to a temperature lower than the one for 
+which the accumulator and SOV are qualified. This AD is also prompted 
+by the determination that, if an airplane is dispatched under existing 
+conditions associated with the ``L/G Retraction Fault'' alert, 
+operations for Constant Speed Motor/Generator (CSM/G) will be 
+prevented. This AD requires revising the existing airplane flight 
+manual (AFM) to incorporate new procedures for flight with landing gear 
+down and the existing minimum equipment list (MEL) to prevent dispatch 
+with an ``L/G Retraction Fault'' alert. The FAA is issuing this AD to 
+address the unsafe condition on these products.
+
+DATES: This AD is effective October 17, 2025.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of October 17, 
+2025.
+    The FAA must receive comments on this AD by November 17, 2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-3427; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this AD, contact EASA, Konrad-Adenauer-Ufer 3, 50668 
+Cologne, Germany; telephone +49 221 8999 000; email [email protected]. 
+You may find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-3427.
+
+FOR FURTHER INFORMATION CONTACT: Frank Carreras, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3539; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments using a method listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2025-3427; Project 
+Identifier MCAI-2025-01344-T'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the final rule, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Frank 
+Carreras, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3539; email: [email protected]. 
+Any commentary that the FAA receives which is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2025-0175, dated August 8, 2025 
+(EASA AD 2025-0175) (also referred to as the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model A330-200, A330-200 Freighter, 
+A330-300, A340-200, and A340-300 series airplanes; and
+
+[[Page 47524]]
+
+Model A340-541, A340-542, A340-642, and A340-643 airplanes. Model A340-
+542 and A340-643 airplanes are not certificated by the FAA and are not 
+included on the U.S. type certificate data sheet; this AD therefore 
+does not include those airplanes in the applicability. The MCAI states 
+that during certification activity of revenue flight landing gear down 
+(RFLGD) operations for the Beluga XL (i.e., Model A330-743L) airplanes, 
+it was determined that the brake system accumulators might be exposed 
+to a temperature lower than the one for which the accumulator is 
+qualified. The landing gear system for the Model A330-743L airplane is 
+similar in design to that on the Model A330-200, A330-200 Freighter, 
+A330-300, A340-200, A340-300, A340-500, and A340-600 series airplanes. 
+It was also determined, in the case of loss of the blue hydraulic 
+system, that the SOV protecting the brake accumulators from internal 
+hydraulic pressure loss could be identically affected while performing 
+RFLGD operations. Each of these conditions, if not corrected, could 
+lead to damage to the brake accumulator bladder and loss of SOV 
+function, possibly resulting in the loss of emergency braking and 
+consequent damage to the airplane. The MCAI also states that it was 
+determined that, if an airplane is dispatched under master minimum 
+equipment list (MMEL) conditions associated with the Electronic 
+Centralized Aircraft Monitor (ECAM) ``L/G RETRACTION FAULT'' alert 
+message, operations for Constant Speed Motor/Generator (CSM/G) (i.e., 
+emergency power supply) will be prevented. This condition, if not 
+corrected, would, after a total engine flame out, lead to total loss of 
+electrical power and consequent loss of control of the airplane.
+    The FAA is issuing this AD to address the unsafe condition on these 
+products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-3427.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2025-0175, which specifies procedures for 
+revising the existing AFM to incorporate new procedures for flight with 
+landing gear down and the existing MMEL to prevent dispatch with a ``L/
+G Retraction Fault'' alert. This material is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this AD 
+after determining that the unsafe condition described previously is 
+likely to exist or develop on other products of the same type design.
+
+Requirements of This AD
+
+    This AD requires accomplishing the actions specified in EASA AD 
+2025-0175 described previously, except for any differences identified 
+as exceptions in the regulatory text of this AD.
+
+Compliance With AFM and MEL Revisions
+
+    EASA AD 2025-0175 requires operators to ``inform all flight crews'' 
+of revisions to the AFM and MEL, and thereafter to ``operate the 
+aeroplane accordingly.'' However, this AD does not specifically require 
+those actions as those actions are already required by FAA regulations. 
+FAA regulations require operators furnish to pilots any changes to the 
+AFM (for example, 14 CFR 121.137) and to ensure the pilots are familiar 
+with the AFM (for example, 14 CFR 91.505). As with any other flightcrew 
+training requirement, training on the updated AFM content is tracked by 
+the operators and recorded in each pilot's training record, which is 
+available for the FAA to review. FAA regulations also require pilots to 
+follow the procedures in the existing AFM including all updates. 
+Section 91.9 requires that any person operating a civil aircraft must 
+comply with the operating limitations specified in the AFM. FAA 
+regulations (Sec.  121.628(a)(2)) require operators to provide pilots 
+with access to all the information contained in the operator's MEL. 
+Furthermore, Sec.  121.628(a)(5) requires airplanes to be operated 
+under all applicable conditions and limitations contained in the 
+operator's MEL. Therefore, including a requirement in this AD to 
+operate the airplane according to the revised AFM and MEL would be 
+redundant and unnecessary.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, 
+EASA AD 2025-0175 is incorporated by reference in this AD. This AD 
+requires compliance with EASA AD 2025-0175 in its entirety through that 
+incorporation, except for any differences identified as exceptions in 
+the regulatory text of this AD. Using common terms that are the same as 
+the heading of a particular section in EASA AD 2025-0175 does not mean 
+that operators need comply only with that section. For example, where 
+the AD requirement refers to ``all required actions and compliance 
+times,'' compliance with this AD requirement is not limited to the 
+section titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 
+2025-0175. Material required by EASA AD 2025-0175 for compliance will 
+be available at regulations.gov under Docket No. FAA-2025-3427 after 
+this AD is published.
+
+Justification for Immediate Adoption and Determination of the Effective 
+Date
+
+    Section 553(b) of the Administrative Procedure Act (APA) (5 U.S.C. 
+551 et seq.) authorizes agencies to dispense with notice and comment 
+procedures for rules when the agency, for ``good cause,'' finds that 
+those procedures are ``impracticable, unnecessary, or contrary to the 
+public interest.'' Under this section, an agency, upon finding good 
+cause, may issue a final rule without providing notice and seeking 
+comment prior to issuance. Further, section 553(d) of the APA 
+authorizes agencies to make rules effective in less than thirty days, 
+upon a finding of good cause.
+    An unsafe condition exists that requires the immediate adoption of 
+this AD without providing an opportunity for public comments prior to 
+adoption. The FAA has found that the risk to the flying public 
+justifies forgoing notice and comment prior to adoption of this rule 
+because, if an airplane is dispatched with the landing gear retraction 
+system inoperative and ``L/G Retraction Fault'' alert under existing 
+MEL conditions, and a total engine flame out occurs, this could lead to 
+total loss of electrical power and consequent loss of control of the 
+airplane. Further, if an airplane is operating with landing gear down, 
+the brake system accumulators, and the SOV protecting the brake 
+accumulators from internal hydraulic pressure loss, could be exposed to 
+a temperature lower than one for which the accumulator and SOV are 
+qualified, which could lead to damage to the brake accumulator bladder 
+and loss of SOV function and result in the loss of emergency braking
+
+[[Page 47525]]
+
+and consequent damage to the airplane. Additionally, the compliance 
+time in this AD is shorter than the time necessary for the public to 
+comment and for publication of the final rule. Accordingly, notice and 
+opportunity for prior public comment are impracticable and contrary to 
+the public interest pursuant to 5 U.S.C. 553(b).
+    In addition, the FAA finds that good cause exists pursuant to 5 
+U.S.C. 553(d) for making this amendment effective in less than 30 days, 
+for the same reasons the FAA found good cause to forgo notice and 
+comment.
+
+Regulatory Flexibility Act (RFA)
+
+    The requirements of the RFA do not apply when an agency finds good 
+cause pursuant to 5 U.S.C. 553 to adopt a rule without prior notice and 
+comment. Because the FAA has determined that it has good cause to adopt 
+this rule without notice and comment, RFA analysis is not required.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 153 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                             Labor cost                               Parts cost      product       operators
+----------------------------------------------------------------------------------------------------------------
+2 work-hours x $85 per hour = $170.................................           $0          $170          $26,010
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866, and
+    (2) Will not affect intrastate aviation in Alaska.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2025-20-13 Airbus SAS: Amendment 39-23166; Docket No. FAA-2025-3427; 
+Project Identifier MCAI-2025-01344-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective October 17, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes specified in 
+paragraphs (c)(1) through (7), certificated in any category.
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (4) Model A340-211, -212, and -213 airplanes.
+    (5) Model A340-311, -312, and -313 airplanes.
+    (6) Model A340-541 airplanes.
+    (7) Model A340-642 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+Gear.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the determination that, during flight 
+with landing gear down, the brake system accumulators, and the shut-
+off valve (SOV) protecting the brake accumulators from internal 
+hydraulic pressure loss, might be exposed to a temperature lower 
+than the one for which the accumulator and SOV are qualified. The 
+FAA is issuing this AD to address damage to the brake accumulator 
+bladder and loss of SOV function, possibly resulting in the loss of 
+emergency braking and consequent damage to the airplane. This AD is 
+also prompted by the determination that, if an airplane is 
+dispatched under existing conditions associated with the ``L/G 
+Retraction Fault'' alert, operations for Constant Speed Motor/
+Generator (CSM/G) will be prevented. This condition, if not 
+corrected, would, after a total engine flame out, lead to total loss 
+of electrical power and consequent loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2025-0175, dated August 8, 2025 (EASA AD 2025-0175).
+
+(h) Exceptions to EASA AD 2025-0175
+
+    (1) Where EASA AD 2025-0175 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where paragraph (1) of EASA AD 2025-0175 specifies to 
+``implement the instructions of the MMEL update'', this AD requires 
+replacing that text with ``revise the operator's existing FAA-
+approved minimum equipment list (MEL) by incorporating the 
+information identified in ``the MMEL update'' ''.
+    (3) Where paragraph (1) of EASA AD 2025-0175 specifies to 
+``inform all flight crews, and thereafter, operate the aeroplane 
+accordingly,'' and where paragraph (3) of EASA AD 2025-0175 
+specifies to ``inform all flight crews and, thereafter, operate the 
+aeroplane accordingly,'' this AD does not require those actions as 
+those actions are already required by existing FAA operating 
+regulations (see 14 CFR 91.9, 91.505, 121.137, and 121.628(a)(2) and 
+(5)).
+
+[[Page 47526]]
+
+    (4) Where paragraph (3) of EASA AD 2025-0175 specifies to 
+``implement the AFM update'', this AD requires replacing that text 
+with ``revise the existing AFM by incorporating the applicable 
+information identified in ``the AFM update'' ''.
+    (5) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0175.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (j) of this AD and email to: 
+[email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(j) Additional Information
+
+    For more information about this AD, contact Frank Carreras, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3539; email: [email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0175, 
+dated August 8, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on September 29, 2025.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2025-19417 Filed 9-30-25; 4:15 pm]
+BILLING CODE 4910-13-P

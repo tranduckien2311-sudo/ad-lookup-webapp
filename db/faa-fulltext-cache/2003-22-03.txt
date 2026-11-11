@@ -1,0 +1,338 @@
+[Federal Register Volume 68, Number 210 (Thursday, October 30, 2003)]
+[Rules and Regulations]
+[Pages 61739-61742]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 03-27153]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2003-NE-37-AD; Amendment 39-13350; AD 2003-22-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc Trent 768-60 and Trent 
+772-60 Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Rolls-Royce plc (RR) RB211 Trent 768-60 and Trent 772-60 
+turbofan engines. This AD requires reworking the low
+
+[[Page 61740]]
+
+pressure (LP) turbine nozzle vane case, the LP turbine bearing support 
+exhaust case, and the support arm bracket assemblies. This AD is 
+prompted by a report of an LP stage 4 blade failure at the blade shank, 
+resulting in severe radial distortion of the rear flange of the LP 
+turbine case and failure of a number of attaching bolts, resulting in 
+enough flange separation to allow the release of high energy debris. We 
+are issuing this AD to prevent possible uncontained LP turbine case 
+failure and damage to the airplane.
+
+DATES: Effective November 14, 2003. The Director of the Federal 
+Register approved the incorporation by reference of certain 
+publications listed in the regulations as of November 14, 2003.
+    We must receive any comments on this AD by December 29, 2003.
+
+ADDRESSES:
+    Use one of the following addresses to submit comments on this AD:
+
+[sbull] By mail: The Federal Aviation Administration (FAA), New England 
+Region, Office of the Regional Counsel, Attention: Rules Docket No. 
+2003-NE-37-AD, 12 New England Executive Park, Burlington, MA 01803-
+5299.
+[sbull] By fax: (781) 238-7055.
+[sbull] By e-mail: [email protected].
+
+    You can get the service information referenced in this AD from 
+Rolls-Royce plc, P.O. Box 31, Derby, England, DE248BJ; telephone: 011-
+44-1332-242424; fax: 011-44-1332-245418.
+    You may examine the AD docket, by appointment, at the FAA, New 
+England Region, Office of the Regional Counsel, 12 New England 
+Executive Park, Burlington, MA. You may examine the service 
+information, by appointment, at the FAA, New England Region, Office of 
+the Regional Counsel, 12 New England Executive Park, Burlington, MA; or 
+at the Office of the Federal Register, 800 North Capitol Street, NW., 
+suite 700, Washington, DC.
+
+FOR FURTHER INFORMATION CONTACT: James Lawrence, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine and Propeller Directorate, 12 
+New England Executive Park; telephone (781) 238-7176; fax (781) 238-
+7199.
+
+SUPPLEMENTARY INFORMATION: The Civil Aviation Authority, (CAA), which 
+is the airworthiness authority for the United Kingdom (U.K.), recently 
+notified the FAA that an unsafe condition may exist on RR RB211 Trent 
+768-60 engines with serial numbers (SNs) before SN 41056 and RB211 
+Trent 772-60 engines with SNs before SN 41056. The CAA advises that an 
+LP turbine stage 4 blade failed during a development test. Examination 
+of the LP turbine case and attaching bolts, which had been subjected to 
+the stage 4 blade failure at the shank, showed severe radial distortion 
+of the rear flange and a number of bolts which had failed in shear or a 
+combination of shear and tension. The initial distortion and flange 
+separation occurred locally at the blade impact point and allowed 
+debris to become trapped between the flanges. This debris then 
+contacted with the remaining rotating blades resulting in enough flange 
+separation to allow release of high-energy debris.
+
+Relevant Service Information
+
+    We have reviewed and approved the technical contents of RR 
+Mandatory Service Bulletin (MSB) No. RB.211-72-C224, Revision 4, dated 
+April 12, 2002, that describes the procedures for reworking the LP 
+turbine nozzle vane case, the LP turbine bearing support exhaust case, 
+and the support arm bracket assemblies. The CAA classified this service 
+bulletin as mandatory and issued AD 010-03-99, dated April 12, 2002, in 
+order to ensure the airworthiness of these RR plc engines in the U.K.
+
+Bilateral Airworthiness Agreement
+
+    This engine model is manufactured in the U.K. and is type 
+certificated for operation in the United States under the provisions of 
+section 21.29 of the Federal Aviation Regulations (14 CFR 21.29) and 
+the applicable bilateral airworthiness agreement. Under this bilateral 
+airworthiness agreement, the CAA has kept the FAA informed of the 
+situation described above. We have examined the findings of the CAA, 
+reviewed all available information, and determined that AD action is 
+necessary for products of this type design that are certificated for 
+operation in the United States.
+
+FAA's Determination and Requirements of This AD
+
+    Although no airplanes that are registered in the United States use 
+these engines, the possibility exists that the engines could be used on 
+airplanes that are registered in the United States in the future. The 
+unsafe condition described previously is likely to exist or develop on 
+other RR Trent 768-60 and Trent 772-60 engines of the same type design. 
+We are issuing this AD to prevent possible uncontained LP turbine case 
+failure and damage to the airplane. This AD requires reworking the LP 
+turbine nozzle vane case, the LP turbine bearing support exhaust case, 
+and the support arm bracket assemblies. You must use the service 
+information described previously to perform the actions required by 
+this AD.
+
+FAA's Determination of the Effective Date
+
+    Since there are currently no domestic operators of this engine 
+model, notice and opportunity for public comment before issuing this AD 
+are unnecessary. Therefore, a situation exists that allows the 
+immediate adoption of this regulation.
+
+Changes to 14 CFR Part 39--Effect on the AD
+
+    On July 10, 2002, we issued a new version of 14 CFR part 39 (67 FR 
+47997, July 22, 2002), which governs our AD system. This regulation now 
+includes material that relates to special flight permits, alternative 
+methods of compliance, and altered products. This material previously 
+was included in each individual AD. Since this material is included in 
+14 CFR part 39, we will not include it in future AD actions.
+
+Interim Action
+
+    These actions are interim actions and we may take further 
+rulemaking actions in the future.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety and was not preceded by notice and an opportunity for public 
+comment; however, we invite you to submit any written relevant data, 
+views, or arguments regarding this AD. Send your comments to an address 
+listed under ADDRESSES. Include ``AD Docket No. 2003-NE-37-AD'' in the 
+subject line of your comments. If you want us to acknowledge receipt of 
+your mailed comments, send us a self-addressed, stamped postcard with 
+the docket number written on it; we will date-stamp your postcard and 
+mail it back to you. We specifically invite comments on the overall 
+regulatory, economic, environmental, and energy aspects of the rule 
+that might suggest a need to modify it. If a person contacts us 
+verbally, and that contact relates to a substantive part of this AD, we 
+will summarize the contact and place the summary in the docket. We will 
+consider all comments received by the closing date and may amend the AD 
+in light of those comments.
+    We are reviewing the writing style we currently use in regulatory 
+documents. We are interested in your comments on whether the style of 
+this document is clear, and your suggestions to improve the clarity of 
+our communications with you. You may get more information about plain 
+language at http://
+
+[[Page 61741]]
+
+www.faa.gov/language and http://www.plainlanguage.gov.
+
+Examining the AD Docket
+
+    You may examine the AD Docket (including any comments and service 
+information), by appointment, between 8 a.m. and 4:30 p.m., Monday 
+through Friday, except Federal holidays. See ADDRESSES for the 
+location.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national Government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the regulation:
+
+1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+2. Is not a ``significant rule'' under the DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+3. Will not have a significant economic impact, positive or negative, 
+on a substantial number of small entities under the criteria of the 
+Regulatory Flexibility Act.
+
+    We prepared a summary of the costs to comply with this AD and 
+placed it in the AD Docket. You may get a copy of this summary by 
+sending a request to us at the address listed under ADDRESSES. Include 
+``AD Docket No. 2003-NE-37-AD'' in your request.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the Federal Aviation Administration amends part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2003-22-03 Rolls-Royce plc: Amendment 39-13350. Docket No. 2003-NE-
+37-AD.
+
+Effective Date
+
+    (a) This airworthiness directive (AD) becomes effective November 
+14, 2003.
+
+Affected ADs
+
+    (b) None.
+
+Applicability
+
+    (c) This AD applies to Rolls-Royce plc (RR) RB211 Trent 768-60 
+turbofan engines with serial numbers (SNs) before SN 41056 and RB211 
+Trent 772-60 turbofan engines with SNs before SN 41056. These 
+engines are installed on, but not limited to, Airbus A330 series 
+airplanes.
+
+Unsafe Condition
+
+    (d) This AD is prompted by a report of a low pressure (LP) stage 
+4 blade failure at the blade shank, resulting in severe radial 
+distortion of the rear flange of the LP turbine case and failure of 
+a number of attaching bolts, resulting in enough flange separation 
+to allow the release of high energy debris. We are issuing this AD 
+to prevent possible uncontained LP turbine case failure and damage 
+to the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within 15 months after the effective date of this AD, 
+unless the actions have already been done.
+
+Rework of Affected Components
+
+    (f) Rework the LP turbine nozzle vane case, part numbers (P/Ns) 
+FK19488 and FK22687. Use Accomplishment Instruction paragraph 3.B. 
+of RR Mandatory Service Bulletin (MSB) No. RB.211-72-C224, Revision 
+4, dated April 12, 2002.
+    (g) Rework the LP turbine bearing support exhaust case, P/N 
+FK22791. Use Accomplishment Instruction paragraph 3.C. of RR MSB No. 
+RB.211-72-C224, Revision 4, dated April 12, 2002.
+    (h) Rework the support arm bracket assembly, P/N FK29121. Use 
+Accomplishment Instruction paragraph 3.D. of RR MSB No. RB.211-72-
+C224, Revision 4, dated April 12, 2002.
+
+Conditions for Installation
+
+    (i) Reworked components identified in paragraphs (f), (g), and 
+(h) of this AD must be installed as a complete set only.
+    (j) Information on interchangeability of parts can be found in 
+section 1.M. of RR MSB RB.211-72-C224, Revision 4, dated April 12, 
+2002.
+    (k) After the effective date of this AD, do not install any 
+modules marked M08821AA, M08821AB, or core engines TRENT121AA, or 
+TRENT122AA into any engine.
+
+Alternative Methods of Compliance
+
+    (l) The Manager, Engine Certification Office, has the authority 
+to approve alternative methods of compliance for this AD if 
+requested using the procedures found in 14 CFR 39.19.
+
+Material Incorporated by Reference
+
+    (m) You must use the service information specified in Table 1 to 
+perform the actions required by this AD. The Director of the Federal 
+Register approved the incorporation by reference of the documents 
+listed in Table 1 of this AD in accordance with 5 U.S.C. 552(a) and 
+1 CFR part 51. You can get a copy from Rolls-Royce plc, P.O. Box 31, 
+Derby, England, DE248BJ; telephone: 011-44-1332-242424; fax: 011-44-
+1332-245418. You may review copies at Federal Aviation 
+Administration, New England Region, Office of the Regional Counsel, 
+12 New England Executive Park, Burlington, MA; or at the Office of 
+the Federal Register, 800 North Capitol Street, NW., suite 700, 
+Washington, DC. Table 1 follows:
+
+                                      Table 1.--Incorporation by Reference
+----------------------------------------------------------------------------------------------------------------
+            Service bulletin No.                 Page      Revision                      Date
+----------------------------------------------------------------------------------------------------------------
+Rolls-Royce plc Mandatory Service Bulletin            1          14   April 12, 2002.
+ RB.211-72-C224.
+                                                    2-3           3   September 12, 2001.
+                                                    4-7           4   April 12, 2002.
+                                                    8-9           3   September 12, 2001.
+                                                  10-14           4   April 12, 2002.
+                                                  15-16           3   September 12, 2001.
+                                                     17           4   April 12, 2002.
+                                                  18-36           3   September 12, 2001.
+ Total Pages: 36.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 61742]]
+
+Related Information
+
+    (n) CAA airworthiness directive 010-03-99, dated April 12, 2002, 
+also addresses the subject of this AD.
+
+    Issued in Burlington, Massachusetts, on October 20, 2003.
+Jay J. Pardee,
+Manager, Engine and Propeller Directorate, Aircraft Certification 
+Service.
+[FR Doc. 03-27153 Filed 10-29-03; 8:45 am]
+BILLING CODE 4910-13-P

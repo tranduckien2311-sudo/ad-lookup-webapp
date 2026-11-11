@@ -1,0 +1,387 @@
+[Federal Register Volume 72, Number 50 (Thursday, March 15, 2007)]
+[Rules and Regulations]
+[Pages 12072-12075]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E7-4382]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2006-26516; Directorate Identifier 2006-NM-173-AD; 
+Amendment 39-14983; AD 2007-06-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A318, A319, A320, and A321 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding an existing airworthiness directive 
+(AD), which applies to all Airbus Model A318-100 and A319-100 series 
+airplanes, Model A320-111 airplanes, and Model A320-200, A321-100, and 
+A321-200 series airplanes. That AD currently requires repetitive 
+inspections of the upper and lower attachments of the trimmable 
+horizontal stabilizer actuator (THSA) to measure for proper
+
+[[Page 12073]]
+
+clearance and to detect cracks, damage, and metallic particles. The 
+existing AD also requires corrective actions, if necessary, and reports 
+of inspection findings. This new AD shortens the repetitive interval 
+for inspecting the upper THSA attachment. This AD results from new test 
+results on the secondary load path, which indicated the need to shorten 
+the repetitive interval for inspecting the upper THSA attachment. We 
+are issuing this AD to detect and correct failure of the THSA's primary 
+load path, which could result in latent (undetected) loading and 
+eventual failure of the THSA's secondary load path and consequent 
+uncontrolled movement of the horizontal stabilizer and loss of control 
+of the airplane.
+
+DATES: This AD becomes effective April 19, 2007.
+    The Director of the Federal Register approved the incorporation by 
+reference of Airbus Service Bulletin A320-27-1164, Revision 04, 
+including Appendix 01, dated July 17, 2006, as of April 19, 2007.
+    On May 5, 2006 (71 FR 16203, March 31, 2006), the Director of the 
+Federal Register approved the incorporation by reference of Airbus 
+Service Bulletin A320-27-1164, Revision 03, including Appendix 01, 
+dated August 24, 2005.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://dms.dot.gov or in person at the Docket Management Facility, U.S. 
+Department of Transportation, 400 Seventh Street, SW., Nassif Building, 
+Room PL-401, Washington, DC.
+    Contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, 
+France, for service information identified in this AD.
+
+FOR FURTHER INFORMATION CONTACT: Tim Dulin, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 
+227-2141; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Examining the Docket
+
+    You may examine the airworthiness directive (AD) docket on the 
+Internet at http://dms.dot.gov or in person at the Docket Management 
+Facility office between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The Docket Management Facility office 
+(telephone (800) 647-5227) is located on the plaza level of the Nassif 
+Building at the street address stated in the ADDRESSES section.
+
+Discussion
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to include an AD that supersedes AD 2006-07-09, amendment 
+39-14536 (71 FR 16203, March 31, 2006). The existing AD applies to all 
+Airbus Model A318-100 and A319-100 series airplanes, Model A320-111 
+airplanes, and Model A320-200, A321-100, and A321-200 series airplanes. 
+That NPRM was published in the Federal Register on December 8, 2006 (71 
+FR 71103). That NPRM proposed to continue to require the existing 
+actions (repetitive inspections of the upper and lower attachments of 
+the trimmable horizontal stabilizer actuator (THSA) to measure for 
+proper clearance and to detect cracks, damage, and metallic particles; 
+corrective actions, if necessary; and reports of inspection findings). 
+That NPRM proposed to shorten the repetitive interval for inspecting 
+the upper THSA attachment.
+
+Comments
+
+    We provided the public the opportunity to participate in the 
+development of this AD. We have considered the comments that have been 
+received on the NPRM.
+
+Request To Extend Repetitive Interval
+
+    The NPRM proposed to reduce the existing repetitive interval for 
+inspecting the upper attachment--from 20 months to 10 months. Agreeing 
+with the intent of the AD, Northwest Airlines nonetheless requests that 
+we change this inspection interval to 11 months. The commenter reports 
+that Northwest Airlines' inspection of 139 affected airplanes during 
+accomplishment of AD 2006-07-09 has revealed no findings. Northwest 
+Airlines is currently working with Airbus to better understand the 
+reasons for the reduced inspection interval for the upper attachment. 
+Northwest Airlines' current L-check interval is 21.5 months. The 
+commenter therefore feels that an inspection interval of 11 months for 
+the upper attachment would allow Northwest Airlines to accomplish 
+alternate inspections in a hangar, and yet fulfill the intent of the 
+AD. The commenter explains that a hangar environment would allow the 
+use of a more effective, specialized workforce, and reduce the impact 
+of correcting any finding.
+    We disagree with the request to extend the compliance time. The 
+absence of positive findings alone does not justify an extension of the 
+compliance time in this case. The 10-month inspection interval for the 
+upper attachment is based on the results of Airbus's tests of the 
+endurance of the secondary load path under simulated loads. Northwest 
+Airlines did not provide any data that would support the extension of 
+the compliance time. We have not changed the final rule.
+
+Conclusion
+
+    We have carefully reviewed the available data, including the 
+comments that have been submitted, and determined that air safety and 
+the public interest require adopting the AD as proposed.
+
+Costs of Compliance
+
+    The following table provides the estimated costs for U.S. operators 
+to comply with this AD, per inspection cycle.
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                        Number of U.S.-
+                             Work hours                               Average labor        Parts           Cost per        registered       Fleet cost
+                                                                      rate per hour                        airplane        airplanes
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+1..................................................................             $80             None              $80              700          $56,000
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority
+
+[[Page 12074]]
+
+because it addresses an unsafe condition that is likely to exist or 
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    We have determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866;
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared a regulatory evaluation of the estimated costs to 
+comply with this AD and placed it in the AD docket. See the ADDRESSES 
+section for a location to examine the regulatory evaluation.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, under the authority delegated to me by the Administrator, 
+the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The Federal Aviation Administration (FAA) amends Sec.  39.13 by 
+removing amendment 39-14536 (71 FR 16203, March 31, 2006) and by adding 
+the following new airworthiness directive (AD):
+
+2007-06-02 Airbus: Amendment 39-14983. Docket No. FAA-2006-26516; 
+Directorate Identifier 2006-NM-173-AD.
+
+Effective Date
+
+    (a) This AD becomes effective April 19, 2007.
+
+Affected ADs
+
+    (b) This AD supersedes AD 2006-07-09.
+
+Applicability
+
+    (c) This AD applies to all Airbus Model A318, A319, A320, and 
+A321 airplanes, certificated in any category.
+
+Unsafe Condition
+
+    (d) This AD results from new test results on the secondary load 
+path, which indicated the need to shorten the repetitive interval 
+for inspecting the upper attachment of the trimmable horizontal 
+stabilizer actuator (THSA). We are issuing this AD to detect and 
+correct failure of the THSA's primary load path, which could result 
+in latent (undetected) loading and eventual failure of the THSA's 
+secondary load path and consequent uncontrolled movement of the 
+horizontal stabilizer and loss of control of the airplane.
+
+Compliance
+
+    (e) You are responsible for having the actions required by this 
+AD performed within the compliance times specified, unless the 
+actions have already been done.
+
+    Note 1: For the purposes of this AD, a detailed inspection is: 
+``An intensive examination of a specific item, installation, or 
+assembly to detect damage, failure, or irregularity. Available 
+lighting is normally supplemented with a direct source of good 
+lighting at an intensity deemed appropriate. Inspection aids such as 
+mirror, magnifying lenses, etc., may be necessary. Surface cleaning 
+and elaborate procedures may be required.''
+
+Repetitive Inspections: Lower THSA Attachment
+
+    (f) Within 20 months since first flight of the airplane, or 
+within 600 flight hours after May 5, 2006 (the effective date of AD 
+2006-07-09), whichever occurs later: Do detailed inspections of the 
+lower THSA attachments for proper clearances, and do related 
+corrective actions as applicable, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-27-1164, 
+Revision 03, including Appendix 01, dated August 24, 2005; or 
+Revision 04, including Appendix 01, dated July 17, 2006. After the 
+effective date of this AD, only Revision 04 of the service bulletin 
+may be used. Do corrective actions before further flight. Repeat the 
+inspection thereafter at intervals not to exceed 20 months.
+
+Repetitive Inspections: Upper THSA Attachment
+
+    (g) At the earlier of the times specified in paragraphs (g)(1) 
+and (g)(2) of this AD: Do detailed inspections of the upper THSA 
+attachment for cracks, damage, or metallic particles, and do related 
+corrective actions as applicable, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-27-1164, 
+Revision 04, including Appendix 01, dated July 17, 2006, except as 
+required by paragraph (h) of this AD. Do corrective actions before 
+further flight. Repeat the inspections thereafter at intervals not 
+to exceed 10 months.
+    (1) At the latest of the times specified in paragraphs 
+(g)(1)(i), (g)(1)(ii), and (g)(1)(iii) of this AD.
+    (i) Within 10 months since the first flight of the airplane.
+    (ii) Within 10 months after the most recent inspection of the 
+upper THSA attachment done in accordance with Airbus Service 
+Bulletin A320-27-1164, Revision 02, including Appendix 01, dated 
+March 30, 2005; Revision 03, including Appendix 01, dated August 24, 
+2005; or Revision 04, including Appendix 01, dated July 17, 2006.
+    (iii) Within 100 days after the effective date of this AD.
+    (2) Within 20 months after the most recent inspection of the 
+upper THSA attachment done in accordance with Airbus Service 
+Bulletin A320-27-1164, Revision 02, including Appendix 01, dated 
+March 30, 2005; Revision 03, including Appendix 01, dated August 24, 
+2005; or Revision 04, including Appendix 01, dated July 17, 2006.
+
+Repair Exceptions
+
+    (h) If any metallic particles are detected during any inspection 
+required by paragraph (g) of this AD: Repair the damage before 
+further flight in accordance with a method approved by the Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA; 
+the Direction Generale de l'Aviation Civile (DGAC) (or its delegated 
+agent); or the European Aviation Safety Agency (EASA) (or its 
+delegated agent).
+
+Acceptable Prior Actions
+
+    (i) Inspections of the lower THSA attachment done before May 5, 
+2006, in accordance with Airbus Alert Service Bulletin A320-27A1164, 
+dated September 10, 2004; or Airbus Service Bulletin A320-27-1164, 
+Revision 01, including Appendix 01, dated December 17, 2004; are 
+acceptable for compliance with the inspection requirements of 
+paragraph (f) of this AD.
+    (j) Actions done before the effective date of this AD in 
+accordance with Airbus Service Bulletin A320-27-1164, Revision 02, 
+including Appendix 01, dated March 30, 2005; or Revision 03, 
+including Appendix 01, dated August 24, 2005; are acceptable for 
+compliance with the corresponding requirements of paragraphs (f) and 
+(g) of this AD.
+
+Inspection Reports
+
+    (k) At the applicable time specified in paragraph (k)(1) or 
+(k)(2) of this AD, send a report of the positive findings of all 
+inspections required by paragraphs (f) and (g) of this AD to Airbus, 
+1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, France. The 
+report must include the inspection results, a description of any 
+discrepancies found, the airplane serial number, and the number of 
+landings and flight hours on the airplane. Using Appendix 01 of 
+Airbus Service Bulletin A320-27-1164, Revision 02, dated March 30, 
+2005; Revision 03, dated August 24, 2005; or Revision 04, dated July 
+17, 2006; is an acceptable method to comply with this paragraph. 
+Under the provisions of the Paperwork Reduction Act (44 U.S.C. 3501 
+et seq.), the Office of Management and Budget (OMB) has approved the 
+information collection requirements contained in this AD and has 
+assigned OMB Control Number 2120-0056.
+    (1) For any inspection done before the effective date of this 
+AD: Send the report
+
+[[Page 12075]]
+
+within 30 days after the effective date of this AD.
+    (2) For any inspection done after the effective date of this AD: 
+Send the report within 30 days after the inspection.
+
+Alternative Methods of Compliance (AMOCs)
+
+    (l)(1) The Manager, International Branch, ANM-116, has the 
+authority to approve AMOCs for this AD, if requested in accordance 
+with the procedures found in 14 CFR 39.19.
+    (2) Before using any AMOC approved in accordance with Sec.  
+39.19 on any airplane to which the AMOC applies, notify the 
+appropriate principal inspector in the FAA Flight Standards 
+Certificate Holding District Office.
+
+Related Information
+
+    (m) EASA airworthiness directive 2006-0223, dated July 21, 2006, 
+also addresses the subject of this AD.
+
+Material Incorporated by Reference
+
+    (n) You must use Airbus Service Bulletin A320-27-1164, Revision 
+03, including Appendix 01, dated August 24, 2005; or Airbus Service 
+Bulletin A320-27-1164, Revision 04, including Appendix 01, dated 
+July 17, 2006; as applicable; to perform the actions that are 
+required by this AD, unless the AD specifies otherwise.
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of Airbus Service Bulletin A320-27-1164, 
+Revision 04, including Appendix 01, dated July 17, 2006, in 
+accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) On May 5, 2006 (71 FR 16203, March 31, 2006), the Director 
+of the Federal Register approved the incorporation by reference of 
+Airbus Service Bulletin A320-27-1164, Revision 03, including 
+Appendix 01, dated August 24, 2005.
+    (3) Contact Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France, for a copy of this service information. You may 
+review copies at the FAA, Transport Airplane Directorate, 1601 Lind 
+Avenue, SW., Renton, Washington; or at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on March 2, 2007.
+Ali Bahrami,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+ [FR Doc. E7-4382 Filed 3-14-07; 8:45 am]
+BILLING CODE 4910-13-P

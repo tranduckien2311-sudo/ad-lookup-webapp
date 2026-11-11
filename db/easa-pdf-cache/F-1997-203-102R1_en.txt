@@ -1,0 +1,14 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 97-203-102(B) R1 In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A319/A320/A321 Aircraft Probe heat computer This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A319, A320 and A321 aircraft, all models and all serial numbers without AIRBUS INDUSTRIE modification 26403 or AIRBUS INDUSTRIE Service Bulletin A320-30-1036. In order to prevent simultaneous loss of heating of probes (CAPT and STBY side) due to a single failure, which will induce erroneous anemometric calculation by the concerned systems in case of operation in freezing conditions, the following measure is mandated on the effective date of this
+
+Airworthiness Directive : - within six months, modify wirings between respectively EIU (Engine Interface Unit) 1 and 2 with PHC (Probe Heat Computer) 1 and 3 in accordance with the instructions given in AIRBUS INDUSTRIE Service Bulletin A320-30-1036. Note : For aircraft equiped with IAE engines, original issue, and revision 1 of Service Bulletin AIRBUS INDUSTRIE, refer to incorrect procedures. The correct test procedure has been introduced by revision 2 of this Service Bulletin. This test procedure has been made mandatory for those aircraft by
+
+Airworthiness Directive 98-152-114(B). Ref. : AIRBUS INDUSTRIE Service Bulletin A320-30-1036. (and further approved revision) This revision 1 replaces
+
+Airworthiness Directive 97-203-102(B) dated August 27, 1997. EFFECTIVE DATES : Original issue : SEPTEMBER 06, 1997 Revision 1 : APRIL 18, 1998 n/JYR AIRBUS INDUSTRIE April 18, 1998 97-203-102(B) R1 A319/A320/A321 Aircraft

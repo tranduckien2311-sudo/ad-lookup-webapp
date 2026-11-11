@@ -1,0 +1,49 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2022-0055
+
+Airworthiness Directive
+
+AD No.: 2022-0055
+
+Issued: 23 March 2022 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EU) 2018/1139 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 129 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301 or Annex Vb Part ML.A.301, as applicable, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303 or Annex Vb Part ML.A.303, as applicable] or agreed with the Authority of the State of Registry [Regulation (EU) 2018/1139, Article 71 exemption]. Design Approval Holder’s Name: Type/Model designation(s): ROLLS-ROYCE DEUTSCHLAND Ltd & Co KG RB211 Trent 700 engines
+
+Effective Date: 06 April 2022 TCDS Number(s): EASA.E.042 Foreign AD: Not applicable
+
+Supersedure: None
+
+ATA 72 – Engine – Intermediate Pressure Compressor Rotor Shaft – Inspection
+
+Manufacturer(s): Rolls-Royce plc
+
+Applicability: RB211 Trent 768-60, 772-60, 772B-60 and 772C-60 engines, all serial numbers (s/n). These engines are known to be installed on, but not limited to, Airbus A330 series aeroplanes.
+
+Definitions: For the purpose of this AD, the following definitions apply: The NMSB: Rolls-Royce Non-Modification Service Bulletin (NMSB) RB.211-72-AK706 original issue, which defines the applicable compliance time(s). The NMSB has an ‘A’ (Alert) in the number, but a later revision may not have that ‘A’. This does not effectively alter the publication references. Affected part: Intermediate pressure compressor (IPC) shafts, having Part Number FK26048 and an s/n as listed in Appendix 1 of the NMSB, except those in a condition as identified in Section 1.D.(1)(a) of the NMSB. Serviceable part: Any IPC shaft that is not an affected part. Page 1 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2022-0055 Groups: Group 1 engines are those that have an affected part installed. Group 2 engines are those that do not have an affected part installed.
+
+Reason: Cracking to the IPC rotor shaft balance land has been historically observed on Trent 700 engine types. This condition, if not detected and corrected, could lead to IPC rotor shaft failure and consequent non-contained high energy debris, possibly resulting in damage to the aeroplane. To initially address that, Rolls-Royce developed modification 72-AG402 which introduced a revised balancing method, removing the original balancing weights from the balance land. Rolls-Royce issued Service Bulletin (SB) RB.211-72-AG402 accordingly, providing instructions for in-service modification. In addition, Rolls-Royce issued NMSB RB.211-72-AG085 (now at Revision 3) to provide instructions for eddy current (EC) inspection of the IPC rotor shaft balance land in shop. Consequently, EASA issued AD 2018-0049 (later revised). Recently, it was determined that a number of post-SB RB.211-72-AG402 engines have not been inspected in accordance with NMSB RB.211-72-AG085 at engine refurbishment due to the policy applied previously from NMSB RB.211-72-AG085 Revision 2. Rolls-Royce identified the affected batch of IPC rotor shafts and published the NSMB, as defined in this AD, providing instructions for visual borescope inspection until accomplishment of in-shop EC inspection in accordance with Rolls- Royce NMSB RB.211-72-AG085. For the reasons described above, this AD requires repetitive on-wing or in-shop inspections of each affected part to detect discrepancies. Accomplishment of the next in-shop EC inspection in accordance with the instructions of Rolls-Royce NMSB RB.211-72-AG085, as required by EASA AD 2018-0049R2, or installation of a serviceable part, is terminating action for the inspections required by this AD.
+
+Required Action(s) and Compliance Time(s): Required as indicated, unless accomplished previously: Inspection(s): (1) For Group 1 engines: Within the compliance time as specified in Table 1 of this AD, and, thereafter, at intervals not to exceed 625 engine flight cycles (EFC), accomplish an on-wing or in-shop visual borescope inspection of the affected part stage 8 balance land in accordance with the instructions of the NMSB. Table 1 – Initial Visual Borescope Inspection (see Note 1 of this AD) EFC Accumulated Compliance Time 6 800 EFC or more Within 100 EFC after the effective date of this AD Less than 6 800 EFC Before exceeding 6 900 EFC Note 1: The EFC specified in Table 1 of this AD are those accumulated by the affected part on the effective date of this AD, since its latest EC inspection in accordance with NMSB RB.211-72-AG085. Page 2 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2022-0055 Corrective Action(s): (2) If, during any inspection as required by paragraph (1) of this AD, any discrepancy as detailed in the NMSB is detected, within the time period specified in the NMSB, or before release to service of the engine, as applicable, accomplish the applicable corrective action(s) in accordance with the instructions of the NMSB, or replace the affected part with a serviceable part. Terminating Action: (3) Accomplishment of an in-shop EC inspection of an affected part on an engine in accordance with the instructions of Rolls-Royce NMSB RB.211-72-AG085 Revision 3, constitutes terminating action for the repetitive visual borescope inspections as required by paragraph (1) of this AD for that engine. (4) Replacement of an affected part with a serviceable part on an engine constitutes terminating action for the repetitive visual borescope inspections as required by paragraph (1) of this AD for that engine. Part(s) Installation: (5) For Group 1 and Group 2 engines: From the effective date of this AD, do not install an affected part on any engine.
+
+Ref. Publications: Rolls-Royce NMSB RB.211-72-AK706 original issue dated 24 November 2021. Rolls-Royce NMSB RB.211-72-AG085 Revision 2 dated 07 July 2011, or Revision 3 dated 27 August 2021. The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. This AD was posted on 17 February 2022 as PAD 22-015 for consultation until 17 March 2022. No comments were received during the consultation period. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate Page 3 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 4 ---
+EASA
+
+AD No.: 2022-0055 (STC) or other modification. 5. For any question concerning the technical content of the requirements in this AD, please contact your designated Rolls-Royce representative, or download the publication from your Rolls-Royce Care account at https://customers.rolls-royce.com. If you do not have a designated representative or Rolls-Royce Care account, please contact Corporate Communications at Rolls-Royce plc, P.O. Box 31, Derby, DE24 8BJ, United Kingdom Telephone +44 (0)1332 242424, or send an email through https://www.rolls-royce.com/contact-us/civil-aerospace.aspx identifying the correspondence as being related to
+
+Airworthiness Directives. Page 4 of 4 TE.CAP.00110-010 © European Union Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

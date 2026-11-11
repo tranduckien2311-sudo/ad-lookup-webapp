@@ -1,0 +1,394 @@
+[Federal Register Volume 89, Number 104 (Wednesday, May 29, 2024)]
+[Rules and Regulations]
+[Pages 46319-46322]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-11587]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-0221; Project Identifier AD-2023-01233-T; 
+Amendment 39-22762; AD 2024-11-01]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2021-21-
+02, which applied to certain Airbus SAS Model A318, A319, A320, A321, 
+A330-200, A330-200 Freighter, A330-300, A330-800, A330-900, A340-200, 
+A340-300, A340-500, A340-600, and A380-800 series airplanes. AD 2021-
+21-02 required replacing certain parts manufacturer approval (PMA) Ni-
+Cd batteries with serviceable Ni-Cd batteries or maintaining the 
+electrical storage capacity of those PMA Ni-Cd batteries during 
+airplane storage or parking. This AD was prompted by a determination 
+that the on-wing preservation procedures originally provided in that AD 
+did not ensure the expected preservation of the battery capacity. This 
+AD adds airplanes to the applicability and requires replacing each 
+affected part with a serviceable part before release to service of an 
+airplane after a storage or parking period, as applicable. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective July 3, 2024.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-0221; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, any comments received, and other 
+information. The address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; telephone 206-
+231-3225; email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2021-21-02, Amendment 39-21762 (86 FR 
+62898, November 15, 2021) (AD 2021-21-02). AD 2021-21-02 applied to 
+certain Airbus SAS Model A318, A319, A320, A321, A330-200, A330-200 
+Freighter, A330-300, A330-800, A330-900, A340-200, A340-300, A340-500, 
+A340-600, and A380-800 series airplanes. The NPRM published in the 
+Federal Register on February 9, 2024 (89 FR 9074). The NPRM was 
+prompted by a determination that the on-wing preservation procedures 
+originally provided in that AD did not ensure the expected preservation 
+of the battery capacity. In the NPRM, the FAA proposed to add Model 
+A300 series airplanes; Model A300 B4-600, B4-600R, and F4-600R series 
+airplanes, and Model A300 C4-605R Variant F airplanes (collectively 
+called Model A300-600 series airplanes); Model A310 series airplanes; 
+and Model A350-941 and -1041 airplanes to the applicability. The FAA 
+proposed that the superseding AD would retain none of the requirements 
+of AD 2021-21-02. The FAA proposed to require replacing each affected 
+part with a serviceable part before release to service of an airplane 
+after a storage or parking period, as applicable. The FAA is issuing 
+this AD to address reduced battery endurance performance, which could 
+possibly result in failure to supply the minimum essential electrical 
+power during abnormal or emergency conditions.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Air Line Pilots Association, 
+International (ALPA), who supported the SNPRM/NPRM without change.
+    The FAA received additional comments from American Airlines (AA) 
+and United Airlines (UAL). The following presents the comments received 
+on the NPRM and the FAA's response to each comment.
+
+Request for Clarification of Terms
+
+    AAL requested clarification of ``parking and storage'' as intended 
+by
+
+[[Page 46320]]
+
+the proposed AD. The commenter asked whether ``parking and storage'' 
+included extended heavy maintenance checks, such as an S-check that is 
+abnormally extended beyond the 6-month time-limit due to inspection 
+findings or material sourcing issues, or extended downtime for aircraft 
+repair or modification such as a large repair for aircraft tug 
+collision damage or a large-scale interior modification.
+    The FAA agrees to clarify. It is the responsibility of the operator 
+to apply the relevant instructions provided in the aircraft maintenance 
+manual (AMM) related to extended heavy maintenance checks or downtime 
+for aircraft repair or modification. A dedicated preservation regime 
+shall be defined in line with the maintenance activity requirements 
+(for example, the need to keep batteries connected), based upon the 
+applicable AMM parking and storage procedures. If a battery meets the 
+definition of a ``serviceable part'' as specified in paragraphs (g)(2) 
+and (3) of this AD, then the requirement to replace after ``parking and 
+storage'' does not apply because it is not an affected part. However, 
+if the battery meets the definition of an ``affected part'' as 
+specified in paragraph (g)(1) of this AD, the requirement to replace 
+after ``parking and storage'' does apply.
+
+Request for One AD in the Future
+
+    UAL requested that in the future an attempt is made to include PMA 
+parts during ``initial release'' as opposed to having two ADs (UAL 
+stated ``no change to this AD'').
+    The FAA recognizes the efficiency of a single AD, but in the 
+future, may or may not issue separate ADs when PMA parts and non-PMA 
+parts (i.e., original equipment manufacturer (OEM) parts) are involved, 
+depending on potential implementation issues and what is in the best 
+interest of safety.
+
+Comment on Duplicative Applicability
+
+    UAL stated that Docket FAA-2024-0029 indicated it applied to the 
+PMA batteries, as does the NPRM.
+    The FAA acknowledges that the NPRM that published in the Federal 
+Register on January 22, 2024 (89 FR 3897), for Docket FAA-2024-0029, 
+inadvertently referred to PMA batteries. However, in the final rule, AD 
+2024-08-08, Amendment 39-22741 (89 FR 35695, May 2, 2024) (AD 2024-08-
+08), the FAA removed references to PMA batteries. Only this AD is 
+applicable to PMA batteries.
+
+Updated Reference to Related AD
+
+    Note 1 to paragraph (h) of the proposed AD specifies that airplanes 
+on which a battery is replaced with a serviceable non-PMA Ni-Cd battery 
+are affected by AD 2021-20-08, Amendment 39-21746 (86 FR 57025, October 
+14, 2021), which provides requirements for non-PMA Ni-Cd batteries. 
+However, the FAA has superseded AD 2021-20-08 with AD 2024-08-08. AD 
+2024-08-08 adds airplanes to the applicability and requires replacement 
+of certain affected parts (i.e., certain non-PMA Ni-Cd batteries) with 
+serviceable parts as a precondition for return to service of airplanes 
+from storage or parking, as specified in European Union Aviation Safety 
+Agency (EASA) AD 2023-0196, dated November 10, 2023. You may examine 
+the AD docket for AD 2024-08-08 at regulations.gov under Docket No. 
+FAA-2024-0029. The FAA has added a reference to AD 2024-08-08 to Note 1 
+to paragraph (h) of this AD.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered any comments 
+received, and determined that air safety requires adopting this AD as 
+proposed. Accordingly, the FAA is issuing this AD to address the unsafe 
+condition on these products. Except for minor editorial changes, and 
+any other changes described previously, this AD is adopted as proposed 
+in the NPRM. None of the changes will increase the economic burden on 
+any operator.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,814 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                        Cost per   Cost on U.S.
+                  Action                             Labor cost            Parts cost   product      operators
+----------------------------------------------------------------------------------------------------------------
+Replacements..............................  5 work-hours x $85 per hour            $0       $425        $770,950
+                                             = $425.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+
+[[Page 46321]]
+
+0
+a. Removing Airworthiness Directive (AD) 2021-21-02, Amendment 39-21762 
+(86 FR 62898, November 15, 2021); and
+0
+b. Adding the following new AD:
+
+2024-11-01 Airbus SAS: Amendment 39-22762; Docket No. FAA-2024-0221; 
+Project Identifier AD-2023-01233-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective July 3, 2024.
+
+(b) Affected ADs
+
+    This AD replaces AD 2021-21-02, Amendment 39-21762 (86 FR 62898, 
+November 15, 2021) (AD 2021-21-02).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes identified in paragraphs 
+(c)(1) through (14) of this AD, certificated in any category, 
+equipped with any parts manufacturer approval (PMA) part approved 
+for the type design nickel cadmium (Ni-Cd) batteries having a part 
+number identified in Figure 1 to the introductory text of paragraph 
+(c) of this AD.
+[GRAPHIC] [TIFF OMITTED] TR29MY24.015
+
+    (1) Model A300 B4-2C, B4-102, B4-103, B4-120, B4-203, and B4-220 
+airplanes.
+    (2) Model A300 B4-601, B4-603, B4-620, and B4-622 airplanes.
+    (3) Model A300 B4-605R and B4-622R airplanes.
+    (4) Model A300 C4-203, C4-605R variant F, and C4-620 airplanes.
+    (5) Model A300 F4-203, F4-605R, F4-608ST, and F4-622R airplanes.
+    (6) Model A310-203, -203C, -204, -221, -222, -304, -308, -322, -
+324, and -325 airplanes.
+    (7) Model A318-111, -112, -121, and -122 airplanes.
+    (8) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, -153N, and -171N airplanes.
+    (9) Model A320-211, -212, -214, -215, -216, -231, -232, -233, -
+251N, -252N, -253N, -271N, -272N, and -273N airplanes.
+    (10) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -251NX, -252N, -252NX, -253N, -253NX, -271N, -271NX, -272N, 
+and -272NX airplanes.
+    (11) Model A330-201, -202, -203, -223, -223F, -243, -243F, -301, 
+-302, -303, -321, -322, -323, -341, -342, -343, -743L, -841, and -
+941 airplanes.
+    (12) Model A340-211, -212, -213, -311, -312, -313, -541, -542, -
+642, and -643 airplanes.
+    (13) Model A350-941 and A350-1041 airplanes.
+    (14) Model A380-841, -842, and -861 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 24, Electrical 
+Power.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that repetitive disconnection 
+and reconnection of certain Ni-Cd batteries during airplane parking 
+or storage could lead to a reduction in capacity of those batteries. 
+The unsafe condition, if not addressed, could lead to reduced 
+battery endurance performance and possibly result in failure to 
+supply the minimum essential electrical power during abnormal or 
+emergency conditions.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    (1) For the purposes of this AD, an ``affected PMA Ni-Cd 
+battery'' is defined as any PMA Ni-Cd battery approved for a Ni-Cd 
+battery identified in Figure 1 to the introductory text of paragraph 
+(c) of this AD, all serial numbers, except those which are a 
+serviceable PMA Ni-Cd battery as defined in paragraph (g)(2) of this 
+AD.
+    (2) For the purposes of this AD, a ``serviceable PMA Ni-Cd 
+battery'' is defined as a PMA Ni-Cd battery approved for a Ni-Cd 
+battery identified in Figure 1 to the introductory text of paragraph 
+(c) of this AD, all serial numbers, which was fully (re)charged at 
+constant current and, after (re)charging, was not stored on wing 
+during a period exceeding the applicable ``Time Limit'' specified in 
+Figure 1 to the introductory text of paragraph (c) of this AD. 
+Periodical, regular, and overhaul checks of a PMA Ni-Cd battery that 
+include the battery (re)charge at constant current are acceptable 
+methods to demonstrate that the battery was (re)charged.
+    (3) For the purposes of this AD, a ``serviceable non-PMA Ni-Cd 
+battery'' is defined as a type design Ni-Cd battery having a part 
+number identified in Figure 1 to the introductory text of paragraph 
+(c) of this AD, all serial numbers, which was fully (re)charged at 
+constant current and, after (re)charging, was not stored on wing 
+during a period exceeding the applicable ``Time Limit'' specified in 
+Figure 1 to the introductory text of paragraph (c) of this AD. 
+Periodical, regular, and overhaul checks of a non-PMA Ni-Cd battery 
+that include the battery (re)charge at constant current are 
+acceptable methods to demonstrate that the battery was (re)charged.
+
+(h) Replacement
+
+    Before release to service of an airplane after a storage or 
+parking period, as applicable, replace each affected PMA Ni-Cd 
+battery with a serviceable PMA Ni-Cd battery or a serviceable non-
+PMA Ni-Cd battery.
+    Note 1 to paragraph (h): Airplanes on which a battery is 
+replaced with a serviceable non-PMA Ni-Cd battery are affected by AD 
+2024-08-08, Amendment 39-22741 (89 FR 35695, May 2, 2024), which 
+provides requirements for non-PMA Ni-Cd batteries.
+
+(i) Parts Installation Limitation
+
+    As of the effective date of this AD, release to service of an 
+airplane is allowed, provided all PMA Ni-Cd batteries approved for a 
+Ni-Cd battery identified in Figure 1 to the introductory text of 
+paragraph (c) of this AD that are installed on that airplane are 
+fully (re)charged at constant current and, after (re)charging, were 
+not stored on wing during a period exceeding the applicable ``Time 
+Limit'' specified in Figure 1 to the introductory text of paragraph 
+(c) of this AD.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as
+
+[[Page 46322]]
+
+appropriate. If sending information directly to the manager of the 
+certification office, send it to the attention of the person 
+identified in paragraph (k) of this AD. Information may be emailed 
+to: [email protected]. Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the responsible Flight Standards Office.
+
+(k) Related Information
+
+    For more information about this AD, contact Dan Rodina, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; telephone 206-231-3225; email [email protected].
+
+(l) Material Incorporated by Reference
+
+    None.
+
+    Issued on May 21, 2024.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-11587 Filed 5-28-24; 8:45 am]
+BILLING CODE 4910-13-P

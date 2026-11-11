@@ -1,0 +1,19 @@
+--- PAGE 1 ---
+BUREAU VERITAS AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 93-081-042(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Seat track joints at frame 64 The present
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft MSN 002 to 008, 010 to 014, 016 to 078, 080 to 122, 124 to 179, 183 to 194, 196 to 228, 230 to 251, 253 to 255 included. In order to prevent the possible detachment of passenger seats, or any other equipment attached to the seat tracks at frame 64, resulting to an excessive gap between aft and forward seat tracks, and associated from loads which could be experienced during emergency landing, the following measures are rendered mandatory on the effective date of the present
+
+Airworthiness Directive. A/ Unless already accomplished and before July 31, 1993, measure the gap between aft and forward seat tracks at frame 64 according to instructions given in AIRBUS INDUSTRIE All Operators Telex reference A320/AOT 53-01 dated August 27, 1992. B/ 1 - If measured gap is less than or equal to 2.8 mm, no further action is required to comply with the present
+
+Airworthiness Directive. 2 - If measured gap is greater than 2.8 mm : a) Before next flight, ensure that no seat fitting is installed at seat track joints according to instructions given by AIRBUS INDUSTRIE A320/AOT 53-01. In the contrary, before next flight, change the place or remove concerned seats. .../... n/C AIRBUS INDUSTRIE May 26, 1993 93-081-042(B) A320 Aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 93-081-042(B) Page n° 2 BUREAU VERITAS NOTE : In case another cabin equipment, different from a seat, is installed at the concerned seat track joint, contact immediately AIRBUS INDUSTRIE for further instructions. b) Before December 31, 1995, reposition or replace concerned seat tracks in accordance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-53-1088. NOTE: For aircraft, for which the measured gap between aft and forward seat tracks is greater than 2.8 mm, repeat paragraph B/ 2- a) of this
+
+Airworthiness Directive whenever the cabin configuration is changed until the accomplishment of paragraph B/ 2 - b) of the present
+
+Airworthiness Directive. Ref. : - AIRBUS INDUSTRIE All Operators Telex AOT 53-01 dated August 27, 1992. - AIRBUS INDUSTRIE Service Bulletin A320-53-1088 (or any further approved revision). EFFECTIVE DATE : JUNE 05, 1993

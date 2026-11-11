@@ -1,0 +1,359 @@
+[Federal Register Volume 69, Number 96 (Tuesday, May 18, 2004)]
+[Rules and Regulations]
+[Pages 28044-28046]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 04-10741]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. 2003-NM-19-AD; Amendment 39-13632; AD 2004-10-02]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Model A300 B4-600, A300 B4-600R, 
+and A300 F4-600R (Collectively Called A300-600), A310, A319, A320, 
+A321, A330, and A340-200 and -300 Series Airplanes
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This amendment adopts a new airworthiness directive (AD), 
+applicable to certain Airbus Model A300-600, A310, A319, A320, A321, 
+A330, and A340-200 and -300 series airplanes, that requires a one-time 
+inspection to determine if certain Thales pitot probes are installed, a 
+check for certain part numbers and serial numbers of the affected pitot 
+probes, and cleaning of the drain hole of any affected pitot probes if 
+obstructed. This action is necessary to prevent obstruction of the air 
+intake of the pitot probes, which could result in misleading 
+information being provided to the flightcrew. This action is intended 
+to address the identified unsafe condition.
+
+DATES: Effective June 22, 2004.
+    The incorporation by reference of certain publications listed in 
+the regulations is approved by the Director of the Federal Register as 
+of June 22, 2004.
+
+ADDRESSES: The service information referenced in this AD may be 
+obtained from Airbus, 1 Rond Point Maurice Bellonte, 31707 Blagnac 
+Cedex, France. This information may be examined at the Federal Aviation 
+Administration (FAA), Transport Airplane Directorate, Rules Docket, 
+1601 Lind Avenue, SW., Renton, Washington; or at the National Archives 
+and Records Administration (NARA). For information on the availability 
+of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+
+FOR FURTHER INFORMATION CONTACT: Dan Rodina, Aerospace Engineer, 
+International Branch, ANM-116, FAA, Transport Airplane Directorate, 
+1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 
+227-2125; fax (425) 227-1149.
+
+SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) to include an airworthiness 
+directive (AD) that is applicable to certain Airbus Model A300-600, 
+A310, A319, A320, A321, A330, and A340 series airplanes was published 
+in the Federal Register on February 6, 2004 (69 FR 5787). That action 
+proposed to require a one-time inspection to determine if certain 
+Thales pitot probes are installed, a check for certain part numbers and 
+serial numbers of the affected pitot probes, and cleaning of the drain 
+hole of any affected pitot probes if obstructed.
+
+Comments
+
+    Interested persons have been afforded an opportunity to participate 
+in the making of this amendment. Due consideration has been given to 
+the comments received.
+
+Supportive Comments
+
+    One commenter supports the proposed AD; another commenter has no 
+objection to the proposed AD. The commenters generally support the 
+intent of the proposed AD.
+
+Request To Add Service Information
+
+    One commenter asks that the original issue of Airbus Service 
+Bulletin A320-34-1263, dated November 26, 2002; be added to the final 
+rule as an additional source of service information for accomplishment 
+of the actions for Model A319, A320, and A321 series airplanes. 
+Revision 01 was referenced in the proposed AD as the source of service 
+information for accomplishment of the actions. The FAA agrees as there 
+are no significant changes between the original version of the service 
+bulletin and Revision 01. We have added the original issue of the 
+service bulletin as an additional source of service information for 
+accomplishment of the actions required by paragraph (a) of the final 
+rule.
+
+Request To Extend Compliance Time
+
+    One commenter asks that additional time be given for accomplishment 
+of the actions specified in the proposed AD. The commenter asks that 
+the compliance time of 700 flight hours, as specified in paragraph (a) 
+of the proposed AD, be extended to 1,000 flight hours. The commenter 
+states that this change will allow accomplishment of the actions at the 
+commenter's normal maintenance cycle. The commenter adds that, to date, 
+the unsafe condition has not been found on any of its fleet of 152 
+airplanes, which average 19,000 total accumulated flight hours. The 
+commenter states that its maintenance task is performed at C-check 
+intervals to inspect the pitot probes and drain holes for obstruction, 
+with no negative findings to date. The commenter adds that this 
+extension of the compliance time will not compromise safety and will 
+allow the most efficient use of available tooling and manpower.
+    We do not agree. In developing an appropriate compliance time for 
+this action, we considered the safety implications, operators' normal 
+maintenance schedules, and the compliance time recommended by the 
+airplane manufacturer for the timely accomplishment of the required 
+actions. In consideration of these items, we have determined that a 
+compliance time of 700 flight hours will ensure an
+
+[[Page 28045]]
+
+acceptable level of safety and is an appropriate interval of time 
+wherein the required actions can be accomplished during scheduled 
+maintenance intervals for the majority of affected operators. However, 
+according to the provisions of paragraph (b) of this final rule, we may 
+approve requests to adjust the compliance time if the request includes 
+data that justify that a different compliance time would provide an 
+acceptable level of safety. We have not changed the final rule in this 
+regard.
+
+Request To Change Applicability
+
+    One commenter asks that the applicability in the proposed AD be 
+changed to specify ``Model A340-200 and -300 series airplanes.'' The 
+applicability in the proposed AD currently specifies Model A340 series 
+airplanes. The commenter states that Model A340-500 and -600 series 
+airplanes should be excluded from the applicability. In addition, the 
+commenter asks that we add the part number (P/N) and serial numbers (S/
+Ns) for affected Thales Avionics pitot probes to the applicability.
+    We partially agree. We agree to remove Model A340-500 and -600 
+series airplanes from the applicability of the proposed AD, and to 
+specify Model A340-200 and -300. Model A340-500 and -600 series 
+airplanes are not affected by the proposed AD. We do not agree to add 
+the P/N and S/Ns for affected Thales Avionics pitot probes. The 
+applicability section in this final rule specifies ``as listed in the 
+applicable Airbus service bulletins.'' Those service bulletins contain 
+the P/N and S/Ns for affected Thales Avionics pitot probes.
+
+Clarification of Applicability
+
+    One commenter does not ask for a specific change to the final rule, 
+but states that ``The applicability of French airworthiness directive 
+2003-148(B), dated April 16, 2003 (referenced in the proposed AD), is 
+Airbus Model A310 and A300-600 series airplanes, all certified models, 
+and all S/Ns fitted with Thales Avionics pitot probes, whose S/N is 
+lower than or equal to 660.'' The commenter adds that the applicability 
+in the proposed AD seems to be ``A one-time detailed visual inspection 
+to determine if pitot probes 40DA, 41DA, and 42DA are installed, and a 
+check of those pitot probes for P/N C16254AA and S/N 660 or higher, and 
+cleaning of the drain hole of any affected pitot probe.'' The commenter 
+asks for clarification of the applicability in the proposed AD.
+    We infer that the commenter has inadvertently merged the 
+requirements in the applicability section and in paragraph (a) of the 
+proposed AD. For clarification, we have defined the applicability 
+section and paragraph (a) of this AD for the commenter. The 
+applicability specified in this final rule is as follows: ``Airbus 
+Model A300 B4-600, A300 B4-600R, and A300 F4-600R (Collectively Called 
+A300-600), A310, A319, A320, A321, A330, and A340-200 and -300 series 
+airplanes; certificated in any category; as listed in the referenced 
+Airbus service bulletins.'' The requirements in paragraph (a) of this 
+AD are for a detailed inspection to determine if certain Thales 
+Avionics pitot probes are installed, and a check of affected pitot 
+probes for certain P/Ns and S/Ns, as specified in the Accomplishment 
+Instructions of the applicable Airbus service bulletin listed in Table 
+1 of the AD.
+
+Conclusion
+
+    After careful review of the available data, including the comments 
+noted above, we have determined that air safety and the public interest 
+require the adoption of the AD with the changes described previously. 
+These changes will neither increase the economic burden on any operator 
+nor increase the scope of the AD.
+
+Cost Impact
+
+    We estimate that 758 airplanes of U.S. registry will be affected by 
+this AD, that it will take about 2 work hours per airplane to do the 
+inspection, and that the average labor rate is $65 per work hour. Based 
+on these figures, the cost impact of the inspection required by this AD 
+on U.S. operators is estimated to be $98,540, or $130 per airplane.
+    The cost impact figure discussed above is based on assumptions that 
+no operator has yet accomplished any of the requirements of this AD 
+action, and that no operator would accomplish those actions in the 
+future if this AD were not adopted. The cost impact figures discussed 
+in AD rulemaking actions represent only the time necessary to perform 
+the specific actions actually required by the AD. These figures 
+typically do not include incidental costs, such as the time required to 
+gain access and close up, planning time, or time necessitated by other 
+administrative actions.
+    Currently, there are no Airbus Model A340 series airplanes on the 
+U.S. Register. However, should an affected airplane be imported and 
+placed on the U.S. Register in the future, it takes about 2 work hours 
+per airplane to do the inspection, at an average labor rate of $65 per 
+work hour. Based on these figures, the cost impact of the inspection is 
+estimated to be $130 per airplane.
+
+Regulatory Impact
+
+    The regulations adopted herein will not have a substantial direct 
+effect on the States, on the relationship between the national 
+Government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, it 
+is determined that this final rule does not have federalism 
+implications under Executive Order 13132.
+    For the reasons discussed above, I certify that this action (1) is 
+not a ``significant regulatory action'' under Executive Order 12866; 
+(2) is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979); and (3) will not have a 
+significant economic impact, positive or negative, on a substantial 
+number of small entities under the criteria of the Regulatory 
+Flexibility Act. A final evaluation has been prepared for this action 
+and it is contained in the Rules Docket. A copy of it may be obtained 
+from the Rules Docket at the location provided under the caption 
+ADDRESSES.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+0
+Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. Section 39.13 is amended by adding the following new airworthiness 
+directive:
+
+2004-10-02 Airbus: Amendment 39-13632. Docket 2003-NM-19-AD.
+
+    Applicability: Model A300 B4-600, A300 B4-600R, and A300 F4-600R 
+(Collectively Called A300-600); A310; A319; A320; A321; A330; and 
+A340-200 and -300 series airplanes; certificated in any category; as 
+listed in the Airbus service bulletins specified in Table 1 of this 
+AD.
+
+[[Page 28046]]
+
+
+
+                                             Table 1.--Applicability
+----------------------------------------------------------------------------------------------------------------
+              Model--                 Service bulletin--        Revision--                    Date--
+----------------------------------------------------------------------------------------------------------------
+A300-600..........................  A300-34-6149.........  Original............  April 4, 2003.
+A310..............................  A310-34-2181.........  Original............  April 4, 2003.
+A319, A320, A321..................  A320-34-1263.........  Original............  November 26, 2002.
+A319, A320, A321..................  A320-34-1263.........  01..................  June 25, 2003.
+A330..............................  A330-34-3119.........  Original............  February 27, 2003.
+A340..............................  A340-34-4130.........  Original............  February 27, 2003.
+----------------------------------------------------------------------------------------------------------------
+
+    Compliance: Required as indicated, unless accomplished 
+previously.
+    To prevent obstruction of the air intake of the pitot probes, 
+which could result in misleading information being provided to the 
+flightcrew, accomplish the following:
+
+One-Time Detailed Inspection
+
+    (a) Within 700 flight hours after the effective date of this AD: 
+Do a detailed inspection to determine if certain Thales Avionics 
+pitot probes are installed, and a check of affected pitot probes for 
+certain part numbers (P/N) and serial numbers (S/N), as specified in 
+the Accomplishment Instructions of the applicable Airbus service 
+bulletin listed in Table 1 of this AD, all excluding Appendix 01. Do 
+the inspection and check (including cleaning and marking the drain 
+hole) by doing all the actions per Part 3.A. through Part 3.E. of 
+the Accomplishment Instructions of the applicable Airbus service 
+bulletin. If the specified P/N and S/N are found, before further 
+flight, clean and mark the drain hole if obstructed, per the 
+Accomplishment Instructions of the applicable Airbus service 
+bulletin. If the specified P/N and S/N are not found, no further 
+action is required by this AD.
+
+    Note 1: For the purposes of this AD, a detailed inspection is 
+defined as: ``An intensive visual examination of a specific 
+structural area, system, installation, or assembly to detect damage, 
+failure, or irregularity. Available lighting is normally 
+supplemented with a direct source of good lighting at intensity 
+deemed appropriate by the inspector. Inspection aids such as mirror, 
+magnifying lenses, etc., may be used. Surface cleaning and elaborate 
+access procedures may be required.''
+
+
+    Note 2: The referenced Airbus service bulletins refer to Thales 
+Avionics Service Bulletin, C16195A-34-002, Revision 01, dated 
+February 7, 2003, as an additional source of service information for 
+the cleaning of the drain holes of the pitot probes.
+
+Alternative Methods of Compliance
+
+    (b) In accordance with 14 CFR 39.19, the Manager, International 
+Branch, ANM-116, FAA, Transport Airplane Directorate, is authorized 
+to approve alternative methods of compliance for this AD.
+
+Incorporation by Reference
+
+    (c) The actions shall be done in accordance with the Airbus 
+service bulletins specified in Table 2 of this AD, as applicable.
+
+                                       Table 2.--Airbus Service Bulletins
+----------------------------------------------------------------------------------------------------------------
+           Service bulletin--                       Revision--                            Date--
+----------------------------------------------------------------------------------------------------------------
+A300-34-6149, excluding Appendix 01....  Original.......................  April 4, 2003.
+A310-34-2181, excluding Appendix 01....  Original.......................  April 4, 2003.
+A320-34-1263, excluding Appendix 01....  Original.......................  November 26, 2002.
+A320-34-1263, excluding Appendix 01....  ...............................  June 25, 2003.
+A330-34-3119, excluding Appendix 01....  Original.......................  February 27, 2003.
+A340-34-4130, excluding Appendix 01....  Original.......................  February 27, 2003.
+----------------------------------------------------------------------------------------------------------------
+
+    This incorporation by reference was approved by the Director of 
+the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR 
+part 51. Copies may be obtained from Airbus, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France. Copies may be inspected at 
+the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., 
+Renton, Washington; or at the National Archives and Records 
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.
+
+    Note 3: The subject of this AD is addressed in French 
+airworthiness directives 2003-148(B), dated April 16, 2003; 2002-
+586(B) R1, dated April 2, 2002; and 2002-594(B), dated November 27, 
+2002.
+
+Effective Date
+
+    (d) This amendment becomes effective on June 22, 2004.
+
+    Issued in Renton, Washington, on May 5, 2004.
+Ali Bahrami,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 04-10741 Filed 5-17-04; 8:45 am]
+BILLING CODE 4910-13-P

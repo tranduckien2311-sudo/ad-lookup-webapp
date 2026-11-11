@@ -1,0 +1,394 @@
+[Federal Register Volume 88, Number 145 (Monday, July 31, 2023)]
+[Rules and Regulations]
+[Pages 49275-49277]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-16095]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-0427; Project Identifier MCAI-2022-01370-T; 
+Amendment 39-22488; AD 2023-13-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A318, A319, A320, and A321 series airplanes. This AD 
+was prompted by reports where the passenger door external handle 
+mechanism was not retrieving its normal, flush position when the door 
+was being closed. This AD requires a one-time cleaning and lubrication 
+of the external door handle mechanism of each affected door, and limits 
+the installation of affected parts, as specified in a European Union 
+Aviation Safety Agency (EASA) AD, which is incorporated by reference. 
+The FAA is issuing this AD to address the unsafe condition on these 
+products.
+
+DATES: This AD is effective September 5, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of September 5, 
+2023.
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-0427; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For EASA material incorporated by reference in this AD, 
+contact EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone 
++49 221 8999 000; email [email protected]; website easa.europa.eu. You 
+may find this material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available in the AD docket at 
+regulations.gov under Docket No. FAA-2023-0427.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone 206-231-3667; email [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to all Airbus SAS Model 
+A318-111, A318-112, A318-121, A318-122, A319-111, A319-112, A319-113, 
+A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, 
+A319-171N, A320-211, A320-212, A320-214, A320-216, A320-231, A320-232, 
+A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-
+273N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-
+231, A321-232, A321-251N, A321-251NX, A321-252N, A321-252NX, A321-253N, 
+A321-253NX, A321-271N, A321-271NX, A321-272N, and A321-272NX airplanes. 
+The NPRM published in the Federal Register on March 8, 2023 (88 FR 
+14298). The NPRM was prompted by AD 2022-0213R1, dated November 8, 
+2022, issued by EASA, which is the Technical Agent for the Member 
+States of the European Union (EASA AD 2022-0213R1) (also referred to as 
+the MCAI). The MCAI states one operator has reported two cases of a 
+passenger/flight crew door external handle flap remained stuck in an 
+intermediate or fully pushed position (not flush with the door skin) on 
+two recently delivered Model A320 series airplanes after the door was 
+opened from outside. With the external handle flap in this intermediate 
+position, in one of the reported cases, the operator was not able to 
+open the door normally from inside. Subsequent investigation determined 
+that on the production line of one door supplier, corrosion protection 
+compound (CPC) was inadvertently applied to the movable parts of the 
+mechanism during production. The CPC, when applied to these parts leads 
+to a sticky effect and prevents the passenger door external handle flap 
+from moving to the closed position, which is flush with the fuselage 
+skin.
+    In the NPRM, the FAA proposed to require a one-time cleaning and
+
+[[Page 49276]]
+
+lubrication of the external door handle mechanism of each affected 
+door, and to limit the installation of affected parts, as specified in 
+EASA AD 2022-0213R1. The FAA is issuing this AD to address external 
+door handle mechanisms coated with CPC preventing the passenger door 
+external handle flap from moving to the closed position, which if not 
+addressed, could inhibit opening the door from the inside, or allow the 
+door to open, automatically disarming the slide/raft, which would 
+result in its non-automatic deployment. Both scenarios could delay a 
+safe evacuation of airplane occupants during an emergency.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2023-0427.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from Air Line Pilots Association, 
+International (ALPA) who supported the NPRM without change.
+    The FAA received additional comments from Delta Air Lines (DAL) and 
+United Airlines (UAL). The following presents the comments received on 
+the NPRM and the FAA's response to each comment.
+
+Request To Add an Exception To Allow Maintenance Records Review
+
+    DAL requested that the NPRM be revised to add an exception to allow 
+a records review by DAL Engineering to determine the airplanes with 
+affected passenger doors and to identify if any external control handle 
+lubrication had already been accomplished prior to the inspection by 
+DAL maintenance. DAL stated that its maintenance department is not 
+typically responsible for performing records review as part of their 
+responsibilities, as this is a function of the engineering department.
+    The FAA disagrees with adding an exception, since accomplishment of 
+Paragraph 5.6, Steps (1) and (2) do not require review of maintenance 
+records nor do they require maintenance personnel to conduct the review 
+if DAL decides to use maintenance records to accomplish the AD actions 
+as the DAL comment suggests. The FAA agrees that a review of the 
+airplane maintenance records by engineering is acceptable to determine 
+if an aircraft has an affected door or to verify control handle 
+lubrication has already been accomplished. The FAA has not changed this 
+AD in this regard.
+
+Request To Revise Applicability To Include Affected Doors
+
+    UAL requested that paragraph (c) of the proposed AD be revised to 
+include affected passenger doors to address part interchangeability. 
+UAL stated that inclusion of the affected passenger door part numbers 
+will help operators to identify the potential installation of the 
+impacted doors within their fleet using the Illustrated Parts Catalog 
+(IPC) for configuration control.
+    The FAA disagrees with the need to add door part numbers to this 
+AD. The service information specified in EASA AD 2022-0213R1 identifies 
+the suspect passenger doors by serial numbers. Further, the FAA agrees 
+that the movement of doors within an operator's fleet is possible so 
+this AD, as written, addresses the issue of rotability in two ways. 
+First, the applicability in paragraph (c) of this AD includes all 
+Airbus SAS Model A318, A319, A320, and A321 series airplanes. Second, 
+the requirements of this AD include a parts installation limitation, as 
+specified in EASA AD 2022-0213R1. Therefore, the FAA has not changed 
+this AD in this regard.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, this AD is adopted as proposed in the NPRM. None of the 
+changes will increase the economic burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2022-0213R1 specifies procedures for cleaning and 
+lubricating the movable parts of the external passenger door handle 
+mechanism of affected doors. EASA AD 2022-0213R1 also limits the 
+installation of affected parts. This material is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,864 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+            Labor cost                 Parts cost       Cost per product           Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Up to 4 work-hours x $85 per hour              $50   Up to $390...........  Up to $726,960.
+ = $340.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities
+
+[[Page 49277]]
+
+under the criteria of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2023-13-03 Airbus SAS: Amendment 39-22488; Docket No. FAA-2023-0427; 
+Project Identifier MCAI-2022-01370-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective September 5, 
+2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category.
+    (1) Model A318-111, A318-112, A318-121, and A318-122 airplanes.
+    (2) Model A319-111, A319-112, A319-113, A319-114, A319-115, 
+A319-131, A319-132, A319-133, A319-151N, A319-153N, and A319-171N 
+airplanes.
+    (3) Model A320-211, A320-212, A320-214, A320-216, A320-231, 
+A320-232, A320-233, A320-251N, A320-252N, A320-253N, A320-271N, 
+A320-272N, and A320-273N airplanes.
+    (4) Model A321-111, A321-112, A321-131, A321-211, A321-212, 
+A321-213, A321-231, A321-232, A321-251N, A321-251NX, A321-252N, 
+A321-252NX, A321-253N, A321-253NX, A321-271N, A321-271NX, A321-272N, 
+and A321-272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 52, Doors.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports where the passenger door 
+external handle mechanism was not allowing the flap handle to return 
+to its normal, flush position when the door was being closed. 
+Subsequent investigation concluded corrosion protection compound 
+(CPC) was inadvertently applied to the movable parts of the 
+mechanism during production. The CPC prevents the handle flap from 
+moving to the closed position, flush with the fuselage skin. The 
+unsafe condition, if not addressed, could inhibit opening the door 
+from the inside, or allow the door to open, automatically disarming 
+the slide/raft, which would result in its non-automatic deployment. 
+Both scenarios could delay a safe evacuation of airplane occupants 
+during an emergency.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2022-0213R1, dated November 8, 2022 (EASA AD 2022-0213R1).
+
+(h) Exceptions to EASA AD 2022-0213R1
+
+    (1) Where EASA AD 2022-0213R1 refers to November 3, 2022 (the 
+effective of EASA AD 2022-0213, dated October 20, 2022), this AD 
+requires using the effective date of this AD.
+    (2) This AD does not adopt the ``Remarks'' section of EASA AD 
+2022-0213R1.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or responsible 
+Flight Standards Office, as appropriate. If sending information 
+directly to the International Validation Branch, send it to the 
+attention of the person identified in paragraph (j) of this AD. 
+Information may be emailed to: [email protected]. Before 
+using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information referenced 
+in EASA AD 2022-0213R1 contains paragraphs that are labeled as RC, 
+the instructions in RC paragraphs, including subparagraphs under an 
+RC paragraph, must be done to comply with this AD; any paragraphs, 
+including subparagraphs under those paragraphs, that are not 
+identified as RC are recommended. The instructions in paragraphs, 
+including subparagraphs under those paragraphs, not identified as RC 
+may be deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the instructions identified as RC can 
+be done and the airplane can be put back in an airworthy condition. 
+Any substitutions or changes to instructions identified as RC 
+require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aerospace Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 
+410, Westbury, NY 11590; phone 206-231-3667; email 
+[email protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the service information listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2022-0213R1, 
+dated November 8, 2022.
+    (ii) [Reserved]
+    (3) For EASA AD 2022-0213R1, contact EASA, Konrad-Adenauer-Ufer 
+3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on June 30, 2023.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2023-16095 Filed 7-28-23; 8:45 am]
+BILLING CODE 4910-13-P

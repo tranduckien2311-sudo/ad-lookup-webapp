@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+EASA
+
+AD No.: 2016-0204
+
+Airworthiness Directive
+
+AD No.: 2016-0204 [Correction: 19 October 2016]
+
+Issued: 13 October 2016 Note: This
+
+Airworthiness Directive (AD) is issued by EASA, acting in accordance with Regulation (EC) 216/2008 on behalf of the European Union, its Member States and of the European third countries that participate in the activities of EASA under Article 66 of that Regulation. This AD is issued in accordance with Regulation (EU) 748/2012, Part 21.A.3B. In accordance with Regulation (EU) 1321/2014 Annex I, Part M.A.301, the continuing airworthiness of an aircraft shall be ensured by accomplishing any applicable ADs. Consequently, no person may operate an aircraft to which an AD applies, except in accordance with the requirements of that AD, unless otherwise specified by the Agency [Regulation (EU) 1321/2014 Annex I, Part M.A.303] or agreed with the Authority of the State of Registry [Regulation (EC) 216/2008, Article 14(4) exemption]. Design Approval Holder’s Name: Type/Model designation(s): AIRBUS A319, A320 and A321 aeroplanes
+
+Effective Date: 27 October 2016 D E TCDS Number(s): EASA.A.064 D Foreign AD: Not applicable E
+
+Supersedure: None S
+
+ATA 92 – Electric and Electronic Common Installation – Battery Retaining Rod – R Inspection E P
+
+Manufacturer(s): Airbus (formerly Airbus Industrie) U
+
+Applicability: S Airbus A319-111, A319-112, A319-113, A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, A320-233, A320-251N, A320-271N, A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-231 and A321-232 aeroplanes, manufacturer serial numbers (MSN) 5182, 5295, 5327, 5406, 5470, 5545, 5650, 5656, 5664, 5671, 5679, 5685, 5690, 5700, 5701, 5711, 5717, 5722, 5725, 5731, 5732, 5734, 5738, 5740, 5742, 5744, 5746, 5748, 5750 to 5752, 5754 to 5756, 5758 to 5760, 5762, 5763, 5765 to 6100, 6102 to 6285, 6287 to 6418, 6420 to 6463, 6465 to 6619, 6621 to 6641, 6643 to 6672, 6674 to 6719, 6721 to 6771, 6773 to 6828, 6830 to 6832, 6834 to 6838, 6840 to 6867, 6869 to 6903, 6905, 6906, 6908 to 6913, 6915 to 6919, 6921 to 6944, 6947 to 6951, 6953 to 6966, 6968 to 6972, 6974, 6976 to 6992, 6994 to 7000, 7002 to 7010, 7012, 7014 to 7032, 7034 to 7045, 7047 to 7050, 7052, 7054 to 7059, 7061 to 7071, 7073 to 7078, 7080, 7081, 7084 to 7093, 7095 to 7098, 7100, 7101, 7104, 7105, 7108 to 7110, 7112 to 7121, 7123, 7125, 7127, 7128, 7130, 7132, 7133, 7135, 7136, 7138 to 7140, 7142 to 7146, 7148, 7149, 7152 to 7156, 7158, 7160, 7161, 7163 to 7167, 7169 to Page 1 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 2 ---
+EASA
+
+AD No.: 2016-0204 7171, 7173, 7174, 7176, 7177, 7179, 7180, 7182 to 7184, 7187, 7189, 7191, 7194, 7196 to 7200, 7203, 7204, 7206, 7207, 7210, 7212 to 7225, 7227, 7228, 7230, 7232, 7235, 7238, 7241 to 7244, 7248 and 7261.
+
+Reason: Several occurrences have been reported of battery rod failures on certain Airbus aeroplanes. Subsequent examination of broken rod parts determined that these failures were due to quality defects of the material used during parts manufacturing. Each battery is secured on an aeroplane by two rods. Failure of one rod, in case of severe turbulence during flight or hard landing, could lead to battery displacement, or roll on the remaining rod side, up to a point where the remaining rod could be disengaged. The battery could ultimately detach from its housing and damage relays, connectors, contactor boxes, air ducts and surrounding structure. This condition, if not detected and corrected, could lead to the loss of the normal electrical generation not followed by an automatic recovery of essential network. To address this potential unsafe condition, Airbus issued Alert Operators Transmission (AOT) A92N001-16 (later revised) to provide instructions for inspection and replacement of battery rods. D For the reason described above, this AD requires repetitive general visual inspections (GVI) of the E four battery rods (two per battery), and, in case of findings, replacement of battery rods. D Pending the outcome of the on-going investigation, this AD is considered an interim action and further AD action may follow. E This AD is republished to add two missing models to the applicability (the respective MSN were S already listed in the original AD) and to correct the battery rod Part Number (P/N). R
+
+Required Action(s) and Compliance Time(s): E Required as indicated, unless accomplished previously: P (1) Within 4 months after the effective date of this AD, and, thereafter, at intervals not to exceed 4 months, accomplish a GVI of each battery rod P/N D9241023700000 in accordance with the U instructions of Airbus AOT A92N001-16. S (2) In addition to the inspections required by paragraph (1) of this AD, after a hard landing, or flight in severe turbulence, before next flight, accomplish a GVI of each battery rod P/N D9241023700000 in accordance with the instructions of Airbus AOT A92N001-16. (3) If, during any GVI as required by paragraph (1) or (2) of this AD, as applicable, any rod is found broken, before next flight, replace each affected rod with a serviceable part in accordance with the instructions of Airbus AOT A92N001-16. (4) Replacement of failed rods on an aeroplane with new parts, as required by paragraph (3) of this AD, does not constitute terminating action for the repetitive GVI as required by paragraphs (1) and (2) of this AD for that aeroplane. Page 2 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union
+
+--- PAGE 3 ---
+EASA
+
+AD No.: 2016-0204
+
+Ref. Publications: Airbus AOT A92N001-16 original issue dated 25 August 2016 or Revision 01 dated 10 October 2016. The use of later approved revisions of this document is acceptable for compliance with the requirements of this AD.
+
+Remarks: 1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD. 2. Based on the required actions and the compliance time, EASA have decided to issue a Final AD with Request for Comments, postponing the public consultation process until after publication. 3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs@easa.europa.eu. 4. For any question concerning the technical content of the requirements in this AD, please contact: AIRBUS – Airworthiness Office – EIAS; Fax +33 5 61 93 44 51; E-mail: account.airworth-eas@airbus.com. D E D E S R E P U S Page 3 of 3 TE.CAP.00110-005 © European Aviation Safety Agency. All rights reserved. ISO9001 Certified. Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet. An agency of the European Union

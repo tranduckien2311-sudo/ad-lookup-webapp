@@ -1,0 +1,469 @@
+[Federal Register Volume 81, Number 242 (Friday, December 16, 2016)]
+[Rules and Regulations]
+[Pages 90958-90961]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-30038]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9509; Directorate Identifier 2016-NM-177-AD; 
+Amendment 39-18750; AD 2016-25-24]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus Model A319, A320, and A321 series airplanes. This AD requires 
+repetitive general visual inspections for broken battery retaining rods 
+and replacement if necessary. We are issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD becomes effective January 3, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of January 3, 
+2017.
+    We must receive comments on this AD by January 30, 2017.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this final rule, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 5 
+61 93 44 51; email: [email protected]; Internet: http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9509.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9509; or in person at the Docket Operations office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Operations office 
+(telephone: 800-647-5527) is in the ADDRESSES section. Comments will be 
+available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone: 425-227-1405; 
+fax: 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2016-0204, dated October 13, 2016; corrected October 19, 2016 (referred 
+to after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''); to correct an unsafe condition for certain Airbus Model 
+A319, A320, and A321 series airplanes. The MCAI states:
+
+
+[[Page 90959]]
+
+
+    Several occurrences have been reported of battery [retaining] 
+rod failures on certain Airbus aeroplanes. Subsequent examination of 
+broken [battery retaining] rod parts determined that these failures 
+were due to quality defects of the material used during parts 
+manufacturing. Each battery is secured on an aeroplane by two 
+[battery retaining] rods. Failure of one rod, in case of severe 
+turbulence during flight or hard landing, could lead to battery 
+displacement, or roll on the remaining rod side, up to a point where 
+the remaining rod could be disengaged. The battery could ultimately 
+detach from its housing and damage relays, connectors, contactor 
+boxes, air ducts and surrounding structure.
+    This condition, if not detected and corrected, could lead to the 
+loss of the normal electrical generation not followed by an 
+automatic recovery of essential network.
+    To address this potential unsafe condition, Airbus issued Alert 
+Operators Transmission (AOT) A92N001-16 (later revised) to provide 
+instructions for inspection and replacement of battery [retaining] 
+rods.
+    For the reason described above, this [EASA] AD requires 
+repetitive general visual inspections (GVI) of the four battery 
+[retaining] rods (two per battery), and, in case of findings, 
+replacement of [broken] battery [retaining] rods.
+    Pending the outcome of the on-going investigation, this [EASA] 
+AD is considered an interim action and further [EASA] AD action may 
+follow.
+    This [EASA] AD is republished to add two missing models to the 
+applicability (the respective MSN were already listed in the 
+original [EASA] AD) and to correct the battery [retaining] rod Part 
+Number (P/N).
+
+    You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9509.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission (AOT) A92N001-16, 
+Rev 01, dated October 10, 2016. The service information describes 
+procedures for general visual inspections to look for broken battery 
+retaining rods. This service information is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in the ADDRESSES section.
+
+Differences Between This AD and the MCAI or Service Information
+
+    The MCAI specifies to replace broken rods in accordance with Airbus 
+AOT A92N001-16, Rev 01, dated October 10, 2016. However, Airbus AOT 
+A92N001-16, Rev 01, dated October 10, 2016, does not include procedures 
+to replace broken rods. This AD requires that broken rods be replaced 
+using a method approved by the Manager, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA; or EASA; or Airbus's EASA Design 
+Organization Approval (DOA).
+
+FAA's Determination and Requirements of This AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are issuing this AD because we 
+evaluated all pertinent information and determined the unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+FAA's Determination of the Effective Date
+
+    An unsafe condition exists that requires the immediate adoption of 
+this AD. The FAA has found that the risk to the flying public justifies 
+waiving notice and comment prior to adoption of this rule because the 
+detachment of a battery from the housing and damage to other electrical 
+equipment and surrounding structure could lead to loss of normal 
+electrical power generation and recovery of essential network and 
+consequential control of the airplane. Therefore, we determined that 
+notice and opportunity for public comment before issuing this AD are 
+impracticable and that good cause exists for making this amendment 
+effective in fewer than 30 days.
+
+Comments Invited
+
+    This AD is a final rule that involves requirements affecting flight 
+safety, and we did not precede it by notice and opportunity for public 
+comment. We invite you to send any written relevant data, views, or 
+arguments about this AD. Send your comments to an address listed under 
+the ADDRESSES section. Include ``Docket No. FAA-2016-9509; Directorate 
+Identifier 2016-NM-177-AD'' at the beginning of your comments. We 
+specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this AD. We will consider all 
+comments received by the closing date and may amend this AD based on 
+those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this AD.
+
+Costs of Compliance
+
+    We estimate that this AD affects 330 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection.........................  1 work-hour x $85 per hour               $0             $85         $28,050
+                                      = $185.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the inspection. We have 
+no way of determining the number of aircraft that might need this 
+replacement.
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+              Action                       Labor cost           Parts cost             Cost per product
+----------------------------------------------------------------------------------------------------------------
+Replace Battery Rod..............  1 work-hour x $85 per              \1\ $0  $85 per battery rod.
+                                    hour = $85 per battery
+                                    rod.
+----------------------------------------------------------------------------------------------------------------
+\1\ Parts costs are not available from the manufacturer.
+
+
+[[Page 90960]]
+
+    According to the manufacturer, some of the costs of this AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2016-25-24 Airbus: Amendment 39-18750; Docket No. FAA-2016-9509; 
+Directorate Identifier 2016-NM-177-AD.
+
+(a) Effective Date
+
+    This AD becomes effective January 3, 2017.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A319-111, A319-112, A319-113, 
+A319-114, A319-115, A319-131, A319-132, A319-133, A320-211, A320-
+212, A320-214, A320-231, A320-232, A320-233, A320-251N, A320-271N, 
+A321-111, A321-112, A321-131, A321-211, A321-212, A321-213, A321-
+231, and A321-232 airplanes, certificated in any category, 
+manufacturer serial numbers (MSN) 5182, 5295, 5327, 5406, 5470, 
+5545, 5650, 5656, 5664, 5671, 5679, 5685, 5690, 5700, 5701, 5711, 
+5717, 5722, 5725, 5731, 5732, 5734, 5738, 5740, 5742, 5744, 5746, 
+5748, 5750 through 5752 inclusive, 5754 through 5756 inclusive, 5758 
+through 5760 inclusive, 5762, 5763, 5765 through 6100 inclusive, 
+6102 through 6285 inclusive, 6287 through 6418 inclusive, 6420 
+through 6463 inclusive, 6465 through 6619 inclusive, 6621 through 
+6641 inclusive, 6643 through 6672 inclusive, 6674 through 6719 
+inclusive, 6721 through 6771 inclusive, 6773 through 6828 inclusive, 
+6830 through 6832 inclusive, 6834 through 6838 inclusive, 6840 
+through 6867 inclusive, 6869 through 6903 inclusive, 6905, 6906, 
+6908 through 6913 inclusive, 6915 through 6919 inclusive, 6921 
+through 6944 inclusive, 6947 through 6951 inclusive, 6953 through 
+6966 inclusive, 6968 through 6972 inclusive, 6974, 6976 through 6992 
+inclusive, 6994 through 7000 inclusive, 7002 through 7010 inclusive, 
+7012, 7014 through 7032 inclusive, 7034 through 7045 inclusive, 7047 
+through 7050 inclusive, 7052, 7054 through 7059 inclusive, 7061 
+through 7071 inclusive, 7073 through 7078 inclusive, 7080, 7081, 
+7084 through 7093 inclusive, 7095 through 7098 inclusive, 7100, 
+7101, 7104, 7105, 7108 through 7110 inclusive, 7112 through 7121 
+inclusive, 7123, 7125, 7127, 7128, 7130, 7132, 7133, 7135, 7136, 
+7138 through 7140 inclusive, 7142 through 7146 inclusive, 7148, 
+7149, 7152 through 7156 inclusive, 7158, 7160, 7161, 7163 through 
+7167 inclusive, 7169 through 7171 inclusive, 7173, 7174, 7176, 7177, 
+7179, 7180, 7182 through 7184 inclusive, 7187, 7189, 7191, 7194, 
+7196 through 7200 inclusive, 7203, 7204, 7206, 7207, 7210, 7212 
+through 7225 inclusive, 7227, 7228, 7230, 7232, 7235, 7238, 7241 
+through 7244 inclusive, 7248, and 7261.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 92, Electrical 
+System Installation.
+
+(e) Reason
+
+    This AD was prompted by reports of broken battery retaining 
+rods. We are issuing this AD to detect and correct broken battery 
+retaining rods, which, in the event of a hard landing or severe 
+turbulence, can cause the battery to detach from its housing, 
+resulting in damage to other electrical equipment and surrounding 
+structure. This condition could lead to loss of normal electrical 
+power generation and subsequent inability to restore electrical 
+power to essential airplane systems.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections
+
+    Within 4 months after the effective date of this AD, and 
+thereafter at intervals not to exceed 4 months, accomplish a general 
+visual inspection of each battery retaining rod part number (P/N) 
+D9241023700000, in accordance with the instructions of Airbus Alert 
+Operators Transmission (AOT) A92N001-16, Rev 01, dated October 10, 
+2016.
+
+(h) Additional Inspections After Any Hard Landing or Any Flight in 
+Severe Turbulence
+
+    In addition to the inspections required by paragraph (g) of this 
+AD, after any hard landing, or after any flight in severe 
+turbulence: Before further flight, accomplish a general visual 
+inspection of each battery retaining rod P/N D9241023700000, in 
+accordance with the instructions of Airbus AOT A92N001-16, Rev 01, 
+dated October 10, 2016.
+
+(i) Corrective Action
+
+    If, during any general visual inspection required by paragraph 
+(g) or (h) of this AD, as applicable, any battery retaining rod is 
+found broken, before further flight, replace each affected battery 
+retaining rod with a serviceable part using a method approved by the 
+Manager, International Branch, ANM-116, Transport Airplane 
+Directorate, FAA; or the European Aviation Safety Agency (EASA); or 
+Airbus's EASA Design Organization Approval (DOA).
+    Note 1 to paragraph (i) of this AD: Additional guidance for the 
+replacement of battery retaining rods can be found in Tasks 24-38-
+51-000-001-A, Removal of the Batteries, and 24-38-51-400-001-A, 
+Installation of the Batteries, of the Airbus A319/A320/A321 Aircraft 
+Maintenance Manual (AMM).
+
+(j) Provision Regarding Terminating Action
+
+    Replacement of failed battery retaining rods on an airplane with 
+serviceable parts, as required by paragraph (i) of this AD, does not 
+constitute terminating action for the repetitive general visual 
+inspections required by paragraphs (g) and (h) of this AD for that 
+airplane.
+
+[[Page 90961]]
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by 
+paragraphs (g) and (h) of this AD, if those actions were performed 
+before the effective date of this AD using Airbus AOT A92N001-16, 
+dated August 25, 2016.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone: 425-227-1405; fax: 425-227-1149. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or EASA; or 
+Airbus's EASA DOA. If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+
+(m) Special Flight Permits
+
+    Special flight permits, as described in Section 21.197 and 
+Section 21.199 of the Federal Aviation Regulations (14 CFR 21.197 
+and 21.199), are not allowed.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2016-0204, dated October 13, 2016; corrected October 
+19, 2016; for related information. You may examine the MCAI on the 
+Internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2016-9509.
+    (2) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Alert Operators Transmission (AOT) A92N001-16, Rev 
+01, dated October 10, 2016.
+    (ii) Reserved.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office-EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone: +33 5 61 93 36 96; fax: +33 
+5 61 93 44 51; email: [email protected]; Internet: 
+http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on December 2, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-30038 Filed 12-15-16; 8:45 am]
+BILLING CODE 4910-13-P

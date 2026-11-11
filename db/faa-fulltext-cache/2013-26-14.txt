@@ -1,0 +1,875 @@
+[Federal Register Volume 79, Number 60 (Friday, March 28, 2014)]
+[Rules and Regulations]
+[Pages 17416-17422]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-04954]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-1253; Directorate Identifier 2011-NM-079-AD; 
+Amendment 39-17723; AD 2013-26-14]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2008-08-04 for 
+certain Airbus Model A318, A319, A320, and A321 series airplanes. AD 
+2008-08-04 required repetitive inspections for cracking in the forward 
+lug of the support rib 5 fitting of the left and right main landing 
+gear (MLG), and repair or replacement of any cracked MLG fitting if 
+necessary. AD 2008-08-04 also required modification of the rib bushings 
+of the left and right MLG, which ended the repetitive inspections. This 
+new AD requires, for airplanes on which certain modifications or 
+repairs have been done, repetitive inspections for cracks of the 
+forward lug of each left-hand and right-hand MLG support rib 5 fitting, 
+and repair if necessary; and adds Model A318 series airplanes to the 
+applicability. Replacement of an MLG support rib 5 fitting terminates 
+the repetitive inspection requirements for the MLG support rib 5 
+fitting at that position. This AD was prompted by reports of cracks 
+found in the forward lug of the MLG support rib 5 fitting. We are 
+issuing this AD to prevent cracking in the forward lug of the MLG, 
+which could result in failure of the lug and consequent collapse of the 
+MLG during takeoff or landing.
+
+DATES: This AD becomes effective May 2, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of May 2, 2014.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of May 
+19, 2008 (73 FR 19975, April 14, 2008).
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2011-1253; or in person at the 
+U.S. Department of Transportation, Docket Operations, M-30, West 
+Building Ground Floor, Room
+
+[[Page 17417]]
+
+W12-140, 1200 New Jersey Avenue SE., Washington, DC.
+    For service information identified in this AD, contact Airbus, 
+Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 
+51; email: [email protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, call 
+425-227-1221.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a supplemental notice of proposed rulemaking (SNPRM) to 
+amend 14 CFR part 39 to supersede AD 2008-08-04, Amendment 39-15456 (73 
+FR 19975, April 14, 2008). AD 2008-08-04 applied to certain Airbus 
+Model A318, A319, A320, and A321 series airplanes. The SNPRM published 
+in the Federal Register on October 3, 2012 (77 FR 60325). We preceded 
+the SNPRM with a notice of proposed rulemaking (NPRM) that published in 
+the Federal Register on November 23, 2011 (76 FR 72350). The NPRM 
+proposed to continue to require repetitive inspections for cracking in 
+the forward lug of the support rib 5 fitting of the left and right main 
+landing gear (MLG), and repair or replacement of any cracked MLG 
+fitting if necessary; and modification of the rib bushings of the left 
+and right MLG, which ended the repetitive inspections. The NPRM also 
+proposed to require, for airplanes on which certain modifications or 
+repairs have been done, repetitive inspections for cracks of the 
+forward lug of each left-hand and right-hand MLG support rib 5 fitting, 
+and repair if necessary; and to remove Model A318 series airplanes from 
+the applicability. The NPRM was prompted by reports of cracks found in 
+the forward lug of the MLG support rib 5 fitting. The SNPRM proposed to 
+revise the NPRM by adding Model A318 airplanes and others to the 
+applicability; and requiring repetitive detailed inspections for cracks 
+of the MLG support 5 fitting, and repair of any cracks. We are issuing 
+this AD to prevent cracking in the forward lug of the MLG, which could 
+result in failure of the lug and consequent collapse of the MLG during 
+takeoff or landing.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Community, has issued EASA 
+Airworthiness Directive 2012-0032, dated February 24, 2012 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for the specified 
+products. The MCAI states:
+
+    Several cases of corrosion of the Main Landing Gear (MLG) 
+support Rib 5 fitting lug bores have been reported on A320 family 
+aeroplanes. In some instances, corrosion pits caused the cracking of 
+the forward lug (sometimes through its complete thickness). If not 
+detected, the cracking may lead to the complete failure of the 
+fitting and thus could affect the structural integrity of the MLG 
+installation.
+    EASA AD 2007-0213 [(http://ad.easa.europa.eu/blob/easa_ad_2007_0213_superseded.pdf/AD_2007-0213_1), which corresponds to 
+FAA AD 2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008)] 
+was issued to address this condition and required a repetitive 
+inspection program of the MLG support Rib 5 fitting forward lugs 
+and, as terminating action, the embodiment of Airbus Service 
+Bulletin (SB) A320-57-1118.
+    After that [EASA] AD was issued, a case of Rib 5, ruptured at 
+the 4 o'clock position, was discovered on an aeroplane on which the 
+terminating action of EASA AD 2007-0213 had already been embodied in 
+accordance with Airbus SB A320-57-1118.
+    Investigation of that case revealed that corrosion damage and 
+cracking that should have been removed by repair machining was below 
+the level of detectability of the Non Destructive Test (NDT) 
+technique that cleared the surfaces prior to bush installation.
+    This condition, if not detected and corrected, could affect the 
+structural integrity of the aeroplane.
+    To correct this potential unsafe condition, EASA issued AD 2011-
+0011 [(http://ad.easa.europa.eu/blob/easa_ad_2011_0011_superseded.pdf/AD_2011-0011_1), which corresponds to FAA AD 2012-
+15-17 (77 FR 47273, August 8, 2012)], superseding EASA AD 2007-0213, 
+to:
+
+--retain the requirements of EASA AD 2007-0213 for aeroplanes on 
+which the MLG Rib Bushes have not been modified/repaired in 
+accordance with the instructions of Airbus SB A320-57-1118, or 
+Airbus SRM 57-26-13, or the identified Airbus Repair Instructions, 
+as applicable, and
+--require, for all aeroplanes on which Airbus SB A320-57-1118 has 
+been embodied in service, or on which Airbus SRM 57-26-13 or the 
+identified Airbus Repair Instructions have been applied, a 
+repetitive inspection program [for cracks] of the MLG support Rib 5 
+fitting forward lugs and, depending on findings, the accomplishment 
+of the associated corrective actions, and
+--reduce the Applicability by deleting A318 aeroplanes, as Airbus 
+modification 32025 is embodied in production on both left-hand (LH) 
+and right-hand (RH) wings for all A318 aeroplanes.
+
+    After that [EASA] AD was issued, three cases of corrosion of Rib 
+5 were discovered on aeroplanes on which Airbus modification 32025 
+had been embodied in production. Investigations revealed that the 
+unsafe condition addressed by [EASA] AD 2011-0011 could occur or 
+develop on those aeroplanes as well.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2011-0011, which is superseded, extends the 
+applicability to all aeroplanes, and requires for aeroplanes on 
+which Airbus modification 32025 has been embodied in production, 
+repetitive inspections of the MLG support Rib 5 fitting forward lugs 
+and, depending on findings, the accomplishment of applicable 
+corrective actions.
+
+The unsafe condition is cracking in the forward lug of the MLG, which 
+could result in failure of the lug and consequent collapse of the MLG 
+during takeoff or landing. You may examine the MCAI in the AD docket on 
+the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2011-
+1253-0002.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comments received.
+
+Support for the SNPRM (77 FR 60325, October 3, 2012)
+
+    United Airlines (UAL) stated that it generally agrees with the 
+intent of the SNPRM (77 FR 60325, October 3, 2012).
+    US Airways (AWE) stated that it agrees with the need to add the 
+post-modification inspections, because the mandated bushing 
+modification has not proven to be an effective permanent corrective 
+action. AWE also stated that it agrees with the method and frequency of 
+these additional inspections.
+
+Request To Extend Compliance Time
+
+    UAL requested that we extend the compliance time specified in 
+paragraph (n)(2) of the SNPRM (77 FR 60325, October 3, 2012) from 
+within 2,000 flight cycles after accomplishing the modification or 
+within 250 flight cycles after the effective date of the AD, without 
+exceeding 3 months after the effective date of the AD, whichever occurs 
+later. UAL requested that the compliance time be changed to within 500 
+flight cycles after the effective date of the AD or within 6 months 
+after the effective date of the AD, whichever occurs later. UAL stated 
+that the majority of its Model A319 and A320 series airplanes have 
+accumulated more than 2,000 flight cycles since
+
+[[Page 17418]]
+
+accomplishing the modification. UAL stated that it is requesting this 
+change in order to ``reduce the impact due to the special routing 
+required for the inspection,'' possible MLG removal for repair/
+replacement of MLG support rib 5 fitting, and a large demand on man-
+power. UAL stated that extending the compliance time will allow it to 
+perform the required inspection at a more suitable maintenance 
+opportunity.
+    We do not agree with the commenter's request to extend the 
+compliance time in paragraph (n)(2) of this AD. The commenter did not 
+provide technical justification for extending the compliance time. The 
+compliance time for the actions specified in paragraph (n)(2) in this 
+AD was developed after conducting a risk assessment and analyzing the 
+impact on operators. In consideration of these factors, we determined 
+that the compliance times, as proposed, represent an appropriate 
+interval in which to conduct the inspection after the modification 
+within the fleet, while still maintaining an adequate level of safety. 
+However, under the provisions of paragraph (u) of this AD, we might 
+approve requests for adjustments to the compliance time if data are 
+submitted to substantiate that such an adjustment would provide an 
+acceptable level of safety. We have not changed this final rule in this 
+regard.
+
+Requests To Include Revised Service Information
+
+    Airbus and AWE requested that we add Airbus Mandatory Service 
+Bulletin A320-57-1118, Revision 05, dated July 23, 2012, to paragraph 
+(m) of the SNPRM (77 FR 60325, October 3, 2012). Airbus also requested 
+that we add Airbus Service Bulletin A320-57-1118, Revision 03, dated 
+April 23, 2007; and Revision 04, dated June 4, 2008; to paragraph 
+(t)(5) of the SNPRM. AWE stated that adding Airbus Mandatory Service 
+Bulletin A320-57-1118, Revision 05, dated July 23, 2012, as authorized 
+instructions for modification work would reduce alternative method of 
+compliance coordination.
+    We partially agree with the commenters' requests. Airbus Mandatory 
+Service Bulletin A320-57-1118, Revision 05, dated July 23, 2012, states 
+that ``no additional work is required by this revision for airplanes 
+modified by any previous issue.'' However, this service bulletin 
+revision adds a liquid penetrant inspection. We have added Airbus 
+Mandatory Service Bulletin A320-57-1118, Revision 05, dated July 23, 
+2012, in paragraph (m) of this final rule as an appropriate source of 
+service information, and specified that the liquid penetrant inspection 
+specified in this service information is not required by this AD. We 
+have added paragraphs (t)(5)(iv) and (t)(5)(v) to this final rule to 
+provide credit for certain actions accomplished before May 19, 2008 
+(the effective date of AD 2008-08-04, Amendment 39-15456 (73 FR 19975, 
+April 18, 2008)), using Airbus Service Bulletin A320-57-1118, Revision 
+03, dated April 23, 2007; or Revision 04, dated June 4, 2008.
+
+Requests To Change Certain Document References
+
+    AWE requested we revise the service bulletin reference in the 
+Relevant Service Information section of the SNPRM from ``A320-75-1168'' 
+to ``A320-57-1168.'' Airbus requested that we correct references to 
+Airbus Repair Drawings ``R57258209'' and ``R57245019'' in paragraph 
+(g)(3) of the SNPRM to Airbus Repair Drawing ``R572-58209'' and ``R572-
+45019,'' respectively. Airbus also requested that we amend paragraph 
+(h)(2) of the SNPRM (77 FR 60325, October 3, 2012) to refer to ``NTM 
+task 57-29-03-270-801-A-01 for A318/A319/A320 and NTM task 57-29-04-
+270-801-A-01 for A321 [series airplanes].''
+    We agree with the commenters' requests. The Relevant Service 
+Information section of the SNPRM referenced by AWE is not restated in 
+this final rule; therefore, no change to this final rule is needed in 
+this regard. The content of paragraph (g)(3) of the SNPRM (77 FR 60325, 
+October 3, 2012) referenced by Airbus was located in paragraph (j)(3) 
+of the SNPRM, not in paragraph (g)(3) of the SNPRM, as the commenter 
+specified. We have revised paragraphs (h)(2) and (j)(3) of this final 
+rule accordingly.
+
+Request To Include Repair Drawing
+
+    AWE requested that we include Airbus Repair Drawing R572-48341 in 
+paragraph (g)(2) of the SNPRM (77 FR 60325, October 3, 2012). AWE 
+stated that this drawing is the current and most advanced version of 
+the repair scheme for corrosion and crack findings, and that Airbus 
+issues this drawing when operators request repair design data. AWE also 
+stated that there are still some issues with the details of this repair 
+drawing, but it has collected comments and submitted them to Airbus for 
+incorporation. AWE also noted that Airbus drawing number ``R572481'' 
+cited (by a different commenter) under ``Request to Reference a Repair 
+Drawing'' in the preamble of the SNPRM (77 FR 60325, October 3, 2012) 
+should be ``R572-48341.''
+    We disagree with the commenter's request. The commenter did not 
+provide specific data to substantiate that airplanes repaired with 
+Airbus Repair Drawing R572-48341 would be applicable to the MLG support 
+rib 5 fitting configuration. The commenter also did not provide 
+justification for including a document with potential errors. However, 
+according to the provisions of paragraph (u) of this AD, we might 
+approve requests to include airplanes repaired by Airbus Repair Drawing 
+R572-48341 as an appropriate action for the MLG support rib 5 fitting 
+repair specified in paragraph (j)(2) of this AD. We have not changed 
+this final rule in this regard.
+
+Additional Changes Made to This Final Rule
+
+    We have converted table 1 to paragraph (k) of the SNPRM (77 FR 
+60325, October 3, 2012) to the text given in paragraphs (k)(1) and 
+(k)(2) of this final rule for formatting purposes only.
+    We have also revised table 2 to paragraph (r)(4) of the SNPRM (77 
+FR 60325, October 3, 2012) to figure 1 to paragraph (r)(4) of this AD 
+for formatting purposes only.
+    We have revised the citation of the service information referenced 
+in paragraph (t)(2) of the SNPRM (77 FR 60325, October 3, 2012) and 
+moved the service information into new paragraphs (t)(2)(i) and 
+(t)(2)(ii) of this AD. The documents have not changed.
+
+Conclusion
+
+    We reviewed the available data, including the comments received, 
+and determined that air safety and the public interest require adopting 
+this AD with the changes described previously and minor editorial 
+changes. We have determined that these changes:
+     Are consistent with the intent that was proposed in the 
+SNPRM (77 FR 60325, October 3, 2012) for correcting the unsafe 
+condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the SNPRM (77 FR 60325, October 3, 2012).
+
+Differences Between This AD and the MCAI or Service Information
+
+    This AD differs from the MCAI and/or service information as 
+follows:
+     Although the MCAI or service information allows further 
+flight after cracks are found during compliance with certain required 
+actions, paragraphs (l) and (p) of this AD require repair or 
+replacement before further flight.
+     Airbus Mandatory Service Bulletin A320-57-1118, Revision 
+05, dated July
+
+[[Page 17419]]
+
+23, 2012, describes a liquid penetrant inspection. This AD does not 
+require that inspection.
+
+Costs of Compliance
+
+    We estimate that this AD will affect about 740 products of U.S. 
+registry.
+    The actions that are required by AD 2008-08-04, Amendment 39-15456 
+(73 FR 19975, April 14, 2008), and retained in this AD take about 73 
+work-hours per product, at an average labor rate of $85 per work-hour. 
+Required parts cost about $3,860 per product. Based on these figures, 
+the estimated cost of the currently required actions is $10,065 per 
+product.
+    We estimate that it will take about 3 work-hours per product to 
+comply with the new basic requirements of this AD. The average labor 
+rate is $85 per work-hour. Based on these figures, we estimate the cost 
+of this AD to the U.S. operators to be up to $188,700, or $255 per 
+product.
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov/#!docketDetail;D=FAA-2011-1253; or in person at the 
+Docket Operations office between 9 a.m. and 5 p.m., Monday through 
+Friday, except Federal holidays. The AD docket contains this AD, the 
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Operations office (telephone 800-647-
+5527) is in the ADDRESSES section.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), and 
+adding the following new AD:
+
+2013-26-14 Airbus: Amendment 39-17723. Docket No. FAA-2011-1253; 
+Directorate Identifier 2011-NM-079-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) becomes effective May 2, 2014.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2008-08-04, Amendment 39-15456 (73 FR 
+19975, April 14, 2008).
+
+(c) Applicability
+
+    This AD applies to Airbus Model A318-111, A318-112, A318-121, 
+A318-122, A319-111, A319-112, A319-113, A319-114, A319-115, A319-
+131, A319-132, A319-133, A320-111, A320-211, A320-212, A320-214, 
+A320-231, A320-232, A320-233, A321-111, A321-112, A321-131, A321-
+211, A321-212, A321-213, A321-231, and A321-232 airplanes, 
+certificated in any category, all manufacturer serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Reason
+
+    This AD was prompted by reports of cracks found in the forward 
+lug of the main landing gear (MLG) support rib 5 fitting. We are 
+issuing this AD to prevent cracking in the forward lug of the MLG, 
+which could result in failure of the lug and consequent collapse of 
+the MLG during takeoff or landing.
+
+(f) Compliance
+
+    You are responsible for having the actions required by this AD 
+performed within the compliance times specified, unless the actions 
+have already been done.
+
+(g) Retained Repetitive Detailed Inspections With Changes
+
+    This paragraph restates the requirements of paragraph (f) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), with 
+changes. Except for airplanes on which Airbus modification 32025 has 
+been accomplished in production, within 8 days after June 7, 2006 
+(the effective date of AD 2006-11-04, Amendment 39-14608 (71 FR 
+29578, May 23, 2006)), or before further flight after a hard 
+landing, whichever is first: Perform a detailed inspection for 
+cracking in the forward lug of the support rib 5 fitting of the 
+left- and right-hand MLG, and, if any crack is found, replace the 
+MLG fitting with a new fitting before further flight, in accordance 
+with a method approved by the Manager, International Branch, ANM-
+116, Transport Airplane Directorate, FAA, or the European Aviation 
+Safety Agency (EASA) (or its delegated agent). Repeat the inspection 
+thereafter at intervals not to exceed 8 days, or before further 
+flight after a hard landing, whichever is first. As of May 19, 2008 
+(the effective date of AD 2008-08-04), the repetitive inspections 
+required by paragraph (k) of this AD must be accomplished in lieu of 
+the repetitive inspections required by this paragraph.
+
+(h) Retained Optional Inspection Method With Revised Service 
+Information
+
+    This paragraph restates the provisions of paragraph (g) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), with 
+revised service information. Performing an ultrasonic inspection for 
+cracking in the forward lug of the support rib 5 fitting of the 
+left- and right-hand MLG, in accordance with an applicable method 
+specified in paragraph (h)(1) or (h)(2) of this AD, is an acceptable 
+alternative method of compliance for the initial and repetitive 
+inspections required by paragraph (g) of this AD.
+    (1) In accordance with a method approved by the Manager, 
+International Branch, ANM-116, or the EASA (or its delegated agent).
+    (2) In accordance with Task 57-29-03-270-801-A-01, Gear Rib 
+Forward Lug Attachment for the Main Gear Before Modification 
+32025J2211, of Subject 57-29-03, Inspection of the Gear Rib Forward 
+and
+
+[[Page 17420]]
+
+Aft Lug Attachment for the Main Gear (for Model A318, A319, and A320 
+series airplanes); or Task 57-29-04-270-801-A-01, Gear Rib Forward 
+Lug Attachment for the Main Gear Before Modification 32025J2211, of 
+Subject 57-29-04, Inspection of the Gear Rib Forward and Aft Lug 
+Attachment for the Main Gear (for Model A321 series airplanes); both 
+of Chapter 57, Wings, of the Airbus A318/A319/A320/A321 
+Nondestructive Testing Manual, Revision 89, dated August 1, 2011.
+
+(i) Retained Optional Terminating Action With Changes
+
+    This paragraph restates the provisions of paragraph (h) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), with 
+changes. Repair of the forward lugs of the support rib 5 fitting of 
+the left- and right-hand MLG done before the effective date of this 
+AD, in accordance with a method approved by the Manager, 
+International Branch, ANM-116, or the EASA (or its delegated agent), 
+constitutes terminating action for the requirements of paragraphs 
+(g), (h), (k), (l), and (m) of this AD.
+
+(j) New Referenced Conditions With Revised Affected Airplanes
+
+    To identify affected airplanes in paragraphs (k), (m), and (o) 
+of this AD, this AD refers to the following conditions:
+    (1) Airplanes on which the modification of the MLG rib bushes 
+specified in Airbus Mandatory Service Bulletin A320-57-1118 has been 
+done.
+    (2) Airplanes on which a repair of the MLG support rib 5 
+fitting, as specified in paragraph 5.C. of Subsection 57-26-13, 
+Attachments--Main Landing Gear, of the Airbus A319 Structural Repair 
+Manual (SRM), Revision November 1, 2004; paragraph 5.D. of 
+Subsection 57-26-13, Attachments--Main Landing Gear, of the Airbus 
+A320 SRM, Revision November 1, 2004; or paragraph 5.D. of Subsection 
+57-26-13, Attachments--Main Landing Gear, of the Airbus A321 SRM, 
+Revision February 1, 2005; as applicable; has been done.
+    (3) Airplanes on which replacement in service of the MLG support 
+rib 5 specified in Airbus Repair Instruction R572-58507 and Airbus 
+Repair Drawing R572-58209, or Airbus Repair Instruction R572-45020 
+and Airbus Repair Drawing R572-45019, as applicable, has been done.
+
+(k) Retained Repetitive Inspections With Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), with 
+changes. For airplanes on which none of the actions specified in 
+paragraphs (j)(1), (j)(2), and (j)(3) of this AD have been done, 
+except for airplanes on which Airbus modification 32025 has been 
+accomplished: At the applicable time specified in paragraphs (k)(1) 
+and (k)(2) of this AD, or before further flight after a hard 
+landing, whichever is first, do a visual inspection or ultrasonic 
+inspection for cracking in the forward lug of the support rib 5 
+fitting of the left and right MLG, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-57-1138, 
+Revision 01, dated October 27, 2006. Repeat the inspection 
+thereafter at the applicable interval specified paragraphs (k)(1) 
+and (k)(2) of this AD, or before further flight after a hard 
+landing, whichever is first, until the modification required by 
+paragraph (m) of this AD has been accomplished. Accomplishing the 
+initial inspection terminates the requirements of paragraph (g) of 
+this AD.
+    (1) For Model A318, A319, and A320 airplanes, inspect at the 
+applicable times specified in paragraphs (k)(1)(i) and (k)(1)(ii) of 
+this AD.
+    (i) If the most recent inspection is a detailed inspection done 
+in accordance with paragraph (g) of this AD: Inspect within 150 
+flight cycles after the most recent detailed inspection. Repeat the 
+inspection thereafter at intervals not to exceed 150 flight cycles 
+after a visual inspection.
+    (ii) If the most recent inspection is an ultrasonic inspection 
+done in accordance with paragraph (h) of this AD: Inspect within 940 
+flight cycles after the most recent ultrasonic inspection. Repeat 
+the inspection thereafter at intervals not to exceed 940 flight 
+cycles after an ultrasonic inspection.
+    (2) For Model A321 airplanes, inspect at the applicable times 
+specified in paragraphs (k)(2)(i) and (k)(2)(ii) of this AD.
+    (i) If the most recent inspection is a detailed inspection done 
+in accordance with paragraph (g) of this AD: Inspect within 100 
+flight cycles after the most recent detailed inspection. Repeat the 
+inspection thereafter at intervals not to exceed 100 flight cycles 
+after a visual inspection.
+    (ii) If the most recent inspection is an ultrasonic inspection 
+done in accordance with paragraph (h) of this AD: Inspect within 630 
+flight cycles after the most recent ultrasonic inspection. Repeat 
+the inspection thereafter at intervals not to exceed 630 flight 
+cycles after an ultrasonic inspection.
+
+(l) Retained Corrective Action
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008). If any 
+cracking is found during any inspection required by paragraph (k) of 
+this AD: Before further flight, repair or replace the cracked MLG 
+fitting, in accordance with a method approved by the Manager, 
+International Branch, ANM-116, or the EASA (or its delegated agent).
+
+(m) Retained Rib Bushing Modification With Revised Service Information
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2008-08-04, Amendment 39-15456 (73 FR 19975, April 14, 2008), with 
+revised service information. Except for airplanes on which the 
+actions specified in paragraph (j)(1) or (j)(3) of this AD have been 
+done, and except for airplanes on which Airbus modification 32025 
+have been done: Within 60 months after May 19, 2008 (the effective 
+date of AD 2008-08-04), modify the rib bushings of the left and 
+right MLG, by accomplishing all of the applicable actions specified 
+in the Accomplishment Instructions of Airbus Mandatory Service 
+Bulletin A320-57-1118, Revision 05, dated July 23, 2012, except that 
+the liquid penetrant inspection specified in this service 
+information is not required by this AD. Accomplishing this 
+modification terminates the requirements of paragraphs (g) and (k) 
+of this AD, and then the requirements of paragraph (n) of this AD 
+must be done.
+
+(n) New Post-Modification/Post-Repair Inspections
+
+    For airplanes on which the actions specified in paragraph 
+(j)(1), (j)(2), or (m) of this AD have been done: At the later of 
+the times specified in paragraphs (n)(1) and (n)(2) of this AD, do a 
+detailed inspection for cracks of the forward lug of each left-hand 
+and right-hand MLG support rib 5 fitting, in accordance with the 
+Accomplishment Instructions of Airbus Mandatory Service Bulletin 
+A320-57A1166, Revision 01, dated October 19, 2011. Repeat the 
+inspection thereafter at intervals not to exceed 500 flight cycles.
+    (1) Within 2,000 flight cycles after accomplishing the 
+modification specified in paragraph (j)(1) or (m) of this AD, or the 
+repair specified in paragraph (j)(2) of this AD, as applicable.
+    (2) Within 250 flight cycles after the effective date of this 
+AD, without exceeding 3 months after the effective date of this AD.
+
+(o) New Repair of Cracking Found During Post-Modification/Post-Repair
+
+    If any crack is detected during any inspection required by 
+paragraph (n) of this AD: Before further flight, repair using a 
+method approved by either the Manager, International Branch, ANM-
+116, FAA, or the EASA (or its delegated agent).
+
+(p) New Optional Terminating Action
+
+    Replacement of a MLG support rib 5 fitting at any position 
+(left-hand or right-hand), as specified in paragraph (j)(3) of this 
+AD, terminates the requirements of paragraphs (k) and (n) of this AD 
+for the MLG support rib 5 fitting at that position.
+
+(q) New Repetitive Detailed Inspection for Certain Airplanes
+
+    For airplanes on which the actions specified in paragraph (j)(3) 
+of this AD have been done: Within 60 months after the replacement or 
+within 500 flight cycles after the effective date of this AD, 
+whichever occurs later, do a detailed inspection of the forward lug 
+of each left-hand and right-hand MLG support rib 5 fitting that has 
+been replaced, in accordance with the Accomplishment Instructions of 
+Airbus Mandatory Service Bulletin A320-57A1166, Revision 01, dated 
+October 19, 2011. Repeat the inspection thereafter at intervals not 
+to exceed 500 flight cycles.
+
+(r) New Repetitive Inspections for Airplanes With Airbus Modification 
+32025
+
+    For airplanes on which Airbus modification 32025 has been done: 
+At the applicable time specified in paragraph (r)(1) (r)(2), (r)(3), 
+or (r)(4) of this AD, do a detailed inspection for cracks of the 
+forward lug of each left-hand and right-hand MLG support rib 5 
+fitting, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-57-1168, dated November 7, 2011. Repeat 
+the inspection
+
+[[Page 17421]]
+
+thereafter at intervals not to exceed 500 flight cycles.
+    (1) For airplanes on which the MLG support rib 5 has not been 
+modified or repaired since the first flight of the airplane as of 
+the effective date of this AD: Within 60 months after the first 
+flight of the airplane, or within 500 flight cycles after the 
+effective date of this AD, whichever occurs later.
+    (2) For airplanes on which the MLG support rib 5 has been 
+replaced as specified in paragraph (j)(3) of this AD as of the 
+effective date of this AD: Within 60 months after the replacement of 
+the MLG support rib 5, or within 500 flight cycles after the 
+effective date of this AD, whichever occurs later.
+    (3) For airplanes on which the MLG support rib 5 has been 
+repaired according to the SRM or a repair approval sheet as of the 
+effective date of this AD: At the later of the times specified in 
+paragraph (r)(3)(i) or (r)(3)(ii) of this AD.
+    (i) Within 2,000 flight cycles after the repair.
+    (ii) Within 250 flight cycles or 3 months after the effective 
+date of this AD, whichever occurs first.
+    (4) For airplanes having a manufacturer serial number (S/N) 
+listed in figure 1 to paragraph (r)(4) of this AD, and on which the 
+MLG support rib 5 has been inspected before the effective date of 
+this AD according to specific Airbus repair instructions or 
+technical disposition: At the later of the times specified in 
+paragraph (r)(4)(i) or (r)(4)(ii) of this AD.
+
+                 Figure 1 to Paragraph (r)(4) of This AD
+                   [Manufacturer serial number (S/N)]
+------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------
+                                  S/N--
+------------------------------------------------------------------------
+          1965                     2056                     2155
+          2274                     2278                     2288
+          2321                     2478                     2586
+          2588                     2612                     2672
+          2688                     2707                     2929
+          2942                     3089                     3117
+          3361                     3427                     3486
+          3489                     3806                     3891
+          3937                     4243                     4345
+------------------------------------------------------------------------
+
+    (i) Within 2,000 flight cycles after the last inspection done 
+using specific Airbus repair instructions or a technical 
+disposition, or within 60 months since first flight of the airplane, 
+whichever occurs later.
+    (ii) Within 250 flight cycles or 3 months after the effective 
+date of this AD, whichever occurs first.
+
+(s) New Repair of Cracking
+
+    If any crack is detected during any inspection required by 
+paragraph (q) or (r) of this AD: Before further flight, repair using 
+a method approved by either the Manager, International Branch, ANM-
+116, FAA, or the EASA (or its delegated agent).
+
+(t) Credit for Previous Actions
+
+    (1) This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Chapter 51-90-00 of the Airbus A318/
+A319/A320/A321 Nondestructive Testing Manual, Revision February 1, 
+2003, which is not incorporated by reference in this AD.
+    (2) This paragraph provides credit for the actions required by 
+paragraph (h) of this AD, if those actions were performed before the 
+effective date of this AD using the service information specified in 
+paragraph (t)(2)(i) or (t)(2)(ii) of this AD.
+    (i) Chapter 57-29-03 of the Airbus A318/A319/A320/A321 
+Nondestructive Testing Manual, Revision February 1, 2005 (for Model 
+A318, A319, and A320 airplanes), which is not incorporated by 
+reference in this AD.
+    (ii) Chapter 57-29-04 of the Airbus A318/A319/A320/A321 
+Nondestructive Testing Manual, Revision May 1, 2005 (for Model A321 
+airplanes), which is not incorporated by reference in this AD.
+    (3) This paragraph provides credit for the actions specified in 
+paragraph (i) of this AD, if those actions were performed before the 
+effective date of this AD using the applicable service information 
+specified in paragraph (t)(3)(i), (t)(3)(ii), or (t)(3)(iii) of this 
+AD.
+    (i) Paragraph 5.C. of Chapter 57-26-13, Attachments--Main 
+Landing Gear, of the Airbus A319 SRM, Revision November 1, 2004, 
+which is not incorporated by reference in this AD.
+    (ii) Paragraph 5.D. of Chapter 57-26-13, Attachments--Main 
+Landing Gear, of the Airbus A320 SRM, Revision November 1, 2004, 
+which is not incorporated by reference in this AD.
+    (iii) Paragraph 5.D. of Chapter 57-26-13, Attachments--Main 
+Landing Gear, of the Airbus A321 SRM, Revision February 1, 2005, 
+which is not incorporated by reference in this AD.
+    (4) This paragraph provides credit for the inspections required 
+by paragraphs (n) and (r) of this AD, if the inspections were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin A320-57A1166, dated January 12, 2011, which is not 
+incorporated by reference in this AD.
+    (5) This paragraph provides credit for the modification required 
+by paragraph (m) of this AD, if the modification was performed 
+before May 19, 2008 (the effective date of AD 2008-08-04, Amendment 
+39-15456 (73 FR 19975, April 14, 2008), using the service 
+information identified in paragraph (t)(5)(i), (t)(5)(ii), 
+(t)(5)(iii), (t)(5)(iv), or (t)(5)(v) of this AD.
+
+(i) Airbus Service Bulletin A320-57-1118, dated September 5, 2002, 
+which is not incorporated by reference in this AD.
+(ii) Airbus Service Bulletin A320-57-1118, Revision 01, dated August 
+28, 2003, which is not incorporated by reference in this AD.
+(iii) Airbus Service Bulletin A320-57-1118, Revision 02, dated 
+August 2, 2006, which is not incorporated by reference in this AD.
+(iv) Airbus Service Bulletin A320-57-1118, Revision 03, dated April 
+23, 2007, which is not incorporated by reference in this AD.
+(v) Airbus Mandatory Service Bulletin A320-57-1118, Revision 04, 
+dated June 4, 2008, which is not incorporated by reference in this 
+AD.
+
+(u) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Sanjay 
+Ralhan, Aerospace Engineer, International Branch, ANM-116, Transport 
+Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, WA 98057-
+3356; telephone 425-227-1405; fax 425-227-1149. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office. The 
+AMOC approval letter must specifically reference this AD. AMOCs 
+approved previously in accordance with AD 2006-11-04, Amendment 39-
+14608 (71 FR 29578, May 23, 2006); and AD 2008-08-04, Amendment 39-
+15456 (73 FR 19975, April 14, 2008); are approved as AMOCs for the 
+corresponding provisions of this AD.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to ensure the product 
+is airworthy before it is returned to service.
+
+(v) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2012-0032, dated February 24, 
+2012, for related information. You may examine the MCAI in the AD 
+docket on the Internet at http://www.regulations.gov/#!documentDetail;D=FAA-2011-1253-0002.
+    (2) Service information identified in this AD that is not 
+incorporated by reference in this AD may be obtained at the 
+addresses specified in paragraphs (w)(5) and (w)(6) of this AD.
+
+(w) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use the following service information to do the 
+actions required by this AD, unless the AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+May 2, 2014.
+
+(i) Airbus Mandatory Service Bulletin A320-57-1118, Revision 05, 
+dated July 23, 2012.
+(ii) Airbus Mandatory Service Bulletin A320-57A1166, Revision 01, 
+dated October 19, 2011.
+(iii) Airbus Service Bulletin A320-57-1168, dated November 7, 2011.
+
+[[Page 17422]]
+
+(iv) Task 57-29-03-270-801-A-01, Gear Rib Forward Lug Attachment for 
+the Main Gear Before Modification 32025J2211, of Subject 57-29-03, 
+Inspection of the Gear Rib Forward and Aft Lug Attachment for the 
+Main Gear, of Chapter 57, Wings, of the Airbus A318/A319/A320/A321 
+Nondestructive Testing Manual, Revision 89, dated August 1, 2011.
+(v) Task 57-29-04-270-801-A-01, Gear Rib Forward Lug Attachment for 
+the Main Gear Before Modification 32025J2211, of Subject 57-29-04, 
+Inspection of the Gear Rib Forward and Aft Lug Attachment for the 
+Main Gear, of Chapter 57, Wings, of the Airbus A318/A319/A320/A321 
+Nondestructive Testing Manual, Revision 89, dated August 1, 2011.
+
+    (4) The following service information was approved for IBR on 
+May 19, 2008 (73 FR 19975, April 14, 2008):
+    (i) Airbus Service Bulletin A320-57-1138, Revision 01, dated 
+October 27, 2006.
+    (ii) Reserved.
+    (5) For Airbus service information identified in this AD, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 44 51; email: [email protected]; 
+Internet http://www.airbus.com.
+    (6) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+
+    Issued in Renton, Washington, on December 26, 2013.
+John P. Piccola,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-04954 Filed 3-27-14; 8:45 am]
+BILLING CODE 4910-13-P

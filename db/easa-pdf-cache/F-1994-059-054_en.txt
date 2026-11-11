@@ -1,0 +1,12 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 94-059-054(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A320 Aircraft Thrust reverser check valve This
+
+Airworthiness Directive applies to AIRBUS INDUSTRIE A320 aircraft, all models, without AIRBUS INDUSTRIE modification 22537 or without AIRBUS INDUSTRIE Service Bulletin A320-29-1048 R1. In order to prevent a possible pressurization of the HCU (Hydraulic Control Unit) in case of the unlikely jamming in closed position of the non-return valve installed on the thrust reverser aircraft hydraulic return line, the following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive: - Before December 31, 1994, unless already accomplished, replace for each engine : . the aircraft hydraulic non return valve (CFMI engines) . the aircraft hydraulic by-passable non return valve (IAE engines) in compliance with instructions given in AIRBUS INDUSTRIE Service Bulletin A320-29-1048 R1. No further actions are required after accomplishment of either this
+
+Airworthiness Directive or AIRBUS INDUSTRIE Service Bulletin A320-29-1048 R1 (or any further approved revision). Ref. : AIRBUS INDUSTRIE Service Bulletin A320-29-1048 R1 (or any further approved revision) EFFECTIVE DATE : MARCH 26, 1994 n/C AIRBUS INDUSTRIE March 16, 1994 94-059-054(B) A320 Aircraft

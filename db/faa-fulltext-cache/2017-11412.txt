@@ -1,0 +1,413 @@
+[Federal Register Volume 82, Number 106 (Monday, June 5, 2017)]
+[Rules and Regulations]
+[Pages 25723-25726]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-11412]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2014-0363; Directorate Identifier 2014-NE-08-AD; 
+Amendment 39-18887; AD 2017-10-13]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce plc Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding airworthiness directive (AD) 2015-17-19 for 
+all Rolls-Royce plc (RR) RB211 Trent 768-60, 772-60, and 772B-60 
+turbofan engines. AD 2015-17-19 required inspection of the fan case 
+low-pressure (LP) fuel tubes and associated clips and the fuel oil heat 
+exchanger (FOHE) mounts and associated hardware. This AD requires an 
+engine modification, which terminates the repetitive inspections. This 
+AD was prompted by fractures on the LP fuel return tube at mid-span 
+locations that were found with resulting fuel leaks. We are issuing 
+this AD to correct the unsafe condition on these products.
+
+DATES: This AD is effective July 10, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of July 10, 
+2017.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Rolls-Royce plc, Corporate Communications, P.O. Box 31, Derby, 
+England, DE248BJ; phone: 011-44-1332-242424; fax: 011-44-1332-249936; 
+email: http://www.rolls-royce.com/contact/civil_team.jsp; Web site: 
+https://www.aeromanager.com. You may view this service information at 
+the FAA, Engine & Propeller Directorate, 1200 District Avenue, 
+Burlington, MA. For information on the availability of this material at 
+the FAA, call 781-238-7125. It is also available on the Internet at 
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2014-0363.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2014-
+0363; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the mandatory continuing airworthiness information, 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (phone: 800-647-5527) is Document 
+Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Wego Wang, Aerospace Engineer, Engine 
+Certification Office, FAA, Engine & Propeller Directorate, 1200 
+District Avenue, Burlington, MA 01803; phone:
+
+[[Page 25724]]
+
+781-238-7134; fax: 781-238-7199; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2015-17-19, Amendment 39-18252 (80 FR 55232, 
+September 15, 2015), (``AD 2015-17-19''). AD 2015-17-19 applied to the 
+specified products. The NPRM published in the Federal Register on 
+December 1, 2016 (81 FR 86630). The NPRM proposed to retain the 
+requirements of AD 2015-17-19, and require an engine modification, 
+which terminates the repetitive inspections.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comment received.
+
+Request To Delay Issuance
+
+    American Airlines (AA) requested a delay of the issuance of this AD 
+until the issues related to RR Alert Service Bulletin (ASB) RB.211-73-
+AJ366, Initial Issue and Supplement, dated May 3, 2016, are resolved. 
+AA is concerned that the difficulty of incorporating RR ASB RB.211-73-
+AJ366 might put an airliner at risk of hydraulic fluid loss and that 
+the production output of RR might not meet the demand of required 
+replacements in response to an anticipated aircraft-level AD that would 
+mandate the replacement of single-welded dampers with double-welded 
+dampers.
+    We disagree. We have determined that there are currently no issues 
+with ASB RB.211-73-AJ366, Initial Issue and Supplement, dated May 3, 
+2016. We have also determined that complying with ASB RB.211-73-AJ366, 
+Initial Issue and Supplement, dated May 3, 2016, will not increase the 
+risk of hydraulic fluid loss. Additionally, RR has determined that it 
+has the capacity to meet the demand for replacement parts. We did not 
+change this AD.
+
+Conclusion
+
+    We reviewed the available data, including the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD as proposed.
+
+Related Service Information Under 1 CFR Part 51
+
+    RR has issued Alert Non-Modification Service Bulletin (NMSB) 
+RB.211-73-AH522, Revision 4, dated January 18, 2016; Alert NMSB RB.211-
+73-AH837, Revision 1, dated November 6, 2015; and ASB RB.211-73-AJ366, 
+Initial Issue and Supplement, dated May 3, 2016. Alert NMSB RB.211-73-
+AH522, Revision 4, dated January 18, 2016 describes procedures for 
+inspecting and, if necessary, replacing worn rubber sections of the P-
+clip. Alert NMSB RB.211-73-AH837, Revision 1, dated November 6, 2015 
+describes procedures for inspecting and, if necessary, replacing the P-
+clip attaching bracket, supporting hardware, and LP fuel tube. ASB 
+RB.211-73-AJ366, Initial Issue and Supplement, dated May 3, 2016 
+describes procedures for modification of the routing of fuel, oil, and 
+hydraulic tube assemblies. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Other Related Service Information
+
+    RR has issued Service Bulletin RB.211-73-F343, Revision 4, dated 
+May 26, 2011. This service information describes procedures for 
+replacing the fuel tube assemblies and supporting hardware.
+
+Costs of Compliance
+
+    We estimate that this AD affects 108 engines installed on airplanes 
+of U.S. registry. We also estimate that it would take about 6 hours per 
+engine to perform the inspections in this AD. The average labor rate is 
+$85 per hour. We also estimate that 54 of the engines will fail the 
+inspections required by this AD. Replacement parts cost about $4,031 
+per engine.
+    We also estimate that it would take about 50 hours per engine to 
+modify each engine. The modification would cost about $150,000 per 
+engine. Based on these figures, we estimate the cost of this AD on U.S. 
+operators to be $16,931,754.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, Section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701, ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska to the extent 
+that it justifies making a regulatory distinction, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing airworthiness directive (AD) 
+AD 2015-17-19, Amendment 39-18252 (80 FR 55232, September 15, 2015) and 
+adding the following new AD:
+
+2017-10-13 Rolls-Royce plc: Amendment 39-18887; Docket No. FAA-2014-
+0363; Directorate Identifier 2014-NE-08-AD.
+
+(a) Effective Date
+
+    This AD is effective July 10, 2017.
+
+(b) Affected ADs
+
+    This AD supersedes AD 2015-17-19, Amendment 39-18252 (80 FR 
+55232, September 15, 2015), (``AD 2015-17-19'').
+
+(c) Applicability
+
+    This AD applies to all Rolls-Royce plc (RR) RB211 Trent 768-60, 
+772-60, and 772B-60
+
+[[Page 25725]]
+
+turbofan engines, if fitted with fuel tube, part number (P/N) 
+FW53576, which was incorporated through RR production modification 
+73-F343 or which were modified in service in accordance with RR 
+Service Bulletin (SB) RB.211-73-F343, Revision 4, dated May 26, 
+2011.
+
+(d) Unsafe Condition
+
+    This AD was prompted by fractures found on the low-pressure (LP) 
+fuel return tube at mid span locations with resulting fuel leaks. We 
+are issuing this AD to prevent failure of the fan case LP fuel tube, 
+which could lead to an in-flight engine shutdown, loss of thrust 
+control, and damage to the airplane.
+
+(e) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+    (1) Within 800 flight hours (FH) after October 20, 2015 (the 
+effective date of AD 2015-17-19), or prior to further flight, 
+whichever occurs later, and thereafter at intervals not to exceed 
+800 FH, inspect the clip at the uppermost fan case LP fuel tube clip 
+position, CP4881, and support bracket, P/N FW26692. Use 
+Accomplishment Instructions, paragraph 3.A, of RR Alert Non-
+Modification Service Bulletin (NMSB) RB.211-73-AH837, Revision 1, 
+dated November 6, 2015, or paragraph 3.A. or 3.B. of RR Alert NMSB 
+RB.211-73-AH522, Revision 4, dated January 18, 2016, to do the 
+inspection.
+    (i) If the clip at the uppermost clip position, CP4881, fails 
+inspection, before further flight, replace the clip with a part 
+eligible for installation and inspect the fan case LP fuel tube, P/N 
+FW53576, for fretting, and clips for cracks or failure, according to 
+Accomplishment Instructions, paragraph 3.A. of RR Alert NMSB RB.211-
+73-AH837, Revision 1, dated November 6, 2015, or paragraph 3.A. or 
+3.B. of RR Alert NMSB RB.211-73-AH522, Revision 4, dated January 18, 
+2016.
+    (ii) If the support bracket, P/N FW26692, fails inspection, 
+before further flight, replace the bracket with a part eligible for 
+installation and inspect the fan case LP fuel tube, P/N FW53576, and 
+clips for cracks or failure, according to Accomplishment 
+Instructions, paragraph 3.A. of RR Alert NMSB RB.211-73-AH837, 
+Revision 1, dated November 6, 2015, or paragraph 3.A. or 3.B. of RR 
+Alert NMSB RB.211-73-AH522, Revision 4, dated January 18, 2016.
+    (2) Within 4,000 FH since new or 800 FH after October 20, 2015 
+(the effective date of AD 2015-17-19), or prior to further flight, 
+whichever occurs later, and thereafter at intervals not to exceed 
+4,000 FH, inspect the fan case LP fuel tube, P/N FW53576, and clips, 
+and the fuel oil heat exchanger (FOHE) mounts and hardware, for 
+damage, wear, or fretting. Use paragraph 3.A. or 3.B., 
+Accomplishment Instructions, of RR Alert NMSB RB.211-73-AH522, 
+Revision 4, dated January 18, 2016, to do the inspection.
+    (i) If the fan case LP fuel tube, P/N FW53576, fails inspection, 
+before further flight, replace the fuel tube and clips with parts 
+eligible for installation.
+    (ii) If any FOHE mount or hardware shows signs of damage, wear, 
+or fretting, before further flight, replace the damaged part with a 
+part eligible for installation.
+    (3) At each shop visit after the effective date of this AD, 
+inspect the fan case LP fuel tubes, P/Ns FW26589, FW36335, FW26587, 
+FW53577, and FW53576, and clips, and the FOHE mounts and hardware, 
+for damage, wear, or fretting. Use paragraphs 3.B.(1) and 3.B.(2) of 
+RR Alert NMSB RB.211-73-AH522, Revision 4, dated January 18, 2016, 
+to do the inspection.
+    (i) If any fan case LP fuel tube fails inspection, before 
+further flight, replace the fuel tube and clips with parts eligible 
+for installation.
+    (ii) If any FOHE mount or hardware shows signs of damage, wear, 
+or fretting, before further flight, replace the damaged part with a 
+part eligible for installation.
+    (4) If you replace any fan case LP fuel tube, clip, FOHE mount, 
+or hardware as a result of the inspections in paragraphs (e)(1), 
+(2), or (3) of this AD, you must still continue to perform the 
+repetitive inspections specified in paragraphs (e)(1), (2), and (3) 
+of this AD, until you comply with paragraph (e)(6) of this AD.
+    (5) No reports requested in any of the Alert NMSBs that are 
+referenced in paragraphs (e)(1), (2), and (3) of this AD are 
+required by this AD.
+    (6) During the next shop visit after the effective date of this 
+AD, modify the engine in accordance with the Accomplishment 
+Instructions, paragraphs (B) and (C), Section 3, of RR Alert Service 
+Bulletin (ASB) RB.211-73-AJ366, Initial Issue and Supplement, dated 
+May 3, 2016.
+    (7) After the effective date of this AD, do not install an M07 
+module, unless it is modified in accordance with the Accomplishment 
+Instructions, paragraphs (B) and (C), Section 3, of RR ASB RB.211-
+73-AJ366, Initial Issue and Supplement, dated May 3, 2016.
+
+(f) Credit for Previous Actions
+
+    If, before the effective date of this AD, you performed the 
+inspections and corrective actions required by paragraph (e) of this 
+AD using RR NMSB RB.211-73-G848, Revision 3, dated June 12, 2014; or 
+RR Alert NMSB RB.211-73-AH837, Revision 1, dated November 6, 2015; 
+or paragraph 3.A. or 3.B. of RR Alert NMSB RB.211-73-AH522, Revision 
+4, dated January 18, 2016; or any earlier version of those NMSBs, 
+you met the inspection requirements in paragraph (e) of this AD.
+
+(g) Mandatory Terminating Action
+
+    Modification of an engine, as required by paragraph (e)(6) of 
+this AD, constitutes terminating action for the repetitive 
+inspections required by paragraphs (e)(1), (2), (3), and (4) of this 
+AD.
+
+(h) Definitions
+
+    For the purposes of this AD:
+    (1) An ``engine shop visit'' is the induction of an engine into 
+the shop for maintenance involving the separation of pairs of major 
+mating engine flanges, except that the separation of engine flanges 
+solely for the purposes of transportation without subsequent engine 
+maintenance is not an engine shop visit.
+    (2) The fan case LP fuel tubes and clips, and the FOHE mounts 
+and hardware, are eligible for installation if they have passed the 
+inspection requirements of paragraphs (e)(1), (2), and (3) of this 
+AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, Engine Certification Office, FAA, may approve AMOCs 
+to this AD. Use the procedures found in 14 CFR 39.19 to make your 
+request. You may email your request to: [email protected].
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Wego Wang, 
+Aerospace Engineer, Engine Certification Office, FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA 01803; 
+phone: 781-238-7134; fax: 781-238-7199; email: [email protected].
+    (2) Refer to MCAI European Aviation Safety Agency (EASA) AD 
+2016-0120, dated June 17, 2016, which supersedes EASA AD 2014-0243, 
+Revision 1, dated December 10, 2014 and Correction dated March 23, 
+2015, for more information. You may examine the MCAI in the AD 
+docket on the Internet at http://www.regulations.gov by searching 
+for and locating it in Docket No. FAA-2014-0363.
+    (3) RR SB RB.211-73-F343, Revision 4, dated May 26, 2011, which 
+is not incorporated by reference in this AD, can be obtained from 
+Rolls-Royce plc, using the contact information in paragraph (k)(3) 
+of this AD.
+    (5) You may view this service information at the FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA. For 
+information on the availability of this material at the FAA, call 
+781-238-7125.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (i) Rolls-Royce plc (RR) Alert Non-Modification Service Bulletin 
+(NMSB) RB.211-73-AH522, Revision 4, dated January 18, 2016.
+    (ii) RR Alert NMSB RB.211-73-AH837, Revision 1, dated November 
+6, 2015.
+    (iii) RR Alert Service Bulletin RB.211-73-AJ366, Initial Issue 
+and Supplement, dated May 3, 2016.
+    (3) For RR service information identified in this AD, contact 
+Rolls-Royce plc, Corporate Communications, P.O. Box 31, Derby, 
+England, DE248BJ; phone: 011-44-1332-242424; fax: 011-44-1332-
+249936; email: http://www.rolls-royce.com/contact/civil_team.jsp; 
+Web site: https://www.aeromanager.com.
+    (4) You may view this service information at FAA, Engine & 
+Propeller Directorate, 1200 District Avenue, Burlington, MA. For 
+information on the availability of this material at the FAA, call 
+781-238-7125.
+    (5) You may view this service information at the National 
+Archives and Records
+
+[[Page 25726]]
+
+Administration (NARA). For information on the availability of this 
+material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Burlington, Massachusetts, on May 9, 2017.
+Carlos A. Pestana,
+Acting Assistant Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2017-11412 Filed 6-2-17; 8:45 am]
+ BILLING CODE 4910-13-P

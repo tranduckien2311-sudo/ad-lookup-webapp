@@ -1,0 +1,456 @@
+[Federal Register Volume 86, Number 34 (Tuesday, February 23, 2021)]
+[Rules and Regulations]
+[Pages 10767-10770]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-03566]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0674; Product Identifier 2020-NM-070-AD; Amendment 
+39-21382; AD 2021-01-06]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is adopting a new airworthiness directive (AD) for 
+certain Airbus SAS Model A330-200 and A330-300 series airplanes, and 
+all Model A340-200 and A340-300 series airplanes. This AD was prompted 
+by reports of hydraulic system failure due to fatigue failure of the 
+screws attaching the manual valve to the ground service manifold (GSM). 
+This AD requires, for certain GSMs, repetitive replacement of the 
+hydraulic system GSM manual valve attachment screws having certain part 
+numbers; and, for certain other GSMs with certain screws installed, 
+replacement of those screws, as specified in a European Union Aviation 
+Safety Agency (EASA) AD, which is incorporated by reference. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective March 30, 2021.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of March 30, 
+2021.
+
+ADDRESSES: For EASA material incorporated by reference (IBR) in this 
+AD, contact the EASA, Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; 
+telephone +49 221 8999 000; email [email protected]; internet 
+www.easa.europa.eu. You may find this IBR material on the EASA website 
+at https://ad.easa.europa.eu. For Airbus material incorporated by 
+reference in this AD, contact Airbus SAS, Airworthiness Office--EAL, 
+Rond-Point Emile Dewoitine No: 2, 31700 Blagnac Cedex, France; 
+telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; email 
+[email protected]; internet http://www.airbus.com. You 
+may view this IBR material at the FAA, Airworthiness Products Section, 
+Operational Safety Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 206-
+231-3195. It is also available in the AD docket on the internet at 
+https://www.regulations.gov by searching for and locating Docket No. 
+FAA-2020-0674.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0674; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3229; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0093, dated April 24, 2020 
+(EASA AD 2020-0093) (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for certain Airbus SAS Model A330-200 and A330-300 series 
+airplanes, and all Model A340-200 and A340-300 series airplanes.
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 by adding an AD that would apply to certain Airbus SAS 
+Model A330-200 and A330-300 series airplanes, and all Model A340-200 
+and A340-300 series airplanes. The NPRM published in the Federal 
+Register on July 31, 2020 (85 FR 46012). The NPRM was prompted by 
+reports of hydraulic system failure due to fatigue failure of the 
+screws attaching the manual valve to the GSM. The NPRM proposed to 
+require, for certain GSMs, repetitive replacement of the hydraulic 
+system GSM manual valve attachment screws having certain part numbers; 
+and, for certain other GSMs with certain screws installed, replacement 
+of those screws, as specified in an EASA AD.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM
+
+[[Page 10768]]
+
+and the FAA's response to each comment.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA) stated its 
+support for the NPRM.
+
+Request To Include Applicability Exception
+
+    Delta Air Lines (Delta) asked that the FAA include an exception 
+statement in paragraph (c) of the proposed AD related to Airbus 
+modification 58345. Delta stated that EASA AD 2020-0093 includes the 
+statement ``except those on which Airbus modification (mod) 58345 has 
+been embodied in production.'' Delta added that this would remove the 
+need for operators of post mod 58345 airplanes to demonstrate 
+compliance with an AD for which compliance is impossible.
+    The FAA does not agree with the commenter's request. Paragraph (c) 
+of this AD identifies the affected airplane models and specifies that 
+this AD is applicable to the airplanes identified in EASA AD 2020-0093. 
+Because the applicability identified in EASA AD 2020-0093 excludes 
+airplanes on which Airbus modification 58345 is embodied in production, 
+it is not necessary to restate that exclusion in this AD. EASA AD 2020-
+0093 is incorporated by reference in its entirety, which includes the 
+applicability therein. Therefore, the FAA has not changed this AD in 
+this regard.
+
+Request To Change AOT Reference
+
+    Delta asked that the ``in accordance with'' statement in paragraph 
+(g) of the proposed AD be replaced by ``refer to'' Airbus Alert 
+Operators Transmission (AOT) A29L010-19, Revision 01, dated February 
+18, 2020, paragraphs 4.4.2.1.(8), 4.4.2.1.(10), 4.4.2.2.(9) and 
+4.4.2.2.(11). Delta stated that the EASA AD mandates accomplishment of 
+the referenced AOT, and the AOT includes the following note: ``NOTE 2: 
+The accomplishment instructions of this AOT include procedures given in 
+other documents or in other sections of the AOT. When the words 'refer 
+to' are used and the operator has a procedure accepted by the local 
+authority he belongs to, the accepted alternative procedure can be 
+used. When the words `in accordance with' are used then the given 
+procedure must be followed.'' Delta added that paragraphs 4.4.2.1.(8) 
+and 4.4.2.2.(9) of the AOT use both ``refer to'' and ``in accordance 
+with,'' and paragraphs 4.4.2.1.(10) and 4.4.2.2.(11) of the AOT use 
+``in accordance with'' when referencing the Airplane Maintenance Manual 
+(AMM) wirelocking procedures. Delta further noted that in all cases, 
+the AOT refers to standard AMM procedures, testing and wirelocking. As 
+standard procedures, Delta recommended that the ``in accordance with'' 
+statement be replaced by ``refer to'' for paragraphs 4.4.2.1.(8), 
+4.4.2.1.(10), 4.4.2.2.(9) and 4.4.2.2.(11) of the AOT.
+    The FAA agrees with the commenter's request for further 
+clarification. It should be clear to operators whether specific 
+procedures are mandatory. Paragraph (h)(3) of the proposed AD specified 
+compliance with ``paragraph 4.4.2., Accomplishment Instructions, of the 
+AOT'' only. This means that these actions must be completed in 
+accordance with certain procedures specified in the Airbus AMM tasks 
+defined in Airbus AOT A29L010-19, Revision 01, dated February 18, 2020. 
+The FAA has clarified paragraph (h)(3) of this AD as follows: ``Where 
+EASA AD 2020-0093 specifies to comply with ``the instructions of the 
+AOT,'' and ``the AOT'' specifies that ``the accomplishment instructions 
+marked as Required for Compliance (RC) must be done'' this AD requires 
+compliance with ``paragraph 4.4.2., Accomplishment Instructions, of the 
+AOT [Airbus Alert Operators Transmission A29L010-19, Revision 01, dated 
+February 18, 2020] only; except paragraphs 4.4.2.1(1) and 4.4.2.2(1) 
+which specify gaining access to the ground service manifold and 
+preparation for update and may be accomplished in accordance with the 
+operator's maintenance or inspection program.''
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this AD with the change described previously, and 
+minor editorial changes. The FAA has determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that this change will not increase the 
+economic burden on any operator or increase the scope of this AD.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2020-0093 describes procedures for replacement of the 
+hydraulic system GSM manual valve attachment screws. For GSMs with part 
+number (P/N) 70902-3 or P/N 70902-4 installed with screws having P/N 
+NAS1101-3H8, EASA AD 2020-0093 describes procedures for repetitive 
+replacement of those screws with new screws having P/N NAS1101-3H8. For 
+GSMs with P/N 70902-5 installed with screws having P/N NAS1101-3H8, 
+EASA AD 2020-0093 describes procedures for replacement of those screws 
+with new bolts having P/N EWB0420D-3H-3 or four new screws having P/N 
+NAS1101-3H8; if new screws are installed, EASA AD 2020-0093 describes 
+procedures for replacing them with new bolts having P/N EWB0420D-3H-3 
+before the screws exceed 10,000 flight cycles since installation on an 
+airplane. EASA AD 2020-0093 also describes an optional terminating 
+modification (replacement of all affected GSMs), which would terminate 
+the repetitive replacements of the attachment screws.
+    Airbus AOT A29L010-19, Revision 01, dated February 18, 2020, 
+describes procedures for initial and repetitive replacement of certain 
+GSM manual-valve screws and a one-time visual inspection to determine 
+if certain GSM manual-valve screws are installed instead of the correct 
+bolts.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 107 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+
+[[Page 10769]]
+
+
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+            Labor cost                Parts cost           Cost per product           Cost on U.S.  operators
+----------------------------------------------------------------------------------------------------------------
+7 work-hours x $85 per hour = $595            * $0  $595 per cycle...............  $63,665 per cycle.
+ per cycle.
+----------------------------------------------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable the agency to provide parts cost estimates for the
+  required actions specified in this AD.
+
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+10 work-hours x $85 per hour = $850...            * $0             $850
+------------------------------------------------------------------------
+* The FAA has received no definitive data that would enable the agency
+  to provide parts cost estimates for the optional actions specified in
+  this AD.
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. The FAA does not control warranty coverage for 
+affected individuals. As a result, the FAA has included all known costs 
+in the cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+2021-01-06 Airbus SAS: Amendment 39-21382; Docket No. FAA-2020-0674; 
+Product Identifier 2020-NM-070-AD.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective March 30, 2021.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes specified in paragraphs 
+(c)(1) through (4) of this AD, certificated in any category, as 
+identified in European Union Aviation Safety Agency (EASA) AD 2020-
+0093, dated April 24, 2020 (EASA AD 2020-0093).
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (3) Model A340-211, -212, and -213 airplanes.
+    (4) Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 29, Hydraulic 
+power.
+
+(e) Reason
+
+    This AD was prompted by reports of hydraulic system failure due 
+to fatigue failure of the screws attaching the manual valve to the 
+ground service manifold (GSM). The FAA is issuing this AD to address 
+the failure of hydraulic system manual valve attachment screws. This 
+condition, if not addressed, could lead to the loss of one or more 
+hydraulic systems and damage to surrounding structure and 
+components, possibly resulting in reduced control of the airplane, 
+or injury to maintenance staff working in the main landing gear bay.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2020-0093.
+
+(h) Exceptions to EASA AD 2020-0093
+
+    (1) Where EASA AD 2020-0093 refers to its effective date or to 
+``the effective date of EASA AD 2019-0314,'' this AD requires using 
+the effective date of this AD.
+    (2) The ``Remarks'' section of EASA AD 2020-0093 does not apply 
+to this AD.
+    (3) Where EASA AD 2020-0093 specifies to comply with ``the 
+instructions of the AOT [Alert Operators Transmission],'' and ``the 
+AOT'' specifies that ``the accomplishment instructions marked as 
+Required for Compliance (RC) must be done,'' this AD requires 
+compliance with ``paragraph 4.4.2., Accomplishment Instructions, of 
+the AOT [Airbus Alert Operators Transmission A29L010-19, Revision 
+01, dated February 18, 2020]'' only; except paragraphs 4.4.2.1(1) 
+and 4.4.2.2(1), which specify gaining access to the ground service 
+manifold and preparation for update, may be accomplished in 
+accordance with the operator's maintenance or inspection program.
+
+[[Page 10770]]
+
+(i) No Reporting Requirement
+
+    Although the service information referenced in EASA AD 2020-0093 
+specifies to submit certain information to the manufacturer, this AD 
+does not include that requirement.
+
+(j) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the Large Aircraft Section, International Validation 
+Branch, send it to the attention of the person identified in 
+paragraph (k) of this AD. Information may be emailed to: [email protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, Large Aircraft 
+Section, International Validation Branch, FAA; or EASA; or Airbus 
+SAS's EASA Design Organization Approval (DOA). If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): For any service information 
+referenced in EASA AD 2020-0093 that contains RC procedures and 
+tests: Except as required by paragraphs (h)(3) and (j)(2) of this 
+AD, RC procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(k) Related Information
+
+    For more information about this AD, contact Vladimir Ulyanov, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3229; email [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0093, 
+dated April 24, 2020.
+    (ii) Airbus Alert Operators Transmission A29L010-19, Revision 
+01, dated February 18, 2020.
+    (3) For EASA AD 2020-0093, contact the EASA, Konrad-Adenauer-
+Ufer 3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this 
+EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (4) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 
+36 96; fax +33 5 61 93 45 80; email [email protected]; internet http://www.airbus.com.
+    (5) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2020-0674.
+    (6) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on December 30, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-03566 Filed 2-22-21; 8:45 am]
+BILLING CODE 4910-13-P

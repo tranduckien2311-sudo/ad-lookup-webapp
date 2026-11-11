@@ -1,0 +1,500 @@
+[Federal Register Volume 85, Number 200 (Thursday, October 15, 2020)]
+[Rules and Regulations]
+[Pages 65197-65200]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-22760]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2020-0457; Product Identifier 2020-NM-039-AD; Amendment 
+39-21261; AD 2020-20-05]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2018-25-02 
+and AD 2019-23-01, which applied to certain Airbus SAS Model A318 
+series airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes; Model A320-211, -212, -214, -216, -231, -232, -233, 
+-251N, -252N, and -271N airplanes; and Model A321 series airplanes. 
+Those ADs require revising the existing maintenance or inspection 
+program, as applicable, to incorporate new or more restrictive 
+maintenance requirements and/or airworthiness limitations. This AD 
+requires revising the existing maintenance or inspection program, as 
+applicable, to incorporate new or more restrictive airworthiness 
+limitations; as specified in a European Union Aviation Safety Agency 
+(EASA) AD, which is incorporated by reference. This AD was prompted by 
+a determination that new or more restrictive airworthiness limitations 
+are necessary and models need to be added to the applicability. The FAA 
+is issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective November 19, 2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 19, 
+2020.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+January 9, 2020 (84 FR 66579, December 5, 2019).
+
+ADDRESSES: For the EASA material identified in this AD that will be 
+incorporated by reference (IBR), contact the EASA, Konrad-Adenauer-Ufer 
+3, 50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email protected]; internet www.easa.europa.eu. You may find this IBR 
+material on the EASA website at https://ad.easa.europa.eu.
+    For the Airbus material that is incorporated by reference, contact 
+Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile Dewoitine No: 
+2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; internet http://www.airbus.com.
+    You may view this IBR material at the FAA, Airworthiness Products 
+Section, Operational Safety Branch, 2200 South 216th St., Des Moines, 
+WA. For information on the availability of this material at the FAA, 
+call 206-231-3195. It is also available in the AD docket on the 
+internet at https://www.regulations.gov by searching for and locating 
+Docket No. FAA-2020-0457.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2020-
+0457; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+Large Aircraft Section, International Validation Branch, FAA, 2200 
+South 216th St., Des Moines, WA 98198; telephone and fax 206-231-3223; 
+email [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2020-0036R1, dated June 24, 2020 
+(``EASA AD 2020-0036R1'') (also referred to as the Mandatory Continuing 
+Airworthiness Information, or ``the MCAI''), to correct an unsafe 
+condition for all Airbus SAS Model A318 series airplanes; Model A319-
+111, -112, -113, -114, -115, -131, -132, -133, -151N, and -153N 
+airplanes; Model A320-211, -212, -214, -215, -216, -231, -232, -233, -
+251N, -252N, -253N, -271N, -272N, and -273N airplanes; and Model A321 
+series airplanes. EASA AD 2020-0036R1 revised EASA AD 2020-0036, dated 
+February 26, 2020 (``EASA AD 2020-0036'') (which the FAA referred to as 
+the appropriate source of service information for accomplishing the 
+actions specified in the notice of proposed rulemaking (NPRM)), and 
+superseded EASA AD 2018-0288 (which corresponds to FAA AD 2019-23-01 
+(AD 2019-23-01, Amendment 39-19794 (84 FR 66579, December 5, 2019) 
+(``AD 2019-23-01'')). Model A320-215 airplanes are not certificated by 
+the FAA and are not included on the U.S. type certificate data sheet; 
+this AD therefore does not include those airplanes in the 
+applicability.
+    The FAA issued a NPRM to amend 14 CFR part 39 to supersede AD 2019-
+23-01, for certain Airbus SAS Model A318 series airplanes; A319-111, -
+112, -113, -114, -115, -131, -132, and -133 airplanes; A320-211, -212, 
+-214, -216, -231, -232, -233, -251N, -252N, and -271N airplanes; and 
+A321 series airplanes. AD 2019-23-01 required revising the existing 
+maintenance or inspection program, as applicable, to incorporate new or 
+more restrictive airworthiness limitations. AD 2019-23-01 required 
+airworthiness limitations that are newer or more restrictive than those 
+specified in AD 2018-25-02, Amendment 39-19513 (83 FR 62690, December 
+6, 2018) (``AD 2018-25-02''). AD 2019-23-01 specified that 
+accomplishing the revision required by paragraph (i) of AD 2019-23-01 
+terminated all requirements of AD 2018-25-02. The NPRM published in the 
+Federal Register on June 1, 2020 (85 FR 33046). The NPRM was prompted 
+by a determination that new or more restrictive airworthiness 
+limitations are necessary and models need to be added
+
+[[Page 65198]]
+
+to the applicability. The NPRM proposed to require revising the 
+existing maintenance or inspection program, as applicable, to 
+incorporate new or more restrictive airworthiness limitations.
+    The FAA is issuing this AD to address fatigue cracking, accidental 
+damage, or corrosion in principal structural elements, which could 
+result in reduced structural integrity of the airplane. See the MCAI 
+for additional background information.
+
+Comments
+
+    The FAA gave the public the opportunity to participate in 
+developing this final rule. The following presents the comments 
+received on the NPRM and the FAA's response to each comment.
+
+Request To Use Revised EASA AD
+
+    United Airlines (UAL) and American Airlines (AAL) supported the 
+NPRM and asked that the proposed AD refer to EASA AD 2020-0036R1 for 
+accomplishing the required actions (EASA AD 2020-0036, dated February 
+26, 2020, was referred to in the proposed AD). UAL stated that EASA AD 
+2020-0036R1 will allow operators to use current requirements and 
+prevent issuing a revised AD to require compliance with the revised 
+EASA AD. AAL also noted that operators should be allowed to use the 
+revised EASA AD.
+    The FAA agrees with the commenters' requests. EASA AD 2020-0036R1 
+does not substantively change the requirements of EASA AD 2020-0036. 
+Instead, EASA AD 2020-0036R1 adds credit for EASA AMOC approval 
+10071736 to EASA AD 2018-0288, and notes that Issue 02 of the ALS has 
+been released. The FAA has changed all references in this AD from EASA 
+AD 2020-0036 to EASA AD 2020-0036R1, added paragraph (l) to this AD to 
+provide credit for Rev 0, and changed subsequent paragraphs of this AD 
+accordingly.
+
+Request To Confirm Intent To Allow Use of Later ALS Revisions
+
+    Delta Air Lines (DAL) requested confirmation that the FAA intended 
+to allow the use of later ALS revisions to comply with the proposed AD. 
+The commenter noted that previous ADs required an alternative method of 
+compliance (AMOC) to use a later ALS revision.
+    The FAA confirms that it intends to allow the use of applicable 
+later ALS revisions to comply with the requirements of this AD. This AD 
+refers to EASA AD 2020-0036R1 as the appropriate source of service 
+information for accomplishing the required actions. EASA AD 2020-0036R1 
+includes the Ref. Publications section, which accepts the use of later 
+approved variations or revisions of the referenced ALS document for 
+compliance. Therefore, applicable later approved ALS revisions are 
+acceptable.
+
+Request To Allow AMOC Approval for Alternative Actions or Intervals 
+After Revision of Maintenance or Inspection Program
+
+    DAL requested that paragraph (k) of the proposed AD be changed to 
+also allow alternative actions and intervals after the maintenance and 
+inspection program has been revised, provided that the actions or 
+intervals are approved as an alternative method of compliance (AMOC) in 
+accordance with the procedures specified in paragraph (n)(1) of the 
+proposed AD. Delta provided no reason or justification for the request.
+    The FAA acknowledges the commenter's request and provides 
+clarification that, if applicable, requesting an AMOC is always an 
+option; therefore, it is not necessary to revise paragraph (k) of this 
+AD. This AD has not been changed regarding this request.
+
+Conclusion
+
+    The FAA reviewed the relevant data, considered the comments 
+received, and determined that air safety and the public interest 
+require adopting this final rule with the change described previously 
+and minor editorial changes. The FAA has determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+    The FAA also determined that these changes will not increase the 
+economic burden on any operator or increase the scope of this final 
+rule.
+
+Related IBR Material Under 1 CFR Part 51
+
+    EASA AD 2020-0036R1 describes new or more restrictive airworthiness 
+limitations for damage tolerance of airplane structures.
+    This AD also requires Airbus A318/A319/A320/A321 Airworthiness 
+Limitations Section (ALS) Part 2-Damage Tolerant Airworthiness 
+Limitation Items (DT-ALI), Revision 07, dated June 13, 2018, which the 
+Director of the Federal Register approved for incorporation by 
+reference as of January 9, 2020 (84 FR 66579, December 5, 2019).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,553 airplanes of U.S. 
+registry. The FAA estimates the following costs to comply with this AD:
+    The FAA estimates the total cost per operator for the retained 
+actions from AD 2019-23-01 to be $7,650 (90 work-hours x $85 per work-
+hour).
+    The FAA has determined that revising the existing maintenance or 
+inspection program takes an average of 90 work-hours per operator, 
+although the agency recognizes that this number may vary from operator 
+to operator. In the past, the agency has estimated that this action 
+takes 1 work-hour per airplane. Since operators incorporate maintenance 
+or inspection program changes for their affected fleet(s), the FAA has 
+determined that a per-operator estimate is more accurate than a per-
+airplane estimate. The FAA estimates the total cost per operator for 
+the new proposed actions to be $7,650 (90 work-hours x $85 per work-
+hour).
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+
+[[Page 65199]]
+
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2018-25-02, Amendment 39-19513 
+(83 FR 62690, December 6, 2018), and AD 2019-23-01, Amendment 39-19794 
+(84 FR 66579, December 5, 2019); and
+0
+b. Adding the following new AD:
+
+2020-20-05 Airbus SAS: Amendment 39-21261; Docket No. FAA-2020-0457; 
+Product Identifier 2020-NM-039-AD.
+
+(a) Effective Date
+
+    This AD is effective November 19, 2020.
+
+(b) Affected ADs
+
+    This AD replaces AD 2018-25-02, Amendment 39-19513 (83 FR 62690, 
+December 6, 2018) (``AD 2018-25-02''), and AD 2019-23-01, Amendment 
+39-19794 (84 FR 66579, December 5, 2019) (``AD 2019-23-01'').
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes identified in paragraphs 
+(c)(1) through (4) of this AD, certificated in any category, with an 
+original certificate of airworthiness or original export certificate 
+of airworthiness issued on or before October 11, 2019.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, and -153N airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, -
+252N, -253N, -271N, -272N, and -273N airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -251NX, -252N, -252NX, -253N, -253NX, -271N, -271NX, -272N, 
+and -272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Time Limits/
+Maintenance Checks.
+
+(e) Reason
+
+    This AD was prompted by a determination that new or more 
+restrictive airworthiness limitations are necessary. The FAA is 
+issuing this AD to address fatigue cracking, accidental damage, or 
+corrosion in principal structural elements, which could result in 
+reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Maintenance or Inspection Program Revision, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2019-23-01, with no changes. Accomplishing the maintenance or 
+inspection program revision required by paragraph (i) of this AD 
+terminates the requirements of this paragraph.
+    (1) For airplanes with an original certificate of airworthiness 
+or original export certificate of airworthiness issued on or before 
+June 13, 2018, except for Model A319-151N and -153N airplanes and 
+Model A320-253N, -272N, and -273N airplanes: Within 90 days after 
+January 9, 2020 (the effective date of AD 2019-23-01), revise the 
+existing maintenance or inspection program, as applicable, to 
+incorporate the information specified in Airbus A318/A319/A320/A321 
+Airworthiness Limitations Section (ALS) Part 2--Damage Tolerant 
+Airworthiness Limitation Items (DT-ALI), Revision 07, dated June 13, 
+2018.
+    (2) The initial compliance time for doing the tasks is at the 
+time specified in Airbus A318/A319/A320/A321 Airworthiness 
+Limitations Section (ALS) Part 2--Damage Tolerant Airworthiness 
+Limitation Items (DT-ALI), Revision 07, dated June 13, 2018, or 
+within 90 days after January 9, 2020, whichever occurs later.
+
+(h) Retained Restriction on Alternative Actions and Intervals With a 
+New Exception
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2019-23-01, with a new exception. Except as required by paragraph 
+(i) of this AD, after the maintenance or inspection program has been 
+revised as required by paragraph (g) of this AD, no alternative 
+actions (e.g., inspections) or intervals may be used unless the 
+actions or intervals are approved as an alternative method of 
+compliance (AMOC) in accordance with the procedures specified in 
+paragraph (m)(1) of this AD.
+
+(i) New Maintenance or Inspection Program Revision
+
+    Except as specified in paragraph (j) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2020-0036R1, dated June 24, 2020 (``EASA AD 2020-0036R1''). 
+Accomplishing the maintenance or inspection program revision 
+required by this paragraph terminates the requirements of paragraph 
+(g) of this AD.
+
+(j) Exceptions to EASA AD 2020-0036R1
+
+    (1) The requirements specified in paragraphs (1) and (2) of EASA 
+AD 2020-0036R1 do not apply to this AD.
+    (2) Paragraph (3) of EASA AD 2020-0036R1 specifies revising 
+``the AMP'' within 12 months after its effective date, but this AD 
+requires revising the existing maintenance or inspection program, as 
+applicable, to incorporate the ``tasks and associated thresholds and 
+intervals'' specified in paragraph (3) of EASA AD 2020-0036R1 within 
+90 days after the effective date of this AD.
+    (3) The initial compliance times for doing the tasks specified 
+in paragraph (3) of EASA AD 2020-0036R1 are at the applicable 
+``associated thresholds'' specified in paragraph (3) of EASA AD 
+2020-0036R1, or within 90 days after the effective date of this AD, 
+whichever occurs later.
+    (4) The provisions specified in paragraphs (4), (5), and (6) of 
+EASA AD 2020-0036R1 do not apply to this AD.
+    (5) The ``Remarks'' section of EASA AD 2020-0036R1 does not 
+apply to this AD.
+
+(k) New Provisions for Alternative Actions or Intervals
+
+    After the existing maintenance or inspection program has been 
+revised as required by paragraph (i) of this AD, no alternative 
+actions (e.g., inspections) or intervals are allowed unless they are 
+approved as specified in the provisions of the ``Ref. Publications'' 
+section of EASA AD 2020-0036R1.
+
+(l) Credit for Original EASA AD
+
+    This paragraph provides credit for actions required by paragraph 
+(i) of this AD, if those actions were performed before the effective 
+date of this AD using EASA AD 2020-0036, dated February 26, 2020.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Large Aircraft Section, International Validation Branch, FAA, has 
+the authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (n) of this AD. Information may 
+be emailed to: [email protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (ii) AMOCs approved previously for AD 2019-23-01 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2020-0036R1 that 
+are required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions
+
+[[Page 65200]]
+
+from a manufacturer, the instructions must be accomplished using a 
+method approved by the Manager, Large Aircraft Section, 
+International Validation Branch, FAA; or EASA; or Airbus SAS's EASA 
+Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(n) Related Information
+
+    For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, Large Aircraft Section, International Validation 
+Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; telephone 
+and fax 206-231-3223; email [email protected].
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+November 19, 2020.
+    (i) European Union Aviation Safety Agency (EASA) AD 2020-0036R1, 
+dated June 24, 2020.
+    (ii) [Reserved]
+    (4) The following service information was approved for IBR on 
+January 9, 2020 (84 FR 66579, December 5, 2019).
+    (i) Airbus A318/A319/A320/A321 Airworthiness Limitations Section 
+(ALS) Part 2--Damage Tolerant Airworthiness Limitation Items (DT-
+ALI), Revision 07, dated June 13, 2018.
+    (ii) [Reserved]
+    (5) For information about EASA AD 2020-0036R1, contact the EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email protected]; internet www.easa.europa.eu. You 
+may find this EASA AD on the EASA website at https://ad.easa.europa.eu.
+    (6) For information about the Airbus material that is 
+incorporated by reference, contact Airbus SAS, Airworthiness 
+Office--EIAS, Rond-Point Emile Dewoitine No: 2, 31700 Blagnac Cedex, 
+France; telephone +33 5 61 93 36 96; fax +33 5 61 93 44 51; email 
+[email protected]; internet http://www.airbus.com.
+    (7) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195. This material may be found in the AD 
+docket on the internet at https://www.regulations.gov by searching 
+for and locating Docket No. FAA-2020-0457.
+    (8) You may view this material that is incorporated by reference 
+at the National Archives and Records Administration (NARA). For 
+information on the availability of this material at NARA, email 
+[email protected], or go to: https://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on September 18, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-22760 Filed 10-14-20; 8:45 am]
+BILLING CODE 4910-13-P

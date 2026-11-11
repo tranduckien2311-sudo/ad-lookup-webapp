@@ -1,0 +1,508 @@
+[Federal Register Volume 83, Number 199 (Monday, October 15, 2018)]
+[Rules and Regulations]
+[Pages 51825-51829]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-21967]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0498; Product Identifier 2018-NM-013-AD; Amendment 
+39-19465; AD 2018-21-07]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for certain 
+Airbus SAS Model A330-200 Freighter, -200, and -300 series airplanes. 
+This AD was prompted by reports of Angle of Attack (AOA) blockages not 
+detected by upgraded flight control primary computer (FCPC) software 
+standards. This AD requires upgrading certain FCPCs, which terminates a 
+certain airplane flight manual revision for certain airplanes. We are 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective November 19, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 19, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 45 80; email [email protected]; 
+internet http://www.airbus.com. You may view this service information 
+at the FAA, Transport Standards Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0498.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0498; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to certain Airbus SAS Model 
+A330-200 Freighter, -200, and -300 series airplanes. The NPRM published 
+in the Federal Register on June 4, 2018 (83 FR 25595). The NPRM was 
+prompted by reports of AOA blockages not detected by upgraded FCPC 
+software standards. The NPRM proposed to require upgrading certain 
+FCPCs, which would terminate a certain airplane flight
+
+[[Page 51826]]
+
+manual revision for certain airplanes. We are issuing this AD to 
+address Alpha protection activation due to blocked AOA probes, which 
+could result in reduced controllability of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0246R1, dated April 6, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for certain Airbus SAS Model A330-200 
+Freighter, -200, and -300 series airplanes. The MCAI states:
+
+    In 2015, occurrences were reported of multiple Angle of Attack 
+(AOA) blockages. Investigation results indicated the need for AOA 
+monitoring in order to better detect cases of AOA blockage.
+    This condition, if not corrected, could, under specific 
+circumstances, lead to undue activation of the Alpha protection, 
+possibly resulting in reduced control of the aeroplane.
+    To address this potential unsafe condition, Airbus developed new 
+FCPC software standards for enhanced AOA monitoring and, 
+consequently, EASA issued AD 2015-0124 (later revised) [which 
+corresponds to FAA AD 2016-25-30, Amendment 39-18756, (82 FR 1175, 
+January 5, 2017) (``AD 2016-25-30'')] to require these software 
+standard upgrades.
+    Since EASA AD 2015-0124R3 was issued, it was identified that, 
+for some cases, AOA blockages were not detected by those FCPC 
+software standards. Consequently, new FCPC software standards, as 
+specified in Table 1 of this [EASA] AD, have been developed (Airbus 
+modification (mod) 206412, mod 206413 and mod 206414) to further 
+improve the detection of AOA blockage. Airbus issued Service 
+Bulletin (SB) A330-27-3222 and SB A330-27-3223 to implement these 
+mods on in-service aeroplanes. Consequently, EASA issued AD 2017-
+0246 to require a software standard upgrade of the three FCPCs, 
+either by modification or replacement.
+    Since that [EASA] AD was issued, it was determined that the 
+Aircraft Flight Manual (AFM) Emergency Procedure, as previously 
+required by EASA AD 2014-0267-E [which corresponds to FAA AD 2014-
+25-52, Amendment 39-18066, (80 FR 3161, January 22, 2015) (``AD 
+2014-25-52'')] can also be removed for other AOA sensors and FCPC 
+configurations. This [EASA] AD revises paragraph (2) accordingly, 
+also introducing Table 2 for that purpose.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0498.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Support for the NPRM
+
+    The Air Line Pilots Association, International (ALPA) expressed 
+support for the NPRM.
+
+Request To Change Applicability
+
+    Delta Air Lines (Delta) asked that we further restrict the 
+applicability identified in paragraph (c) of the proposed AD by 
+including the effectivity in the referenced service information. Delta 
+stated that operators should be held accountable only for airplanes on 
+which an airworthiness concern exists, and those airplanes correspond 
+to the effectivity of the referenced service information. Delta added 
+that if there are airplanes outside of this effectivity, operators will 
+incur costs to produce and maintain records for those airplanes, 
+regardless of whether or not there is an unsafe condition. Delta 
+asserted that the service information provides a list of production 
+airplanes that will be, or will have been, delivered with the affected 
+software.
+    We do agree to clarify the applicability. This AD is applicable to 
+airplanes equipped with certain FCPC and not only to specific airplane 
+manufacturer serial numbers (MSNs). For airplanes equipped with certain 
+FCPC, only those that are in a pre-mod configuration as specified in 
+paragraph (g) of this AD are required to do the upgrade specified in 
+paragraph (h) of this AD. Airplanes in a post-mod configuration are not 
+required to do an upgrade; however, they must comply with paragraph (k) 
+of this AD. Paragraph (k) of this AD prohibits the installation of any 
+software or hardware of a standard earlier than one listed in table 1 
+to paragraphs (h) and (k) of this AD on all airplanes identified in 
+paragraph (c) of this AD. In order for this installation prohibition to 
+be effective, airplanes in a post-mod configuration must be included in 
+the applicability. We are also matching the applicability in the MCAI. 
+Therefore, we have not changed this AD in this regard.
+
+Request To Remove Reference to Group 2 Airplanes
+
+    Delta asked that we remove references to Group 2 airplanes from 
+paragraphs (g) and (k) of the proposed AD, ``Definition of Groups'' and 
+``Parts Installation Prohibition,'' respectively. Delta stated that 
+Group 1 airplanes are those in pre-mod 206412, 206413, or 206414 
+configuration, as applicable; Group 2 airplanes are those in post-mod 
+206412, 206413, or 206414 configuration, as applicable. Delta added 
+that Group 2 airplanes are those that do not require modification, 
+since they are already equipped with the FCPC software; therefore, 
+those airplanes should be excluded from the applicability since the 
+unsafe condition does not exist on those airplanes. Delta noted that a 
+Group 1/Group 2 definition is redundant to the applicability paragraph 
+because that paragraph defines only those airplanes on which the unsafe 
+condition exists. Delta also noted that the proposed language in 
+paragraph (k) of the proposed AD would allow continued installation of 
+existing hardware/software before the AD effective date and prohibit 
+removal of the modification after the effective date of the AD.
+    We do not agree with the commenter's request. Airplanes in Groups 1 
+and 2 represent the total of the airplanes identified in paragraph (c) 
+of the AD. Group 1 and Group 2 are defined in paragraph (g) of this AD 
+to distinguish one from another, for the purpose of identifying the 
+applicable requirements. Removing the definition of Group 2 airplanes 
+from paragraph (g) of this AD would not remove Group 2 airplanes from 
+the applicability. Airplanes in Group 2 may in the future be subject to 
+the unsafe condition identified in this AD if an earlier standard of 
+software or hardware is installed on that airplane. Therefore, so that 
+Group 2 airplanes remain in an airworthy configuration after the 
+effective date of the AD, paragraph (k) of this AD prohibits the 
+installation of any software or hardware of a standard earlier than 
+that listed in table 1 to paragraphs (h) and (k) of this AD. Therefore, 
+we have not changed this AD in this regard.
+
+Request To Reference to Later Revisions of Service Information
+
+    Delta asked that we change paragraph (h) of the proposed AD to 
+allow use of subsequent service bulletins. Delta stated that the FCPC 
+software standard has changed approximately every two years. Delta 
+noted that adding the term ``or relative later software standard'' will 
+allow operators to immediately install the latest software standard 
+without having to request an alternative method of compliance (AMOC).
+    We disagree with the commenter's request. In general terms, we are 
+required by the Office of the Federal Register (OFR) regulations to 
+either publish the service document contents as part of the actual AD 
+language; or submit the service document to the OFR for approval as 
+``referenced'' material, in which case we may only refer to such 
+material in the text of an AD. The AD may refer to the service document 
+only if the OFR approved it for
+
+[[Page 51827]]
+
+``incorporation by reference.'' See 1 CFR part 51.
+    To allow operators to use later revisions of the referenced 
+document (issued after publication of the AD), either we must revise 
+the AD to reference specific later revisions, or operators must request 
+approval to use later revisions or later software standards as an AMOC 
+for this AD under the provisions of paragraph (l)(1) of this AD. We 
+have not changed this AD in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule as proposed, except for minor editorial changes. We 
+have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus SAS has issued the following service information:
+     Service Bulletin A330-27-3222, dated February 16, 2017.
+     Service Bulletin A330-27-3223, dated June 6, 2017.
+    This service information describes procedures for upgrading (by 
+modification or replacement, as applicable) certain FCPCs. These 
+documents are distinct since they apply to different airplanes in 
+different configurations. This service information is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 103 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+               Action                         Labor cost            Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Modification/replacement...........  3 work-hours x $85 per hour              $0            $255         $26,265
+                                      = $255.
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all known costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-21-07 Airbus SAS: Amendment 39-19465; Docket No. FAA-2018-0498; 
+Product Identifier 2018-NM-013-AD.
+
+(a) Effective Date
+
+    This AD is effective November 19, 2018.
+
+(b) Affected ADs
+
+    This AD affects AD 2014-25-52, Amendment 39-18066 (80 FR 3161, 
+January 22, 2015) (``AD 2014-25-52''); and AD 2016-25-30, Amendment 
+39-18756, (82 FR 1175, January 5, 2017) (``AD 2016-25-30'').
+
+(c) Applicability
+
+    This AD applies to the airplanes, certificated in any category, 
+identified in paragraphs (c)(1), (c)(2), and (c)(3) of this AD; all 
+manufacturer serial numbers; equipped with flight control primary 
+computers (FCPCs) having software standard P13/M22 (hardware 2K2), 
+P14/M23 (hardware 2K1), or M23 (hardware 2K0), or earlier standard.
+    (1) Airbus Model A330-223F and -243F airplanes.
+    (2) Airbus Model A330-201, -202, -203, -223, and -243 airplanes.
+    (3) Airbus Model A330-301, -302, -303, -321, -322, -323, -341, -
+342, and -343 airplanes.
+
+    Note 1 to paragraph (c) of this AD:  The software standards 
+specified in paragraph (c) of this AD correspond, respectively, to 
+part number (P/N) LA2K2B100DG0000, P/N
+
+[[Page 51828]]
+
+LA2K1A100DF0000, and P/N LA2K01500AF0000. All affected airplanes 
+should be equipped with this software, as required by AD 2016-25-30.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Reason
+
+    This AD was prompted by reports of Angle of Attack (AOA) 
+blockages not detected by upgraded FCPC software standards. We are 
+issuing this AD to prevent Alpha protection activation due to 
+blocked AOA probes, which could result in reduced controllability of 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions of Groups
+
+    Group 1 airplanes are those in pre-mod 206412, pre-mod 206413, 
+or pre-mod 206414 configuration, as applicable. Group 2 airplanes 
+are those in post-mod (206412, 206413, or 206414, as applicable) 
+configuration.
+
+(h) Upgrade Flight Control Primary Computer Software
+
+    For Group 1 airplanes: Within 12 months after the effective date 
+of this AD: Upgrade (by modification or replacement, as applicable) 
+the three FCPCs, as specified in table 1 to paragraphs (h) and (k) 
+of this AD, in accordance with the Accomplishment Instructions of 
+the applicable service information specified in table 1 to 
+paragraphs (h) and (k) of this AD.
+[GRAPHIC] [TIFF OMITTED] TR15OC18.001
+
+(i) Terminating Action for Certain Requirements of AD 2014-25-52
+
+    For airplanes with an AOA configuration as identified in figure 
+1 to paragraph (i) of this AD, or as identified in paragraph (m)(2) 
+of AD 2016-12-15, Amendment 39-18564 (81 FR 40160, June 21, 2016) 
+(``AD 2016-12-15''), as applicable: Accomplishing the upgrade 
+required by paragraph (h) of this AD terminates the requirements of 
+paragraph (g) of AD 2014-25-52, and the airplane flight manual (AFM) 
+procedure required by paragraph (g) of AD 2014-25-52 may be removed 
+from the AFM.
+[GRAPHIC] [TIFF OMITTED] TR15OC18.002
+
+(j) Terminating Action for Certain Requirements of AD 2016-25-30
+
+    Accomplishment of the actions required by paragraph (h) of this 
+AD terminates the requirements of paragraph (g) of AD 2016-25-30 for 
+that airplane.
+
+(k) Parts Installation Prohibition
+
+    Installation of any software or hardware of a version earlier 
+than the one listed in table 1 to paragraphs (h) and (k) of this AD 
+is prohibited, as required by paragraphs (k)(1) and (k)(2) of this 
+AD, as applicable.
+    (1) For Group 1 airplanes: After modification of an airplane as 
+required by paragraph (h) of this AD.
+    (2) For Group 2 airplanes: As of the effective date of this AD.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Branch, send it to the 
+attention of the person
+
+[[Page 51829]]
+
+identified in paragraph (m)(2) of this AD. Information may be 
+emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0246R1, dated April 6, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0498.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-27-3222, dated February 16, 
+2017.
+    (ii) Airbus Service Bulletin A330-27-3223, dated June 6, 2017.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; 
+internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on September 23, 2018.
+John P. Piccola,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-21967 Filed 10-12-18; 8:45 am]
+ BILLING CODE 4910-13-P

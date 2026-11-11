@@ -1,0 +1,336 @@
+[Federal Register Volume 82, Number 70 (Thursday, April 13, 2017)]
+[Rules and Regulations]
+[Pages 17749-17751]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-07442]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0245; Directorate Identifier 2017-NM-023-AD; 
+Amendment 39-18841; AD 2017-07-03]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+[[Page 17750]]
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that 
+published in the Federal Register. That AD applies to all Airbus Model 
+A330-243, -243F, -341, -342, and -343 airplanes. As published, the AD 
+number specified in the preamble and regulatory text is incorrect. This 
+document corrects that error. In all other respects, the original 
+document remains the same.
+
+DATES: This correction is effective April 17, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of April 17, 
+2017 (82 FR 15985, March 31, 2017).
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 45 80; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., 
+Renton, WA. For information on the availability of this material at the 
+FAA, call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0245.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD, the regulatory evaluation, 
+any comments received, and other information. The address for the 
+Docket Office (phone: 800-647-5527) is Docket Management Facility, U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: As published, Airworthiness Directive 2017-
+07-05, Amendment 39-18841 (82 FR 15985, March 31, 2017), requires an 
+inspection to determine if affected hydraulic pressure tube assemblies 
+are installed, and replacement with serviceable hydraulic pressure tube 
+assemblies if necessary, for all Airbus Model A330-243, -243F, -341, -
+342, and -343 airplanes. That AD also requires repetitive replacements 
+of serviceable hydraulic pressure tube assemblies.
+
+Need for the Correction
+
+    As published, the AD number specified in the preamble and 
+regulatory text is incorrect. The incorrectly specified number was AD 
+2017-07-05, which is assigned to another AD; the correct number is AD 
+2017-07-03.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued Alert Operators Transmission (AOT) A71L012-16, 
+Revision 01, dated February 24, 2017. The service information describes 
+procedures for replacing hydraulic pressure tube assembly, part number 
+(P/N) AE711121-18, and hydraulic pressure tube assembly, P/N AE711121-
+18 Rev A. This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Correction of Publication
+
+    This document corrects an error and correctly adds the AD as an 
+amendment to 14 CFR 39.13. Although no other part of the preamble or 
+regulatory information has been corrected, we are publishing the entire 
+rule in the Federal Register.
+    The effective date of this AD remains April 17, 2017.
+    Since this action only corrects an AD number, it has no adverse 
+economic impact and imposes no additional burden on any person. 
+Therefore, we have determined that notice and public procedures are 
+unnecessary.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Correction
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the Federal Aviation Administration amends part 39 of 
+the Federal Aviation Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Corrected]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2017-07-03 Airbus: Amendment 39-18841; Docket No. FAA-2017-0245; 
+Directorate Identifier 2017-NM-023-AD.
+
+(a) Effective Date
+
+    This AD is effective April 17, 2017.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Model A330-243, -243F, -341, -342, and 
+-343 airplanes, certificated in any category, all manufacturer 
+serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 71, Powerplant.
+
+(e) Reason
+
+    This AD was prompted by a determination that cracks can develop 
+on the ripple damper of the hydraulic pressure tube assembly, which 
+could lead to hydraulic leakage and consequent loss of the green 
+hydraulic system. This AD was also prompted by reports of failure of 
+the ripple damper of the hydraulic pressure tube assembly. We are 
+issuing this AD to prevent cracking and failure of the ripple damper 
+of the hydraulic pressure tube assembly, which could, in combination 
+with other system failures, result in reduced control of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definition of Affected Part
+
+    For the purpose of this AD, a hydraulic pressure tube assembly, 
+part number (P/N) AE711121-18, as introduced by Airbus mod 205242, 
+is hereafter referred to as an ``affected part'' in this AD.
+
+(h) Definition of Serviceable Part
+
+    For the purpose of this AD, a ``serviceable part'' is a 
+hydraulic pressure tube assembly (which has a double-welded ripple 
+damper installed), P/N AE711121-18 Rev A, that has accumulated fewer 
+than 800 total flight cycles since first installation on an 
+airplane. The hydraulic pressure tube assembly, P/N AE711121-18 Rev 
+A, is introduced by Airbus mod 206979 on the production line.
+
+(i) Identification of Affected Parts
+
+    Within 15 days after April 17, 2017 (the effective date of this 
+AD), inspect to determine the part number of the hydraulic pressure 
+tube assembly that is installed on each engine. A review of airplane 
+maintenance records is acceptable in lieu of this inspection if the 
+part number of the hydraulic pressure tube assembly can be 
+conclusively determined from that review.
+
+(j) Replacement of Affected Parts
+
+    Within the compliance time specified in table 1 to paragraph (j) 
+of this AD, as
+
+[[Page 17751]]
+
+applicable, or within 4 months after April 17, 2017 (the effective 
+date of this AD), whichever occurs first, replace each affected part 
+(see paragraph (g) of this AD) with a serviceable part (see 
+paragraph (h) of this AD), in accordance with the instructions of 
+Airbus Alert Operators Transmission (AOT) A71L012-16, Revision 01, 
+dated February 24, 2017.
+
+    Table 1 to Paragraph (j) of This AD--Replacement Compliance Times
+------------------------------------------------------------------------
+      Flight cycles accumulated *                Compliance time
+------------------------------------------------------------------------
+Fewer than 775 total flight cycles.....  Before exceeding 800 total
+                                          flight cycles on the affected
+                                          hydraulic pressure tube
+                                          assembly since first
+                                          installation on an airplane.
+775 total flight cycles or more........  Within 25 flight cycles after
+                                          April 17, 2017 (the effective
+                                          date of this AD).
+An unknown number of flight cycles       Within 25 flight cycles after
+ accumulated.                             April 17, 2017 (the effective
+                                          date of this AD).
+------------------------------------------------------------------------
+* Unless specified otherwise, the flight cycles in the ``flight cycles
+  accumulated'' column of table 1 to paragraph (j) of this AD are those
+  accumulated by an affected hydraulic pressure tube assembly, on April
+  17, 2017 (the effective date of this AD), since first installation on
+  an airplane.
+
+(k) Repetitive Replacement of Serviceable Parts--Life Limit
+
+    Before a serviceable part (see paragraph (h) of this AD) exceeds 
+800 total flight cycles since first installation on an airplane, 
+replace it with a serviceable part, in accordance with the 
+instructions of Airbus AOT A71L012-16, Revision 01, dated February 
+24, 2017.
+
+(l) Engine Installation Limitation
+
+    As of April 17, 2017 (the effective date of this AD), except as 
+required by paragraph (m) of this AD, it is allowed to install on 
+any airplane a replacement engine having an affected part (see 
+paragraph (g) of this AD) installed, provided that, before that 
+affected part exceeds 800 total flight cycles since first 
+installation on an airplane, or within 4 months after April 17, 2017 
+(the effective date of this AD), whichever occurs first, the part is 
+replaced with a serviceable part (see paragraph (h) of this AD), in 
+accordance with the instructions of Airbus AOT A71L012-16, Revision 
+01, dated February 24, 2017.
+
+(m) Parts and Engine Installation Prohibition
+
+    As of 4 months after April 17, 2017 (the effective date of this 
+AD): Do not install on any airplane an affected part (see paragraph 
+(g) of this AD), or an engine having an affected part installed.
+
+(n) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(j) of this AD, if those actions were performed before April 17, 
+2017 (the effective date of this AD) using Airbus AOT A71L012-16, 
+dated December 22, 2016.
+
+(o) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+has the authority to approve AMOCs for this AD, if requested using 
+the procedures found in 14 CFR 39.19. In accordance with 14 CFR 
+39.19, send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Branch, send it to ATTN: Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Branch, ANM-116, Transport Airplane Directorate, FAA; or the 
+European Aviation Safety Agency (EASA); or Airbus's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(p) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2017-0041, dated February 24, 
+2017; corrected February 28, 2017, for related information. This 
+MCAI may be found in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-
+2017-0245.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Branch, ANM-116, 
+Transport Airplane Directorate, FAA, 1601 Lind Avenue SW., Renton, 
+WA 98057-3356; telephone 425-227-1138; fax 425-227-1149. Information 
+may be emailed to: [email protected].
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (q)(4) and (q)(5) of this AD.
+
+(q) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+April 17, 2017 (82 FR 15985, March 31, 2017).
+    (i) Airbus Alert Operators Transmission (AOT) A71L012-16, 
+Revision 01, dated February 24, 2017.
+    (ii) Reserved.
+    (4) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email protected]; 
+Internet http://www.airbus.com.
+    (5) You may view this service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 
+425-227-1221.
+    (6) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on April 5, 2017.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2017-07442 Filed 4-12-17; 8:45 am]
+BILLING CODE 4910-13-P

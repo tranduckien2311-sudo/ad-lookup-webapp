@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 1998-003(B) R3 In case of any difficulty, reference should be made to the French original issue. CFM INTERNATIONAL CFM56-5B turbofan engines Life limit of the low pressure turbine casing (ATA 05, 72) 1. APPLICABILITY: This
+
+Airworthiness Directive applies to CFMI engines CFM56-5B1/2P, -5B2/2P, -5B3/2P, -5B4/2P installed on AIRBUS A319, A320, A321 or other aeroplanes. 2. REASONS: Results of a refined life analysis performed by the manufacturer have prompted life limit reduction for following parts, on a sub-population of 36 LPT casings P/N 338-117-404-0. Revision 1 and Revision 2 were issued to precise Part Numbers. This Revision 3 is issued to enable a life increase if compliance with SB CFM56-5B 72-229 prior a certain number of cycles. 3. MANDATORY ACTIONS: 3.1. New life limit if compliance with Service Bulletin CFM56-5B 72-229 prior to 6,000 cycles since new: LPT case P/N 338-117-404-0 on CFM56-5B2/2P and -5B3/2P is limited to 30,500 cycles. 3.2. New life limit if compliance with SB CFM56-5B 72-229 prior to 9,700 cycles since new: LPT case P/N 338-117-404-0 on CFM56-5B1/2P and -5B4/2P is limited to 30,500 cycles. 3.3. New life limit in other situations: a) LPT case P/N 338-117-404-0 on CFM56-5B2/2P and -5B3/2P is limited to 10,500 cycles. b) LPT case P/N 338-117-404-0 on CFM56-5B1/2P and -5B4/2P is limited to 15,500 cycles. n/JFS …/… CFM INTERNATIONAL December 12, 2001 1998-003(B) R3 CFM56-5B turbofan engines
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 1998-003(B) R3 Page n° 2 GSAC Life limit unchanged (for the record) : - LPT case P/N 338-117-404-0 on CFM56-5B6/2P is still limited to 30,500 cycles (no change). REF.: Manual CFMI-TP.SM.9 chapter 5-12-04 SB CFM56-5B 72-229 dated July 17, 1998 st SB CFM56-5B 72-229 Revision 1 dated December 1 , 2000. The present Revision 3 replaces AD 98-003(B) R2 dated July 15, 1998. EFFECTIVE DATES : Original AD : JANUARY 24, 1998 Revision 1 : APRIL 04, 1998 Revision 2 : JULY 25, 1998 Revision 3 : DECEMBER 22, 2001

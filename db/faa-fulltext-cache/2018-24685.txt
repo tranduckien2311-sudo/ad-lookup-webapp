@@ -1,0 +1,491 @@
+[Federal Register Volume 83, Number 238 (Wednesday, December 12, 2018)]
+[Rules and Regulations]
+[Pages 63799-63802]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-24685]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0584; Product Identifier 2017-NM-173-AD; Amendment 
+39-19494; AD 2018-23-08]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus SAS Model A330-200, A330-200 Freighter, and A330-300 series 
+airplanes. This AD was prompted by reports of dual flight management 
+system (FMS) resets with the loss of flight plan (F-PLN) data. This AD 
+requires revising the airplane flight manual (AFM) to prohibit required 
+navigation performance-authorization required (RNP-AR) operations using 
+flight management guidance envelope computer (FMGEC) standard P5H3. 
+This AD would also require modifying the FMS software of airplanes 
+equipped with FMGEC standard P5H3. We are issuing this AD to address 
+the unsafe condition on these products.
+
+DATES: This AD is effective January 16, 2019.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 16, 
+2019.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France, France; telephone +33 5 
+61 93 36 96; fax +33 5 61 93 45 80; email [email protected]; internet http://www.airbus.com. You may view this 
+service information at the FAA, Transport Standards Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available on the 
+internet at http://www.regulations.gov by searching for and locating 
+Docket No. FAA-2018-0584.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0584; or in person at Docket Operations
+
+[[Page 63800]]
+
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this final rule, the regulatory 
+evaluation, any comments received, and other information. The address 
+for Docket Operations (phone: 800-647-5527) is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus SAS Model A330-
+200, A330-200 Freighter, and A330-300 series airplanes. The NPRM 
+published in the Federal Register on July 18, 2018 (83 FR 33873). The 
+NPRM was prompted by reports of dual FMS resets with the loss of F-PLN 
+data. The NPRM proposed to require revising the AFM to prohibit RNP-AR 
+operations using FMGEC standard P5H3. The NPRM also proposed to require 
+modifying the FMS software of airplanes equipped with FMGEC standard 
+P5H3.
+    We are issuing this AD to address dual FMS reset and loss of F-PLN 
+data, which in the context of RNP-AR operations of the airplane could 
+result in significantly reduced situational awareness of proximity to 
+terrain and/or other aircraft to below acceptable safety margins, and 
+out of the context of RNP-AR operations could lead to an unusually high 
+pilot workload.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2017-0233, dated November 23, 2017 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for all Airbus SAS Model A330-200, Model 
+A330-200 Freighter, and Model A330-300 series airplanes. The MCAI 
+states:
+
+    Operators of [Airbus SAS Model] A330 aeroplanes fitted with a 
+Flight Management Guidance Envelope Computer (FMGEC) standard P5H3 
+have reported some occurrences of dual Flight Management System 
+(FMS) reset with the loss of Flight Plan (F-PLN) data. These events 
+have been identified in all flight phases, including Take-Off 
+transition.
+    This condition, if not corrected, particularly in the context of 
+Required Navigation Performance--Authorization Required (RNP-AR) 
+operations of the aeroplane, could lead to a large reduction in 
+safety margins due to terrain and/or surrounded traffic proximity 
+[below acceptable safety margins], and out of the context of RNP-AR 
+operations could lead to an increased pilot workload.
+    To address this potential unsafe condition, Airbus issued 
+Aircraft Flight Manual (AFM) Temporary Revision (TR) 774 issue 1 
+[approved October 13, 2017, to the Airbus A330/A340 Airplane Flight 
+Manual] to provide instructions to prohibit RNP-AR operations. In 
+addition, Airbus developed modification (mod) 207362 to allow FMS 
+software downgrading from P5 to P4A standard, and issued [Airbus 
+SAS] Alert Operator Transmission (AOT) A22L002-17 providing 
+instructions to implement that mod on in-service aeroplanes. As a 
+long term action, Airbus intend to publish Service Bulletin (SB) 
+A330-22-3264, which will supersede AOT A22L002-17 [dated October 20, 
+2017], to provide the same instructions for FMS software downgrade.
+    For the reasons described above, this [EASA] AD requires 
+amendment of the applicable AFM and operating the aeroplane 
+accordingly, and requires FMS software downgrading of aeroplanes 
+with FMGEC standard P5H3.
+
+    You may examine the MCAI in the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0584.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. The following presents the comments received on the 
+NPRM and the FAA's response to each comment.
+
+Support for the NRPM
+
+    Air Line Pilots Association, International (ALPA) stated its 
+support for the NPRM.
+
+Request To Revise Applicability
+
+    Delta Air Lines (DAL) requested that we revise the applicability of 
+the proposed AD to state that the AD is not effective for airplanes 
+that have a Thales FMS installed. DAL justified the request by stating 
+that the applicability of the proposed AD was too general, and removing 
+airplanes with a Thales FMS installed from the applicability would not 
+result in a decrease in safety, because the action is intended only for 
+airplanes with a Honeywell FMS installed.
+    We disagree with DAL's request because FMGEC standard P5H3 can be 
+embodied in production or in service on both Thales and Honeywell FMS. 
+Further, this AD requires modification of Groups 1 and 2 airplanes in 
+accordance with Airbus Service Bulletin A330-22-3264, dated March 14, 
+2018, which requires prior or simultaneous accomplishment of 
+prerequisite Airbus SAS service information applicable to airplanes 
+with a Honeywell FMS, Release 2, or a Thales flight guidance card. We 
+have not changed this AD in this regard.
+
+Request To Develop New Software Standard
+
+    ALPA suggested that a temporary downgrade of the FMS software from 
+P5H3 standard to P4A standard is a short-term fix, and recommended that 
+a new software standard be developed. ALPA contends that the new 
+software standard should eliminate the potential of dual FMS resets, 
+which could lead to loss of flight plan data, while incorporating the 
+features of the advanced P5H3 standard.
+    We disagree with ALPA's request. The unsafe condition of dual FMS 
+resets, which could lead to loss of flight plan data, was introduced by 
+the FMS software P5H3 standard. The unsafe condition is eliminated by 
+downgrading the FMS software to P4A standard, which is a permanent 
+repair. The FAA acknowledges ALPA's recommendation, and we might 
+consider further rulemaking on this issue if Airbus proposes new 
+software. We have not changed the AD in this regard.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comments received, 
+and determined that air safety and the public interest require adopting 
+this final rule as proposed, except for minor editorial changes. We 
+have determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus SAS has issued Service Bulletin A330-22-3264, dated March 
+14, 2018. This service information describes procedures to downgrade 
+the FMS from P5 to P4A operational software on FMGEC standard P5H3, by 
+embodying Modification 207362S34542 on the affected airplanes.
+    Airbus SAS has issued A330/A340 AFM Temporary Revision TR774, RNP 
+AR Operations Forbidden with FMGEC Standard P5H3, Issue 1, dated 
+October 16, 2017, to the Airbus A330/A340 AFM. This service information 
+describes the operational restrictions for
+
+[[Page 63801]]
+
+RNP-AR on Airbus SAS Model A330 series airplanes equipped with FMGEC 
+standard P5H3.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Other Related Service Information
+
+    The Airbus A330/A340 Airplane Flight Manual (AFM) for the aircraft 
+affected by this AD is required to be furnished with the aircraft, in 
+accordance with 14 CFR 25.1581. Further, operators of the aircraft 
+affected by this AD must operate in accordance with the limitations 
+specified in the AFM, in accordance with 14 CFR 91.9.
+
+Costs of Compliance
+
+    We estimate that this AD affects 3 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+3 work-hours x $85 per hour = $255...........................              $0             $255             $765
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some or all of the costs of this AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all known costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes and 
+associated appliances to the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    This AD will not have federalism implications under Executive Order 
+13132. This AD will not have a substantial direct effect on the States, 
+on the relationship between the national government and the States, or 
+on the distribution of power and responsibilities among the various 
+levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2018-23-08 Airbus SAS: Amendment 39-19494; Docket No. FAA-2018-0584; 
+Product Identifier 2017-NM-173-AD.
+
+(a) Effective Date
+
+    This AD is effective January 16, 2019.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A330-201, A330-202, A330-
+203, A330-223, A330-223F, A330-243, A330-243F, A330-301, A330-302, 
+A330-303, A330-321, A330-322, A330-323, A330-341, A330-342, and 
+A330-343 airplanes, certificated in any category, all manufacturer 
+serial numbers.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 22, Auto flight.
+
+(e) Reason
+
+    This AD was prompted by reports of dual flight management system 
+(FMS) resets with the loss of flight plan (F-PLN) data. We are 
+issuing this AD to address dual FMS reset and loss of F-PLN data, 
+which in the context of required navigation performance-
+authorization required (RNP-AR) operations of the airplane could 
+result in significantly reduced situational awareness of proximity 
+to terrain and/or other aircraft to below acceptable safety margins, 
+and out of the context of RNP-AR operations could lead to an 
+unusually high pilot workload.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    For the purposes of this AD, the definitions in paragraphs 
+(g)(1) through (g)(3) of this AD apply.
+    (1) Group 1 airplanes are those that have flight management 
+guidance envelope computer (FMGEC) standard P5H3 (Airbus SAS 
+Modification 204758 Part Number (P/N) FMGEC C13226HA07 with P/N FMS 
+operational SW PS4087700-906) embodied in production, or embodied in 
+service as specified in Airbus Service Bulletin A330-22-3209; Airbus 
+Service Bulletin A330-22-3225; Airbus Service Bulletin A330-22-3244; 
+Airbus Service Bulletin A330-22-3247; or Airbus Service Bulletin 
+A330-22-3262; except those that have RNP-AR.
+    (2) Group 2 airplanes have the same configuration as those in 
+Group 1, but in addition have RNP-AR (Airbus SAS Modification 
+203441, or Airbus SAS Modification 203442, or Airbus SAS 
+Modification 200624) embodied in production or Airbus Service 
+Bulletin A330-34-3262; Airbus Service Bulletin A330-34-
+
+[[Page 63802]]
+
+3308; or Airbus Service Bulletin A330-34-3345; embodied in service.
+    (3) Group 3 airplanes are those in any configuration other than 
+that identified in paragraph (g)(1) or (g)(2) of this AD.
+
+(h) Airplane Flight Manual (AFM) Revision
+
+    For Group 2 airplanes: Within 30 days after the effective date 
+of this AD, revise the Limitations section of the Airbus A330/A340 
+AFM to include the information in Airbus A330/A340 AFM Temporary 
+Revision TR774, RNP AR Operations Forbidden with FMGEC Standard 
+P5H3, Issue 1, dated October 16, 2017 (``TR774''), and inform all 
+flight crews, and, thereafter, operate the airplane accordingly, as 
+specified in TR774. TR774 prohibits the RNP-AR operation on Airbus 
+SAS Model A330 series airplanes equipped with FMGEC standard P5H3. 
+Revising the AFM to include TR774 may be done by inserting a copy of 
+TR774 in the AFM. When TR774 has been included in general revisions 
+of the AFM, the general revisions may be inserted in the AFM, 
+provided the relevant information in the general revision is 
+identical to that in TR774, and TR774 may be removed.
+    Note 1 to paragraph (h) of this AD: The Airbus A330/A340 AFM for 
+the aircraft affected by this AD is required to be furnished with 
+the aircraft, in accordance with 14 CFR 25.1581. Further, operators 
+of the aircraft affected by this AD must operate in accordance with 
+the limitations specified in the AFM, in accordance with 14 CFR 
+91.9.
+
+(i) FMS Software Modification
+
+    (1) For Group 1 and Group 2 airplanes: Within 60 days after the 
+effective date of this AD, modify the airplane by installing FMS 
+software P4A (P/N FMS operational SW PS4087700-905) on FMGEC 
+standard P5H3 (P/N FMGEC C13226HA07 with P/N FMS operational SW 
+PS4087700-906), in accordance with the instructions of Airbus 
+Service Bulletin A330-22-3264, dated March 14, 2018.
+    (2) For Group 2 airplanes: After modification of an airplane as 
+required by paragraph (i)(1) of this AD, the AFM revision required 
+by paragraph (h) of this AD may be removed from the AFM of that 
+airplane.
+
+(j) Optional Modification
+
+    For Group 3 airplanes: From the effective date of this AD, it is 
+allowed to modify any airplane into a Group 1 or Group 2 
+configuration, provided that, concurrently, that airplane is 
+modified in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-22-3264, dated March 14, 2018.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (i) of this AD and optional actions specified in paragraph 
+(j) of this AD, if those actions were performed before the effective 
+date of this AD using Airbus Alert Operators Transmission-AOT 
+A22L002-17, dated October 20, 2017.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (m)(2) of this AD. Information 
+may be emailed to: [email protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus SAS's EASA Design Organization 
+Approval (DOA). If approved by the DOA, the approval must include 
+the DOA authorized signature.
+    (3) Required for Compliance (RC): If any service information 
+contains procedures or tests that are identified as RC, those 
+procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2017-0233, dated November 23, 2017, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0584.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(3) and (n)(4) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-22-3264, dated March 14, 2018.
+    (ii) Airbus A330/A340 Airplane Flight Manual Temporary Revision 
+TR774, RNP AR Operations Forbidden with FMGEC Standard P5H3, Issue 
+1, dated October 16, 2017.
+    (3) For Airbus SAS service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France, France; telephone +33 
+5 61 93 36 96; fax +33 5 61 93 45 80; email [email protected]; internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on November 2, 2018.
+Jeffrey E. Duven,
+Director, System Oversight Division, Aircraft Certification Service.
+[FR Doc. 2018-24685 Filed 12-11-18; 8:45 am]
+ BILLING CODE 4910-13-P

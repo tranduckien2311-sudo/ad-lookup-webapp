@@ -1,0 +1,546 @@
+[Federal Register Volume 82, Number 195 (Wednesday, October 11, 2017)]
+[Rules and Regulations]
+[Pages 47084-47091]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-21224]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0624; Product Identifier 2016-NM-135-AD; Amendment 
+39-19067; AD 2017-20-10]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are adopting a new airworthiness directive (AD) for all 
+Airbus Model A319 series airplanes, Model A320-211, -212, -214, -231, -
+232, and -233 airplanes, and Model A321-111, -112, -131, -211, -212, -
+213, -231, and -232 airplanes. This AD was prompted by a runway 
+excursion due to an unexpected thrust increase leading to an unstable 
+approach performed using the current flight management and guidance 
+computer (FMGC) standard. This AD requires identification of 
+potentially affected FMGCs, replacement of any affected FMGC, and 
+applicable concurrent actions. We are issuing this AD to address the 
+unsafe condition on these products.
+
+DATES: This AD is effective November 15, 2017.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 15, 
+2017.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax 
++33 5 61 93 44 51; email [email protected]; Internet 
+http://www.airbus.com. You may view this referenced service information 
+at the FAA, Transport Standards Branch, 1601 Lind Avenue SW., Renton, 
+WA. For information on the availability of this material at the FAA, 
+call 425-227-1221. It is also available on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0624.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0624; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD, the regulatory evaluation, any comments received, and 
+other information. The street address for the Docket Office (telephone 
+800-647-5527) is Docket Management Facility, U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Sanjay Ralhan, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 1601 Lind 
+Avenue SW., Renton, WA 98057-3356; telephone 425-227-1405; fax 425-227-
+1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 by adding an AD that would apply to all Airbus Model A319 
+series airplanes, Model A320-211, -212, -214, -231, -232, and -233 
+airplanes, and Model A321-111, -112, -131, -211, -212, -213, -231, and 
+-232 airplanes. The NPRM published in the Federal Register on June 29, 
+2017 (82 FR 29440) (``the NPRM''). The NPRM was prompted by a runway 
+excursion due to an unexpected thrust increase leading to an unstable 
+approach performed using the current FMGC standard. The NPRM proposed 
+to require identification of potentially affected FMGCs, replacement of 
+any affected FMGC, and applicable concurrent actions. We are issuing 
+this AD to prevent unstable approaches due to an unexpected thrust 
+increase, which could result in reduced
+
+[[Page 47085]]
+
+controllability of the airplane and runway excursions.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2016-0122, dated June 21, 2016 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model A319 
+series airplanes, Model A320-211, -212, -214, -231, -232, and -233 
+airplanes, and Model A321-111, -112, -131, -211, -212, -213, -231, and 
+232 airplanes. The MCAI states:
+
+    Following an instrument landing system (ILS) approach, during 
+night, in rainy condition, an A321 aeroplane experienced a 
+longitudinal runway excursion. Investigation revealed that the 
+approach was not stabilized with an overspeed of 19 knots (kts) over 
+the runway threshold, followed by a long flare (18 seconds) with 
+touchdown far behind the touchdown zone. The aeroplane exited the 
+runway at 75 kts and came to rest around 300 meters beyond the end 
+of the runway. During the final approach, at 150 feet Radio 
+Altimeter (RA) altitude, the corrected airspeed of the aeroplane was 
+165 kts (24 kts overspeed). Auto thrust (ATHR) commanded a transient 
+N1 increase up to 70% due to the ATHR speed Mach control law.
+    The ATHR system on A320 family aeroplane was designed to 
+maintain accurately the aircraft speed/Mach to speed/Mach target by 
+commanding the thrust, featuring also a trade-off at low altitude 
+between thrust corrections to maintain speed equal to speed target 
+and too large thrust corrections destabilizing the aircraft 
+trajectory near the ground. The conclusions of the investigations 
+were that the main contributor to this runway excursion was a non-
+stabilized approach not followed by a go-around. ATHR misbehaviour 
+in case of large overspeed led to an unexpected thrust increase, 
+which is considered as a contributor to the long flare.
+    This ATHR characteristic, reported as ``Spurious thrust increase 
+during approach,'' was initially found in 1996 and a modification 
+was developed and introduced in Flight Guidance (FG) 2G standard 
+``C8 or I8'' (C for CFM engines and I for IAE engines) in 2001.
+    Prompted by these findings, Airbus introduced a programme to 
+encourage operators to replace the FMGC Legacy with the FMGC 
+equipped with Flight Management System type 2 (FMS2) and FG 
+standard, which introduces additional operational capabilities, 
+including Runway Overrun Protection System/Runway Overrun Warning 
+(ROPS/ROW) and Autopilot/Traffic Collision Avoidance System (AP/
+TCAS). It was determined that the ROPS, in a scenario similar to the 
+one described above, would have triggered a > 
+aural alert before touchdown. Information was made available through 
+Airbus Service Information Letter (SIL) 22-039 (later superseded by 
+Word In Service Experience (WISE) In Service Information 
+22.83.00003), and EASA published Safety Information Bulletin (SIB) 
+2013-19, recommending the FMGC upgrade.
+    Since EASA SIB was published, it was determined that many 
+operators have chosen not to implement the optional upgrade that 
+improves the ATHR behaviour.
+    More recently, prompted by a recommendation from the BEA (Bureau 
+d'Enqu[ecirc]tes et d'Analyses pour la s[eacute]curit[eacute] de 
+l'aviation civile) of France, to reduce the risk of further runway 
+excursions due to uninterrupted unstable approaches performed with 
+the legacy FMGC standard, EASA decided to require installation of at 
+least the first version of the FMS2 and associated FG for legacy 
+aeroplanes.
+    DGAC [Direction G[eacute]n[eacute]rale de l'Aviation Civile] 
+France issued AD 1999-411-140(B)R1 [which corresponds to FAA AD 
+2000-12-13, Amendment 39-11791 (65 FR 37845, June 19, 2000) (``AD 
+2000-12-13'')] and AD 1998-226-119(B)R1 [which corresponds to FAA AD 
+98-19-08, Amendment 39-10750 (63 FR 50503, September 22, 1998)] to 
+address different unsafe conditions, requiring to install a certain 
+previous FMGC standard that may be susceptible to the ``Spurious 
+thrust increase during approach''.
+    For the reasons described above, this [EASA] AD * * * requires 
+replacement of the affected FMGC units with upgraded units [and 
+applicable concurrent actions].
+
+    Concurrent actions include the installation of certain FMGCs, 
+wiring, display management computers, wiring associated with pin 
+programming, and applicable operational program configuration disks. 
+You may examine the MCAI in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0624.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this AD. We considered the comment received. Air Line Pilots 
+Association, International supported the NPRM.
+
+Conclusion
+
+    We reviewed the relevant data, considered the comment received, and 
+determined that air safety and the public interest require adopting 
+this AD as proposed, except for minor editorial changes. We have 
+determined that these minor changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for correcting the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information, which 
+describes procedures for replacement of any affected FMGC with a 
+serviceable FMGC. These documents are distinct since they apply to 
+different airplane configurations.
+     Airbus Service Bulletin A320-22-1090, Revision 11, dated 
+July 20, 2004.
+     Airbus Service Bulletin A320-22-1103, Revision 04, dated 
+March 12, 2004.
+     Airbus Service Bulletin A320-22-1116, Revision 04, dated 
+March 29, 2004.
+     Airbus Service Bulletin A320-22-1152, Revision 03, dated 
+February 18, 2005.
+     Airbus Service Bulletin A320-22-1243, Revision 05, dated 
+May 31, 2010.
+     Airbus Service Bulletin A320-22-1519, Revision 02, dated 
+December 21, 2015.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 1,032 airplanes of U.S. registry.
+    We estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection............................  1 work-hour x $85 per                 $0             $85         $87,720
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+required based on the results of the inspection. We have no way of 
+determining the number of aircraft that might need these replacements.
+
+[[Page 47086]]
+
+
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                   Action                                 Labor cost                Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement................................  9 work-hours x $85 per hour = $765.         $30,000         $30,765
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has delegated the 
+authority to issue ADs applicable to transport category airplanes to 
+the Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+2017-20-10 Airbus: Amendment 39-19067; Docket No. FAA-2017-0624; 
+Product Identifier 2016-NM-135-AD.
+
+(a) Effective Date
+
+    This AD is effective November 15, 2017.
+
+(b) Affected ADs
+
+    This AD affects AD 2000-12-13, Amendment 39-11791 (65 FR 37845, 
+June 19, 2000) (``AD 2000-12-13'').
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes, certificated in any 
+category, identified in paragraphs (c)(1) through (c)(3) of this AD, 
+all manufacturer serial numbers.
+    (1) Airbus Model A319-111, -112, -113, -114, -115, -131, -132, 
+and -133 airplanes.
+    (2) Airbus Model A320-211, -212, -214, -231, -232, and -233 
+airplanes.
+    (3) Airbus Model A321-111, -112, -131, -211, -212, -213, -231, 
+and -232 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 22, Auto Flight.
+
+(e) Reason
+
+    This AD was prompted by a report of a runway excursion due to an 
+unexpected thrust increase leading to an unstable approach performed 
+using the current flight management and guidance computer (FMGC) 
+standard. We are issuing this AD to prevent unstable approaches due 
+to an unexpected thrust increase, which could result in reduced 
+controllability of the airplane and runway excursions.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection and Replacement of Affected FMGC
+
+    (1) Within 36 months after the effective date of this AD: 
+Inspect the FMGC to determine if any FMGC with an affected part 
+number identified in Figure 1 to paragraphs (g)(1), (g)(2), (h)(1), 
+(h)(2), and (j) of this AD is installed. A review of airplane 
+maintenance records is acceptable in lieu of inspecting the FMGC, 
+provided those records can be relied upon for that purpose and the 
+part number of the FMGC can be conclusively identified from that 
+review.
+    (2) If any affected FMGC with an affected part number identified 
+in Figure 1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2), and (j) of 
+this AD is found during any inspection or review required by 
+paragraph (g)(1) of this AD: Within 36 months after the effective 
+date of this AD, replace the FMGC with a serviceable FMGC having a 
+part number that is not identified in Figure 1 to paragraphs (g)(1), 
+(g)(2), (h)(1), (h)(2), and (j) of this AD, in accordance with the 
+Accomplishment Instructions and paragraph 1.B. (concurrent actions) 
+of the applicable service information specified in paragraphs 
+(g)(2)(i) through (g)(2)(vi) of this AD, or using a method approved 
+by the Manager, International Section, Transport Standards Branch, 
+FAA; or the European Aviation Safety Agency (EASA); or Airbus's EASA 
+Design Organization Approval (DOA). Refer to Figure 2 to paragraph 
+(g)(2) of this AD and Figure 3 to paragraph (g)(2) of this AD for 
+the lists of approved eligible FMGCs certified as of the effective 
+date of this AD.
+    (i) Airbus Service Bulletin A320-22-1090, Revision 11, dated 
+July 20, 2004 (installation of FMGC part number (P/N) C13042BA01).
+    (ii) Airbus Service Bulletin A320-22-1103, Revision 04, dated 
+March 12, 2004 (installation of FMGC P/N C13043AA01).
+    (iii) Airbus Service Bulletin A320-22-1116, Revision 04, dated 
+March 29, 2004 (installation of FMGC P/N C13043BA01).
+    (iv) Airbus Service Bulletin A320-22-1152, Revision 03, dated 
+February 18, 2005 (installation of FMGC P/N C13043AA02).
+    (v) Airbus Service Bulletin A320-22-1243, Revision 05, dated May 
+31, 2010 (installation of FMGC P/N C13043BA04).
+    (vi) Airbus Service Bulletin A320-22-1519, Revision 02, dated 
+December 21, 2015 (installation of FMGC P/N C13207CA00).
+
+BILLING CODE 4910-13-P
+
+[[Page 47087]]
+
+[GRAPHIC] [TIFF OMITTED] TR11OC17.000
+
+
+[[Page 47088]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR11OC17.001
+
+
+[[Page 47089]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR11OC17.002
+
+(h) Unaffected Airplanes
+
+    (1) An airplane on which Airbus Modification 31896 or Airbus 
+Modification 31897 has been embodied in production is not affected 
+by the requirements of paragraph (g) of this AD, provided it is 
+conclusively determined that no FMGC with an affected part number 
+identified in Figure 1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2), 
+and (j) of this AD has been installed on that airplane since the 
+date of issuance of the original certificate of airworthiness or the 
+original export certificate of airworthiness. A review of airplane 
+maintenance records is acceptable to make this determination 
+provided those records can be relied upon for that purpose and the 
+part number of the FMGC can be conclusively identified from that 
+review.
+    (2) An airplane on which the actions specified in paragraph 
+(g)(2) have been done before the effective date of this AD is not 
+affected by the requirements in paragraph (g) of this AD, provided 
+it is conclusively determined that no FMGC with an affected part 
+number identified in Figure 1 to paragraphs (g)(1), (g)(2), (h)(1), 
+(h)(2), and (j) of this AD has been installed on that airplane since 
+accomplishing the actions specified in paragraph (g)(2) of this AD. 
+A review of airplane maintenance records is acceptable to make this 
+determination provided those records can be relied upon for that 
+purpose and the part number of the FMGC can be conclusively 
+identified from that review.
+
+(i) Parts Installation Limitation
+
+    Installation of an FMGC standard approved after the effective 
+date of this AD on any airplane, is acceptable for compliance with 
+the actions required by paragraph (g)(2) of this AD, provided the 
+conditions specified in paragraphs (i)(1) and (i)(2) of this AD are 
+accomplished.
+    (1) The software and hardware standard, as applicable, must be 
+approved by the
+
+[[Page 47090]]
+
+Manager, International Section, Transport Standards Branch, FAA; or 
+EASA; or Airbus's EASA DOA.
+    (2) The installation must be accomplished using airplane 
+modification instructions approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus's EASA 
+DOA.
+
+(j) Parts Installation Prohibition
+
+    As of the effective date of this AD, no person may install on 
+any airplane an FMGC with an affected part number identified in 
+Figure 1 to paragraphs (g)(1), (g)(2), (h)(1), (h)(2), and (j) of 
+this AD.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(g)(2) of this AD, if those actions were performed before the 
+effective date of this AD using the applicable service information 
+identified in Figure 4 to paragraph (k) of this AD.
+[GRAPHIC] [TIFF OMITTED] TR11OC17.003
+
+BILLING CODE 4910-13-C
+
+(l) Terminating Action for Other ADs
+
+    Accomplishing the actions required by paragraph (g)(1) of this 
+AD, and, as applicable, paragraph (g)(2) of this AD, terminates all 
+requirements of AD 2000-12-13.
+
+(m) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Section, send it to the 
+attention of the person identified in paragraph (n)(2) of this AD. 
+Information may be emailed to: [email protected]. 
+Before using
+
+[[Page 47091]]
+
+any approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus's EASA 
+DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+
+(n) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA Airworthiness Directive 2016-0122, dated June 21, 2016, 
+for related information. This MCAI may be found in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2017-0624.
+    (2) For more information about this AD, contact Sanjay Ralhan, 
+Aerospace Engineer, International Section, Transport Standards 
+Branch, FAA, 1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 
+425-227-1405; fax 425-227-1149.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (o)(3) and (o)(4) of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A320-22-1090, Revision 11, dated 
+July 20, 2004.
+    (ii) Airbus Service Bulletin A320-22-1103, Revision 04, dated 
+March 12, 2004.
+    (iii) Airbus Service Bulletin A320-22-1116, Revision 04, dated 
+March 29, 2004.
+    (iv) Airbus Service Bulletin A320-22-1152, Revision 03, dated 
+February 18, 2005.
+    (v) Airbus Service Bulletin A320-22-1243, Revision 05, dated May 
+31, 2010.
+    (vi) Airbus Service Bulletin A320-22-1519, Revision 02, dated 
+December 21, 2015.
+    (3) For service information identified in this AD, contact 
+Airbus, Airworthiness Office--EIAS, 1 Rond Point Maurice Bellonte, 
+31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 
+61 93 44 51; email [email protected]; Internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 1601 Lind Avenue SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Renton, Washington, on September 20, 2017.
+Dionne Palermo,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2017-21224 Filed 10-10-17; 8:45 am]
+ BILLING CODE 4910-13-P

@@ -1,0 +1,499 @@
+[Federal Register Volume 83, Number 200 (Tuesday, October 16, 2018)]
+[Rules and Regulations]
+[Pages 52126-52131]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-22147]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0583; Product Identifier 2018-NM-019-AD; Amendment 
+39-19453; AD 2018-20-19]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: We are superseding Airworthiness Directive (AD) 2017-16-07, 
+which applied to certain Airbus SAS Model A330-200, A330-200 Freighter, 
+A330-300, A340-500, and A340-600 series airplanes; and Model A340-313 
+airplanes. AD 2017-16-07 required inspection of the fuselage bulk cargo 
+door frames at specific locations, and corrective action if necessary. 
+This AD requires new inspections of certain attachment holes for 
+residual surface treatment and cracking, and corrective action if 
+necessary; and provides an optional terminating action for the 
+inspections. This AD also revises the applicability to add certain 
+airplanes and remove others. This AD was prompted by a determination 
+that only airplanes having certain manufacturer serial numbers (MSNs) 
+are affected by tartaric sulfuric anodizing (TSA)/chromic acid 
+anodizing (CAA) surface treatment in the door fitting attachment holes, 
+and that airplanes having certain MSNs were excluded. This AD is 
+intended to complete certain mandated programs intended to support the 
+airplane reaching its limit of validity (LOV) of the engineering data 
+that support the established structural maintenance program. We are 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective November 20, 2018.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of November 20, 
+2018.
+
+ADDRESSES: For service information identified in this final rule, 
+contact Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France, France; telephone +33 5 
+61 93 36 96; fax +33 5 61 93 45 80; email [email protected]; internet http://www.airbus.com. You may view this 
+referenced service information at the FAA, Transport Standards Branch, 
+2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195. It is also 
+available on the internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2018-0583.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0583; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this final rule, the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M-30, 
+West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax 206-231-3229.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to supersede AD 2017-16-07, Amendment 39-18984 (82 FR 41874, 
+September 5, 2017) (``AD 2017-16-07''). AD 2017-16-07 applied certain 
+Airbus Model A330-200, A330-200 Freighter, A330-300, A340-500, and 
+A340-600 series airplanes; and Model A340-313 airplanes. The NPRM 
+published in the Federal Register on July 6, 2018 (83 FR 31499). The 
+NPRM was prompted by a determination that only airplanes having certain 
+MSNs are affected by TSA/CAA surface treatment in the door fitting 
+attachment holes, and that airplanes having certain MSNs were excluded. 
+The NPRM was intended to complete certain mandated programs intended to 
+support the airplane reaching its LOV of the engineering data that 
+support the established structural maintenance program. The NPRM 
+proposed to require new inspections of certain attachment holes for 
+residual surface treatment and cracking, and corrective action if 
+necessary; and to provide an optional terminating action for the 
+inspections. The NPRM also proposed to revise the applicability to add 
+certain airplanes and remove others. We are issuing this AD to address 
+fatigue cracks in the bulk cargo door frames, caused by TSA/CAA surface 
+treatment in certain bulk cargo door frame holes. Cracks in the bulk 
+cargo door frames can cause the in-flight loss of a bulk cargo door, 
+damage to the airplane, and subsequent reduced control of the airplane.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA AD 
+2018-0005, dated January 10, 2018 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for certain Airbus SAS Model A330-200, 
+A330-200 Freighter, and A330-300 series airplanes, and Airbus SAS Model 
+A340-200 and A340-300 series airplanes. The MCAI states:
+
+    In the frame of the certification of the A330 Extended Service 
+Goal exercise, it was
+
+[[Page 52127]]
+
+identified that Tartaric Sulfuric Anodising (TSA) or Chromic Acid 
+Anodising (CAA) surface treatment is present in some frame holes, 
+from aeroplane MSN [manufacturer serial number] 0400 and later MSN, 
+following production process modification. On bulk cargo door frames 
+(FR) 67 and FR 69 right hand (RH) side, the door fitting attachment 
+holes have this TSA or CAA treatment, which leads to a detrimental 
+effect on fatigue behaviour.
+    This condition, if not detected and corrected, could lead to 
+cracks in the primary structure, possibly resulting in in-flight 
+loss of a bulk cargo door, consequent decompression and potential 
+damage to, and reduced control of, the aeroplane.
+    To initially address this potential unsafe condition, Airbus 
+issued Alert Operators Transmission (AOT) A53L012-16 to provide 
+instructions to inspect the fuselage bulk cargo door frames at 
+specific locations. Consequently, EASA issued AD 2016-0102 [which 
+corresponds to FAA AD 2017-16-07], requiring repetitive non-
+destructive test (rototest and high-frequency eddy-current (HFEC)) 
+inspection or visual detailed (DET) inspections [to detect cracking] 
+of the affected areas, and, depending on findings, accomplishment of 
+a repair.
+    Since that [EASA] AD was issued, it was determined that only 
+aeroplanes from MSN 0400 to MSN 1779 are affected by CAA or TSA 
+surface treatment issue in the door fitting attachment holes. 
+However, it was also determined that aeroplanes MSN 0001 to MSN 0399 
+are affected in the same attachment holes due to a fatigue issue, 
+therefore, the same inspections must also be accomplished on these 
+aeroplanes. In addition, based on inspection results and 
+calculation, Airbus redefined inspection thresholds and intervals, 
+depending on aeroplane type, model and utilisation. Airbus published 
+SB A330-53-3278 and SB A340-53-4239 providing the inspection 
+instructions at the specific locations with extended inspection 
+thresholds and intervals. Airbus also determined that the actions 
+should not be required for A340-500 and -600 models, as for these 
+aeroplanes, the unsafe condition would only develop beyond the 
+Design Service Goal of these aeroplanes. Finally, Airbus developed 
+modification (mod) 206409 and published associated SB A330-53-3275 
+and SB A340-53-4238, as applicable, as optional terminating action.
+    For the reasons described above, this [EASA] AD retains the 
+requirements of EASA AD 2016-0102, which is superseded, expands the 
+Applicability and requires redefined repetitive inspections of the 
+holes at the upper and lower door support fittings of FR 67 and FR 
+69 RH and the holes at door latch fitting of FR 69 RH. This [EASA] 
+AD also introduces an optional modification, which constitutes 
+terminating action for the repetitive inspections as required by 
+this [EASA] AD.
+
+    The optional modification involves related investigative actions of 
+eddy current rotating probe testing for cracks of the support fittings 
+and the frame holes at frame (FR) 67 and FR 69. You may examine the 
+MCAI in the AD docket on the internet at http://www.regulations.gov by 
+searching for and locating Docket No. FAA-2018-0583.
+
+Comments
+
+    We gave the public the opportunity to participate in developing 
+this final rule. We received no comments on the NPRM or on the 
+determination of the cost to the public.
+
+Conclusion
+
+    We reviewed the relevant data and determined that air safety and 
+the public interest require adopting this final rule as proposed, 
+except for minor editorial changes. We have determined that these minor 
+changes:
+     Are consistent with the intent that was proposed in the 
+NPRM for addressing the unsafe condition; and
+     Do not add any additional burden upon the public than was 
+already proposed in the NPRM.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus SAS has issued the following service information.
+     Service Bulletin A330-53-3275, dated September 8, 2017.
+     Service Bulletin A330-53-3278, dated August 22, 2017.
+     Service Bulletin A340-53-4238, dated September 8, 2017.
+     Service Bulletin A340-53-4239, dated September 5, 2017.
+    Airbus Service Bulletins A330-53-3278 and A340-53-4239 describe 
+procedures for rototest, HFEC/ultrasonic and detailed inspections for 
+residual surface treatment and cracking of the upper and lower right-
+hand fuselage bulk cargo door support fitting attachment holes at FR 67 
+and FR 69 and the right-hand fuselage bulk cargo door latch fitting 
+attachment holes at FR 69. Airbus Service Bulletins A330-53-3275 and 
+A340-53-4238 describe procedures for a modification, which includes 
+eddy current rotating probe testing for cracks of the support fittings 
+and the frame holes at FR 67 and FR 69, and removal of TSA or CAA in 
+the final holes of the bulk door frames FR 67 and FR 69. These 
+documents are distinct since they apply to different airplane models. 
+This service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    We estimate that this AD affects 102 airplanes of U.S. registry. We 
+estimate the following costs to comply with this AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                   Cost per
+           Action                Labor cost      Parts cost        product           Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+Inspections and modification  Up to 40                 $5,100  Up to $8,500...  Up to $867,000.
+                               work[dash]hour
+                               s x $85 per
+                               hour = $3,400.
+----------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that enables us to provide cost 
+estimates for the on-condition actions specified in this AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This AD is issued in accordance with authority delegated by the 
+Executive Director, Aircraft Certification Service, as authorized by 
+FAA Order 8000.51C. In accordance with that order, issuance of ADs is 
+normally a function of the Compliance and Airworthiness Division, but 
+during this transition period, the Executive Director has
+
+[[Page 52128]]
+
+delegated the authority to issue ADs applicable to transport category 
+airplanes and associated appliances to the Director of the System 
+Oversight Division.
+
+Regulatory Findings
+
+    We determined that this AD will not have federalism implications 
+under Executive Order 13132. This AD will not have a substantial direct 
+effect on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2017-16-07, Amendment 39-18984 (82 FR 41874, September 5, 2017), and 
+adding the following new AD:
+
+2018-20-19 Airbus SAS: Amendment 39-19453; Docket No. FAA-2018-0583; 
+Product Identifier 2018-NM-019-AD.
+
+(a) Effective Date
+
+    This AD is effective November 20, 2018.
+
+(b) Affected ADs
+
+    This AD replaces AD 2017-16-07, Amendment 39-18984 (82 FR 41874, 
+September 5, 2017) (``AD 2017-16-07'').
+
+(c) Applicability
+
+    This AD applies to the following Airbus SAS airplanes, 
+certificated in any category, manufacturer serial numbers (MSNs) 
+0001 to 1779 inclusive; except airplanes on which Airbus Service 
+Bulletin A330-53-3275 or Airbus Service Bulletin A340-53-4238 has 
+been embodied.
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+    (4) Model A340-211, -212, and -213 airplanes.
+    (5) Model A340-311, -312, and -313 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD is prompted by a determination that only airplanes 
+having certain MSNs are affected by tartaric sulfuric anodizing 
+(TSA)/chromic acid anodizing (CAA) surface treatment in the door 
+fitting attachment holes, and that airplanes having certain MSNs 
+were excluded from AD 2017-16-07. This AD is intended to complete 
+certain mandated programs intended to support the airplane reaching 
+its limit of validity (LOV) of the engineering data that support the 
+established structural maintenance program. We are issuing this AD 
+to detect and correct fatigue cracks in the bulk cargo door frames, 
+caused by TSA/CAA surface treatment in certain bulk cargo door frame 
+holes. Cracks in the bulk cargo door frames can cause the in-flight 
+loss of a bulk cargo door, damage to the airplane, and subsequent 
+reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Repetitive Inspections
+
+    Before exceeding the thresholds specified in table 1 to 
+paragraph (g) of this AD, or within the applicable time specified in 
+paragraph (g)(1) or (g)(2) of this AD, whichever is later: Do a 
+rototest, high frequency eddy current (HFEC), ultrasonic, or 
+detailed inspection, as applicable, for residual surface treatment 
+and cracking of the upper and lower right-hand fuselage bulk cargo 
+door support fitting attachment holes at FR 67 and FR 69 and the 
+right-hand fuselage bulk cargo door latch fitting attachment holes 
+at FR 69, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A330-53-3278, dated August 22, 2017; or 
+Airbus Service Bulletin A340-53-4239, dated September 5, 2017; as 
+applicable. Thereafter, depending on the areas and inspection 
+methods as defined in table 2 to paragraph (g) of this AD, repeat 
+the inspection at intervals not exceeding those specified in table 3 
+to paragraph (g) of this AD.
+    (1) For airplanes having MSN 0001 through 0399 inclusive: Within 
+200 flight cycles after the effective date of this AD.
+    (2) For airplanes having MSN 0400 through 1779 inclusive: Within 
+800 flight cycles after the effective date of this AD.
+BILLING CODE 4910-13-P
+
+[[Page 52129]]
+
+[GRAPHIC] [TIFF OMITTED] TR16OC18.003
+
+
+[[Page 52130]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR16OC18.004
+
+BILLING CODE 4910-13-C
+
+(h) Corrective Action
+
+    If any discrepancy is found during any inspection required by 
+paragraph (g) of this AD, before further flight, repair using a 
+method approved by the Manager, International Section, Transport 
+Standards Branch, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus SAS's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature.
+
+(i) Non-Terminating Action for Repairs
+
+    Accomplishment of a repair on an airplane, as required by 
+paragraph (h) of this AD, does not constitute terminating action for 
+the inspections required by paragraph (g) of this AD for that 
+airplane, unless otherwise specified in repair instructions approved 
+by the Manager, International Section, Transport Standards Branch, 
+FAA; or EASA; or Airbus SAS's EASA DOA. If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+
+(j) Optional Terminating Action
+
+    Accomplishment of the modification, including applicable related 
+investigative and corrective actions and removal of TSA or CAA in 
+the final holes of the bulk door frames FR 67 and FR 69, as 
+applicable, specified in, and in accordance with the AI of Airbus 
+Service Bulletin A330-53-3275, dated September 8, 2017; or Airbus 
+Service Bulletin A340-53-4238, dated September 8, 2017; as 
+applicable; constitutes terminating action for the inspections 
+required by paragraph (g) of this AD for that airplane, unless 
+otherwise specified in the repair instructions approved by the 
+Manager, International Section, Transport Standards Branch, FAA; or 
+EASA; or Airbus SAS's EASA DOA. If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before the 
+effective date of this AD using Airbus Alert Operators Transmission 
+(AOT) A53L012-16, dated May 30, 2016; or Rev 01, dated March 9, 
+2017.
+
+(l) Other FAA AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Section, send it to the 
+attention of the person identified in paragraph (m)(2) of this AD. 
+Information may be emailed to: [email protected]. 
+Before using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+local flight standards district office/certificate holding district 
+office.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or the EASA; or Airbus SAS's EASA DOA. If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2018-0005, dated January 10, 2018, for related 
+information. This MCAI may be found in the AD docket on the internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2018-0583.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 2200 South 216th St., Des Moines, WA 98198; 
+telephone and fax 206-231-3229.
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (n)(3) and (n)(4) of this AD.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Airbus Service Bulletin A330-53-3275, dated September 8, 
+2017.
+    (ii) Airbus Service Bulletin A330-53-3278, dated August 22, 
+2017.
+    (iii) Airbus Service Bulletin A340-53-4238, dated September 8, 
+2017.
+    (iv) Airbus Service Bulletin A340-53-4239, dated September 5, 
+2017.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, Rond-Point Emile Dewoitine 
+No: 2, 31700 Blagnac Cedex, France, France;
+
+[[Page 52131]]
+
+telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; email 
+[email protected]; internet http://www.airbus.com.
+    (4) You may view this service information at the FAA, Transport 
+Standards Branch, 2200 South 216th St., Des Moines, WA. For 
+information on the availability of this material at the FAA, call 
+206-231-3195.
+    (5) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued in Des Moines, Washington, on September 26, 2018.
+John P. Piccola,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2018-22147 Filed 10-15-18; 8:45 am]
+ BILLING CODE 4910-13-P

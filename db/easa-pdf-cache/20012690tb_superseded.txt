@@ -1,0 +1,11 @@
+--- PAGE 1 ---
+GSAC AIRWORTHINESS DIRECTIVE released by DIRECTION GENERALE DE L’AVIATION CIVILE Inspection and/or modifications described below are mandatory. No person may operate a product to which this
+
+Airworthiness Directive applies except in accordance with the requirements of this
+
+Airworthiness Directive. Translation of ‘Consigne de Navigabilité’ ref. : 2001-269(B) In case of any difficulty, reference should be made to the French original issue. AIRBUS INDUSTRIE A330 aircraft Wing rear spar - Inspection of the upper build slot between rib 1 and 2 (ATA 57) D E APPLICABILITY: D AIRBUS INDUSTRIE aircraft A330, models -301, -321, -322, -341 and -342 except aircraft which have received AIRBUS INDUSTRIE modification 42547 in production or modified in service in accordance with E AIRBUS INDUSTRIE Service Bulletin (SB) A330-57-3058 at original issue or any further approved revision. S R REASONS: It was evident during fatigue test that crack initiated and propagated from the tip of the build slot in the E vertical web of the rear spar between rib 1 and 2. P This situation, if not corrected, could lead to a reduced structural integrity of the wing. U COMPLIANCE: S The following measures are rendered mandatory on the effective date of this
+
+Airworthiness Directive (AD): 1. Before accumulation of 10,300 flights cycles (FC) or 32,000 flight hours (FH) since first flight, whichever occurs first: - perform an HFEC inspection of the aft face of the inner rear spar web in the area adjacent to the outboard end of the build slot, - perform, if necessary a repair, in accordance with the instructions given in the SB A330-57-3059. 2. Repeat the above inspection at intervals not exceeding 8,300 FC or 25,800 FH, whichever occurs first. Note: The requirements of this AD are cancelled after embodiment of SB A330-57-3058. …/… n/GH AIRBUS INDUSTRIE June 27, 2001 2001-269(B) A330 aircraft
+
+--- PAGE 2 ---
+AIRWORTHINESS DIRECTIVE ref. : 2001-269(B) Page n° 2 GSAC REF.: AIRBUS INDUSTRIE Service Bulletin A330-57-3058 AIRBUS INDUSTRIE Service Bulletin A330-57-3059 Any later approved revision of these SB's is acceptable. EFFECTIVE DATE : JULY 07, 2001 D E D E S R E P U S

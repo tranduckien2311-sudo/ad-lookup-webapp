@@ -1,0 +1,1001 @@
+[Federal Register Volume 88, Number 242 (Tuesday, December 19, 2023)]
+[Rules and Regulations]
+[Pages 87655-87665]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-27681]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1645; Project Identifier MCAI-2022-01296-T; 
+Amendment 39-22613; AD 2023-23-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is superseding Airworthiness Directive (AD) 2019-12-
+07, which applied to all Airbus SAS Model A318-111, -112, -121, and -
+122 airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, and 
+-133 airplanes; Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, and 
+-232 airplanes. AD 2019-12-07 required replacement of both main landing 
+gear (MLG) shock absorbers, an identification of affected MLG sliding 
+tubes; inspection of affected chromium plates and sliding tube axles 
+for damage; and replacement of the sliding tube if necessary. AD 2019-
+12-07 also required repetitive inspections of affected MLG sliding 
+tubes for cracking, replacement of cracked MLG sliding tubes, and 
+eventual replacement of each affected MLG sliding tube. This AD 
+continues to require the actions specified in AD 2019-12-07 and 
+requires repetitive inspections of additional MLG sliding tubes, 
+replacement if necessary, and eventual replacement of the additional 
+MLG sliding tubes. This AD also extends the repetitive inspection 
+interval. This AD also prohibits the installation of affected parts 
+under certain conditions. This AD was prompted by the FAA's 
+determination that additional MLG sliding tubes are affected by the 
+unsafe condition and
+
+[[Page 87656]]
+
+that the repetitive inspection interval may be extended. The FAA is 
+issuing this AD to address the unsafe condition on these products.
+
+DATES: This AD is effective January 23, 2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain publications listed in this AD as of January 23, 
+2024.
+    The Director of the Federal Register approved the incorporation by 
+reference of certain other publications listed in this AD as of August 
+1, 2019 (84 FR 30579, June 27, 2019).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of 
+February 22, 2017 (82 FR 5362, January 18, 2017).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of June 
+29, 2007 (72 FR 29241, May 25, 2007).
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain other publication listed in this AD as of June 
+23, 2004 (69 FR 31867, June 8, 2004).
+
+ADDRESSES: 
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-1645; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+address for Docket Operations is U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE, Washington, DC 20590.
+    Material Incorporated by Reference:
+     For Airbus service information identified in this final 
+rule, contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 36 
+96; fax +33 5 61 93 44 51; email airbus.com">account.airworth-eas@airbus.com; 
+website airbus.com.
+     For Safran and Messier-Dowty service information 
+identified in this final rule, contact Safran Landing Systems, One 
+Carbon Way, Walton, KY 41094; telephone 859-525-8583; fax 859-485-8827; 
+website www.safran-landing-systems.com.
+     You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195. It is also available at 
+regulations.gov under Docket No. FAA-2023-1645.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 206-231-3667; email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued a notice of proposed rulemaking (NPRM) to amend 14 
+CFR part 39 to supersede AD 2019-12-07, Amendment 39-19662 (84 FR 
+30579, June 27, 2019) (AD 2019-12-07). AD 2019-12-07 applied to all 
+Airbus SAS Model A318-111, -112, -121, and -122 airplanes; Model A319-
+111, -112, -113, -114, -115, -131, -132, and -133 airplanes; Model 
+A320-211, -212, -214, -216, -231, -232, and -233 airplanes; and Model 
+A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. AD 
+2019-12-07 required replacement of both MLG shock absorbers, an 
+identification of the part number and serial number of the MLG sliding 
+tubes, inspection of affected chromium plates and sliding tube axles 
+for damage, and replacement of the sliding tube if necessary. AD 2019-
+12-07 also required repetitive inspections of affected MLG sliding 
+tubes for cracking, replacement of cracked MLG sliding tubes, and 
+eventual replacement of each affected MLG sliding tube. The FAA issued 
+AD 2019-12-07 to address cracking in an MLG sliding tube, which could 
+lead to failure of an MLG sliding tube resulting in MLG collapse, 
+damage to the airplane, and injury to passengers.
+    The NPRM published in the Federal Register on August 1, 2023 (88 FR 
+50067). The NPRM was prompted by AD 2022-0204R1, dated February 15, 
+2023; corrected February 17, 2023, issued by The European Union 
+Aviation Safety Agency (EASA), which is the Technical Agent for the 
+Member States of the European Union (EASA AD 2022-0204R1) (also 
+referred to as the MCAI). The MCAI states that since EASA AD 2018-0135, 
+dated June 26, 2018, was issued (which corresponds to FAA AD 2019-12-
+07), two additional cases have been reported of cracking at the same 
+location of MLG sliding tubes not affected by the inspection 
+requirements and that service information was issued to include 
+additional actions for the newly affected MLG sliding tubes. In 
+addition, further investigation determined the repetitive inspection 
+interval may be extended from 5,000 flight cycles to 10,000 flight 
+cycles.
+    In the NPRM, the FAA proposed to continue to require the actions 
+specified in AD 2019-12-07 and proposed to require repetitive 
+inspections of additional MLG sliding tubes, replacement if necessary, 
+and eventual replacement of the additional MLG sliding tubes. In the 
+NPRM, the FAA also proposed to extend the repetitive inspection 
+interval and to prohibit the installation of affected parts under 
+certain conditions. The FAA is issuing this AD to address the unsafe 
+condition on these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2023-1645.
+
+Discussion of Final Airworthiness Directive
+
+Comments
+
+    The FAA received comments from four commenters, including American 
+Airlines, SIAEC, United Airlines (United), and Delta Air Lines (Delta). 
+The following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Allow Parts Inspected Using Component Maintenance Manuals 
+(CMMs)
+
+    American Airlines, SIAEC, United, and Delta requested that the 
+proposed AD be revised to identify MLG sliding tubes that were 
+inspected using certain CMMs identified in EASA AD 2022-0204R1 as 
+acceptable parts. American Airlines requested that paragraph (w)(1) of 
+the proposed AD be revised to include CMM references that include 
+inspections as acceptable actions for the on-wing inspections. Delta 
+requested that both paragraph (n)(2) and (w)(1) of the proposed AD be 
+revised to include parts that have passed inspection using the CMMs. 
+American Airlines and SIAEC stated that paragraph (w)(1) of the 
+proposed AD does not include as serviceable parts MLG sliding tubes 
+that have been inspected and repaired using the CMMs specified in EASA 
+AD 2022-0204R1.
+    United requested the FAA definition of serviceable parts be revised 
+to include those that were overhauled per the CMMs identified in EASA 
+AD 2022-0204R1 and the Safran service information identified in EASA AD 
+2022-0204R1.
+    The FAA agrees to revise paragraphs (n)(2) and (w)(1) of this AD, 
+which include definitions of affected parts with exceptions. This 
+change addresses United's request to revise the definition of 
+serviceable parts specified in paragraph (w)(2) of this AD. The FAA has 
+revised the exception language in
+
+[[Page 87657]]
+
+paragraphs (n)(2) and (w)(1) of this AD to include parts that have 
+passed an inspection specified in Safran CMM task 32-11-33 (K0654), 
+Revision 71, dated September 2020, or later; CMM task 32-12-25 (K0654), 
+Revision 61, dated March 2020, or later; CMM task 32-12-12 (K0654), 
+Revision 57, dated September 2020, or later; or CMM task 32-12-22 
+(K0654), Revision 56, dated March 2020, or later; as applicable.
+    Regarding the comment that the repair of MLG sliding tubes using 
+the CMMs specified in EASA AD 2022-0204R1 was not included in paragraph 
+(w)(1) of the proposed AD, with the change to paragraph (w)(1) of this 
+AD described previously, those repairs are included. As specified in 
+paragraph (w)(1) of this AD repairs must have been done using 
+instructions approved by the Manager, International Section, Transport 
+Standards Branch, FAA; or EASA; or Airbus SAS's EASA DOA. If approved 
+by the DOA, the approval must include the DOA-authorized signature.
+
+Request for Revise Format
+
+    United requested that the FAA revise the format of the proposed AD. 
+United stated that the proposed AD restates the requirements of 
+previously issued FAA ADs under paragraph (g) through (v) of the 
+proposed AD and adds new requirements from paragraph (w) through (cc) 
+of the proposed AD. United stated it found the restatements to be 
+unnecessary and that the proposed AD could be simplified and made 
+easier to read. United recommended requiring operators to comply with 
+the requirements of Airbus Service Bulletin A320-32-1441, Revision 2, 
+dated August 23, 2022, with the noted exceptions of the compliance 
+time.
+    The FAA acknowledges that this is a complex AD; however, the FAA 
+disagrees with the request. In most supersedures where there are 
+retained requirements, the FAA structures the AD by including the 
+retained ``old'' requirements in ``Restatement'' paragraphs and the 
+``new'' requirements in the ``New'' paragraphs of the AD. This allows 
+operators that already accomplished the ``old'' requirements of an 
+existing AD to show compliance with the corresponding retained 
+requirements in the new AD without having to show compliance with two 
+ADs. The FAA has not revised this AD in this regard.
+
+Conclusion
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA reviewed the relevant data, considered the 
+comments received, and determined that air safety requires adopting 
+this AD as proposed. Accordingly, the FAA is issuing this AD to address 
+the unsafe condition on this product. Except for minor editorial 
+changes, and any other changes described previously, this AD is adopted 
+as proposed in the NPRM. None of the changes will increase the economic 
+burden on any operator.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Airbus Service Bulletin A320-32-1441, Revision 02, 
+dated August 23, 2022. This service information specifies procedures 
+for inspections of the MLG sliding tubes for cracking and corrective 
+actions (which includes replacing the MLG sliding tubes).
+    The FAA also reviewed Safran Service Bulletin 200-32-321, Revision 
+4, dated November 3, 2021; and Safran Service Bulletin 201-32-68, 
+Revision 4, dated November 3, 2021. These documents specify the part 
+numbers and serial numbers of the affected MLG sliding tubes. These 
+documents are distinct since they apply to different airplane models.
+    This AD also requires the following service information, which the 
+Director of the Federal Register approved for incorporation by 
+reference as of August 1, 2019 (84 FR 30579, June 27, 2019).
+     Airbus Service Bulletin A320-32-1441, Revision 01, dated 
+December 14, 2017.
+     Messier-Dowty Service Bulletin 200-32-286, Revision 3, 
+dated October 3, 2008.
+     Messier-Dowty Service Bulletin 201-32-43, Revision 3, 
+dated October 3, 2008.
+     Safran Service Bulletin 200-32-321, Revision 2, dated 
+October 3, 2017.
+     Safran Service Bulletin 201-32-68, Revision 2, dated 
+October 3, 2017.
+    This AD also requires Airbus Service Bulletin A320-32-1416, 
+including Appendix 01, dated March 10, 2014, which the Director of the 
+Federal Register approved for incorporation by reference as of February 
+22, 2017 (82 FR 5362, January 18, 2017).
+    This AD also requires Airbus Service Bulletin A320-32A1273, 
+Revision 02, including Appendix 01, dated May 26, 2005, which the 
+Director of the Federal Register approved for incorporation by 
+reference as of June 29, 2007 (72 FR 29241, May 25, 2007).
+    This AD also requires Airbus All Operators Telex A320-32A1273, 
+Revision 01, dated May 6, 2004, which the Director of the Federal 
+Register approved for incorporation by reference as of June 23, 2004 
+(69 FR 31867, June 8, 2004).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Costs of Compliance
+
+    The FAA estimates that this AD affects 1,525 airplanes of U.S. 
+registry.
+    The FAA estimates the following costs to comply with this AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                   Labor cost          Parts cost       Cost per  product       operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from paragraph   8 work-hours x $85  Up to $45,310.....  Up to $45,990.....  Up to
+ (g) of AD 2019-12-07 (297         per hour = $680.                                            $13,659,030.*
+ airplanes *).
+Retained actions from paragraphs  18 work-hours x     $0................  $1,530............  $2,333,250.
+ (h) and (j) of AD 2019-12-07.     $85 per hour =
+                                   $1,530.
+Retained actions from paragraphs  13 work-hours x     Up to $3,920......  Up to $5,025......  Up to $7,663,125.
+ (o), (p), and (q) of AD 2019-12-  $85 per hour =
+ 07.                               $1,105.
+
+[[Page 87658]]
+
+ 
+New actions (in paragraphs (o),   9 work-hours x $85  Up to $3,920......  Up to $4,685......  Up to $7,144,625.
+ (p), and (q) of this AD).         per hour = $765.
+----------------------------------------------------------------------------------------------------------------
+* Operators should note that, although all U.S.-registered airplanes are subject to the retained requirements of
+  paragraph (g) of this AD, there are only 297 possible affected MLG sliding tubes in the worldwide fleet. The
+  FAA has no way of knowing how many affected MLG sliding tubes, if any, are installed in U.S.-registered
+  airplanes.
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+7 work-hours x $85 per hour = $595....          $1,960           $2,555
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this AD will not have federalism 
+implications under Executive Order 13132. This AD will not have a 
+substantial direct effect on the States, on the relationship between 
+the national government and the States, or on the distribution of power 
+and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that this AD:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Will not affect intrastate aviation in Alaska, and
+    (3) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA amends 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2019-12-07, Amendment 39-19662 
+(84 FR 30579, June 27, 2019); and
+0
+b. Adding the following new AD:
+
+2023-23-11 Airbus SAS: Amendment 39-22613; Docket No. FAA-2023-1645; 
+Project Identifier MCAI-2022-01296-T.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective January 23, 2024.
+
+(b) Affected ADs
+
+    This AD replaces AD 2019-12-07, Amendment 39-19662 (84 FR 30579, 
+June 27, 2019) (AD 2019-12-07).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS airplanes identified in paragraphs 
+(c)(1) through (4) of this AD, certificated in any category, all 
+manufacturer serial numbers (MSNs).
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, and -232 
+airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+gear.
+
+(e) Reason
+
+    This AD was prompted by a determination that cracks were found 
+in the main landing gear (MLG) sliding tubes due to certain 
+manufacturing defects that might not be identified using the current 
+on-wing scheduled inspections. In addition, since AD 2019-12-07 was 
+issued, the FAA has determined that additional MLG sliding tubes are 
+affected by the unsafe condition. The FAA is issuing this AD to 
+address cracking in an MLG sliding tube, which could lead to failure 
+of an MLG sliding tube resulting in MLG collapse, damage to the 
+airplane, and injury to passengers.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Replacement, With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2019-12-07, with no changes. Within 41 months after June 29, 2007 
+(the effective date of AD 2007-11-11, Amendment 39-15068 (72 FR 
+29241, May 25, 2007) (AD 2007-11-11)), replace all MLG shock 
+absorbers equipped with MLG sliding tubes having serial numbers 
+listed in Airbus All Operators Telex (AOT) A320-32A1273, Revision 
+01, dated May 6, 2004; or the Accomplishment Instructions of Airbus 
+Service Bulletin A320-32A1273, Revision 02, including Appendix 01, 
+dated May 26, 2005; with new or serviceable MLG shock absorbers 
+equipped with MLG sliding tubes having serial numbers not listed in 
+Airbus AOT A320-32A1273, Revision 01, dated May 6, 2004; or the 
+Accomplishment Instructions of Airbus Service Bulletin A320-32A1273, 
+Revision 02, including Appendix 01, dated May-26, 2005; using a 
+method approved by the Manager, International Section, Transport
+
+[[Page 87659]]
+
+Standards Branch, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus SAS's EASA Design Organization Approval (DOA). If 
+approved by the DOA, the approval must include the DOA-authorized 
+signature. As of June 29, 2007, only Airbus Service Bulletin A320-
+32A1273, Revision 02, including Appendix 01, dated May 26, 2005, may 
+be used to determine the affected MLG sliding tubes.
+
+    Note 1 to paragraph (g): Guidance on the replacement specified 
+in paragraph (g) of this AD can be found in Airbus A318/A319/A320/
+A321 Aircraft Maintenance Manual Chapter 32-11-13, page block 401.
+
+(h) Retained MLG Sliding Tube Part Number and Serial Number 
+Identification, With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2019-12-07, with no changes. Within three months after February 22, 
+2017 (the effective date of AD 2017-01-11, Amendment 39-18778 (82 FR 
+5362, January 18, 2017) (AD 2017-01-11)): Do an inspection to 
+identify the part number and serial number of the MLG sliding tubes 
+installed on the airplane. A review of airplane maintenance records 
+is acceptable in lieu of this inspection if the part number and 
+serial number of the MLG sliding tubes can be conclusively 
+determined from that review.
+
+(i) Retained Identification of Airplanes, With an Updated Reference
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2019-12-07, with an updated reference. An airplane with an MSN not 
+listed in figure 1 to paragraph (i) of this AD is not affected by 
+the requirements of paragraph (j) of this AD, provided it can be 
+determined that no MLG sliding tube having a part number and serial 
+number listed in figure 2 to paragraph (i) of this AD has been 
+installed on that airplane since first flight of the airplane.
+[GRAPHIC] [TIFF OMITTED] TR19DE23.000
+
+
+[[Page 87660]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR19DE23.001
+
+
+[[Page 87661]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR19DE23.002
+
+(j) Retained Inspections, With an Updated Reference
+
+    This paragraph restates the inspections required by paragraph 
+(j) of AD 2019-12-07, with an updated reference. For each MLG 
+sliding tube identified as required by paragraph (h) of this AD, 
+having a part number and serial number listed in figure 2 to 
+paragraph (i) of this AD: Within 3 months after February 22, 2017 
+(the effective date of AD 2017-01-11) inspect affected MLG axles and 
+brake flanges by doing a detailed visual inspection of the chromium 
+plates for damage, and a Barkhausen noise inspection of the MLG 
+sliding tube axles for damage, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-32-1416, including 
+Appendix 01, dated March 10, 2014. For Model A318 series airplanes, 
+use the procedures specified for Model A319 series airplanes in 
+Airbus Service Bulletin A320-32-1416, including Appendix 01, dated 
+March 10, 2014.
+
+[[Page 87662]]
+
+(k) Retained Corrective Action for Paragraph (j) of This AD, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (k) of 
+2019-12-07, with no changes. If, during any inspection required by 
+paragraph (j) of this AD, any damage is detected: Before further 
+flight, replace the MLG sliding tube with a serviceable MLG sliding 
+tube, in accordance with the Accomplishment Instructions of Airbus 
+Service Bulletin A320-32-1416, including Appendix 01, dated March 
+10, 2014. For Model A318 series airplanes, use the procedures 
+specified for Model A319 series airplanes in Airbus Service Bulletin 
+A320-32-1416, including Appendix 01, dated March 10, 2014.
+
+(l) Retained Definition for Serviceable MLG Sliding Tube, With Updated 
+References
+
+    This paragraph restates the definition for serviceable MLG 
+sliding tube specified in paragraph (l) of AD 2019-12-07, with 
+updated references. For the purpose of paragraph (k) of this AD, a 
+serviceable MLG sliding tube is defined as an MLG sliding tube that 
+meets the criterion in either paragraph (l)(1) or (2) of this AD.
+    (1) An MLG sliding tube having a part number and serial number 
+not listed in figure 2 to paragraph (i) of this AD.
+    (2) An MLG sliding tube having a part number and serial number 
+listed in figure 2 to paragraph (i) of this AD that has passed the 
+inspections required by paragraph (j) of this AD.
+
+(m) Retained Parts Installation Prohibition, With Updated References
+
+    This paragraph restates the parts installation prohibition 
+specified in paragraph (m) of AD 2019-12-07, with updated 
+references.
+    (1) For airplanes that have an MLG sliding tube installed that 
+has a part number and serial number listed in figure 2 to paragraph 
+(i) of this AD: After an airplane is returned to service following 
+accomplishment of the actions required by paragraphs (h), (i), and 
+(j) of this AD, no person may install on any airplane an MLG sliding 
+tube having a part number and serial number listed in figure 2 to 
+paragraph (i) of this AD, unless that MLG sliding tube has passed 
+the inspection required by paragraph (j) of this AD.
+    (2) For airplanes that, as of February 22, 2017 (the effective 
+date of AD 2017-01-11), do not have an MLG sliding tube installed 
+that has a part number and serial number listed in figure 2 to 
+paragraph (i) of this AD: No person may install, on any airplane, an 
+MLG sliding tube having a part number and serial number listed in 
+figure 2 to paragraph (i) of this AD unless that MLG sliding tube 
+has passed the inspection required by paragraph (j) of this AD.
+
+(n) Retained Definitions, With New Exception in Paragraph (n)(2) of 
+This AD
+
+    This paragraph restates the definitions specified in paragraph 
+(n) of AD 2019-12-07, with new exception in paragraph (n)(2) of this 
+AD. For the purpose of paragraphs (o), (p), (q), (r), and (s) of 
+this AD, the following definitions apply.
+    (1) Affected MLG shock absorber: An MLG shock absorber having a 
+part number and serial number as identified in Messier-Dowty Service 
+Bulletin 200-32-286, Revision 3, dated October 3, 2008, for Model 
+A318, A319, and A320 series airplanes; and Messier-Dowty Service 
+Bulletin 201-32-43, Revision 3, dated October 3, 2008, for Model 
+A321 series airplanes.
+    (2) Affected MLG sliding tube: An MLG sliding tube having a part 
+number and serial number as identified in Appendix B of Safran 
+Service Bulletin 200-32-321, Revision 2, dated October 3, 2017, for 
+Model A318, A319, and A320 series airplanes, or Safran Service 
+Bulletin 201-32-68, Revision 2, dated October 3, 2017, for Model 
+A321 series airplanes; except parts identified in paragraphs 
+(n)(2)(i) and (ii) of this AD and those parts that, after the 
+inspection specified (n)(2)(i) or (ii) of this AD, have been 
+repaired, using instructions approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or EASA; or Airbus SAS's 
+EASA DOA. If approved by the DOA, the approval must include the DOA-
+authorized signature.
+
+    Note 2 to the introductory text of paragraph (n)(2) of this AD: 
+The affected MLG sliding tubes identified in paragraph (n)(2) of 
+this AD are referred to as affected ``Batch 1'' MLG sliding tubes in 
+EASA AD 2022-0204R1, dated February 15, 2023; corrected February 17, 
+2023.
+
+    (i) Parts that passed an inspection as specified in Safran 
+Service Bulletin 200-32-321 or Safran Service Bulletin 201-32-68, as 
+applicable.
+    (ii) Parts that have passed an inspection as specified in Safran 
+component maintenance manual (CMM) task 32-11-33 (K0654), Revision 
+71, dated September 2020, or later; CMM task 32-12-25 (K0654), 
+Revision 61, dated March 2020, or later; CMM task 32-12-12 (K0654), 
+Revision 57, dated September 2020, or later; or CMM task 32-12-22 
+(K0654), Revision 56, dated March 2020, or later; as applicable.
+    (3) Serviceable MLG sliding tube: An MLG sliding tube that is 
+not affected, or an affected MLG sliding tube, that has not exceeded 
+10,000 flight cycles since first installation on an airplane, or an 
+affected MLG sliding tube that, within the last 5,000 flight cycles 
+before installation on an airplane, passed an inspection specified 
+in Airbus Service Bulletin A320-32-1441.
+
+(o) Retained Repetitive Inspections, With New Service Information and 
+Extended Inspection Interval
+
+    This paragraph restates the repetitive inspections required by 
+paragraph (o) of AD 2019-12-07, with new service information and 
+extended inspection interval. At the compliance time specified in 
+figure 3 to paragraph (o) of this AD, and thereafter at intervals 
+not to exceed 10,000 flight cycles: Do a detailed inspection of each 
+affected MLG sliding tube, in accordance with the Accomplishment 
+Instructions of Airbus Service Bulletin A320-32-1441, Revision 01, 
+dated December 14, 2017; or Airbus Service Bulletin A320-32-1441, 
+Revision 02, dated August 23, 2022. As of the effective date of this 
+AD, only use Airbus Service Bulletin A320-32-1441, Revision 02, 
+dated August 23, 2022, for the actions required by this paragraph.
+[GRAPHIC] [TIFF OMITTED] TR19DE23.020
+
+
+    Note 3 to paragraph (o): If no reliable data regarding the 
+number of flight cycles accumulated by the MLG sliding tube are 
+available, operators may refer to the guidance specified in Chapter 
+5.2, ``Traceability,'' of Section 1, of Part 1 of the Airbus A318/
+A319/A320/A321 Airworthiness Limitations Section.
+
+(p) Retained Corrective Actions for Certain Inspections Required by 
+Paragraph (o) of This AD, With New Service Information
+
+    This paragraph restates the corrective actions required by 
+paragraph (p) of AD
+
+[[Page 87663]]
+
+2019-12-07 for certain inspections required by paragraph (o) of this 
+AD, with new service information. For airplanes on which any 
+inspection required by paragraph (o) of this AD has been done before 
+the effective date of this AD, comply with paragraph (p)(1) or (2) 
+of this AD, as applicable. For airplanes on which any inspection 
+required by paragraph (o) of this AD has been done on or after the 
+effective date of this AD, comply with paragraph (y)(1) or (3) of 
+this AD, as applicable.
+    (1) If any crack is detected on an MLG sliding tube, before 
+further flight, replace that MLG sliding tube with a serviceable MLG 
+sliding tube, in accordance with the Accomplishment Instructions of 
+Airbus Service Bulletin A320-32-1441, Revision 01, dated December 
+14, 2017; or Airbus Service Bulletin A320-32-1441, Revision 02, 
+dated August 23, 2022.
+    (2) Replacement of an MLG on an airplane with an MLG having a 
+serviceable MLG sliding tube installed is an acceptable method to 
+comply with the requirements of paragraph (p)(1) of this AD for that 
+airplane.
+
+(q) Retained Part Replacement, With New Reference to New Parts 
+Installation Limitation
+
+    This paragraph restates the parts replacement required by 
+paragraph (q) of AD 2019-12-07, with new reference to new parts 
+installation limitation.
+    (1) Within 10 years after August 1, 2019 (the effective date of 
+AD 2019-12-07), replace each affected MLG sliding tube with an MLG 
+sliding tube that is not affected. Installation of an MLG sliding 
+tube that is not affected on an airplane constitutes terminating 
+action for the repetitive inspections required by paragraph (o) of 
+this AD for that airplane. As of the effective date of this AD, 
+operators also must comply with the parts installation limitation 
+specified in paragraph (aa) of this AD.
+    (2) Replacement of an MLG on an airplane with an MLG that does 
+not have an affected MLG sliding tube installed is an acceptable 
+method to comply with the requirements of paragraph (q)(1) of this 
+AD for that airplane. As of the effective date of this AD, operators 
+also must comply with the parts installation limitation specified in 
+paragraph (aa) of this AD.
+
+(r) Retained Parts Installation Limitation, With a New Exception to 
+Paragraph (r)(1) of This AD
+
+    This paragraph restates the parts installation limitation 
+specified in paragraph (r) of AD 2019-12-07, with a new exception to 
+paragraph (r)(1) of this AD.
+    (1) As of August 1, 2019 (the effective date of AD 2019-12-07) 
+and before the effective date of this AD, no person may install on 
+any airplane an affected MLG shock absorber assembly containing a 
+discrepant MLG sliding tube part number. As of the effective date of 
+this AD, comply with the parts installation limitation specified in 
+paragraph (aa)(1) of this AD.
+    (2) Do not install an affected MLG sliding tube on any airplane 
+as specified in paragraph (r)(2)(i) or (ii) of this AD, as 
+applicable.
+    (i) For an airplane with an affected MLG sliding tube installed 
+as of August 1, 2019 (the effective date of AD 2019-12-07): After 
+replacement of each affected MLG sliding tube as required by 
+paragraph (q) of this AD.
+    (ii) For an airplane that does not have an affected MLG sliding 
+tube installed as of August 1, 2019 (the effective date of AD 2019-
+12-07): As of August 1, 2019.
+
+(s) Retained Identification of Airplanes Not Affected by Certain 
+Requirements of This AD, With No Changes
+
+    This paragraph restates the airplanes not affected provision 
+specified in paragraph (s) of AD 2019-12-07, with no changes. An 
+airplane on which Airbus Modification 161202 or Modification 161346 
+has been installed in production is not affected by the requirements 
+of paragraphs (g), (h), (j), (o), and (q) of this AD, provided it 
+has been verified that no affected MLG sliding tube is installed on 
+that airplane.
+
+(t) Retained Credit for Previous Actions, With No Changes
+
+    This paragraph restates the credit for previous actions 
+specified in paragraph (t) of AD 2019-12-07, with no changes.
+    (1) This paragraph provides credit for the actions required by 
+paragraph (g) of this AD, if those actions were performed before 
+June 29, 2007 (the effective date of AD 2007-11-11), using Airbus 
+AOT A320-32A1273, Revision 01, dated May 6, 2004. This document was 
+incorporated by reference in AD 2004-11-13, Amendment 39-13659 (69 
+FR 31867, June 8, 2004).
+    (2) This paragraph provides credit for the initial inspection 
+and applicable corrective actions required by paragraphs (o) and (p) 
+of this AD if those actions were performed before August 1, 2019 
+(the effective date of AD 2019-12-07), using the Accomplishment 
+Instructions in Airbus Service Bulletin A320-32-1441, dated December 
+28, 2016.
+
+(u) Retained Service Information Exception, With No Changes
+
+    This paragraph restates the service information exception 
+specified in paragraph (u) of AD 2019-12-07, with no changes. The 
+service information specified in paragraph (g) of this AD has 
+instructions to send any cracked part to Messier-Dowty. This AD does 
+not include such a requirement.
+
+(v) Retained No Reporting Requirement, With New Service Information
+
+    This paragraph restates the no reporting requirement provision 
+specified in paragraph (v) of AD 2019-12-07, with new service 
+information. Although Airbus Service Bulletin A320-32-1441, Revision 
+01, dated December 14, 2017; and Airbus Service Bulletin A320-32-
+1441, Revision 02, dated August 23, 2022; specify to submit certain 
+information to the manufacturer, and specify that action as ``RC'' 
+(required for compliance), this AD does not include that 
+requirement.
+
+(w) New Definitions for New Requirements of This AD
+
+    For the purpose of paragraphs (x), (y), (z), (aa), and (bb) of 
+this AD, the following definitions apply.
+    (1) Affected MLG sliding tube: An MLG sliding tube having a part 
+number identified in Safran Service Bulletin 200-32-321, Revision 4, 
+dated November 3, 2021, for Model A318, A319, and A320 series 
+airplanes, or Safran Service Bulletin 201-32-68, Revision 4, dated 
+November 3, 2021, for Model A321 series airplanes; except those 
+having a serial number identified in Appendix B of Safran Service 
+Bulletin 200-32-321, Revision 2, dated October 3, 2017, for Model 
+A318, A319, and A320 series airplanes, or Safran Service Bulletin 
+201-32-68, Revision 2, dated October 3, 2017, for Model A321 series 
+airplanes; and except parts identified in paragraphs (w)(1)(i) and 
+(ii) of this AD and those parts that, after the inspection specified 
+(w)(1)(i) or (ii) of this AD, have been repaired, using instructions 
+approved by the Manager, International Section, Transport Standards 
+Branch, FAA; or EASA; or Airbus SAS's EASA DOA. If approved by the 
+DOA, the approval must include the DOA-authorized signature.
+
+    Note 4 to the introductory text of paragraph (w)(1) of this AD: 
+The affected MLG sliding tubes identified in paragraph (w)(1) of 
+this AD are referred to as affected ``Batch 2'' MLG sliding tubes in 
+EASA AD 2022-0204R1, dated February 15, 2023; corrected February 17, 
+2023.
+
+    (i) Parts that passed an inspection as specified in Safran 
+Service Bulletin 200-32-321 or Safran Service Bulletin 201-32-68, as 
+applicable
+    (ii) Parts that have passed an inspection as specified in Safran 
+CMM task 32-11-33 (K0654), Revision 71, dated September 2020, or 
+later; CMM task 32-12-25 (K0654), Revision 61, dated March 2020, or 
+later; CMM task 32-12-12 (K0654), Revision 57, dated September 2020, 
+or later; or CMM task 32-12-22 (K0654), Revision 56, dated March 
+2020, or later; as applicable.
+    (2) Serviceable MLG sliding tube: Any MLG sliding tube other 
+than those identified in paragraphs (w)(2)(i) thru (iii) of this AD.
+    (i) Any MLG sliding tube having a part number and serial number 
+listed in figure 2 to paragraph (i) of this AD.
+    (ii) Any affected MLG sliding tube identified in paragraph 
+(n)(2) of this AD.
+    (iii) Any affected MLG sliding tube identified in paragraph 
+(w)(1) of this AD.
+
+(x) New Inspections for Additional Affected MLG Sliding Tubes
+
+    At the compliance time specified in figure 4 to paragraph (x) of 
+this AD, and thereafter at intervals not to exceed 10,000 flight 
+cycles: Do a detailed inspection of each affected MLG sliding tube, 
+as defined in paragraph (w)(1) of this AD, in accordance with the 
+Accomplishment Instructions of Airbus Service Bulletin A320-32-1441, 
+Revision 02, dated August 23, 2022.
+
+[[Page 87664]]
+
+[GRAPHIC] [TIFF OMITTED] TR19DE23.021
+
+
+    Note 5 to paragraph (x):  If no reliable data regarding the 
+number of flight cycles accumulated by the MLG sliding tube are 
+available, operators may refer to the guidance specified in Chapter 
+5.2, ``Traceability,'' of Section 1, of Part 1 of the Airbus A318/
+A319/A320/A321 Airworthiness Limitations Section.
+
+(y) New Corrective Actions
+
+    (1) For airplanes on which any inspection required by paragraph 
+(o) of this AD has been done on or after the effective date of this 
+AD: If any crack is detected on an MLG sliding tube, before further 
+flight, replace that MLG sliding tube with a serviceable MLG sliding 
+tube, as defined in paragraph (w)(2) of this AD, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A320-32-
+1441, Revision 02, dated August 23, 2022.
+    (2) If, during any inspection required by paragraph (x) of this 
+AD, any crack is detected on an MLG sliding tube: Before further 
+flight, replace that MLG sliding tube with a serviceable MLG sliding 
+tube, as defined in paragraph (w)(2) of this AD, in accordance with 
+the Accomplishment Instructions of Airbus Service Bulletin A320-32-
+1441, Revision 02, dated August 23, 2022.
+    (3) Replacement of an MLG on an airplane with an MLG having a 
+serviceable MLG sliding tube, as defined in paragraph (w)(2) of this 
+AD, installed is an acceptable method to comply with the 
+requirements of paragraph (y)(1) or (2) of this AD for that 
+airplane.
+
+(z) New Replacement for Additional Affected Parts
+
+    (1) Within 10 years after the effective date of this AD, replace 
+each affected MLG sliding tube, as defined in paragraph (w)(1) of 
+this AD, with a serviceable MLG sliding tube, as defined in 
+paragraph (w)(2) of this AD. Replacement on an airplane of all 
+affected MLG sliding tubes with serviceable MLG sliding tubes 
+constitutes terminating action for the repetitive inspections 
+required by paragraph (x) of this AD for that airplane.
+    (2) Replacement of an MLG on an airplane with an MLG that has a 
+serviceable MLG sliding tube, as defined in paragraph (w)(2) of this 
+AD, installed is an acceptable method to comply with the requirement 
+of paragraph (z)(1) of this AD for that airplane.
+
+(aa) New Parts Installation Limitation
+
+    (1) As of the effective date of this AD, no person may install 
+on any airplane an MLG shock absorber assembly that contains any MLG 
+sliding tube identified in paragraphs (aa)(i) through (iii) of this 
+AD.
+    (i) Any MLG sliding tube having a part number and serial number 
+listed in figure 2 to paragraph (i) of this AD.
+    (ii) Any affected MLG sliding tube identified in paragraph 
+(n)(2) of this AD.
+    (iii) Any affected MLG sliding tube identified in paragraph 
+(w)(1) of this AD.
+    (2) Do not install an affected MLG sliding tube identified in 
+paragraph (w)(1) of this AD on any airplane as specified in 
+paragraph (aa)(2)(i) or (ii) of this AD, as applicable.
+    (i) For an airplane with an affected MLG sliding tube installed 
+as of the effective date of this AD: After replacement of each 
+affected MLG sliding tube as required by paragraph (z) of this AD.
+    (ii) For an airplane that does not have an affected MLG sliding 
+tube installed as of the effective date of this AD: As of the 
+effective date of this AD.
+
+(bb) New Identification of Airplanes Not Affected by Certain 
+Requirements of This AD
+
+    An airplane on which Airbus Modification 161202 or Modification 
+161346 has been installed in production is not affected by the 
+requirements for affected MLG sliding tubes in paragraph (x) of this 
+AD and the requirement of paragraph (z) of this AD, provided it has 
+been verified that no affected MLG sliding tube, as defined in 
+paragraph (w)(2) of this AD, is installed on that airplane.
+
+(cc) No Reporting Requirement for New Actions
+
+    Although Airbus Service Bulletin A320-32-1441, Revision 01, 
+dated December 14, 2017; and Airbus Service Bulletin A320-32-1441, 
+Revision 02, dated August 23, 2022; specify to submit certain 
+information to the manufacturer, and specify that action as ``RC'' 
+(required for compliance), this AD does not include that 
+requirement.
+
+(dd) Additional AD Provisions
+
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, mail it to the address identified 
+in paragraph (ee)(2) of this AD or email to: [email protected]. If mailing information, also submit information by 
+email.
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved for AD 2019-12-07 are approved as AMOCs for 
+the corresponding provisions of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or the European Union Aviation Safety Agency 
+(EASA); or Airbus SAS's EASA DOA. If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraphs (u), (v), and (dd)(2) of this AD, if any service 
+information contains procedures or tests that are identified as RC, 
+those procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(ee) Additional Information
+
+    (1) Refer to EASA AD 2022-0204R1, dated February 15, 2023; 
+corrected February 17, 2023; for related information. This EASA AD 
+may be found in the AD docket at regulations.gov under Docket No. 
+FAA-2023-1645.
+    (2) For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 206-231-3667; email: 
+[email protected].
+    (3) Service information identified in this AD that is not 
+incorporated by reference is available at the addresses specified in 
+paragraphs (ff)(8) and (10) of this AD.
+
+[[Page 87665]]
+
+(ff) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (3) The following service information was approved for IBR on 
+January 23, 2024.
+    (i) Airbus Service Bulletin A320-32-1441, Revision 02, dated 
+August 23, 2022.
+    (ii) Safran Service Bulletin 200-32-321, Revision 4, dated 
+November 3, 2021.
+    (iii) Safran Service Bulletin 201-32-68, Revision 4, dated 
+November 3, 2021.
+    (4) The following service information was approved for IBR on 
+August 1, 2019 (84 FR 30579, June 27, 2019).
+    (i) Airbus Service Bulletin A320-32-1441, Revision 01, dated 
+December 14, 2017.
+    (ii) Messier-Dowty Service Bulletin 200-32-286, Revision 3, 
+dated October 3, 2008.
+    (iii) Messier-Dowty Service Bulletin 201-32-43, Revision 3, 
+dated October 3, 2008.
+    (iv) Safran Service Bulletin 200-32-321, Revision 2, dated 
+October 3, 2017.
+    (v) Safran Service Bulletin 201-32-68, Revision 2, dated October 
+3, 2017.
+    (5) The following service information was approved for IBR on 
+February 22, 2017 (82 FR 5362, January 18, 2017).
+    (i) Airbus Service Bulletin A320-32-1416, including Appendix 01, 
+dated March 10, 2014.
+    (ii) [Reserved]
+    (6) The following service information was approved for IBR on 
+June 29, 2007 (72 FR 29241, May 25, 2007).
+    (i) Airbus Service Bulletin A320-32A1273, Revision 02, including 
+Appendix 01, dated May 26, 2005.
+    (ii) [Reserved]
+    (7) The following service information was approved for IBR on 
+June 23, 2004 (69 FR 31867, June 8, 2004).
+    (i) Airbus All Operators Telex A320-32A1273, Revision 01, dated 
+May 6, 2004.
+    (ii) [Reserved]
+    (8) For Airbus service information identified in this AD, 
+contact Airbus SAS, Airworthiness Office--EIAS, Rond-Point Emile 
+Dewoitine No: 2, 31700 Blagnac Cedex, France; telephone +33 5 61 93 
+36 96; fax +33 5 61 93 44 51; email airbus.com">account.airworth-eas@airbus.com; 
+website airbus.com.
+    (9) For Safran and Messier-Dowty service information identified 
+in this AD, contact Safran Landing Systems, One Carbon Way, Walton, 
+KY 41094; telephone (859) 525-8583; fax (859) 485-8827; internet 
+www.safran-landing-systems.com.
+    (10) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 2200 
+South 216th St., Des Moines, WA. For information on the availability 
+of this material at the FAA, call 206-231-3195.
+    (11) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email protected].
+
+    Issued on November 16, 2023.
+Ross Landes,
+Deputy Director for Regulatory Operations, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2023-27681 Filed 12-18-23; 8:45 am]
+BILLING CODE 4910-13-P

@@ -1,0 +1,296 @@
+[Federal Register Volume 88, Number 208 (Monday, October 30, 2023)]
+[Rules and Regulations]
+[Pages 74024-74025]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-23929]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2023-1996; Project Identifier AD-2022-01361-E; 
+Amendment 39-22570; AD 2023-20-11]
+RIN 2120-AA64
+
+
+Airworthiness Directives; International Aero Engines, LLC Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; request for comment; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is correcting an airworthiness directive (AD) that was 
+published in the Federal Register. That AD applies to certain 
+International Aero Engines, LLC (IAE LLC) Model PW1124G1-JM, PW1127G-
+JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-JM, and PW1133GA-JM 
+engines. As published, a part number was inadvertently excluded in the 
+regulatory text of the AD. This document corrects that error. In all 
+other respects, the original document remains the same.
+
+DATES: This correction is effective November 1, 2023. The effective 
+date of AD 2023-20-11 remains November 1, 2023.
+    The Director of the Federal Register approved the incorporation by 
+reference of a certain publication listed in this AD as of November 1, 
+2023 (88 FR 71466, October 17, 2023).
+    The date for submitting comments on AD 2023-20-11 remains December 
+1, 2023.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2023-1996; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this final rule; request for comment; correction, any 
+comments received, and other information. The street address for Docket 
+Operations is listed above.
+    Material Incorporated by Reference:
+     For Pratt & Whitney service information identified in this 
+final rule, contact International Aero Engines, LLC, 400 Main Street, 
+East Hartford, CT 06118; phone: (860) 565-0140; email: 
+[email protected]; website: connect.prattwhitney.com.
+     You may view this referenced service information at the 
+FAA, Airworthiness Products Section, Operational Safety Branch 1200 
+District Avenue, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call (817) 222-5110. It is 
+also available at regulations.gov under Docket No. FAA-2023-1996.
+
+FOR FURTHER INFORMATION CONTACT: Mark Taylor, Aviation Safety Engineer, 
+FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: (781) 238-
+7229; email: [email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written data, views, or arguments 
+about this final rule. Send your comments to an address listed under 
+ADDRESSES. Include ``Docket No. FAA-2023-1996 and Project Identifier 
+AD-2022-01361-E'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the final rule, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this final rule because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this final rule.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this AD contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this AD, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this AD. Submissions containing CBI should be sent to Mark 
+Taylor, Aviation Safety Engineer, FAA, 2200 South 216th Street, Des 
+Moines, WA 98198. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    AD 2023-20-11, Amendment 39-22570 (88 FR 71466, October 17, 2023), 
+requires replacement of the high-pressure compressor (HPC) rear hub 
+with a part eligible for installation for certain IAE LLC Model 
+PW1124G1-JM, PW1127G-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, PW1133G-
+JM, and PW1133GA-JM engines.
+
+Need for Correction
+
+    As published, paragraph (c) in the regulatory text of AD 2023-20-11 
+is incorrect. Paragraph (c) of AD 2023-20-11 refers to part number 
+``30G4008.'' The correct reference is part number ``30G4008 or 
+30G8208.''
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Pratt & Whitney Service Bulletin PW1000G-C-72-00-
+0209-00A-930A-D, Issue No: 002, dated June 20, 2023, which provides the 
+list of affected serial numbers for the HPC rear hub.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+Correction of Publication
+
+    This document corrects an error and correctly adds the AD as an 
+amendment to 14 CFR 39.13. Although no other part of the preamble or 
+regulatory information has been corrected, the FAA is publishing the 
+entire rule in the Federal Register.
+    The effective date of this AD remains November 1, 2023.
+
+[[Page 74025]]
+
+    Since this action only corrects the mention of an affected part 
+number, it has no adverse economic impact and imposes no additional 
+burden on any person. Therefore, the FAA has determined that notice and 
+public comment procedures are unnecessary.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+Adoption of the Amendment
+
+    Accordingly, pursuant to the authority delegated to me by the 
+Administrator, the FAA amends part 39 of the Federal Aviation 
+Regulations (14 CFR part 39) as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Corrected]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following airworthiness 
+directive:
+
+2023-20-11 International Aero Engines, LLC: Amendment 39-22570; 
+Docket No. FAA-2023-1996; Project Identifier AD-2022-01361-E.
+
+(a) Effective Date
+
+    This airworthiness directive (AD) is effective November 1, 2023.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to International Aero Engines, LLC Model 
+PW1124G1-JM, PW1127G-JM, PW1127GA-JM, PW1129G-JM, PW1130G-JM, 
+PW1133G-JM, and PW1133GA-JM engines with an installed high-pressure 
+compressor (HPC) rear hub, part number 30G4008 or 30G8208, with a 
+serial number (S/N) listed in Table 2 or Table 3 of Pratt & Whitney 
+Service Bulletin PW1000G-C-72-00-0209-00A-930A-D, Issue No: 002, 
+dated June 20, 2023 (PW1000G-C-72-00-0209-00A-930A-D, Issue No: 
+002).
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a manufacturer investigation which 
+revealed that Maintenance, Repair, and Overhaul shops were 
+misinterpreting accepted knife edge coating wear limits. The FAA is 
+issuing this AD to prevent heat-induced cracking at the forward and 
+aft knife edge seals and uncontained separation of the HPC rear hub. 
+The unsafe condition, if not addressed, could result in uncontained 
+debris release, damage to the engine, damage to the airplane, in-
+flight shutdown, and loss of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    At the next engine shop visit after the effective date of this 
+AD, replace the HPC rear hub with a part eligible for installation.
+
+(h) Definitions
+
+    (1) For the purpose of this AD, a ``part eligible for 
+installation'' is:
+    (i) Any HPC rear hub with an S/N that does not appear in Table 2 
+or Table 3 of PW1000G-C-72-00-0209-00A-930A-D, Issue No: 002; or
+    (ii) Any HPC rear hub that has been serviced in accordance with 
+Pratt & Whitney Service Bulletin PW1000G-C-72-00-0209-00A-930A-D 
+(any revision).
+    (2) For the purpose of this AD, an ``engine shop visit'' is the 
+induction of an engine into the shop for maintenance involving the 
+separation of major mating engine flange H. The separation of engine 
+flanges solely for the purpose of transportation without subsequent 
+engine maintenance does not constitute an engine shop visit.
+
+(i) Credit for Previous Actions
+
+    You may take credit for the actions required by paragraph (g) of 
+this AD if you performed those actions before the effective date of 
+this AD using Pratt & Whitney Service Bulletin PW1000G-C-72-00-0209-
+00A-930A-D, Issue No: 001, dated September 13, 2022.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the AIR-520 Continued 
+Operational Safety Branch, send it to the attention of the person 
+identified in paragraph (k) of this AD and email to: [email protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Related Information
+
+    For more information about this AD, contact Mark Taylor, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (781) 238-7229; email: [email protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) Pratt & Whitney Service Bulletin PW1000G-C-72-00-0209-00A-
+930A-D, Issue No: 002, dated June 20, 2023.
+    (ii) [Reserved]
+    (3) For Pratt & Whitney service information identified in this 
+AD, contact International Aero Engines LLC, 400 Main Street, East 
+Hartford, CT 06118; phone: (860) 565-0140; email: 
+[email protected]; website: connect.prattwhitney.com.
+    (4) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 1200 
+District Avenue, Burlington, MA 01803. For information on the 
+availability of this material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email: [email protected].
+
+    Issued on October 25, 2023.
+Caitlin Locke,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2023-23929 Filed 10-26-23; 11:15 am]
+BILLING CODE 4910-13-P
