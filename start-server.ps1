@@ -59,7 +59,9 @@ function Extract-PdfFileText([string]$LocalPdfPath, [string]$TxtCachePath) {
     if ($cached.Length -gt 80) { return $cached }
   }
   if (-not $PdfPigLoaded) { return "" }
-  $doc = [UglyToad.PdfPig.PdfDocument]::Open($LocalPdfPath)
+  $opts = New-Object UglyToad.PdfPig.ParsingOptions
+  $opts.UseLenientParsing = $true
+  $doc = [UglyToad.PdfPig.PdfDocument]::Open($LocalPdfPath, $opts)
   try {
     $sb = New-Object System.Text.StringBuilder
     $pIdx = 0
@@ -91,19 +93,54 @@ function Get-EasaPdfFullText([string]$TargetUrl) {
     return Extract-PdfFileText $localFile $localTxt
   }
   $safeName = ([System.IO.Path]::GetFileName(($TargetUrl -split '\?')[0])) -replace '[^A-Za-z0-9_.\-]', '_'
-  if ([string]::IsNullOrWhiteSpace($safeName) -or -not $safeName.EndsWith(".pdf", [System.StringComparison]::OrdinalIgnoreCase)) {
+  if ([string]::IsNullOrWhiteSpace($safeName) -or ($safeName -notmatch '\.(pdf|zip)$')) {
     $safeName = "easa_" + ([Math]::Abs($TargetUrl.GetHashCode())) + ".pdf"
   }
-  $txtCachePath = Join-Path $EasaCacheDir ($safeName -replace '\.pdf$', '.txt')
+  $txtCachePath = Join-Path $EasaCacheDir ($safeName -replace '\.(pdf|zip)$', '.txt')
   if (Test-Path $txtCachePath) {
     $cached = [System.IO.File]::ReadAllText($txtCachePath, [System.Text.Encoding]::UTF8)
     if ($cached.Length -gt 80) { return $cached }
   }
-  $pdfCachePath = Join-Path $EasaCacheDir $safeName
-  if (-not (Test-Path $pdfCachePath) -or (Get-Item $pdfCachePath).Length -lt 1024) {
+  $dlCachePath = Join-Path $EasaCacheDir $safeName
+  $isValidCachedDl = $false
+  if ((Test-Path $dlCachePath) -and (Get-Item $dlCachePath).Length -ge 1024) {
+    if ($safeName.EndsWith(".zip", [System.StringComparison]::OrdinalIgnoreCase)) {
+      $isValidCachedDl = $true
+    } else {
+      try {
+        $tailLen = [Math]::Min(1024, (Get-Item $dlCachePath).Length)
+        $fsTail = [System.IO.File]::OpenRead($dlCachePath)
+        try {
+          $fsTail.Seek(-$tailLen, [System.IO.SeekOrigin]::End) | Out-Null
+          $buf = New-Object byte[] $tailLen
+          [void]$fsTail.Read($buf, 0, $tailLen)
+          $tailStr = [System.Text.Encoding]::ASCII.GetString($buf)
+          if ($tailStr -match '%%EOF') { $isValidCachedDl = $true }
+        } finally { $fsTail.Dispose() }
+      } catch {}
+    }
+  }
+  if (-not $isValidCachedDl) {
+    $tmpDl = "$dlCachePath.tmp"
     $wc = New-Object System.Net.WebClient
     $wc.Headers.Add("User-Agent", "Mozilla/5.0 AeroAD-Portal/1.0")
-    $wc.DownloadFile($TargetUrl, $pdfCachePath)
+    $wc.DownloadFile($TargetUrl, $tmpDl)
+    Move-Item -Path $tmpDl -Destination $dlCachePath -Force
+  }
+  $pdfCachePath = $dlCachePath
+  if ($safeName.EndsWith(".zip", [System.StringComparison]::OrdinalIgnoreCase)) {
+    Add-Type -AssemblyName System.IO.Compression.FileSystem -ErrorAction SilentlyContinue
+    $extractPdf = Join-Path $EasaCacheDir ($safeName -replace '\.zip$', '.pdf')
+    if (-not (Test-Path $extractPdf)) {
+      $zip = [System.IO.Compression.ZipFile]::OpenRead($dlCachePath)
+      try {
+        $entry = $zip.Entries | Where-Object { $_.Name -match '\.pdf$' } | Select-Object -First 1
+        if ($entry) {
+          [System.IO.Compression.ZipFileExtensions]::ExtractToFile($entry, $extractPdf, $true)
+        }
+      } finally { $zip.Dispose() }
+    }
+    $pdfCachePath = $extractPdf
   }
   return Extract-PdfFileText $pdfCachePath $txtCachePath
 }
@@ -260,12 +297,33 @@ try {
 
     if ($Path -eq "/api/ad-fulltext") {
       $TargetUrl = $Req.QueryString["url"]
+      $AdQuery = $Req.QueryString["ad"]
       $OutText = ""
-      if ($TargetUrl -and $TargetUrl -like "https://www.govinfo.gov/*") {
+      if ((-not $TargetUrl -or $TargetUrl -notlike "https://www.govinfo.gov/*") -and $AdQuery) {
+        $CleanAd = ($AdQuery -replace '^(FAA\s+)?AD\s+', '').Trim()
         try {
-          $HtmResp = Invoke-WebRequest -Uri $TargetUrl -UseBasicParsing -TimeoutSec 12
+          $Enc = [System.Uri]::EscapeDataString($CleanAd)
+          $FrUrl = "https://www.federalregister.gov/api/v1/documents.json?per_page=3&order=oldest&conditions%5Bagencies%5D%5B%5D=federal-aviation-administration&conditions%5Btype%5D%5B%5D=RULE&conditions%5Bterm%5D=$Enc&fields%5B%5D=document_number&fields%5B%5D=publication_date&fields%5B%5D=body_html_url"
+          $FrResp = Invoke-RestMethod -Uri $FrUrl -TimeoutSec 12
+          if ($FrResp -and $FrResp.results -and $FrResp.results.Count -gt 0) {
+            $Doc = $FrResp.results[0]
+            if ($Doc.publication_date -and $Doc.document_number) {
+              $TargetUrl = "https://www.govinfo.gov/content/pkg/FR-$($Doc.publication_date)/html/$($Doc.document_number).htm"
+            } elseif ($Doc.body_html_url) {
+              $TargetUrl = [string]$Doc.body_html_url
+            }
+          }
+        } catch {}
+      }
+      if ($TargetUrl -and ($TargetUrl -like "https://www.govinfo.gov/*" -or $TargetUrl -like "https://www.federalregister.gov/*")) {
+        try {
+          $HtmResp = Invoke-WebRequest -Uri $TargetUrl -UseBasicParsing -TimeoutSec 15
           $RawStr = if ($HtmResp.Content -is [byte[]]) { [System.Text.Encoding]::UTF8.GetString($HtmResp.Content) } else { [string]$HtmResp.Content }
-          $CleanPre = $RawStr -replace '(?s)^.*?<pre>', '' -replace '(?s)</pre>.*$', ''
+          $CleanPre = if ($RawStr -match '(?s)<pre>') {
+            $RawStr -replace '(?s)^.*?<pre>', '' -replace '(?s)</pre>(?![\s\S]*<pre>).*$', ''
+          } else {
+            $RawStr
+          }
           $CleanPre = [System.Net.WebUtility]::HtmlDecode(($CleanPre -replace '<[^>]+>', ''))
           $OutText = $CleanPre.Trim()
         } catch {
@@ -285,7 +343,7 @@ try {
     if ($Path -eq "/api/easa-fulltext") {
       $TargetUrl = $Req.QueryString["url"]
       $OutText = ""
-      if ($TargetUrl -and ($TargetUrl -like "https://www.easa.europa.eu/download/AD-tmp-storage/*" -or $TargetUrl -like "/db/uploaded-pdfs/*")) {
+      if ($TargetUrl -and ($TargetUrl -like "https://www.easa.europa.eu/download/*" -or $TargetUrl -like "/db/uploaded-pdfs/*")) {
         try {
           $OutText = Get-EasaPdfFullText $TargetUrl
         } catch {

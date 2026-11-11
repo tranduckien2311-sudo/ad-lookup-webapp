@@ -37,18 +37,35 @@
   }
 
   async function copyTextToClipboard(text, label) {
+    const val = String(text ?? "");
     try {
-      await navigator.clipboard.writeText(text);
-      showToast(`📋 Đã copy nguyên văn ${label || "nội dung AD"} vào bộ nhớ tạm!`);
-    } catch (e) {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(val);
+        showToast(`📋 Đã copy ${label || "nội dung AD"} (${val.length.toLocaleString()} ký tự)!`);
+        return true;
+      }
+    } catch (e) {}
+    try {
       const ta = document.createElement("textarea");
-      ta.value = text;
+      ta.value = val;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.left = "-9999px";
+      ta.style.top = "0";
+      ta.style.fontSize = "12pt";
       document.body.appendChild(ta);
+      ta.focus();
       ta.select();
-      document.execCommand("copy");
+      ta.setSelectionRange(0, val.length);
+      const ok = document.execCommand("copy");
       ta.remove();
-      showToast(`📋 Đã copy nguyên văn ${label || "nội dung AD"}!`);
-    }
+      if (ok) {
+        showToast(`📋 Đã copy ${label || "nội dung AD"} (${val.length.toLocaleString()} ký tự)!`);
+        return true;
+      }
+    } catch (e2) {}
+    showToast("⚠️ Trình duyệt chặn tự động copy — hãy bấm giữ/Ctrl+C trong khung văn bản.");
+    return false;
   }
 
   function getAuthorityBadge(ad) {
@@ -410,18 +427,13 @@
     }
     // Strip leading "Reason:" label because the box itself renders "📝 Reason:"
     t = t.replace(/^Reason:\s*/i, "").trim();
-    // For FAA abstracts with "This AD was prompted by ... This AD requires ...", show Reason/Context cleanly
-    if (/This AD was prompted by/i.test(t)) {
-      const idxReq = t.search(/\s+This AD requires\b|\s+The FAA is issuing this AD to address/i);
-      if (idxReq > 40) t = t.slice(0, idxReq).trim();
-    }
     return t;
   }
 
   function renderReasonBoxHtml(rawText) {
     const reasonText = getDisplayReasonSummary(rawText);
     if (!reasonText) return "";
-    return `<div style="font-size:11px;color:#fde68a;background:rgba(245,158,11,0.08);border:1px solid rgba(245,158,11,0.28);border-radius:4px;padding:6px 8px;line-height:1.45;max-height:128px;overflow-y:auto;white-space:pre-wrap;"><strong style="color:#fbbf24;">📝 Reason:</strong> ${escapeHtml(
+    return `<div class="reason-box-selectable" style="font-size:11px;color:#fde68a;background:rgba(245,158,11,0.08);border:1px solid rgba(245,158,11,0.28);border-radius:4px;padding:6px 8px;line-height:1.45;max-height:140px;overflow-y:auto;white-space:pre-wrap;user-select:text;cursor:text;"><strong style="color:#fbbf24;">📝 Reason:</strong> ${escapeHtml(
       reasonText
     )}</div>`;
   }
@@ -429,6 +441,11 @@
   async function fetchFullVerbatimText(ad, side = "main", activeSupObj = null) {
     const splitInfo = getSplitAdParts(ad);
     const isDualEasaView = !activeSupObj && splitInfo.isDual && side === "easa";
+    const cacheKey = `${activeSupObj ? `sup_${activeSupObj.adNumber}` : isDualEasaView ? "easa" : "main"}`;
+    if (ad._fullTextCache && ad._fullTextCache[cacheKey]) {
+      return ad._fullTextCache[cacheKey];
+    }
+
     const doc = activeSupObj
       ? activeSupObj
       : isDualEasaView
@@ -454,14 +471,21 @@
         (doc.pdfUrl && String(doc.pdfUrl).includes("govinfo.gov/content/pkg/")
           ? String(doc.pdfUrl).replace("/pdf/", "/html/").replace(/\.pdf$/i, ".htm")
           : ""));
+    const faaNumQuery = !isDualEasaView ? String(doc.officialFaaAd || ad.officialFaaAd || "").trim() : "";
 
-    if (targetHtmUrl) {
+    if (targetHtmUrl || faaNumQuery) {
       try {
-        const resp = await fetch(`/api/ad-fulltext?url=${encodeURIComponent(targetHtmUrl)}`);
+        const qs = [];
+        if (targetHtmUrl) qs.push(`url=${encodeURIComponent(targetHtmUrl)}`);
+        if (faaNumQuery) qs.push(`ad=${encodeURIComponent(faaNumQuery)}`);
+        const resp = await fetch(`/api/ad-fulltext?${qs.join("&")}`);
         if (resp.ok) {
           const data = await resp.json();
           if (data && data.fullText && data.fullText.length > 80) {
-            return { fullText: data.fullText, sourceLabel: "GovInfo", fallbackText };
+            const res = { fullText: data.fullText, sourceLabel: "GovInfo", fallbackText };
+            ad._fullTextCache = ad._fullTextCache || {};
+            ad._fullTextCache[cacheKey] = res;
+            return res;
           }
         }
       } catch (e) {}
@@ -470,8 +494,7 @@
     const easaPdfTargetUrl = [doc.pdfUrl, doc.easaUrl, !isDualEasaView ? "" : ad.easaUrl].find(
       (u) =>
         u &&
-        (String(u).includes("easa.europa.eu/download/AD-tmp-storage/") ||
-          String(u).startsWith("/db/uploaded-pdfs/"))
+        (String(u).includes("easa.europa.eu/download/") || String(u).startsWith("/db/uploaded-pdfs/"))
     );
     if (easaPdfTargetUrl) {
       try {
@@ -479,7 +502,10 @@
         if (resp.ok) {
           const data = await resp.json();
           if (data && data.fullText && data.fullText.length > 80) {
-            return { fullText: data.fullText, sourceLabel: "EASA PDF", fallbackText };
+            const res = { fullText: data.fullText, sourceLabel: "EASA PDF", fallbackText };
+            ad._fullTextCache = ad._fullTextCache || {};
+            ad._fullTextCache[cacheKey] = res;
+            return res;
           }
         }
       } catch (e) {}
@@ -3499,16 +3525,36 @@ ${bodyRows}
       if (btnCopy) {
         e.stopPropagation();
         const adId = btnCopy.getAttribute("data-ad-id");
-        const side = btnCopy.getAttribute("data-ad-side") || (isEasaPrimaryDual(adList.find((x) => x.id === adId)) ? "easa" : "main");
         const ad = adList.find((x) => x.id === adId);
+        const side = btnCopy.getAttribute("data-ad-side") || (isEasaPrimaryDual(ad) ? "easa" : "main");
         if (ad) {
+          const label = side === "easa" ? ad.easaAdNumber || ad.adNumber : ad.adNumber;
           const origLabel = btnCopy.textContent;
           btnCopy.disabled = true;
-          btnCopy.textContent = "⏳ Đang tải hết AD...";
+          btnCopy.textContent = "⏳ Đang lấy hết AD...";
+          let copiedOk = false;
           try {
-            const { fullText } = await fetchFullVerbatimText(ad, side);
-            const label = side === "easa" ? ad.easaAdNumber || ad.adNumber : ad.adNumber;
-            await copyTextToClipboard(fullText, `${label} (toàn bộ AD)`);
+            if (window.ClipboardItem && navigator.clipboard && navigator.clipboard.write && window.isSecureContext) {
+              try {
+                let fetchedText = "";
+                const clipItem = new ClipboardItem({
+                  "text/plain": fetchFullVerbatimText(ad, side).then(({ fullText }) => {
+                    fetchedText = fullText;
+                    return new Blob([fullText], { type: "text/plain" });
+                  })
+                });
+                await navigator.clipboard.write([clipItem]);
+                copiedOk = true;
+                showToast(`📋 Đã copy toàn bộ ${label} (${fetchedText.length.toLocaleString()} ký tự)!`);
+              } catch (clipErr) {}
+            }
+            if (!copiedOk) {
+              const { fullText } = await fetchFullVerbatimText(ad, side);
+              copiedOk = await copyTextToClipboard(fullText, `${label} (toàn bộ AD)`);
+              if (!copiedOk) {
+                openAdModal(ad.id, null, side);
+              }
+            }
           } finally {
             btnCopy.disabled = false;
             btnCopy.textContent = origLabel;
@@ -3684,11 +3730,13 @@ ${bodyRows}
         return;
       }
       if (e.target.closest(".superseded-group-wrapper")) return;
+      if (window.getSelection && window.getSelection().toString().trim().length > 0) return;
       const tr = e.target.closest("tr[data-ad-id]");
       if (tr) openAdModal(tr.getAttribute("data-ad-id"), null, tr.getAttribute("data-ad-side") || null);
     });
 
     document.getElementById("fleetMatrixBody").addEventListener("click", (e) => {
+      if (window.getSelection && window.getSelection().toString().trim().length > 0) return;
       const tr = e.target.closest("tr[data-ad-id]");
       if (tr) openAdModal(tr.getAttribute("data-ad-id"), null, tr.getAttribute("data-ad-side") || null);
     });
@@ -3749,6 +3797,58 @@ ${bodyRows}
 
   // PWA Service Worker & Install App Support
   let deferredInstallPrompt = null;
+  function showPwaInstallGuideModal() {
+    const modal = document.getElementById("pwaInstallGuideModal");
+    const contentEl = document.getElementById("pwaGuideContent");
+    if (!modal || !contentEl) return;
+
+    const ua = navigator.userAgent || "";
+    const isInAppWebView = /Zalo|FBAN|FBAV|Messenger|Line|Instagram/i.test(ua);
+    const isIos = /iPad|iPhone|iPod/i.test(ua);
+    const isLocalNonSecure = !window.isSecureContext && location.hostname !== "localhost" && location.hostname !== "127.0.0.1";
+
+    let html = "";
+    if (isInAppWebView) {
+      html = `
+        <div style="padding:10px 12px;border-radius:8px;background:rgba(245,158,11,0.12);border:1px solid rgba(245,158,11,0.45);color:#fde68a;margin-bottom:10px;">
+          ⚠️ <strong>Bạn đang mở trang trong trình duyệt Zalo / Messenger</strong> nên hệ điều hành không cho cài App trực tiếp từ đây.
+        </div>
+        <ol style="padding-left:18px;margin:0;display:flex;flex-direction:column;gap:6px;">
+          <li>Bấm <strong>🔗 Copy Link</strong> bên dưới (hoặc bấm nút <strong>⋯ / ⋮</strong> góc phải chọn <strong>Mở bằng Chrome / Safari</strong>).</li>
+          <li>Mở bằng <strong>Chrome</strong> (Android) hoặc <strong>Safari</strong> (iPhone), sau đó bấm <strong>📲 Cài App</strong> hoặc chọn <strong>Thêm vào Màn hình chính</strong>.</li>
+        </ol>
+      `;
+    } else if (isLocalNonSecure) {
+      html = `
+        <div style="padding:10px 12px;border-radius:8px;background:rgba(239,68,68,0.12);border:1px solid rgba(239,68,68,0.45);color:#fca5a5;margin-bottom:10px;">
+          ⚠️ Địa chỉ HTTP nội bộ (<code>${escapeHtml(location.origin)}</code>) không hỗ trợ cài PWA trên điện thoại (trình duyệt bắt buộc <strong>HTTPS</strong> hoặc <code>localhost</code>).
+        </div>
+        <p style="margin:0;">Hãy mở trang qua đường dẫn <strong>HTTPS (GitHub Pages)</strong> để cài đặt biểu tượng App lên điện thoại.</p>
+      `;
+    } else if (isIos) {
+      html = `
+        <p style="margin:0 0 8px;">Để cài <strong>VJC AeroAD</strong> lên iPhone / iPad:</p>
+        <ol style="padding-left:18px;margin:0;display:flex;flex-direction:column;gap:6px;">
+          <li>Mở trang bằng trình duyệt <strong>Safari</strong>.</li>
+          <li>Bấm nút <strong>Chia sẻ (⬆️)</strong> ở thanh công cụ dưới cùng.</li>
+          <li>Cuộn xuống chọn <strong>“Thêm vào MH chính” (Add to Home Screen)</strong> → <strong>Thêm</strong>.</li>
+        </ol>
+      `;
+    } else {
+      html = `
+        <p style="margin:0 0 8px;">Để cài <strong>VJC AeroAD</strong> lên điện thoại Android:</p>
+        <ol style="padding-left:18px;margin:0;display:flex;flex-direction:column;gap:6px;">
+          <li>Mở trang bằng trình duyệt <strong>Google Chrome</strong> hoặc <strong>Edge</strong>.</li>
+          <li>Bấm biểu tượng menu <strong>(⋮)</strong> ở góc trên bên phải.</li>
+          <li>Chọn <strong>“Cài đặt ứng dụng”</strong> hoặc <strong>“Thêm vào Màn hình chính”</strong> → Xác nhận cài đặt.</li>
+        </ol>
+      `;
+    }
+
+    contentEl.innerHTML = html;
+    modal.classList.add("open");
+  }
+
   function initPwaSupport() {
     if ("serviceWorker" in navigator) {
       navigator.serviceWorker.register("./sw.js").catch(() => {});
@@ -3770,24 +3870,29 @@ ${bodyRows}
       }
     });
 
+    const pwaModal = document.getElementById("pwaInstallGuideModal");
+    const closePwaModal = () => pwaModal && pwaModal.classList.remove("open");
+    document.getElementById("btnClosePwaGuideModal")?.addEventListener("click", closePwaModal);
+    document.getElementById("btnDismissPwaGuide")?.addEventListener("click", closePwaModal);
+    document.getElementById("btnCopyPwaUrl")?.addEventListener("click", () => {
+      copyTextToClipboard(window.location.href, "Link VJC AeroAD");
+    });
+
     if (btnInstall) {
       btnInstall.addEventListener("click", async () => {
         if (deferredInstallPrompt) {
-          deferredInstallPrompt.prompt();
-          const { outcome } = await deferredInstallPrompt.userChoice;
-          deferredInstallPrompt = null;
-          if (outcome === "accepted") {
-            btnInstall.style.display = "none";
-            showToast("✅ Đang cài đặt ứng dụng VJC AeroAD vào thiết bị!");
-          }
-          return;
+          try {
+            deferredInstallPrompt.prompt();
+            const { outcome } = await deferredInstallPrompt.userChoice;
+            deferredInstallPrompt = null;
+            if (outcome === "accepted") {
+              btnInstall.style.display = "none";
+              showToast("✅ Đang cài đặt ứng dụng VJC AeroAD vào thiết bị!");
+            }
+            return;
+          } catch (err) {}
         }
-        const isIos = /iPad|iPhone|iPod/i.test(navigator.userAgent);
-        if (isIos) {
-          showToast('📲 Trên iPhone/iPad (Safari): bấm nút Chia sẻ (⬆️) → chọn "Thêm vào MH chính".');
-        } else {
-          showToast('📲 Trên Android (Chrome): bấm menu (⋮) góc phải → chọn "Cài đặt ứng dụng" / "Thêm vào MH chính".');
-        }
+        showPwaInstallGuideModal();
       });
     }
   }

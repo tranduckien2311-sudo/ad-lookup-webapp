@@ -641,6 +641,23 @@
     </div>
   </div>
 
+  <!-- MODAL 5: PWA MOBILE INSTALL GUIDE -->
+  <div class="modal-backdrop" id="pwaInstallGuideModal">
+    <div class="modal-dialog" style="max-width:480px;">
+      <div class="modal-header">
+        <h2 style="font-size:16px;font-weight:700;">📲 Cài đặt App VJC AeroAD lên Điện thoại</h2>
+        <button class="btn btn-outline btn-sm" id="btnClosePwaGuideModal">✕ Đóng</button>
+      </div>
+      <div class="modal-body" style="gap:12px;">
+        <div id="pwaGuideContent" style="font-size:13px;line-height:1.55;color:var(--text-primary);"></div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;">
+          <button type="button" class="btn btn-primary btn-sm" id="btnCopyPwaUrl">🔗 Copy Link để mở trong Chrome / Safari</button>
+          <button type="button" class="btn btn-outline btn-sm" id="btnDismissPwaGuide">Đã hiểu</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <input type="file" id="fleetCsvFileInput" accept=".csv,.xlsx,.xls,text/csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel" style="display:none;" />
   <input type="file" id="globalRowPdfUploadInput" accept="application/pdf" style="display:none;" />
   <div class="toast-container" id="toastContainer"></div>
