@@ -1,0 +1,26 @@
+{
+  "name": "Vietjet Air — Tra cứu AD (EASA • FAA • CAAV)",
+  "short_name": "VJC AeroAD",
+  "description": "Tra cứu Airworthiness Directives (EASA, FAA, CAAV), PDF gốc & cấu hình 108 tàu bay Vietjet Air",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

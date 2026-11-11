@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="VJC AeroAD" />
+  <title>AeroAD Control — Tra cứu AD VJC (EASA • FAA • CAAV)</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header class="app-header">
+    <div class="brand-group">
+      <div class="brand-logo">VJC</div>
+      <div class="brand-text">
+        <h1>Vietjet Air — Tra cứu AD (EASA • FAA • CAAV)</h1>
+        <p>108 tàu bay VJC • Đính kèm PDF &amp; Nguyên văn AD gốc</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-outline btn-sm" id="btnInstallPwa" style="border-color:rgba(16,185,129,0.6);color:#34d399;">
+        📲 Cài App
+      </button>
+      <button class="btn btn-outline btn-sm" id="btnToggleTheme">
+        🌓 Sáng/Tối
+      </button>
+      <button type="button" class="btn-admin-stealth" id="btnAdminAuth" aria-label="Tùy chọn hệ thống">⚙</button>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <nav class="nav-bar">
+    <div class="nav-tabs">
+      <button class="nav-tab active" data-tab="tab-register">
+        🗄️ Cơ sở dữ liệu AD (Applicable / Not Applicable)
+        <span class="tab-count" id="navCountTotal">0</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-evaluations">
+        📜 Nguyên Văn Nội Dung AD (Applicable VJC — Copy Y Chang)
+        <span class="tab-count" id="navCountEvaluations" style="background:rgba(16,185,129,0.2);color:#34d399;border-color:rgba(16,185,129,0.4);">0</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-fleet">
+        ✈️ Đội Bay VJC (108 Tàu) &amp; Tra Cứu Theo Tàu
+        <span class="tab-count" id="navCountFleet">108</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-live">
+        🌐 Tìm kiếm Trực tuyến Mở rộng (FAA / EASA Live)
+      </button>
+      <button class="nav-tab" data-tab="tab-dashboard">
+        📊 Dashboard Thống kê
+      </button>
+    </div>
+    <div class="reconciliation-banner">
+      <span><span class="status-dot"></span> CSDL: <strong>db/aeroad-database.json</strong></span>
+      <span>•</span>
+      <span id="lastSyncTimestamp">Đồng bộ lần cuối: Đang tải...</span>
+    </div>
+  </nav>
+
+  <!-- Main Workspace -->
+  <main class="main-container">
+    <!-- Admin Options Toolbar (Visible only after Admin Login) -->
+    <section class="admin-options-bar admin-only" id="adminOptionsBar">
+      <div style="display:flex;align-items:center;gap:8px;">
+        <span class="badge" style="background:rgba(245,158,11,0.22);border:1px solid rgba(245,158,11,0.7);color:#fde68a;font-size:12px;padding:4px 10px;">
+          🛡️ OPTION ADMIN
+        </span>
+        <span style="font-size:12.5px;color:var(--text-secondary);">Quản trị Đội tàu, Đồng bộ AD &amp; Xuất dữ liệu hệ thống</span>
+      </div>
+      <div class="admin-options-bar-actions">
+        <button class="btn btn-primary btn-sm" id="btnRescanFleetHeader" style="background:linear-gradient(135deg,#2563eb,#1d4ed8);border:none;">
+          📂 Quét Đội tàu (Excel / CSV)
+        </button>
+        <button class="btn btn-outline btn-sm" id="btnExportCsv">
+          📥 Xuất CSV
+        </button>
+        <button class="btn btn-outline btn-sm" id="btnExportJson">
+          💾 Xuất JSON
+        </button>
+        <button class="btn btn-danger btn-sm" id="btnOpenNewAdModal">
+          ➕ Thêm AD
+        </button>
+        <button class="btn btn-outline btn-sm" id="btnAdminLogout" style="border-color:rgba(239,68,68,0.55);color:#fca5a5;">
+          🔒 Thoát Admin
+        </button>
+      </div>
+    </section>
+
+    <!-- Auto-Automation Status Banner -->
+    <section class="filter-panel" id="automationStatusPanel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(16,185,129,0.1),rgba(59,130,246,0.1));border-color:rgba(16,185,129,0.4);">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+        <div>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <strong style="font-size:14.5px;" id="autoBannerTitle">
+              Đã đồng bộ Đội bay VJC &amp; Cơ sở dữ liệu AD EASA / FAA / CAAV
+            </strong>
+          </div>
+          <p style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;" id="autoBannerDesc">
+            Lọc theo <strong>EASA / FAA / CAAV / Tất cả AD</strong> • Chọn từng <strong>Tàu bay VJC (VN-Axxx)</strong> • Đính kèm <strong>Bản PDF gốc (FAA GovInfo &amp; EASA Archive Tạm thời)</strong> • Các AD song song FAA + EASA hiển thị thành <strong>2 dòng riêng biệt</strong>.
+          </p>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+          <a href="https://www.easa.europa.eu/en/domains/aircraft-products/airworthiness-directives-ad/archive-airworthiness-directives" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(16,185,129,0.55);color:#34d399;">
+            🇪🇺 Cổng EASA AD Archive (Tạm thời) ↗
+          </a>
+          <button class="btn btn-primary btn-sm admin-only" id="btnTriggerSyncBanner">
+            🔄 Quét lại EASA / FAA &amp; Cập nhật CSDL
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- KPI Summary Row -->
+    <section class="kpi-grid" id="kpiGrid">
+      <div class="kpi-card" data-QuickFilter="ALL">
+        <div class="kpi-header">
+          <span>Tổng AD Hiện hành (+Superseded)</span>
+          <span>🗄️</span>
+        </div>
+        <div class="kpi-value" id="kpiTotal">0</div>
+        <div class="kpi-sub" id="kpiTotalSub">Tất cả EASA / FAA / CAAV</div>
+      </div>
+
+      <div class="kpi-card kpi-success" data-QuickFilter="APPLICABLE">
+        <div class="kpi-header">
+          <span>AD APPLICABLE (Khớp VJC)</span>
+          <span>✅</span>
+        </div>
+        <div class="kpi-value" id="kpiApplicable">0</div>
+        <div class="kpi-sub" id="kpiApplicableSub">Khớp biến thể tàu bay &amp; động cơ VJC</div>
+      </div>
+
+      <div class="kpi-card kpi-danger" data-QuickFilter="NOT_APPLICABLE">
+        <div class="kpi-header">
+          <span>AD NOT APPLICABLE</span>
+          <span>🚫</span>
+        </div>
+        <div class="kpi-value" id="kpiNotApplicable">0</div>
+        <div class="kpi-sub">Khác loại tàu/động cơ VJC</div>
+      </div>
+
+      <div class="kpi-card kpi-warning" data-QuickFilter="SUPERSEDED">
+        <div class="kpi-header">
+          <span>AD Superseded (Có đủ PDF gốc)</span>
+          <span>🔗</span>
+        </div>
+        <div class="kpi-value" id="kpiSuperseded">0</div>
+        <div class="kpi-sub" id="kpiSupersededSub">Gom trong Dropdown kèm PDF riêng</div>
+      </div>
+
+      <div class="kpi-card" data-QuickFilter="FLEET">
+        <div class="kpi-header">
+          <span>Đội bay VJC đã tra cứu</span>
+          <span>✈️</span>
+        </div>
+        <div class="kpi-value" id="kpiFleetCount">108</div>
+        <div class="kpi-sub">A320-214 • A321ceo/neo • A330-343</div>
+      </div>
+    </section>
+
+    <!-- TAB 1: DATABASE REGISTER -->
+    <section class="tab-panel active" id="tab-register">
+      <div class="filter-panel">
+        <div class="filter-row">
+          <div class="form-group">
+            <label for="searchKeyword">Tìm kiếm (Số AD, Tàu bay VN-Axxx, MSN, Động cơ, Từ khóa trong Text)</label>
+            <input
+              type="text"
+              id="searchKeyword"
+              class="form-control"
+              placeholder="VD: 2024-05-11, 2013-19-09, VN-A500, A320-214, A330-343, PW1133G..."
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="filterAuthority">Cơ quan ban hành (EASA/FAA/CAAV)</label>
+            <select id="filterAuthority" class="form-control">
+              <option value="ALL">🌐 Tất cả AD (EASA / FAA / CAAV)</option>
+              <option value="EASA">🇪🇺 EASA (Châu Âu)</option>
+              <option value="FAA">🇺🇸 FAA (Hoa Kỳ)</option>
+              <option value="CAAV">🇻🇳 CAAV (Cục HKVN)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="filterApplicability">Kết luận Applicability</label>
+            <select id="filterApplicability" class="form-control">
+              <option value="ALL">Tất cả (Applicable + Not Applicable)</option>
+              <option value="Applicable">✅ APPLICABLE (Áp dụng đội bay VJC)</option>
+              <option value="Not Applicable">🚫 NOT APPLICABLE (Không áp dụng)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="filterAdType">Đối tượng (Tàu bay / Component)</label>
+            <select id="filterAdType" class="form-control">
+              <option value="ALL">🌐 Tất cả (Tàu bay + Động cơ + Component)</option>
+              <option value="AIRCRAFT">✈️ AD Tàu bay (Airframe / Aircraft)</option>
+              <option value="COMPONENT">🧩 AD Component / Thiết bị (Appliances)</option>
+              <option value="ENGINE">🔥 AD Động cơ (Engine / Powerplant)</option>
+              <option value="NON_AIRCRAFT">⚙️ Động cơ &amp; Component (Gồm cả 2)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="filterSuperseded">Chuỗi AD Superseded</label>
+            <select id="filterSuperseded" class="form-control">
+              <option value="ALL">Tất cả (Gom AD Superseded trong Dropdown)</option>
+              <option value="HAS_SUPERSEDED">🔗 Có AD bị Superseded đi kèm (Kèm PDF cũ)</option>
+              <option value="NO_SUPERSEDED">AD độc lập (Không thay thế AD cũ)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="filterModel">Đội tàu bay / Động cơ / MSN</label>
+            <select id="filterModel" class="form-control">
+              <option value="ALL">Tất cả loại tàu / động cơ (1,511 AD)</option>
+              <option value="A320-214">Airbus A320-214 (15 tàu VJC • CFM56-5B4)</option>
+              <option value="A321-211">Airbus A321-211 CEO (41 tàu VJC • CFM56-5B3)</option>
+              <option value="A321-271N">Airbus A321-271N NEO (11 tàu VJC • PW1133G-JM)</option>
+              <option value="A321-271NX">Airbus A321-271NX NEO ACF (33 tàu VJC • PW1133G-JM)</option>
+              <option value="A330-343">Airbus A330-343 (8 tàu VJC • RR Trent 772B-60)</option>
+              <option value="A330-941">Airbus A330-941 NEO (RR Trent 7000-72)</option>
+              <option value="PW1133G">Động cơ PW1133G-JM / PW1100G (A321neo)</option>
+              <option value="CFM56-5B">Động cơ CFM56-5B3 / 5B4 (A320/A321ceo)</option>
+              <option value="Trent 772">Động cơ RR Trent 772B-60 (A330-343)</option>
+              <option value="Trent 7000">Động cơ RR Trent 7000-72 (A330-941)</option>
+              <option value="NON_VJC">Ngoài cấu hình VJC (A350 / A380 / LEAP-1A / V2500)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="filterAircraftReg" style="color:#60a5fa;font-weight:700;">✈️ Chọn Tàu bay VJC (Số ĐK / MSN)</label>
+            <select id="filterAircraftReg" class="form-control" style="border-color:rgba(59,130,246,0.55);">
+              <option value="ALL">✈️ Tất cả 108 tàu bay VJC (Mọi số ĐK VN-Axxx)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="sortSelect">Sắp xếp</label>
+            <select id="sortSelect" class="form-control">
+              <option value="applicableFirst">Ưu tiên Applicable lên đầu</option>
+              <option value="effectiveDesc">Ngày Effective (Mới nhất)</option>
+              <option value="adNumAsc">Số hiệu AD (A → Z)</option>
+            </select>
+          </div>
+
+          <button class="btn btn-outline" id="btnResetFilters">
+            🔄 Đặt lại
+          </button>
+        </div>
+        <div id="activeFiltersBar" class="active-filters-bar" style="display:none;"></div>
+      </div>
+
+      <div class="table-card">
+        <div class="table-toolbar">
+          <div>
+            <strong>Bảng Cơ Sở Dữ Liệu AD (EASA • FAA • CAAV) — Nguyên Văn Nội Dung &amp; PDF Đính Kèm</strong>
+            <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="resultCounterText">Hiển thị 0 kết quả</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+            <button class="btn btn-primary btn-sm" id="btnExportFilteredAds" title="Xuất danh sách AD đang hiển thị theo bộ lọc hiện tại ra file Excel">
+              📥 Xuất Excel danh sách AD đang lọc
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnToggleAllSuperseded">
+              📂 Mở rộng / Thu gọn tất cả Dropdown AD Superseded (Kèm PDF AD cũ)
+            </button>
+            <span style="font-size:12px;color:var(--text-secondary);">
+              Nhấp vào dòng bất kỳ để <strong>Đọc &amp; Copy Nguyên Văn Toàn Bộ Quy Định AD Gốc &amp; Xem PDF</strong>
+            </span>
+          </div>
+        </div>
+
+        <div class="table-responsive">
+          <table class="ad-table">
+            <thead>
+              <tr>
+                <th>Số hiệu AD &amp; Chuỗi AD Superseded (Kèm PDF AD cũ)</th>
+                <th>Cơ quan &amp; File PDF Đính kèm</th>
+                <th>Tàu bay, Động cơ &amp; Dải MSN (Đọc từ AD &amp; Khớp VJC)</th>
+                <th>Ngày Effective &amp; Ngày Ban hành</th>
+                <th>Kết luận</th>
+                <th>Nguyên văn Nội dung AD (Verbatim Text đọc từ AD — Copy y chang)</th>
+              </tr>
+            </thead>
+            <tbody id="adTableBody"></tbody>
+          </table>
+        </div>
+        <div id="adTablePagination" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-top:1px solid var(--border);background:rgba(15,23,42,0.55);flex-wrap:wrap;gap:10px;"></div>
+      </div>
+    </section>
+
+    <!-- TAB 2: VERBATIM AD TEXT & PDF LIST FOR APPLICABLE VJC ADs -->
+    <section class="tab-panel" id="tab-evaluations">
+      <div class="filter-panel" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+        <div>
+          <h2 style="font-size:17px;font-weight:700;">
+            📜 Nguyên Văn Nội Dung AD Áp Dụng VJC (Verbatim Text — Đọc &amp; Copy Y Chang Bản Gốc)
+          </h2>
+          <p style="font-size:13px;color:var(--text-secondary);">
+            Hiển thị nguyên văn chữ gốc của AD (Tiêu đề, Abstract, Toàn văn Quy định từ GovInfo/FAA/EASA) kèm <strong>File PDF của AD hiện hành</strong> và <strong>File PDF của các AD bị Superseded</strong>.
+          </p>
+        </div>
+        <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+          <label for="evalFilterAircraftReg" style="font-size:12px;color:#60a5fa;font-weight:700;">✈️ Lọc theo Tàu bay:</label>
+          <select id="evalFilterAircraftReg" class="form-control" style="min-width:200px;max-width:100%;border-color:rgba(59,130,246,0.55);">
+            <option value="ALL">✈️ Tất cả 108 tàu bay VJC</option>
+          </select>
+          <button class="btn btn-outline btn-sm" onclick="window.print()">
+            🖨️ In Danh Sách Nguyên Văn AD
+          </button>
+        </div>
+      </div>
+
+      <div id="autoEvaluationsContainer" style="display:flex;flex-direction:column;gap:16px;"></div>
+    </section>
+
+    <!-- TAB 3: VJC FLEET AUTO-DISCOVERY & COMPLIANCE MATRIX -->
+    <section class="tab-panel" id="tab-fleet">
+      <div class="dash-card" style="margin-bottom:18px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;">
+          <h3 style="margin:0;">
+            <span>✈️ Đội Tàu Bay Vietjet Air (Đang khai thác)</span>
+            <span class="badge status-closed" id="fleetSummaryBadge" style="margin-left:8px;">108 Tàu bay</span>
+          </h3>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;" class="admin-only">
+            <button class="btn btn-primary btn-sm admin-only" id="btnRescanFleetTab" style="background:linear-gradient(135deg,#2563eb,#1d4ed8);border:none;">
+              📂 Quét lại Đội tàu (Excel / CSV)
+            </button>
+            <button class="btn btn-outline btn-sm admin-only" id="btnOpenAddAircraftModal" style="border-color:#10b981;color:#34d399;">
+              ➕ Thêm / Cập nhật Tàu bay VJC Mới
+            </button>
+          </div>
+        </div>
+        <div class="table-responsive" style="max-height:360px;overflow-y:auto;">
+          <table class="ad-table">
+            <thead>
+              <tr>
+                <th>Số Đăng ký (Reg)</th>
+                <th>MSN</th>
+                <th>Biến thể Tàu bay (Model)</th>
+                <th>Họ Tàu bay</th>
+                <th>Kiểu Động cơ (Engine Model)</th>
+                <th>Tổng Giờ bay (FH)</th>
+                <th>Tổng Chu kỳ (FC)</th>
+                <th>Căn cứ (Base)</th>
+                <th>Số AD Applicable</th>
+              </tr>
+            </thead>
+            <tbody id="vjcFleetRegistryBody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="table-card">
+        <div class="table-toolbar">
+          <strong>Danh Sách AD Applicable Trên Từng Tàu Bay VJC (Kèm Nguyên Văn Nội Dung &amp; File PDF)</strong>
+          <div style="display:flex;gap:10px;align-items:center;">
+            <label for="fleetSelectFilter" style="font-size:12px;color:var(--text-muted);">Chọn tàu bay:</label>
+            <select id="fleetSelectFilter" class="form-control" style="padding:4px 10px;">
+              <option value="ALL">Tất cả Tàu bay VJC (Hiển thị 200 dòng đầu)</option>
+            </select>
+          </div>
+        </div>
+        <div class="table-responsive">
+          <table class="ad-table">
+            <thead>
+              <tr>
+                <th>Tàu bay (Reg)</th>
+                <th>MSN / Loại tàu</th>
+                <th>Động cơ</th>
+                <th>Số hiệu AD &amp; Cơ quan</th>
+                <th>Ngày Effective</th>
+                <th>Nguyên văn Nội dung AD (Verbatim Text)</th>
+                <th>File PDF</th>
+              </tr>
+            </thead>
+            <tbody id="fleetMatrixBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: LIVE CUSTOM SEARCH -->
+    <section class="tab-panel" id="tab-live">
+      <div class="live-search-hero">
+        <h2 style="font-size:17px;font-weight:700;margin-bottom:4px;">
+          🌐 Truy vấn Mở rộng Trực tiếp từ Cổng FAA / EASA AD &amp; Lấy Nguyên Văn + PDF
+        </h2>
+        <p style="font-size:13px;color:var(--text-secondary);">
+          Nhập số hiệu AD (hiện hành hoặc Superseded) hoặc dòng tàu bay/động cơ bất kỳ để đọc trực tiếp nguyên văn chữ gốc và tải PDF chính thức.
+          Do trang <code>ad.easa.europa.eu</code> đang bảo trì, EASA đang dùng tạm thời:
+          <a href="https://www.easa.europa.eu/en/domains/aircraft-products/airworthiness-directives-ad/archive-airworthiness-directives" target="_blank" rel="noopener" style="color:#34d399;text-decoration:underline;font-weight:600;">
+            EASA Archive Airworthiness Directives (AD) ↗
+          </a>
+        </p>
+        <div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap;">
+          <input
+            type="text"
+            id="liveSearchInput"
+            class="form-control"
+            style="flex:1;min-width:200px;max-width:100%;"
+            value="2024-05-11"
+            placeholder="Nhập số AD hoặc từ khóa (VD: 2024-05-11, 2013-19-09, Airbus SAS Airplanes...)"
+          />
+          <button class="btn btn-primary" id="btnRunLiveSearch">
+            🔎 Đọc Nguyên Văn AD Trực tuyến &amp; Lấy PDF
+          </button>
+        </div>
+      </div>
+      <div id="liveSearchStatus" style="margin-bottom:12px;font-size:13px;color:var(--text-secondary);"></div>
+      <div class="live-results-grid" id="liveResultsContainer"></div>
+    </section>
+
+    <!-- TAB 5: DASHBOARD -->
+    <section class="tab-panel" id="tab-dashboard">
+      <div class="dashboard-grid">
+        <div class="dash-card">
+          <h3>Tỷ lệ Sàng lọc: Applicable vs Not Applicable</h3>
+          <div class="bar-list" id="chartStatus"></div>
+        </div>
+        <div class="dash-card">
+          <h3>Phân bổ theo Cơ quan Ban hành (EASA / FAA / CAAV)</h3>
+          <div class="bar-list" id="chartAuthority"></div>
+        </div>
+        <div class="dash-card">
+          <h3>Phân bổ theo Loại Tàu bay / Động cơ VJC</h3>
+          <div class="bar-list" id="chartFleetModel"></div>
+        </div>
+        <div class="dash-card">
+          <h3>Phân bổ theo Chương ATA</h3>
+          <div class="bar-list" id="chartAta"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- MODAL 1: AD VERBATIM TEXT & EMBEDDED PDF VIEWER (SUPPORTS BOTH CURRENT & SUPERSEDED AD PDFs) -->
+  <div class="modal-backdrop" id="adDetailModal">
+    <div class="modal-dialog" style="max-width:1140px;">
+      <div class="modal-header">
+        <div>
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;" id="modalBadges"></div>
+          <h2 style="font-size:17px;font-weight:800;" id="modalTitle">AD Detail</h2>
+        </div>
+        <button class="btn btn-outline btn-sm no-print" id="btnCloseDetailModal">✕ Đóng</button>
+      </div>
+      <div class="modal-body" id="modalBodyContent"></div>
+      <div class="modal-footer no-print">
+        <div style="display:flex;gap:8px;flex-wrap:wrap;">
+          <button class="btn btn-primary" id="btnCopyModalVerbatim">📋 Copy Toàn Bộ Nguyên Văn AD</button>
+          <button class="btn btn-outline" id="btnPrintEvaluation">🖨️ In Nguyên Văn AD</button>
+          <label class="btn btn-outline" style="cursor:pointer;">
+            📎 Đính kèm / Thay thế File PDF (.pdf)
+            <input type="file" id="attachLocalPdfInput" accept="application/pdf" style="display:none;" />
+          </label>
+        </div>
+        <div style="display:flex;gap:8px;">
+          <a href="#" target="_blank" rel="noopener" class="btn btn-primary" id="btnModalPdfLink">📄 Mở / Tải Bản PDF Gốc ↗</a>
+          <a href="#" target="_blank" rel="noopener" class="btn btn-outline" id="btnModalSourceLink">🔗 Trang Công bố Gốc ↗</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 2: MANUAL ADD AD -->
+  <div class="modal-backdrop" id="newAdModal">
+    <div class="modal-dialog" style="max-width:780px;">
+      <div class="modal-header">
+        <h2 style="font-size:16px;font-weight:700;">➕ Thêm AD Mới, Đính kèm PDF &amp; Dán Nguyên Văn Nội Dung AD</h2>
+        <button class="btn btn-outline btn-sm" id="btnCloseNewAdModal">✕ Đóng</button>
+      </div>
+      <form id="formNewAd" class="modal-body">
+        <div class="detail-grid">
+          <div class="form-group">
+            <label>Số hiệu AD *</label>
+            <input type="text" id="newAdNumber" class="form-control" required placeholder="VD: 2026-0250 hoặc 2024-05-11" />
+          </div>
+          <div class="form-group">
+            <label>Cơ quan ban hành (EASA/FAA/CAAV) *</label>
+            <select id="newAdAuthority" class="form-control">
+              <option value="EASA">EASA</option>
+              <option value="FAA">FAA</option>
+              <option value="CAAV">CAAV</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Ngày Effective *</label>
+            <input type="date" id="newAdEffectiveDate" class="form-control" required />
+          </div>
+          <div class="form-group">
+            <label>Tàu bay / Động cơ mục tiêu *</label>
+            <input type="text" id="newAdTargetModel" class="form-control" value="A320-214, A321-211" required />
+          </div>
+          <div class="form-group">
+            <label>Chương ATA</label>
+            <input type="text" id="newAdAta" class="form-control" value="72 - Engine Turbine / Rotor" required />
+          </div>
+          <div class="form-group">
+            <label>Đường dẫn File PDF của AD</label>
+            <input type="url" id="newAdPdfUrl" class="form-control" placeholder="https://www.govinfo.gov/content/pkg/.../pdf/...pdf" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Tiêu đề Nguyên văn (Subject / Title) *</label>
+          <input type="text" id="newAdSubject" class="form-control" required placeholder="Nhập nguyên văn tiêu đề AD..." />
+        </div>
+        <div class="form-group">
+          <label>Nguyên văn Nội dung AD (Verbatim Text) *</label>
+          <textarea id="newAdSummary" class="form-control" rows="5" required placeholder="Dán nguyên văn nội dung chữ của AD vào đây..."></textarea>
+        </div>
+        <div style="display:flex;justify-content:flex-end;gap:10px;">
+          <button type="button" class="btn btn-outline" id="btnCancelNewAd">Hủy</button>
+          <button type="submit" class="btn btn-primary">💾 Lưu Nguyên Văn AD vào CSDL</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- MODAL 3: RESCAN FLEET & ADD / UPDATE NEW VJC AIRCRAFT -->
+  <div class="modal-backdrop" id="fleetRescanModal">
+    <div class="modal-dialog" style="max-width:820px;">
+      <div class="modal-header">
+        <div>
+          <h2 style="font-size:16.5px;font-weight:700;">✈️ Quét lại Đội tàu VJC &amp; Cập nhật Tàu bay Mới (Chuẩn CAAV)</h2>
+          <p style="font-size:12px;color:var(--text-secondary);margin-top:2px;">
+            Tự động quét thư mục hồ sơ chứng chỉ tàu bay <code>G:\My Drive\VJC Certificate\VJC Aircraft</code> hoặc thêm nhanh tàu bay mới nhận vào đội bay VJC.
+          </p>
+        </div>
+        <button class="btn btn-outline btn-sm" id="btnCloseFleetModal">✕ Đóng</button>
+      </div>
+      <div class="modal-body">
+        <div id="fleetScanReportBox" class="detail-box" style="margin-bottom:14px;border-color:rgba(16,185,129,0.5);">
+          <div class="label" style="color:#34d399;font-size:12px;margin-bottom:6px;">
+            📡 KẾT QUẢ QUÉT ĐỘI TÀU BAY VIETJET AIR GẦN NHẤT
+          </div>
+          <div id="fleetScanReportContent" style="font-size:13px;line-height:1.55;color:var(--text-primary);">
+            Đang kiểm tra trạng thái đội tàu bay VJC...
+          </div>
+          <div style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;">
+            <button type="button" class="btn btn-primary btn-sm admin-only" id="btnExecuteRescanNow">
+              📂 Chọn File Excel / CSV Đội tàu (.xlsx, .xls, .csv)
+            </button>
+            <button type="button" class="btn btn-outline btn-sm admin-only" id="btnRescanCaavFolder">
+              🔄 Quét Thư mục Chứng chỉ Local (nếu chạy Server)
+            </button>
+          </div>
+        </div>
+
+        <form id="formAddNewAircraft" class="detail-box" style="border-color:rgba(59,130,246,0.5);">
+          <div class="label" style="color:#60a5fa;font-size:12px;margin-bottom:10px;">
+            ➕ THÊM TÀU BAY MỚI NHẬN HOẶC CẬP NHẬT CẤU HÌNH TÀU BAY VJC
+          </div>
+          <div class="detail-grid" style="grid-template-columns:repeat(3,1fr);">
+            <div class="form-group">
+              <label>Số Đăng ký Tàu bay (Reg) *</label>
+              <input type="text" id="newAcReg" class="form-control" required placeholder="VD: VN-A581" />
+            </div>
+            <div class="form-group">
+              <label>Số Xuất xưởng (MSN) *</label>
+              <input type="text" id="newAcMsn" class="form-control" required placeholder="VD: 13052" />
+            </div>
+            <div class="form-group">
+              <label>Biến thể Tàu bay (Variant) *</label>
+              <select id="newAcType" class="form-control" required>
+                <option value="A321-271NX">Airbus A321-271NX (NEO ACF)</option>
+                <option value="A321-271N">Airbus A321-271N (NEO)</option>
+                <option value="A321-211">Airbus A321-211 (CEO)</option>
+                <option value="A320-214">Airbus A320-214 (CEO)</option>
+                <option value="A330-343">Airbus A330-343 (Widebody)</option>
+                <option value="A330-941">Airbus A330-941 (A330neo)</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Kiểu Động cơ (Engine Model) *</label>
+              <select id="newAcEngine" class="form-control" required>
+                <option value="PW1133G-JM">Pratt &amp; Whitney PW1133G-JM</option>
+                <option value="CFM56-5B3/3">CFM International CFM56-5B3/3</option>
+                <option value="CFM56-5B3/P">CFM International CFM56-5B3/P</option>
+                <option value="CFM56-5B4/3">CFM International CFM56-5B4/3</option>
+                <option value="CFM56-5B4/P">CFM International CFM56-5B4/P</option>
+                <option value="Trent 772B-60">Rolls-Royce Trent 772B-60</option>
+                <option value="Trent 7000-72">Rolls-Royce Trent 7000-72</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Tổng Giờ bay (FH)</label>
+              <input type="number" id="newAcFh" class="form-control" value="500" />
+            </div>
+            <div class="form-group">
+              <label>Căn cứ Khai thác (Base)</label>
+              <select id="newAcBase" class="form-control">
+                <option value="SGN">SGN (Tân Sơn Nhất)</option>
+                <option value="HAN">HAN (Nội Bài)</option>
+                <option value="DAD">DAD (Đà Nẵng)</option>
+                <option value="CXR">CXR (Cam Ranh)</option>
+              </select>
+            </div>
+          </div>
+          <div style="display:flex;justify-content:flex-end;gap:10px;margin-top:12px;">
+            <button type="submit" class="btn btn-primary" style="background:linear-gradient(135deg,#10b981,#059669);border:none;">
+              ✈️ Lưu Tàu bay Mới &amp; Cập nhật CSDL
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 4: ADMIN LOGIN -->
+  <div class="modal-backdrop" id="adminLoginModal">
+    <div class="modal-dialog" style="max-width:440px;">
+      <div class="modal-header">
+        <h2 style="font-size:16px;font-weight:700;">🔐 Đăng nhập Quyền Admin</h2>
+        <button class="btn btn-outline btn-sm" id="btnCloseAdminLogin">✕ Đóng</button>
+      </div>
+      <form id="formAdminLogin" class="modal-body" style="gap:12px;">
+        <p style="font-size:12.5px;color:var(--text-secondary);margin:0;">
+          Đăng nhập Admin để mở khóa chức năng: <strong>Quét đội tàu (CSV)</strong>, <strong>Đồng bộ AD</strong>, <strong>Xuất CSV</strong>, <strong>Xuất JSON</strong> và <strong>Thêm AD mới</strong>.
+        </p>
+        <div class="form-group">
+          <label for="adminUsername">Tài khoản Admin</label>
+          <input type="text" id="adminUsername" class="form-control" required autocomplete="username" placeholder="admin" value="admin" />
+        </div>
+        <div class="form-group">
+          <label for="adminPassword">Mật khẩu</label>
+          <input type="password" id="adminPassword" class="form-control" required autocomplete="current-password" placeholder="Nhập mật khẩu Admin..." />
+        </div>
+        <div id="adminLoginError" style="display:none;font-size:12px;color:#fca5a5;background:rgba(239,68,68,0.15);border:1px solid rgba(239,68,68,0.45);padding:7px 10px;border-radius:6px;"></div>
+        <div style="display:flex;justify-content:flex-end;gap:8px;margin-top:4px;">
+          <button type="button" class="btn btn-outline" id="btnCancelAdminLogin">Hủy</button>
+          <button type="submit" class="btn btn-primary" style="background:linear-gradient(135deg,#f59e0b,#d97706);border:none;color:#0f172a;font-weight:800;">
+            🔓 Đăng nhập Admin
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <input type="file" id="fleetCsvFileInput" accept=".csv,.xlsx,.xls,text/csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel" style="display:none;" />
+  <input type="file" id="globalRowPdfUploadInput" accept="application/pdf" style="display:none;" />
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
