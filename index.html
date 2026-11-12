@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=28" />
+  <link rel="stylesheet" href="styles.css?v=29" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -28,7 +28,7 @@
       <div class="brand-logo">VJC</div>
       <div class="brand-text">
         <h1>Vietjet Air — Tra cứu AD (EASA • FAA • CAAV)</h1>
-        <p>108 tàu bay VJC • Đính kèm PDF &amp; Nguyên văn AD gốc</p>
+        <p><span id="headerFleetCount">111</span> tàu bay VJC • Đính kèm PDF &amp; Nguyên văn AD gốc</p>
       </div>
     </div>
     <div class="header-actions">
@@ -46,7 +46,7 @@
   <nav class="nav-bar">
     <div class="nav-tabs">
       <button class="nav-tab active" data-tab="tab-register">
-        🗄️ Cơ sở dữ liệu AD (Applicable / Not Applicable)
+        🗄️ Cơ sở dữ liệu AD (Applicable (unverified) / Not Applicable)
         <span class="tab-count" id="navCountTotal">0</span>
       </button>
       <button class="nav-tab" data-tab="tab-evaluations">
@@ -54,8 +54,8 @@
         <span class="tab-count" id="navCountEvaluations" style="background:rgba(16,185,129,0.2);color:#34d399;border-color:rgba(16,185,129,0.4);">0</span>
       </button>
       <button class="nav-tab" data-tab="tab-fleet">
-        ✈️ Đội Bay VJC (108 Tàu) &amp; Tra Cứu Theo Tàu
-        <span class="tab-count" id="navCountFleet">108</span>
+        ✈️ Đội Bay VJC (<span id="navTabFleetTitleCount">111</span> Tàu) &amp; Tra Cứu Theo Tàu
+        <span class="tab-count" id="navCountFleet">111</span>
       </button>
       <button class="nav-tab" data-tab="tab-live">
         🌐 Tìm kiếm Trực tuyến Mở rộng (FAA / EASA Live)
@@ -137,7 +137,7 @@
 
       <div class="kpi-card kpi-success" data-QuickFilter="APPLICABLE">
         <div class="kpi-header">
-          <span>AD APPLICABLE (Khớp VJC)</span>
+          <span>AD Applicable (unverified) (Khớp VJC)</span>
           <span>✅</span>
         </div>
         <div class="kpi-value" id="kpiApplicable">0</div>
@@ -167,7 +167,7 @@
           <span>Đội bay VJC đã tra cứu</span>
           <span>✈️</span>
         </div>
-        <div class="kpi-value" id="kpiFleetCount">108</div>
+        <div class="kpi-value" id="kpiFleetCount">111</div>
         <div class="kpi-sub">A320-214 • A321ceo/neo • A330-343</div>
       </div>
     </section>
@@ -199,8 +199,8 @@
           <div class="form-group">
             <label for="filterApplicability">Kết luận Applicability</label>
             <select id="filterApplicability" class="form-control">
-              <option value="ALL">Tất cả (Applicable + Not Applicable)</option>
-              <option value="Applicable">✅ APPLICABLE (Áp dụng đội bay VJC)</option>
+              <option value="ALL">Tất cả (Applicable (unverified) + Not Applicable)</option>
+              <option value="Applicable">✅ Applicable (unverified) (Áp dụng đội bay VJC)</option>
               <option value="Not Applicable">🚫 NOT APPLICABLE (Không áp dụng)</option>
             </select>
           </div>
@@ -244,7 +244,7 @@
           <div class="form-group">
             <label for="filterAircraftReg" style="color:#60a5fa;font-weight:700;">✈️ Chọn Tàu bay VJC (Số ĐK / MSN)</label>
             <select id="filterAircraftReg" class="form-control" style="border-color:rgba(59,130,246,0.55);">
-              <option value="ALL">✈️ Tất cả 108 tàu bay VJC (Mọi số ĐK VN-Axxx)</option>
+              <option value="ALL">✈️ Tất cả 111 tàu bay VJC (Mọi số ĐK VN-Axxx)</option>
             </select>
           </div>
 
@@ -316,7 +316,7 @@
         <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
           <label for="evalFilterAircraftReg" style="font-size:12px;color:#60a5fa;font-weight:700;">✈️ Lọc theo Tàu bay:</label>
           <select id="evalFilterAircraftReg" class="form-control" style="min-width:200px;max-width:100%;border-color:rgba(59,130,246,0.55);">
-            <option value="ALL">✈️ Tất cả 108 tàu bay VJC</option>
+            <option value="ALL">✈️ Tất cả 111 tàu bay VJC</option>
           </select>
           <button class="btn btn-outline btn-sm mobile-hide" onclick="window.print()">
             🖨️ In Danh Sách Nguyên Văn AD
@@ -333,7 +333,7 @@
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;">
           <h3 style="margin:0;">
             <span>✈️ Đội Tàu Bay Vietjet Air (Đang khai thác)</span>
-            <span class="badge status-closed" id="fleetSummaryBadge" style="margin-left:8px;">108 Tàu bay</span>
+            <span class="badge status-closed" id="fleetSummaryBadge" style="margin-left:8px;">111 Tàu bay</span>
           </h3>
           <div style="display:flex;gap:8px;flex-wrap:wrap;" class="admin-only">
             <button class="btn btn-primary btn-sm admin-only" id="btnRescanFleetTab" style="background:linear-gradient(135deg,#2563eb,#1d4ed8);border:none;">
@@ -356,7 +356,7 @@
                 <th>Tổng Giờ bay (FH)</th>
                 <th>Tổng Chu kỳ (FC)</th>
                 <th>Căn cứ (Base)</th>
-                <th>Số AD Applicable</th>
+                <th>Số AD Applicable (unverified)</th>
               </tr>
             </thead>
             <tbody id="vjcFleetRegistryBody"></tbody>
@@ -366,7 +366,7 @@
 
       <div class="table-card">
         <div class="table-toolbar">
-          <strong>Danh Sách AD Applicable Trên Từng Tàu Bay VJC (Kèm Reason &amp; File PDF)</strong>
+          <strong>Danh Sách AD Applicable (unverified) Trên Từng Tàu Bay VJC (Kèm Reason &amp; File PDF)</strong>
           <div style="display:flex;gap:10px;align-items:center;">
             <label for="fleetSelectFilter" style="font-size:12px;color:var(--text-muted);">Chọn tàu bay:</label>
             <select id="fleetSelectFilter" class="form-control" style="padding:4px 10px;">
@@ -668,6 +668,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=28"></script>
+  <script src="app.js?v=29"></script>
 </body>
 </html>

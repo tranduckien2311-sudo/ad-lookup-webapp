@@ -2120,6 +2120,12 @@
 
     document.getElementById("kpiFleetCount").textContent = fleetList.length;
     document.getElementById("navCountFleet").textContent = fleetList.length;
+    const hFleet = document.getElementById("headerFleetCount");
+    if (hFleet) hFleet.textContent = fleetList.length;
+    const navTabFleet = document.getElementById("navTabFleetTitleCount");
+    if (navTabFleet) navTabFleet.textContent = fleetList.length;
+    const fleetSumBadge = document.getElementById("fleetSummaryBadge");
+    if (fleetSumBadge) fleetSumBadge.textContent = `${fleetList.length} Tàu bay`;
     document.getElementById("lastSyncTimestamp").textContent = `Đồng bộ lần cuối: ${lastSyncedAt} (${
       total + supersededCount
     } tổng AD)`;
@@ -2380,7 +2386,7 @@
           kw.length > 2 && supList.some((s) => String(s.adNumber).toLowerCase().includes(kw));
 
         const appBadge = isApp
-          ? `<span class="badge status-closed" style="font-size:12px;padding:4px 10px;">✅ APPLICABLE</span>`
+          ? `<span class="badge status-closed" style="font-size:12px;padding:4px 10px;">✅ Applicable (unverified)</span>`
           : `<span class="badge status-overdue" style="font-size:12px;padding:4px 10px;background:rgba(148,163,184,0.15);color:#cbd5e1;border-color:#475569;">🚫 NOT APPLICABLE</span>`;
 
         const supQuickPdfs = renderSupQuickPdfsHtml(ad, "all");
@@ -2832,7 +2838,7 @@
               <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;border-bottom:1px solid var(--border-color);padding-bottom:10px;margin-bottom:12px;">
                 <div style="flex:1;">
                   <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px;">
-                    <span class="badge status-closed" style="font-size:12px;">✅ APPLICABLE (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
+                    <span class="badge status-closed" style="font-size:12px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
                     ${getAuthorityBadge(ad)}
                     <span class="badge badge-superseding">🔗 Cặp AD Song Song (2 dòng ${easaFirst ? "EASA &amp; FAA" : "FAA &amp; EASA"})</span>
                   </div>
@@ -2858,7 +2864,7 @@
               <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;border-bottom:1px solid var(--border-color);padding-bottom:12px;margin-bottom:14px;">
                 <div style="flex:1;">
                   <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px;">
-                    <span class="badge status-closed" style="font-size:12px;">✅ APPLICABLE (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
+                    <span class="badge status-closed" style="font-size:12px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
                     ${getAuthorityBadge(ad)}
                     <span class="badge badge-standard">Effective: ${escapeHtml(ad.effectiveDate)}</span>
                     <span class="badge badge-standard">Issued: ${escapeHtml(ad.issueDate)}</span>
@@ -2931,7 +2937,7 @@
             <td data-label="FH">${Number(ac.fh).toLocaleString()} FH</td>
             <td data-label="FC">${Number(ac.fc).toLocaleString()} FC</td>
             <td data-label="Base"><strong>${escapeHtml(ac.base || "SGN")}</strong></td>
-            <td data-label="AD áp dụng"><span class="badge status-closed">${appAdsCount} AD Applicable</span></td>
+            <td data-label="AD áp dụng"><span class="badge status-closed">${appAdsCount} AD Applicable (unverified)</span></td>
           </tr>
         `;
       })
@@ -3069,7 +3075,10 @@
     const total = adList.length;
 
     const statusItems = [
-      ["✅ Applicable (Áp dụng đội bay 108 tàu VJC)", adList.filter((a) => a.applicabilityStatus === "Applicable").length],
+      [
+        `✅ Applicable (unverified) (Áp dụng đội bay ${fleetList.length} tàu VJC)`,
+        adList.filter((a) => a.applicabilityStatus === "Applicable").length
+      ],
       ["🚫 Not Applicable (Ngoài cấu hình VJC)", adList.filter((a) => a.applicabilityStatus !== "Applicable").length],
       ["🔗 AD có thay thế AD cũ (Superseding ADs)", adList.filter((a) => (a.supersededAds || []).length > 0).length]
     ];
@@ -3154,7 +3163,7 @@
               ad.adNumber
             )})</span>`
           : `<span class="badge ${isApp ? "status-closed" : "status-overdue"}">${escapeHtml(
-              ad.applicabilityStatus.toUpperCase()
+              isApp ? "Applicable (unverified)" : "NOT APPLICABLE"
             )}</span>`
       }
       ${getAuthorityBadge(ad)}
@@ -3309,7 +3318,7 @@
         <div class="detail-box">
           <div class="label">Đối chiếu Đội bay ${fleetList.length} tàu VJC</div>
           <div class="val" style="color:${isApp ? "#34d399" : "#94a3b8"};">
-            ${isApp ? `✅ Applicable (${(ad.affectedFleet || []).length}/${fleetList.length} tàu VJC)` : "🚫 Not Applicable"}
+            ${isApp ? `✅ Applicable (unverified) (${(ad.affectedFleet || []).length}/${fleetList.length} tàu VJC)` : "🚫 Not Applicable"}
           </div>
           <div style="font-size:11.5px;color:var(--text-secondary);margin-top:4px;">
             ${escapeHtml(ad.vjcMatchedSummary)}
