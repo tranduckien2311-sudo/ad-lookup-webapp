@@ -57,6 +57,10 @@
         ✈️ Đội Bay VJC (<span id="navTabFleetTitleCount">111</span> Tàu) &amp; Tra Cứu Theo Tàu
         <span class="tab-count" id="navCountFleet">111</span>
       </button>
+      <button class="nav-tab" data-tab="tab-appliances" id="navTabAppliances">
+        🧰 Lọc AD theo Appliances &amp; Vật tư
+        <span class="tab-count" id="navCountAppliances" style="background:rgba(59,130,246,0.2);color:#60a5fa;border-color:rgba(59,130,246,0.4);">55</span>
+      </button>
       <button class="nav-tab" data-tab="tab-live">
         🌐 Tìm kiếm Trực tuyến Mở rộng (FAA / EASA Live)
       </button>
@@ -393,7 +397,182 @@
       </div>
     </section>
 
-    <!-- TAB 4: LIVE CUSTOM SEARCH -->
+    <!-- TAB 4: APPLIANCES & EQUIPMENT FILTER -->
+    <section class="tab-panel" id="tab-appliances">
+      <!-- Appliances Hero / Explanation Banner -->
+      <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(59,130,246,0.12),rgba(147,51,234,0.1));border-color:rgba(59,130,246,0.45);">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+          <div>
+            <div style="display:flex;align-items:center;gap:8px;">
+              <strong style="font-size:15px;color:#93c5fd;">
+                🧰 Tra Cứu Thiết Bị, Vật Tư (Appliances &amp; Components) &amp; Tra Soát AD Áp Dụng
+              </strong>
+              <span class="badge" style="background:rgba(59,130,246,0.25);border:1px solid #3b82f6;color:#bfdbfe;font-size:11px;">
+                150,633 Vật Tư • 3,987 P/N • 110 Tàu VJC
+              </span>
+            </div>
+            <p style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
+              Tích hợp danh mục thiết bị &amp; vật tư lắp đặt thực tế trên toàn bộ đội tàu bay VietJet Air (Chuẩn Part Number, Tên thiết bị, Nhóm Chapter &amp; Số đăng ký tàu bay). Cho phép đối chiếu tự động với yêu cầu kỹ thuật của các AD FAA / EASA.
+            </p>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+            <div class="btn-group" style="display:inline-flex;border-radius:6px;overflow:hidden;border:1px solid rgba(255,255,255,0.15);">
+              <button class="btn btn-primary btn-sm" id="btnViewByPartNumber" style="border-radius:0;">
+                📋 Xem theo Part Number (P/N)
+              </button>
+              <button class="btn btn-outline btn-sm" id="btnViewByApplianceAds" style="border-radius:0;">
+                📜 Xem theo Danh sách AD Vật tư
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Appliances KPI Cards -->
+      <div class="kpi-grid" style="grid-template-columns:repeat(4,1fr);margin-bottom:16px;">
+        <div class="kpi-card" id="kpiApplianceTotalParts">
+          <div class="kpi-header">
+            <span>Tổng Linh Kiện Theo Dõi</span>
+            <span>📦</span>
+          </div>
+          <div class="kpi-value" id="kpiValTotalParts">150,633</div>
+          <div class="kpi-sub">Lắp trên 110 tàu bay VJC</div>
+        </div>
+        <div class="kpi-card" id="kpiApplianceUniquePn">
+          <div class="kpi-header">
+            <span>Danh mục Part Number (P/N)</span>
+            <span>🏷️</span>
+          </div>
+          <div class="kpi-value" id="kpiValUniquePn">3,987</div>
+          <div class="kpi-sub">P/N định danh duy nhất</div>
+        </div>
+        <div class="kpi-card kpi-success" id="kpiApplianceWithAds">
+          <div class="kpi-header">
+            <span>P/N Có AD Áp Dụng VJC</span>
+            <span>⚠️</span>
+          </div>
+          <div class="kpi-value" id="kpiValPnWithAds">55</div>
+          <div class="kpi-sub" id="kpiSubPnWithAds">Khớp trực tiếp quy định AD</div>
+        </div>
+        <div class="kpi-card kpi-warning" id="kpiApplianceAffectedAds">
+          <div class="kpi-header">
+            <span>Tổng AD Vật Tư / Appliance</span>
+            <span>🛡️</span>
+          </div>
+          <div class="kpi-value" id="kpiValAffectedAds">45</div>
+          <div class="kpi-sub">AD ảnh hưởng trang thiết bị VJC</div>
+        </div>
+      </div>
+
+      <!-- Appliances Filter Panel -->
+      <div class="filter-panel" style="margin-bottom:16px;">
+        <div class="filter-grid" style="grid-template-columns:repeat(auto-fit,minmax(190px,1fr));">
+          <div class="form-group" style="grid-column:span 2;">
+            <label for="filterApplianceSearch">Tìm kiếm P/N, Tên thiết bị, Số AD</label>
+            <input type="text" id="filterApplianceSearch" class="form-control" placeholder="Nhập Part Number (VD: C16291AB, HTE900212), Tên linh kiện, hoặc AD..." />
+          </div>
+          <div class="form-group">
+            <label for="filterApplianceChapter">Nhóm / Phân loại (Chapter)</label>
+            <select id="filterApplianceChapter" class="form-control">
+              <option value="ALL">Tất cả Nhóm Phân loại</option>
+              <option value="3 Equipment">3 Equipment (132,059 chi tiết)</option>
+              <option value="2 Constituent Assy">2 Constituent Assy (14,262 chi tiết)</option>
+              <option value="3 HW/SW Equipment">3 HW/SW Equipment (4,312 chi tiết)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="filterApplianceType">Dòng Tàu Bay</label>
+            <select id="filterApplianceType" class="form-control">
+              <option value="ALL">Tất cả Dòng tàu (A320 / A321 / A330)</option>
+              <option value="A321">Airbus A321 (113,944 linh kiện)</option>
+              <option value="A320">Airbus A320 (26,804 linh kiện)</option>
+              <option value="A330">Airbus A330 (9,885 linh kiện)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="filterAppliancePlane" style="color:#60a5fa;font-weight:700;">✈️ Chọn Tàu bay VJC (VN-Axxx)</label>
+            <select id="filterAppliancePlane" class="form-control" style="border-color:rgba(59,130,246,0.55);">
+              <option value="ALL">Tất cả 110 tàu bay VJC</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="filterApplianceAdStatus">Tình trạng AD Quy định</label>
+            <select id="filterApplianceAdStatus" class="form-control">
+              <option value="HAS_AD">⚠️ Chỉ hiển thị P/N CÓ AD ÁP DỤNG (55 P/N)</option>
+              <option value="ALL">🌐 Tất cả Part Number trong kho (3,987 P/N)</option>
+              <option value="NO_AD">Chưa có AD liên quan</option>
+            </select>
+          </div>
+          <div class="form-group" style="align-self:flex-end;">
+            <button class="btn btn-outline" id="btnResetApplianceFilters" style="width:100%;">
+              🔄 Đặt lại Bộ lọc
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Appliances Table View Container -->
+      <div class="table-card">
+        <div class="table-toolbar">
+          <div>
+            <strong id="appliancesTableTitle">Bảng Danh Mục Thiết Bị, Vật Tư &amp; AD Quy Định</strong>
+            <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="appliancesCounterText">Đang tải...</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+            <button class="btn btn-primary btn-sm" id="btnExportAppliancesExcel" title="Xuất dữ liệu thiết bị đang lọc ra file Excel">
+              📥 Xuất Excel Thiết Bị
+            </button>
+            <span style="font-size:12px;color:var(--text-secondary);">
+              Nhấp vào P/N bất kỳ để xem <strong>Chi tiết toàn bộ tàu bay lắp đặt &amp; Hồ sơ AD liên quan</strong>
+            </span>
+          </div>
+        </div>
+
+        <div class="table-responsive">
+          <!-- View 1: Part Numbers Table -->
+          <table class="ad-table" id="tableAppliancesPn">
+            <thead>
+              <tr>
+                <th style="min-width:180px;">Mã Part Number (P/N)</th>
+                <th style="min-width:240px;">Tên Thiết Bị / Linh Kiện (Description)</th>
+                <th style="min-width:140px;">Nhóm / Chapter</th>
+                <th style="min-width:110px;">Dòng Tàu</th>
+                <th style="min-width:150px;">Số Tàu Lắp Đặt</th>
+                <th style="min-width:260px;">AD Quy Định &amp; Link PDF</th>
+                <th style="min-width:100px;text-align:center;">Thao Tác</th>
+              </tr>
+            </thead>
+            <tbody id="appliancesPnTableBody"></tbody>
+          </table>
+
+          <!-- View 2: ADs by Appliance Table -->
+          <table class="ad-table" id="tableAppliancesAds" style="display:none;">
+            <thead>
+              <tr>
+                <th style="min-width:190px;">Số hiệu AD (FAA / EASA)</th>
+                <th style="min-width:280px;">Tiêu đề AD &amp; Nguyên văn Yêu cầu</th>
+                <th style="min-width:220px;">Linh kiện / Part Number VJC Khớp</th>
+                <th style="min-width:170px;">Tàu bay VJC Đang Lắp Đặt</th>
+                <th style="min-width:120px;">Ngày Hiệu Lực</th>
+                <th style="min-width:130px;">Hồ sơ Gốc</th>
+              </tr>
+            </thead>
+            <tbody id="appliancesAdsTableBody"></tbody>
+          </table>
+        </div>
+
+        <!-- Pagination for Appliances -->
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-top:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:10px;">
+          <div style="font-size:12.5px;color:var(--text-secondary);" id="appliancesPageInfo">Trang 1 / 1</div>
+          <div style="display:flex;gap:6px;">
+            <button class="btn btn-outline btn-sm" id="btnAppliancePrevPage">◀ Trang trước</button>
+            <button class="btn btn-outline btn-sm" id="btnApplianceNextPage">Trang sau ▶</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 5: LIVE CUSTOM SEARCH -->
     <section class="tab-panel" id="tab-live">
       <div class="live-search-hero">
         <h2 style="font-size:17px;font-weight:700;margin-bottom:4px;">
@@ -468,6 +647,30 @@
         <div style="display:flex;gap:8px;flex-wrap:wrap;">
           <a href="#" target="_blank" rel="noopener" class="btn btn-outline" id="btnModalSourceLink">🔗 Trang Công bố Gốc ↗</a>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: APPLIANCE / PART NUMBER DETAIL -->
+  <div class="modal-backdrop" id="applianceDetailModal">
+    <div class="modal-dialog" style="max-width:960px;">
+      <div class="modal-header">
+        <div style="flex:1 1 0%;min-width:0;">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+            <span class="badge" style="background:rgba(59,130,246,0.22);border:1px solid rgba(59,130,246,0.6);color:#93c5fd;font-weight:700;">
+              🧰 CHI TIẾT THIẾT BỊ / VẬT TƯ
+            </span>
+            <span class="badge badge-standard" id="modalApplianceChapter">Chapter</span>
+          </div>
+          <h2 style="font-size:17px;font-weight:800;color:#fff;" id="modalApplianceTitle">Part Number</h2>
+        </div>
+        <button class="btn btn-outline btn-sm no-print" id="btnCloseApplianceModal" style="flex-shrink:0;">✕ Đóng</button>
+      </div>
+      <div class="modal-body" id="modalApplianceBody">
+        <!-- Injected via JS -->
+      </div>
+      <div class="modal-footer no-print">
+        <button class="btn btn-outline" id="btnCloseApplianceModalBottom">Đóng</button>
       </div>
     </div>
   </div>
@@ -668,6 +871,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=29"></script>
+  <script src="app.js?v=30"></script>
 </body>
 </html>

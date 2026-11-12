@@ -753,6 +753,10 @@
       {
         id: "fleetSelectFilter",
         allLabel: `✈️ Tất cả ${fleetList.length} tàu bay VJC (Hiển thị 200 dòng đầu)`
+      },
+      {
+        id: "filterAppliancePlane",
+        allLabel: `✈️ Tất cả ${fleetList.length} tàu bay VJC`
       }
     ];
 
@@ -3331,6 +3335,36 @@
         ${renderReasonBoxHtml(viewingDoc.summary || ad.summary)}
       </div>
 
+      <!-- 2.5 Appliances Matched Box (If AD affects specific P/Ns in VJC inventory) -->
+      ${ad.appliancesMatched && ad.appliancesMatched.length > 0 ? `
+        <div class="detail-box" style="border-color:rgba(59,130,246,0.6);background:rgba(59,130,246,0.06);">
+          <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
+            <div class="label" style="color:#60a5fa;font-size:12.5px;font-weight:700;">
+              🧰 THIẾT BỊ / VẬT TƯ VJC BỊ ẢNH HƯỞNG THEO QUY ĐỊNH CỦA AD (${ad.appliancesMatched.length} Part Number)
+            </div>
+            <span class="badge" style="background:rgba(59,130,246,0.2);color:#93c5fd;font-size:11px;">
+              Đối chiếu danh mục vật tư VJC
+            </span>
+          </div>
+          <div style="margin-top:8px;display:flex;flex-direction:column;gap:6px;">
+            ${ad.appliancesMatched.map(app => `
+              <div style="display:flex;justify-content:space-between;align-items:center;padding:7px 12px;background:rgba(255,255,255,0.04);border-radius:6px;border:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:8px;">
+                <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                  <strong style="color:#93c5fd;font-family:monospace;font-size:13.5px;">P/N: ${escapeHtml(app.pn)}</strong>
+                  <span style="color:var(--text-secondary);font-size:12px;">${escapeHtml(app.desc || '')}</span>
+                  <span class="badge badge-standard" style="font-size:10.5px;">${escapeHtml(app.chapter || '')}</span>
+                </div>
+                <div>
+                  <button type="button" class="btn btn-outline btn-sm" onclick="window.viewApplianceDetail('${escapeHtml(app.pn)}')" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-size:11.5px;padding:3px 10px;">
+                    ✈️ Đang lắp trên ${app.planeCount} tàu VJC (${escapeHtml(app.samplePlanes || '')}) ↗
+                  </button>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+
       <!-- 3. Direct Official AD Links & PDF Attachment (Current AD or Superseded AD PDF) -->
       <div class="detail-box no-print" style="border-color:rgba(16,185,129,0.5);">
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
@@ -3469,6 +3503,7 @@
     renderAutoEvaluationsTab();
     renderFleetTab();
     renderDashboard();
+    filterAndRenderAppliances();
   }
 
   function initEvents() {
@@ -4076,6 +4111,569 @@ ${bodyRows}
       e.target.reset();
       showToast(`✅ Đã lưu nguyên văn AD ${num} (${auth}) vào CSDL!`);
     });
+
+    initApplianceEvents();
+  }
+
+  // ==========================================
+  // APPLIANCES & EQUIPMENT INTEGRATION MODULE
+  // ==========================================
+  let appliancesCatalog = [];
+  let appliancesMetadata = null;
+  let applianceCurrentPage = 1;
+  const appliancePageSize = 50;
+  let applianceViewMode = "PN"; // "PN" | "AD"
+  let filteredAppliances = [];
+  let filteredApplianceAds = [];
+
+  async function loadAppliancesCatalog() {
+    try {
+      const resp = await fetch("./db/vjc-appliances-catalog.json");
+      if (resp.ok) {
+        const data = await resp.json();
+        appliancesMetadata = data.metadata || null;
+        appliancesCatalog = data.appliances || [];
+        updateApplianceKpis();
+        filterAndRenderAppliances();
+      }
+    } catch (e) {
+      console.warn("Failed to load appliances catalog:", e);
+    }
+  }
+
+  function updateApplianceKpis() {
+    if (!appliancesMetadata) return;
+    const elTotParts = document.getElementById("kpiValTotalParts");
+    if (elTotParts) elTotParts.textContent = Number(appliancesMetadata.totalRows || 150633).toLocaleString();
+    const elUniqPn = document.getElementById("kpiValUniquePn");
+    if (elUniqPn) elUniqPn.textContent = Number(appliancesMetadata.totalUniquePn || 3987).toLocaleString();
+    const elPnAds = document.getElementById("kpiValPnWithAds");
+    if (elPnAds) elPnAds.textContent = Number(appliancesMetadata.pnsWithAds || 55).toLocaleString();
+    const elAffAds = document.getElementById("kpiValAffectedAds");
+    if (elAffAds) elAffAds.textContent = Number(appliancesMetadata.adCountMatching || 45).toLocaleString();
+
+    const countBadge = document.getElementById("navCountAppliances");
+    if (countBadge) {
+      countBadge.textContent = appliancesMetadata.pnsWithAds || 55;
+    }
+  }
+
+  function filterAndRenderAppliances() {
+    const searchKw = (document.getElementById("filterApplianceSearch")?.value || "").trim().toLowerCase();
+    const chapterFilter = document.getElementById("filterApplianceChapter")?.value || "ALL";
+    const typeFilter = document.getElementById("filterApplianceType")?.value || "ALL";
+    const planeFilter = document.getElementById("filterAppliancePlane")?.value || "ALL";
+    const adStatusFilter = document.getElementById("filterApplianceAdStatus")?.value || "HAS_AD";
+
+    if (applianceViewMode === "PN") {
+      filteredAppliances = appliancesCatalog.filter((item) => {
+        if (adStatusFilter === "HAS_AD" && !item.hasAd) return false;
+        if (adStatusFilter === "NO_AD" && item.hasAd) return false;
+
+        if (chapterFilter !== "ALL" && item.chapter !== chapterFilter) return false;
+        if (typeFilter !== "ALL" && (!item.types || !item.types.includes(typeFilter))) return false;
+        if (planeFilter !== "ALL" && (!item.planes || !item.planes.some((p) => p.reg === planeFilter))) return false;
+
+        if (searchKw) {
+          const matchPn = (item.pn || "").toLowerCase().includes(searchKw);
+          const matchDesc = (item.desc || "").toLowerCase().includes(searchKw);
+          const matchAd = (item.matchedAds || []).some(
+            (a) => (a.adNumber || "").toLowerCase().includes(searchKw) || (a.subject || "").toLowerCase().includes(searchKw)
+          );
+          if (!matchPn && !matchDesc && !matchAd) return false;
+        }
+        return true;
+      });
+
+      // Sort: items with ADs first, then by planeCount descending
+      filteredAppliances.sort((a, b) => {
+        if (a.hasAd !== b.hasAd) return a.hasAd ? -1 : 1;
+        return (b.planeCount || 0) - (a.planeCount || 0);
+      });
+
+      applianceCurrentPage = 1;
+      renderAppliancesPnTable();
+    } else {
+      // AD View Mode: collect all ADs from adList that have appliancesMatched
+      const adPool = adList.filter((a) => a.appliancesMatched && a.appliancesMatched.length > 0);
+      filteredApplianceAds = adPool.filter((ad) => {
+        if (chapterFilter !== "ALL" && !ad.appliancesMatched.some((m) => m.chapter === chapterFilter)) return false;
+        if (planeFilter !== "ALL" && (!ad.affectedFleet || !ad.affectedFleet.some((f) => f.reg === planeFilter))) return false;
+        if (typeFilter !== "ALL" && (!ad.matchedTypes || !ad.matchedTypes.some((t) => t.includes(typeFilter)))) return false;
+
+        if (searchKw) {
+          const matchNum = (ad.adNumber || "").toLowerCase().includes(searchKw);
+          const matchSubj = (ad.subject || "").toLowerCase().includes(searchKw);
+          const matchPn = ad.appliancesMatched.some(
+            (m) => (m.pn || "").toLowerCase().includes(searchKw) || (m.desc || "").toLowerCase().includes(searchKw)
+          );
+          if (!matchNum && !matchSubj && !matchPn) return false;
+        }
+        return true;
+      });
+
+      filteredApplianceAds.sort((a, b) => (b.appliancesCount || 0) - (a.appliancesCount || 0));
+      applianceCurrentPage = 1;
+      renderAppliancesAdsTable();
+    }
+  }
+
+  function renderAppliancesPnTable() {
+    const tbody = document.getElementById("appliancesPnTableBody");
+    const titleEl = document.getElementById("appliancesTableTitle");
+    const countEl = document.getElementById("appliancesCounterText");
+    const pageInfo = document.getElementById("appliancesPageInfo");
+    if (!tbody) return;
+
+    if (titleEl) titleEl.textContent = "Bảng Danh Mục Thiết Bị, Vật Tư & AD Quy Định";
+    if (countEl) countEl.textContent = `Hiển thị ${filteredAppliances.length.toLocaleString()} Part Number`;
+
+    const totalPages = Math.ceil(filteredAppliances.length / appliancePageSize) || 1;
+    if (applianceCurrentPage > totalPages) applianceCurrentPage = totalPages;
+    if (applianceCurrentPage < 1) applianceCurrentPage = 1;
+
+    if (pageInfo) {
+      pageInfo.textContent = `Trang ${applianceCurrentPage} / ${totalPages} (${filteredAppliances.length.toLocaleString()} P/N)`;
+    }
+
+    const startIdx = (applianceCurrentPage - 1) * appliancePageSize;
+    const pageItems = filteredAppliances.slice(startIdx, startIdx + appliancePageSize);
+
+    if (pageItems.length === 0) {
+      tbody.innerHTML = `<tr><td colspan="7" style="text-align:center;padding:32px;color:var(--text-secondary);">Không tìm thấy thiết bị nào phù hợp với bộ lọc hiện tại.</td></tr>`;
+      return;
+    }
+
+    tbody.innerHTML = pageItems
+      .map((item) => {
+        const adHtml =
+          item.matchedAds && item.matchedAds.length > 0
+            ? `<div style="display:flex;flex-direction:column;gap:4px;">` +
+              item.matchedAds
+                .map((a) => {
+                  const authBadge = (a.authority || "").includes("EASA")
+                    ? `<span class="badge badge-easa" style="font-size:10px;padding:2px 5px;">EASA</span>`
+                    : `<span class="badge badge-faa" style="font-size:10px;padding:2px 5px;">FAA</span>`;
+                  return `
+                    <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
+                      ${authBadge}
+                      <a href="javascript:void(0)" onclick="window.viewAdFromAppliance('${escapeHtml(a.adId || '')}')" style="color:#60a5fa;font-size:12px;font-weight:600;text-decoration:underline;">
+                        ${escapeHtml(a.adNumber)}
+                      </a>
+                      ${
+                        a.pdfUrl
+                          ? `<a href="${escapeHtml(a.pdfUrl)}" target="_blank" rel="noopener" class="badge" style="background:rgba(16,185,129,0.18);border:1px solid rgba(16,185,129,0.4);color:#34d399;font-size:10px;padding:2px 6px;">📄 PDF ↗</a>`
+                          : ""
+                      }
+                    </div>
+                  `;
+                })
+                .join("") +
+              `</div>`
+            : `<span style="font-size:12px;color:var(--text-secondary);">Chưa ghi nhận AD điều chỉnh</span>`;
+
+        const typeBadges = (item.types || [])
+          .map((t) => `<span class="badge badge-standard" style="font-size:10.5px;">${escapeHtml(t)}</span>`)
+          .join(" ");
+
+        return `
+          <tr style="cursor:pointer;" onclick="window.viewApplianceDetail('${escapeHtml(item.pn)}')">
+            <td>
+              <div style="display:flex;align-items:center;gap:6px;">
+                <strong style="color:#93c5fd;font-family:monospace;font-size:13.5px;">${escapeHtml(item.pn)}</strong>
+                ${item.hasAd ? `<span class="badge badge-warning" style="font-size:10px;padding:2px 6px;">⚠️ Có AD</span>` : ""}
+              </div>
+            </td>
+            <td>
+              <div style="font-weight:600;color:#fff;">${escapeHtml(item.desc || "Thiết bị không tên")}</div>
+            </td>
+            <td>
+              <span class="badge badge-standard" style="font-size:11px;">${escapeHtml(item.chapter || "Chưa phân loại")}</span>
+            </td>
+            <td>${typeBadges || "—"}</td>
+            <td>
+              <span class="badge" style="background:rgba(59,130,246,0.18);border:1px solid rgba(59,130,246,0.4);color:#bfdbfe;font-size:11.5px;padding:3px 8px;">
+                ✈️ ${item.planeCount || 0} tàu (${item.totalQty || 0} chi tiết)
+              </span>
+            </td>
+            <td onclick="event.stopPropagation();">${adHtml}</td>
+            <td style="text-align:center;" onclick="event.stopPropagation();">
+              <button class="btn btn-outline btn-sm" onclick="window.viewApplianceDetail('${escapeHtml(item.pn)}')" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-size:11.5px;padding:4px 8px;">
+                🔍 Chi tiết
+              </button>
+            </td>
+          </tr>
+        `;
+      })
+      .join("");
+  }
+
+  function renderAppliancesAdsTable() {
+    const tbody = document.getElementById("appliancesAdsTableBody");
+    const titleEl = document.getElementById("appliancesTableTitle");
+    const countEl = document.getElementById("appliancesCounterText");
+    const pageInfo = document.getElementById("appliancesPageInfo");
+    if (!tbody) return;
+
+    if (titleEl) titleEl.textContent = "Bảng Danh Sách AD Quy Định Theo Vật Tư & Thiết Bị (Appliances)";
+    if (countEl) countEl.textContent = `Hiển thị ${filteredApplianceAds.length.toLocaleString()} AD Vật Tư`;
+
+    const totalPages = Math.ceil(filteredApplianceAds.length / appliancePageSize) || 1;
+    if (applianceCurrentPage > totalPages) applianceCurrentPage = totalPages;
+    if (applianceCurrentPage < 1) applianceCurrentPage = 1;
+
+    if (pageInfo) {
+      pageInfo.textContent = `Trang ${applianceCurrentPage} / ${totalPages} (${filteredApplianceAds.length.toLocaleString()} AD)`;
+    }
+
+    const startIdx = (applianceCurrentPage - 1) * appliancePageSize;
+    const pageItems = filteredApplianceAds.slice(startIdx, startIdx + appliancePageSize);
+
+    if (pageItems.length === 0) {
+      tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:32px;color:var(--text-secondary);">Không có AD vật tư nào phù hợp với bộ lọc hiện tại.</td></tr>`;
+      return;
+    }
+
+    tbody.innerHTML = pageItems
+      .map((ad) => {
+        const authBadge = (ad.authorityDual || ad.authority || "").toUpperCase().includes("EASA")
+          ? `<span class="badge badge-easa">🇪🇺 EASA</span>`
+          : `<span class="badge badge-faa">🇺🇸 FAA</span>`;
+
+        const partsHtml = (ad.appliancesMatched || [])
+          .map((m) => `
+            <div style="display:flex;align-items:center;gap:6px;margin-bottom:3px;">
+              <a href="javascript:void(0)" onclick="window.viewApplianceDetail('${escapeHtml(m.pn)}')" style="color:#93c5fd;font-family:monospace;font-size:12px;font-weight:700;text-decoration:underline;">
+                ${escapeHtml(m.pn)}
+              </a>
+              <span style="font-size:11.5px;color:var(--text-secondary);">${escapeHtml(m.desc || "")}</span>
+              <span class="badge badge-standard" style="font-size:10px;">${m.planeCount} tàu</span>
+            </div>
+          `)
+          .join("");
+
+        const planesSummary = (ad.affectedFleet || [])
+          .slice(0, 8)
+          .map((f) => `<span class="badge badge-standard" style="font-size:10px;padding:2px 5px;">${escapeHtml(f.reg)}</span>`)
+          .join(" ");
+
+        const extraPlanesCount = (ad.affectedFleet || []).length > 8 ? `+${(ad.affectedFleet || []).length - 8} tàu` : "";
+
+        return `
+          <tr style="cursor:pointer;" onclick="openAdModal('${escapeHtml(ad.id)}')">
+            <td>
+              <div style="margin-bottom:4px;">${authBadge}</div>
+              <strong style="color:#60a5fa;font-size:13.5px;">${escapeHtml(ad.adNumber)}</strong>
+            </td>
+            <td>
+              <div style="font-weight:600;color:#fff;margin-bottom:4px;">${escapeHtml(ad.subject || "AD Yêu Cầu Kỹ Thuật")}</div>
+              <div style="font-size:12px;color:var(--text-secondary);line-height:1.45;">${escapeHtml((ad.summary || "").slice(0, 160))}...</div>
+            </td>
+            <td onclick="event.stopPropagation();">${partsHtml}</td>
+            <td>
+              <div style="margin-bottom:4px;font-size:12px;font-weight:600;color:#34d399;">
+                ✅ Áp dụng ${(ad.affectedFleet || []).length}/111 tàu VJC
+              </div>
+              <div style="display:flex;flex-wrap:wrap;gap:3px;">
+                ${planesSummary}
+                ${extraPlanesCount ? `<span class="badge badge-standard" style="font-size:10px;">${extraPlanesCount}</span>` : ""}
+              </div>
+            </td>
+            <td>
+              <div style="font-family:monospace;font-size:12px;color:var(--accent-emerald);">
+                ${escapeHtml(ad.effectiveDate || ad.issueDate || "—")}
+              </div>
+            </td>
+            <td onclick="event.stopPropagation();">
+              <div style="display:flex;gap:6px;flex-direction:column;">
+                ${
+                  ad.pdfUrl
+                    ? `<a href="${escapeHtml(ad.pdfUrl)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(16,185,129,0.5);color:#34d399;font-size:11px;padding:3px 8px;text-align:center;">
+                        📄 File PDF ↗
+                      </a>`
+                    : ""
+                }
+                <button class="btn btn-primary btn-sm" onclick="openAdModal('${escapeHtml(ad.id)}')" style="font-size:11px;padding:3px 8px;">
+                  👁️ Chi tiết AD
+                </button>
+              </div>
+            </td>
+          </tr>
+        `;
+      })
+      .join("");
+  }
+
+  function openApplianceModal(pn) {
+    const item = appliancesCatalog.find((x) => x.pn === pn);
+    if (!item) {
+      showToast(`⚠️ Không tìm thấy chi tiết thiết bị P/N: ${pn}`);
+      return;
+    }
+
+    const modal = document.getElementById("applianceDetailModal");
+    const titleEl = document.getElementById("modalApplianceTitle");
+    const chapEl = document.getElementById("modalApplianceChapter");
+    const bodyEl = document.getElementById("modalApplianceBody");
+    if (!modal || !bodyEl) return;
+
+    if (titleEl) titleEl.textContent = `P/N: ${item.pn} — ${item.desc || "Chi tiết Thiết Bị"}`;
+    if (chapEl) chapEl.textContent = item.chapter || "Chưa phân loại";
+
+    const planeList = item.planes || [];
+    const adsList = item.matchedAds || [];
+
+    bodyEl.innerHTML = `
+      <div class="detail-grid" style="grid-template-columns:repeat(4,1fr);margin-bottom:14px;">
+        <div class="detail-box">
+          <div class="label">Mã Part Number (P/N)</div>
+          <div class="val" style="color:#93c5fd;font-family:monospace;font-size:15px;">${escapeHtml(item.pn)}</div>
+        </div>
+        <div class="detail-box">
+          <div class="label">Nhóm / Phân Loại</div>
+          <div class="val" style="font-size:13.5px;">${escapeHtml(item.chapter || "—")}</div>
+        </div>
+        <div class="detail-box">
+          <div class="label">Dòng Tàu Lắp Đặt</div>
+          <div class="val" style="font-size:13.5px;">${escapeHtml((item.types || []).join(", ") || "—")}</div>
+        </div>
+        <div class="detail-box">
+          <div class="label">Tổng Số Lượng / Số Tàu</div>
+          <div class="val" style="color:#34d399;font-size:14px;">
+            ✈️ ${item.planeCount || planeList.length} tàu (${item.totalQty} chi tiết)
+          </div>
+        </div>
+      </div>
+
+      <!-- ADs Regulating this Appliance -->
+      <div class="detail-box" style="margin-bottom:14px;border-color:${adsList.length > 0 ? "rgba(245,158,11,0.6)" : "rgba(255,255,255,0.15)"};background:${adsList.length > 0 ? "rgba(245,158,11,0.06)" : "transparent"};">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+          <div class="label" style="color:${adsList.length > 0 ? "#fde68a" : "var(--text-secondary)"};font-size:12.5px;font-weight:700;">
+            🛡️ QUY ĐỊNH KỸ THUẬT &amp; AIRWORTHINESS DIRECTIVES (AD) LIÊN QUAN (${adsList.length} AD)
+          </div>
+          ${adsList.length > 0 ? `<span class="badge badge-warning">Cần kiểm tra tuân thủ</span>` : `<span class="badge badge-standard">Chưa có AD</span>`}
+        </div>
+        ${
+          adsList.length > 0
+            ? `<div style="display:flex;flex-direction:column;gap:8px;">` +
+              adsList
+                .map((a) => `
+                  <div style="display:flex;justify-content:space-between;align-items:center;padding:8px 12px;background:rgba(255,255,255,0.04);border-radius:6px;border:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:8px;">
+                    <div>
+                      <div style="display:flex;align-items:center;gap:6px;">
+                        <span class="badge ${ (a.authority || "").includes("EASA") ? "badge-easa" : "badge-faa" }">${escapeHtml(a.authority || "AD")}</span>
+                        <strong style="color:#60a5fa;font-size:13.5px;">${escapeHtml(a.adNumber)}</strong>
+                        <span style="font-size:12px;color:var(--accent-emerald);font-family:monospace;margin-left:6px;">Eff: ${escapeHtml(a.effectiveDate || "—")}</span>
+                      </div>
+                      <div style="font-size:12.5px;color:#fff;margin-top:4px;">${escapeHtml(a.subject || "")}</div>
+                    </div>
+                    <div style="display:flex;gap:6px;">
+                      ${
+                        a.pdfUrl
+                          ? `<a href="${escapeHtml(a.pdfUrl)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(16,185,129,0.5);color:#34d399;font-size:11.5px;padding:4px 9px;">
+                              📄 Bản PDF ↗
+                            </a>`
+                          : ""
+                      }
+                      <button class="btn btn-primary btn-sm" onclick="window.viewAdFromAppliance('${escapeHtml(a.adId || '')}')" style="font-size:11.5px;padding:4px 9px;">
+                        👁️ Mở AD Modal
+                      </button>
+                    </div>
+                  </div>
+                `)
+                .join("") +
+              `</div>`
+            : `<div style="font-size:12.5px;color:var(--text-secondary);padding:6px 0;">Không có AD nào của FAA hoặc EASA trực tiếp yêu cầu xử lý Part Number này trên đội tàu VJC.</div>`
+        }
+      </div>
+
+      <!-- Aircraft List Equipped with this Appliance -->
+      <div class="detail-box">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+          <div class="label" style="color:#60a5fa;font-size:12.5px;font-weight:700;">
+            ✈️ DANH SÁCH ${planeList.length} TÀU BAY VIETJET AIR ĐANG LẮP ĐẶT THIẾT BỊ NÀY
+          </div>
+          <span class="badge status-closed">${item.totalQty} Chi Tiết Lắp Đặt</span>
+        </div>
+        <div style="max-height:320px;overflow-y:auto;border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
+          <table class="ad-table" style="font-size:12.5px;margin:0;">
+            <thead>
+              <tr style="position:sticky;top:0;background:var(--bg-card);z-index:1;">
+                <th>Số Đăng Ký (Reg)</th>
+                <th>Số Xuất Xưởng (MSN)</th>
+                <th>Dòng Tàu Bay</th>
+                <th style="text-align:right;">Số Lượng Lắp</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${planeList
+                .map(
+                  (p) => `
+                <tr>
+                  <td>
+                    <strong style="color:#60a5fa;font-family:monospace;">${escapeHtml(p.reg)}</strong>
+                  </td>
+                  <td style="font-family:monospace;">${escapeHtml(p.msn || "—")}</td>
+                  <td>${escapeHtml(p.type || "—")}</td>
+                  <td style="text-align:right;font-weight:700;color:#34d399;">${p.qty || 1}</td>
+                </tr>
+              `
+                )
+                .join("")}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `;
+
+    modal.classList.add("open");
+  }
+
+  window.viewApplianceDetail = openApplianceModal;
+  window.openAdModal = openAdModal;
+  window.viewAdFromAppliance = function (adId) {
+    const appModal = document.getElementById("applianceDetailModal");
+    if (appModal) appModal.classList.remove("open");
+    openAdModal(adId);
+  };
+
+  function exportAppliancesToExcel() {
+    if (!filteredAppliances || filteredAppliances.length === 0) {
+      showToast("⚠️ Không có dữ liệu thiết bị để xuất");
+      return;
+    }
+    const headers = [
+      "Part Number",
+      "Description",
+      "Chapter",
+      "Types",
+      "Total Qty",
+      "Planes Count",
+      "Installed Planes",
+      "Has AD",
+      "Regulating ADs"
+    ];
+    const rows = filteredAppliances.map((it) => [
+      `"${(it.pn || "").replace(/"/g, '""')}"`,
+      `"${(it.desc || "").replace(/"/g, '""')}"`,
+      `"${(it.chapter || "").replace(/"/g, '""')}"`,
+      `"${(it.types || []).join(", ").replace(/"/g, '""')}"`,
+      it.totalQty || 0,
+      it.planeCount || 0,
+      `"${(it.planes || []).map((p) => p.reg).join(", ").replace(/"/g, '""')}"`,
+      it.hasAd ? "YES" : "NO",
+      `"${(it.matchedAds || []).map((a) => a.adNumber).join("; ").replace(/"/g, '""')}"`
+    ]);
+    const csvContent = "\uFEFF" + [headers.join(","), ...rows.map((r) => r.join(","))].join("\r\n");
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `VJC_Appliances_Inventory_${new Date().toISOString().slice(0, 10)}.csv`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+    showToast(`📥 Đã xuất ${filteredAppliances.length.toLocaleString()} thiết bị ra file CSV!`);
+  }
+
+  function initApplianceEvents() {
+    const btnPn = document.getElementById("btnViewByPartNumber");
+    const btnAds = document.getElementById("btnViewByApplianceAds");
+    const tblPn = document.getElementById("tableAppliancesPn");
+    const tblAds = document.getElementById("tableAppliancesAds");
+
+    if (btnPn && btnAds) {
+      btnPn.addEventListener("click", () => {
+        applianceViewMode = "PN";
+        btnPn.className = "btn btn-primary btn-sm";
+        btnAds.className = "btn btn-outline btn-sm";
+        if (tblPn) tblPn.style.display = "";
+        if (tblAds) tblAds.style.display = "none";
+        filterAndRenderAppliances();
+      });
+
+      btnAds.addEventListener("click", () => {
+        applianceViewMode = "AD";
+        btnAds.className = "btn btn-primary btn-sm";
+        btnPn.className = "btn btn-outline btn-sm";
+        if (tblPn) tblPn.style.display = "none";
+        if (tblAds) tblAds.style.display = "";
+        filterAndRenderAppliances();
+      });
+    }
+
+    const searchInput = document.getElementById("filterApplianceSearch");
+    if (searchInput) {
+      let deb = null;
+      searchInput.addEventListener("input", () => {
+        clearTimeout(deb);
+        deb = setTimeout(() => filterAndRenderAppliances(), 200);
+      });
+    }
+
+    ["filterApplianceChapter", "filterApplianceType", "filterAppliancePlane", "filterApplianceAdStatus"].forEach((id) => {
+      const el = document.getElementById(id);
+      if (el) el.addEventListener("change", () => filterAndRenderAppliances());
+    });
+
+    const btnReset = document.getElementById("btnResetApplianceFilters");
+    if (btnReset) {
+      btnReset.addEventListener("click", () => {
+        if (searchInput) searchInput.value = "";
+        const cEl = document.getElementById("filterApplianceChapter");
+        if (cEl) cEl.value = "ALL";
+        const tEl = document.getElementById("filterApplianceType");
+        if (tEl) tEl.value = "ALL";
+        const pEl = document.getElementById("filterAppliancePlane");
+        if (pEl) pEl.value = "ALL";
+        const sEl = document.getElementById("filterApplianceAdStatus");
+        if (sEl) sEl.value = "HAS_AD";
+        filterAndRenderAppliances();
+      });
+    }
+
+    const btnExp = document.getElementById("btnExportAppliancesExcel");
+    if (btnExp) btnExp.addEventListener("click", exportAppliancesToExcel);
+
+    const btnPrev = document.getElementById("btnAppliancePrevPage");
+    if (btnPrev) {
+      btnPrev.addEventListener("click", () => {
+        if (applianceCurrentPage > 1) {
+          applianceCurrentPage--;
+          if (applianceViewMode === "PN") renderAppliancesPnTable();
+          else renderAppliancesAdsTable();
+        }
+      });
+    }
+
+    const btnNext = document.getElementById("btnApplianceNextPage");
+    if (btnNext) {
+      btnNext.addEventListener("click", () => {
+        const pool = applianceViewMode === "PN" ? filteredAppliances : filteredApplianceAds;
+        const totalPages = Math.ceil(pool.length / appliancePageSize) || 1;
+        if (applianceCurrentPage < totalPages) {
+          applianceCurrentPage++;
+          if (applianceViewMode === "PN") renderAppliancesPnTable();
+          else renderAppliancesAdsTable();
+        }
+      });
+    }
+
+    const btnCloseModal = document.getElementById("btnCloseApplianceModal");
+    const btnCloseModalBtm = document.getElementById("btnCloseApplianceModalBottom");
+    const appModal = document.getElementById("applianceDetailModal");
+    if (btnCloseModal && appModal) {
+      btnCloseModal.addEventListener("click", () => appModal.classList.remove("open"));
+    }
+    if (btnCloseModalBtm && appModal) {
+      btnCloseModalBtm.addEventListener("click", () => appModal.classList.remove("open"));
+    }
+    if (appModal) {
+      appModal.addEventListener("click", (e) => {
+        if (e.target === appModal) appModal.classList.remove("open");
+      });
+    }
   }
 
   // PWA Service Worker & Install App Support
@@ -4203,5 +4801,6 @@ ${bodyRows}
     initEvents();
     initPwaSupport();
     loadDatabaseFromServer();
+    loadAppliancesCatalog();
   });
 })();
