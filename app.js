@@ -776,38 +776,147 @@
     });
   }
 
-  // Render grouped Dropdown List for a Superseding AD and its Superseded ADs (each with its own PDF & Verbatim Text!)
-  function renderSupersededDropdownHtml(ad, forceOpen) {
+  // Split Superseded AD items cleanly by authority side ("easa", "faa", or "all")
+  // so Dual pairs display EASA superseded ADs under EASA row and FAA superseded ADs under FAA row.
+  function normalizeEasaCoreNum(str) {
+    return String(str || "")
+      .replace(/^EASA\s+AD\s+/i, "")
+      .replace(/\s*\([^)]*\)\s*$/g, "")
+      .trim()
+      .toUpperCase();
+  }
+
+  function getSupersededItemsForSide(ad, sideFilter = "all") {
     const supList = ad.supersededAds || [];
-    if (supList.length === 0) {
-      return `<div style="margin-top:5px;"><span class="badge badge-standard" style="opacity:0.75;">AD Độc lập (Không thay thế AD cũ)</span></div>`;
+    if (supList.length === 0) return [];
+    const curEasaCore = normalizeEasaCoreNum(ad.easaAdNumber);
+    const results = [];
+
+    supList.forEach((s, origIdx) => {
+      const rawNum = String(s.adNumber || "").trim();
+      const authUpper = String(s.authority || "").trim().toUpperCase();
+      const hasFaa = Boolean(
+        s.officialFaaAd || /\bFAA\b|\b\d{4}-\d{2}-\d{2}\b/i.test(rawNum) || authUpper === "FAA"
+      );
+      const hasExplicitEasa = Boolean(
+        s.easaAdNumber || /\b(?:EASA|DGAC|LBA|CAA|State AD)\b|\b\d{4}-\d{4}(?:R\d+)?(?:-E)?\b/i.test(rawNum)
+      );
+      const hasEasa = hasExplicitEasa || (authUpper === "EASA" && !hasFaa);
+
+      if (sideFilter === "faa") {
+        if (!hasFaa) return;
+        const cleanFaa = String(s.officialFaaAd || "").trim();
+        const displayNum = cleanFaa
+          ? /^FAA/i.test(cleanFaa)
+            ? cleanFaa
+            : `FAA AD ${cleanFaa}`
+          : rawNum.includes(" / ")
+            ? rawNum
+                .split(" / ")
+                .filter((p) => /FAA|\d{4}-\d{2}-\d{2}/i.test(p))
+                .join(" / ") || rawNum
+            : rawNum;
+        results.push({ s, origIdx, displayNum, pdfSide: "main", sideTag: "faa" });
+      } else if (sideFilter === "easa") {
+        if (!hasEasa) return;
+        const cleanEasa = String(s.easaAdNumber || "").trim();
+        const sEasaCore = normalizeEasaCoreNum(cleanEasa || rawNum);
+        // Skip mirrored entries that only record an older FAA AD tied to the SAME active EASA AD
+        if (curEasaCore && sEasaCore && sEasaCore === curEasaCore) return;
+        const displayNum = cleanEasa
+          ? /^EASA/i.test(cleanEasa)
+            ? cleanEasa
+            : `EASA AD ${cleanEasa}`
+          : rawNum.includes(" / ")
+            ? rawNum
+                .split(" / ")
+                .filter((p) => !/FAA|\d{4}-\d{2}-\d{2}/i.test(p))
+                .join(" / ") || rawNum
+            : rawNum;
+        const easaPdfSide = s.easaUrl || s.easaAdNumber ? "easa" : "main";
+        results.push({ s, origIdx, displayNum, pdfSide: easaPdfSide, sideTag: "easa" });
+      } else {
+        results.push({ s, origIdx, displayNum: rawNum, pdfSide: "main", sideTag: "all" });
+      }
+    });
+
+    return results;
+  }
+
+  function renderSupQuickPdfsHtml(ad, sideFilter = "all") {
+    const items = getSupersededItemsForSide(ad, sideFilter);
+    if (items.length === 0) return "";
+    return `<div style="margin-top:6px;display:flex;flex-wrap:wrap;gap:4px;">
+      ${items
+        .map(({ s, origIdx, displayNum, pdfSide }) =>
+          renderPdfActionHtml(ad.id, s, {
+            supIdx: origIdx,
+            side: pdfSide,
+            viewLabel: `📎 PDF ${displayNum} ↗`,
+            uploadLabel: `📤 Upload ${displayNum}`,
+            style: "font-size:10.5px;padding:2px 6px;border-color:rgba(245,158,11,0.55);color:#fbbf24;",
+            title: `Mở PDF gốc của AD bị thay thế ${displayNum}`
+          })
+        )
+        .join("")}
+    </div>`;
+  }
+
+  // Render grouped Dropdown List for a Superseding AD and its Superseded ADs (each with its own PDF!)
+  function renderSupersededDropdownHtml(ad, forceOpen, sideFilter = "all", hideWhenEmpty = false) {
+    const items = getSupersededItemsForSide(ad, sideFilter);
+    if (items.length === 0) {
+      if (hideWhenEmpty) return "";
+      const emptyLabel =
+        sideFilter === "easa"
+          ? "AD EASA Độc lập (Không thay thế EASA AD cũ)"
+          : sideFilter === "faa"
+            ? "AD FAA Độc lập (Không thay thế FAA AD cũ)"
+            : "AD Độc lập (Không thay thế AD cũ)";
+      return `<div style="margin-top:5px;"><span class="badge badge-standard" style="opacity:0.75;">${emptyLabel}</span></div>`;
     }
 
     const isOpenAttr = forceOpen || expandAllSuperseded ? "open" : "";
+    const splitInfo = getSplitAdParts(ad);
+    const currentNum =
+      sideFilter === "easa" && splitInfo.isDual
+        ? splitInfo.easaLabel
+        : sideFilter === "faa" && splitInfo.isDual
+          ? splitInfo.faaLabel
+          : ad.adNumber;
+    const currentEff =
+      sideFilter === "easa" && splitInfo.isDual
+        ? ad.easaEffectiveDate || ad.effectiveDate
+        : ad.effectiveDate;
+    const chainTitle =
+      sideFilter === "faa"
+        ? `🔗 Chuỗi FAA AD Thay thế &amp; Bị thay thế (${items.length + 1} AD)`
+        : sideFilter === "easa"
+          ? `🔗 Chuỗi EASA AD Thay thế &amp; Bị thay thế (${items.length + 1} AD)`
+          : `🔗 Chuỗi AD Thay thế &amp; Bị thay thế (Dropdown gom ${items.length + 1} AD — Đủ PDF AD cũ)`;
 
     const selectOptions = [
-      `<option value="CURRENT">🟢 [HIỆN HÀNH - SUPERSEDING] ${escapeHtml(ad.adNumber)} (Eff: ${escapeHtml(
-        ad.effectiveDate
+      `<option value="CURRENT">🟢 [HIỆN HÀNH - SUPERSEDING] ${escapeHtml(currentNum)} (Eff: ${escapeHtml(
+        currentEff
       )})</option>`,
-      ...supList.map(
-        (s, idx) =>
-          `<option value="SUP_${idx}">🔴 [SUPERSEDED - BỊ THAY THẾ] ${escapeHtml(
-            s.adNumber
+      ...items.map(
+        ({ s, origIdx, displayNum }) =>
+          `<option value="SUP_${origIdx}">🔴 [SUPERSEDED - BỊ THAY THẾ] ${escapeHtml(
+            displayNum
           )} (Issued: ${escapeHtml(s.issuedDate || "Historical")} — Có PDF gốc)</option>`
       )
     ].join("");
 
-    const detailItems = supList
+    const detailItems = items
       .map(
-        (s, idx) => `
+        ({ s, origIdx, displayNum, pdfSide, sideTag }) => `
         <div class="superseded-item" style="border-left:3px solid #f59e0b;padding-left:8px;">
           <div class="superseded-item-head" style="flex-wrap:wrap;gap:6px;">
-            <div style="display:flex;align-items:flex-start;gap:6px;">
+            <div style="display:flex;align-items:flex-start;gap:6px;flex-wrap:wrap;">
               <span class="badge badge-superseded">⚠️ SUPERSEDED</span>
-              <span class="superseded-num" style="font-weight:700;color:#fde68a;">${renderAdNumberSplitHtml(
-                s,
-                true
-              )}</span>
+              <span class="superseded-num" style="font-weight:700;color:#fde68a;">${
+                sideTag === "all" ? renderAdNumberSplitHtml(s, true) : escapeHtml(displayNum)
+              }</span>
               ${
                 s.issuedDate && s.issuedDate !== "Historical"
                   ? `<span style="font-size:11px;color:var(--text-muted);margin-left:4px;">(Issued: ${escapeHtml(
@@ -818,16 +927,16 @@
             </div>
             <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
               ${renderPdfActionHtml(ad.id, s, {
-                supIdx: idx,
-                side: "main",
-                viewLabel: `📎 PDF ${s.officialFaaAd ? `FAA ${s.officialFaaAd}` : s.adNumber} ↗`,
-                uploadLabel: `📤 Upload PDF ${s.officialFaaAd ? `FAA ${s.officialFaaAd}` : s.adNumber}`,
+                supIdx: origIdx,
+                side: pdfSide,
+                viewLabel: `📎 PDF ${displayNum} ↗`,
+                uploadLabel: `📤 Upload PDF ${displayNum}`,
                 style: "padding:2px 8px;font-size:11px;border-color:rgba(245,158,11,0.65);color:#fbbf24;font-weight:600;"
               })}
               ${
-                s.easaAdNumber && s.officialFaaAd
+                sideTag === "all" && s.easaAdNumber && s.officialFaaAd
                   ? renderPdfActionHtml(ad.id, s, {
-                      supIdx: idx,
+                      supIdx: origIdx,
                       side: "easa",
                       viewLabel: `🇪🇺 PDF ${s.easaAdNumber} ↗`,
                       uploadLabel: `📤 Upload ${s.easaAdNumber}`,
@@ -855,7 +964,7 @@
       <div class="superseded-group-wrapper" onclick="event.stopPropagation();" style="margin-top:8px;">
         <div style="margin-bottom:5px;">
           <label style="font-size:10.5px;font-weight:700;color:#fbbf24;display:block;margin-bottom:3px;text-transform:uppercase;">
-            🔗 Chuỗi AD Thay thế &amp; Bị thay thế (Dropdown gom ${supList.length + 1} AD — Đủ PDF AD cũ):
+            ${chainTitle}:
           </label>
           <select class="form-control superseded-chain-select" data-parent-ad-id="${escapeHtml(
             ad.id
@@ -866,8 +975,8 @@
 
         <details class="superseded-dropdown" ${isOpenAttr}>
           <summary>
-            <span>📂 Xem ${supList.length} AD bị Superseded &amp; File PDF gốc (${supList
-      .map((x) => escapeHtml(x.adNumber))
+            <span>📂 Xem ${items.length} ${sideFilter === "faa" ? "FAA AD" : sideFilter === "easa" ? "EASA AD" : "AD"} bị Superseded (${items
+      .map((x) => escapeHtml(x.displayNum))
       .join(", ")})</span>
             <span>▾</span>
           </summary>
@@ -2066,23 +2175,7 @@
           ? `<span class="badge status-closed" style="font-size:12px;padding:4px 10px;">✅ APPLICABLE</span>`
           : `<span class="badge status-overdue" style="font-size:12px;padding:4px 10px;background:rgba(148,163,184,0.15);color:#cbd5e1;border-color:#475569;">🚫 NOT APPLICABLE</span>`;
 
-        const supQuickPdfs =
-          hasSup
-            ? `<div style="margin-top:6px;display:flex;flex-wrap:wrap;gap:4px;">
-                 ${supList
-                   .map((s, sIdx) =>
-                     renderPdfActionHtml(ad.id, s, {
-                       supIdx: sIdx,
-                       side: "main",
-                       viewLabel: `📎 PDF ${s.adNumber} ↗`,
-                       uploadLabel: `📤 Upload ${s.adNumber}`,
-                       style: "font-size:10.5px;padding:2px 6px;border-color:rgba(245,158,11,0.55);color:#fbbf24;",
-                       title: `Mở PDF gốc của AD bị thay thế ${s.adNumber}`
-                     })
-                   )
-                   .join("")}
-               </div>`
-            : "";
+        const supQuickPdfs = renderSupQuickPdfsHtml(ad, "all");
 
         const splitInfo = getSplitAdParts(ad);
 
@@ -2094,6 +2187,10 @@
           const easaSum = ad.easaSummary || ad.summary || "";
           const easaMod = ad.easaModels || ad.adExtractedModels || "";
           const firstSideLabel = easaFirst ? splitInfo.easaLabel : splitInfo.faaLabel;
+          const easaSupItems = getSupersededItemsForSide(ad, "easa");
+          const faaSupItems = getSupersededItemsForSide(ad, "faa");
+          const easaSupQuickPdfs = renderSupQuickPdfsHtml(ad, "easa");
+          const faaSupQuickPdfs = renderSupQuickPdfsHtml(ad, "faa");
           const easaSupWarn = ad.easaSupersededBy
             ? `<div style="margin-top:4px;"><span class="badge badge-superseded" style="font-size:10px;">⚠️ EASA Superseded by ${escapeHtml(
                 ad.easaSupersededBy
@@ -2102,7 +2199,7 @@
 
           const renderDualFaaRow = (isFirst) => `
           <tr class="dual-row-faa ${isFirst ? "dual-row-top" : "dual-row-bottom"}" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="faa" style="${isApp ? "" : "opacity:0.92;"}">
-            <td data-label="Số hiệu AD (FAA)" style="min-width:265px;">
+            <td data-label="Số hiệu AD (FAA)">
               <div class="mobile-ad-row-head">
                 <div style="flex:1;min-width:0;">
                   ${
@@ -2120,16 +2217,18 @@
                   ? `<div class="desktop-only-cell-extras">
                        <div style="margin-top:4px;display:flex;gap:4px;flex-wrap:wrap;">
                          <span class="badge badge-standard">${escapeHtml(ad.adClass)}</span>
-                         ${hasSup ? `<span class="badge badge-superseding">🔗 Supersedes ${supList.length} AD</span>` : ""}
+                         ${faaSupItems.length > 0 ? `<span class="badge badge-superseding">🔗 Supersedes ${faaSupItems.length} FAA AD</span>` : ""}
                        </div>
-                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch)}
+                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch, "faa", false)}
                      </div>`
                   : `<div class="desktop-only-cell-extras" style="font-size:11px;color:var(--text-muted);margin-top:4px;">
-                       ↳ Cùng nội dung với <strong>${escapeHtml(firstSideLabel)}</strong>
+                       <div>↳ Cùng nội dung với <strong>${escapeHtml(firstSideLabel)}</strong></div>
+                       ${faaSupItems.length > 0 ? `<div style="margin-top:4px;"><span class="badge badge-superseding">🔗 Supersedes ${faaSupItems.length} FAA AD</span></div>` : ""}
+                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch, "faa", true)}
                      </div>`
               }
             </td>
-            <td data-label="Cơ quan & PDF FAA" onclick="event.stopPropagation();" style="min-width:195px;">
+            <td data-label="Cơ quan & PDF FAA" onclick="event.stopPropagation();">
               <div><span class="badge badge-faa">🇺🇸 FAA</span></div>
               <div style="margin-top:7px;display:flex;flex-direction:column;gap:5px;">
                 ${renderPdfActionHtml(ad.id, ad, {
@@ -2138,10 +2237,10 @@
                   uploadLabel: "📤 Upload PDF FAA",
                   style: "font-size:11.5px;padding:4px 8px;border-color:rgba(59,130,246,0.5);color:#60a5fa;text-align:left;"
                 })}
-                ${isFirst ? supQuickPdfs : ""}
+                ${faaSupQuickPdfs}
               </div>
             </td>
-            <td data-label="Tàu bay, Động cơ & MSN" style="min-width:265px;">
+            <td data-label="Tàu bay, Động cơ & MSN">
               <div style="font-size:11.5px;color:var(--text-secondary);margin-bottom:3px;">
                 <strong style="color:#93c5fd;">Đọc từ FAA AD:</strong> ${escapeHtml(ad.adExtractedModels)}
               </div>
@@ -2175,7 +2274,7 @@
               </div>
             </td>
             <td data-label="Kết luận VJC">${appBadge}</td>
-            <td data-label="Nội dung FAA AD" style="min-width:420px;max-width:560px;">
+            <td data-label="Nội dung FAA AD">
               <div style="font-weight:700;color:#93c5fd;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(ad.subject)}
               </div>
@@ -2200,7 +2299,7 @@
 
           const renderDualEasaRow = (isFirst) => `
           <tr class="dual-row-easa ${isFirst ? "dual-row-top" : "dual-row-bottom"}" data-ad-id="${escapeHtml(ad.id)}" data-ad-side="easa" style="${isApp ? "" : "opacity:0.92;"}">
-            <td data-label="Số hiệu AD (EASA)" style="min-width:265px;">
+            <td data-label="Số hiệu AD (EASA)">
               <div class="mobile-ad-row-head">
                 <div style="flex:1;min-width:0;">
                   ${
@@ -2218,18 +2317,20 @@
                   ? `<div class="desktop-only-cell-extras">
                        <div style="margin-top:4px;display:flex;gap:4px;flex-wrap:wrap;">
                          <span class="badge badge-standard">${escapeHtml(ad.adClass)}</span>
-                         ${hasSup ? `<span class="badge badge-superseding">🔗 Supersedes ${supList.length} AD</span>` : ""}
+                         ${easaSupItems.length > 0 ? `<span class="badge badge-superseding">🔗 Supersedes ${easaSupItems.length} EASA AD</span>` : ""}
                        </div>
                        ${easaSupWarn}
-                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch)}
+                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch, "easa", false)}
                      </div>`
                   : `<div class="desktop-only-cell-extras" style="font-size:11px;color:var(--text-muted);margin-top:4px;">
-                       ↳ Cùng nội dung với <strong>${escapeHtml(firstSideLabel)}</strong>
+                       <div>↳ Cùng nội dung với <strong>${escapeHtml(firstSideLabel)}</strong></div>
                        ${easaSupWarn}
+                       ${easaSupItems.length > 0 ? `<div style="margin-top:4px;"><span class="badge badge-superseding">🔗 Supersedes ${easaSupItems.length} EASA AD</span></div>` : ""}
+                       ${renderSupersededDropdownHtml(ad, matchedSupInSearch, "easa", true)}
                      </div>`
               }
             </td>
-            <td data-label="Cơ quan & PDF EASA" onclick="event.stopPropagation();" style="min-width:195px;">
+            <td data-label="Cơ quan & PDF EASA" onclick="event.stopPropagation();">
               <div><span class="badge badge-easa">🇪🇺 EASA</span></div>
               <div style="margin-top:7px;display:flex;flex-direction:column;gap:5px;">
                 ${renderPdfActionHtml(ad.id, ad, {
@@ -2238,10 +2339,10 @@
                   uploadLabel: "📤 Upload PDF EASA",
                   style: "font-size:11.5px;padding:4px 8px;border-color:rgba(16,185,129,0.55);color:#34d399;text-align:left;"
                 })}
-                ${isFirst ? supQuickPdfs : ""}
+                ${easaSupQuickPdfs}
               </div>
             </td>
-            <td data-label="Tàu bay & Động cơ (EASA)" style="min-width:265px;">
+            <td data-label="Tàu bay & Động cơ (EASA)">
               <div style="font-size:11.5px;color:var(--text-secondary);margin-bottom:3px;">
                 <strong style="color:#34d399;">Đọc từ EASA AD:</strong> ${escapeHtml(easaMod)}
               </div>
@@ -2275,7 +2376,7 @@
               </div>
             </td>
             <td data-label="Kết luận VJC">${appBadge}</td>
-            <td data-label="Nội dung EASA AD" style="min-width:420px;max-width:560px;">
+            <td data-label="Nội dung EASA AD">
               <div style="font-weight:700;color:#34d399;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(easaSubj)}
               </div>
@@ -2297,7 +2398,7 @@
 
         return `
           <tr data-ad-id="${escapeHtml(ad.id)}" style="${isApp ? "border-left:3px solid #10b981;" : "opacity:0.92;"}">
-            <td data-label="Số hiệu AD" style="min-width:265px;">
+            <td data-label="Số hiệu AD">
               <div class="mobile-ad-row-head">
                 <div style="flex:1;min-width:0;">
                   <div class="ad-num-cell">${renderAdNumberSplitHtml(ad, false)}</div>
@@ -2329,7 +2430,7 @@
                 ${renderSupersededDropdownHtml(ad, matchedSupInSearch)}
               </div>
             </td>
-            <td data-label="Cơ quan & PDF" onclick="event.stopPropagation();" style="min-width:195px;">
+            <td data-label="Cơ quan & PDF" onclick="event.stopPropagation();">
               <div>${getAuthorityBadge(ad)}</div>
               <div style="margin-top:7px;display:flex;flex-direction:column;gap:5px;">
                 ${renderPdfActionHtml(ad.id, ad, {
@@ -2341,7 +2442,7 @@
                 ${supQuickPdfs}
               </div>
             </td>
-            <td data-label="Tàu bay, Động cơ & MSN" style="min-width:265px;">
+            <td data-label="Tàu bay, Động cơ & MSN">
               <div style="font-size:11.5px;color:var(--text-secondary);margin-bottom:3px;">
                 <strong style="color:#93c5fd;">Đọc từ AD:</strong> ${escapeHtml(ad.adExtractedModels)}
               </div>
@@ -2375,7 +2476,7 @@
               </div>
             </td>
             <td data-label="Kết luận VJC">${appBadge}</td>
-            <td data-label="Nội dung AD" style="min-width:420px;max-width:560px;">
+            <td data-label="Nội dung AD">
               <div style="font-weight:700;color:#93c5fd;margin-bottom:5px;font-size:12.5px;">
                 ${escapeHtml(ad.subject)}
               </div>
@@ -2493,6 +2594,7 @@
                 </div>
                 <div style="font-weight:700;color:#93c5fd;margin-bottom:6px;font-size:13px;">${escapeHtml(ad.subject)}</div>
                 ${renderReasonBoxHtml(ad.summary)}
+                ${renderSupersededDropdownHtml(ad, false, "faa", true)}
               </div>`;
             const easaBox = (lineNum) => `
               <!-- Dòng ${lineNum}: EASA AD -->
@@ -2515,6 +2617,7 @@
                 </div>
                 <div style="font-weight:700;color:#34d399;margin-bottom:6px;font-size:13px;">${escapeHtml(easaSubj)}</div>
                 ${renderReasonBoxHtml(easaSum)}
+                ${renderSupersededDropdownHtml(ad, false, "easa", true)}
               </div>`;
             return `
             <div class="dash-card" style="border-left:5px solid #10b981;">
@@ -2525,7 +2628,6 @@
                     ${getAuthorityBadge(ad)}
                     <span class="badge badge-superseding">🔗 Cặp AD Song Song (2 dòng ${easaFirst ? "EASA &amp; FAA" : "FAA &amp; EASA"})</span>
                   </div>
-                  ${supList.length > 0 ? renderSupersededDropdownHtml(ad, false) : ""}
                 </div>
               </div>
 
@@ -2882,6 +2984,10 @@
       modalSourceUrl && !modalSourceUrl.includes("ad.easa.europa.eu") ? modalSourceUrl : EASA_ARCHIVE_URL;
 
     // Build Switcher Bar between Current AD (FAA & EASA sides) and Superseded ADs
+    const modalSupItems = splitInfo.isDual
+      ? [...getSupersededItemsForSide(ad, "easa"), ...getSupersededItemsForSide(ad, "faa")]
+      : getSupersededItemsForSide(ad, "all");
+
     const switcherHtml =
       splitInfo.isDual || supList.length > 0
         ? `
@@ -2919,26 +3025,30 @@
                      🟢 [HIỆN HÀNH] ${escapeHtml(ad.adNumber)} (Eff: ${escapeHtml(ad.effectiveDate)})
                    </button>`
             }
-            ${supList
-              .map(
-                (s, idx) => `
+            ${modalSupItems
+              .map(({ s, origIdx, displayNum, pdfSide, sideTag }) => {
+                const sidePrefix = sideTag === "easa" ? "🇪🇺 " : sideTag === "faa" ? "🇺🇸 " : "";
+                const targetUrl = pdfSide === "easa" ? getSafeEasaUrl(s) || getSafePdfUrl(s) : getSafePdfUrl(s);
+                return `
               <button type="button" class="btn ${
-                activeSupIdx === idx ? "btn-primary" : "btn-outline"
-              } btn-sm modal-switch-doc-btn" data-sup-idx="${idx}" data-ad-side="faa" style="${
-                  activeSupIdx === idx
+                activeSupIdx === origIdx ? "btn-primary" : "btn-outline"
+              } btn-sm modal-switch-doc-btn" data-sup-idx="${origIdx}" data-ad-side="${
+                  sideTag === "easa" ? "easa" : "faa"
+                }" style="${
+                  activeSupIdx === origIdx
                     ? "background:#d97706;border-color:#f59e0b;"
                     : "border-color:rgba(245,158,11,0.55);color:#fde68a;"
                 }">
-                🔴 [SUPERSEDED] ${escapeHtml(s.adNumber)} (Issued: ${escapeHtml(
+                ${sidePrefix}🔴 [SUPERSEDED] ${escapeHtml(displayNum)} (Issued: ${escapeHtml(
                   s.issuedDate || "Historical"
                 )})
               </button>
               <a href="${escapeHtml(
-                getSafePdfUrl(s)
+                targetUrl
               )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(59,130,246,0.5);color:#60a5fa;">
-                📎 Mở PDF ${escapeHtml(s.adNumber)} ↗
-              </a>`
-              )
+                📎 Mở PDF ${escapeHtml(displayNum)} ↗
+              </a>`;
+              })
               .join("")}
           </div>
         </div>`
@@ -3836,6 +3946,18 @@ ${bodyRows}
   }
 
   document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".table-responsive").forEach((wrap) => {
+      wrap.addEventListener(
+        "wheel",
+        (e) => {
+          if (e.shiftKey && wrap.scrollWidth > wrap.clientWidth + 2 && e.deltaY !== 0) {
+            wrap.scrollLeft += e.deltaY;
+            e.preventDefault();
+          }
+        },
+        { passive: false }
+      );
+    });
     applyAdminUiState();
     initEvents();
     initPwaSupport();
