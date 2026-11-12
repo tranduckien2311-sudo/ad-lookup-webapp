@@ -179,15 +179,24 @@ $adsList = [System.Collections.ArrayList]@($db.ads)
 $byDocNum = @{}
 $byFaaNum = @{}
 $byEasaNum = @{}
+$byBaseEasa = @{}
+function Get-EasaRevRank([string]$n) {
+  if ($n -match 'R(\d+)') { return [int]$matches[1] }
+  return 0
+}
 foreach ($a in $adsList) {
   if ($a.docNumber) { $byDocNum[[string]$a.docNumber] = $a }
   if ($a.officialFaaAd) { $byFaaNum[[string]$a.officialFaaAd] = $a }
   if ($a.easaAdNumber) {
     $normE = ([string]$a.easaAdNumber -replace '^EASA\s+(?:PAD|EAD|AD)\s+', '' -replace '\s*\(.*$', '').Trim()
-    if ($normE) { $byEasaNum[$normE] = $a }
+    if ($normE) {
+      $byEasaNum[$normE] = $a
+      if ($normE -match '(\d{4}-\d{4})') { $byBaseEasa[$matches[1]] = $a }
+    }
   }
   if ($a.adNumber -match 'EASA\s+(?:PAD|EAD|AD)\s+([0-9A-Z\-]+)') {
     $byEasaNum[$matches[1]] = $a
+    if ($matches[1] -match '(\d{4}-\d{4})') { $byBaseEasa[$matches[1]] = $a }
   }
 }
 
@@ -416,10 +425,29 @@ if ($archiveHtml) {
         continue
       }
 
-      if ($byEasaNum.ContainsKey($num)) {
-        $ex = $byEasaNum[$num]
+      $baseE = if ($num -match '(\d{4}-\d{4})') { $matches[1] } else { "" }
+      $matchedExisting = if ($byEasaNum.ContainsKey($num)) { $byEasaNum[$num] } elseif ($baseE -and $num -notmatch '-CN' -and $byBaseEasa.ContainsKey($baseE)) { $byBaseEasa[$baseE] } else { $null }
+      if ($matchedExisting) {
+        $ex = $matchedExisting
         $ch = $false
-        if ($url -and ($ex.easaUrl -notlike "*AD-tmp-storage*" -or -not $ex.easaUrl)) {
+        $curRank = Get-EasaRevRank ([string]$ex.easaAdNumber)
+        $newRank = Get-EasaRevRank $num
+        if ($newRank -gt $curRank -and $num -notmatch '-CN') {
+          $pref = if ($cls -eq "PAD") { "EASA PAD" } elseif ($cls -eq "EAD") { "EASA EAD" } else { "EASA AD" }
+          $newEasaDisp = if ($num -match 'R\d+' -and $baseE) { "$pref $num ($baseE)" } else { "$pref $num" }
+          $ex | Add-Member -MemberType NoteProperty -Name "easaAdNumber" -Value $newEasaDisp -Force
+          if ($ex.adNumber -match '^(.+?)\s*/\s*(EASA.*)$') {
+            $ex.adNumber = "$($matches[1].Trim()) / $newEasaDisp"
+          } else {
+            $ex.adNumber = $newEasaDisp
+          }
+          if ($issIso) { $ex | Add-Member -MemberType NoteProperty -Name "easaIssuedDate" -Value $issIso -Force }
+          if ($effIso) { $ex | Add-Member -MemberType NoteProperty -Name "easaEffectiveDate" -Value $effIso -Force }
+          if ($subj -and $subj -notmatch '^SUPERSEDED BY') { $ex | Add-Member -MemberType NoteProperty -Name "easaSubject" -Value $subj -Force }
+          $byEasaNum[$num] = $ex
+          $ch = $true
+        }
+        if ($url -and ($ex.easaUrl -notlike "*AD-tmp-storage*" -or -not $ex.easaUrl -or $newRank -gt $curRank)) {
           $ex | Add-Member -MemberType NoteProperty -Name "easaUrl" -Value $url -Force
           if ($ex.authority -eq "EASA") { $ex.pdfUrl = $url }
           $ch = $true
