@@ -311,9 +311,6 @@
 
   function classifyAdBucket(ad) {
     if (!ad) return "AIRCRAFT";
-    if (String(ad.adAffectedPart || "").trim()) {
-      return "COMPONENT";
-    }
     const cat = String(ad.category || "").trim();
     const ata = String(ad.ata || "").trim();
     const subj = String(ad.subject || "").trim();
@@ -336,14 +333,19 @@
     if (
       !isHeliOrWingRotor &&
       (/^Engine$/i.test(cat) ||
-        /^(7[1-9]|80)\b/.test(ata) ||
+        /^(?:ATA\s*)?(7[1-9]|80)\b/i.test(ata) ||
         /\b(Powerplant|Engine Turbine)\b/i.test(ata) ||
         (!isAirframeHolder &&
-          /\b(CFM56|PW1100G|PW1133G|Trent\s*7|Trent\s*1000|LEAP-1|V2500|Rolls-Royce.*Engines|Pratt\s*&\s*Whitney.*Engines|CFM International|International Aero Engines|Engine Alliance|GE Aviation|General Electric Company Engines|Safran Aircraft Engines|Lycoming|Continental|Turbomeca)\b/i.test(
-            sm
-          )))
+          (/\b(CFM56|PW1\d{3}G|PW1100G|PW1133G|Trent\s*7\d*|Trent\s*1000|RB211|LEAP-1|V2500|Rolls-Royce.*Engines|Pratt\s*&\s*Whitney.*Engines|CFM International|International Aero Engines|Engine Alliance|GE Aviation|General Electric Company Engines|Safran Aircraft Engines|Lycoming|Continental|Turbomeca)\b/i.test(
+            `${sm} ${appTxt}`
+          ) ||
+            (/\bengines?\b/i.test(appTxt) && /\b(?:all\s+)?(?:serial numbers|s\/n|ESN)\b/i.test(appTxt)))))
     ) {
       return "ENGINE";
+    }
+
+    if (String(ad.adAffectedPart || "").trim()) {
+      return "COMPONENT";
     }
 
     const isComponentOem =
@@ -373,8 +375,12 @@
     const eng = String((ad && ad.adExtractedEngines) || "").trim();
     let classHtml = "";
     if (bucket === "ENGINE") {
+      const displayEng =
+        eng && eng !== "Theo cấu hình TCDS"
+          ? eng
+          : String((ad && ad.adExtractedModels) || "").trim() || "Theo model động cơ trong AD";
       classHtml = `<div style="font-size:11.5px;color:#c4b5fd;margin-bottom:3px;"><strong style="color:#c4b5fd;">🔥 Động cơ:</strong> ${escapeHtml(
-        eng && eng !== "Theo cấu hình TCDS" ? eng : "Theo model động cơ trong AD"
+        displayEng
       )}</div>`;
     } else if (bucket === "COMPONENT") {
       classHtml = `<div style="font-size:11.5px;color:#fcd34d;margin-bottom:3px;"><strong style="color:#fbbf24;">🧩 Phân loại:</strong> Component / Thiết bị (Appliance)</div>`;
