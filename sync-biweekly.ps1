@@ -22,16 +22,157 @@ if (Test-Path $PdfPigLibDir) {
 $Utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 $db = [System.IO.File]::ReadAllText($DbPath, [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 
-# Calculate FAA Biweekly Period (26 periods/year anchored roughly to Jan 1)
+# Biweekly Calendar Helpers (26 periods/year anchored Jan 1: YYYY-01 .. YYYY-26)
+function Get-BiweeklyPeriodInfo([datetime]$dt) {
+  $bwNum = [Math]::Min(26, [Math]::Max(1, [int][Math]::Ceiling($dt.DayOfYear / 14.0)))
+  $jan1 = [datetime]::new($dt.Year, 1, 1)
+  $pStart = $jan1.AddDays(($bwNum - 1) * 14)
+  $pEnd = if ($bwNum -lt 26) { $jan1.AddDays($bwNum * 14 - 1) } else { [datetime]::new($dt.Year, 12, 31) }
+  return [PSCustomObject]@{
+    Year      = $dt.Year
+    Period    = $bwNum
+    Code      = ("{0}-{1:D2}" -f $dt.Year, $bwNum)
+    StartDate = $pStart
+    EndDate   = $pEnd
+  }
+}
+
+function Parse-BiweeklyPeriodCode([string]$code) {
+  if ($code -match '^(\d{4})-(\d{2})$') {
+    $y = [int]$matches[1]
+    $p = [Math]::Min(26, [Math]::Max(1, [int]$matches[2]))
+    $jan1 = [datetime]::new($y, 1, 1)
+    $pStart = $jan1.AddDays(($p - 1) * 14)
+    $pEnd = if ($p -lt 26) { $jan1.AddDays($p * 14 - 1) } else { [datetime]::new($y, 12, 31) }
+    return [PSCustomObject]@{
+      Year      = $y
+      Period    = $p
+      Code      = ("{0}-{1:D2}" -f $y, $p)
+      StartDate = $pStart
+      EndDate   = $pEnd
+    }
+  }
+  return $null
+}
+
+function Get-NextBiweeklyCode([string]$code) {
+  $info = Parse-BiweeklyPeriodCode $code
+  if (-not $info) { return "" }
+  if ($info.Period -lt 26) {
+    return ("{0}-{1:D2}" -f $info.Year, ($info.Period + 1))
+  }
+  return ("{0}-01" -f ($info.Year + 1))
+}
+
+function Get-BiweeklySequence([string]$startCode, [string]$endCode) {
+  $seq = New-Object 'System.Collections.Generic.List[object]'
+  $cur = $startCode
+  $guard = 0
+  while ($cur -and $cur -le $endCode -and $guard -lt 52) {
+    $obj = Parse-BiweeklyPeriodCode $cur
+    if (-not $obj) { break }
+    $seq.Add($obj)
+    if ($cur -eq $endCode) { break }
+    $cur = Get-NextBiweeklyCode $cur
+    $guard++
+  }
+  return $seq
+}
+
+# Build Incremental Biweekly Plan starting from the last recorded scan cursor
 $now = Get-Date
-$dayOfYear = $now.DayOfYear
-$bwNum = [Math]::Min(26, [Math]::Max(1, [int][Math]::Ceiling($dayOfYear / 14.0)))
-$prevBw = if ($bwNum -gt 1) { $bwNum - 1 } else { 26 }
-$prevYear = if ($bwNum -gt 1) { $now.Year } else { $now.Year - 1 }
-$biweeklyLabel = ("Biweekly {0}-{1:D2} & {2}-{3:D2}" -f $prevYear, $prevBw, $now.Year, $bwNum)
-$windowEnd = $now.ToString("yyyy-MM-dd")
-$windowStartDt = $now.AddDays(-1 * $DaysBack)
-$windowStart = $windowStartDt.ToString("yyyy-MM-dd")
+$today = $now.Date
+$currentBw = Get-BiweeklyPeriodInfo $today
+$windowEnd = $today.ToString("yyyy-MM-dd")
+
+$prevReport = $db.lastBiweeklyReport
+$lastRecordedBwCode = ""
+$lastScannedDate = $null
+if ($prevReport) {
+  if ($prevReport.lastCompletedBiweekly -and [string]$prevReport.lastCompletedBiweekly -match '^\d{4}-\d{2}$') {
+    $lastRecordedBwCode = [string]$prevReport.lastCompletedBiweekly
+  } elseif ($prevReport.biweeklyLabel) {
+    $bwMatches = [regex]::Matches([string]$prevReport.biweeklyLabel, '\b(20\d{2}-\d{2})\b')
+    if ($bwMatches.Count -gt 0) {
+      $lastRecordedBwCode = $bwMatches[$bwMatches.Count - 1].Groups[1].Value
+    }
+  }
+  $rawLastDate = if ($prevReport.lastScannedDate) { [string]$prevReport.lastScannedDate } else { [string]$prevReport.windowEnd }
+  if ($rawLastDate -match '^(\d{4}-\d{2}-\d{2})$') {
+    try {
+      $lastScannedDate = [datetime]::ParseExact($matches[1], "yyyy-MM-dd", [System.Globalization.CultureInfo]::InvariantCulture)
+      if (-not $lastRecordedBwCode) {
+        $lastRecordedBwCode = (Get-BiweeklyPeriodInfo $lastScannedDate).Code
+      }
+    } catch {}
+  }
+}
+
+$periodsToScan = New-Object 'System.Collections.Generic.List[object]'
+if ($lastRecordedBwCode -and $lastRecordedBwCode -le $currentBw.Code) {
+  $lastBwInfo = Parse-BiweeklyPeriodCode $lastRecordedBwCode
+  if ($lastRecordedBwCode -eq $currentBw.Code) {
+    $scanFrom = if ($lastScannedDate) { $lastScannedDate.AddDays(-3) } else { $currentBw.StartDate }
+    if ($scanFrom -lt $currentBw.StartDate.AddDays(-3)) { $scanFrom = $currentBw.StartDate }
+    if ($scanFrom -gt $today) { $scanFrom = $today }
+    $periodsToScan.Add([PSCustomObject]@{
+      Code      = $currentBw.Code
+      ScanStart = $scanFrom.ToString("yyyy-MM-dd")
+      ScanEnd   = $windowEnd
+    })
+  } else {
+    # Re-scan any remaining/overlap tail of the last recorded biweekly first so mid-period gaps aren't missed
+    if ($lastBwInfo) {
+      $tailStart = if ($lastScannedDate) { $lastScannedDate.AddDays(-3) } else { $lastBwInfo.StartDate }
+      if ($tailStart -lt $lastBwInfo.StartDate) { $tailStart = $lastBwInfo.StartDate }
+      if ($tailStart -le $lastBwInfo.EndDate) {
+        $periodsToScan.Add([PSCustomObject]@{
+          Code      = $lastBwInfo.Code
+          ScanStart = $tailStart.ToString("yyyy-MM-dd")
+          ScanEnd   = $lastBwInfo.EndDate.ToString("yyyy-MM-dd")
+        })
+      }
+    }
+    $nextCode = Get-NextBiweeklyCode $lastRecordedBwCode
+    foreach ($p in (Get-BiweeklySequence $nextCode $currentBw.Code)) {
+      $pEnd = if ($p.EndDate -gt $today) { $today } else { $p.EndDate }
+      $periodsToScan.Add([PSCustomObject]@{
+        Code      = $p.Code
+        ScanStart = $p.StartDate.ToString("yyyy-MM-dd")
+        ScanEnd   = $pEnd.ToString("yyyy-MM-dd")
+      })
+    }
+  }
+} else {
+  $fallbackStartDt = $today.AddDays(-1 * $DaysBack)
+  $startBwInfo = Get-BiweeklyPeriodInfo $fallbackStartDt
+  foreach ($p in (Get-BiweeklySequence $startBwInfo.Code $currentBw.Code)) {
+    $pStart = if ($p.Code -eq $startBwInfo.Code -and $fallbackStartDt -gt $p.StartDate) { $fallbackStartDt } else { $p.StartDate }
+    $pEnd = if ($p.EndDate -gt $today) { $today } else { $p.EndDate }
+    $periodsToScan.Add([PSCustomObject]@{
+      Code      = $p.Code
+      ScanStart = $pStart.ToString("yyyy-MM-dd")
+      ScanEnd   = $pEnd.ToString("yyyy-MM-dd")
+    })
+  }
+}
+
+$windowStart = $periodsToScan[0].ScanStart
+$firstCode = $periodsToScan[0].Code
+$lastCode = $periodsToScan[$periodsToScan.Count - 1].Code
+$biweeklyLabel = if ($firstCode -eq $lastCode) {
+  "Biweekly $lastCode"
+} else {
+  "Biweekly $firstCode → $lastCode ($($periodsToScan.Count) kỳ)"
+}
+
+$perBwStats = @{}
+foreach ($p in $periodsToScan) {
+  $perBwStats[$p.Code] = @{
+    faaScanned = 0; faaAdded = 0; faaUpdated = 0
+    easaScanned = 0; easaAdded = 0; easaUpdated = 0
+  }
+}
 
 # Build quick lookups of existing ADs & VJC fleet types
 $adsList = [System.Collections.ArrayList]@($db.ads)
@@ -90,113 +231,125 @@ $faaScanned = 0; $faaAdded = 0; $faaUpdated = 0
 $easaScanned = 0; $easaAdded = 0; $easaUpdated = 0
 
 # ------------------------------------------------------------------------------
-# 1. Scan FAA Federal Register Biweekly Window
+# 1. Scan FAA Federal Register Sequentially Across Each Missed Biweekly Window
 # ------------------------------------------------------------------------------
 try {
-  $frUrl = "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions[agencies][]=federal-aviation-administration&conditions[type][]=RULE&conditions[term]=%22Airworthiness%20Directives%22&conditions[publication_date][gte]=$windowStart&fields[]=document_number&fields[]=title&fields[]=publication_date&fields[]=effective_on&fields[]=pdf_url&fields[]=html_url&fields[]=abstract&fields[]=docket_ids"
-  $frResp = Invoke-RestMethod -Uri $frUrl -TimeoutSec 25
-  if ($frResp -and $frResp.results) {
-    $faaScanned = $frResp.results.Count
-    foreach ($doc in $frResp.results) {
-      if ($doc.title -notmatch "Airworthiness Directives") { continue }
-      $docNum = [string]$doc.document_number
-      $pubDate = [string]$doc.publication_date
-      $effDate = if ($doc.effective_on) { [string]$doc.effective_on } else { $pubDate }
-      $abs = [string]$doc.abstract
+  foreach ($bwPeriod in $periodsToScan) {
+    $bwCode = $bwPeriod.Code
+    $nextUrl = "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions[agencies][]=federal-aviation-administration&conditions[type][]=RULE&conditions[term]=%22Airworthiness%20Directives%22&conditions[publication_date][gte]=$($bwPeriod.ScanStart)&conditions[publication_date][lte]=$($bwPeriod.ScanEnd)&fields[]=document_number&fields[]=title&fields[]=publication_date&fields[]=effective_on&fields[]=pdf_url&fields[]=html_url&fields[]=abstract&fields[]=docket_ids"
+    $pageGuard = 0
+    while ($nextUrl -and $pageGuard -lt 5) {
+      $pageGuard++
+      $frResp = Invoke-RestMethod -Uri $nextUrl -TimeoutSec 25
+      if (-not $frResp -or -not $frResp.results) { break }
+      $faaScanned += $frResp.results.Count
+      $perBwStats[$bwCode].faaScanned += $frResp.results.Count
+      foreach ($doc in $frResp.results) {
+        if ($doc.title -notmatch "Airworthiness Directives") { continue }
+        $docNum = [string]$doc.document_number
+        $pubDate = [string]$doc.publication_date
+        $effDate = if ($doc.effective_on) { [string]$doc.effective_on } else { $pubDate }
+        $abs = [string]$doc.abstract
 
-      $faaNum = ""
-      if ($doc.docket_ids) {
-        foreach ($dk in $doc.docket_ids) {
-          if ([string]$dk -match 'AD\s+([0-9]{4}-[0-9]{2}-[0-9]{2}[A-Z0-9\-]*)') { $faaNum = $matches[1]; break }
+        $faaNum = ""
+        if ($doc.docket_ids) {
+          foreach ($dk in $doc.docket_ids) {
+            if ([string]$dk -match 'AD\s+([0-9]{4}-[0-9]{2}-[0-9]{2}[A-Z0-9\-]*)') { $faaNum = $matches[1]; break }
+          }
         }
-      }
-      $easaNum = ""
-      if ($abs -match 'EASA\s+(?:Emergency\s+)?AD\s+([0-9]{4}-[0-9]{4}[A-Z0-9\-]*)') {
-        $easaNum = $matches[1]
-      }
-
-      $existing = $null
-      if ($byDocNum.ContainsKey($docNum)) { $existing = $byDocNum[$docNum] }
-      elseif ($faaNum -and $byFaaNum.ContainsKey($faaNum)) { $existing = $byFaaNum[$faaNum] }
-
-      if ($existing) {
-        $changed = $false
-        if ($abs -and ([string]$existing.summary -match '^\[(FAA|AMOS)' -or [string]::IsNullOrWhiteSpace($existing.summary))) {
-          $existing.summary = $abs
-          $changed = $true
+        $easaNum = ""
+        if ($abs -match 'EASA\s+(?:Emergency\s+)?AD\s+([0-9]{4}-[0-9]{4}[A-Z0-9\-]*)') {
+          $easaNum = $matches[1]
         }
-        if (-not $existing.pdfUrl -and $doc.pdf_url) { $existing.pdfUrl = $doc.pdf_url; $changed = $true }
-        if ($changed) { $faaUpdated++ }
-        continue
-      }
 
-      $mTypes = Evaluate-FleetMatch "$($doc.title) $abs"
-      $affFleet = @($db.fleet | Where-Object { $mTypes -contains $_.type } | ForEach-Object {
-        [PSCustomObject]@{ reg = $_.reg; msn = $_.msn; type = $_.type; engine = $_.engine }
-      })
-      $isApp = $affFleet.Count -gt 0
-      $dispNum = if ($faaNum -and $easaNum) { "FAA AD $faaNum / EASA AD $easaNum" } elseif ($faaNum) { "FAA AD $faaNum" } else { "FAA FR-$docNum" }
+        $existing = $null
+        if ($byDocNum.ContainsKey($docNum)) { $existing = $byDocNum[$docNum] }
+        elseif ($faaNum -and $byFaaNum.ContainsKey($faaNum)) { $existing = $byFaaNum[$faaNum] }
 
-      $parsedSupAds = New-Object 'System.Collections.Generic.List[object]'
-      $seenSup = @{}
-      $msSup = [regex]::Matches($abs, '(?i)(?:supersed\w*|rescind\w*)\s+(?:Airworthiness\s+Directive\s*(?:\(AD\)\s*)?|AD\s+)+([0-9]{4}-[0-9]{2}-[0-9]{2}[A-Z0-9\-]*)')
-      foreach ($mSup in $msSup) {
-        $oldF = $mSup.Groups[1].Value.Trim()
-        if ($oldF -and $oldF -ne $faaNum -and -not $seenSup.ContainsKey($oldF)) {
-          $seenSup[$oldF] = $true
-          $parsedSupAds.Add([PSCustomObject]@{
-            adNumber = "FAA AD $oldF"
-            officialFaaAd = $oldF
-            authority = "FAA"
-            issuedDate = "Historical"
-            effectiveDate = "Superseded"
-            subject = "Superseded by FAA AD $faaNum"
-            summary = "Superseded by $dispNum ($pubDate)"
-            supersededBy = $dispNum
-            applicabilityStatus = "Superseded"
-            complianceStatus = "Superseded"
-          })
+        if ($existing) {
+          $changed = $false
+          if ($abs -and ([string]$existing.summary -match '^\[(FAA|AMOS)' -or [string]$existing.summary -eq "" -or [string]::IsNullOrWhiteSpace($existing.summary))) {
+            $existing.summary = $abs
+            $changed = $true
+          }
+          if (-not $existing.pdfUrl -and $doc.pdf_url) { $existing.pdfUrl = $doc.pdf_url; $changed = $true }
+          if ($changed) {
+            $faaUpdated++
+            $perBwStats[$bwCode].faaUpdated++
+          }
+          continue
         }
-      }
 
-      $newFaa = [PSCustomObject]@{
-        id = "AUTO-$docNum"
-        docNumber = $docNum
-        adNumber = $dispNum
-        officialFaaAd = $faaNum
-        easaAdNumber = if ($easaNum) { "EASA AD $easaNum" } else { "" }
-        authority = if ($easaNum) { "EASA" } else { "FAA" }
-        authorityDual = if ($easaNum) { "EASA / FAA" } else { "FAA" }
-        adClass = "Final Rule AD"
-        issuedDate = $pubDate
-        issueDate = $pubDate
-        effectiveDate = $effDate
-        ata = if ("$($doc.title) $abs" -match 'Engine|turbine|HPT|LPT|rotor') { "72 - Engine Turbine / Compressor / Rotor" } else { "05 - Airworthiness Limitations (ALS)" }
-        category = if ($doc.title -match 'Engine') { "Engine" } else { "Aircraft" }
-        subject = $doc.title
-        summary = if ($abs) { $abs } else { $doc.title }
-        targetModel = $doc.title
-        adExtractedModels = $doc.title
-        adExtractedEngines = ""
-        adMsnScope = "Theo mục (c) Applicability trong văn bản gốc AD"
-        vjcMatchedSummary = if ($isApp) { "Khớp $($affFleet.Count) tàu VJC" } else { "Không khớp biến thể tàu bay / động cơ của VJC" }
-        matchedTypes = $mTypes
-        applicabilityStatus = if ($isApp) { "Applicable" } else { "Not Applicable" }
-        affectedCount = $affFleet.Count
-        affectedFleet = $affFleet
-        pdfUrl = if ($doc.pdf_url) { $doc.pdf_url } else { "https://www.govinfo.gov/content/pkg/FR-$pubDate/pdf/$docNum.pdf" }
-        fullTextHtmlUrl = "https://www.govinfo.gov/content/pkg/FR-$pubDate/html/$docNum.htm"
-        sourceUrl = $doc.html_url
-        isSuperseded = $false
-        supersededAds = $parsedSupAds.ToArray()
-        hasSupersededAds = ($parsedSupAds.Count -gt 0)
-        supersededCount = $parsedSupAds.Count
+        $mTypes = Evaluate-FleetMatch "$($doc.title) $abs"
+        $affFleet = @($db.fleet | Where-Object { $mTypes -contains $_.type } | ForEach-Object {
+          [PSCustomObject]@{ reg = $_.reg; msn = $_.msn; type = $_.type; engine = $_.engine }
+        })
+        $isApp = $affFleet.Count -gt 0
+        $dispNum = if ($faaNum -and $easaNum) { "FAA AD $faaNum / EASA AD $easaNum" } elseif ($faaNum) { "FAA AD $faaNum" } else { "FAA FR-$docNum" }
+
+        $parsedSupAds = New-Object 'System.Collections.Generic.List[object]'
+        $seenSup = @{}
+        $msSup = [regex]::Matches($abs, '(?i)(?:supersed\w*|rescind\w*)\s+(?:Airworthiness\s+Directive\s*(?:\(AD\)\s*)?|AD\s+)+([0-9]{4}-[0-9]{2}-[0-9]{2}[A-Z0-9\-]*)')
+        foreach ($mSup in $msSup) {
+          $oldF = $mSup.Groups[1].Value.Trim()
+          if ($oldF -and $oldF -ne $faaNum -and -not $seenSup.ContainsKey($oldF)) {
+            $seenSup[$oldF] = $true
+            $parsedSupAds.Add([PSCustomObject]@{
+              adNumber = "FAA AD $oldF"
+              officialFaaAd = $oldF
+              authority = "FAA"
+              issuedDate = "Historical"
+              effectiveDate = "Superseded"
+              subject = "Superseded by FAA AD $faaNum"
+              summary = "Superseded by $dispNum ($pubDate)"
+              supersededBy = $dispNum
+              applicabilityStatus = "Superseded"
+              complianceStatus = "Superseded"
+            })
+          }
+        }
+
+        $newFaa = [PSCustomObject]@{
+          id = "AUTO-$docNum"
+          docNumber = $docNum
+          adNumber = $dispNum
+          officialFaaAd = $faaNum
+          easaAdNumber = if ($easaNum) { "EASA AD $easaNum" } else { "" }
+          authority = if ($easaNum) { "EASA" } else { "FAA" }
+          authorityDual = if ($easaNum) { "EASA / FAA" } else { "FAA" }
+          adClass = "Final Rule AD"
+          issuedDate = $pubDate
+          issueDate = $pubDate
+          effectiveDate = $effDate
+          ata = if ("$($doc.title) $abs" -match 'Engine|turbine|HPT|LPT|rotor') { "72 - Engine Turbine / Compressor / Rotor" } else { "05 - Airworthiness Limitations (ALS)" }
+          category = if ($doc.title -match 'Engine') { "Engine" } else { "Aircraft" }
+          subject = $doc.title
+          summary = if ($abs) { $abs } else { $doc.title }
+          targetModel = $doc.title
+          adExtractedModels = $doc.title
+          adExtractedEngines = ""
+          adMsnScope = "Theo mục (c) Applicability trong văn bản gốc AD"
+          vjcMatchedSummary = if ($isApp) { "Khớp $($affFleet.Count) tàu VJC" } else { "Không khớp biến thể tàu bay / động cơ của VJC" }
+          matchedTypes = $mTypes
+          applicabilityStatus = if ($isApp) { "Applicable" } else { "Not Applicable" }
+          affectedCount = $affFleet.Count
+          affectedFleet = $affFleet
+          pdfUrl = if ($doc.pdf_url) { $doc.pdf_url } else { "https://www.govinfo.gov/content/pkg/FR-$pubDate/pdf/$docNum.pdf" }
+          fullTextHtmlUrl = "https://www.govinfo.gov/content/pkg/FR-$pubDate/html/$docNum.htm"
+          sourceUrl = $doc.html_url
+          isSuperseded = $false
+          supersededAds = $parsedSupAds.ToArray()
+          hasSupersededAds = ($parsedSupAds.Count -gt 0)
+          supersededCount = $parsedSupAds.Count
+        }
+        [void]$adsList.Insert(0, $newFaa)
+        $byDocNum[$docNum] = $newFaa
+        if ($faaNum) { $byFaaNum[$faaNum] = $newFaa }
+        if ($easaNum) { $byEasaNum[$easaNum] = $newFaa }
+        $faaAdded++
+        $perBwStats[$bwCode].faaAdded++
       }
-      [void]$adsList.Insert(0, $newFaa)
-      $byDocNum[$docNum] = $newFaa
-      if ($faaNum) { $byFaaNum[$faaNum] = $newFaa }
-      if ($easaNum) { $byEasaNum[$easaNum] = $newFaa }
-      $faaAdded++
+      $nextUrl = if ($frResp.PSObject.Properties.Name -contains 'next_page_url' -and $frResp.next_page_url) { [string]$frResp.next_page_url } else { "" }
     }
   }
 } catch {
@@ -240,6 +393,15 @@ if ($archiveHtml) {
       if ($issIso -lt $windowStart -and $effIso -lt $windowStart) { continue }
 
       $easaScanned++
+      $easaBwCode = ""
+      try {
+        $easaDateRef = if ($issIso -ge $windowStart) { $issIso } elseif ($effIso -match '^\d{4}-\d{2}-\d{2}$') { $effIso } else { $issIso }
+        $eDt = [datetime]::ParseExact($easaDateRef, "yyyy-MM-dd", [System.Globalization.CultureInfo]::InvariantCulture)
+        $candCode = (Get-BiweeklyPeriodInfo $eDt).Code
+        if ($perBwStats.ContainsKey($candCode)) { $easaBwCode = $candCode }
+      } catch {}
+      if ($easaBwCode) { $perBwStats[$easaBwCode].easaScanned++ }
+
       $url = if ($r[2] -match 'href="([^"]+)"') { "https://www.easa.europa.eu" + $matches[1] } else { "" }
       $subj = (([string]$r[4]) -replace '\s+', ' ').Trim()
       $models = (([string]$r[5]) -replace '\s+', ' ').Trim()
@@ -249,6 +411,7 @@ if ($archiveHtml) {
         if ($url -and -not $exFaa.easaUrl) {
           $exFaa | Add-Member -MemberType NoteProperty -Name "easaUrl" -Value $url -Force
           $easaUpdated++
+          if ($easaBwCode) { $perBwStats[$easaBwCode].easaUpdated++ }
         }
         continue
       }
@@ -263,7 +426,10 @@ if ($archiveHtml) {
         }
         if ($issIso -and -not $ex.easaIssuedDate) { $ex | Add-Member -MemberType NoteProperty -Name "easaIssuedDate" -Value $issIso -Force; $ch = $true }
         if ($effIso -and -not $ex.easaEffectiveDate) { $ex | Add-Member -MemberType NoteProperty -Name "easaEffectiveDate" -Value $effIso -Force; $ch = $true }
-        if ($ch) { $easaUpdated++ }
+        if ($ch) {
+          $easaUpdated++
+          if ($easaBwCode) { $perBwStats[$easaBwCode].easaUpdated++ }
+        }
         continue
       }
 
@@ -352,22 +518,44 @@ if ($archiveHtml) {
       [void]$adsList.Insert(0, $newEasa)
       $byEasaNum[$num] = $newEasa
       $easaAdded++
+      if ($easaBwCode) { $perBwStats[$easaBwCode].easaAdded++ }
     }
   }
 }
 
 $scannedAtStr = (Get-Date).ToString("dd/MM/yyyy HH:mm:ss")
+$perBwList = @(
+  foreach ($p in $periodsToScan) {
+    $st = $perBwStats[$p.Code]
+    [PSCustomObject]@{
+      biweekly    = $p.Code
+      windowStart = $p.ScanStart
+      windowEnd   = $p.ScanEnd
+      faaScanned  = $st.faaScanned
+      faaAdded    = $st.faaAdded
+      faaUpdated  = $st.faaUpdated
+      easaScanned = $st.easaScanned
+      easaAdded   = $st.easaAdded
+      easaUpdated = $st.easaUpdated
+    }
+  }
+)
 $report = [PSCustomObject]@{
-  biweeklyLabel = $biweeklyLabel
-  windowStart   = $windowStart
-  windowEnd     = $windowEnd
-  scannedAt     = $scannedAtStr
-  faaScanned    = $faaScanned
-  faaAdded      = $faaAdded
-  faaUpdated    = $faaUpdated
-  easaScanned   = $easaScanned
-  easaAdded     = $easaAdded
-  easaUpdated   = $easaUpdated
+  biweeklyLabel         = $biweeklyLabel
+  previousBiweekly      = $lastRecordedBwCode
+  lastCompletedBiweekly = $currentBw.Code
+  lastScannedDate       = $windowEnd
+  biweeklySequence      = @($periodsToScan | ForEach-Object { $_.Code })
+  perBiweeklyStats      = $perBwList
+  windowStart           = $windowStart
+  windowEnd             = $windowEnd
+  scannedAt             = $scannedAtStr
+  faaScanned            = $faaScanned
+  faaAdded              = $faaAdded
+  faaUpdated            = $faaUpdated
+  easaScanned           = $easaScanned
+  easaAdded             = $easaAdded
+  easaUpdated           = $easaUpdated
 }
 
 $db.ads = @($adsList)

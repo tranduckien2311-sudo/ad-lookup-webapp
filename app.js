@@ -1251,11 +1251,22 @@
 
     if (lastBiweeklyReport && lastBiweeklyReport.biweeklyLabel) {
       const r = lastBiweeklyReport;
+      const cursorMatch = String(r.biweeklyLabel || "").match(/\b(20\d{2}-\d{2})\b/g);
+      const cursorCode =
+        r.lastCompletedBiweekly ||
+        (cursorMatch && cursorMatch.length > 0 ? cursorMatch[cursorMatch.length - 1] : "") ||
+        (r.windowEnd ? getBiweeklyPeriodInfo(new Date(`${r.windowEnd}T00:00:00`)).code : "");
+      const seqNote =
+        Array.isArray(r.biweeklySequence) && r.biweeklySequence.length > 1
+          ? ` (Nối tiếp ${r.biweeklySequence[0]} → ${r.biweeklySequence[r.biweeklySequence.length - 1]})`
+          : "";
       if (bannerTitle) {
         bannerTitle.textContent = `📅 Đã quét ${r.biweeklyLabel} (${r.windowStart} → ${r.windowEnd}): Cập nhật +${r.faaAdded || 0} FAA AD mới (${r.faaUpdated || 0} chỉnh sửa) & +${r.easaAdded || 0} EASA AD mới (${r.easaUpdated || 0} chỉnh sửa)`;
       }
       if (bannerDesc) {
-        bannerDesc.innerHTML = `Lần quét gần nhất: <strong>${escapeHtml(
+        bannerDesc.innerHTML = `${
+          cursorCode ? `Mốc Biweekly cuối: <strong>${escapeHtml(cursorCode)}</strong>${escapeHtml(seqNote)} • ` : ""
+        }Lần quét gần nhất: <strong>${escapeHtml(
           r.scannedAt || lastSyncedAt
         )}</strong> (FAA quét ${r.faaScanned || 0} • EASA quét ${r.easaScanned || 0})${escapeHtml(
           modeNote
@@ -1781,25 +1792,185 @@
     }
   }
 
+  function formatLocalIsoDate(dt) {
+    const y = dt.getFullYear();
+    const m = String(dt.getMonth() + 1).padStart(2, "0");
+    const d = String(dt.getDate()).padStart(2, "0");
+    return `${y}-${m}-${d}`;
+  }
+
+  function getBiweeklyPeriodInfo(dt) {
+    const local = new Date(dt.getFullYear(), dt.getMonth(), dt.getDate());
+    const startOfYear = new Date(local.getFullYear(), 0, 1);
+    const dayOfYear = Math.floor((local - startOfYear) / 86400000) + 1;
+    const period = Math.min(26, Math.max(1, Math.ceil(dayOfYear / 14)));
+    const startDate = new Date(local.getFullYear(), 0, 1 + (period - 1) * 14);
+    const endDate =
+      period < 26
+        ? new Date(local.getFullYear(), 0, 1 + period * 14 - 1)
+        : new Date(local.getFullYear(), 11, 31);
+    return {
+      year: local.getFullYear(),
+      period,
+      code: `${local.getFullYear()}-${String(period).padStart(2, "0")}`,
+      startDate,
+      endDate
+    };
+  }
+
+  function parseBiweeklyPeriodCode(code) {
+    const m = String(code || "").match(/^(\d{4})-(\d{2})$/);
+    if (!m) return null;
+    const year = Number(m[1]);
+    const period = Math.min(26, Math.max(1, Number(m[2])));
+    const startDate = new Date(year, 0, 1 + (period - 1) * 14);
+    const endDate =
+      period < 26 ? new Date(year, 0, 1 + period * 14 - 1) : new Date(year, 11, 31);
+    return {
+      year,
+      period,
+      code: `${year}-${String(period).padStart(2, "0")}`,
+      startDate,
+      endDate
+    };
+  }
+
+  function getNextBiweeklyCode(code) {
+    const info = parseBiweeklyPeriodCode(code);
+    if (!info) return "";
+    if (info.period < 26) {
+      return `${info.year}-${String(info.period + 1).padStart(2, "0")}`;
+    }
+    return `${info.year + 1}-01`;
+  }
+
+  function getBiweeklySequence(startCode, endCode) {
+    const seq = [];
+    let cur = startCode;
+    let guard = 0;
+    while (cur && cur <= endCode && guard < 52) {
+      const obj = parseBiweeklyPeriodCode(cur);
+      if (!obj) break;
+      seq.push(obj);
+      if (cur === endCode) break;
+      cur = getNextBiweeklyCode(cur);
+      guard++;
+    }
+    return seq;
+  }
+
+  function buildIncrementalBiweeklyPlan(prevReport, now = new Date()) {
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const currentBw = getBiweeklyPeriodInfo(today);
+    const windowEnd = formatLocalIsoDate(today);
+
+    let lastRecordedBwCode = "";
+    let lastScannedDate = null;
+    if (prevReport) {
+      if (prevReport.lastCompletedBiweekly && /^\d{4}-\d{2}$/.test(prevReport.lastCompletedBiweekly)) {
+        lastRecordedBwCode = String(prevReport.lastCompletedBiweekly);
+      } else if (prevReport.biweeklyLabel) {
+        const bwMatches = String(prevReport.biweeklyLabel).match(/\b(20\d{2}-\d{2})\b/g);
+        if (bwMatches && bwMatches.length > 0) {
+          lastRecordedBwCode = bwMatches[bwMatches.length - 1];
+        }
+      }
+      const rawLastDate = String(prevReport.lastScannedDate || prevReport.windowEnd || "").trim();
+      if (/^\d{4}-\d{2}-\d{2}$/.test(rawLastDate)) {
+        lastScannedDate = new Date(`${rawLastDate}T00:00:00`);
+        if (!lastRecordedBwCode && !Number.isNaN(lastScannedDate.getTime())) {
+          lastRecordedBwCode = getBiweeklyPeriodInfo(lastScannedDate).code;
+        }
+      }
+    }
+
+    const periods = [];
+    if (lastRecordedBwCode && lastRecordedBwCode <= currentBw.code) {
+      const lastBwInfo = parseBiweeklyPeriodCode(lastRecordedBwCode);
+      if (lastRecordedBwCode === currentBw.code) {
+        let scanFrom = lastScannedDate
+          ? new Date(lastScannedDate.getTime() - 3 * 86400000)
+          : new Date(currentBw.startDate.getTime());
+        const minCur = new Date(currentBw.startDate.getTime() - 3 * 86400000);
+        if (scanFrom < minCur) scanFrom = new Date(currentBw.startDate.getTime());
+        if (scanFrom > today) scanFrom = today;
+        periods.push({
+          code: currentBw.code,
+          scanStart: formatLocalIsoDate(scanFrom),
+          scanEnd: windowEnd
+        });
+      } else {
+        if (lastBwInfo) {
+          let tailStart = lastScannedDate
+            ? new Date(lastScannedDate.getTime() - 3 * 86400000)
+            : new Date(lastBwInfo.startDate.getTime());
+          if (tailStart < lastBwInfo.startDate) tailStart = new Date(lastBwInfo.startDate.getTime());
+          if (tailStart <= lastBwInfo.endDate) {
+            periods.push({
+              code: lastBwInfo.code,
+              scanStart: formatLocalIsoDate(tailStart),
+              scanEnd: formatLocalIsoDate(lastBwInfo.endDate)
+            });
+          }
+        }
+        const nextCode = getNextBiweeklyCode(lastRecordedBwCode);
+        getBiweeklySequence(nextCode, currentBw.code).forEach((p) => {
+          const pEnd = p.endDate > today ? today : p.endDate;
+          periods.push({
+            code: p.code,
+            scanStart: formatLocalIsoDate(p.startDate),
+            scanEnd: formatLocalIsoDate(pEnd)
+          });
+        });
+      }
+    } else {
+      const fallbackStart = new Date(today.getTime() - 28 * 86400000);
+      const startBwInfo = getBiweeklyPeriodInfo(fallbackStart);
+      getBiweeklySequence(startBwInfo.code, currentBw.code).forEach((p) => {
+        const pStart =
+          p.code === startBwInfo.code && fallbackStart > p.startDate ? fallbackStart : p.startDate;
+        const pEnd = p.endDate > today ? today : p.endDate;
+        periods.push({
+          code: p.code,
+          scanStart: formatLocalIsoDate(pStart),
+          scanEnd: formatLocalIsoDate(pEnd)
+        });
+      });
+    }
+
+    const windowStart = periods[0].scanStart;
+    const firstCode = periods[0].code;
+    const lastCode = periods[periods.length - 1].code;
+    const biweeklyLabel =
+      firstCode === lastCode
+        ? `Biweekly ${lastCode}`
+        : `Biweekly ${firstCode} → ${lastCode} (${periods.length} kỳ)`;
+
+    return {
+      previousBiweekly: lastRecordedBwCode,
+      currentBiweekly: currentBw.code,
+      periods,
+      windowStart,
+      windowEnd,
+      biweeklyLabel
+    };
+  }
+
   async function runBiweeklyAdSync() {
     if (!requireAdmin()) return;
-    const now = new Date();
-    const startOfYear = new Date(now.getFullYear(), 0, 1);
-    const dayOfYear = Math.floor((now - startOfYear) / 86400000) + 1;
-    const bwNum = Math.min(26, Math.max(1, Math.ceil(dayOfYear / 14)));
-    const prevBw = bwNum > 1 ? bwNum - 1 : 26;
-    const prevYear = bwNum > 1 ? now.getFullYear() : now.getFullYear() - 1;
-    const fallbackBwLabel = `Biweekly ${prevYear}-${String(prevBw).padStart(2, "0")} & ${now.getFullYear()}-${String(
-      bwNum
-    ).padStart(2, "0")}`;
-    const windowEnd = now.toISOString().slice(0, 10);
-    const windowStart = new Date(now.getTime() - 28 * 86400000).toISOString().slice(0, 10);
+    const plan = buildIncrementalBiweeklyPlan(lastBiweeklyReport, new Date());
+    const fallbackBwLabel = plan.biweeklyLabel;
+    const windowStart = plan.windowStart;
+    const windowEnd = plan.windowEnd;
+    const resumeNote = plan.previousBiweekly
+      ? `Từ mốc ${plan.previousBiweekly} → ${plan.currentBiweekly}`
+      : fallbackBwLabel;
 
     const bannerTitle = document.getElementById("autoBannerTitle");
     if (bannerTitle) {
-      bannerTitle.textContent = `⏳ Đang quét EASA / FAA ${fallbackBwLabel} (${windowStart} → ${windowEnd}) & cập nhật CSDL...`;
+      bannerTitle.textContent = `⏳ Đang quét nối tiếp ${resumeNote} (${windowStart} → ${windowEnd}) & cập nhật CSDL...`;
     }
-    showToast(`🔄 Đang quét AD ${fallbackBwLabel} từ EASA Archive & FAA Federal Register...`);
+    showToast(`🔄 Đang quét AD ${resumeNote} từ EASA Archive & FAA Federal Register...`);
 
     try {
       const resp = await fetch("./api/sync-biweekly", { method: "POST" });
@@ -1810,6 +1981,10 @@
           lastSyncedAt = db.lastSyncedAt || new Date().toLocaleString("vi-VN");
           lastBiweeklyReport = db.lastBiweeklyReport || {
             biweeklyLabel: fallbackBwLabel,
+            previousBiweekly: plan.previousBiweekly,
+            lastCompletedBiweekly: plan.currentBiweekly,
+            lastScannedDate: windowEnd,
+            biweeklySequence: plan.periods.map((p) => p.code),
             windowStart,
             windowEnd,
             scannedAt: lastSyncedAt,
@@ -1825,53 +2000,93 @@
           refreshAllViews();
           const r = lastBiweeklyReport;
           showToast(
-            `✅ Đã quét ${r.biweeklyLabel}: +${r.faaAdded} FAA AD (${r.faaUpdated} cập nhật) & +${r.easaAdded} EASA AD (${r.easaUpdated} cập nhật)!`
+            `✅ Đã quét ${r.biweeklyLabel} (mốc cuối: ${r.lastCompletedBiweekly || plan.currentBiweekly}): +${r.faaAdded} FAA AD (${r.faaUpdated} cập nhật) & +${r.easaAdded} EASA AD (${r.easaUpdated} cập nhật)!`
           );
           return;
         }
       }
     } catch (e) {}
 
-    // Client-side Federal Register biweekly scan fallback (for static GitHub Pages)
+    // Client-side Federal Register incremental biweekly scan fallback (for static GitHub Pages)
     try {
-      const frUrl = `https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bagencies%5D%5B%5D=federal-aviation-administration&conditions%5Btype%5D%5B%5D=RULE&conditions%5Bterm%5D=%22Airworthiness%20Directives%22&conditions%5Bpublication_date%5D%5Bgte%5D=${windowStart}&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=effective_on&fields%5B%5D=pdf_url&fields%5B%5D=html_url&fields%5B%5D=abstract&fields%5B%5D=docket_ids`;
-      const frResp = await fetch(frUrl);
-      if (frResp.ok) {
-        const data = await frResp.json();
-        const docs = (data.results || []).filter((d) => String(d.title || "").includes("Airworthiness Directives"));
-        const existingDocNums = new Set(adList.map((a) => String(a.docNumber || "")).filter(Boolean));
-        const existingFaaNums = new Set(adList.map((a) => String(a.officialFaaAd || "")).filter(Boolean));
-        let faaAdded = 0;
-        let easaAdded = 0;
-        docs.forEach((doc) => {
-          const ev = evaluateAdAgainstVjcFleet(doc);
-          const dupDoc = doc.document_number && existingDocNums.has(String(doc.document_number));
-          const dupFaa = ev.officialFaaAd && existingFaaNums.has(String(ev.officialFaaAd));
-          if (!dupDoc && !dupFaa) {
-            adList.unshift(ev);
-            if (ev.easaAdNumber) easaAdded++;
-            faaAdded++;
-          }
-        });
-        lastSyncedAt = new Date().toLocaleString("vi-VN");
-        lastBiweeklyReport = {
-          biweeklyLabel: fallbackBwLabel,
-          windowStart,
-          windowEnd,
-          scannedAt: lastSyncedAt,
-          faaScanned: docs.length,
-          faaAdded,
+      const existingDocNums = new Set(adList.map((a) => String(a.docNumber || "")).filter(Boolean));
+      const existingFaaNums = new Set(adList.map((a) => String(a.officialFaaAd || "")).filter(Boolean));
+      let faaScanned = 0;
+      let faaAdded = 0;
+      let easaAdded = 0;
+      const perBiweeklyStats = [];
+
+      for (const period of plan.periods) {
+        let pFaaScanned = 0;
+        let pFaaAdded = 0;
+        let pEasaAdded = 0;
+        let nextUrl = `https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bagencies%5D%5B%5D=federal-aviation-administration&conditions%5Btype%5D%5B%5D=RULE&conditions%5Bterm%5D=%22Airworthiness%20Directives%22&conditions%5Bpublication_date%5D%5Bgte%5D=${period.scanStart}&conditions%5Bpublication_date%5D%5Blte%5D=${period.scanEnd}&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=effective_on&fields%5B%5D=pdf_url&fields%5B%5D=html_url&fields%5B%5D=abstract&fields%5B%5D=docket_ids`;
+        let pageGuard = 0;
+        while (nextUrl && pageGuard < 5) {
+          pageGuard++;
+          const frResp = await fetch(nextUrl);
+          if (!frResp.ok) break;
+          const data = await frResp.json();
+          const allResults = data.results || [];
+          pFaaScanned += allResults.length;
+          faaScanned += allResults.length;
+          const docs = allResults.filter((d) => String(d.title || "").includes("Airworthiness Directives"));
+          docs.forEach((doc) => {
+            const ev = evaluateAdAgainstVjcFleet(doc);
+            const dupDoc = doc.document_number && existingDocNums.has(String(doc.document_number));
+            const dupFaa = ev.officialFaaAd && existingFaaNums.has(String(ev.officialFaaAd));
+            if (!dupDoc && !dupFaa) {
+              adList.unshift(ev);
+              if (doc.document_number) existingDocNums.add(String(doc.document_number));
+              if (ev.officialFaaAd) existingFaaNums.add(String(ev.officialFaaAd));
+              if (ev.easaAdNumber) {
+                easaAdded++;
+                pEasaAdded++;
+              }
+              faaAdded++;
+              pFaaAdded++;
+            }
+          });
+          nextUrl = data.next_page_url || "";
+        }
+        perBiweeklyStats.push({
+          biweekly: period.code,
+          windowStart: period.scanStart,
+          windowEnd: period.scanEnd,
+          faaScanned: pFaaScanned,
+          faaAdded: pFaaAdded,
           faaUpdated: 0,
-          easaScanned: easaAdded,
-          easaAdded,
+          easaScanned: pEasaAdded,
+          easaAdded: pEasaAdded,
           easaUpdated: 0
-        };
-        hydrateAdsWithFleet();
-        saveToLocalStorage();
-        renderBiweeklyBannerNotice(" • Federal Register Live");
-        refreshAllViews();
-        showToast(`✅ Đã quét ${fallbackBwLabel}: +${faaAdded} FAA AD (kèm ${easaAdded} EASA liên quan)!`);
+        });
       }
+
+      lastSyncedAt = new Date().toLocaleString("vi-VN");
+      lastBiweeklyReport = {
+        biweeklyLabel: fallbackBwLabel,
+        previousBiweekly: plan.previousBiweekly,
+        lastCompletedBiweekly: plan.currentBiweekly,
+        lastScannedDate: windowEnd,
+        biweeklySequence: plan.periods.map((p) => p.code),
+        perBiweeklyStats,
+        windowStart,
+        windowEnd,
+        scannedAt: lastSyncedAt,
+        faaScanned,
+        faaAdded,
+        faaUpdated: 0,
+        easaScanned: easaAdded,
+        easaAdded,
+        easaUpdated: 0
+      };
+      hydrateAdsWithFleet();
+      saveToLocalStorage();
+      renderBiweeklyBannerNotice(" • Federal Register Live");
+      refreshAllViews();
+      showToast(
+        `✅ Đã quét ${fallbackBwLabel} (mốc cuối: ${plan.currentBiweekly}): +${faaAdded} FAA AD (kèm ${easaAdded} EASA liên quan)!`
+      );
     } catch (err) {
       showToast("⚠️ Không thể kết nối cổng dữ liệu Biweekly lúc này.");
     }
