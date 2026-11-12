@@ -1,9 +1,9 @@
-const CACHE_NAME = "vjc-aeroad-pwa-v26";
+const CACHE_NAME = "vjc-aeroad-pwa-v27";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=26",
-  "./app.js?v=26",
+  "./styles.css?v=27",
+  "./app.js?v=27",
   "./data.js",
   "./manifest.webmanifest",
   "./icons/icon-192.png",

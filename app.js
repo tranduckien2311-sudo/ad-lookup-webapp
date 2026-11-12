@@ -341,7 +341,7 @@
           ) ||
             (/\bengines?\b/i.test(appTxt) && /\b(?:all\s+)?(?:serial numbers|s\/n|ESN)\b/i.test(appTxt)))))
     ) {
-      return "ENGINE";
+      return "COMPONENT";
     }
 
     if (String(ad.adAffectedPart || "").trim()) {
@@ -360,9 +360,9 @@
 
     if (
       /^APPLIANCES\b/i.test(exModels) ||
-      /\bComponent\b|\bAppliance\b/i.test(cat) && !isAirframeHolder ||
+      (/\bComponent\b|\bAppliance\b/i.test(cat) && !isAirframeHolder) ||
       isComponentOem ||
-      (!isAirframeHolder && (isComponentSubject || /\b(25|26|34|35|49)\b/.test(ata) && /\bP\/N\b|Part Number/i.test(appTxt)))
+      (!isAirframeHolder && (isComponentSubject || (/\b(25|26|34|35|49)\b/.test(ata) && /\bP\/N\b|Part Number/i.test(appTxt))))
     ) {
       return "COMPONENT";
     }
@@ -372,22 +372,9 @@
 
   function renderAdEngineOrClassHtml(ad) {
     const bucket = classifyAdBucket(ad);
-    const eng = String((ad && ad.adExtractedEngines) || "").trim();
     let classHtml = "";
-    if (bucket === "ENGINE") {
-      const displayEng =
-        eng && eng !== "Theo cấu hình TCDS"
-          ? eng
-          : String((ad && ad.adExtractedModels) || "").trim() || "Theo model động cơ trong AD";
-      classHtml = `<div style="font-size:11.5px;color:#c4b5fd;margin-bottom:3px;"><strong style="color:#c4b5fd;">🔥 Động cơ:</strong> ${escapeHtml(
-        displayEng
-      )}</div>`;
-    } else if (bucket === "COMPONENT") {
+    if (bucket === "COMPONENT") {
       classHtml = `<div style="font-size:11.5px;color:#fcd34d;margin-bottom:3px;"><strong style="color:#fbbf24;">🧩 Phân loại:</strong> Component / Thiết bị (Appliance)</div>`;
-    } else if (eng && eng !== "Theo cấu hình TCDS" && !/Không áp dụng|Airframe/i.test(eng)) {
-      classHtml = `<div style="font-size:11.5px;color:var(--text-secondary);margin-bottom:3px;"><strong style="color:#c4b5fd;">Động cơ liên quan:</strong> ${escapeHtml(
-        eng
-      )}</div>`;
     } else {
       classHtml = `<div style="font-size:11.5px;color:#93c5fd;margin-bottom:3px;"><strong style="color:#60a5fa;">✈️ Phân loại:</strong> Tàu bay (Aircraft / Airframe)</div>`;
     }
@@ -1971,8 +1958,8 @@
 
       if (adTypeFilter !== "ALL") {
         const bucket = classifyAdBucket(ad);
-        if (adTypeFilter === "NON_AIRCRAFT") {
-          if (bucket === "AIRCRAFT") return false;
+        if (adTypeFilter === "COMPONENT" || adTypeFilter === "NON_AIRCRAFT" || adTypeFilter === "ENGINE") {
+          if (bucket !== "COMPONENT") return false;
         } else if (bucket !== adTypeFilter) {
           return false;
         }

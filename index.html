@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=26" />
+  <link rel="stylesheet" href="styles.css?v=27" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -208,11 +208,9 @@
           <div class="form-group">
             <label for="filterAdType">Đối tượng (Tàu bay / Component)</label>
             <select id="filterAdType" class="form-control">
-              <option value="ALL">🌐 Tất cả (Tàu bay + Động cơ + Component)</option>
+              <option value="ALL">🌐 Tất cả (Tàu bay + Component)</option>
               <option value="AIRCRAFT">✈️ AD Tàu bay (Airframe / Aircraft)</option>
-              <option value="COMPONENT">🧩 AD Component / Thiết bị (Appliances)</option>
-              <option value="ENGINE">🔥 AD Động cơ (Engine / Powerplant)</option>
-              <option value="NON_AIRCRAFT">⚙️ Động cơ &amp; Component (Gồm cả 2)</option>
+              <option value="COMPONENT">🧩 AD Component / Thiết bị (Động cơ &amp; Appliances)</option>
             </select>
           </div>
 
@@ -670,6 +668,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=26"></script>
+  <script src="app.js?v=27"></script>
 </body>
 </html>
