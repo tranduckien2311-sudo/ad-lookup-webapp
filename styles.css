@@ -957,6 +957,18 @@ body.light-mode .superseded-item {
   background: #ffffff;
 }
 
+.superseded-item.is-selected {
+  border-color: #fbbf24 !important;
+  border-left: 4px solid #f59e0b !important;
+  background: rgba(245, 158, 11, 0.14);
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.35);
+}
+
+body.light-mode .superseded-item.is-selected {
+  background: #fef3c7;
+  box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.35);
+}
+
 .superseded-item-head {
   display: flex;
   align-items: center;
@@ -1719,32 +1731,60 @@ body.light-mode .btn-admin-logged-in {
 
   #tab-register .ad-table th:nth-child(1),
   #tab-register .ad-table td:nth-child(1) {
-    width: 19%;
+    width: 23%;
   }
 
   #tab-register .ad-table th:nth-child(2),
   #tab-register .ad-table td:nth-child(2) {
-    width: 13%;
+    width: 12%;
   }
 
   #tab-register .ad-table th:nth-child(3),
   #tab-register .ad-table td:nth-child(3) {
-    width: 24%;
+    width: 23%;
   }
 
   #tab-register .ad-table th:nth-child(4),
   #tab-register .ad-table td:nth-child(4) {
-    width: 11%;
+    width: 10%;
   }
 
   #tab-register .ad-table th:nth-child(5),
   #tab-register .ad-table td:nth-child(5) {
-    width: 10%;
+    width: 9%;
   }
 
   #tab-register .ad-table th:nth-child(6),
   #tab-register .ad-table td:nth-child(6) {
     width: 23%;
+  }
+
+  #tab-register .table-card,
+  #tab-register .table-responsive,
+  #tab-register .ad-table td:first-child,
+  #tab-register .ad-table .superseded-dropdown[open] {
+    overflow: visible;
+  }
+
+  #tab-register .ad-table .superseded-dropdown[open] > .superseded-list {
+    width: clamp(480px, 48vw, 660px);
+    max-width: calc(100vw - 64px);
+    position: relative;
+    z-index: 30;
+    background: #0f172a;
+    border: 1.5px solid rgba(245, 158, 11, 0.78);
+    border-radius: 0 8px 8px 8px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.55);
+    padding: 10px 12px;
+    max-height: 440px;
+    overflow-y: auto;
+    box-sizing: border-box;
+  }
+
+  body.light-mode #tab-register .ad-table .superseded-dropdown[open] > .superseded-list {
+    background: #fffbeb;
+    border-color: #d97706;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.18);
   }
 
   #tab-register .ad-table .superseded-group-wrapper,

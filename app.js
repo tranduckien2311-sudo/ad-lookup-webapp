@@ -890,27 +890,27 @@
         : ad.effectiveDate;
     const chainTitle =
       sideFilter === "faa"
-        ? `🔗 Chuỗi FAA AD Thay thế &amp; Bị thay thế (${items.length + 1} AD)`
+        ? `🔗 Chuỗi FAA AD (${items.length + 1} AD)`
         : sideFilter === "easa"
-          ? `🔗 Chuỗi EASA AD Thay thế &amp; Bị thay thế (${items.length + 1} AD)`
-          : `🔗 Chuỗi AD Thay thế &amp; Bị thay thế (Dropdown gom ${items.length + 1} AD — Đủ PDF AD cũ)`;
+          ? `🔗 Chuỗi EASA AD (${items.length + 1} AD)`
+          : `🔗 Chuỗi AD Thay thế & Bị thay thế (${items.length + 1} AD)`;
 
     const selectOptions = [
-      `<option value="CURRENT">🟢 [HIỆN HÀNH - SUPERSEDING] ${escapeHtml(currentNum)} (Eff: ${escapeHtml(
+      `<option value="CURRENT">🟢 HIỆN HÀNH: ${escapeHtml(currentNum)} (${escapeHtml(
         currentEff
       )})</option>`,
       ...items.map(
         ({ s, origIdx, displayNum }) =>
-          `<option value="SUP_${origIdx}">🔴 [SUPERSEDED - BỊ THAY THẾ] ${escapeHtml(
+          `<option value="SUP_${origIdx}">🔴 ${escapeHtml(
             displayNum
-          )} (Issued: ${escapeHtml(s.issuedDate || "Historical")} — Có PDF gốc)</option>`
+          )} (${escapeHtml(s.issuedDate || "Historical")})</option>`
       )
     ].join("");
 
     const detailItems = items
       .map(
         ({ s, origIdx, displayNum, pdfSide, sideTag }) => `
-        <div class="superseded-item" style="border-left:3px solid #f59e0b;padding-left:8px;">
+        <div class="superseded-item" data-sup-idx="${origIdx}" style="border-left:3px solid #f59e0b;padding-left:8px;">
           <div class="superseded-item-head" style="flex-wrap:wrap;gap:6px;">
             <div style="display:flex;align-items:flex-start;gap:6px;flex-wrap:wrap;">
               <span class="badge badge-superseded">⚠️ SUPERSEDED</span>
@@ -976,7 +976,7 @@
         <details class="superseded-dropdown" ${isOpenAttr}>
           <summary>
             <span>📂 Xem ${items.length} ${sideFilter === "faa" ? "FAA AD" : sideFilter === "easa" ? "EASA AD" : "AD"} bị Superseded (${items
-      .map((x) => escapeHtml(x.displayNum))
+      .map((x) => escapeHtml(x.displayNum.replace(/^(?:EASA|FAA)\s+AD\s+/i, "")))
       .join(", ")})</span>
             <span>▾</span>
           </summary>
@@ -3584,24 +3584,48 @@ ${bodyRows}
       });
     }
 
-    // When selecting a Superseded AD in the dropdown, open the details box or open its PDF/Text in modal
+    // When selecting a Superseded AD in the dropdown, expand the inline Superseded panel (without opening modal);
+    // switching back to CURRENT collapses it cleanly.
     document.body.addEventListener("change", (e) => {
       if (e.target.classList.contains("superseded-chain-select")) {
         const wrapper = e.target.closest(".superseded-group-wrapper");
-        const parentAdId = e.target.getAttribute("data-parent-ad-id");
         const val = e.target.value;
         if (wrapper) {
           const det = wrapper.querySelector("details.superseded-dropdown");
-          if (det && val !== "CURRENT") {
-            det.open = true;
+          const items = wrapper.querySelectorAll(".superseded-item");
+          items.forEach((el) => el.classList.remove("is-selected"));
+
+          if (val === "CURRENT") {
+            if (det) det.open = false;
+          } else if (val.startsWith("SUP_")) {
+            const supIdx = val.replace("SUP_", "");
+            if (det) det.open = true;
+            const targetItem = wrapper.querySelector(`.superseded-item[data-sup-idx="${supIdx}"]`);
+            if (targetItem) {
+              targetItem.classList.add("is-selected");
+              targetItem.scrollIntoView({ block: "nearest", behavior: "smooth" });
+            }
           }
-        }
-        if (parentAdId && val.startsWith("SUP_")) {
-          const supIdx = Number(val.replace("SUP_", ""));
-          openAdModal(parentAdId, supIdx);
         }
       }
     });
+
+    // Keep select synced when user manually collapses the superseded dropdown via <summary>
+    document.body.addEventListener(
+      "toggle",
+      (e) => {
+        const det = e.target;
+        if (det && det.classList && det.classList.contains("superseded-dropdown") && !det.open) {
+          const wrapper = det.closest(".superseded-group-wrapper");
+          const sel = wrapper ? wrapper.querySelector(".superseded-chain-select") : null;
+          if (sel && sel.value !== "CURRENT") sel.value = "CURRENT";
+          if (wrapper) {
+            wrapper.querySelectorAll(".superseded-item.is-selected").forEach((el) => el.classList.remove("is-selected"));
+          }
+        }
+      },
+      true
+    );
 
     // Global click handlers for "Xem PDF & Chi tiết AD cũ"
     document.body.addEventListener("click", (e) => {
