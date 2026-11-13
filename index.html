@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=35" />
+  <link rel="stylesheet" href="styles.css?v=36" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -548,13 +548,27 @@
           <table class="ad-table" id="tableAppliancesPn">
             <thead>
               <tr>
-                <th style="min-width:180px;">Mã Part Number (P/N)</th>
-                <th style="min-width:240px;">Tên Thiết Bị / Linh Kiện (Description)</th>
-                <th style="min-width:140px;">Nhóm / Chapter</th>
-                <th style="min-width:110px;">Dòng Tàu</th>
-                <th style="min-width:150px;">Số Tàu Lắp Đặt</th>
-                <th style="min-width:260px;">AD Quy Định &amp; Link PDF</th>
-                <th style="min-width:100px;text-align:center;">Thao Tác</th>
+                <th style="width:18%;" title="Part Number">
+                  <span class="col-full">Part Number (P/N)</span>
+                  <span class="col-compact">P/N</span>
+                </th>
+                <th style="width:26%;" title="Description">
+                  <span class="col-full">Description</span>
+                  <span class="col-compact">Desc</span>
+                </th>
+                <th style="width:13%;" title="Chapter / Group">
+                  <span class="col-full">Chapter</span>
+                  <span class="col-compact">Ch</span>
+                </th>
+                <th style="width:10%;" title="Fleet Types">Fleet</th>
+                <th style="width:15%;" title="Installed Fleet Count">
+                  <span class="col-full">Fleet Installed</span>
+                  <span class="col-compact">✈️ Status</span>
+                </th>
+                <th style="width:18%;" title="Airworthiness Directives">
+                  <span class="col-full">Related AD &amp; PDF</span>
+                  <span class="col-compact">📜 AD</span>
+                </th>
               </tr>
             </thead>
             <tbody id="appliancesPnTableBody"></tbody>
@@ -1451,6 +1465,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=52"></script>
+  <script src="app.js?v=53"></script>
 </body>
 </html>

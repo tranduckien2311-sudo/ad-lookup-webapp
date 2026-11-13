@@ -4323,7 +4323,7 @@ ${bodyRows}
     const pageItems = filteredAppliances.slice(startIdx, startIdx + appliancePageSize);
 
     if (pageItems.length === 0) {
-      tbody.innerHTML = `<tr><td colspan="7" style="text-align:center;padding:32px;color:var(--text-secondary);">Không tìm thấy thiết bị nào phù hợp với bộ lọc hiện tại.</td></tr>`;
+      tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:32px;color:var(--text-secondary);">Không tìm thấy thiết bị nào phù hợp với bộ lọc hiện tại.</td></tr>`;
       return;
     }
 
@@ -4381,11 +4381,6 @@ ${bodyRows}
               </span>
             </td>
             <td onclick="event.stopPropagation();">${adHtml}</td>
-            <td style="text-align:center;" onclick="event.stopPropagation();">
-              <button class="btn btn-outline btn-sm" onclick="window.viewApplianceDetail('${escapeHtml(item.pn)}')" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-size:11.5px;padding:4px 8px;">
-                🔍 Chi tiết
-              </button>
-            </td>
           </tr>
         `;
       })

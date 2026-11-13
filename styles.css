@@ -1997,13 +1997,15 @@ body.light-mode .btn-admin-logged-in {
 }
 
 /* Guarantee Tables Fit 100% in Viewport Frame Without Horizontal Scroll */
-#tab-ipc .table-responsive {
+#tab-ipc .table-responsive,
+#tab-appliances .table-responsive {
   overflow-x: hidden !important;
   scrollbar-gutter: auto !important;
   width: 100% !important;
 }
 
-#tableIpcParts {
+#tableIpcParts,
+#tableAppliancesPn {
   width: 100% !important;
   max-width: 100% !important;
   table-layout: fixed !important;
@@ -2011,14 +2013,28 @@ body.light-mode .btn-admin-logged-in {
 }
 
 #tableIpcParts th,
-#tableIpcParts td {
+#tableIpcParts td,
+#tableAppliancesPn th,
+#tableAppliancesPn td {
   overflow: hidden;
   text-overflow: ellipsis;
   padding: 9px 7px;
   vertical-align: middle;
 }
 
-#tableIpcParts td:nth-child(3) {
+#tableAppliancesPn tbody tr {
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+#tableAppliancesPn tbody tr:hover {
+  background: rgba(59, 130, 246, 0.12) !important;
+  box-shadow: inset 4px 0 0 #3b82f6;
+}
+
+#tableIpcParts td:nth-child(3),
+#tableAppliancesPn td:nth-child(2),
+#tableAppliancesPn td:nth-child(6) {
   white-space: normal;
   word-break: break-word;
   line-height: 1.35;
@@ -2036,7 +2052,9 @@ body.light-mode .btn-admin-logged-in {
     display: inline;
   }
   #tableIpcParts th,
-  #tableIpcParts td {
+  #tableIpcParts td,
+  #tableAppliancesPn th,
+  #tableAppliancesPn td {
     padding: 8px 4px;
     font-size: 11.5px;
   }
