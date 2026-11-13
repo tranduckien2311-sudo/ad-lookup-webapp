@@ -105,21 +105,39 @@ function Clean-EasaTxt([string]$raw) {
 function Extract-AffectedPartFromTxt([string]$txt) {
   $clean = Clean-EasaTxt $txt
   if (-not $clean) { return "" }
-  $stopLookahead = '(?=\s+(?:Affected\s+(?:aeroplane|engine|helicopter|rotorcraft|aircraft|system|MLG|door|structure)|Serviceable|Applicable\s+(?:aeroplane|modification|engine|part)|Eligible|Approved|Qualified|Known|Removed|Group\s+[A-Z0-9]|Batch\s+\d+|The\s+(?:SB|AOT|NMSB|NMSBs|SL|SIL|AMOC|AD)\s*:|NSO\s*:|SIL/SB\s*:|EGNOS\b|Note\s+\d+\s*:|Reason\s*:|Required\s+Action|Ref\.\s*Publications|Remarks\s*:|\.\s+[A-Z][A-Za-z0-9/()\- ]{2,34}\s*:\s|$))'
-  $pattern = "(?i)\bAffected\s+parts?(?:\(s\))?\s*:\s*(.+?)$stopLookahead"
-  $m = [regex]::Match($clean, $pattern)
-  if (-not $m.Success) { return "" }
-  $val = $m.Groups[1].Value.Trim()
-  $val = $val -replace '\s+', ' '
-  $val = $val.TrimEnd(' ', ';')
-  if ($val.Length -lt 4) { return "" }
-  if ($val.Length -gt 380) {
-    $cut = $val.Substring(0, 380)
-    $lastSpace = $cut.LastIndexOf(' ')
-    if ($lastSpace -gt 200) { $cut = $cut.Substring(0, $lastSpace) }
-    $val = "$cut..."
+  $stopLookahead = '(?=\s+(?:Affected\s+(?:aeroplane|engine|helicopter|rotorcraft|aircraft|system|MLG\s+door|door|structure|part|component|assembly|unit)|Serviceable|Applicable\s+(?:aeroplane|modification|engine|part)|Eligible|Approved|Qualified|Known|Removed|Group\s+[A-Z0-9]|Batch\s+\d+|The\s+(?:SB|AOT|NMSB|NMSBs|SL|SIL|AMOC|AD)\s*:|NSO\s*:|SIL/SB\s*:|EGNOS\b|Note\s+\d+\s*:|Reason\s*:|Required\s+Action|Ref\.\s*Publications|Remarks\s*:|\.\s+[A-Z][A-Za-z0-9/()\- ]{2,34}\s*:\s|$))'
+  
+  $pattern = '(?i)\b(Affected\s+(?:parts?|components?|assembl(?:y|ies)|units?)(?:\s+[0-9A-Za-z]+)?)\s*:\s*(.+?)' + $stopLookahead
+  
+  $matches = [regex]::Matches($clean, $pattern)
+  if ($matches.Count -eq 0) {
+    $patternFallback = "(?i)\bAffected\s+parts?(?:\(s\))?\s*:\s*(.+?)$stopLookahead"
+    $m = [regex]::Match($clean, $patternFallback)
+    if ($m.Success) {
+      $v = $m.Groups[1].Value.Trim().TrimEnd(' ', ';')
+      if ($v.Length -gt 550) { $v = $v.Substring(0, 550) + "..." }
+      return $v
+    }
+    return ""
   }
-  return $val
+
+  $partsList = [System.Collections.ArrayList]@()
+  foreach ($m in $matches) {
+    $label = $m.Groups[1].Value.Trim()
+    $val = $m.Groups[2].Value.Trim().TrimEnd(' ', ';')
+    if ($val.Length -ge 4) {
+      [void]$partsList.Add("${label}: $val")
+    }
+  }
+
+  $combined = $partsList -join " | "
+  if ($combined.Length -gt 650) {
+    $cut = $combined.Substring(0, 650)
+    $lastSpace = $cut.LastIndexOf(' ')
+    if ($lastSpace -gt 350) { $cut = $cut.Substring(0, $lastSpace) }
+    $combined = "$cut..."
+  }
+  return $combined
 }
 
 Write-Host "[2/4] Extracting Affected part(s) & PAD Effective Dates from EASA PDF cache..."

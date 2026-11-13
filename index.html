@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=29" />
+  <link rel="stylesheet" href="styles.css?v=34" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -45,27 +45,39 @@
   <!-- Navigation Bar -->
   <nav class="nav-bar">
     <div class="nav-tabs">
-      <button class="nav-tab active" data-tab="tab-register">
-        🗄️ Cơ sở dữ liệu AD (Applicable (unverified) / Not Applicable)
+      <button class="nav-tab active" data-tab="tab-register" title="AD Database (Applicable / Not Applicable)">
+        <span class="tab-icon">🗄️</span>
+        <span class="tab-label">AD Database</span>
         <span class="tab-count" id="navCountTotal">0</span>
       </button>
-      <button class="nav-tab" data-tab="tab-evaluations">
-        📜 Danh sách AD Áp dụng VJC &amp; Link PDF
+      <button class="nav-tab" data-tab="tab-evaluations" title="Applicable ADs & PDF Links">
+        <span class="tab-icon">📜</span>
+        <span class="tab-label">Applicable ADs</span>
         <span class="tab-count" id="navCountEvaluations" style="background:rgba(16,185,129,0.2);color:#34d399;border-color:rgba(16,185,129,0.4);">0</span>
       </button>
-      <button class="nav-tab" data-tab="tab-fleet">
-        ✈️ Đội Bay VJC (<span id="navTabFleetTitleCount">111</span> Tàu) &amp; Tra Cứu Theo Tàu
+      <button class="nav-tab" data-tab="tab-fleet" title="VJC Fleet & Aircraft Lookup">
+        <span class="tab-icon">✈️</span>
+        <span class="tab-label">VJC Fleet</span>
         <span class="tab-count" id="navCountFleet">111</span>
+        <span id="navTabFleetTitleCount" style="display:none;">111</span>
       </button>
-      <button class="nav-tab" data-tab="tab-appliances" id="navTabAppliances">
-        🧰 Lọc AD theo Appliances &amp; Vật tư
-        <span class="tab-count" id="navCountAppliances" style="background:rgba(59,130,246,0.2);color:#60a5fa;border-color:rgba(59,130,246,0.4);">55</span>
+      <button class="nav-tab" data-tab="tab-appliances" id="navTabAppliances" title="Filter ADs by Appliances & Equipment">
+        <span class="tab-icon">🧰</span>
+        <span class="tab-label">Appliances AD</span>
+        <span class="tab-count" id="navCountAppliances" style="background:rgba(59,130,246,0.2);color:#60a5fa;border-color:rgba(59,130,246,0.4);">68</span>
       </button>
-      <button class="nav-tab" data-tab="tab-live">
-        🌐 Tìm kiếm Trực tuyến Mở rộng (FAA / EASA Live)
+      <button class="nav-tab" data-tab="tab-ipc" id="navTabIpc" title="Airbus IPC Catalog & Interchange Relationships">
+        <span class="tab-icon">📖</span>
+        <span class="tab-label">IPC &amp; Interchange</span>
+        <span class="tab-count" id="navCountIpc" style="background:rgba(168,85,247,0.2);color:#c084fc;border-color:rgba(168,85,247,0.4);">114,648</span>
       </button>
-      <button class="nav-tab" data-tab="tab-dashboard">
-        📊 Dashboard Thống kê
+      <button class="nav-tab" data-tab="tab-live" title="Online Live Search (FAA / EASA)">
+        <span class="tab-icon">🌐</span>
+        <span class="tab-label">Live Search</span>
+      </button>
+      <button class="nav-tab" data-tab="tab-dashboard" title="Dashboard Statistics">
+        <span class="tab-icon">📊</span>
+        <span class="tab-label">Dashboard</span>
       </button>
     </div>
     <div class="reconciliation-banner">
@@ -572,6 +584,542 @@
       </div>
     </section>
 
+    <!-- TAB: IPC & INTERCHANGE PARTS DATABASE -->
+    <section class="tab-panel" id="tab-ipc">
+      <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(168,85,247,0.12),rgba(59,130,246,0.08));border-color:rgba(168,85,247,0.45);">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+          <div>
+            <div style="display:flex;align-items:center;gap:8px;">
+              <span class="badge" style="background:rgba(168,85,247,0.25);border:1px solid rgba(168,85,247,0.8);color:#d8b4fe;font-size:12px;font-weight:700;">
+                📖 IPC AIRBUS CATALOG &amp; INTERCHANGE
+              </span>
+              <strong style="font-size:15px;color:#fff;">
+                Cơ Sở Dữ Liệu Tra Cứu IPC (Illustrated Parts Catalog) &amp; Phụ Tùng Interchange
+              </strong>
+            </div>
+            <p style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
+              Tích hợp 3 tệp IPC Airbus: <strong>A330</strong> (15 cấu hình FSN), <strong>A320ceo/A321ceo</strong> (64 FSN) và <strong>A321neo</strong> (67 FSN) • Tổng cộng <strong>146 cấu hình tàu</strong> • <strong>114,648 Part Numbers</strong> • <strong>137,832 Quan hệ Interchange</strong> (Replaced by / Replaces / Spare / Alternate) • <strong>198 Part Numbers</strong> khớp Airworthiness Directives (AD).
+            </p>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+            <button class="btn btn-outline btn-sm active" id="btnIpcSubParts" style="border-color:rgba(168,85,247,0.6);color:#d8b4fe;font-weight:700;">
+              🔍 Tra Cứu Phụ Tùng &amp; Interchange
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubFleet" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-weight:700;">
+              ✈️ Đội Bay IPC (146 Tàu)
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubGuide" style="border-color:rgba(16,185,129,0.6);color:#34d399;font-weight:700;">
+              📚 Hướng Dẫn Cấu Trúc 4 Tab IPC
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- IPC KPI Summary Row -->
+      <section class="kpi-grid" id="ipcKpiGrid" style="margin-bottom:16px;">
+        <div class="kpi-card" id="cardIpcTotalPn" style="cursor:pointer;" title="Bấm để xem toàn bộ danh mục Part Number trong IPC">
+          <div class="kpi-header">
+            <span>Tổng Part Number (IPC)</span>
+            <span>📦</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalPn" style="color:#c084fc;">114,648</div>
+          <div class="kpi-sub">Duy nhất qua A330, CEO, NEO</div>
+        </div>
+
+        <div class="kpi-card kpi-success" id="cardIpcInterchanges" style="cursor:pointer;" title="Bấm để lọc linh kiện có quan hệ thay thế Interchange">
+          <div class="kpi-header">
+            <span>Quan Hệ Interchange</span>
+            <span>🔄</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalInterchanges" style="color:#34d399;">119,435</div>
+          <div class="kpi-sub">2-Way &amp; 1-Way Interchange</div>
+        </div>
+
+        <div class="kpi-card" id="cardIpcFleet" style="cursor:pointer;" title="Bấm để xem danh sách 146 cấu hình tàu bay FSN trong IPC">
+          <div class="kpi-header">
+            <span>Đội Tàu Bay Trong IPC</span>
+            <span>✈️</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalFleet" style="color:#60a5fa;">146</div>
+          <div class="kpi-sub">15 A330 • 64 CEO • 67 NEO (FSN)</div>
+        </div>
+
+        <div class="kpi-card kpi-warning" id="cardIpcMatchedAds" style="cursor:pointer;" title="Bấm để lọc Part Number có quy định Airworthiness Directives (AD)">
+          <div class="kpi-header">
+            <span>Part Khớp Hồ Sơ AD</span>
+            <span>⚠️</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiMatchedAds" style="color:#fbbf24;">198</div>
+          <div class="kpi-sub">Có AD quy định an toàn bay</div>
+        </div>
+      </section>
+
+      <!-- SUB-PANEL 1: PARTS & INTERCHANGE SEARCH -->
+      <div id="ipcSubPanelParts">
+        <div class="filter-panel" style="margin-bottom:16px;">
+          <div class="filter-grid" style="grid-template-columns:repeat(auto-fit,minmax(210px,1fr));">
+            <div class="form-group" style="grid-column:1 / -1;">
+              <label for="ipcSearchInput" style="font-weight:700;color:#c084fc;">
+                🔍 Tìm kiếm Phụ Tùng / Part Number (P/N), Tên linh kiện, Mã MFR, P/N Interchange hoặc Số hiệu AD
+              </label>
+              <div style="display:flex;gap:10px;">
+                <input
+                  type="text"
+                  id="ipcSearchInput"
+                  class="form-control"
+                  style="border-color:rgba(168,85,247,0.5);font-size:14px;"
+                  placeholder="Nhập Part Number (VD: 0861ED4, C16291AB, 0-0-6S, SCREW, SENSOR, VALVE, RR, CFM...)"
+                />
+                <button class="btn btn-primary" id="btnIpcSearch" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;min-width:130px;">
+                  🔎 Tìm Kiếm
+                </button>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcFamily">Dòng Tàu Bay (Fleet Family)</label>
+              <select id="filterIpcFamily" class="form-control">
+                <option value="ALL">🌐 Tất cả dòng tàu (A330, CEO, NEO)</option>
+                <option value="A330">Airbus A330 (15 FSN)</option>
+                <option value="A320/A321ceo">Airbus A320ceo &amp; A321ceo (64 FSN)</option>
+                <option value="A321neo">Airbus A321neo (67 FSN)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcPlane">Số Đăng Bạ Tàu Bay (Aircraft / Registration)</label>
+              <select id="filterIpcPlane" class="form-control">
+                <option value="ALL">✈️ Tất cả tàu bay (146 tàu)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcRelation">Quan Hệ Thay Thế (Interchange)</label>
+              <select id="filterIpcRelation" class="form-control">
+                <option value="ALL">Tất cả phụ tùng</option>
+                <option value="2WAY">↔️ 2-Way Interchange (Thay thế 2 chiều)</option>
+                <option value="1WAY">➡️ 1-Way Interchange (Thay thế 1 chiều)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcInstalled">Tình Trạng Lắp Trên Đội Bay (Installed)</label>
+              <select id="filterIpcInstalled" class="form-control">
+                <option value="ALL">Tất cả tình trạng (Đã lắp + Chưa lắp)</option>
+                <option value="YES">✅ Installed on Fleet (Yes - Đang lắp trên tàu)</option>
+                <option value="NO">🚫 Not installed / Spare only (No - Phụ tùng / Chưa lắp)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcAdStatus">Liên Kết Airworthiness Directives (AD)</label>
+              <select id="filterIpcAdStatus" class="form-control">
+                <option value="ALL">Tất cả (Có AD hoặc không có AD)</option>
+                <option value="YES">⚠️ Chỉ part CÓ AD LIÊN QUAN (198 P/N)</option>
+                <option value="NO">Part chưa có AD</option>
+              </select>
+            </div>
+
+            <div class="form-group" style="align-self:flex-end;">
+              <button class="btn btn-outline" id="btnResetIpcFilters" style="width:100%;">
+                🔄 Đặt Lại Bộ Lọc
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parts Table Card -->
+        <div class="table-card">
+          <div class="table-toolbar">
+            <div>
+              <strong>Bảng Danh Mục Phụ Tùng IPC &amp; Quan Hệ Interchange</strong>
+              <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="ipcPartsCounterText">Đang tải...</span>
+            </div>
+            <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+              <button class="btn btn-primary btn-sm" id="btnExportIpcExcel" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;" title="Xuất dữ liệu phụ tùng IPC ra file Excel">
+                📥 Xuất Excel Phụ Tùng
+              </button>
+              <span style="font-size:12px;color:var(--text-secondary);">
+                Nhấp vào <strong>bất kỳ dòng linh kiện nào</strong> để xem chi tiết đầy đủ quan hệ thay thế, vị trí lắp ATA &amp; AD áp dụng
+              </span>
+            </div>
+          </div>
+
+          <div class="table-responsive">
+            <table class="ad-table" id="tableIpcParts">
+              <thead>
+                <tr>
+                  <th style="width:14%;" title="Part Number">
+                    <span class="col-full">Part Number</span>
+                    <span class="col-compact">P/N</span>
+                  </th>
+                  <th style="width:13%;" title="Airbus IPC Reference: ATA-Fig-Item">
+                    <span class="col-full">IPC Ref</span>
+                    <span class="col-compact">📍 Ref</span>
+                  </th>
+                  <th style="width:20%;" title="Component Description">
+                    <span class="col-full">Description</span>
+                    <span class="col-compact">Desc</span>
+                  </th>
+                  <th style="width:7%;text-align:center;" title="Manufacturer Code">
+                    <span class="col-full">MFR</span>
+                    <span class="col-compact">MFR</span>
+                  </th>
+                  <th style="width:9%;text-align:center;" title="Fleet Family (A330, CEO, NEO)">
+                    <span class="col-full">Fleet</span>
+                    <span class="col-compact">Fleet</span>
+                  </th>
+                  <th style="width:11%;" title="Installed on Fleet">
+                    <span class="col-full">Installed</span>
+                    <span class="col-compact">Inst</span>
+                  </th>
+                  <th style="width:16%;" title="Interchange Relationship (2-Way / 1-Way)">
+                    <span class="col-full">Interchange</span>
+                    <span class="col-compact">🔄 Icy</span>
+                  </th>
+                  <th style="width:10%;" title="Airworthiness Directives">
+                    <span class="col-full">Related AD</span>
+                    <span class="col-compact">AD</span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody id="ipcPartsTableBody"></tbody>
+            </table>
+          </div>
+
+          <!-- Pagination for IPC Parts -->
+          <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-top:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:10px;">
+            <div style="font-size:12.5px;color:var(--text-secondary);" id="ipcPartsPageInfo">Trang 1 / 1</div>
+            <div style="display:flex;gap:6px;">
+              <button class="btn btn-outline btn-sm" id="btnIpcPrevPage">◀ Trang trước</button>
+              <button class="btn btn-outline btn-sm" id="btnIpcNextPage">Trang sau ▶</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SUB-PANEL 2: IPC FLEET (146 AIRCRAFT) -->
+      <div id="ipcSubPanelFleet" style="display:none;">
+        <div class="filter-panel" style="margin-bottom:16px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+            <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;flex:1;">
+              <input
+                type="text"
+                id="ipcFleetSearchInput"
+                class="form-control"
+                style="max-width:320px;"
+                placeholder="Tìm theo FSN, MSN, Số ĐK (VN-Axxx), Model..."
+              />
+              <select id="filterIpcFleetFamily" class="form-control" style="max-width:220px;">
+                <option value="ALL">🌐 Tất cả dòng tàu (146 cấu hình)</option>
+                <option value="A330">Airbus A330 (15 tàu)</option>
+                <option value="A320/A321ceo">A320ceo &amp; A321ceo (64 tàu)</option>
+                <option value="A321neo">A321neo (67 tàu)</option>
+              </select>
+            </div>
+            <div style="font-size:12.5px;color:var(--text-secondary);" id="ipcFleetCounterText">
+              Hiển thị 146 cấu hình tàu bay
+            </div>
+          </div>
+        </div>
+
+        <div class="table-card">
+          <div class="table-responsive">
+            <table class="ad-table" id="tableIpcFleet">
+              <thead>
+                <tr>
+                  <th style="min-width:100px;">FSN (CEC)</th>
+                  <th style="min-width:110px;">MSN (Serial)</th>
+                  <th style="min-width:140px;">Số Đăng Ký</th>
+                  <th style="min-width:120px;">Model Tàu</th>
+                  <th style="min-width:180px;">Động Cơ (Engine)</th>
+                  <th style="min-width:140px;text-align:right;">Line items effective</th>
+                  <th style="min-width:140px;text-align:right;">Distinct PN effective</th>
+                  <th style="min-width:130px;">Dòng Tàu IPC</th>
+                </tr>
+              </thead>
+              <tbody id="ipcFleetTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- SUB-PANEL 3: IPC 4-TAB ARCHITECTURE & COLUMN GUIDE -->
+      <div id="ipcSubPanelGuide" style="display:none;">
+        <div style="display:flex;flex-direction:column;gap:16px;">
+          
+          <!-- Guide Overview Card -->
+          <div class="table-card" style="padding:20px;background:linear-gradient(135deg,rgba(168,85,247,0.08),rgba(30,41,59,0.8));border:1px solid rgba(168,85,247,0.3);">
+            <h3 style="font-size:16px;font-weight:700;color:#c084fc;margin-bottom:8px;">
+              📚 Hướng Dẫn Chi Tiết Cấu Trúc 4 Tab &amp; Ý Nghĩa Các Cột Trong Hồ Sơ IPC Airbus
+            </h3>
+            <p style="font-size:13px;line-height:1.6;color:var(--text-secondary);margin:0;">
+              Mỗi tệp Illustrated Parts Catalog (IPC) theo đội bay của Vietjet bao gồm 4 tab được thiết kế theo cấu trúc phân cấp kỹ thuật hàng không chuẩn: từ danh sách đội bay (Fleet), các vị trí lắp chi tiết theo cây ATA (Components) đến bảng tổng hợp part number và quan hệ thay thế chéo (PN_Master). Dưới đây là giải thích chi tiết từng tab và từng cột theo tài liệu kỹ thuật chuẩn của đội bay.
+            </p>
+          </div>
+
+          <!-- Tab 1: Notes -->
+          <div class="table-card" style="padding:18px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+              <span class="badge" style="background:rgba(59,130,246,0.2);border:1px solid rgba(59,130,246,0.6);color:#93c5fd;font-size:12px;font-weight:700;">
+                TAB 1
+              </span>
+              <strong style="font-size:15px;color:#fff;">Tab Notes — Ghi Chú Kỹ Thuật &amp; Phương Pháp Tính</strong>
+            </div>
+            <p style="font-size:13px;color:var(--text-secondary);line-height:1.55;margin-bottom:8px;">
+              <strong>Ý nghĩa:</strong> Ghi rõ nguồn dữ liệu IPC gốc từ Airbus, cách tính các công thức số lượng lắp ráp, nguyên tắc kế thừa hiệu lực (Effectivity), các quy ước ký hiệu và lưu ý kỹ thuật. Tab này không chứa dữ liệu để tra cứu phụ tùng mà đóng vai trò là tài liệu tham chiếu kỹ thuật cho toàn bộ file.
+            </p>
+            <div style="display:flex;gap:10px;flex-wrap:wrap;font-size:12.5px;">
+              <div style="background:rgba(255,255,255,0.04);padding:8px 12px;border-radius:6px;border:1px solid rgba(255,255,255,0.08);">
+                📌 <strong>Nguồn:</strong> Dữ liệu xuất từ hệ thống IPC Airbus chính hãng theo từng dòng tàu.
+              </div>
+              <div style="background:rgba(255,255,255,0.04);padding:8px 12px;border-radius:6px;border:1px solid rgba(255,255,255,0.08);">
+                📌 <strong>Quy tắc UPA:</strong> Số lượng cấu hình lắp được tính bằng tích lũy nhân số lượng UPA cụm cha.
+              </div>
+            </div>
+          </div>
+
+          <!-- Tab 2: Fleet -->
+          <div class="table-card" style="padding:18px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;">
+              <span class="badge" style="background:rgba(16,185,129,0.2);border:1px solid rgba(16,185,129,0.6);color:#34d399;font-size:12px;font-weight:700;">
+                TAB 2
+              </span>
+              <strong style="font-size:15px;color:#fff;">Tab Fleet — Danh Sách Đội Bay &amp; Thống Kê Hiệu Lực Tàu</strong>
+            </div>
+            <div class="table-responsive">
+              <table class="ad-table">
+                <thead>
+                  <tr>
+                    <th style="width:220px;">Tên Cột</th>
+                    <th>Ý Nghĩa Kỹ Thuật &amp; Diễn Giải Chi Tiết</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><code>FSN (CEC)</code></td>
+                    <td><strong>Số thứ tự tàu trong đội bay của Vietjet</strong> (Fleet Serial Number / Customer Effectivity Code). Ví dụ: 001, 002, 051, 101... Đây là mã định danh chính thức dùng để quản lý hiệu lực cấu hình trong dữ liệu IPC.</td>
+                  </tr>
+                  <tr>
+                    <td><code>MSN</code></td>
+                    <td><strong>Số serial do hãng sản xuất (Airbus) gán cho tàu</strong> (Manufacturer Serial Number). Ví dụ: 0974, 1165, 08412... Mỗi tàu bay có duy nhất một số MSN xuất xưởng.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Registration</code></td>
+                    <td><strong>Số đăng ký quốc tịch tàu bay</strong> (ví dụ: VN-A811, VN-A650). Giá trị <code>n/a</code> nghĩa là IPC gốc của Airbus không ghi số đăng ký (thường là các tàu đang giao hoặc chưa đăng bạ).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Model</code></td>
+                    <td><strong>Loại tàu bay / Biến thể chính thức</strong> theo chứng chỉ kiểu loại Type Certificate (ví dụ: <code>330-343</code>, <code>321-211</code>, <code>321-271N</code>).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Engine</code></td>
+                    <td><strong>Loại động cơ trang bị trên tàu</strong> (ví dụ: <code>CFM56-5B3/P</code>, <code>PW1133G-JM</code>, <code>Trent 772B-60</code>).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Line items effective</code></td>
+                    <td><strong>Số dòng IPC áp dụng cho tàu</strong>: Công thức tự động đếm số dòng trong tab Components có cấu hình lắp đặt áp dụng cho tàu bay đó.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Distinct PN effective</code></td>
+                    <td><strong>Số Part Number khác nhau của tàu</strong>: Công thức đếm số lượng Part Number duy nhất thực tế có lắp trên cấu hình tàu đó.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Tab 3: Components -->
+          <div class="table-card" style="padding:18px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;">
+              <span class="badge" style="background:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.6);color:#fbbf24;font-size:12px;font-weight:700;">
+                TAB 3
+              </span>
+              <strong style="font-size:15px;color:#fff;">Tab Components — Vị Trí Lắp Ráp &amp; Cây Phân Cấp Chi Tiết (Mỗi Dòng là một Vị Trí Lắp)</strong>
+            </div>
+            <div class="table-responsive">
+              <table class="ad-table">
+                <thead>
+                  <tr>
+                    <th style="width:220px;">Tên Cột</th>
+                    <th>Ý Nghĩa Kỹ Thuật &amp; Diễn Giải Chi Tiết</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><code>ATA (ch-sect-unit)</code></td>
+                    <td><strong>Mã hệ thống ATA đầy đủ</strong> (Chương-Mục-Hệ con), ví dụ: <code>32-21-01</code> (Càng trước), <code>24-31-00</code> (Nguồn điện DC).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Chapter</code></td>
+                    <td><strong>Chương ATA</strong> (hai chữ số đầu), ví dụ: 32 (Càng / Landing Gear), 24 (Hệ thống Điện), 52 (Cửa / Doors).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Unit title</code></td>
+                    <td><strong>Tên hệ thống con</strong> hoặc cụm chức năng theo tài liệu bảo dưỡng ATA.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Fig</code></td>
+                    <td><strong>Số Figure (hình vẽ) trong IPC</strong>: Mã số sơ đồ hình vẽ bóc tách chi tiết của cụm thiết bị.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Figure title</code></td>
+                    <td><strong>Tên Figure</strong>: Tiêu đề mô tả của sơ đồ hình vẽ bóc tách linh kiện.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Item</code></td>
+                    <td><strong>Số Item trong Figure</strong>: Số thứ tự đánh dấu vị trí trỏ đến chi tiết trong hình vẽ.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Indent</code></td>
+                    <td><strong>Cấp thụ lề (Indenture Level)</strong>: Thể hiện cây quan hệ phân cấp phụ tùng. Cấp <code>2</code> là chi tiết lắp ráp trực tiếp vào cụm chính, cấp <code>3</code> trở lên là linh kiện con bên trong cụm phụ.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Part number</code></td>
+                    <td><strong>Số hiệu Part Number chính thức của linh kiện</strong> do nhà sản xuất phát hành.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Description (LBL)</code></td>
+                    <td><strong>Mô tả / Nhãn chuẩn của part</strong> (LBL - Line Item Label), ví dụ: <code>SCREW</code>, <code>VALVE</code>, <code>SENSOR-ANGLE OF ATTACK</code>.</td>
+                  </tr>
+                  <tr>
+                    <td><code>MFR code</code></td>
+                    <td><strong>Mã CAGE của nhà sản xuất hoặc nhà cung cấp linh kiện</strong> (ví dụ: F0214, 59885, F9111).</td>
+                  </tr>
+                  <tr>
+                    <td><code>UPA (per parent)</code></td>
+                    <td><strong>Units Per Assembly</strong>: Số lượng linh kiện lắp trên một cụm cha trực tiếp. Ký hiệu <code>AR</code> nghĩa là “As Required” (lắp theo nhu cầu thực tế).</td>
+                  </tr>
+                  <tr>
+                    <td><code>TQA (cumulative)</code></td>
+                    <td><strong>Total Quantity per Aircraft (IPC cumulative)</strong>: Tổng số lượng do hệ thống IPC tự tính cộng dồn qua mọi part thay thế của cha. <em>Lưu ý: Chỉ để đối chiếu hệ thống, không dùng làm số lượng lắp thực tế!</em></td>
+                  </tr>
+                  <tr>
+                    <td><code>Effectivity basis</code></td>
+                    <td><strong>Cách xác định hiệu lực áp dụng</strong>: <code>Item EFFRG</code> (item có dải hiệu lực ghi riêng), <code>Inherited</code> (kế thừa từ cụm cha, figure hoặc unit), <code>Model restriction</code> (giới hạn theo loại biến thể tàu).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Effectivity note</code></td>
+                    <td><strong>Ghi chú hiệu lực đặc biệt</strong>: Ví dụ <code>EFF//ESN</code> (hiệu lực theo serial động cơ, không theo FSN) hoặc <code>USED WITH...</code> (điều kiện lắp kèm chi tiết khác).</td>
+                  </tr>
+                  <tr>
+                    <td><code>Các cột tàu (VN-xxxx / MSN / FSN)</code></td>
+                    <td><strong>Số lượng lắp đặt trên từng tàu bay cụ thể</strong>. Được tính bằng UPA nhân với UPA của các cấp cha. Ô trống nghĩa là linh kiện không áp dụng cho cấu hình tàu đó.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Tab 4: PN_Master -->
+          <div class="table-card" style="padding:18px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;">
+              <span class="badge" style="background:rgba(168,85,247,0.2);border:1px solid rgba(168,85,247,0.6);color:#c084fc;font-size:12px;font-weight:700;">
+                TAB 4
+              </span>
+              <strong style="font-size:15px;color:#fff;">Tab PN_Master — Bảng Danh Mục Part &amp; Quan Hệ Thay Thế Interchange</strong>
+            </div>
+            <p style="font-size:13px;color:var(--text-secondary);line-height:1.55;margin-bottom:12px;">
+              Tab này gồm hai khối cột rõ rệt: <strong>Khối mô tả Part (các cột đầu)</strong> tổng hợp thông tin lắp đặt trên đội bay, và <strong>Khối Interchange (các cột cuối)</strong> xác định quan hệ thay thế, nâng cấp phụ tùng và điều kiện kỹ thuật.
+            </p>
+
+            <h4 style="font-size:14px;font-weight:700;color:#93c5fd;margin-top:14px;margin-bottom:8px;">
+              1. Khối Mô Tả Part (Các Cột Đầu):
+            </h4>
+            <div class="table-responsive">
+              <table class="ad-table">
+                <thead>
+                  <tr>
+                    <th style="width:220px;">Tên Cột</th>
+                    <th>Ý Nghĩa Kỹ Thuật &amp; Diễn Giải Chi Tiết</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><code>Part number, Description, MFR code</code></td>
+                    <td>Thông tin định danh part, mô tả tiêu chuẩn và mã nhà sản xuất CAGE như bên tab Components.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Installed on fleet</code></td>
+                    <td><code>Yes</code> nếu part thực tế đang được lắp trên ít nhất một tàu trong đội bay. <code>No</code> nếu part chỉ là spare dự phòng, hoặc là part cũ bị thay thế bởi part khác.</td>
+                  </tr>
+                  <tr>
+                    <td><code>IPC line items (Components)</code></td>
+                    <td>Số dòng xuất hiện của part này ở tab Components (tổng các vị trí lắp đặt khác nhau trên máy bay).</td>
+                  </tr>
+                  <tr>
+                    <td><code>AR lines (not summed)</code></td>
+                    <td>Số dòng lắp đặt có số lượng là <code>AR</code> (As Required) nên không thể cộng gộp số lượng chính xác vào tổng.</td>
+                  </tr>
+                  <tr>
+                    <td><code>PN row #</code></td>
+                    <td>Số thứ tự dòng của cùng một part. <em>Mẹo kỹ thuật: Lọc bằng 1 để giữ lại mỗi part duy nhất một dòng danh mục!</em></td>
+                  </tr>
+                  <tr>
+                    <td><code>Các cột tàu (VN-xxxx / MSN / FSN)</code></td>
+                    <td>Tổng số lượng của part trên từng tàu cụ thể. Giá trị được lặp lại ở mọi dòng của cùng part đó (không được cộng cả cột).</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <h4 style="font-size:14px;font-weight:700;color:#34d399;margin-top:20px;margin-bottom:8px;">
+              2. Khối Quan Hệ Interchange (Các Cột Cuối):
+            </h4>
+            <div class="table-responsive">
+              <table class="ad-table">
+                <thead>
+                  <tr>
+                    <th style="width:220px;">Tên Cột</th>
+                    <th>Ý Nghĩa Kỹ Thuật &amp; Diễn Giải Chi Tiết</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><code>Relation</code></td>
+                    <td>
+                      <strong>Loại quan hệ thay thế kỹ thuật</strong>:
+                      <ul style="margin:4px 0 0 18px;padding:0;">
+                        <li><code>Replaced by</code>: Part này bị thay thế bởi Interchange PN mới hơn (item level hoặc PN level).</li>
+                        <li><code>Replaces</code>: Part này là mẫu mới, thay thế cho part cũ (older PN).</li>
+                        <li><code>Spare / alternate</code>: Part thay thế tương đương hoặc phụ tùng dự phòng có thể dùng thay thế lẫn nhau.</li>
+                        <li><code>Is spare for</code>: Là linh kiện phụ tùng dự phòng cho một part gốc khác.</li>
+                      </ul>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><code>Interchange PN, Description, MFR</code></td>
+                    <td>Số hiệu Part Number, mô tả tiêu chuẩn và mã nhà sản xuất của linh kiện thay thế hoặc liên quan.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Reason (condition / remark / docs)</code></td>
+                    <td><strong>Điều kiện áp dụng, ghi chú IPC và tài liệu kỹ thuật tham chiếu</strong> (ví dụ Service Bulletin SB, Airworthiness Directive AD). Chuỗi <code>No condition stated in IPC</code> nghĩa là không có điều kiện kỹ thuật đặc biệt nào.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Effectivity (FSN)</code></td>
+                    <td><strong>Dải FSN áp dụng quan hệ thay thế này</strong>. Ghi chú <code>(basic)</code> nghĩa là IPC không quy định dải riêng, lấy theo dải hiệu lực của part gốc.</td>
+                  </tr>
+                  <tr>
+                    <td><code>Location(s)</code></td>
+                    <td><strong>Vị trí lắp đặt chi tiết</strong> (Mã hệ ATA-Figure-Item, ví dụ: <code>32-53-12-01-050</code>). Hiển thị tối đa 4 vị trí kèm ký hiệu <code>+n more</code> nếu lắp ở nhiều vị trí khác.</td>
+                  </tr>
+                  <tr>
+                    <td><code>INC</code></td>
+                    <td><strong>Mã INC (Interchangeability Code)</strong> trong dữ liệu IPC của Airbus. Được giữ nguyên để đối chiếu dữ liệu gốc.</td>
+                  </tr>
+                  <tr>
+                    <td><code>ICY / 1-WAY ICY / 2-WAY ICY</code></td>
+                    <td><strong>InterChangeabilitY (Tính năng hoán đổi phụ tùng)</strong> theo tiêu chuẩn ATA Spec 2200 của Airbus. <code>1-WAY ICY</code> là hoán đổi một chiều (part mới thay thế được part cũ). <code>2-WAY ICY</code> là hoán đổi hai chiều (hai part có thể thay thế qua lại lẫn nhau). Trong giao tiếp kỹ thuật đôi khi viết tắt là ITC (Interchange).</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
     <!-- TAB 5: LIVE CUSTOM SEARCH -->
     <section class="tab-panel" id="tab-live">
       <div class="live-search-hero">
@@ -671,6 +1219,32 @@
       </div>
       <div class="modal-footer no-print">
         <button class="btn btn-outline" id="btnCloseApplianceModalBottom">Đóng</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: IPC PART NUMBER & INTERCHANGE DETAIL -->
+  <div class="modal-backdrop" id="ipcPartDetailModal">
+    <div class="modal-dialog" style="max-width:1040px;">
+      <div class="modal-header">
+        <div style="flex:1 1 0%;min-width:0;">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">
+            <span class="badge" style="background:rgba(168,85,247,0.25);border:1px solid rgba(168,85,247,0.8);color:#d8b4fe;font-weight:700;">
+              📖 CHI TIẾT PHỤ TÙNG IPC &amp; INTERCHANGE
+            </span>
+            <span class="badge badge-standard" id="modalIpcPartMfr">MFR: ---</span>
+            <span class="badge" id="modalIpcPartInstalledBadge">Installed</span>
+          </div>
+          <h2 style="font-size:18px;font-weight:800;color:#fff;" id="modalIpcPartTitle">Part Number</h2>
+          <div style="font-size:13px;color:var(--text-secondary);margin-top:2px;" id="modalIpcPartDesc">Description</div>
+        </div>
+        <button class="btn btn-outline btn-sm no-print" id="btnCloseIpcModal" style="flex-shrink:0;">✕ Đóng</button>
+      </div>
+      <div class="modal-body" id="modalIpcPartBody">
+        <!-- Injected via JS -->
+      </div>
+      <div class="modal-footer no-print">
+        <button class="btn btn-outline" id="btnCloseIpcModalBottom">Đóng</button>
       </div>
     </div>
   </div>
@@ -871,6 +1445,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=30"></script>
+  <script src="app.js?v=51"></script>
 </body>
 </html>

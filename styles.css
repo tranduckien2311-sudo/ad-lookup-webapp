@@ -145,7 +145,8 @@ body {
 .nav-tabs {
   display: flex;
   gap: 4px;
-  overflow-x: auto;
+  overflow: hidden;
+  align-items: center;
 }
 
 .nav-tab {
@@ -533,7 +534,7 @@ body.light-mode .ad-num-cell {
 .status-open { background: var(--accent-blue-soft); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.35); }
 .status-progress { background: var(--accent-amber-soft); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.35); }
 .status-repetitive { background: var(--accent-purple-soft); color: #c4b5fd; border: 1px solid rgba(139, 92, 246, 0.35); }
-.status-closed { background: var(--accent-emerald-soft); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.35); }
+.status-closed { background: transparent !important; color: #34d399; border: none !important; box-shadow: none !important; padding: 0 !important; }
 .status-overdue { background: var(--accent-red-soft); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.5); }
 .status-duesoon { background: var(--accent-amber-soft); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.5); }
 
@@ -1731,32 +1732,34 @@ body.light-mode .btn-admin-logged-in {
 
   #tab-register .ad-table th:nth-child(1),
   #tab-register .ad-table td:nth-child(1) {
-    width: 23%;
+    width: 21%;
   }
 
   #tab-register .ad-table th:nth-child(2),
   #tab-register .ad-table td:nth-child(2) {
-    width: 12%;
+    width: 11%;
   }
 
   #tab-register .ad-table th:nth-child(3),
   #tab-register .ad-table td:nth-child(3) {
-    width: 23%;
+    width: 21%;
   }
 
   #tab-register .ad-table th:nth-child(4),
   #tab-register .ad-table td:nth-child(4) {
-    width: 10%;
+    width: 13.5%;
+    min-width: 135px;
   }
 
   #tab-register .ad-table th:nth-child(5),
   #tab-register .ad-table td:nth-child(5) {
-    width: 9%;
+    width: 11.5%;
+    min-width: 110px;
   }
 
   #tab-register .ad-table th:nth-child(6),
   #tab-register .ad-table td:nth-child(6) {
-    width: 23%;
+    width: 22%;
   }
 
   #tab-register .table-card,
@@ -1837,3 +1840,126 @@ body.light-mode .btn-admin-logged-in {
     word-break: break-word;
   }
 }
+
+/* IPC Parts Table Interactive Rows */
+#tableIpcParts tbody tr.clickable-ipc-row {
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+#tableIpcParts tbody tr.clickable-ipc-row:hover {
+  background: rgba(168, 85, 247, 0.12) !important;
+  box-shadow: inset 4px 0 0 #a855f7;
+}
+
+/* ==========================================================================
+   Responsive Tabs & IPC Table Layout (Fit-in-Frame & Compact Symbols)
+   ========================================================================== */
+.nav-tab {
+  padding: 11px 14px;
+  font-size: 13px;
+  gap: 6px;
+  white-space: nowrap;
+}
+.nav-tab .tab-icon {
+  font-size: 15px;
+  line-height: 1;
+}
+
+@media (max-width: 1380px) {
+  .nav-tab .tab-label {
+    display: none !important;
+  }
+  .nav-tab {
+    padding: 10px 14px;
+    font-size: 16px;
+    gap: 5px;
+  }
+  .nav-tab .tab-count {
+    font-size: 10.5px;
+    padding: 2px 6px;
+  }
+}
+
+/* Guarantee Tables Fit 100% in Viewport Frame Without Horizontal Scroll */
+#tab-ipc .table-responsive {
+  overflow-x: hidden !important;
+  scrollbar-gutter: auto !important;
+  width: 100% !important;
+}
+
+#tableIpcParts {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse;
+}
+
+#tableIpcParts th,
+#tableIpcParts td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 9px 7px;
+  vertical-align: middle;
+}
+
+#tableIpcParts td:nth-child(3) {
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.35;
+}
+
+.col-compact {
+  display: none;
+}
+
+@media (max-width: 1250px) {
+  .col-full {
+    display: none;
+  }
+  .col-compact {
+    display: inline;
+  }
+  #tableIpcParts th,
+  #tableIpcParts td {
+    padding: 8px 4px;
+    font-size: 11.5px;
+  }
+}
+
+/* Modal Table Fit-in-Frame */
+#ipcPartDetailModal .modal-dialog {
+  max-width: min(1140px, 95vw) !important;
+  width: 100%;
+}
+
+#ipcPartDetailModal .table-responsive {
+  overflow-x: hidden !important;
+  scrollbar-gutter: auto !important;
+  width: 100% !important;
+}
+
+#tableIpcModalInterchange,
+#tableIpcModalAds {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+  border-collapse: collapse;
+}
+
+#tableIpcModalInterchange th,
+#tableIpcModalInterchange td,
+#tableIpcModalAds th,
+#tableIpcModalAds td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 8px 6px;
+  vertical-align: top;
+}
+
+#tableIpcModalInterchange td:nth-child(5) {
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.35;
+}
+
+

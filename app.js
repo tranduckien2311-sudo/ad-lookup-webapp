@@ -2390,8 +2390,8 @@
           kw.length > 2 && supList.some((s) => String(s.adNumber).toLowerCase().includes(kw));
 
         const appBadge = isApp
-          ? `<span class="badge status-closed" style="font-size:12px;padding:4px 10px;">✅ Applicable (unverified)</span>`
-          : `<span class="badge status-overdue" style="font-size:12px;padding:4px 10px;background:rgba(148,163,184,0.15);color:#cbd5e1;border-color:#475569;">🚫 NOT APPLICABLE</span>`;
+          ? `<div style="color:#34d399;font-weight:700;font-size:12px;line-height:1.35;white-space:nowrap;">✅ Applicable<br><span style="font-size:11px;font-weight:600;opacity:0.9;">(unverified)</span></div>`
+          : `<span class="badge status-overdue" style="font-size:11px;padding:3px 8px;background:rgba(148,163,184,0.15);color:#cbd5e1;border-color:#475569;">🚫 NOT APPLICABLE</span>`;
 
         const supQuickPdfs = renderSupQuickPdfsHtml(ad, "all");
 
@@ -2842,7 +2842,7 @@
               <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;border-bottom:1px solid var(--border-color);padding-bottom:10px;margin-bottom:12px;">
                 <div style="flex:1;">
                   <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px;">
-                    <span class="badge status-closed" style="font-size:12px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
+                    <span style="color:#34d399;font-weight:700;font-size:12px;display:inline-flex;align-items:center;gap:4px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
                     ${getAuthorityBadge(ad)}
                     <span class="badge badge-superseding">🔗 Cặp AD Song Song (2 dòng ${easaFirst ? "EASA &amp; FAA" : "FAA &amp; EASA"})</span>
                   </div>
@@ -2868,7 +2868,7 @@
               <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;border-bottom:1px solid var(--border-color);padding-bottom:12px;margin-bottom:14px;">
                 <div style="flex:1;">
                   <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px;">
-                    <span class="badge status-closed" style="font-size:12px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
+                    <span style="color:#34d399;font-weight:700;font-size:12px;display:inline-flex;align-items:center;gap:4px;">✅ Applicable (unverified) (${fleetArr.length}/${fleetList.length} TÀU VJC)</span>
                     ${getAuthorityBadge(ad)}
                     <span class="badge badge-standard">Effective: ${escapeHtml(ad.effectiveDate)}</span>
                     <span class="badge badge-standard">Issued: ${escapeHtml(ad.issueDate)}</span>
@@ -2941,7 +2941,7 @@
             <td data-label="FH">${Number(ac.fh).toLocaleString()} FH</td>
             <td data-label="FC">${Number(ac.fc).toLocaleString()} FC</td>
             <td data-label="Base"><strong>${escapeHtml(ac.base || "SGN")}</strong></td>
-            <td data-label="AD áp dụng"><span class="badge status-closed">${appAdsCount} AD Applicable (unverified)</span></td>
+            <td data-label="AD áp dụng"><span style="color:#34d399;font-weight:700;font-size:12px;">${appAdsCount} AD Applicable (unverified)</span></td>
           </tr>
         `;
       })
@@ -3123,8 +3123,22 @@
 
   // Open Detail Modal: Displays 100% Verbatim Text + Official PDF for Current (EASA/FAA side) and any Superseded AD!
   async function openAdModal(adId, supIdx = null, adSide = null) {
-    const ad = adList.find((x) => x.id === adId);
-    if (!ad) return;
+    if (!adId) return;
+    let ad = adList.find((x) => x.id === adId);
+    if (!ad) {
+      const q = String(adId).trim().toLowerCase();
+      ad =
+        adList.find((x) => x.id && x.id.toLowerCase() === q) ||
+        adList.find((x) => x.adNumber && x.adNumber.toLowerCase() === q) ||
+        adList.find((x) => x.officialFaaAd && x.officialFaaAd.toLowerCase() === q) ||
+        adList.find((x) => x.easaAdNumber && x.easaAdNumber.toLowerCase() === q) ||
+        adList.find((x) => x.adNumber && x.adNumber.toLowerCase().includes(q)) ||
+        adList.find((x) => x.id && x.id.toLowerCase().includes(q));
+    }
+    if (!ad) {
+      showToast(`⚠️ Không tìm thấy hồ sơ chi tiết cho AD: ${adId}`);
+      return;
+    }
     const easaFirst = isEasaPrimaryDual(ad);
     const resolvedSide = adSide || (easaFirst ? "easa" : "faa");
     activeAdId = ad.id;
@@ -3166,8 +3180,8 @@
           ? `<span class="badge badge-superseded" style="font-size:12px;">⚠️ ĐANG XEM AD BỊ THAY THẾ (SUPERSEDED BY ${escapeHtml(
               ad.adNumber
             )})</span>`
-          : `<span class="badge ${isApp ? "status-closed" : "status-overdue"}">${escapeHtml(
-              isApp ? "Applicable (unverified)" : "NOT APPLICABLE"
+          : `<span style="color:#34d399;font-weight:700;font-size:12px;display:inline-flex;align-items:center;gap:4px;">${escapeHtml(
+              isApp ? "✅ Applicable (unverified)" : "🚫 NOT APPLICABLE"
             )}</span>`
       }
       ${getAuthorityBadge(ad)}
@@ -3209,71 +3223,120 @@
       ? [...getSupersededItemsForSide(ad, "easa"), ...getSupersededItemsForSide(ad, "faa")]
       : getSupersededItemsForSide(ad, "all");
 
-    const switcherHtml =
-      splitInfo.isDual || supList.length > 0
-        ? `
-        <div class="detail-box" style="border-color:rgba(245,158,11,0.65);background:rgba(15,23,42,0.85);">
-          <div class="label" style="color:#fbbf24;font-size:12px;margin-bottom:8px;">
-            🔗 CHUYỂN ĐỔI XEM PDF &amp; NGUYÊN VĂN (${splitInfo.isDual ? "FAA ↔ EASA" : "HIỆN HÀNH"}${
-              supList.length > 0 ? ` + ${supList.length} AD BỊ SUPERSEDED` : ""
-            }):
+    let switcherHtml = "";
+    if (splitInfo.isDual || supList.length > 0) {
+      const currentSection = `
+        <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+          <div style="display:flex;align-items:center;gap:6px;">
+            <span style="font-size:11.5px;font-weight:700;color:#94a3b8;letter-spacing:0.3px;text-transform:uppercase;">
+              ⚡ VĂN BẢN HIỆN HÀNH ĐANG ÁP DỤNG:
+            </span>
           </div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap;">
+          <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
             ${
               splitInfo.isDual
                 ? (() => {
                     const faaBtn = `<button type="button" class="btn ${
                       isDualFaaView ? "btn-primary" : "btn-outline"
-                    } btn-sm modal-switch-doc-btn" data-sup-idx="" data-ad-side="faa">
-                     🇺🇸 [FAA] ${escapeHtml(splitInfo.faaLabel)} (Eff: ${escapeHtml(ad.effectiveDate)})
+                    } btn-sm modal-switch-doc-btn" data-sup-idx="" data-ad-side="faa" style="${
+                      isDualFaaView
+                        ? "background:#2563eb;border-color:#3b82f6;color:#ffffff;font-weight:700;"
+                        : "border-color:rgba(59,130,246,0.4);color:#93c5fd;"
+                    }">
+                     🇺🇸 [FAA] ${escapeHtml(splitInfo.faaLabel)} <span style="opacity:0.8;font-weight:normal;font-size:11px;">(Eff: ${escapeHtml(ad.effectiveDate)})</span>
                    </button>`;
                     const easaBtn = `<button type="button" class="btn ${
                       isDualEasaView ? "btn-primary" : "btn-outline"
                     } btn-sm modal-switch-doc-btn" data-sup-idx="" data-ad-side="easa" style="${
                       isDualEasaView
-                        ? "background:#059669;border-color:#10b981;"
-                        : "border-color:rgba(16,185,129,0.55);color:#34d399;"
+                        ? "background:#059669;border-color:#10b981;color:#ffffff;font-weight:700;"
+                        : "border-color:rgba(16,185,129,0.45);color:#34d399;"
                     }">
-                     🇪🇺 [EASA] ${escapeHtml(splitInfo.easaLabel)} (Eff: ${escapeHtml(
+                     🇪🇺 [EASA] ${escapeHtml(splitInfo.easaLabel)} <span style="opacity:0.8;font-weight:normal;font-size:11px;">(Eff: ${escapeHtml(
                       ad.easaEffectiveDate || ad.effectiveDate
-                    )})
+                    )})</span>
                    </button>`;
                     return easaFirst ? easaBtn + faaBtn : faaBtn + easaBtn;
                   })()
                 : `<button type="button" class="btn ${
                     !isViewingSup ? "btn-primary" : "btn-outline"
-                  } btn-sm modal-switch-doc-btn" data-sup-idx="" data-ad-side="faa">
+                  } btn-sm modal-switch-doc-btn" data-sup-idx="" data-ad-side="faa" style="${
+                    !isViewingSup
+                      ? "background:#059669;border-color:#10b981;color:#ffffff;font-weight:700;"
+                      : "border-color:rgba(148,163,184,0.4);color:#cbd5e1;"
+                  }">
                      🟢 [HIỆN HÀNH] ${escapeHtml(ad.adNumber)} (Eff: ${escapeHtml(ad.effectiveDate)})
                    </button>`
             }
-            ${modalSupItems
-              .map(({ s, origIdx, displayNum, pdfSide, sideTag }) => {
-                const sidePrefix = sideTag === "easa" ? "🇪🇺 " : sideTag === "faa" ? "🇺🇸 " : "";
-                const targetUrl = pdfSide === "easa" ? getSafeEasaUrl(s) || getSafePdfUrl(s) : getSafePdfUrl(s);
-                return `
-              <button type="button" class="btn ${
-                activeSupIdx === origIdx ? "btn-primary" : "btn-outline"
-              } btn-sm modal-switch-doc-btn" data-sup-idx="${origIdx}" data-ad-side="${
-                  sideTag === "easa" ? "easa" : "faa"
-                }" style="${
-                  activeSupIdx === origIdx
-                    ? "background:#d97706;border-color:#f59e0b;"
-                    : "border-color:rgba(245,158,11,0.55);color:#fde68a;"
-                }">
-                ${sidePrefix}🔴 [SUPERSEDED] ${escapeHtml(displayNum)} (Issued: ${escapeHtml(
-                  s.issuedDate || "Historical"
-                )})
-              </button>
-              <a href="${escapeHtml(
-                targetUrl
-              )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(59,130,246,0.5);color:#60a5fa;">
-                📎 Mở PDF ${escapeHtml(displayNum)} ↗
-              </a>`;
-              })
-              .join("")}
           </div>
-        </div>`
-        : "";
+        </div>
+      `;
+
+      let supersededSection = "";
+      if (modalSupItems.length > 0) {
+        supersededSection = `
+          <div style="margin-top:10px;padding-top:10px;border-top:1px solid rgba(255,255,255,0.08);">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;flex-wrap:wrap;gap:6px;">
+              <span style="color:#fbbf24;font-size:11.5px;font-weight:700;display:inline-flex;align-items:center;gap:5px;">
+                ⚠️ LỊCH SỬ AD BỊ THAY THẾ (SUPERSEDED — ${modalSupItems.length} VĂN BẢN GỐC):
+              </span>
+              <span style="font-size:11px;color:var(--text-muted);">Bấm "Xem nguyên văn" để tải nội dung hoặc xem trực tiếp file PDF</span>
+            </div>
+            <div style="display:flex;flex-direction:column;gap:6px;">
+              ${modalSupItems
+                .map(({ s, origIdx, displayNum, pdfSide, sideTag }) => {
+                  const isCurrentSupViewing = activeSupIdx === origIdx;
+                  const isEasa = sideTag === "easa";
+                  const targetUrl = pdfSide === "easa" ? getSafeEasaUrl(s) || getSafePdfUrl(s) : getSafePdfUrl(s);
+                  return `
+                <div style="display:flex;align-items:center;justify-content:space-between;padding:6px 12px;background:${
+                  isCurrentSupViewing ? "rgba(245,158,11,0.12)" : "rgba(255,255,255,0.03)"
+                };border:1px solid ${
+                    isCurrentSupViewing ? "rgba(245,158,11,0.6)" : "rgba(255,255,255,0.07)"
+                  };border-radius:6px;gap:10px;flex-wrap:wrap;">
+                  <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                    <span class="badge ${isEasa ? "badge-easa" : "badge-faa"}" style="font-size:10.5px;">${
+                      isEasa ? "🇪🇺 EASA" : "🇺🇸 FAA"
+                    }</span>
+                    <strong style="color:${isCurrentSupViewing ? "#fbbf24" : "#e2e8f0"};font-size:12.5px;font-family:monospace;">
+                      ${escapeHtml(displayNum)}
+                    </strong>
+                    <span style="font-size:11.5px;color:var(--text-muted);">
+                      (Ban hành: ${escapeHtml(s.issuedDate || "Historical")})
+                    </span>
+                    <span class="badge badge-superseded" style="font-size:10px;">Bị thay thế</span>
+                  </div>
+                  <div style="display:flex;align-items:center;gap:6px;">
+                    <button type="button" class="btn ${
+                      isCurrentSupViewing ? "btn-primary" : "btn-outline"
+                    } btn-sm modal-switch-doc-btn" data-sup-idx="${origIdx}" data-ad-side="${sideTag}" style="font-size:11.5px;padding:3px 10px;${
+                      isCurrentSupViewing
+                        ? "background:#d97706;border-color:#f59e0b;font-weight:700;"
+                        : "border-color:rgba(245,158,11,0.45);color:#fde68a;"
+                    }">
+                      ${isCurrentSupViewing ? "👁️ Đang xem văn bản" : "👁️ Xem nguyên văn"}
+                    </button>
+                    <a href="${escapeHtml(
+                      targetUrl
+                    )}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="font-size:11.5px;padding:3px 10px;border-color:rgba(59,130,246,0.5);color:#60a5fa;">
+                      📄 File PDF ↗
+                    </a>
+                  </div>
+                </div>`;
+                })
+                .join("")}
+            </div>
+          </div>
+        `;
+      }
+
+      switcherHtml = `
+        <div class="detail-box" style="border-color:rgba(148,163,184,0.25);background:rgba(15,23,42,0.7);padding:12px 14px;border-radius:8px;">
+          ${currentSection}
+          ${supersededSection}
+        </div>
+      `;
+    }
 
     const fleetRows =
       (ad.affectedFleet || []).length > 0
@@ -3512,8 +3575,16 @@
         document.querySelectorAll(".nav-tab").forEach((b) => b.classList.remove("active"));
         document.querySelectorAll(".tab-panel").forEach((p) => p.classList.remove("active"));
         btn.classList.add("active");
-        const target = document.getElementById(btn.getAttribute("data-tab"));
+        const tabId = btn.getAttribute("data-tab");
+        const target = document.getElementById(tabId);
         if (target) target.classList.add("active");
+
+        // Hide top AD summary banner & AD KPI cards on IPC and Part tabs
+        const isPartTab = tabId === "tab-ipc" || tabId === "tab-appliances";
+        const autoPanel = document.getElementById("automationStatusPanel");
+        const kpiGrid = document.getElementById("kpiGrid");
+        if (autoPanel) autoPanel.style.display = isPartTab ? "none" : "";
+        if (kpiGrid) kpiGrid.style.display = isPartTab ? "none" : "";
       });
     });
 
@@ -3953,10 +4024,11 @@ ${bodyRows}
       }
     });
 
-    // KPI Quick Filters
-    document.querySelectorAll(".kpi-card").forEach((card) => {
+    // KPI Quick Filters (Scoped strictly to top AD KPI cards in #kpiGrid)
+    document.querySelectorAll("#kpiGrid .kpi-card").forEach((card) => {
       card.addEventListener("click", () => {
         const qf = card.getAttribute("data-QuickFilter");
+        if (!qf) return;
         if (qf === "FLEET") {
           document.querySelector('.nav-tab[data-tab="tab-fleet"]').click();
           return;
@@ -4158,6 +4230,13 @@ ${bodyRows}
     }
   }
 
+  function getApplianceAdsList(item) {
+    if (!item || !item.matchedAds) return [];
+    if (Array.isArray(item.matchedAds)) return item.matchedAds;
+    if (typeof item.matchedAds === "object" && item.matchedAds.adNumber) return [item.matchedAds];
+    return [];
+  }
+
   function filterAndRenderAppliances() {
     const searchKw = (document.getElementById("filterApplianceSearch")?.value || "").trim().toLowerCase();
     const chapterFilter = document.getElementById("filterApplianceChapter")?.value || "ALL";
@@ -4177,7 +4256,8 @@ ${bodyRows}
         if (searchKw) {
           const matchPn = (item.pn || "").toLowerCase().includes(searchKw);
           const matchDesc = (item.desc || "").toLowerCase().includes(searchKw);
-          const matchAd = (item.matchedAds || []).some(
+          const itemAds = getApplianceAdsList(item);
+          const matchAd = itemAds.some(
             (a) => (a.adNumber || "").toLowerCase().includes(searchKw) || (a.subject || "").toLowerCase().includes(searchKw)
           );
           if (!matchPn && !matchDesc && !matchAd) return false;
@@ -4246,10 +4326,11 @@ ${bodyRows}
 
     tbody.innerHTML = pageItems
       .map((item) => {
+        const itemAds = getApplianceAdsList(item);
         const adHtml =
-          item.matchedAds && item.matchedAds.length > 0
+          itemAds.length > 0
             ? `<div style="display:flex;flex-direction:column;gap:4px;">` +
-              item.matchedAds
+              itemAds
                 .map((a) => {
                   const authBadge = (a.authority || "").includes("EASA")
                     ? `<span class="badge badge-easa" style="font-size:10px;padding:2px 5px;">EASA</span>`
@@ -4421,7 +4502,7 @@ ${bodyRows}
     if (chapEl) chapEl.textContent = item.chapter || "Chưa phân loại";
 
     const planeList = item.planes || [];
-    const adsList = item.matchedAds || [];
+    const adsList = getApplianceAdsList(item);
 
     bodyEl.innerHTML = `
       <div class="detail-grid" style="grid-template-columns:repeat(4,1fr);margin-bottom:14px;">
@@ -4797,10 +4878,1023 @@ ${bodyRows}
         { passive: false }
       );
     });
+    /* ==========================================================================
+     IPC AIRBUS CATALOG & INTERCHANGE MODULE
+     ========================================================================== */
+  const ipcState = {
+    fleet: [],
+    parts: [],
+    totalParts: 0,
+    page: 1,
+    pageSize: 25,
+    isLoading: false,
+    filters: {
+      q: "",
+      family: "ALL",
+      plane: "ALL",
+      relation: "ALL",
+      installed: "ALL",
+      hasAd: "ALL"
+    }
+  };
+
+  async function loadIpcStats() {
+    try {
+      const res = await fetch("/api/ipc/stats");
+      if (!res.ok) return;
+      const stats = await res.json();
+      if (stats.totalParts) {
+        const elTotal = document.getElementById("ipcKpiTotalPn");
+        const elIc = document.getElementById("ipcKpiTotalInterchanges");
+        const elAd = document.getElementById("ipcKpiMatchedAds");
+        const elNav = document.getElementById("navCountIpc");
+        if (elTotal) elTotal.textContent = Number(stats.totalParts).toLocaleString("en-US");
+        if (elIc) elIc.textContent = Number(stats.totalInterchanges).toLocaleString("en-US");
+        if (elAd) elAd.textContent = Number(stats.withAdCount).toLocaleString("en-US");
+        if (elNav) elNav.textContent = Number(stats.totalParts).toLocaleString("en-US");
+      }
+    } catch (e) {
+      console.warn("Could not load IPC stats:", e);
+    }
+  }
+
+  async function fetchIpcParts(page = 1) {
+    if (ipcState.isLoading) return;
+    ipcState.isLoading = true;
+    ipcState.page = page;
+
+    const tbody = document.getElementById("ipcPartsTableBody");
+    const counterText = document.getElementById("ipcPartsCounterText");
+    const pageInfo = document.getElementById("ipcPartsPageInfo");
+
+    if (tbody) {
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="8" style="text-align:center;padding:32px;color:var(--text-muted);">
+            <div style="display:inline-block;animation:spin 1s linear infinite;margin-right:8px;">⏳</div>
+            Đang tra cứu dữ liệu phụ tùng IPC (114,648 linh kiện & 137,832 quan hệ thay thế)...
+          </td>
+        </tr>
+      `;
+    }
+
+    try {
+      const params = new URLSearchParams({
+        q: ipcState.filters.q,
+        family: ipcState.filters.family,
+        plane: ipcState.filters.plane,
+        relation: ipcState.filters.relation,
+        installed: ipcState.filters.installed,
+        hasAd: ipcState.filters.hasAd,
+        page: page,
+        pageSize: ipcState.pageSize
+      });
+
+      const res = await fetch(`/api/ipc/search?${params.toString()}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+
+      ipcState.parts = data.items || [];
+      ipcState.totalParts = data.total || 0;
+
+      renderIpcPartsTable(ipcState.parts);
+
+      const totalPages = Math.ceil(ipcState.totalParts / ipcState.pageSize) || 1;
+      if (pageInfo) {
+        pageInfo.textContent = `Trang ${page} / ${totalPages} (Tổng số ${Number(ipcState.totalParts).toLocaleString("en-US")} phụ tùng • ${data.elapsedMs || 0}ms)`;
+      }
+      if (counterText) {
+        counterText.textContent = `Tìm thấy ${Number(ipcState.totalParts).toLocaleString("en-US")} kết quả`;
+      }
+
+      const btnPrev = document.getElementById("btnIpcPrevPage");
+      const btnNext = document.getElementById("btnIpcNextPage");
+      if (btnPrev) btnPrev.disabled = page <= 1;
+      if (btnNext) btnNext.disabled = page >= totalPages;
+    } catch (err) {
+      console.error("Error fetching IPC parts:", err);
+      if (tbody) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="8" style="text-align:center;padding:24px;color:#fca5a5;">
+              ❌ Không thể tải danh sách phụ tùng: ${escapeHtml(err.message)}
+            </td>
+          </tr>
+        `;
+      }
+    } finally {
+      ipcState.isLoading = false;
+    }
+  }
+
+  function isStrict1WayReason(reason) {
+    if (!reason) return false;
+    const r = reason.toUpperCase();
+    // Nếu có dấu hiệu cho phép thay thế 2 chiều hoặc có điều kiện đảo chiều (TWO WAY, BUT IF, ONLY IF, CAN REPLACE...IF, v.v.)
+    const has2WaySignal = r.includes("TWO WAY") || r.includes("2-WAY") || r.includes("2 WAY") ||
+                          r.includes("BUT IF") || r.includes("ONLY IF") ||
+                          (r.includes("CAN REPLACE") && r.includes(" IF "));
+    if (has2WaySignal) return false;
+    // Chỉ coi là 1-Way khi cấm tuyệt đối / chỉ 1 chiều không có điều kiện đảo lại
+    return r.includes("ONE WAY") || r.includes("1-WAY") || r.includes("1 WAY") || 
+           r.includes("CANNOT REPLACE") || r.includes("NOT INTERCHANGEABLE");
+  }
+
+  function renderIpcPartsTable(items) {
+    const tbody = document.getElementById("ipcPartsTableBody");
+    if (!tbody) return;
+
+    if (!items || items.length === 0) {
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="8" style="text-align:center;padding:32px;color:var(--text-muted);">
+            Không tìm thấy Part Number nào khớp với điều kiện tìm kiếm.
+          </td>
+        </tr>
+      `;
+      return;
+    }
+
+    const html = items.map((p) => {
+      const installedBadge = p.installed
+        ? `<span class="badge badge-success" style="font-size:10px;padding:1px 5px;font-weight:700;">✅ Active (${p.planeCount || 0})</span>`
+        : `<span class="badge" style="font-size:10px;padding:1px 5px;background:rgba(255,255,255,0.08);color:var(--text-muted);">🚫 Spare</span>`;
+
+      const famBadges = (p.families || [])
+        .map((f) => {
+          let col = "#93c5fd";
+          let bg = "rgba(59,130,246,0.18)";
+          if (f === "A330") { col = "#d8b4fe"; bg = "rgba(168,85,247,0.2)"; }
+          else if (f === "A321neo") { col = "#34d399"; bg = "rgba(16,185,129,0.2)"; }
+          return `<span class="badge" style="background:${bg};color:${col};font-size:11px;padding:2px 6px;margin:2px 2px 2px 0;">${escapeHtml(f)}</span>`;
+        })
+        .join("");
+
+      // Render interchange summary (Grouped by 2-Way / 1-Way)
+      let icHtml = `<span style="color:var(--text-muted);font-size:12px;">Không có</span>`;
+      if (p.interchanges && p.interchanges.length > 0) {
+        const icMap = new Map();
+        for (const ic of p.interchanges) {
+          const k = (ic.icPn || "").trim().toUpperCase();
+          if (!k) continue;
+          if (!icMap.has(k)) icMap.set(k, []);
+          icMap.get(k).push(ic);
+        }
+
+        const mergedSummary = [];
+        for (const [k, grp] of icMap.entries()) {
+          let hasExplicit1WayReason = false;
+          for (const it of grp) {
+            if (isStrict1WayReason(it.reason)) {
+              hasExplicit1WayReason = true;
+              break;
+            }
+          }
+          const is2Way = !hasExplicit1WayReason; // Không cấm tuyệt đối thì đều là 2-Way (hoặc có điều kiện)
+          mergedSummary.push({
+            is2Way: is2Way,
+            icPn: grp[0].icPn
+          });
+        }
+
+        const topIc = mergedSummary.slice(0, 2);
+        const lines = topIc.map((ic) => {
+          const tag = ic.is2Way ? "↔️ 2-Way" : "➡️ 1-Way";
+          const tagCol = ic.is2Way ? "#34d399" : "#fbbf24";
+          const tagBg = ic.is2Way ? "rgba(16,185,129,0.18)" : "rgba(234,179,8,0.18)";
+          const tagBorder = ic.is2Way ? "rgba(16,185,129,0.4)" : "rgba(234,179,8,0.4)";
+
+          return `
+            <div style="font-size:12px;margin-bottom:3px;line-height:1.35;display:flex;align-items:center;gap:6px;">
+              <span class="badge" style="background:${tagBg};border:1px solid ${tagBorder};color:${tagCol};font-size:10.5px;font-weight:700;padding:1px 5px;">${tag}</span>
+              <code style="color:#fff;font-weight:700;">${escapeHtml(ic.icPn)}</code>
+            </div>
+          `;
+        });
+        if (mergedSummary.length > 2) {
+          lines.push(`<span style="font-size:11px;color:#c084fc;">+${mergedSummary.length - 2} part thay thế khác...</span>`);
+        }
+        icHtml = lines.join("");
+      }
+
+      // Render AD link
+      let adHtml = `<span style="color:var(--text-muted);font-size:12px;">---</span>`;
+      if (p.matchedAds && p.matchedAds.length > 0) {
+        const adItems = p.matchedAds.slice(0, 2).map((a) => {
+          const isEasa = a.auth === "EASA";
+          const flag = isEasa ? "🇪🇺" : "🇺🇸";
+          const col = isEasa ? "#34d399" : "#93c5fd";
+          return `
+            <div style="font-size:12px;margin-bottom:2px;">
+              <span style="color:${col};font-weight:700;">${flag} ${escapeHtml(a.num)}</span>
+            </div>
+          `;
+        });
+        if (p.matchedAds.length > 2) {
+          adItems.push(`<span style="font-size:11px;color:#fbbf24;font-weight:600;">+${p.matchedAds.length - 2} AD khác</span>`);
+        }
+        adHtml = adItems.join("");
+      }
+
+      return `
+        <tr class="clickable-ipc-row" data-pn="${escapeHtml(p.pn)}" title="Nhấp vào để xem đầy đủ cấu hình lắp & quan hệ thay thế của Part: ${escapeHtml(p.pn)}">
+          <td>
+            <div style="display:flex;flex-direction:column;gap:3px;">
+              <code style="font-size:13.5px;font-weight:800;color:#c084fc;">${escapeHtml(p.pn)}</code>
+              <div>${installedBadge}</div>
+            </div>
+          </td>
+          <td>
+            ${p.ipcRef ? `
+              <div style="display:flex;flex-direction:column;gap:2px;">
+                <code style="font-size:11.5px;font-weight:700;color:#67e8f9;background:rgba(6,182,212,0.12);padding:2px 6px;border-radius:4px;border:1px solid rgba(6,182,212,0.3);display:inline-block;max-width:fit-content;">${escapeHtml(p.ipcRef)}</code>
+                ${p.ipcRefs && p.ipcRefs.length > 1 ? `<span style="font-size:10.5px;color:var(--text-muted);">+${p.ipcRefs.length - 1} vị trí</span>` : ""}
+              </div>
+            ` : `<span style="color:var(--text-muted);font-size:12px;">---</span>`}
+          </td>
+          <td>
+            <div style="font-weight:600;font-size:13px;color:#fff;">${escapeHtml(p.desc || "---")}</div>
+          </td>
+          <td style="text-align:center;">
+            <span class="badge badge-standard" style="font-size:11px;padding:2px 5px;">${escapeHtml(p.mfr || "---")}</span>
+          </td>
+          <td style="text-align:center;">${famBadges}</td>
+          <td>
+            <div style="font-size:11.5px;line-height:1.35;">
+              <div>Lines: <strong>${p.lineItems || 0}</strong></div>
+              <div style="color:var(--text-secondary);font-size:10.5px;">Fleet: <strong>${p.planeCount || 0} A/C</strong></div>
+            </div>
+          </td>
+          <td>${icHtml}</td>
+          <td>${adHtml}</td>
+        </tr>
+      `;
+    }).join("");
+
+    tbody.innerHTML = html;
+
+    // Attach click listeners to entire rows
+    tbody.querySelectorAll(".clickable-ipc-row").forEach((row) => {
+      row.addEventListener("click", () => {
+        const pn = row.getAttribute("data-pn");
+        if (pn) openIpcDetailModal(pn);
+      });
+    });
+  }
+
+  window.openIpcDetailModal = openIpcDetailModal;
+  async function openIpcDetailModal(pn) {
+    window.openIpcDetailModal = openIpcDetailModal;
+    const modal = document.getElementById("ipcPartDetailModal");
+    const elTitle = document.getElementById("modalIpcPartTitle");
+    const elDesc = document.getElementById("modalIpcPartDesc");
+    const elMfr = document.getElementById("modalIpcPartMfr");
+    const elBadge = document.getElementById("modalIpcPartInstalledBadge");
+    const elBody = document.getElementById("modalIpcPartBody");
+
+    if (!modal || !elBody) return;
+
+    modal.classList.add("open");
+    elTitle.textContent = pn;
+    elDesc.textContent = "Đang tải dữ liệu chi tiết cấu hình lắp và quan hệ interchange...";
+    elBody.innerHTML = `
+      <div style="text-align:center;padding:40px;color:var(--text-muted);">
+        <div style="display:inline-block;animation:spin 1s linear infinite;margin-right:8px;">⏳</div>
+        Đang tra cứu cơ sở dữ liệu IPC cho Part Number ${escapeHtml(pn)}...
+      </div>
+    `;
+
+    try {
+      const res = await fetch(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const part = await res.json();
+
+      if (!part) {
+        elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Không tìm thấy thông tin chi tiết cho Part Number ${escapeHtml(pn)}.</div>`;
+        return;
+      }
+
+      elTitle.textContent = part.pn;
+      elDesc.textContent = part.desc || "Không có mô tả";
+      if (elMfr) elMfr.textContent = `MFR: ${part.mfr || "---"}`;
+
+      if (elBadge) {
+        if (part.installed) {
+          elBadge.className = "badge badge-success";
+          elBadge.textContent = `✅ Đã lắp trên đội bay (${part.planeCount || 0} tàu)`;
+        } else {
+          elBadge.className = "badge";
+          elBadge.style.background = "rgba(255,255,255,0.08)";
+          elBadge.style.color = "var(--text-muted)";
+          elBadge.textContent = "🚫 Chưa lắp / Phụ tùng spare";
+        }
+      }
+
+      // Build Interchange Table (Unified into 2-Way / 1-Way Interchange)
+      let icRows = `<tr><td colspan="7" style="text-align:center;padding:16px;color:var(--text-muted);">Không có dữ liệu thay thế (Interchange) trong IPC.</td></tr>`;
+      let distinctIcCount = 0;
+      if (part.interchanges && part.interchanges.length > 0) {
+        // Group by interchange part number (icPn) to unify 2-Way / 1-Way relations
+        const groups = new Map();
+        for (const ic of part.interchanges) {
+          const pnKey = (ic.icPn || "").trim().toUpperCase();
+          if (!pnKey) continue;
+          if (!groups.has(pnKey)) groups.set(pnKey, []);
+          groups.get(pnKey).push(ic);
+        }
+
+        const mergedList = [];
+        for (const [pnKey, group] of groups.entries()) {
+          let hasExplicit1WayReason = false;
+          const reasons = new Set();
+          const locations = new Set();
+          let desc = "";
+          let mfr = "";
+          let incCode = "";
+
+          for (const item of group) {
+            const inc = (item.inc || "").trim();
+            const reason = (item.reason || "").trim();
+            const loc = (item.loc || "").trim();
+            const rUpper = reason.toUpperCase();
+
+            // Chỉ coi là 1-Way khi có lý do kỹ thuật cấm tuyệt đối 1 chiều (không có điều kiện đảo ngược)
+            if (isStrict1WayReason(reason)) {
+              hasExplicit1WayReason = true;
+            }
+
+            if (!incCode && inc) incCode = inc;
+            if (!desc && item.icDesc) desc = item.icDesc;
+            if (!mfr && item.icMfr) mfr = item.icMfr;
+            if (reason && reason !== "No condition stated in IPC" && !reason.toLowerCase().includes("reverse of a spare")) {
+              reasons.add(reason);
+            }
+            if (loc && loc !== "---") {
+              loc.split(/,\s*/).forEach(l => { if (l.trim()) locations.add(l.trim()); });
+            }
+          }
+
+          // Không có lý do rõ ràng thì đều là 2-Way Interchange
+          const is2Way = !hasExplicit1WayReason;
+
+          let finalRel = is2Way ? "2-Way" : "1-Way";
+          let finalReason = Array.from(reasons).join(" | ");
+          if (!finalReason) {
+            finalReason = "No restriction stated in IPC";
+          }
+          let finalLoc = Array.from(locations).join(", ");
+
+          mergedList.push({
+            is2Way: is2Way,
+            rel: finalRel,
+            icPn: group[0].icPn,
+            icDesc: desc || group[0].icDesc,
+            icMfr: mfr || group[0].icMfr,
+            reason: finalReason,
+            loc: finalLoc || "---",
+            inc: incCode ? `${incCode} (${is2Way ? "2-Way" : "1-Way"})` : (is2Way ? "2-WAY" : "1-WAY")
+          });
+        }
+
+        distinctIcCount = mergedList.length;
+
+        icRows = mergedList.map((ic) => {
+          const badgeBg = ic.is2Way ? "rgba(16,185,129,0.18)" : "rgba(234,179,8,0.18)";
+          const badgeBorder = ic.is2Way ? "rgba(16,185,129,0.45)" : "rgba(234,179,8,0.45)";
+          const badgeColor = ic.is2Way ? "#34d399" : "#fbbf24";
+          const icon = ic.is2Way ? "↔️" : "➡️";
+
+          return `
+            <tr>
+              <td style="vertical-align:top;">
+                <span class="badge" style="background:${badgeBg};border:1px solid ${badgeBorder};color:${badgeColor};font-size:11.5px;font-weight:800;padding:3px 7px;white-space:nowrap;">
+                  ${icon} ${escapeHtml(ic.rel)}
+                </span>
+              </td>
+              <td style="vertical-align:top;">
+                <code style="font-size:13px;font-weight:800;color:#c084fc;">${escapeHtml(ic.icPn)}</code>
+              </td>
+              <td style="font-size:12px;vertical-align:top;font-weight:600;color:#fff;">${escapeHtml(ic.icDesc || "---")}</td>
+              <td style="font-size:11.5px;vertical-align:top;"><span class="badge badge-standard">${escapeHtml(ic.icMfr || "---")}</span></td>
+              <td style="font-size:11.5px;color:var(--text-secondary);word-break:break-word;vertical-align:top;line-height:1.35;">
+                ${escapeHtml(ic.reason)}
+              </td>
+              <td style="font-size:11px;text-align:center;vertical-align:top;">
+                <span class="badge" style="background:rgba(255,255,255,0.06);font-size:11px;font-weight:700;">${escapeHtml(ic.inc)}</span>
+              </td>
+            </tr>
+          `;
+        }).join("");
+      }
+
+      // Build Matched ADs Table
+      let adRows = `<tr><td colspan="4" style="text-align:center;padding:16px;color:var(--text-muted);">Part Number này hiện không có Airworthiness Directive (AD) nào quy định trực tiếp.</td></tr>`;
+      if (part.matchedAds && part.matchedAds.length > 0) {
+        adRows = part.matchedAds.map((a) => {
+          const isEasa = a.auth === "EASA";
+          const flag = isEasa ? "🇪🇺 EASA" : "🇺🇸 FAA";
+          return `
+            <tr>
+              <td>
+                <strong style="color:${isEasa ? "#34d399" : "#93c5fd"};font-size:13px;">
+                  ${escapeHtml(a.num)}
+                </strong>
+              </td>
+              <td><span class="badge badge-standard">${flag}</span></td>
+              <td style="font-size:12px;">${escapeHtml(a.eff || "---")}</td>
+              <td>
+                <button class="btn btn-outline btn-sm btn-open-ad-from-ipc" data-adid="${escapeHtml(a.id)}" style="font-size:11.5px;padding:3px 8px;">
+                  🔍 Xem Hồ Sơ AD
+                </button>
+              </td>
+            </tr>
+          `;
+        }).join("");
+      }
+
+      // Build Planes List
+      let planesHtml = `<span style="color:var(--text-muted);font-size:12.5px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
+      const allPlanes = (part.planes && part.planes.length > 0) ? part.planes : (part.samplePlanes || []);
+      if (allPlanes.length > 0) {
+        const pBadges = allPlanes.map(p => `
+          <span class="badge" style="background:rgba(59,130,246,0.18);border:1px solid rgba(59,130,246,0.45);color:#93c5fd;font-size:12px;padding:3px 8px;">
+            ✈️ ${escapeHtml(p)}
+          </span>
+        `).join("");
+        planesHtml = `
+          <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;max-height:120px;overflow-y:auto;padding:6px;background:rgba(255,255,255,0.02);border-radius:6px;">
+            ${pBadges}
+          </div>
+        `;
+      }
+
+      // Build IPC References List
+      let refsHtml = `<span style="color:var(--text-muted);font-size:12.5px;">Chưa có dữ liệu vị trí IPC trong cơ sở dữ liệu.</span>`;
+      const allRefs = (part.ipcRefs && part.ipcRefs.length > 0) ? part.ipcRefs : (part.ipcRef ? [part.ipcRef] : []);
+      if (allRefs.length > 0) {
+        const rBadges = allRefs.map(r => `
+          <code style="background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.4);color:#67e8f9;font-size:12px;font-weight:700;padding:3px 8px;border-radius:4px;">
+            📍 ${escapeHtml(r)}
+          </code>
+        `).join("");
+        refsHtml = `
+          <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;max-height:100px;overflow-y:auto;padding:6px;background:rgba(255,255,255,0.02);border-radius:6px;">
+            ${rBadges}
+          </div>
+        `;
+      }
+
+      elBody.innerHTML = `
+        <div style="display:flex;flex-direction:column;gap:18px;">
+          
+          <!-- Summary Grid -->
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;background:rgba(255,255,255,0.03);padding:14px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);">
+            <div>
+              <div style="font-size:11.5px;color:var(--text-secondary);">Dòng Tàu Áp Dụng</div>
+              <div style="font-size:13.5px;font-weight:700;color:#fff;margin-top:2px;">
+                ${(part.families || []).join(", ") || "---"}
+              </div>
+            </div>
+            <div>
+              <div style="font-size:11.5px;color:var(--text-secondary);">Số Vị Trí Lắp (Line Items)</div>
+              <div style="font-size:13.5px;font-weight:700;color:#c084fc;margin-top:2px;">
+                ${part.lineItems || 0} dòng trong Components
+              </div>
+            </div>
+            <div>
+              <div style="font-size:11.5px;color:var(--text-secondary);">Số Lượng Part Thay Thế</div>
+              <div style="font-size:13.5px;font-weight:700;color:#34d399;margin-top:2px;">
+                ${distinctIcCount || part.interchangeCount || 0} Part thay thế (2-Way / 1-Way)
+              </div>
+            </div>
+            <div>
+              <div style="font-size:11.5px;color:var(--text-secondary);">Số Hồ Sơ AD Khớp</div>
+              <div style="font-size:13.5px;font-weight:700;color:#fbbf24;margin-top:2px;">
+                ${part.adCount || 0} Airworthiness Directives
+              </div>
+            </div>
+          </div>
+
+          <!-- Section 0: IPC Reference -->
+          <div>
+            <h4 style="font-size:14px;font-weight:700;color:#67e8f9;margin-bottom:8px;">
+              📍 Vị Trí Tra Cứu IPC (IPC Reference / ATA - Figure - Item)
+            </h4>
+            ${refsHtml}
+          </div>
+
+          <!-- Section 1: Aircraft Installation -->
+          <div>
+            <h4 style="font-size:14px;font-weight:700;color:#93c5fd;margin-bottom:8px;">
+              ✈️ Danh Sách Tàu Bay Lắp Đặt Trên Đội Bay VJC (${part.planeCount || 0} tàu)
+            </h4>
+            ${planesHtml}
+          </div>
+
+          <!-- Section 2: Interchange Relationships -->
+          <div>
+            <h4 style="font-size:14px;font-weight:700;color:#c084fc;margin-bottom:8px;">
+              🔄 Bảng Quan Hệ Thay Thế (Interchange Relationships) Trong IPC
+            </h4>
+            <div class="table-responsive" style="max-height:280px;overflow-y:auto;border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
+              <table class="ad-table" id="tableIpcModalInterchange">
+                <thead>
+                  <tr>
+                    <th style="width:14%;" title="Interchange Relationship">
+                      <span class="col-full">Relation</span><span class="col-compact">Rel</span>
+                    </th>
+                    <th style="width:20%;" title="Interchange Part Number">
+                      <span class="col-full">Interchange P/N</span><span class="col-compact">Part #</span>
+                    </th>
+                    <th style="width:22%;" title="Description">
+                      <span class="col-full">Description</span><span class="col-compact">Desc</span>
+                    </th>
+                    <th style="width:8%;" title="Manufacturer Code">MFR</th>
+                    <th style="width:29%;" title="Condition / Technical Reason">
+                      <span class="col-full">Condition / Reason</span><span class="col-compact">Reason</span>
+                    </th>
+                    <th style="width:7%;text-align:center;" title="Interchangeability Code">INC</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${icRows}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Section 3: Matched ADs -->
+          <div>
+            <h4 style="font-size:14px;font-weight:700;color:#fbbf24;margin-bottom:8px;">
+              ⚠️ Airworthiness Directives (AD) Related to Part Number &amp; Interchange
+            </h4>
+            <div class="table-responsive" style="border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
+              <table class="ad-table" id="tableIpcModalAds">
+                <thead>
+                  <tr>
+                    <th style="width:28%;">AD Number</th>
+                    <th style="width:18%;">Authority</th>
+                    <th style="width:34%;">Effective Date</th>
+                    <th style="width:20%;text-align:center;">Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${adRows}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+        </div>
+      `;
+
+      // Wire AD click handlers in modal
+      elBody.querySelectorAll(".btn-open-ad-from-ipc").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const adId = btn.getAttribute("data-adid");
+          if (adId && typeof openAdModal === "function") {
+            if (modal) modal.classList.remove("open");
+            openAdModal(adId);
+          }
+        });
+      });
+    } catch (err) {
+      elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Lỗi khi tải chi tiết phụ tùng: ${escapeHtml(err.message)}</div>`;
+    }
+  }
+
+  async function fetchIpcFleet() {
+    const tbody = document.getElementById("ipcFleetTableBody");
+    const counterText = document.getElementById("ipcFleetCounterText");
+    if (!tbody) return;
+
+    if (ipcState.fleet && ipcState.fleet.length > 0) {
+      renderIpcFleetTable(ipcState.fleet);
+      return;
+    }
+
+    tbody.innerHTML = `
+      <tr>
+        <td colspan="8" style="text-align:center;padding:24px;color:var(--text-muted);">
+          <div style="display:inline-block;animation:spin 1s linear infinite;margin-right:8px;">⏳</div>
+          Đang tải danh sách 146 cấu hình tàu bay trong IPC...
+        </td>
+      </tr>
+    `;
+
+    try {
+      const res = await fetch("/api/ipc/fleet");
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      ipcState.fleet = Array.isArray(data) ? data : [];
+      renderIpcFleetTable(ipcState.fleet);
+      if (counterText) {
+        counterText.textContent = `Hiển thị ${ipcState.fleet.length} cấu hình tàu bay`;
+      }
+    } catch (err) {
+      console.error("Error fetching IPC fleet:", err);
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="8" style="text-align:center;padding:24px;color:#fca5a5;">
+            Không thể tải danh sách đội bay IPC: ${escapeHtml(err.message)}
+          </td>
+        </tr>
+      `;
+    }
+  }
+
+  function renderIpcFleetTable(fleetList) {
+    const tbody = document.getElementById("ipcFleetTableBody");
+    const searchInput = document.getElementById("ipcFleetSearchInput");
+    const familySelect = document.getElementById("filterIpcFleetFamily");
+    if (!tbody) return;
+
+    const q = searchInput ? searchInput.value.trim().toUpperCase() : "";
+    const fam = familySelect ? familySelect.value : "ALL";
+
+    const filtered = (fleetList || []).filter((f) => {
+      const family = f.family || f.Family;
+      if (fam !== "ALL" && family !== fam) return false;
+      if (q) {
+        const text = `${f.fsn || f.Fsn} ${f.msn || f.Msn} ${f.reg || f.Registration} ${f.model || f.Model} ${f.engine || f.Engine} ${family}`.toUpperCase();
+        if (text.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+
+    if (filtered.length === 0) {
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="8" style="text-align:center;padding:24px;color:var(--text-muted);">
+            Không tìm thấy tàu bay nào khớp với điều kiện lọc.
+          </td>
+        </tr>
+      `;
+      return;
+    }
+
+    tbody.innerHTML = filtered.map((f) => {
+      const family = f.family || f.Family;
+      let famColor = "#93c5fd";
+      let famBg = "rgba(59,130,246,0.18)";
+      if (family === "A330") { famColor = "#d8b4fe"; famBg = "rgba(168,85,247,0.2)"; }
+      else if (family === "A321neo") { famColor = "#34d399"; famBg = "rgba(16,185,129,0.2)"; }
+
+      const regVal = f.reg || f.Registration;
+      const isNa = regVal === "n/a" || !regVal;
+      const regHtml = isNa
+        ? `<span style="color:var(--text-muted);font-style:italic;">n/a (chưa đăng bạ)</span>`
+        : `<strong style="color:#60a5fa;font-size:13.5px;">✈️ ${escapeHtml(regVal)}</strong>`;
+
+      return `
+        <tr>
+          <td><code style="font-weight:800;color:#fff;">${escapeHtml(f.fsn || f.Fsn || "---")}</code></td>
+          <td><strong style="color:#fbbf24;">${escapeHtml(f.msn || f.Msn || "---")}</strong></td>
+          <td>${regHtml}</td>
+          <td><span class="badge badge-standard">${escapeHtml(f.model || f.Model || "---")}</span></td>
+          <td style="font-size:12.5px;">${escapeHtml(f.engine || f.Engine || "---")}</td>
+          <td style="text-align:right;font-weight:700;color:#c084fc;">
+            ${Number(f.lineItemsEffective || f.LineItemsEffective || 0).toLocaleString("en-US")}
+          </td>
+          <td style="text-align:right;font-weight:700;color:#34d399;">
+            ${Number(f.distinctPnEffective || f.DistinctPnEffective || 0).toLocaleString("en-US")}
+          </td>
+          <td>
+            <span class="badge" style="background:${famBg};color:${famColor};font-size:11.5px;">
+              ${escapeHtml(family || "---")}
+            </span>
+          </td>
+        </tr>
+      `;
+    }).join("");
+  }
+
+  function exportIpcPartsCsv() {
+    if (!ipcState.parts || ipcState.parts.length === 0) {
+      showToast("Không có dữ liệu phụ tùng để xuất CSV.");
+      return;
+    }
+
+    const headers = [
+      "Part Number",
+      "IPC Reference",
+      "All IPC References",
+      "Description",
+      "MFR",
+      "Installed on Fleet",
+      "Families",
+      "Line Items Effective",
+      "Plane Count",
+      "Sample Planes",
+      "Interchange Count",
+      "Interchanges Details",
+      "AD Count",
+      "Matched ADs"
+    ];
+
+    const rows = ipcState.parts.map((p) => {
+      const icDetail = (p.interchanges || []).map(ic => `${ic.rel}: ${ic.icPn} (${ic.reason || ""})`).join(" | ");
+      const adDetail = (p.matchedAds || []).map(a => `${a.auth} ${a.num}`).join(" | ");
+      return [
+        `"${(p.pn || "").replace(/"/g, '""')}"`,
+        `"${(p.ipcRef || "").replace(/"/g, '""')}"`,
+        `"${((p.ipcRefs || []).join(", ")).replace(/"/g, '""')}"`,
+        `"${(p.desc || "").replace(/"/g, '""')}"`,
+        `"${(p.mfr || "").replace(/"/g, '""')}"`,
+        p.installed ? "Yes" : "No",
+        `"${(p.families || []).join(", ")}"`,
+        p.lineItems || 0,
+        p.planeCount || 0,
+        `"${(p.samplePlanes || []).join(", ")}"`,
+        p.interchangeCount || 0,
+        `"${icDetail.replace(/"/g, '""')}"`,
+        p.adCount || 0,
+        `"${adDetail.replace(/"/g, '""')}"`
+      ];
+    });
+
+    const csvContent = "\uFEFF" + [headers.join(","), ...rows.map(r => r.join(","))].join("\r\n");
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `VJC_IPC_Parts_Page${ipcState.page}_${new Date().toISOString().slice(0, 10)}.csv`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+    showToast("✅ Đã xuất danh sách phụ tùng IPC ra file CSV thành công!");
+  }
+
+  function initIpcModule() {
+    // 1. Sub-tab switching inside IPC panel
+    const btnSubParts = document.getElementById("btnIpcSubParts");
+    const btnSubFleet = document.getElementById("btnIpcSubFleet");
+    const btnSubGuide = document.getElementById("btnIpcSubGuide");
+    const panelParts = document.getElementById("ipcSubPanelParts");
+    const panelFleet = document.getElementById("ipcSubPanelFleet");
+    const panelGuide = document.getElementById("ipcSubPanelGuide");
+
+    function switchIpcSubTab(activeBtn, activePanel) {
+      [btnSubParts, btnSubFleet, btnSubGuide].forEach((b) => b && b.classList.remove("active"));
+      [panelParts, panelFleet, panelGuide].forEach((p) => p && (p.style.display = "none"));
+      if (activeBtn) activeBtn.classList.add("active");
+      if (activePanel) activePanel.style.display = "block";
+    }
+
+    if (btnSubParts) {
+      btnSubParts.addEventListener("click", () => {
+        switchIpcSubTab(btnSubParts, panelParts);
+        if (ipcState.parts.length === 0) fetchIpcParts(1);
+      });
+    }
+
+    if (btnSubFleet) {
+      btnSubFleet.addEventListener("click", () => {
+        switchIpcSubTab(btnSubFleet, panelFleet);
+        fetchIpcFleet();
+      });
+    }
+
+    if (btnSubGuide) {
+      btnSubGuide.addEventListener("click", () => {
+        switchIpcSubTab(btnSubGuide, panelGuide);
+      });
+    }
+
+    // 1.5 Click handlers for IPC KPI Cards (Stay within IPC tab, no jumping to main tab)
+    const cardTotPn = document.getElementById("cardIpcTotalPn");
+    if (cardTotPn) {
+      cardTotPn.addEventListener("click", () => {
+        if (btnSubParts) btnSubParts.click();
+        const inp = document.getElementById("ipcSearchInput");
+        if (inp) inp.value = "";
+        const fFam = document.getElementById("filterIpcFamily");
+        if (fFam) fFam.value = "ALL";
+        const fRel = document.getElementById("filterIpcRelation");
+        if (fRel) fRel.value = "ALL";
+        const fInst = document.getElementById("filterIpcInstalled");
+        if (fInst) fInst.value = "ALL";
+        const fAd = document.getElementById("filterIpcAdStatus");
+        if (fAd) fAd.value = "ALL";
+        applyPartsSearch();
+        showToast("📦 Danh mục đầy đủ 114,648 Part Numbers trong IPC");
+      });
+    }
+
+    const cardIc = document.getElementById("cardIpcInterchanges");
+    if (cardIc) {
+      cardIc.addEventListener("click", () => {
+        if (btnSubParts) btnSubParts.click();
+        const fRel = document.getElementById("filterIpcRelation");
+        if (fRel) fRel.value = "2WAY";
+        const fAd = document.getElementById("filterIpcAdStatus");
+        if (fAd) fAd.value = "ALL";
+        applyPartsSearch();
+        showToast("↔️ Đang lọc danh mục linh kiện thay thế 2 chiều (2-Way Interchange)");
+      });
+    }
+
+    const cardFleet = document.getElementById("cardIpcFleet");
+    if (cardFleet) {
+      cardFleet.addEventListener("click", () => {
+        if (btnSubFleet) btnSubFleet.click();
+      });
+    }
+
+    const cardMatchedAds = document.getElementById("cardIpcMatchedAds");
+    if (cardMatchedAds) {
+      cardMatchedAds.addEventListener("click", () => {
+        if (btnSubParts) btnSubParts.click();
+        const fAd = document.getElementById("filterIpcAdStatus");
+        if (fAd) fAd.value = "YES";
+        const fRel = document.getElementById("filterIpcRelation");
+        if (fRel) fRel.value = "ALL";
+        applyPartsSearch();
+        showToast("⚠️ Đang lọc danh sách 198 Part Numbers có Airworthiness Directives (AD)");
+      });
+    }
+
+    // 2. Search & Filter Handlers for Parts
+    const searchInput = document.getElementById("ipcSearchInput");
+    const btnSearch = document.getElementById("btnIpcSearch");
+    const filterFamily = document.getElementById("filterIpcFamily");
+    const filterPlane = document.getElementById("filterIpcPlane");
+    const filterRelation = document.getElementById("filterIpcRelation");
+    const filterInstalled = document.getElementById("filterIpcInstalled");
+    const filterAdStatus = document.getElementById("filterIpcAdStatus");
+    const btnReset = document.getElementById("btnResetIpcFilters");
+
+    async function populateIpcPlaneDropdown() {
+      const sel = document.getElementById("filterIpcPlane");
+      if (!sel) return;
+      try {
+        if (!ipcState.fleet || ipcState.fleet.length === 0) {
+          const res = await fetch("/api/ipc/fleet");
+          if (res.ok) {
+            const data = await res.json();
+            ipcState.fleet = Array.isArray(data) ? data : [];
+          }
+        }
+
+        const selectedFamily = (filterFamily?.value || "ALL").toUpperCase();
+        const a330 = [];
+        const ceo = [];
+        const neo = [];
+
+        (ipcState.fleet || []).forEach((f) => {
+          const reg = f.reg || f.Reg || "";
+          if (!reg) return;
+          const fam = (f.family || f.Family || "").toUpperCase();
+          const msn = f.msn || f.MSN || "";
+          const fsn = f.fsn || f.FSN || "";
+          const label = `${reg} (MSN ${msn} • FSN ${fsn})`;
+
+          if (fam.includes("A330")) {
+            if (selectedFamily === "ALL" || selectedFamily === "A330") a330.push({ reg, label });
+          } else if (fam.includes("NEO")) {
+            if (selectedFamily === "ALL" || selectedFamily.includes("NEO")) neo.push({ reg, label });
+          } else {
+            if (selectedFamily === "ALL" || selectedFamily.includes("CEO")) ceo.push({ reg, label });
+          }
+        });
+
+        a330.sort((a, b) => a.reg.localeCompare(b.reg));
+        ceo.sort((a, b) => a.reg.localeCompare(b.reg));
+        neo.sort((a, b) => a.reg.localeCompare(b.reg));
+
+        const curVal = sel.value;
+        const totalCount = a330.length + ceo.length + neo.length;
+        let optHtml = `<option value="ALL">✈️ Tất cả tàu bay (${totalCount} tàu)</option>`;
+
+        if (a330.length > 0) {
+          optHtml += `<optgroup label="Airbus A330 (${a330.length} tàu)">${a330.map(p => `<option value="${escapeHtml(p.reg)}">${escapeHtml(p.label)}</option>`).join("")}</optgroup>`;
+        }
+        if (ceo.length > 0) {
+          optHtml += `<optgroup label="Airbus A320ceo & A321ceo (${ceo.length} tàu)">${ceo.map(p => `<option value="${escapeHtml(p.reg)}">${escapeHtml(p.label)}</option>`).join("")}</optgroup>`;
+        }
+        if (neo.length > 0) {
+          optHtml += `<optgroup label="Airbus A321neo (${neo.length} tàu)">${neo.map(p => `<option value="${escapeHtml(p.reg)}">${escapeHtml(p.label)}</option>`).join("")}</optgroup>`;
+        }
+
+        sel.innerHTML = optHtml;
+        if (curVal && curVal !== "ALL" && sel.querySelector(`option[value="${curVal}"]`)) {
+          sel.value = curVal;
+        } else {
+          sel.value = "ALL";
+        }
+      } catch (err) {
+        console.warn("Could not populate plane dropdown:", err);
+      }
+    }
+
+    populateIpcPlaneDropdown();
+
+    function applyPartsSearch() {
+      ipcState.filters.q = searchInput ? searchInput.value.trim() : "";
+      ipcState.filters.family = filterFamily ? filterFamily.value : "ALL";
+      ipcState.filters.plane = filterPlane ? filterPlane.value : "ALL";
+      ipcState.filters.relation = filterRelation ? filterRelation.value : "ALL";
+      ipcState.filters.installed = filterInstalled ? filterInstalled.value : "ALL";
+      ipcState.filters.hasAd = filterAdStatus ? filterAdStatus.value : "ALL";
+      fetchIpcParts(1);
+    }
+
+    if (btnSearch) btnSearch.addEventListener("click", applyPartsSearch);
+    if (searchInput) {
+      searchInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") {
+          e.preventDefault();
+          applyPartsSearch();
+        }
+      });
+    }
+
+    if (filterFamily) {
+      filterFamily.addEventListener("change", () => {
+        populateIpcPlaneDropdown();
+        applyPartsSearch();
+      });
+    }
+
+    [filterPlane, filterRelation, filterInstalled, filterAdStatus].forEach((sel) => {
+      if (sel) sel.addEventListener("change", applyPartsSearch);
+    });
+
+    if (btnReset) {
+      btnReset.addEventListener("click", () => {
+        if (searchInput) searchInput.value = "";
+        if (filterFamily) filterFamily.value = "ALL";
+        if (filterPlane) filterPlane.value = "ALL";
+        if (filterRelation) filterRelation.value = "ALL";
+        if (filterInstalled) filterInstalled.value = "ALL";
+        if (filterAdStatus) filterAdStatus.value = "ALL";
+        populateIpcPlaneDropdown();
+        applyPartsSearch();
+      });
+    }
+
+    // 3. Pagination Handlers
+    const btnPrev = document.getElementById("btnIpcPrevPage");
+    const btnNext = document.getElementById("btnIpcNextPage");
+    if (btnPrev) {
+      btnPrev.addEventListener("click", () => {
+        if (ipcState.page > 1) fetchIpcParts(ipcState.page - 1);
+      });
+    }
+    if (btnNext) {
+      btnNext.addEventListener("click", () => {
+        const totalPages = Math.ceil(ipcState.totalParts / ipcState.pageSize) || 1;
+        if (ipcState.page < totalPages) fetchIpcParts(ipcState.page + 1);
+      });
+    }
+
+    // 4. Export Excel/CSV
+    const btnExport = document.getElementById("btnExportIpcExcel");
+    if (btnExport) btnExport.addEventListener("click", exportIpcPartsCsv);
+
+    // 5. Fleet Search Handlers
+    const fleetSearch = document.getElementById("ipcFleetSearchInput");
+    const fleetFamily = document.getElementById("filterIpcFleetFamily");
+    if (fleetSearch) {
+      fleetSearch.addEventListener("input", () => renderIpcFleetTable(ipcState.fleet));
+    }
+    if (fleetFamily) {
+      fleetFamily.addEventListener("change", () => renderIpcFleetTable(ipcState.fleet));
+    }
+
+    // 6. Modal Close Handlers
+    const modal = document.getElementById("ipcPartDetailModal");
+    const btnClose1 = document.getElementById("btnCloseIpcModal");
+    const btnClose2 = document.getElementById("btnCloseIpcModalBottom");
+    [btnClose1, btnClose2].forEach((b) => {
+      if (b) b.addEventListener("click", () => modal && modal.classList.remove("open"));
+    });
+    if (modal) {
+      modal.addEventListener("click", (e) => {
+        if (e.target === modal) modal.classList.remove("open");
+      });
+    }
+
+    // 7. Auto load stats and first page when navigating to tab-ipc
+    const navTabIpc = document.getElementById("navTabIpc");
+    if (navTabIpc) {
+      navTabIpc.addEventListener("click", () => {
+        loadIpcStats();
+        if (ipcState.parts.length === 0) fetchIpcParts(1);
+      });
+    }
+
+    // Initial stats load
+    loadIpcStats();
+  }
+
+
     applyAdminUiState();
     initEvents();
     initPwaSupport();
     loadDatabaseFromServer();
     loadAppliancesCatalog();
+    initIpcModule();
   });
 })();

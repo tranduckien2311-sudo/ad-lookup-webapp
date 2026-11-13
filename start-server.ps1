@@ -4,6 +4,8 @@
 
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $DbPath = Join-Path $Root "db\aeroad-database.json"
+$IpcFleetPath = Join-Path $Root "db\vjc-ipc-fleet.json"
+$IpcCatalogPath = Join-Path $Root "db\vjc-ipc-catalog.json"
 $SyncScript = Join-Path $Root "sync-engine.ps1"
 $SyncBiweeklyScript = Join-Path $Root "sync-biweekly.ps1"
 $RescanFleetScript = Join-Path $Root "rescan-fleet.ps1"
@@ -21,6 +23,277 @@ if (Test-Path $PdfPigLibDir) {
     $PdfPigLoaded = $true
   }
 }
+
+Add-Type -ReferencedAssemblies "System.Web.Extensions" -TypeDefinition @"
+using System;
+using System.IO;
+using System.Collections.Generic;
+using System.Web.Script.Serialization;
+using System.Linq;
+
+public class IpcSearchItem {
+    public string pn;
+    public string ipcRef;
+    public List<string> ipcRefs;
+    public string desc;
+    public string mfr;
+    public bool installed;
+    public List<string> families;
+    public int lineItems;
+    public int planeCount;
+    public List<string> samplePlanes;
+    public List<string> planes;
+    [ScriptIgnore]
+    public HashSet<string> planeSet;
+    public int interchangeCount;
+    public List<Dictionary<string, object>> interchanges;
+    public int adCount;
+    public List<Dictionary<string, object>> matchedAds;
+}
+
+public class IpcSearchEngine {
+    private static List<IpcSearchItem> _items = new List<IpcSearchItem>();
+    private static object _lock = new object();
+    private static bool _loaded = false;
+
+    public static bool IsLoaded { get { return _loaded; } }
+
+    public static void Load(string jsonPath) {
+        if (_loaded) return;
+        lock (_lock) {
+            if (_loaded) return;
+            if (!File.Exists(jsonPath)) return;
+            string json = File.ReadAllText(jsonPath, System.Text.Encoding.UTF8);
+            var ser = new JavaScriptSerializer();
+            ser.MaxJsonLength = int.MaxValue;
+            var root = ser.Deserialize<Dictionary<string, object>>(json);
+            var parts = root["parts"] as System.Collections.ArrayList;
+            if (parts == null) return;
+
+            var list = new List<IpcSearchItem>(parts.Count);
+            foreach (Dictionary<string, object> p in parts) {
+                var item = new IpcSearchItem();
+                item.pn = p.ContainsKey("pn") && p["pn"] != null ? p["pn"].ToString() : "";
+                item.ipcRef = p.ContainsKey("ipcRef") && p["ipcRef"] != null ? p["ipcRef"].ToString() : "";
+                var irList = p.ContainsKey("ipcRefs") ? p["ipcRefs"] as System.Collections.ArrayList : null;
+                if (irList != null) {
+                    item.ipcRefs = irList.Cast<string>().ToList();
+                } else {
+                    item.ipcRefs = new List<string>();
+                }
+                item.desc = p.ContainsKey("desc") && p["desc"] != null ? p["desc"].ToString() : "";
+                item.mfr = p.ContainsKey("mfr") && p["mfr"] != null ? p["mfr"].ToString() : "";
+                item.installed = p.ContainsKey("installed") && (bool)p["installed"];
+                item.lineItems = p.ContainsKey("lineItems") ? Convert.ToInt32(p["lineItems"]) : 0;
+                item.planeCount = p.ContainsKey("planeCount") ? Convert.ToInt32(p["planeCount"]) : 0;
+                item.interchangeCount = p.ContainsKey("interchangeCount") ? Convert.ToInt32(p["interchangeCount"]) : 0;
+                item.adCount = p.ContainsKey("adCount") ? Convert.ToInt32(p["adCount"]) : 0;
+
+                var famList = p.ContainsKey("families") ? p["families"] as System.Collections.ArrayList : null;
+                if (famList != null) {
+                    item.families = famList.Cast<string>().ToList();
+                } else {
+                    item.families = new List<string>();
+                }
+
+                var spList = p.ContainsKey("samplePlanes") ? p["samplePlanes"] as System.Collections.ArrayList : null;
+                if (spList != null) {
+                    item.samplePlanes = spList.Cast<string>().ToList();
+                } else {
+                    item.samplePlanes = new List<string>();
+                }
+
+                var plList = p.ContainsKey("planes") ? p["planes"] as System.Collections.ArrayList : null;
+                if (plList != null) {
+                    item.planes = plList.Cast<string>().ToList();
+                    item.planeSet = new HashSet<string>(item.planes, StringComparer.OrdinalIgnoreCase);
+                } else {
+                    item.planes = new List<string>();
+                    item.planeSet = new HashSet<string>(item.samplePlanes, StringComparer.OrdinalIgnoreCase);
+                }
+
+                var icList = p.ContainsKey("interchanges") ? p["interchanges"] as System.Collections.ArrayList : null;
+                if (icList != null) {
+                    item.interchanges = icList.Cast<Dictionary<string, object>>().ToList();
+                } else {
+                    item.interchanges = new List<Dictionary<string, object>>();
+                }
+
+                var adList = p.ContainsKey("matchedAds") ? p["matchedAds"] as System.Collections.ArrayList : null;
+                if (adList != null) {
+                    item.matchedAds = adList.Cast<Dictionary<string, object>>().ToList();
+                } else {
+                    item.matchedAds = new List<Dictionary<string, object>>();
+                }
+
+                list.Add(item);
+            }
+            _items = list;
+            _loaded = true;
+        }
+    }
+
+    public static string GetStats() {
+        if (!_loaded) return "{}";
+        int installedCount = 0;
+        int withAdCount = 0;
+        int totalIc = 0;
+        for (int i = 0; i < _items.Count; i++) {
+            if (_items[i].installed) installedCount++;
+            if (_items[i].adCount > 0) withAdCount++;
+            totalIc += _items[i].interchangeCount;
+        }
+        var stat = new {
+            totalParts = _items.Count,
+            installedCount = installedCount,
+            withAdCount = withAdCount,
+            totalInterchanges = totalIc
+        };
+        var ser = new JavaScriptSerializer();
+        return ser.Serialize(stat);
+    }
+
+    public static string GetPartDetail(string pn) {
+        if (!_loaded || string.IsNullOrWhiteSpace(pn)) return "null";
+        string pUpper = pn.Trim().ToUpperInvariant();
+        for (int i = 0; i < _items.Count; i++) {
+            if (_items[i].pn.ToUpperInvariant() == pUpper) {
+                var ser = new JavaScriptSerializer();
+                ser.MaxJsonLength = int.MaxValue;
+                return ser.Serialize(_items[i]);
+            }
+        }
+        return "null";
+    }
+
+    public static string SearchJson(string q, string family, string plane, string relation, string installed, string hasAd, int page, int pageSize) {
+        if (!_loaded) return "{\"total\":0,\"page\":1,\"pageSize\":50,\"items\":[]}";
+        if (page < 1) page = 1;
+        if (pageSize < 1 || pageSize > 200) pageSize = 50;
+
+        string qUpper = string.IsNullOrWhiteSpace(q) ? null : q.Trim().ToUpperInvariant();
+        string famUpper = string.IsNullOrWhiteSpace(family) || family == "ALL" ? null : family.Trim().ToUpperInvariant();
+        string planeUpper = string.IsNullOrWhiteSpace(plane) || plane == "ALL" ? null : plane.Trim().ToUpperInvariant();
+        string relUpper = string.IsNullOrWhiteSpace(relation) || relation == "ALL" ? null : relation.Trim().ToUpperInvariant();
+        bool? filterInstalled = null;
+        if (installed == "YES") filterInstalled = true;
+        else if (installed == "NO") filterInstalled = false;
+
+        bool? filterHasAd = null;
+        if (hasAd == "YES") filterHasAd = true;
+        else if (hasAd == "NO") filterHasAd = false;
+
+        var sw = System.Diagnostics.Stopwatch.StartNew();
+        var results = new List<IpcSearchItem>();
+
+        for (int i = 0; i < _items.Count; i++) {
+            var item = _items[i];
+            if (famUpper != null) {
+                bool famMatch = false;
+                for (int f = 0; f < item.families.Count; f++) {
+                    if (item.families[f].ToUpperInvariant().IndexOf(famUpper) >= 0) { famMatch = true; break; }
+                }
+                if (!famMatch) continue;
+            }
+
+            if (planeUpper != null) {
+                if (item.planeSet == null || !item.planeSet.Contains(planeUpper)) continue;
+            }
+
+            if (filterInstalled.HasValue && item.installed != filterInstalled.Value) continue;
+            if (filterHasAd.HasValue) {
+                if (filterHasAd.Value && item.adCount == 0) continue;
+                if (!filterHasAd.Value && item.adCount > 0) continue;
+            }
+
+            if (relUpper != null) {
+                if (relUpper == "HAS_INTERCHANGE" || relUpper == "YES") {
+                    if (item.interchanges.Count == 0) continue;
+                } else if (relUpper == "2WAY" || relUpper == "2-WAY") {
+                    bool hit2Way = false;
+                    for (int r = 0; r < item.interchanges.Count; r++) {
+                        var ic = item.interchanges[r];
+                        var reason = ic.ContainsKey("reason") && ic["reason"] != null ? ic["reason"].ToString().ToUpperInvariant() : "";
+                        bool has2WaySignal = reason.IndexOf("TWO WAY") >= 0 || reason.IndexOf("2-WAY") >= 0 || reason.IndexOf("2 WAY") >= 0 || reason.IndexOf("BUT IF") >= 0 || reason.IndexOf("ONLY IF") >= 0 || (reason.IndexOf("CAN REPLACE") >= 0 && reason.IndexOf(" IF ") >= 0);
+                        bool isStrict1Way = !has2WaySignal && (reason.IndexOf("ONE WAY") >= 0 || reason.IndexOf("1-WAY") >= 0 || reason.IndexOf("1 WAY") >= 0 || reason.IndexOf("CANNOT REPLACE") >= 0 || reason.IndexOf("NOT INTERCHANGEABLE") >= 0);
+                        if (!isStrict1Way) {
+                            hit2Way = true;
+                            break;
+                        }
+                    }
+                    if (!hit2Way) continue;
+                } else if (relUpper == "1WAY" || relUpper == "1-WAY") {
+                    bool hit1Way = false;
+                    for (int r = 0; r < item.interchanges.Count; r++) {
+                        var ic = item.interchanges[r];
+                        var reason = ic.ContainsKey("reason") && ic["reason"] != null ? ic["reason"].ToString().ToUpperInvariant() : "";
+                        bool has2WaySignal = reason.IndexOf("TWO WAY") >= 0 || reason.IndexOf("2-WAY") >= 0 || reason.IndexOf("2 WAY") >= 0 || reason.IndexOf("BUT IF") >= 0 || reason.IndexOf("ONLY IF") >= 0 || (reason.IndexOf("CAN REPLACE") >= 0 && reason.IndexOf(" IF ") >= 0);
+                        bool isStrict1Way = !has2WaySignal && (reason.IndexOf("ONE WAY") >= 0 || reason.IndexOf("1-WAY") >= 0 || reason.IndexOf("1 WAY") >= 0 || reason.IndexOf("CANNOT REPLACE") >= 0 || reason.IndexOf("NOT INTERCHANGEABLE") >= 0);
+                        if (isStrict1Way) {
+                            hit1Way = true;
+                            break;
+                        }
+                    }
+                    if (!hit1Way) continue;
+                } else {
+                    bool relMatch = false;
+                    for (int r = 0; r < item.interchanges.Count; r++) {
+                        var relVal = item.interchanges[r].ContainsKey("rel") && item.interchanges[r]["rel"] != null ? item.interchanges[r]["rel"].ToString().ToUpperInvariant() : "";
+                        if (relVal.IndexOf(relUpper) >= 0) { relMatch = true; break; }
+                    }
+                    if (!relMatch) continue;
+                }
+            }
+
+            if (qUpper != null) {
+                bool hit = item.pn.ToUpperInvariant().IndexOf(qUpper) >= 0 ||
+                           item.desc.ToUpperInvariant().IndexOf(qUpper) >= 0 ||
+                           item.mfr.ToUpperInvariant().IndexOf(qUpper) >= 0 ||
+                           (!string.IsNullOrEmpty(item.ipcRef) && item.ipcRef.ToUpperInvariant().IndexOf(qUpper) >= 0);
+
+                if (!hit && item.ipcRefs != null) {
+                    for (int ir = 0; ir < item.ipcRefs.Count; ir++) {
+                        if (item.ipcRefs[ir].ToUpperInvariant().IndexOf(qUpper) >= 0) { hit = true; break; }
+                    }
+                }
+
+                if (!hit) {
+                    for (int r = 0; r < item.interchanges.Count; r++) {
+                        var icPn = item.interchanges[r].ContainsKey("icPn") && item.interchanges[r]["icPn"] != null ? item.interchanges[r]["icPn"].ToString().ToUpperInvariant() : "";
+                        var icDesc = item.interchanges[r].ContainsKey("icDesc") && item.interchanges[r]["icDesc"] != null ? item.interchanges[r]["icDesc"].ToString().ToUpperInvariant() : "";
+                        if (icPn.IndexOf(qUpper) >= 0 || icDesc.IndexOf(qUpper) >= 0) { hit = true; break; }
+                    }
+                }
+                if (!hit) {
+                    for (int a = 0; a < item.matchedAds.Count; a++) {
+                        var num = item.matchedAds[a].ContainsKey("num") && item.matchedAds[a]["num"] != null ? item.matchedAds[a]["num"].ToString().ToUpperInvariant() : "";
+                        if (num.IndexOf(qUpper) >= 0) { hit = true; break; }
+                    }
+                }
+                if (!hit) continue;
+            }
+
+            results.Add(item);
+        }
+
+        int total = results.Count;
+        int skip = (page - 1) * pageSize;
+        var pagedItems = results.Skip(skip).Take(pageSize).ToList();
+
+        var outObj = new {
+            total = total,
+            page = page,
+            pageSize = pageSize,
+            elapsedMs = sw.ElapsedMilliseconds,
+            items = pagedItems
+        };
+
+        var outSer = new JavaScriptSerializer();
+        outSer.MaxJsonLength = int.MaxValue;
+        return outSer.Serialize(outObj);
+    }
+}
+"@
 
 function Format-EasaVerbatimText([string]$RawText) {
   if ([string]::IsNullOrWhiteSpace($RawText)) { return "" }
@@ -428,6 +701,74 @@ try {
         $Res.StatusCode = 500
         $Res.OutputStream.Write($ErrBytes, 0, $ErrBytes.Length)
       }
+      $Res.OutputStream.Close()
+      continue
+    }
+
+    if ($Path -eq "/api/ipc/fleet") {
+      if (Test-Path $IpcFleetPath) {
+        $Bytes = [System.IO.File]::ReadAllBytes($IpcFleetPath)
+      } else {
+        $Bytes = [System.Text.Encoding]::UTF8.GetBytes("[]")
+      }
+      $Res.ContentType = "application/json; charset=utf-8"
+      $Res.ContentLength64 = $Bytes.Length
+      $Res.StatusCode = 200
+      $Res.OutputStream.Write($Bytes, 0, $Bytes.Length)
+      $Res.OutputStream.Close()
+      continue
+    }
+
+    if ($Path -eq "/api/ipc/stats") {
+      if (-not [IpcSearchEngine]::IsLoaded) {
+        [IpcSearchEngine]::Load($IpcCatalogPath)
+      }
+      $StatsJson = [IpcSearchEngine]::GetStats()
+      $Bytes = [System.Text.Encoding]::UTF8.GetBytes($StatsJson)
+      $Res.ContentType = "application/json; charset=utf-8"
+      $Res.ContentLength64 = $Bytes.Length
+      $Res.StatusCode = 200
+      $Res.OutputStream.Write($Bytes, 0, $Bytes.Length)
+      $Res.OutputStream.Close()
+      continue
+    }
+
+    if ($Path -eq "/api/ipc/search") {
+      if (-not [IpcSearchEngine]::IsLoaded) {
+        [IpcSearchEngine]::Load($IpcCatalogPath)
+      }
+      $Q = [string]$Req.QueryString["q"]
+      $Family = [string]$Req.QueryString["family"]
+      $Plane = [string]$Req.QueryString["plane"]
+      $Relation = [string]$Req.QueryString["relation"]
+      $Installed = [string]$Req.QueryString["installed"]
+      $HasAd = [string]$Req.QueryString["hasAd"]
+      $Page = 1
+      if ($Req.QueryString["page"] -match '^\d+$') { $Page = [int]$Req.QueryString["page"] }
+      $PageSize = 50
+      if ($Req.QueryString["pageSize"] -match '^\d+$') { $PageSize = [int]$Req.QueryString["pageSize"] }
+
+      $ResJson = [IpcSearchEngine]::SearchJson($Q, $Family, $Plane, $Relation, $Installed, $HasAd, $Page, $PageSize)
+      $Bytes = [System.Text.Encoding]::UTF8.GetBytes($ResJson)
+      $Res.ContentType = "application/json; charset=utf-8"
+      $Res.ContentLength64 = $Bytes.Length
+      $Res.StatusCode = 200
+      $Res.OutputStream.Write($Bytes, 0, $Bytes.Length)
+      $Res.OutputStream.Close()
+      continue
+    }
+
+    if ($Path -eq "/api/ipc/part-detail") {
+      if (-not [IpcSearchEngine]::IsLoaded) {
+        [IpcSearchEngine]::Load($IpcCatalogPath)
+      }
+      $Pn = [string]$Req.QueryString["pn"]
+      $ResJson = [IpcSearchEngine]::GetPartDetail($Pn)
+      $Bytes = [System.Text.Encoding]::UTF8.GetBytes($ResJson)
+      $Res.ContentType = "application/json; charset=utf-8"
+      $Res.ContentLength64 = $Bytes.Length
+      $Res.StatusCode = 200
+      $Res.OutputStream.Write($Bytes, 0, $Bytes.Length)
       $Res.OutputStream.Close()
       continue
     }
