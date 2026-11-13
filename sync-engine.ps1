@@ -581,15 +581,36 @@ foreach ($doc in $RawDocs) {
 
   # ATA Chapter
   $ata = "05 - Airworthiness Limitations (ALS)"
-  if ($title -match 'Engine' -or $abstract -match '(?i)turbine|HPT|LPT|compressor|HPC|fan blade|borescope|rotor|hub|disk|IBR') {
+  $ataMatchText = "$title $abstract"
+  if ($ataMatchText -match '(?i)ATA\s*([0-9]{2})') {
+    $ataNum = $matches[1]
+    $knownAtas = @{
+      "05" = "05 - Time Limits / Maintenance Checks (ALS)"; "21" = "21 - Air Conditioning"; "22" = "22 - Auto Flight";
+      "23" = "23 - Communications"; "24" = "24 - Electrical Power"; "25" = "25 - Equipment / Furnishings";
+      "26" = "26 - Fire Protection"; "27" = "27 - Flight Controls"; "28" = "28 - Fuel System";
+      "29" = "29 - Hydraulic Power"; "30" = "30 - Ice & Rain Protection"; "31" = "31 - Indicating / Recording";
+      "32" = "32 - Landing Gear"; "33" = "33 - Lights"; "34" = "34 - Navigation & Avionics";
+      "35" = "35 - Oxygen"; "36" = "36 - Pneumatic"; "38" = "38 - Water / Waste";
+      "49" = "49 - Airborne Auxiliary Power (APU)"; "52" = "52 - Doors"; "53" = "53 - Fuselage";
+      "54" = "54 - Nacelles / Pylons"; "55" = "55 - Stabilizers"; "56" = "56 - Windows"; "57" = "57 - Wings";
+      "71" = "71 - Powerplant"; "72" = "72 - Engine Turbine / Compressor / Rotor"; "73" = "73 - Engine Fuel & Control";
+      "78" = "78 - Exhaust / Reverser"; "79" = "79 - Engine Oil"; "80" = "80 - Starting"; "92" = "92 - Electrical System Installation"
+    }
+    if ($knownAtas.ContainsKey($ataNum)) { $ata = $knownAtas[$ataNum] }
+  } elseif ($abstract -match '(?i)Nacelle Inlet Cowl|Powerplant|Nacelle|Fan Cowl') { $ata = "71 - Powerplant" }
+  elseif ($title -match 'Engine' -or $abstract -match '(?i)turbine|HPT|LPT|compressor|HPC|fan blade|borescope|rotor|hub|disk|IBR') {
     $ata = "72 - Engine Turbine / Compressor / Rotor"
   } elseif ($abstract -match '(?i)fuel|LPSOV|tank') { $ata = "28 - Fuel System" }
   elseif ($abstract -match '(?i)flight control|FCPC|ELAC|SEC|THS|elevator|rudder|flap|slat|spoiler') { $ata = "27 - Flight Controls" }
   elseif ($abstract -match '(?i)landing gear|MLG|NLG|bogie|brake|tire|axle') { $ata = "32 - Landing Gear" }
-  elseif ($abstract -match '(?i)overhead stowage|OHSC|slide|door|cabin|girt bar|seat|galley|lavatory') { $ata = "25 / 52 - Cabin & Doors" }
+  elseif ($abstract -match '(?i)door|cargo door|pax door|passenger door|emergency exit') { $ata = "52 - Doors" }
+  elseif ($abstract -match '(?i)overhead stowage|OHSC|slide|cabin|girt bar|seat|galley|lavatory') { $ata = "25 - Equipment / Furnishings" }
   elseif ($abstract -match '(?i)radio|RMP|navigation|radar|transponder|pitot|AOA|avionics') { $ata = "34 - Navigation & Avionics" }
-  elseif ($abstract -match '(?i)wing|spigot|fuselage|frame|crack|corrosion|stringer|bulkhead|pylon') { $ata = "53 / 57 - Structures" }
-  elseif ($abstract -match '(?i)bleed|BMC|overpressure|pneumatic|air conditioning') { $ata = "36 - Pneumatic" }
+  elseif ($abstract -match '(?i)wing|wingtip|sharklet|spar|rib') { $ata = "57 - Wings" }
+  elseif ($abstract -match '(?i)fuselage|windshield|spigot|frame|crack|corrosion|stringer|bulkhead') { $ata = "53 - Fuselage" }
+  elseif ($abstract -match '(?i)pylon') { $ata = "54 - Nacelles / Pylons" }
+  elseif ($abstract -match '(?i)bleed|BMC|overpressure|pneumatic') { $ata = "36 - Pneumatic" }
+  elseif ($abstract -match '(?i)air conditioning') { $ata = "21 - Air Conditioning" }
   elseif ($abstract -match '(?i)fire|extinguisher|cargo compartment|smoke') { $ata = "26 - Fire Protection" }
   elseif ($abstract -match '(?i)hydraulic|yellow|green|blue|actuator|reservoir') { $ata = "29 - Hydraulic Power" }
   elseif ($abstract -match '(?i)electrical|generator|IDG|battery|wiring|harness') { $ata = "24 - Electrical Power" }

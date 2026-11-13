@@ -209,12 +209,12 @@ public class IpcSearchEngine {
 
             if (ataUpper != null) {
                 bool ataMatch = false;
-                if (!string.IsNullOrEmpty(item.ipcRef) && (item.ipcRef.StartsWith(ataUpper + "-") || item.ipcRef.StartsWith(ataUpper))) {
+                if (!string.IsNullOrEmpty(item.ipcRef) && (item.ipcRef.StartsWith(ataUpper + "-") || item.ipcRef.StartsWith(ataUpper + "/"))) {
                     ataMatch = true;
                 }
                 if (!ataMatch && item.ipcRefs != null) {
                     for (int ir = 0; ir < item.ipcRefs.Count; ir++) {
-                        if (!string.IsNullOrEmpty(item.ipcRefs[ir]) && (item.ipcRefs[ir].StartsWith(ataUpper + "-") || item.ipcRefs[ir].StartsWith(ataUpper))) {
+                        if (!string.IsNullOrEmpty(item.ipcRefs[ir]) && (item.ipcRefs[ir].StartsWith(ataUpper + "-") || item.ipcRefs[ir].StartsWith(ataUpper + "/"))) {
                             ataMatch = true;
                             break;
                         }

@@ -1267,14 +1267,28 @@
     const targetModelStr = isApplicable ? parsed.vjcMatchedSummary : parsed.adExtractedModels;
 
     let ata = "05 - Airworthiness Limitations (ALS)";
-    if (/Engine|turbine|HPT|LPT|compressor|HPC|fan blade|borescope|rotor|hub|disk|IBR/i.test(title + " " + abstract)) {
+    const ataMatch = (title + " " + abstract).match(/ATA\s*([0-9]{2})/i);
+    if (ataMatch && ATA_CHAPTER_NAMES[ataMatch[1]]) {
+      ata = `${ataMatch[1]} - ${ATA_CHAPTER_NAMES[ataMatch[1]]}`;
+    } else if (/Nacelle Inlet Cowl|Powerplant|Nacelle|Fan Cowl/i.test(abstract)) {
+      ata = "71 - Powerplant";
+    } else if (/Engine|turbine|HPT|LPT|compressor|HPC|fan blade|borescope|rotor|hub|disk|IBR/i.test(title + " " + abstract)) {
       ata = "72 - Engine Turbine / Compressor / Rotor";
     } else if (/fuel|LPSOV|tank/i.test(abstract)) ata = "28 - Fuel System";
     else if (/flight control|FCPC|ELAC|elevator|flap|slat/i.test(abstract)) ata = "27 - Flight Controls";
     else if (/landing gear|MLG|NLG|bogie|brake/i.test(abstract)) ata = "32 - Landing Gear";
-    else if (/overhead stowage|OHSC|slide|door|girt bar/i.test(abstract)) ata = "25 / 52 - Cabin & Doors";
+    else if (/door|cargo door|pax door|passenger door|emergency exit/i.test(abstract)) ata = "52 - Doors";
+    else if (/overhead stowage|OHSC|slide|cabin|girt bar|seat|galley|lavatory/i.test(abstract)) ata = "25 - Equipment / Furnishings";
     else if (/radio management|RMP|navigation|radar/i.test(abstract)) ata = "34 - Navigation & Avionics";
-    else if (/wing|spigot|fuselage|crack|corrosion/i.test(abstract)) ata = "53 / 57 - Structures";
+    else if (/wing|wingtip|sharklet|spar|rib/i.test(abstract)) ata = "57 - Wings";
+    else if (/fuselage|windshield|spigot|frame|crack|corrosion|stringer|bulkhead/i.test(abstract)) ata = "53 - Fuselage";
+    else if (/pylon/i.test(abstract)) ata = "54 - Nacelles / Pylons";
+    else if (/air conditioning/i.test(abstract)) ata = "21 - Air Conditioning";
+    else if (/bleed|BMC|overpressure|pneumatic/i.test(abstract)) ata = "36 - Pneumatic";
+    else if (/fire|extinguisher|cargo compartment|smoke/i.test(abstract)) ata = "26 - Fire Protection";
+    else if (/hydraulic|actuator/i.test(abstract)) ata = "29 - Hydraulic Power";
+    else if (/electrical|wiring|harness|generator/i.test(abstract)) ata = "24 - Electrical Power";
+    else if (/oxygen/i.test(abstract)) ata = "35 - Oxygen";
 
     // Extract Superseded ADs with their own resolved PDF URL
     const supersededAds = [];
@@ -2280,7 +2294,7 @@
         const adAta = String(ad.ata || "");
         const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
         const code = m ? m[1] : "";
-        if (code !== ataFilter && !adAta.includes(ataFilter) && !(ad.subject || "").includes("ATA " + ataFilter)) return false;
+        if (code !== ataFilter) return false;
       }
 
       if (adTypeFilter !== "ALL") {
@@ -4368,9 +4382,10 @@ ${bodyRows}
         if (ataFilter !== "ALL") {
           const itemAds = getApplianceAdsList(item);
           if (!itemAds.some((a) => {
-            const adAta = String(a.ata || a.subject || "");
+            const realAd = adList.find((x) => (a.adId && x.id === a.adId) || (a.adNumber && x.adNumber === a.adNumber));
+            const adAta = String((realAd && realAd.ata) || a.ata || "");
             const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
-            return (m && m[1] === ataFilter) || adAta.includes("ATA " + ataFilter) || adAta.includes(ataFilter);
+            return m && m[1] === ataFilter;
           })) return false;
         }
 
@@ -4403,9 +4418,9 @@ ${bodyRows}
         if (typeFilter !== "ALL" && (!ad.matchedTypes || !ad.matchedTypes.some((t) => t.includes(typeFilter)))) return false;
 
         if (ataFilter !== "ALL") {
-          const adAta = String(ad.ata || ad.subject || "");
+          const adAta = String(ad.ata || "");
           const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
-          if (!((m && m[1] === ataFilter) || adAta.includes("ATA " + ataFilter) || adAta.includes(ataFilter))) return false;
+          if (!m || m[1] !== ataFilter) return false;
         }
 
         if (searchKw) {
@@ -5174,9 +5189,13 @@ ${bodyRows}
             if (hasAd === "NO" && adCount > 0) return false;
 
             if (ata !== "ALL") {
-              const ref = (p.ipcRef || "").toUpperCase();
+              const refs = [p.ipcRef || "", ...(p.ipcRefs || [])];
               const prefix = ata + "-";
-              if (!ref.startsWith(prefix) && !ref.startsWith(ata)) return false;
+              const matchesAta = refs.some(r => {
+                const ru = (r || "").toUpperCase();
+                return ru.startsWith(prefix) || ru.startsWith(ata + "/");
+              });
+              if (!matchesAta) return false;
             }
 
             if (relation === "2WAY") {
