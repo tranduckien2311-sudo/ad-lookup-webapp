@@ -1995,8 +1995,9 @@ body.light-mode .btn-admin-logged-in {
     gap: 8px !important;
   }
 
-  /* Mobile Card Layout for Appliances Tables to prevent squished/cramped cells */
-  #tab-appliances .table-responsive {
+  /* Mobile Card Layout for Appliances & IPC Tables to prevent squished/cramped cells */
+  #tab-appliances .table-responsive,
+  #tab-ipc .table-responsive {
     overflow-x: visible !important;
   }
   #tableAppliancesPn,
@@ -2006,33 +2007,119 @@ body.light-mode .btn-admin-logged-in {
   #tableAppliancesAds,
   #tableAppliancesAds tbody,
   #tableAppliancesAds tr,
-  #tableAppliancesAds td {
+  #tableAppliancesAds td,
+  #tableIpcParts,
+  #tableIpcParts tbody,
+  #tableIpcParts tr,
+  #tableIpcParts td {
     display: block !important;
     width: 100% !important;
     min-width: 0 !important;
     max-width: 100% !important;
   }
   #tableAppliancesPn thead,
-  #tableAppliancesAds thead {
+  #tableAppliancesAds thead,
+  #tableIpcParts thead {
     display: none !important;
   }
-  #tableAppliancesPn tbody tr,
-  #tableAppliancesAds tbody tr {
+
+  /* Appliance P/N Cards */
+  #tableAppliancesPn tbody tr {
     border: 1px solid rgba(255, 255, 255, 0.12) !important;
-    border-radius: 8px !important;
-    padding: 12px 14px !important;
-    margin-bottom: 10px !important;
+    border-radius: 10px !important;
+    padding: 14px !important;
+    margin-bottom: 12px !important;
     background: rgba(255, 255, 255, 0.03) !important;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
     cursor: pointer;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
   }
   #tableAppliancesPn tbody tr:hover {
     background: rgba(59, 130, 246, 0.12) !important;
     border-color: rgba(59, 130, 246, 0.5) !important;
   }
-  #tableAppliancesPn tbody td,
+  #tableAppliancesPn tbody td {
+    padding: 2px 0 !important;
+    border: none !important;
+    white-space: normal !important;
+    word-break: break-word !important;
+    font-size: 13px !important;
+  }
+
+  /* Appliance AD Regulations Cards (Clear spacing so elements never overlap) */
+  #tableAppliancesAds tbody tr {
+    border: 1px solid rgba(255, 255, 255, 0.14) !important;
+    border-radius: 10px !important;
+    padding: 14px !important;
+    margin-bottom: 14px !important;
+    background: rgba(30, 41, 59, 0.45) !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+  }
+  #tableAppliancesAds tbody tr:hover {
+    background: rgba(59, 130, 246, 0.15) !important;
+    border-color: rgba(59, 130, 246, 0.5) !important;
+  }
   #tableAppliancesAds tbody td {
-    padding: 3px 0 !important;
+    padding: 2px 0 !important;
+    border: none !important;
+    white-space: normal !important;
+    word-break: break-word !important;
+    font-size: 13px !important;
+  }
+  #tableAppliancesAds tbody td:nth-child(1) {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+    padding-bottom: 8px !important;
+  }
+  #tableAppliancesAds tbody td:nth-child(3)::before {
+    content: "📦 Linh kiện khớp:";
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 4px;
+  }
+  #tableAppliancesAds tbody td:nth-child(4)::before {
+    content: "✈️ Đội tàu áp dụng:";
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 4px;
+  }
+  #tableAppliancesAds tbody td:nth-child(5)::before {
+    content: "📅 Ngày hiệu lực: ";
+    font-size: 11.5px;
+    font-weight: 700;
+    color: var(--text-secondary);
+    display: inline-block;
+    margin-right: 4px;
+  }
+
+  /* IPC Parts Table Cards (Mobile) */
+  #tableIpcParts tbody tr {
+    border: 1px solid rgba(168, 85, 247, 0.25) !important;
+    border-radius: 10px !important;
+    padding: 14px !important;
+    margin-bottom: 12px !important;
+    background: rgba(30, 27, 75, 0.35) !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+    cursor: pointer;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
+  }
+  #tableIpcParts tbody tr:hover {
+    background: rgba(168, 85, 247, 0.16) !important;
+    border-color: rgba(168, 85, 247, 0.6) !important;
+  }
+  #tableIpcParts tbody td {
+    padding: 2px 0 !important;
     border: none !important;
     white-space: normal !important;
     word-break: break-word !important;
@@ -2040,35 +2127,35 @@ body.light-mode .btn-admin-logged-in {
   }
 }
 
-/* Guarantee Tables Fit 100% in Viewport Frame Without Horizontal Scroll */
-#tab-ipc .table-responsive {
-  overflow-x: hidden !important;
-  scrollbar-gutter: auto !important;
-  width: 100% !important;
-}
-
-#tableIpcParts {
-  width: 100% !important;
-  max-width: 100% !important;
-  table-layout: fixed !important;
-  border-collapse: collapse;
-}
-
-#tableIpcParts th,
-#tableIpcParts td {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding: 9px 7px;
-  vertical-align: middle;
-}
-
-#tableIpcParts td:nth-child(3) {
-  white-space: normal;
-  word-break: break-word;
-  line-height: 1.35;
-}
-
+/* Guarantee Desktop Tables Fit 100% in Viewport Frame Without Horizontal Scroll */
 @media (min-width: 769px) {
+  #tab-ipc .table-responsive {
+    overflow-x: hidden !important;
+    scrollbar-gutter: auto !important;
+    width: 100% !important;
+  }
+
+  #tableIpcParts {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse;
+  }
+
+  #tableIpcParts th,
+  #tableIpcParts td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 9px 7px;
+    vertical-align: middle;
+  }
+
+  #tableIpcParts td:nth-child(3) {
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+
   #tab-appliances .table-responsive {
     overflow-x: hidden !important;
     scrollbar-gutter: auto !important;
@@ -2112,7 +2199,7 @@ body.light-mode .btn-admin-logged-in {
   display: none;
 }
 
-@media (max-width: 1250px) {
+@media (min-width: 769px) and (max-width: 1250px) {
   .col-full {
     display: none;
   }

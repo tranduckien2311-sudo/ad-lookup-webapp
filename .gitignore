@@ -1,3 +1,9 @@
+# Large monolithic source catalogs (>100MB)
+db/vjc-ipc-catalog.json
+db/vjc-ipc-details.json
+db/vjc-ipc-plane-parts.json
+db/vjc-appliances-inventory.xlsx
+
 # Large binary caches & NuGet binaries (keep lightweight .txt fulltext caches for static GitHub Pages)
 db/easa-pdf-cache/*
 !db/easa-pdf-cache/*.txt

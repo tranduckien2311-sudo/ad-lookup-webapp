@@ -4896,6 +4896,16 @@ ${bodyRows}
     }
   };
 
+  const isStaticHost = window.location.protocol === "https:" || 
+                       window.location.hostname.endsWith("github.io") || 
+                       window.location.hostname.endsWith("pages.dev") || 
+                       window.location.protocol === "file:" ||
+                       (window.location.port !== "8085");
+
+  window.ipcCatalogStatic = null;
+  window.ipcShardCache = {};
+  window.ipcPlaneSetCache = {};
+
   function getIpcApiUrl(endpoint) {
     if (window.location.protocol.startsWith("http") && window.location.port === "8085") {
       return endpoint;
@@ -4906,10 +4916,18 @@ ${bodyRows}
 
   async function loadIpcStats() {
     try {
-      const res = await fetch(getIpcApiUrl("/api/ipc/stats"));
-      if (!res.ok) return;
-      const stats = await res.json();
-      if (stats.totalParts) {
+      let stats = null;
+      if (!isStaticHost) {
+        try {
+          const res = await fetch(getIpcApiUrl("/api/ipc/stats"));
+          if (res.ok) stats = await res.json();
+        } catch (e) {}
+      }
+      if (!stats) {
+        const res = await fetch("./db/vjc-ipc-stats.json");
+        if (res.ok) stats = await res.json();
+      }
+      if (stats && stats.totalParts) {
         const elTotal = document.getElementById("ipcKpiTotalPn");
         const elIc = document.getElementById("ipcKpiTotalInterchanges");
         const elAd = document.getElementById("ipcKpiMatchedAds");
@@ -4945,29 +4963,120 @@ ${bodyRows}
     }
 
     try {
-      const params = new URLSearchParams({
-        q: ipcState.filters.q,
-        family: ipcState.filters.family,
-        plane: ipcState.filters.plane,
-        relation: ipcState.filters.relation,
-        installed: ipcState.filters.installed,
-        hasAd: ipcState.filters.hasAd,
-        page: page,
-        pageSize: ipcState.pageSize
-      });
+      const t0 = performance.now();
+      let parts = [];
+      let totalParts = 0;
+      let elapsedMs = 0;
 
-      const res = await fetch(getIpcApiUrl(`/api/ipc/search?${params.toString()}`));
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
+      if (!isStaticHost) {
+        try {
+          const params = new URLSearchParams({
+            q: ipcState.filters.q,
+            family: ipcState.filters.family,
+            plane: ipcState.filters.plane,
+            relation: ipcState.filters.relation,
+            installed: ipcState.filters.installed,
+            hasAd: ipcState.filters.hasAd,
+            page: page,
+            pageSize: ipcState.pageSize
+          });
+          const res = await fetch(getIpcApiUrl(`/api/ipc/search?${params.toString()}`));
+          if (res.ok) {
+            const data = await res.json();
+            parts = data.items || [];
+            totalParts = data.total || 0;
+            elapsedMs = data.elapsedMs || Math.round(performance.now() - t0);
+          }
+        } catch (e) {
+          console.warn("Backend IPC search unavailable, falling back to static in-memory:", e);
+        }
+      }
 
-      ipcState.parts = data.items || [];
-      ipcState.totalParts = data.total || 0;
+      // If backend search was not used or returned no items, run static in-memory search
+      if (totalParts === 0 && parts.length === 0) {
+        if (!window.ipcCatalogStatic) {
+          if (counterText) counterText.textContent = "Đang tải cơ sở dữ liệu tra cứu IPC...";
+          const res = await fetch("./db/vjc-ipc-search.json");
+          if (!res.ok) throw new Error(`HTTP ${res.status} khi tải db/vjc-ipc-search.json`);
+          window.ipcCatalogStatic = await res.json();
+        }
+
+        let list = window.ipcCatalogStatic || [];
+
+        // If plane filter is selected, load that plane's part set
+        const selectedPlane = (ipcState.filters.plane || "ALL").trim();
+        if (selectedPlane && selectedPlane !== "ALL") {
+          if (!window.ipcPlaneSetCache[selectedPlane]) {
+            try {
+              const resPl = await fetch(`./db/ipc-planes/${encodeURIComponent(selectedPlane)}.json`);
+              if (resPl.ok) {
+                const arr = await resPl.json();
+                window.ipcPlaneSetCache[selectedPlane] = new Set((arr || []).map(x => (x || "").toUpperCase()));
+              } else {
+                window.ipcPlaneSetCache[selectedPlane] = new Set();
+              }
+            } catch (e) {
+              window.ipcPlaneSetCache[selectedPlane] = new Set();
+            }
+          }
+          const planeSet = window.ipcPlaneSetCache[selectedPlane];
+          list = list.filter(p => planeSet.has((p.pn || "").toUpperCase()));
+        }
+
+        // Apply filters
+        const q = (ipcState.filters.q || "").trim().toUpperCase();
+        const family = (ipcState.filters.family || "ALL").toUpperCase();
+        const relation = (ipcState.filters.relation || "ALL").toUpperCase();
+        const installed = (ipcState.filters.installed || "ALL").toUpperCase();
+        const hasAd = (ipcState.filters.hasAd || "ALL").toUpperCase();
+
+        if (q || family !== "ALL" || relation !== "ALL" || installed !== "ALL" || hasAd !== "ALL") {
+          list = list.filter(p => {
+            if (family !== "ALL") {
+              const fams = (p.fams || p.families || []).map(f => (f || "").toUpperCase());
+              if (!fams.some(f => f.includes(family))) return false;
+            }
+            const isInst = p.installed !== undefined ? p.installed : p.inst;
+            if (installed === "YES" && !isInst) return false;
+            if (installed === "NO" && isInst) return false;
+
+            const adCount = p.adCount !== undefined ? p.adCount : (p.matchedAds ? p.matchedAds.length : 0);
+            if (hasAd === "YES" && adCount === 0) return false;
+            if (hasAd === "NO" && adCount > 0) return false;
+
+            if (relation === "2WAY") {
+              const ics = p.ics || p.interchanges || [];
+              if (!ics.some(x => x.is2Way || (x.rel && x.rel.includes("2-Way")))) return false;
+            } else if (relation === "1WAY") {
+              const ics = p.ics || p.interchanges || [];
+              if (!ics.some(x => x.is2Way === false || (x.rel && x.rel.includes("1-Way")))) return false;
+            } else if (relation === "NONE") {
+              const icCount = p.icCount !== undefined ? p.icCount : (p.interchanges ? p.interchanges.length : 0);
+              if (icCount > 0) return false;
+            }
+
+            if (q) {
+              const target = `${p.pn || ""} ${p.desc || ""} ${p.mfr || ""} ${p.ipcRef || ""}`.toUpperCase();
+              if (target.indexOf(q) === -1) return false;
+            }
+            return true;
+          });
+        }
+
+        totalParts = list.length;
+        const start = (page - 1) * ipcState.pageSize;
+        parts = list.slice(start, start + ipcState.pageSize);
+        elapsedMs = Math.round(performance.now() - t0);
+      }
+
+      ipcState.parts = parts;
+      ipcState.totalParts = totalParts;
 
       renderIpcPartsTable(ipcState.parts);
 
       const totalPages = Math.ceil(ipcState.totalParts / ipcState.pageSize) || 1;
       if (pageInfo) {
-        pageInfo.textContent = `Trang ${page} / ${totalPages} (Tổng số ${Number(ipcState.totalParts).toLocaleString("en-US")} phụ tùng • ${data.elapsedMs || 0}ms)`;
+        pageInfo.textContent = `Trang ${page} / ${totalPages} (Tổng số ${Number(ipcState.totalParts).toLocaleString("en-US")} phụ tùng • ${elapsedMs}ms)`;
       }
       if (counterText) {
         counterText.textContent = `Tìm thấy ${Number(ipcState.totalParts).toLocaleString("en-US")} kết quả`;
@@ -5022,11 +5131,15 @@ ${bodyRows}
     }
 
     const html = items.map((p) => {
-      const installedBadge = p.installed
-        ? `<span class="badge badge-success" style="font-size:10px;padding:1px 5px;font-weight:700;">✅ Active (${p.planeCount || 0})</span>`
+      const isInst = p.installed !== undefined ? p.installed : p.inst;
+      const planeCount = p.planeCount || 0;
+      const lineCount = p.lineItems !== undefined ? p.lineItems : (p.lines || 0);
+
+      const installedBadge = isInst
+        ? `<span class="badge badge-success" style="font-size:10px;padding:1px 5px;font-weight:700;">✅ Active (${planeCount})</span>`
         : `<span class="badge" style="font-size:10px;padding:1px 5px;background:rgba(255,255,255,0.08);color:var(--text-muted);">🚫 Spare</span>`;
 
-      const famBadges = (p.families || [])
+      const famBadges = (p.families || p.fams || [])
         .map((f) => {
           let col = "#93c5fd";
           let bg = "rgba(59,130,246,0.18)";
@@ -5038,7 +5151,28 @@ ${bodyRows}
 
       // Render interchange summary (Grouped by 2-Way / 1-Way)
       let icHtml = `<span style="color:var(--text-muted);font-size:12px;">Không có</span>`;
-      if (p.interchanges && p.interchanges.length > 0) {
+      const ics = p.ics || [];
+      const distinctCount = p.icCount !== undefined ? p.icCount : (p.interchanges ? p.interchanges.length : 0);
+
+      if (ics.length > 0) {
+        const lines = ics.slice(0, 2).map((ic) => {
+          const tag = ic.is2Way ? "↔️ 2-Way" : "➡️ 1-Way";
+          const tagCol = ic.is2Way ? "#34d399" : "#fbbf24";
+          const tagBg = ic.is2Way ? "rgba(16,185,129,0.18)" : "rgba(234,179,8,0.18)";
+          const tagBorder = ic.is2Way ? "rgba(16,185,129,0.4)" : "rgba(234,179,8,0.4)";
+
+          return `
+            <div style="font-size:12px;margin-bottom:3px;line-height:1.35;display:flex;align-items:center;gap:6px;">
+              <span class="badge" style="background:${tagBg};border:1px solid ${tagBorder};color:${tagCol};font-size:10.5px;font-weight:700;padding:1px 5px;">${tag}</span>
+              <code style="color:#fff;font-weight:700;">${escapeHtml(ic.icPn)}</code>
+            </div>
+          `;
+        });
+        if (distinctCount > 2) {
+          lines.push(`<span style="font-size:11px;color:#c084fc;">+${distinctCount - 2} part thay thế khác...</span>`);
+        }
+        icHtml = lines.join("");
+      } else if (p.interchanges && p.interchanges.length > 0) {
         const icMap = new Map();
         for (const ic of p.interchanges) {
           const k = (ic.icPn || "").trim().toUpperCase();
@@ -5056,7 +5190,7 @@ ${bodyRows}
               break;
             }
           }
-          const is2Way = !hasExplicit1WayReason; // Không cấm tuyệt đối thì đều là 2-Way (hoặc có điều kiện)
+          const is2Way = !hasExplicit1WayReason;
           mergedSummary.push({
             is2Way: is2Way,
             icPn: grp[0].icPn
@@ -5085,9 +5219,12 @@ ${bodyRows}
 
       // Render AD link
       let adHtml = `<span style="color:var(--text-muted);font-size:12px;">---</span>`;
-      if (p.matchedAds && p.matchedAds.length > 0) {
-        const adItems = p.matchedAds.slice(0, 2).map((a) => {
-          const isEasa = a.auth === "EASA";
+      const adList = p.ads || p.matchedAds || [];
+      const totalAds = p.adCount !== undefined ? p.adCount : adList.length;
+
+      if (adList.length > 0) {
+        const adItems = adList.slice(0, 2).map((a) => {
+          const isEasa = (a.auth || "").toUpperCase() === "EASA";
           const flag = isEasa ? "🇪🇺" : "🇺🇸";
           const col = isEasa ? "#34d399" : "#93c5fd";
           return `
@@ -5096,11 +5233,13 @@ ${bodyRows}
             </div>
           `;
         });
-        if (p.matchedAds.length > 2) {
-          adItems.push(`<span style="font-size:11px;color:#fbbf24;font-weight:600;">+${p.matchedAds.length - 2} AD khác</span>`);
+        if (totalAds > 2) {
+          adItems.push(`<span style="font-size:11px;color:#fbbf24;font-weight:600;">+${totalAds - 2} AD khác</span>`);
         }
         adHtml = adItems.join("");
       }
+
+      const refCount = p.refCount || (p.ipcRefs ? p.ipcRefs.length : (p.ipcRef ? 1 : 0));
 
       return `
         <tr class="clickable-ipc-row" data-pn="${escapeHtml(p.pn)}" title="Nhấp vào để xem đầy đủ cấu hình lắp & quan hệ thay thế của Part: ${escapeHtml(p.pn)}">
@@ -5114,7 +5253,7 @@ ${bodyRows}
             ${p.ipcRef ? `
               <div style="display:flex;flex-direction:column;gap:2px;">
                 <code style="font-size:11.5px;font-weight:700;color:#67e8f9;background:rgba(6,182,212,0.12);padding:2px 6px;border-radius:4px;border:1px solid rgba(6,182,212,0.3);display:inline-block;max-width:fit-content;">${escapeHtml(p.ipcRef)}</code>
-                ${p.ipcRefs && p.ipcRefs.length > 1 ? `<span style="font-size:10.5px;color:var(--text-muted);">+${p.ipcRefs.length - 1} vị trí</span>` : ""}
+                ${refCount > 1 ? `<span style="font-size:10.5px;color:var(--text-muted);">+${refCount - 1} vị trí</span>` : ""}
               </div>
             ` : `<span style="color:var(--text-muted);font-size:12px;">---</span>`}
           </td>
@@ -5127,8 +5266,8 @@ ${bodyRows}
           <td style="text-align:center;">${famBadges}</td>
           <td>
             <div style="font-size:11.5px;line-height:1.35;">
-              <div>Lines: <strong>${p.lineItems || 0}</strong></div>
-              <div style="color:var(--text-secondary);font-size:10.5px;">Fleet: <strong>${p.planeCount || 0} A/C</strong></div>
+              <div>Lines: <strong>${lineCount}</strong></div>
+              <div style="color:var(--text-secondary);font-size:10.5px;">Fleet: <strong>${planeCount} A/C</strong></div>
             </div>
           </td>
           <td>${icHtml}</td>
@@ -5171,9 +5310,27 @@ ${bodyRows}
     `;
 
     try {
-      const res = await fetch(getIpcApiUrl(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`));
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const part = await res.json();
+      let part = null;
+      if (!isStaticHost) {
+        try {
+          const res = await fetch(getIpcApiUrl(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`));
+          if (res.ok) part = await res.json();
+        } catch (e) {}
+      }
+
+      // Fallback to static shard
+      if (!part) {
+        const cleanPn = (pn || "").trim();
+        let shardKey = cleanPn.length > 0 ? cleanPn[0].toUpperCase() : "_";
+        if (!/^[0-9A-Z]$/.test(shardKey)) shardKey = "_";
+
+        if (!window.ipcShardCache[shardKey]) {
+          const res = await fetch(`./db/ipc-details/${shardKey}.json`);
+          if (!res.ok) throw new Error(`HTTP ${res.status} khi tải chi tiết phụ tùng`);
+          window.ipcShardCache[shardKey] = await res.json();
+        }
+        part = window.ipcShardCache[shardKey][cleanPn] || null;
+      }
 
       if (!part) {
         elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Không tìm thấy thông tin chi tiết cho Part Number ${escapeHtml(pn)}.</div>`;
@@ -5489,9 +5646,17 @@ ${bodyRows}
     `;
 
     try {
-      const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
+      let data = null;
+      if (!isStaticHost) {
+        try {
+          const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
+          if (res.ok) data = await res.json();
+        } catch (e) {}
+      }
+      if (!data) {
+        const res = await fetch("./db/vjc-ipc-fleet.json");
+        if (res.ok) data = await res.json();
+      }
       ipcState.fleet = Array.isArray(data) ? data : [];
       renderIpcFleetTable(ipcState.fleet);
       if (counterText) {
@@ -5736,11 +5901,18 @@ ${bodyRows}
       if (!sel) return;
       try {
         if (!ipcState.fleet || ipcState.fleet.length === 0) {
-          const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
-          if (res.ok) {
-            const data = await res.json();
-            ipcState.fleet = Array.isArray(data) ? data : [];
+          let data = null;
+          if (!isStaticHost) {
+            try {
+              const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
+              if (res.ok) data = await res.json();
+            } catch (e) {}
           }
+          if (!data) {
+            const res = await fetch("./db/vjc-ipc-fleet.json");
+            if (res.ok) data = await res.json();
+          }
+          ipcState.fleet = Array.isArray(data) ? data : [];
         }
 
         const selectedFamily = (filterFamily?.value || "ALL").toUpperCase();
