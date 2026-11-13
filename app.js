@@ -4844,6 +4844,10 @@ ${bodyRows}
         btnAds.className = "btn btn-outline btn-sm";
         if (tblPn) tblPn.style.display = "";
         if (tblAds) tblAds.style.display = "none";
+        const btnSubPn = document.getElementById("btnIpcSubAppliancesPn");
+        const btnSubAds = document.getElementById("btnIpcSubAppliancesAds");
+        if (btnSubPn) btnSubPn.classList.add("active");
+        if (btnSubAds) btnSubAds.classList.remove("active");
         filterAndRenderAppliances();
       });
 
@@ -4853,6 +4857,10 @@ ${bodyRows}
         btnPn.className = "btn btn-outline btn-sm";
         if (tblPn) tblPn.style.display = "none";
         if (tblAds) tblAds.style.display = "";
+        const btnSubPn = document.getElementById("btnIpcSubAppliancesPn");
+        const btnSubAds = document.getElementById("btnIpcSubAppliancesAds");
+        if (btnSubAds) btnSubAds.classList.add("active");
+        if (btnSubPn) btnSubPn.classList.remove("active");
         filterAndRenderAppliances();
       });
     }
@@ -5070,7 +5078,8 @@ ${bodyRows}
       relation: "ALL",
       installed: "ALL",
       hasAd: "ALL",
-      ata: "ALL"
+      ata: "ALL",
+      partType: "ALL"
     }
   };
 
@@ -5156,6 +5165,7 @@ ${bodyRows}
             installed: ipcState.filters.installed,
             hasAd: ipcState.filters.hasAd,
             ata: ipcState.filters.ata,
+            partType: ipcState.filters.partType,
             page: page,
             pageSize: ipcState.pageSize
           });
@@ -5209,9 +5219,15 @@ ${bodyRows}
         const installed = (ipcState.filters.installed || "ALL").toUpperCase();
         const hasAd = (ipcState.filters.hasAd || "ALL").toUpperCase();
         const ata = (ipcState.filters.ata || "ALL").toUpperCase();
+        const partType = (ipcState.filters.partType || "ALL").toUpperCase();
 
-        if (q || family !== "ALL" || relation !== "ALL" || installed !== "ALL" || hasAd !== "ALL" || ata !== "ALL") {
+        if (q || family !== "ALL" || relation !== "ALL" || installed !== "ALL" || hasAd !== "ALL" || ata !== "ALL" || partType !== "ALL") {
           list = list.filter(p => {
+            if (partType !== "ALL") {
+              const pt = (p.partType || "ROTABLE").toUpperCase();
+              if (pt !== partType) return false;
+            }
+
             if (family !== "ALL") {
               const fams = (p.fams || p.families || []).map(f => (f || "").toUpperCase());
               if (!fams.some(f => f.includes(family))) return false;
@@ -5227,11 +5243,15 @@ ${bodyRows}
             if (ata !== "ALL") {
               const refs = [p.ipcRef || "", ...(p.ipcRefs || [])];
               const prefix = ata + "-";
-              const matchesAta = refs.some(r => {
+              const prefixSlash = ata + "/";
+              const matchingRef = refs.find(r => {
                 const ru = (r || "").toUpperCase();
-                return ru.startsWith(prefix) || ru.startsWith(ata + "/");
+                return ru.startsWith(prefix) || ru.startsWith(prefixSlash);
               });
-              if (!matchesAta) return false;
+              if (!matchingRef) return false;
+              if (matchingRef !== p.ipcRef) {
+                p = Object.assign({}, p, { ipcRef: matchingRef, isSecondaryRef: true });
+              }
             }
 
             if (relation === "2WAY") {
@@ -5254,6 +5274,11 @@ ${bodyRows}
         }
 
         list.sort((a, b) => {
+          if (ata !== "ALL") {
+            const secA = a.isSecondaryRef ? 1 : 0;
+            const secB = b.isSecondaryRef ? 1 : 0;
+            if (secA !== secB) return secA - secB;
+          }
           const refA = a.ipcRef || "";
           const refB = b.ipcRef || "";
           if (refA && refB) {
@@ -5999,17 +6024,21 @@ ${bodyRows}
   }
 
   function initIpcModule() {
-    // 1. Sub-tab switching inside IPC panel
+    // 1. Sub-tab switching inside unified IPC & Appliances panel
     const btnSubParts = document.getElementById("btnIpcSubParts");
+    const btnSubAppliancesPn = document.getElementById("btnIpcSubAppliancesPn");
+    const btnSubAppliancesAds = document.getElementById("btnIpcSubAppliancesAds");
     const btnSubFleet = document.getElementById("btnIpcSubFleet");
     const btnSubGuide = document.getElementById("btnIpcSubGuide");
+
     const panelParts = document.getElementById("ipcSubPanelParts");
+    const panelAppliances = document.getElementById("ipcSubPanelAppliances");
     const panelFleet = document.getElementById("ipcSubPanelFleet");
     const panelGuide = document.getElementById("ipcSubPanelGuide");
 
     function switchIpcSubTab(activeBtn, activePanel) {
-      [btnSubParts, btnSubFleet, btnSubGuide].forEach((b) => b && b.classList.remove("active"));
-      [panelParts, panelFleet, panelGuide].forEach((p) => p && (p.style.display = "none"));
+      [btnSubParts, btnSubAppliancesPn, btnSubAppliancesAds, btnSubFleet, btnSubGuide].forEach((b) => b && b.classList.remove("active"));
+      [panelParts, panelAppliances, panelFleet, panelGuide].forEach((p) => p && (p.style.display = "none"));
       if (activeBtn) activeBtn.classList.add("active");
       if (activePanel) activePanel.style.display = "block";
     }
@@ -6018,6 +6047,38 @@ ${bodyRows}
       btnSubParts.addEventListener("click", () => {
         switchIpcSubTab(btnSubParts, panelParts);
         if (ipcState.parts.length === 0) fetchIpcParts(1);
+      });
+    }
+
+    if (btnSubAppliancesPn) {
+      btnSubAppliancesPn.addEventListener("click", () => {
+        switchIpcSubTab(btnSubAppliancesPn, panelAppliances);
+        applianceViewMode = "PN";
+        const btnPn = document.getElementById("btnViewByPartNumber");
+        const btnAds = document.getElementById("btnViewByApplianceAds");
+        if (btnPn) { btnPn.className = "btn btn-primary btn-sm"; }
+        if (btnAds) { btnAds.className = "btn btn-outline btn-sm"; }
+        const tblPn = document.getElementById("tableAppliancesPn");
+        const tblAds = document.getElementById("tableAppliancesAds");
+        if (tblPn) tblPn.style.display = "";
+        if (tblAds) tblAds.style.display = "none";
+        filterAndRenderAppliances();
+      });
+    }
+
+    if (btnSubAppliancesAds) {
+      btnSubAppliancesAds.addEventListener("click", () => {
+        switchIpcSubTab(btnSubAppliancesAds, panelAppliances);
+        applianceViewMode = "AD";
+        const btnPn = document.getElementById("btnViewByPartNumber");
+        const btnAds = document.getElementById("btnViewByApplianceAds");
+        if (btnAds) { btnAds.className = "btn btn-primary btn-sm"; }
+        if (btnPn) { btnPn.className = "btn btn-outline btn-sm"; }
+        const tblPn = document.getElementById("tableAppliancesPn");
+        const tblAds = document.getElementById("tableAppliancesAds");
+        if (tblPn) tblPn.style.display = "none";
+        if (tblAds) tblAds.style.display = "";
+        filterAndRenderAppliances();
       });
     }
 
@@ -6031,6 +6092,15 @@ ${bodyRows}
     if (btnSubGuide) {
       btnSubGuide.addEventListener("click", () => {
         switchIpcSubTab(btnSubGuide, panelGuide);
+      });
+    }
+
+    const navTabAppliances = document.getElementById("navTabAppliances");
+    if (navTabAppliances) {
+      navTabAppliances.addEventListener("click", () => {
+        const navIpc = document.getElementById("navTabIpc");
+        if (navIpc) navIpc.click();
+        if (btnSubAppliancesPn) btnSubAppliancesPn.click();
       });
     }
 
@@ -6102,6 +6172,7 @@ ${bodyRows}
     const filterInstalled = document.getElementById("filterIpcInstalled");
     const filterAdStatus = document.getElementById("filterIpcAdStatus");
     const filterAta = document.getElementById("filterIpcAta");
+    const filterPartType = document.getElementById("filterIpcPartType");
     const btnReset = document.getElementById("btnResetIpcFilters");
 
     async function populateIpcPlaneDropdown() {
@@ -6184,6 +6255,7 @@ ${bodyRows}
       ipcState.filters.installed = filterInstalled ? filterInstalled.value : "ALL";
       ipcState.filters.hasAd = filterAdStatus ? filterAdStatus.value : "ALL";
       ipcState.filters.ata = filterAta ? filterAta.value : "ALL";
+      ipcState.filters.partType = filterPartType ? filterPartType.value : "ALL";
       fetchIpcParts(1);
     }
 
@@ -6204,7 +6276,7 @@ ${bodyRows}
       });
     }
 
-    [filterPlane, filterRelation, filterInstalled, filterAdStatus, filterAta].forEach((sel) => {
+    [filterPlane, filterRelation, filterInstalled, filterAdStatus, filterAta, filterPartType].forEach((sel) => {
       if (sel) sel.addEventListener("change", applyPartsSearch);
     });
 
@@ -6217,6 +6289,7 @@ ${bodyRows}
         if (filterInstalled) filterInstalled.value = "ALL";
         if (filterAdStatus) filterAdStatus.value = "ALL";
         if (filterAta) filterAta.value = "ALL";
+        if (filterPartType) filterPartType.value = "ALL";
         populateIpcPlaneDropdown();
         applyPartsSearch();
       });

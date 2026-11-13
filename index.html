@@ -61,16 +61,13 @@
         <span class="tab-count" id="navCountFleet">111</span>
         <span id="navTabFleetTitleCount" style="display:none;">111</span>
       </button>
-      <button class="nav-tab" data-tab="tab-appliances" id="navTabAppliances" title="Filter ADs by Appliances & Equipment">
+      <button class="nav-tab" data-tab="tab-ipc" id="navTabIpc" title="Vật Tư, Phụ Tùng IPC, Thiết Bị AMOS &amp; AD Quy Định">
         <span class="tab-icon">🧰</span>
-        <span class="tab-label">Appliances AD</span>
-        <span class="tab-count" id="navCountAppliances" style="background:rgba(59,130,246,0.2);color:#60a5fa;border-color:rgba(59,130,246,0.4);">68</span>
-      </button>
-      <button class="nav-tab" data-tab="tab-ipc" id="navTabIpc" title="Airbus IPC Catalog & Interchange Relationships">
-        <span class="tab-icon">📖</span>
-        <span class="tab-label">IPC &amp; Interchange</span>
+        <span class="tab-label">Vật Tư &amp; Phụ Tùng (IPC / AD)</span>
         <span class="tab-count" id="navCountIpc" style="background:rgba(168,85,247,0.2);color:#c084fc;border-color:rgba(168,85,247,0.4);">114,648</span>
       </button>
+      <button id="navTabAppliances" style="display:none;"></button>
+      <span id="navCountAppliances" style="display:none;"></span>
       <button class="nav-tab" data-tab="tab-live" title="Online Live Search (FAA / EASA)">
         <span class="tab-icon">🌐</span>
         <span class="tab-label">Live Search</span>
@@ -417,9 +414,286 @@
       </div>
     </section>
 
-    <!-- TAB 4: APPLIANCES & EQUIPMENT FILTER -->
-    <section class="tab-panel" id="tab-appliances">
-      <!-- Appliances Hero / Explanation Banner -->
+    <!-- TAB: IPC & INTERCHANGE PARTS DATABASE -->
+    <section class="tab-panel" id="tab-ipc">
+      <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(168,85,247,0.12),rgba(59,130,246,0.08));border-color:rgba(168,85,247,0.45);">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
+          <div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <span class="badge" style="background:rgba(168,85,247,0.25);border:1px solid rgba(168,85,247,0.8);color:#d8b4fe;font-size:12px;font-weight:700;">
+                📖 IPC AIRBUS CATALOG &amp; INTERCHANGE
+              </span>
+              <strong style="font-size:15px;color:#fff;">
+                Cơ Sở Dữ Liệu Tra Cứu IPC (Illustrated Parts Catalog) &amp; Phụ Tùng Interchange
+              </strong>
+              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('btnIpcSubAppliancesPn')?.click()" style="border-color:rgba(59,130,246,0.5);color:#93c5fd;font-size:11px;padding:2px 8px;">
+                🏷️ Xem thiết bị kiểm kê AMOS VJC (150,633 vật tư)
+              </button>
+            </div>
+            <p class="desktop-only-text" style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
+              Tích hợp 3 tệp IPC Airbus: <strong>A330</strong> (15 cấu hình FSN), <strong>A320ceo/A321ceo</strong> (64 FSN) và <strong>A321neo</strong> (67 FSN) • Tổng cộng <strong>146 cấu hình tàu</strong> • <strong>114,648 Part Numbers</strong> • <strong>119,435 Quan hệ Interchange</strong> (Replaced by / Replaces / Spare / Alternate) • <strong>222 Part Numbers</strong> khớp Airworthiness Directives (AD).
+            </p>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+            <button class="btn btn-outline btn-sm active" id="btnIpcSubParts" style="border-color:rgba(168,85,247,0.6);color:#d8b4fe;font-weight:700;">
+              📖 Phụ Tùng IPC &amp; Thay Thế
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubAppliancesPn" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-weight:700;">
+              🏷️ Thiết Bị AMOS VJC (3,987 P/N)
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubAppliancesAds" style="border-color:rgba(245,158,11,0.6);color:#fcd34d;font-weight:700;">
+              📜 Danh Sách AD Thiết Bị (47 AD)
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubFleet" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-weight:700;">
+              ✈️ Đội Bay IPC (146 Tàu)
+            </button>
+            <button class="btn btn-outline btn-sm" id="btnIpcSubGuide" style="border-color:rgba(16,185,129,0.6);color:#34d399;font-weight:700;">
+              📚 Hướng Dẫn IPC
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- IPC KPI Summary Row -->
+      <section class="kpi-grid" id="ipcKpiGrid" style="margin-bottom:16px;">
+        <div class="kpi-card" id="cardIpcTotalPn" style="cursor:pointer;" title="Bấm để xem toàn bộ danh mục Part Number trong IPC">
+          <div class="kpi-header">
+            <span>Tổng Part Number (IPC)</span>
+            <span>📦</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalPn" style="color:#c084fc;">114,648</div>
+          <div class="kpi-sub">Duy nhất qua A330, CEO, NEO</div>
+        </div>
+
+        <div class="kpi-card kpi-success" id="cardIpcInterchanges" style="cursor:pointer;" title="Bấm để lọc linh kiện có quan hệ thay thế Interchange">
+          <div class="kpi-header">
+            <span>Quan Hệ Interchange</span>
+            <span>🔄</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalInterchanges" style="color:#34d399;">119,435</div>
+          <div class="kpi-sub">2-Way &amp; 1-Way Interchange</div>
+        </div>
+
+        <div class="kpi-card" id="cardIpcFleet" style="cursor:pointer;" title="Bấm để xem danh sách 146 cấu hình tàu bay FSN trong IPC">
+          <div class="kpi-header">
+            <span>Đội Tàu Bay Trong IPC</span>
+            <span>✈️</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiTotalFleet" style="color:#60a5fa;">146</div>
+          <div class="kpi-sub">15 A330 • 64 CEO • 67 NEO (FSN)</div>
+        </div>
+
+        <div class="kpi-card kpi-warning" id="cardIpcMatchedAds" style="cursor:pointer;" title="Bấm để lọc Part Number có quy định Airworthiness Directives (AD)">
+          <div class="kpi-header">
+            <span>Part Khớp Hồ Sơ AD</span>
+            <span>⚠️</span>
+          </div>
+          <div class="kpi-value" id="ipcKpiMatchedAds" style="color:#fbbf24;">222</div>
+          <div class="kpi-sub">Có AD quy định an toàn bay</div>
+        </div>
+      </section>
+
+      <!-- SUB-PANEL 1: PARTS & INTERCHANGE SEARCH -->
+      <div id="ipcSubPanelParts">
+        <div class="filter-panel" style="margin-bottom:16px;">
+          <div class="filter-grid" style="grid-template-columns:repeat(auto-fit,minmax(210px,1fr));">
+            <div class="form-group" style="grid-column:1 / -1;">
+              <label for="ipcSearchInput" style="font-weight:700;color:#c084fc;">
+                🔍 Tìm kiếm Phụ Tùng / Part Number (P/N), Tên linh kiện, Mã MFR, P/N Interchange hoặc Số hiệu AD
+              </label>
+              <div style="display:flex;gap:10px;">
+                <input
+                  type="text"
+                  id="ipcSearchInput"
+                  class="form-control"
+                  style="border-color:rgba(168,85,247,0.5);font-size:14px;"
+                  placeholder="Nhập Part Number (VD: 0861ED4, C16291AB, 0-0-6S, SCREW, SENSOR, VALVE, RR, CFM...)"
+                />
+                <button class="btn btn-primary" id="btnIpcSearch" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;min-width:130px;">
+                  🔎 Tìm Kiếm
+                </button>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcFamily">Dòng Tàu Bay (Fleet Family)</label>
+              <select id="filterIpcFamily" class="form-control">
+                <option value="ALL">🌐 Tất cả dòng tàu (A330, CEO, NEO)</option>
+                <option value="A330">Airbus A330 (15 FSN)</option>
+                <option value="A320/A321ceo">Airbus A320ceo &amp; A321ceo (64 FSN)</option>
+                <option value="A321neo">Airbus A321neo (67 FSN)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcPlane">Số Đăng Bạ Tàu Bay (Aircraft / Registration)</label>
+              <select id="filterIpcPlane" class="form-control">
+                <option value="ALL">✈️ Tất cả tàu bay (146 tàu)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcRelation">Quan Hệ Thay Thế (Interchange)</label>
+              <select id="filterIpcRelation" class="form-control">
+                <option value="ALL">Tất cả phụ tùng</option>
+                <option value="2WAY">↔️ 2-Way Interchange (Thay thế 2 chiều)</option>
+                <option value="1WAY">➡️ 1-Way Interchange (Thay thế 1 chiều)</option>
+                <option value="NONE">🚫 Không có Interchange (No Interchange / P/N độc lập)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcPartType" style="font-weight:700;color:#c084fc;">Phân loại Vật tư (Part Type)</label>
+              <select id="filterIpcPartType" class="form-control" style="border-color:rgba(168,85,247,0.5);">
+                <option value="ALL">🌐 Tất cả loại vật tư (Rotable + Consumable)</option>
+                <option value="ROTABLE">💎 Rotable (Thiết bị tuần hoàn / Serialized)</option>
+                <option value="CONSUMABLE">🔩 Consumable / Hardware (Vật tư tiêu hao / Ốc, Vít, Tán, Đệm, Seal)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcAta">Chương ATA (ATA Chapter)</label>
+              <select id="filterIpcAta" class="form-control">
+                <option value="ALL">🌐 Tất cả Chương ATA</option>
+                <option value="11">ATA 11 — Placards &amp; Markings (Nhãn &amp; Bảng chỉ dẫn)</option>
+                <option value="21">ATA 21 — Air Conditioning (Điều hòa &amp; Áp suất)</option>
+                <option value="22">ATA 22 — Auto Flight (Lái tự động)</option>
+                <option value="23">ATA 23 — Communications (Liên lạc &amp; Đàm thoại)</option>
+                <option value="24">ATA 24 — Electrical Power (Hệ thống điện)</option>
+                <option value="25">ATA 25 — Equipment / Furnishings (Nội thất &amp; Thiết bị)</option>
+                <option value="26">ATA 26 — Fire Protection (Báo cháy &amp; Dập lửa)</option>
+                <option value="27">ATA 27 — Flight Controls (Điều khiển bay)</option>
+                <option value="28">ATA 28 — Fuel (Nhiên liệu)</option>
+                <option value="29">ATA 29 — Hydraulic Power (Thủy lực)</option>
+                <option value="30">ATA 30 — Ice &amp; Rain Protection (Chống băng tuyết)</option>
+                <option value="31">ATA 31 — Indicating / Recording (Hiển thị &amp; Ghi dữ liệu)</option>
+                <option value="32">ATA 32 — Landing Gear (Bộ càng đáp &amp; Phanh)</option>
+                <option value="33">ATA 33 — Lights (Hệ thống đèn)</option>
+                <option value="34">ATA 34 — Navigation (Dẫn đường &amp; Cảm biến)</option>
+                <option value="35">ATA 35 — Oxygen (Dưỡng khí oxy)</option>
+                <option value="36">ATA 36 — Pneumatic (Khí nén Bleed Air)</option>
+                <option value="38">ATA 38 — Water / Waste (Nước sạch &amp; Xả thải)</option>
+                <option value="49">ATA 49 — Airborne Auxiliary Power (Động cơ phụ APU)</option>
+                <option value="52">ATA 52 — Doors (Hệ thống cửa tàu bay)</option>
+                <option value="53">ATA 53 — Fuselage (Kết cấu thân tàu)</option>
+                <option value="54">ATA 54 — Nacelles / Pylons (Vỏ &amp; Giá treo động cơ)</option>
+                <option value="55">ATA 55 — Stabilizers (Cánh đuôi ngang/đứng)</option>
+                <option value="56">ATA 56 — Windows (Kính chắn gió &amp; Cửa sổ)</option>
+                <option value="57">ATA 57 — Wings (Kết cấu cánh)</option>
+                <option value="71">ATA 71 — Power Plant (Cụm động cơ)</option>
+                <option value="72">ATA 72 — Engine (Động cơ lõi / Turbine / Fan)</option>
+                <option value="73">ATA 73 — Engine Fuel &amp; Control (Điều khiển nhiên liệu động cơ)</option>
+                <option value="74">ATA 74 — Ignition (Đánh lửa động cơ)</option>
+                <option value="75">ATA 75 — Air (Khí làm mát động cơ)</option>
+                <option value="76">ATA 76 — Engine Controls (Hệ thống tay ga)</option>
+                <option value="77">ATA 77 — Engine Indicating (Thông số động cơ)</option>
+                <option value="78">ATA 78 — Exhaust (Ống xả &amp; Đảo chiều Reverser)</option>
+                <option value="79">ATA 79 — Engine Oil (Dầu bôi trơn động cơ)</option>
+                <option value="80">ATA 80 — Starting (Khởi động động cơ)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcInstalled">Tình Trạng Lắp Trên Đội Bay (Installed)</label>
+              <select id="filterIpcInstalled" class="form-control">
+                <option value="ALL">Tất cả tình trạng (Đã lắp + Chưa lắp)</option>
+                <option value="YES">✅ Installed on Fleet (Yes - Đang lắp trên tàu)</option>
+                <option value="NO">🚫 Not installed / Spare only (No - Phụ tùng / Chưa lắp)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcAdStatus">Liên Kết Airworthiness Directives (AD)</label>
+              <select id="filterIpcAdStatus" class="form-control">
+                <option value="ALL">Tất cả (Có AD hoặc không có AD)</option>
+                <option value="YES">⚠️ Chỉ part CÓ AD LIÊN QUAN (198 P/N)</option>
+                <option value="NO">Part chưa có AD</option>
+              </select>
+            </div>
+
+            <div class="form-group" style="align-self:flex-end;">
+              <button class="btn btn-outline" id="btnResetIpcFilters" style="width:100%;">
+                🔄 Đặt Lại Bộ Lọc
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Parts Table Card -->
+        <div class="table-card">
+          <div class="table-toolbar">
+            <div>
+              <strong>Bảng Danh Mục Phụ Tùng IPC &amp; Quan Hệ Interchange</strong>
+              <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="ipcPartsCounterText">Đang tải...</span>
+            </div>
+            <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+              <button class="btn btn-primary btn-sm" id="btnExportIpcExcel" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;" title="Xuất dữ liệu phụ tùng IPC ra file Excel">
+                📥 Xuất Excel Phụ Tùng
+              </button>
+              <span style="font-size:12px;color:var(--text-secondary);">
+                Nhấp vào <strong>bất kỳ dòng linh kiện nào</strong> để xem chi tiết đầy đủ quan hệ thay thế, vị trí lắp ATA &amp; AD áp dụng
+              </span>
+            </div>
+          </div>
+
+          <div class="table-responsive">
+            <table class="ad-table" id="tableIpcParts">
+              <thead>
+                <tr>
+                  <th style="width:14%;" title="Part Number">
+                    <span class="col-full">Part Number</span>
+                    <span class="col-compact">P/N</span>
+                  </th>
+                  <th style="width:13%;" title="Airbus IPC Reference: ATA-Fig-Item">
+                    <span class="col-full">IPC Ref</span>
+                    <span class="col-compact">📍 Ref</span>
+                  </th>
+                  <th style="width:20%;" title="Component Description">
+                    <span class="col-full">Description</span>
+                    <span class="col-compact">Desc</span>
+                  </th>
+                  <th style="width:7%;text-align:center;" title="Manufacturer Code">
+                    <span class="col-full">MFR</span>
+                    <span class="col-compact">MFR</span>
+                  </th>
+                  <th style="width:9%;text-align:center;" title="Fleet Family (A330, CEO, NEO)">
+                    <span class="col-full">Fleet</span>
+                    <span class="col-compact">Fleet</span>
+                  </th>
+                  <th style="width:11%;" title="Installed on Fleet">
+                    <span class="col-full">Installed</span>
+                    <span class="col-compact">Inst</span>
+                  </th>
+                  <th style="width:16%;" title="Interchange Relationship (2-Way / 1-Way)">
+                    <span class="col-full">Interchange</span>
+                    <span class="col-compact">🔄 Icy</span>
+                  </th>
+                  <th style="width:10%;" title="Airworthiness Directives">
+                    <span class="col-full">Related AD</span>
+                    <span class="col-compact">AD</span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody id="ipcPartsTableBody"></tbody>
+            </table>
+          </div>
+
+          <!-- Pagination for IPC Parts -->
+          <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-top:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:10px;">
+            <div style="font-size:12.5px;color:var(--text-secondary);" id="ipcPartsPageInfo">Trang 1 / 1</div>
+            <div style="display:flex;gap:6px;">
+              <button class="btn btn-outline btn-sm" id="btnIpcPrevPage">◀ Trang trước</button>
+              <button class="btn btn-outline btn-sm" id="btnIpcNextPage">Trang sau ▶</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SUB-PANEL 2: IPC FLEET (146 AIRCRAFT) -->
+      
+      <!-- SUB-PANEL 2: AMOS VJC APPLIANCES & COMPONENTS INVENTORY & ADs -->
+      <div id="ipcSubPanelAppliances" style="display:none;">
+        <!-- Appliances Hero / Explanation Banner -->
       <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(59,130,246,0.12),rgba(147,51,234,0.1));border-color:rgba(59,130,246,0.45);">
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
           <div>
@@ -430,7 +704,7 @@
               <span class="badge" style="background:rgba(59,130,246,0.25);border:1px solid #3b82f6;color:#bfdbfe;font-size:11px;">
                 150,633 Vật Tư • 3,987 P/N • 110 Tàu VJC (68 P/N có AD)
               </span>
-              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('navTabIpc')?.click()" style="border-color:rgba(168,85,247,0.5);color:#d8b4fe;font-size:11px;padding:2px 8px;">
+              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('btnIpcSubParts')?.click()" style="border-color:rgba(168,85,247,0.5);color:#d8b4fe;font-size:11px;padding:2px 8px;">
                 📖 Xem 114,648 P/N Airbus IPC (222 có AD) ↗
               </button>
             </div>
@@ -613,269 +887,8 @@
           </div>
         </div>
       </div>
-    </section>
-
-    <!-- TAB: IPC & INTERCHANGE PARTS DATABASE -->
-    <section class="tab-panel" id="tab-ipc">
-      <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(168,85,247,0.12),rgba(59,130,246,0.08));border-color:rgba(168,85,247,0.45);">
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
-          <div>
-            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <span class="badge" style="background:rgba(168,85,247,0.25);border:1px solid rgba(168,85,247,0.8);color:#d8b4fe;font-size:12px;font-weight:700;">
-                📖 IPC AIRBUS CATALOG &amp; INTERCHANGE
-              </span>
-              <strong style="font-size:15px;color:#fff;">
-                Cơ Sở Dữ Liệu Tra Cứu IPC (Illustrated Parts Catalog) &amp; Phụ Tùng Interchange
-              </strong>
-              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('navTabAppliances')?.click()" style="border-color:rgba(59,130,246,0.5);color:#93c5fd;font-size:11px;padding:2px 8px;">
-                🧰 Xem 3,987 P/N thiết bị kiểm kê VJC (68 có AD) ↗
-              </button>
-            </div>
-            <p class="desktop-only-text" style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
-              Tích hợp 3 tệp IPC Airbus: <strong>A330</strong> (15 cấu hình FSN), <strong>A320ceo/A321ceo</strong> (64 FSN) và <strong>A321neo</strong> (67 FSN) • Tổng cộng <strong>146 cấu hình tàu</strong> • <strong>114,648 Part Numbers</strong> • <strong>119,435 Quan hệ Interchange</strong> (Replaced by / Replaces / Spare / Alternate) • <strong>222 Part Numbers</strong> khớp Airworthiness Directives (AD).
-            </p>
-          </div>
-          <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
-            <button class="btn btn-outline btn-sm active" id="btnIpcSubParts" style="border-color:rgba(168,85,247,0.6);color:#d8b4fe;font-weight:700;">
-              🔍 Tra Cứu Phụ Tùng &amp; Interchange
-            </button>
-            <button class="btn btn-outline btn-sm" id="btnIpcSubFleet" style="border-color:rgba(59,130,246,0.6);color:#93c5fd;font-weight:700;">
-              ✈️ Đội Bay IPC (146 Tàu)
-            </button>
-            <button class="btn btn-outline btn-sm" id="btnIpcSubGuide" style="border-color:rgba(16,185,129,0.6);color:#34d399;font-weight:700;">
-              📚 Hướng Dẫn Cấu Trúc 4 Tab IPC
-            </button>
-          </div>
-        </div>
       </div>
 
-      <!-- IPC KPI Summary Row -->
-      <section class="kpi-grid" id="ipcKpiGrid" style="margin-bottom:16px;">
-        <div class="kpi-card" id="cardIpcTotalPn" style="cursor:pointer;" title="Bấm để xem toàn bộ danh mục Part Number trong IPC">
-          <div class="kpi-header">
-            <span>Tổng Part Number (IPC)</span>
-            <span>📦</span>
-          </div>
-          <div class="kpi-value" id="ipcKpiTotalPn" style="color:#c084fc;">114,648</div>
-          <div class="kpi-sub">Duy nhất qua A330, CEO, NEO</div>
-        </div>
-
-        <div class="kpi-card kpi-success" id="cardIpcInterchanges" style="cursor:pointer;" title="Bấm để lọc linh kiện có quan hệ thay thế Interchange">
-          <div class="kpi-header">
-            <span>Quan Hệ Interchange</span>
-            <span>🔄</span>
-          </div>
-          <div class="kpi-value" id="ipcKpiTotalInterchanges" style="color:#34d399;">119,435</div>
-          <div class="kpi-sub">2-Way &amp; 1-Way Interchange</div>
-        </div>
-
-        <div class="kpi-card" id="cardIpcFleet" style="cursor:pointer;" title="Bấm để xem danh sách 146 cấu hình tàu bay FSN trong IPC">
-          <div class="kpi-header">
-            <span>Đội Tàu Bay Trong IPC</span>
-            <span>✈️</span>
-          </div>
-          <div class="kpi-value" id="ipcKpiTotalFleet" style="color:#60a5fa;">146</div>
-          <div class="kpi-sub">15 A330 • 64 CEO • 67 NEO (FSN)</div>
-        </div>
-
-        <div class="kpi-card kpi-warning" id="cardIpcMatchedAds" style="cursor:pointer;" title="Bấm để lọc Part Number có quy định Airworthiness Directives (AD)">
-          <div class="kpi-header">
-            <span>Part Khớp Hồ Sơ AD</span>
-            <span>⚠️</span>
-          </div>
-          <div class="kpi-value" id="ipcKpiMatchedAds" style="color:#fbbf24;">222</div>
-          <div class="kpi-sub">Có AD quy định an toàn bay</div>
-        </div>
-      </section>
-
-      <!-- SUB-PANEL 1: PARTS & INTERCHANGE SEARCH -->
-      <div id="ipcSubPanelParts">
-        <div class="filter-panel" style="margin-bottom:16px;">
-          <div class="filter-grid" style="grid-template-columns:repeat(auto-fit,minmax(210px,1fr));">
-            <div class="form-group" style="grid-column:1 / -1;">
-              <label for="ipcSearchInput" style="font-weight:700;color:#c084fc;">
-                🔍 Tìm kiếm Phụ Tùng / Part Number (P/N), Tên linh kiện, Mã MFR, P/N Interchange hoặc Số hiệu AD
-              </label>
-              <div style="display:flex;gap:10px;">
-                <input
-                  type="text"
-                  id="ipcSearchInput"
-                  class="form-control"
-                  style="border-color:rgba(168,85,247,0.5);font-size:14px;"
-                  placeholder="Nhập Part Number (VD: 0861ED4, C16291AB, 0-0-6S, SCREW, SENSOR, VALVE, RR, CFM...)"
-                />
-                <button class="btn btn-primary" id="btnIpcSearch" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;min-width:130px;">
-                  🔎 Tìm Kiếm
-                </button>
-              </div>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcFamily">Dòng Tàu Bay (Fleet Family)</label>
-              <select id="filterIpcFamily" class="form-control">
-                <option value="ALL">🌐 Tất cả dòng tàu (A330, CEO, NEO)</option>
-                <option value="A330">Airbus A330 (15 FSN)</option>
-                <option value="A320/A321ceo">Airbus A320ceo &amp; A321ceo (64 FSN)</option>
-                <option value="A321neo">Airbus A321neo (67 FSN)</option>
-              </select>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcPlane">Số Đăng Bạ Tàu Bay (Aircraft / Registration)</label>
-              <select id="filterIpcPlane" class="form-control">
-                <option value="ALL">✈️ Tất cả tàu bay (146 tàu)</option>
-              </select>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcRelation">Quan Hệ Thay Thế (Interchange)</label>
-              <select id="filterIpcRelation" class="form-control">
-                <option value="ALL">Tất cả phụ tùng</option>
-                <option value="2WAY">↔️ 2-Way Interchange (Thay thế 2 chiều)</option>
-                <option value="1WAY">➡️ 1-Way Interchange (Thay thế 1 chiều)</option>
-                <option value="NONE">🚫 Không có Interchange (No Interchange / P/N độc lập)</option>
-              </select>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcAta">Chương ATA (ATA Chapter)</label>
-              <select id="filterIpcAta" class="form-control">
-                <option value="ALL">🌐 Tất cả Chương ATA</option>
-                <option value="11">ATA 11 — Placards &amp; Markings (Nhãn &amp; Bảng chỉ dẫn)</option>
-                <option value="21">ATA 21 — Air Conditioning (Điều hòa &amp; Áp suất)</option>
-                <option value="22">ATA 22 — Auto Flight (Lái tự động)</option>
-                <option value="23">ATA 23 — Communications (Liên lạc &amp; Đàm thoại)</option>
-                <option value="24">ATA 24 — Electrical Power (Hệ thống điện)</option>
-                <option value="25">ATA 25 — Equipment / Furnishings (Nội thất &amp; Thiết bị)</option>
-                <option value="26">ATA 26 — Fire Protection (Báo cháy &amp; Dập lửa)</option>
-                <option value="27">ATA 27 — Flight Controls (Điều khiển bay)</option>
-                <option value="28">ATA 28 — Fuel (Nhiên liệu)</option>
-                <option value="29">ATA 29 — Hydraulic Power (Thủy lực)</option>
-                <option value="30">ATA 30 — Ice &amp; Rain Protection (Chống băng tuyết)</option>
-                <option value="31">ATA 31 — Indicating / Recording (Hiển thị &amp; Ghi dữ liệu)</option>
-                <option value="32">ATA 32 — Landing Gear (Bộ càng đáp &amp; Phanh)</option>
-                <option value="33">ATA 33 — Lights (Hệ thống đèn)</option>
-                <option value="34">ATA 34 — Navigation (Dẫn đường &amp; Cảm biến)</option>
-                <option value="35">ATA 35 — Oxygen (Dưỡng khí oxy)</option>
-                <option value="36">ATA 36 — Pneumatic (Khí nén Bleed Air)</option>
-                <option value="38">ATA 38 — Water / Waste (Nước sạch &amp; Xả thải)</option>
-                <option value="49">ATA 49 — Airborne Auxiliary Power (Động cơ phụ APU)</option>
-                <option value="52">ATA 52 — Doors (Hệ thống cửa tàu bay)</option>
-                <option value="53">ATA 53 — Fuselage (Kết cấu thân tàu)</option>
-                <option value="54">ATA 54 — Nacelles / Pylons (Vỏ &amp; Giá treo động cơ)</option>
-                <option value="55">ATA 55 — Stabilizers (Cánh đuôi ngang/đứng)</option>
-                <option value="56">ATA 56 — Windows (Kính chắn gió &amp; Cửa sổ)</option>
-                <option value="57">ATA 57 — Wings (Kết cấu cánh)</option>
-                <option value="71">ATA 71 — Power Plant (Cụm động cơ)</option>
-                <option value="72">ATA 72 — Engine (Động cơ lõi / Turbine / Fan)</option>
-                <option value="73">ATA 73 — Engine Fuel &amp; Control (Điều khiển nhiên liệu động cơ)</option>
-                <option value="74">ATA 74 — Ignition (Đánh lửa động cơ)</option>
-                <option value="75">ATA 75 — Air (Khí làm mát động cơ)</option>
-                <option value="76">ATA 76 — Engine Controls (Hệ thống tay ga)</option>
-                <option value="77">ATA 77 — Engine Indicating (Thông số động cơ)</option>
-                <option value="78">ATA 78 — Exhaust (Ống xả &amp; Đảo chiều Reverser)</option>
-                <option value="79">ATA 79 — Engine Oil (Dầu bôi trơn động cơ)</option>
-                <option value="80">ATA 80 — Starting (Khởi động động cơ)</option>
-              </select>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcInstalled">Tình Trạng Lắp Trên Đội Bay (Installed)</label>
-              <select id="filterIpcInstalled" class="form-control">
-                <option value="ALL">Tất cả tình trạng (Đã lắp + Chưa lắp)</option>
-                <option value="YES">✅ Installed on Fleet (Yes - Đang lắp trên tàu)</option>
-                <option value="NO">🚫 Not installed / Spare only (No - Phụ tùng / Chưa lắp)</option>
-              </select>
-            </div>
-
-            <div class="form-group">
-              <label for="filterIpcAdStatus">Liên Kết Airworthiness Directives (AD)</label>
-              <select id="filterIpcAdStatus" class="form-control">
-                <option value="ALL">Tất cả (Có AD hoặc không có AD)</option>
-                <option value="YES">⚠️ Chỉ part CÓ AD LIÊN QUAN (198 P/N)</option>
-                <option value="NO">Part chưa có AD</option>
-              </select>
-            </div>
-
-            <div class="form-group" style="align-self:flex-end;">
-              <button class="btn btn-outline" id="btnResetIpcFilters" style="width:100%;">
-                🔄 Đặt Lại Bộ Lọc
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <!-- Parts Table Card -->
-        <div class="table-card">
-          <div class="table-toolbar">
-            <div>
-              <strong>Bảng Danh Mục Phụ Tùng IPC &amp; Quan Hệ Interchange</strong>
-              <span style="color:var(--text-muted);font-size:12.5px;margin-left:8px;" id="ipcPartsCounterText">Đang tải...</span>
-            </div>
-            <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
-              <button class="btn btn-primary btn-sm" id="btnExportIpcExcel" style="background:linear-gradient(135deg,#9333ea,#7e22ce);border:none;" title="Xuất dữ liệu phụ tùng IPC ra file Excel">
-                📥 Xuất Excel Phụ Tùng
-              </button>
-              <span style="font-size:12px;color:var(--text-secondary);">
-                Nhấp vào <strong>bất kỳ dòng linh kiện nào</strong> để xem chi tiết đầy đủ quan hệ thay thế, vị trí lắp ATA &amp; AD áp dụng
-              </span>
-            </div>
-          </div>
-
-          <div class="table-responsive">
-            <table class="ad-table" id="tableIpcParts">
-              <thead>
-                <tr>
-                  <th style="width:14%;" title="Part Number">
-                    <span class="col-full">Part Number</span>
-                    <span class="col-compact">P/N</span>
-                  </th>
-                  <th style="width:13%;" title="Airbus IPC Reference: ATA-Fig-Item">
-                    <span class="col-full">IPC Ref</span>
-                    <span class="col-compact">📍 Ref</span>
-                  </th>
-                  <th style="width:20%;" title="Component Description">
-                    <span class="col-full">Description</span>
-                    <span class="col-compact">Desc</span>
-                  </th>
-                  <th style="width:7%;text-align:center;" title="Manufacturer Code">
-                    <span class="col-full">MFR</span>
-                    <span class="col-compact">MFR</span>
-                  </th>
-                  <th style="width:9%;text-align:center;" title="Fleet Family (A330, CEO, NEO)">
-                    <span class="col-full">Fleet</span>
-                    <span class="col-compact">Fleet</span>
-                  </th>
-                  <th style="width:11%;" title="Installed on Fleet">
-                    <span class="col-full">Installed</span>
-                    <span class="col-compact">Inst</span>
-                  </th>
-                  <th style="width:16%;" title="Interchange Relationship (2-Way / 1-Way)">
-                    <span class="col-full">Interchange</span>
-                    <span class="col-compact">🔄 Icy</span>
-                  </th>
-                  <th style="width:10%;" title="Airworthiness Directives">
-                    <span class="col-full">Related AD</span>
-                    <span class="col-compact">AD</span>
-                  </th>
-                </tr>
-              </thead>
-              <tbody id="ipcPartsTableBody"></tbody>
-            </table>
-          </div>
-
-          <!-- Pagination for IPC Parts -->
-          <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-top:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:10px;">
-            <div style="font-size:12.5px;color:var(--text-secondary);" id="ipcPartsPageInfo">Trang 1 / 1</div>
-            <div style="display:flex;gap:6px;">
-              <button class="btn btn-outline btn-sm" id="btnIpcPrevPage">◀ Trang trước</button>
-              <button class="btn btn-outline btn-sm" id="btnIpcNextPage">Trang sau ▶</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- SUB-PANEL 2: IPC FLEET (146 AIRCRAFT) -->
       <div id="ipcSubPanelFleet" style="display:none;">
         <div class="filter-panel" style="margin-bottom:16px;">
           <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
@@ -1522,6 +1535,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=59"></script>
+  <script src="app.js?v=61"></script>
 </body>
 </html>

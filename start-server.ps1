@@ -49,6 +49,8 @@ public class IpcSearchItem {
     public List<Dictionary<string, object>> interchanges;
     public int adCount;
     public List<Dictionary<string, object>> matchedAds;
+    public string partType;
+    public bool isSecondaryRef;
 }
 
 public class IpcSearchEngine {
@@ -126,6 +128,18 @@ public class IpcSearchEngine {
                     item.matchedAds = new List<Dictionary<string, object>>();
                 }
 
+                string pnUp = (item.pn ?? "").ToUpperInvariant();
+                string descUp = (item.desc ?? "").ToUpperInvariant();
+                bool isCons = false;
+                if (System.Text.RegularExpressions.Regex.IsMatch(pnUp, @"^(NAS|MS\d|AN\d|ASNA|NSA|EN\d|ABS\d|AS\d|BAC[A-Z0-9]|LN\d|DAN\d|PAN\d|DIN|ISO|HL\d|HST\d)")) {
+                    isCons = true;
+                } else if (System.Text.RegularExpressions.Regex.IsMatch(descUp, @"\b(SCREW|BOLT|NUT|WASHER|RIVET|PIN|COTTER|SEAL|O-RING|GASKET|PACKING|CLAMP|SHIM|BUSHING|SPACER|SPRING|STUD|PLACARD|TAPE|FILTER ELEMENT|BULB|LAMP|FUSE)\b")) {
+                    if (!System.Text.RegularExpressions.Regex.IsMatch(descUp, @"\b(ACTUATOR|VALVE|COMPUTER|TRANSMITTER|SENSOR|PUMP|MOTOR|GENERATOR|RECEIVER|CONTROLLER|PANEL ASSY|AMPLIFIER|CYLINDER|ACCUMULATOR|HEAT EXCHANGER|TRANSDUCER)\b")) {
+                        isCons = true;
+                    }
+                }
+                item.partType = isCons ? "CONSUMABLE" : "ROTABLE";
+
                 list.Add(item);
             }
             _items = list;
@@ -166,7 +180,7 @@ public class IpcSearchEngine {
         return "null";
     }
 
-    public static string SearchJson(string q, string family, string plane, string relation, string installed, string hasAd, string ata, int page, int pageSize) {
+    public static string SearchJson(string q, string family, string plane, string relation, string installed, string hasAd, string ata, string partType, int page, int pageSize) {
         if (!_loaded) return "{\"total\":0,\"page\":1,\"pageSize\":50,\"items\":[]}";
         if (page < 1) page = 1;
         if (pageSize < 1 || pageSize > 200) pageSize = 50;
@@ -176,6 +190,7 @@ public class IpcSearchEngine {
         string planeUpper = string.IsNullOrWhiteSpace(plane) || plane == "ALL" ? null : plane.Trim().ToUpperInvariant();
         string relUpper = string.IsNullOrWhiteSpace(relation) || relation == "ALL" ? null : relation.Trim().ToUpperInvariant();
         string ataUpper = string.IsNullOrWhiteSpace(ata) || ata == "ALL" ? null : ata.Trim().ToUpperInvariant();
+        string partTypeUpper = string.IsNullOrWhiteSpace(partType) || partType == "ALL" ? null : partType.Trim().ToUpperInvariant();
         bool? filterInstalled = null;
         if (installed == "YES") filterInstalled = true;
         else if (installed == "NO") filterInstalled = false;
@@ -207,20 +222,45 @@ public class IpcSearchEngine {
                 if (!filterHasAd.Value && item.adCount > 0) continue;
             }
 
+            if (partTypeUpper != null && item.partType != partTypeUpper) continue;
+
             if (ataUpper != null) {
-                bool ataMatch = false;
+                string matchingRef = null;
                 if (!string.IsNullOrEmpty(item.ipcRef) && (item.ipcRef.StartsWith(ataUpper + "-") || item.ipcRef.StartsWith(ataUpper + "/"))) {
-                    ataMatch = true;
-                }
-                if (!ataMatch && item.ipcRefs != null) {
+                    matchingRef = item.ipcRef;
+                } else if (item.ipcRefs != null) {
                     for (int ir = 0; ir < item.ipcRefs.Count; ir++) {
                         if (!string.IsNullOrEmpty(item.ipcRefs[ir]) && (item.ipcRefs[ir].StartsWith(ataUpper + "-") || item.ipcRefs[ir].StartsWith(ataUpper + "/"))) {
-                            ataMatch = true;
+                            matchingRef = item.ipcRefs[ir];
                             break;
                         }
                     }
                 }
-                if (!ataMatch) continue;
+                if (matchingRef == null) continue;
+
+                // When user filters by ATA XX, ensure the displayed ipcRef starts with ATA XX!
+                if (matchingRef != item.ipcRef) {
+                    var clone = new IpcSearchItem();
+                    clone.pn = item.pn;
+                    clone.ipcRef = matchingRef;
+                    clone.desc = item.desc;
+                    clone.mfr = item.mfr;
+                    clone.installed = item.installed;
+                    clone.families = item.families;
+                    clone.lineItems = item.lineItems;
+                    clone.planeCount = item.planeCount;
+                    clone.samplePlanes = item.samplePlanes;
+                    clone.planes = item.planes;
+                    clone.planeSet = item.planeSet;
+                    clone.interchanges = item.interchanges;
+                    clone.interchangeCount = item.interchangeCount;
+                    clone.adCount = item.adCount;
+                    clone.matchedAds = item.matchedAds;
+                    clone.ipcRefs = item.ipcRefs;
+                    clone.partType = item.partType;
+                    clone.isSecondaryRef = true;
+                    item = clone;
+                }
             }
 
             if (relUpper != null) {
@@ -296,6 +336,11 @@ public class IpcSearchEngine {
         }
 
         results.Sort((a, b) => {
+            if (ataUpper != null) {
+                int secA = a.isSecondaryRef ? 1 : 0;
+                int secB = b.isSecondaryRef ? 1 : 0;
+                if (secA != secB) return secA.CompareTo(secB);
+            }
             string refA = a.ipcRef ?? "";
             string refB = b.ipcRef ?? "";
             if (refA.Length > 0 && refB.Length > 0) {
@@ -775,12 +820,13 @@ try {
       $Installed = [string]$Req.QueryString["installed"]
       $HasAd = [string]$Req.QueryString["hasAd"]
       $Ata = [string]$Req.QueryString["ata"]
+      $PartType = [string]$Req.QueryString["partType"]
       $Page = 1
       if ($Req.QueryString["page"] -match '^\d+$') { $Page = [int]$Req.QueryString["page"] }
       $PageSize = 50
       if ($Req.QueryString["pageSize"] -match '^\d+$') { $PageSize = [int]$Req.QueryString["pageSize"] }
 
-      $ResJson = [IpcSearchEngine]::SearchJson($Q, $Family, $Plane, $Relation, $Installed, $HasAd, $Ata, $Page, $PageSize)
+      $ResJson = [IpcSearchEngine]::SearchJson($Q, $Family, $Plane, $Relation, $Installed, $HasAd, $Ata, $PartType, $Page, $PageSize)
       $Bytes = [System.Text.Encoding]::UTF8.GetBytes($ResJson)
       $Res.ContentType = "application/json; charset=utf-8"
       $Res.ContentLength64 = $Bytes.Length
