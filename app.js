@@ -3575,6 +3575,9 @@
         document.querySelectorAll(".nav-tab").forEach((b) => b.classList.remove("active"));
         document.querySelectorAll(".tab-panel").forEach((p) => p.classList.remove("active"));
         btn.classList.add("active");
+        try {
+          btn.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+        } catch (e) {}
         const tabId = btn.getAttribute("data-tab");
         const target = document.getElementById(tabId);
         if (target) target.classList.add("active");
@@ -5711,7 +5714,7 @@ ${bodyRows}
         const fRel = document.getElementById("filterIpcRelation");
         if (fRel) fRel.value = "ALL";
         applyPartsSearch();
-        showToast("⚠️ Đang lọc danh sách 198 Part Numbers có Airworthiness Directives (AD)");
+        showToast("⚠️ Đang lọc danh sách 222 Part Numbers có Airworthiness Directives (AD)");
       });
     }
 

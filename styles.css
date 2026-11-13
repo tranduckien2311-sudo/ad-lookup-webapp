@@ -145,8 +145,18 @@ body {
 .nav-tabs {
   display: flex;
   gap: 4px;
-  overflow: hidden;
+  overflow-x: auto !important;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none !important;
+  -ms-overflow-style: none;
   align-items: center;
+  flex-wrap: nowrap;
+}
+.nav-tabs::-webkit-scrollbar {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
 }
 
 .nav-tab {
@@ -1870,13 +1880,119 @@ body.light-mode .btn-admin-logged-in {
     display: none !important;
   }
   .nav-tab {
-    padding: 10px 14px;
-    font-size: 16px;
-    gap: 5px;
+    padding: 9px 12px;
+    font-size: 15px;
+    gap: 4px;
+    flex-shrink: 0 !important;
   }
   .nav-tab .tab-count {
     font-size: 10.5px;
-    padding: 2px 6px;
+    padding: 2px 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Ultra-clean Mobile App Header */
+  .app-header {
+    padding: 8px 12px !important;
+    gap: 8px !important;
+  }
+  .brand-group {
+    gap: 8px !important;
+  }
+  .brand-logo {
+    width: 34px !important;
+    height: 34px !important;
+    font-size: 13px !important;
+  }
+  .brand-text h1 {
+    font-size: 14.5px !important;
+    line-height: 1.2 !important;
+  }
+  .brand-text p {
+    display: none !important;
+  }
+  .header-actions {
+    gap: 6px !important;
+  }
+  .header-actions .btn {
+    padding: 6px 10px !important;
+    font-size: 12px !important;
+    min-height: 32px !important;
+  }
+  #btnInstallPwa, #btnToggleTheme {
+    white-space: nowrap !important;
+  }
+
+  /* Compact reconciliation banner */
+  .reconciliation-banner {
+    padding: 4px 8px !important;
+    font-size: 10.5px !important;
+  }
+  #reconSourceInfo, .recon-sep:first-of-type {
+    display: none !important;
+  }
+
+  /* Swipeable Mobile Navigation Tabs */
+  .nav-bar {
+    padding: 0 4px !important;
+  }
+  .nav-tabs {
+    gap: 4px !important;
+    padding: 4px 0 !important;
+  }
+  .nav-tab {
+    padding: 8px 10px !important;
+    font-size: 14px !important;
+    gap: 4px !important;
+    border-radius: 6px !important;
+    border-bottom: 2.5px solid transparent !important;
+  }
+  .nav-tab .tab-count {
+    font-size: 9.5px !important;
+    padding: 1px 4px !important;
+  }
+
+  /* Compact KPI Grids */
+  .kpi-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 6px !important;
+    margin-bottom: 10px !important;
+  }
+  .kpi-card {
+    padding: 8px 10px !important;
+    border-radius: 6px !important;
+  }
+  .kpi-card:last-child {
+    grid-column: span 1 !important;
+  }
+  .kpi-header {
+    font-size: 10px !important;
+    margin-bottom: 2px !important;
+  }
+  .kpi-value {
+    font-size: 17px !important;
+    font-weight: 800 !important;
+  }
+  .kpi-sub {
+    font-size: 9.5px !important;
+  }
+
+  /* Hide wordy descriptive paragraphs on mobile */
+  .desktop-only-text {
+    display: none !important;
+  }
+
+  /* Filter panels on mobile */
+  .filter-panel {
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+  }
+  .filter-panel h3, .filter-panel strong {
+    font-size: 13.5px !important;
+  }
+  .filter-grid {
+    gap: 8px !important;
   }
 }
 

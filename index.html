@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=34" />
+  <link rel="stylesheet" href="styles.css?v=35" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -415,16 +415,19 @@
       <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(59,130,246,0.12),rgba(147,51,234,0.1));border-color:rgba(59,130,246,0.45);">
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
           <div>
-            <div style="display:flex;align-items:center;gap:8px;">
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <strong style="font-size:15px;color:#93c5fd;">
-                🧰 Tra Cứu Thiết Bị, Vật Tư (Appliances &amp; Components) &amp; Tra Soát AD Áp Dụng
+                🧰 Danh Mục Thiết Bị Kiểm Kê VJC &amp; AD Áp Dụng (Inventory Tracking)
               </strong>
               <span class="badge" style="background:rgba(59,130,246,0.25);border:1px solid #3b82f6;color:#bfdbfe;font-size:11px;">
-                150,633 Vật Tư • 3,987 P/N • 110 Tàu VJC
+                150,633 Vật Tư • 3,987 P/N • 110 Tàu VJC (68 P/N có AD)
               </span>
+              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('navTabIpc')?.click()" style="border-color:rgba(168,85,247,0.5);color:#d8b4fe;font-size:11px;padding:2px 8px;">
+                📖 Xem 114,648 P/N Airbus IPC (222 có AD) ↗
+              </button>
             </div>
-            <p style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
-              Tích hợp danh mục thiết bị &amp; vật tư lắp đặt thực tế trên toàn bộ đội tàu bay VietJet Air (Chuẩn Part Number, Tên thiết bị, Nhóm Chapter &amp; Số đăng ký tàu bay). Cho phép đối chiếu tự động với yêu cầu kỹ thuật của các AD FAA / EASA.
+            <p class="desktop-only-text" style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
+              Danh mục thiết bị &amp; vật tư tuần hoàn theo dõi lắp đặt thực tế trên đội tàu bay VietJet Air (Chuẩn Part Number, Tên thiết bị, Nhóm Chapter &amp; Số đăng ký tàu bay). Đối chiếu tự động với yêu cầu kỹ thuật của các AD FAA / EASA.
             </p>
           </div>
           <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
@@ -589,16 +592,19 @@
       <div class="filter-panel" style="margin-bottom:16px;background:linear-gradient(135deg,rgba(168,85,247,0.12),rgba(59,130,246,0.08));border-color:rgba(168,85,247,0.45);">
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;">
           <div>
-            <div style="display:flex;align-items:center;gap:8px;">
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <span class="badge" style="background:rgba(168,85,247,0.25);border:1px solid rgba(168,85,247,0.8);color:#d8b4fe;font-size:12px;font-weight:700;">
                 📖 IPC AIRBUS CATALOG &amp; INTERCHANGE
               </span>
               <strong style="font-size:15px;color:#fff;">
                 Cơ Sở Dữ Liệu Tra Cứu IPC (Illustrated Parts Catalog) &amp; Phụ Tùng Interchange
               </strong>
+              <button type="button" class="btn btn-outline btn-sm" onclick="document.getElementById('navTabAppliances')?.click()" style="border-color:rgba(59,130,246,0.5);color:#93c5fd;font-size:11px;padding:2px 8px;">
+                🧰 Xem 3,987 P/N thiết bị kiểm kê VJC (68 có AD) ↗
+              </button>
             </div>
-            <p style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
-              Tích hợp 3 tệp IPC Airbus: <strong>A330</strong> (15 cấu hình FSN), <strong>A320ceo/A321ceo</strong> (64 FSN) và <strong>A321neo</strong> (67 FSN) • Tổng cộng <strong>146 cấu hình tàu</strong> • <strong>114,648 Part Numbers</strong> • <strong>137,832 Quan hệ Interchange</strong> (Replaced by / Replaces / Spare / Alternate) • <strong>198 Part Numbers</strong> khớp Airworthiness Directives (AD).
+            <p class="desktop-only-text" style="font-size:12.5px;color:var(--text-secondary);margin-top:4px;">
+              Tích hợp 3 tệp IPC Airbus: <strong>A330</strong> (15 cấu hình FSN), <strong>A320ceo/A321ceo</strong> (64 FSN) và <strong>A321neo</strong> (67 FSN) • Tổng cộng <strong>146 cấu hình tàu</strong> • <strong>114,648 Part Numbers</strong> • <strong>119,435 Quan hệ Interchange</strong> (Replaced by / Replaces / Spare / Alternate) • <strong>222 Part Numbers</strong> khớp Airworthiness Directives (AD).
             </p>
           </div>
           <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
@@ -649,7 +655,7 @@
             <span>Part Khớp Hồ Sơ AD</span>
             <span>⚠️</span>
           </div>
-          <div class="kpi-value" id="ipcKpiMatchedAds" style="color:#fbbf24;">198</div>
+          <div class="kpi-value" id="ipcKpiMatchedAds" style="color:#fbbf24;">222</div>
           <div class="kpi-sub">Có AD quy định an toàn bay</div>
         </div>
       </section>
@@ -1445,6 +1451,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=51"></script>
+  <script src="app.js?v=52"></script>
 </body>
 </html>
