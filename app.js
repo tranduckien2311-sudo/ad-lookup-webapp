@@ -4896,9 +4896,17 @@ ${bodyRows}
     }
   };
 
+  function getIpcApiUrl(endpoint) {
+    if (window.location.protocol.startsWith("http") && window.location.port === "8085") {
+      return endpoint;
+    }
+    const host = window.location.hostname || "localhost";
+    return `http://${host}:8085${endpoint}`;
+  }
+
   async function loadIpcStats() {
     try {
-      const res = await fetch("/api/ipc/stats");
+      const res = await fetch(getIpcApiUrl("/api/ipc/stats"));
       if (!res.ok) return;
       const stats = await res.json();
       if (stats.totalParts) {
@@ -4948,7 +4956,7 @@ ${bodyRows}
         pageSize: ipcState.pageSize
       });
 
-      const res = await fetch(`/api/ipc/search?${params.toString()}`);
+      const res = await fetch(getIpcApiUrl(`/api/ipc/search?${params.toString()}`));
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
 
@@ -5163,7 +5171,7 @@ ${bodyRows}
     `;
 
     try {
-      const res = await fetch(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`);
+      const res = await fetch(getIpcApiUrl(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`));
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const part = await res.json();
 
@@ -5481,7 +5489,7 @@ ${bodyRows}
     `;
 
     try {
-      const res = await fetch("/api/ipc/fleet");
+      const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       ipcState.fleet = Array.isArray(data) ? data : [];
@@ -5728,7 +5736,7 @@ ${bodyRows}
       if (!sel) return;
       try {
         if (!ipcState.fleet || ipcState.fleet.length === 0) {
-          const res = await fetch("/api/ipc/fleet");
+          const res = await fetch(getIpcApiUrl("/api/ipc/fleet"));
           if (res.ok) {
             const data = await res.json();
             ipcState.fleet = Array.isArray(data) ? data : [];

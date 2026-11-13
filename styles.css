@@ -1994,18 +1994,60 @@ body.light-mode .btn-admin-logged-in {
   .filter-grid {
     gap: 8px !important;
   }
+
+  /* Mobile Card Layout for Appliances Tables to prevent squished/cramped cells */
+  #tab-appliances .table-responsive {
+    overflow-x: visible !important;
+  }
+  #tableAppliancesPn,
+  #tableAppliancesPn tbody,
+  #tableAppliancesPn tr,
+  #tableAppliancesPn td,
+  #tableAppliancesAds,
+  #tableAppliancesAds tbody,
+  #tableAppliancesAds tr,
+  #tableAppliancesAds td {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+  #tableAppliancesPn thead,
+  #tableAppliancesAds thead {
+    display: none !important;
+  }
+  #tableAppliancesPn tbody tr,
+  #tableAppliancesAds tbody tr {
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    border-radius: 8px !important;
+    padding: 12px 14px !important;
+    margin-bottom: 10px !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25) !important;
+    cursor: pointer;
+  }
+  #tableAppliancesPn tbody tr:hover {
+    background: rgba(59, 130, 246, 0.12) !important;
+    border-color: rgba(59, 130, 246, 0.5) !important;
+  }
+  #tableAppliancesPn tbody td,
+  #tableAppliancesAds tbody td {
+    padding: 3px 0 !important;
+    border: none !important;
+    white-space: normal !important;
+    word-break: break-word !important;
+    font-size: 13px !important;
+  }
 }
 
 /* Guarantee Tables Fit 100% in Viewport Frame Without Horizontal Scroll */
-#tab-ipc .table-responsive,
-#tab-appliances .table-responsive {
+#tab-ipc .table-responsive {
   overflow-x: hidden !important;
   scrollbar-gutter: auto !important;
   width: 100% !important;
 }
 
-#tableIpcParts,
-#tableAppliancesPn {
+#tableIpcParts {
   width: 100% !important;
   max-width: 100% !important;
   table-layout: fixed !important;
@@ -2013,31 +2055,57 @@ body.light-mode .btn-admin-logged-in {
 }
 
 #tableIpcParts th,
-#tableIpcParts td,
-#tableAppliancesPn th,
-#tableAppliancesPn td {
+#tableIpcParts td {
   overflow: hidden;
   text-overflow: ellipsis;
   padding: 9px 7px;
   vertical-align: middle;
 }
 
-#tableAppliancesPn tbody tr {
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-#tableAppliancesPn tbody tr:hover {
-  background: rgba(59, 130, 246, 0.12) !important;
-  box-shadow: inset 4px 0 0 #3b82f6;
-}
-
-#tableIpcParts td:nth-child(3),
-#tableAppliancesPn td:nth-child(2),
-#tableAppliancesPn td:nth-child(6) {
+#tableIpcParts td:nth-child(3) {
   white-space: normal;
   word-break: break-word;
   line-height: 1.35;
+}
+
+@media (min-width: 769px) {
+  #tab-appliances .table-responsive {
+    overflow-x: hidden !important;
+    scrollbar-gutter: auto !important;
+    width: 100% !important;
+  }
+
+  #tableAppliancesPn {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse;
+  }
+
+  #tableAppliancesPn th,
+  #tableAppliancesPn td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 9px 7px;
+    vertical-align: middle;
+  }
+
+  #tableAppliancesPn tbody tr {
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  #tableAppliancesPn tbody tr:hover {
+    background: rgba(59, 130, 246, 0.12) !important;
+    box-shadow: inset 4px 0 0 #3b82f6;
+  }
+
+  #tableAppliancesPn td:nth-child(2),
+  #tableAppliancesPn td:nth-child(6) {
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
 }
 
 .col-compact {

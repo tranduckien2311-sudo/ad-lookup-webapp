@@ -426,6 +426,7 @@ if (!(Test-Path $DbPath)) {
 $Listener = New-Object System.Net.HttpListener
 $Prefix = "http://localhost:$Port/"
 $Listener.Prefixes.Add($Prefix)
+try { $Listener.Prefixes.Add("http://127.0.0.1:$Port/") } catch {}
 $Listener.Start()
 
 Write-Host "============================================================" -ForegroundColor Cyan
