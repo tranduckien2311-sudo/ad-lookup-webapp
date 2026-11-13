@@ -2367,6 +2367,14 @@
         const bApp = b.applicabilityStatus === "Applicable" ? 0 : 1;
         if (aApp !== bApp) return aApp - bApp;
       }
+      if (sortBy === "ataAsc") {
+        const codeA = (String(a.ata || "").match(/(\d{2})/) || [])[1] || "99";
+        const codeB = (String(b.ata || "").match(/(\d{2})/) || [])[1] || "99";
+        const numA = parseInt(codeA, 10);
+        const numB = parseInt(codeB, 10);
+        if (numA !== numB) return numA - numB;
+        return String(a.adNumber).localeCompare(String(b.adNumber));
+      }
       if (sortBy === "adNumAsc") {
         return String(a.adNumber).localeCompare(String(b.adNumber));
       }
@@ -4401,10 +4409,20 @@ ${bodyRows}
         return true;
       });
 
-      // Sort: items with ADs first, then by planeCount descending
+      // Sort: items with ADs first, then by ATA ascending (ATA 21 -> 25 -> 28 -> 32 -> 35 -> 52 -> 53 -> 57 -> 71 -> 72), then by P/N
       filteredAppliances.sort((a, b) => {
         if (a.hasAd !== b.hasAd) return a.hasAd ? -1 : 1;
-        return (b.planeCount || 0) - (a.planeCount || 0);
+        const ataA = (a.matchedAds && a.matchedAds[0] && a.matchedAds[0].ata) || "";
+        const ataB = (b.matchedAds && b.matchedAds[0] && b.matchedAds[0].ata) || "";
+        const codeA = (ataA.match(/(\d{2})/) || [])[1] || "";
+        const codeB = (ataB.match(/(\d{2})/) || [])[1] || "";
+        if (codeA && codeB) {
+          const numA = parseInt(codeA, 10);
+          const numB = parseInt(codeB, 10);
+          if (numA !== numB) return numA - numB;
+        } else if (codeA) return -1;
+        else if (codeB) return 1;
+        return (a.pn || "").localeCompare(b.pn || "");
       });
 
       applianceCurrentPage = 1;
@@ -4434,7 +4452,17 @@ ${bodyRows}
         return true;
       });
 
-      filteredApplianceAds.sort((a, b) => (b.appliancesCount || 0) - (a.appliancesCount || 0));
+      filteredApplianceAds.sort((a, b) => {
+        const codeA = (String(a.ata || "").match(/(\d{2})/) || [])[1] || "";
+        const codeB = (String(b.ata || "").match(/(\d{2})/) || [])[1] || "";
+        if (codeA && codeB) {
+          const numA = parseInt(codeA, 10);
+          const numB = parseInt(codeB, 10);
+          if (numA !== numB) return numA - numB;
+        } else if (codeA) return -1;
+        else if (codeB) return 1;
+        return (a.adNumber || "").localeCompare(b.adNumber || "");
+      });
       applianceCurrentPage = 1;
       renderAppliancesAdsTable();
     }
@@ -4499,6 +4527,13 @@ ${bodyRows}
           .map((t) => `<span class="badge badge-standard" style="font-size:10.5px;">${escapeHtml(t)}</span>`)
           .join(" ");
 
+        let ataBadge = "";
+        const rawAta = (item.matchedAds && item.matchedAds[0] && item.matchedAds[0].ata) || "";
+        const mCode = rawAta.match(/(\d{2})/);
+        if (mCode) {
+          ataBadge = `<span class="badge" style="background:rgba(6,182,212,0.18);border:1px solid rgba(6,182,212,0.45);color:#67e8f9;font-weight:700;font-size:11px;padding:2px 6px;margin-bottom:3px;display:inline-block;">ATA ${mCode[1]}</span><br/>`;
+        }
+
         return `
           <tr style="cursor:pointer;" onclick="window.viewApplianceDetail('${escapeHtml(item.pn)}')">
             <td>
@@ -4511,7 +4546,8 @@ ${bodyRows}
               <div style="font-weight:600;color:#fff;">${escapeHtml(item.desc || "Thiết bị không tên")}</div>
             </td>
             <td>
-              <span class="badge badge-standard" style="font-size:11px;">${escapeHtml(item.chapter || "Chưa phân loại")}</span>
+              ${ataBadge}
+              <span class="badge badge-standard" style="font-size:10.5px;">${escapeHtml(item.chapter || "Chưa phân loại")}</span>
             </td>
             <td>${typeBadges || "—"}</td>
             <td>
@@ -5216,6 +5252,17 @@ ${bodyRows}
             return true;
           });
         }
+
+        list.sort((a, b) => {
+          const refA = a.ipcRef || "";
+          const refB = b.ipcRef || "";
+          if (refA && refB) {
+            const cmp = refA.localeCompare(refB, undefined, { numeric: true });
+            if (cmp !== 0) return cmp;
+          } else if (refA) return -1;
+          else if (refB) return 1;
+          return (a.pn || "").localeCompare(b.pn || "");
+        });
 
         totalParts = list.length;
         const start = (page - 1) * ipcState.pageSize;

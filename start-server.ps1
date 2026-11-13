@@ -295,6 +295,17 @@ public class IpcSearchEngine {
             results.Add(item);
         }
 
+        results.Sort((a, b) => {
+            string refA = a.ipcRef ?? "";
+            string refB = b.ipcRef ?? "";
+            if (refA.Length > 0 && refB.Length > 0) {
+                int c = string.Compare(refA, refB, StringComparison.OrdinalIgnoreCase);
+                if (c != 0) return c;
+            } else if (refA.Length > 0) return -1;
+            else if (refB.Length > 0) return 1;
+            return string.Compare(a.pn ?? "", b.pn ?? "", StringComparison.OrdinalIgnoreCase);
+        });
+
         int total = results.Count;
         int skip = (page - 1) * pageSize;
         var pagedItems = results.Skip(skip).Take(pageSize).ToList();
