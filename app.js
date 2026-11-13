@@ -552,6 +552,7 @@
       { id: "filterSuperseded", def: "ALL", type: "select", label: "Superseded" },
       { id: "filterModel", def: "ALL", type: "select", label: "Tàu/Động cơ" },
       { id: "filterAircraftReg", def: "ALL", type: "select", label: "Tàu bay VJC" },
+      { id: "filterAdAta", def: "ALL", type: "select", label: "Chương ATA" },
       { id: "sortSelect", def: "applicableFirst", type: "select", label: "Sắp xếp" },
       { id: "evalFilterAircraftReg", def: "ALL", type: "select", label: "Tàu bay (Tab Nguyên văn)", standalone: true },
       { id: "fleetSelectFilter", def: "ALL", type: "select", label: "Tàu bay (Tab Đội bay)", standalone: true }
@@ -771,6 +772,96 @@
         sel.value = "ALL";
       }
     });
+  }
+
+  const ATA_CHAPTER_NAMES = {
+    "05": "Time Limits / Maintenance Checks",
+    "11": "Placards & Markings (Nhãn & Bảng chỉ dẫn)",
+    "21": "Air Conditioning (Điều hòa & Áp suất)",
+    "22": "Auto Flight (Lái tự động)",
+    "23": "Communications (Liên lạc & Đàm thoại)",
+    "24": "Electrical Power (Hệ thống điện)",
+    "25": "Equipment / Furnishings (Nội thất & Thiết bị)",
+    "26": "Fire Protection (Báo cháy & Dập lửa)",
+    "27": "Flight Controls (Điều khiển bay)",
+    "28": "Fuel (Nhiên liệu)",
+    "29": "Hydraulic Power (Thủy lực)",
+    "30": "Ice & Rain Protection (Chống băng tuyết)",
+    "31": "Indicating / Recording (Hiển thị & Ghi dữ liệu)",
+    "32": "Landing Gear (Bộ càng đáp & Phanh)",
+    "33": "Lights (Hệ thống đèn)",
+    "34": "Navigation (Dẫn đường & Cảm biến)",
+    "35": "Oxygen (Dưỡng khí oxy)",
+    "36": "Pneumatic (Khí nén Bleed Air)",
+    "38": "Water / Waste (Nước sạch & Xả thải)",
+    "49": "Airborne Auxiliary Power (Động cơ phụ APU)",
+    "52": "Doors (Hệ thống cửa tàu bay)",
+    "53": "Fuselage (Kết cấu thân tàu)",
+    "54": "Nacelles / Pylons (Vỏ & Giá treo)",
+    "55": "Stabilizers (Cánh đuôi)",
+    "56": "Windows (Kính chắn gió & Cửa sổ)",
+    "57": "Wings (Kết cấu cánh)",
+    "71": "Power Plant (Cụm động cơ)",
+    "72": "Engine (Động cơ lõi / Turbine / Fan)",
+    "73": "Engine Fuel & Control (Điều khiển nhiên liệu)",
+    "74": "Ignition (Hệ thống đánh lửa)",
+    "75": "Air (Khí làm mát động cơ)",
+    "76": "Engine Controls (Điều khiển động cơ)",
+    "77": "Engine Indicating (Thông số động cơ)",
+    "78": "Exhaust (Ống xả & Đảo chiều Reverser)",
+    "79": "Engine Oil (Dầu nhớt bôi trơn)",
+    "80": "Starting (Hệ thống khởi động)"
+  };
+
+  function populateAdAtaDropdown() {
+    const sel = document.getElementById("filterAdAta");
+    if (!sel) return;
+    const counts = {};
+    adList.forEach((ad) => {
+      let code = "";
+      if (ad.ata) {
+        const m = ad.ata.match(/ATA\s*(\d{2})/i) || ad.ata.match(/^(\d{2})/);
+        if (m) code = m[1];
+      }
+      if (code) {
+        counts[code] = (counts[code] || 0) + 1;
+      }
+    });
+    const sortedCodes = Object.keys(counts).sort((a, b) => parseInt(a, 10) - parseInt(b, 10));
+    const prev = sel.value || "ALL";
+    sel.innerHTML = '<option value="ALL">🌐 Tất cả Chương ATA</option>' +
+      sortedCodes.map((c) => {
+        const name = ATA_CHAPTER_NAMES[c] || `ATA ${c}`;
+        return `<option value="${c}">ATA ${c} — ${name} (${counts[c]} AD)</option>`;
+      }).join("");
+    if (prev !== "ALL" && counts[prev]) sel.value = prev;
+    else sel.value = "ALL";
+  }
+
+  function populateApplianceAtaDropdown() {
+    const sel = document.getElementById("filterApplianceAta");
+    if (!sel) return;
+    const counts = {};
+    const adPool = adList.filter((a) => a.appliancesMatched && a.appliancesMatched.length > 0);
+    adPool.forEach((ad) => {
+      let code = "";
+      if (ad.ata) {
+        const m = ad.ata.match(/ATA\s*(\d{2})/i) || ad.ata.match(/^(\d{2})/);
+        if (m) code = m[1];
+      }
+      if (code) {
+        counts[code] = (counts[code] || 0) + 1;
+      }
+    });
+    const sortedCodes = Object.keys(counts).sort((a, b) => parseInt(a, 10) - parseInt(b, 10));
+    const prev = sel.value || "ALL";
+    sel.innerHTML = '<option value="ALL">🌐 Tất cả Chương ATA</option>' +
+      sortedCodes.map((c) => {
+        const name = ATA_CHAPTER_NAMES[c] || `ATA ${c}`;
+        return `<option value="${c}">ATA ${c} — ${name} (${counts[c]} AD)</option>`;
+      }).join("");
+    if (prev !== "ALL" && counts[prev]) sel.value = prev;
+    else sel.value = "ALL";
   }
 
   // Split Superseded AD items cleanly by authority side ("easa", "faa", or "all")
@@ -1770,6 +1861,8 @@
         lastFleetScanReport = db.lastFleetScanReport || null;
         hydrateAdsWithFleet();
         populateAircraftDropdowns();
+        populateAdAtaDropdown();
+        populateApplianceAtaDropdown();
         refreshAllViews();
         renderFleetScanReportHtml(lastFleetScanReport);
 
@@ -2170,6 +2263,8 @@
     const regFilterEl = document.getElementById("filterAircraftReg");
     const regFilter = regFilterEl ? regFilterEl.value : "ALL";
     const selectedAc = regFilter !== "ALL" ? fleetList.find((f) => f.reg === regFilter) : null;
+    const ataEl = document.getElementById("filterAdAta");
+    const ataFilter = ataEl ? ataEl.value : "ALL";
     const sortBy = document.getElementById("sortSelect").value;
 
     let filtered = adList.filter((ad) => {
@@ -2180,6 +2275,13 @@
         if (auth === "CAAV" && !combinedAuth.includes("CAAV")) return false;
       }
       if (app !== "ALL" && ad.applicabilityStatus !== app) return false;
+
+      if (ataFilter !== "ALL") {
+        const adAta = String(ad.ata || "");
+        const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
+        const code = m ? m[1] : "";
+        if (code !== ataFilter && !adAta.includes(ataFilter) && !(ad.subject || "").includes("ATA " + ataFilter)) return false;
+      }
 
       if (adTypeFilter !== "ALL") {
         const bucket = classifyAdBucket(ad);
@@ -3561,6 +3663,8 @@
 
   function refreshAllViews() {
     populateAircraftDropdowns();
+    populateAdAtaDropdown();
+    populateApplianceAtaDropdown();
     updateKpis();
     renderAdTable();
     renderAutoEvaluationsTab();
@@ -3744,6 +3848,7 @@
           ["Superseded", selText("filterSuperseded")],
           ["Model", selText("filterModel")],
           ["Tàu bay", selText("filterAircraftReg")],
+          ["Chương ATA", selText("filterAdAta")],
           ["Sắp xếp", selText("sortSelect")]
         ]
           .filter(([, v]) => v)
@@ -4060,6 +4165,7 @@ ${bodyRows}
       "filterSuperseded",
       "filterModel",
       "filterAircraftReg",
+      "filterAdAta",
       "sortSelect"
     ].forEach((id) => {
       const el = document.getElementById(id);
@@ -4100,6 +4206,8 @@ ${bodyRows}
       document.getElementById("filterModel").value = "ALL";
       const af = document.getElementById("filterAircraftReg");
       if (af) af.value = "ALL";
+      const ataEl = document.getElementById("filterAdAta");
+      if (ataEl) ataEl.value = "ALL";
       const eaf = document.getElementById("evalFilterAircraftReg");
       if (eaf) eaf.value = "ALL";
       document.getElementById("sortSelect").value = "applicableFirst";
@@ -4243,6 +4351,7 @@ ${bodyRows}
   function filterAndRenderAppliances() {
     const searchKw = (document.getElementById("filterApplianceSearch")?.value || "").trim().toLowerCase();
     const chapterFilter = document.getElementById("filterApplianceChapter")?.value || "ALL";
+    const ataFilter = document.getElementById("filterApplianceAta")?.value || "ALL";
     const typeFilter = document.getElementById("filterApplianceType")?.value || "ALL";
     const planeFilter = document.getElementById("filterAppliancePlane")?.value || "ALL";
     const adStatusFilter = document.getElementById("filterApplianceAdStatus")?.value || "HAS_AD";
@@ -4255,6 +4364,15 @@ ${bodyRows}
         if (chapterFilter !== "ALL" && item.chapter !== chapterFilter) return false;
         if (typeFilter !== "ALL" && (!item.types || !item.types.includes(typeFilter))) return false;
         if (planeFilter !== "ALL" && (!item.planes || !item.planes.some((p) => p.reg === planeFilter))) return false;
+
+        if (ataFilter !== "ALL") {
+          const itemAds = getApplianceAdsList(item);
+          if (!itemAds.some((a) => {
+            const adAta = String(a.ata || a.subject || "");
+            const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
+            return (m && m[1] === ataFilter) || adAta.includes("ATA " + ataFilter) || adAta.includes(ataFilter);
+          })) return false;
+        }
 
         if (searchKw) {
           const matchPn = (item.pn || "").toLowerCase().includes(searchKw);
@@ -4283,6 +4401,12 @@ ${bodyRows}
         if (chapterFilter !== "ALL" && !ad.appliancesMatched.some((m) => m.chapter === chapterFilter)) return false;
         if (planeFilter !== "ALL" && (!ad.affectedFleet || !ad.affectedFleet.some((f) => f.reg === planeFilter))) return false;
         if (typeFilter !== "ALL" && (!ad.matchedTypes || !ad.matchedTypes.some((t) => t.includes(typeFilter)))) return false;
+
+        if (ataFilter !== "ALL") {
+          const adAta = String(ad.ata || ad.subject || "");
+          const m = adAta.match(/ATA\s*(\d{2})/i) || adAta.match(/^(\d{2})/);
+          if (!((m && m[1] === ataFilter) || adAta.includes("ATA " + ataFilter) || adAta.includes(ataFilter))) return false;
+        }
 
         if (searchKw) {
           const matchNum = (ad.adNumber || "").toLowerCase().includes(searchKw);
@@ -4691,7 +4815,7 @@ ${bodyRows}
       });
     }
 
-    ["filterApplianceChapter", "filterApplianceType", "filterAppliancePlane", "filterApplianceAdStatus"].forEach((id) => {
+    ["filterApplianceChapter", "filterApplianceAta", "filterApplianceType", "filterAppliancePlane", "filterApplianceAdStatus"].forEach((id) => {
       const el = document.getElementById(id);
       if (el) el.addEventListener("change", () => filterAndRenderAppliances());
     });
@@ -4702,6 +4826,8 @@ ${bodyRows}
         if (searchInput) searchInput.value = "";
         const cEl = document.getElementById("filterApplianceChapter");
         if (cEl) cEl.value = "ALL";
+        const aEl = document.getElementById("filterApplianceAta");
+        if (aEl) aEl.value = "ALL";
         const tEl = document.getElementById("filterApplianceType");
         if (tEl) tEl.value = "ALL";
         const pEl = document.getElementById("filterAppliancePlane");
@@ -4892,7 +5018,8 @@ ${bodyRows}
       plane: "ALL",
       relation: "ALL",
       installed: "ALL",
-      hasAd: "ALL"
+      hasAd: "ALL",
+      ata: "ALL"
     }
   };
 
@@ -4977,6 +5104,7 @@ ${bodyRows}
             relation: ipcState.filters.relation,
             installed: ipcState.filters.installed,
             hasAd: ipcState.filters.hasAd,
+            ata: ipcState.filters.ata,
             page: page,
             pageSize: ipcState.pageSize
           });
@@ -5029,8 +5157,9 @@ ${bodyRows}
         const relation = (ipcState.filters.relation || "ALL").toUpperCase();
         const installed = (ipcState.filters.installed || "ALL").toUpperCase();
         const hasAd = (ipcState.filters.hasAd || "ALL").toUpperCase();
+        const ata = (ipcState.filters.ata || "ALL").toUpperCase();
 
-        if (q || family !== "ALL" || relation !== "ALL" || installed !== "ALL" || hasAd !== "ALL") {
+        if (q || family !== "ALL" || relation !== "ALL" || installed !== "ALL" || hasAd !== "ALL" || ata !== "ALL") {
           list = list.filter(p => {
             if (family !== "ALL") {
               const fams = (p.fams || p.families || []).map(f => (f || "").toUpperCase());
@@ -5044,6 +5173,12 @@ ${bodyRows}
             if (hasAd === "YES" && adCount === 0) return false;
             if (hasAd === "NO" && adCount > 0) return false;
 
+            if (ata !== "ALL") {
+              const ref = (p.ipcRef || "").toUpperCase();
+              const prefix = ata + "-";
+              if (!ref.startsWith(prefix) && !ref.startsWith(ata)) return false;
+            }
+
             if (relation === "2WAY") {
               const ics = p.ics || p.interchanges || [];
               if (!ics.some(x => x.is2Way || (x.rel && x.rel.includes("2-Way")))) return false;
@@ -5051,7 +5186,7 @@ ${bodyRows}
               const ics = p.ics || p.interchanges || [];
               if (!ics.some(x => x.is2Way === false || (x.rel && x.rel.includes("1-Way")))) return false;
             } else if (relation === "NONE") {
-              const icCount = p.icCount !== undefined ? p.icCount : (p.interchanges ? p.interchanges.length : 0);
+              const icCount = p.icCount !== undefined ? p.icCount : (p.ics ? p.ics.length : (p.interchanges ? p.interchanges.length : 0));
               if (icCount > 0) return false;
             }
 
@@ -5842,6 +5977,8 @@ ${bodyRows}
         if (inp) inp.value = "";
         const fFam = document.getElementById("filterIpcFamily");
         if (fFam) fFam.value = "ALL";
+        const fAta = document.getElementById("filterIpcAta");
+        if (fAta) fAta.value = "ALL";
         const fRel = document.getElementById("filterIpcRelation");
         if (fRel) fRel.value = "ALL";
         const fInst = document.getElementById("filterIpcInstalled");
@@ -5861,6 +5998,8 @@ ${bodyRows}
         if (fRel) fRel.value = "2WAY";
         const fAd = document.getElementById("filterIpcAdStatus");
         if (fAd) fAd.value = "ALL";
+        const fAta = document.getElementById("filterIpcAta");
+        if (fAta) fAta.value = "ALL";
         applyPartsSearch();
         showToast("↔️ Đang lọc danh mục linh kiện thay thế 2 chiều (2-Way Interchange)");
       });
@@ -5881,6 +6020,8 @@ ${bodyRows}
         if (fAd) fAd.value = "YES";
         const fRel = document.getElementById("filterIpcRelation");
         if (fRel) fRel.value = "ALL";
+        const fAta = document.getElementById("filterIpcAta");
+        if (fAta) fAta.value = "ALL";
         applyPartsSearch();
         showToast("⚠️ Đang lọc danh sách 222 Part Numbers có Airworthiness Directives (AD)");
       });
@@ -5894,6 +6035,7 @@ ${bodyRows}
     const filterRelation = document.getElementById("filterIpcRelation");
     const filterInstalled = document.getElementById("filterIpcInstalled");
     const filterAdStatus = document.getElementById("filterIpcAdStatus");
+    const filterAta = document.getElementById("filterIpcAta");
     const btnReset = document.getElementById("btnResetIpcFilters");
 
     async function populateIpcPlaneDropdown() {
@@ -5975,6 +6117,7 @@ ${bodyRows}
       ipcState.filters.relation = filterRelation ? filterRelation.value : "ALL";
       ipcState.filters.installed = filterInstalled ? filterInstalled.value : "ALL";
       ipcState.filters.hasAd = filterAdStatus ? filterAdStatus.value : "ALL";
+      ipcState.filters.ata = filterAta ? filterAta.value : "ALL";
       fetchIpcParts(1);
     }
 
@@ -5995,7 +6138,7 @@ ${bodyRows}
       });
     }
 
-    [filterPlane, filterRelation, filterInstalled, filterAdStatus].forEach((sel) => {
+    [filterPlane, filterRelation, filterInstalled, filterAdStatus, filterAta].forEach((sel) => {
       if (sel) sel.addEventListener("change", applyPartsSearch);
     });
 
@@ -6007,6 +6150,7 @@ ${bodyRows}
         if (filterRelation) filterRelation.value = "ALL";
         if (filterInstalled) filterInstalled.value = "ALL";
         if (filterAdStatus) filterAdStatus.value = "ALL";
+        if (filterAta) filterAta.value = "ALL";
         populateIpcPlaneDropdown();
         applyPartsSearch();
       });

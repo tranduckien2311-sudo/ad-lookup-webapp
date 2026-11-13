@@ -166,7 +166,7 @@ public class IpcSearchEngine {
         return "null";
     }
 
-    public static string SearchJson(string q, string family, string plane, string relation, string installed, string hasAd, int page, int pageSize) {
+    public static string SearchJson(string q, string family, string plane, string relation, string installed, string hasAd, string ata, int page, int pageSize) {
         if (!_loaded) return "{\"total\":0,\"page\":1,\"pageSize\":50,\"items\":[]}";
         if (page < 1) page = 1;
         if (pageSize < 1 || pageSize > 200) pageSize = 50;
@@ -175,6 +175,7 @@ public class IpcSearchEngine {
         string famUpper = string.IsNullOrWhiteSpace(family) || family == "ALL" ? null : family.Trim().ToUpperInvariant();
         string planeUpper = string.IsNullOrWhiteSpace(plane) || plane == "ALL" ? null : plane.Trim().ToUpperInvariant();
         string relUpper = string.IsNullOrWhiteSpace(relation) || relation == "ALL" ? null : relation.Trim().ToUpperInvariant();
+        string ataUpper = string.IsNullOrWhiteSpace(ata) || ata == "ALL" ? null : ata.Trim().ToUpperInvariant();
         bool? filterInstalled = null;
         if (installed == "YES") filterInstalled = true;
         else if (installed == "NO") filterInstalled = false;
@@ -206,8 +207,26 @@ public class IpcSearchEngine {
                 if (!filterHasAd.Value && item.adCount > 0) continue;
             }
 
+            if (ataUpper != null) {
+                bool ataMatch = false;
+                if (!string.IsNullOrEmpty(item.ipcRef) && (item.ipcRef.StartsWith(ataUpper + "-") || item.ipcRef.StartsWith(ataUpper))) {
+                    ataMatch = true;
+                }
+                if (!ataMatch && item.ipcRefs != null) {
+                    for (int ir = 0; ir < item.ipcRefs.Count; ir++) {
+                        if (!string.IsNullOrEmpty(item.ipcRefs[ir]) && (item.ipcRefs[ir].StartsWith(ataUpper + "-") || item.ipcRefs[ir].StartsWith(ataUpper))) {
+                            ataMatch = true;
+                            break;
+                        }
+                    }
+                }
+                if (!ataMatch) continue;
+            }
+
             if (relUpper != null) {
-                if (relUpper == "HAS_INTERCHANGE" || relUpper == "YES") {
+                if (relUpper == "NONE" || relUpper == "NO" || relUpper == "NO_INTERCHANGE") {
+                    if (item.interchanges.Count > 0) continue;
+                } else if (relUpper == "HAS_INTERCHANGE" || relUpper == "YES") {
                     if (item.interchanges.Count == 0) continue;
                 } else if (relUpper == "2WAY" || relUpper == "2-WAY") {
                     bool hit2Way = false;
@@ -744,12 +763,13 @@ try {
       $Relation = [string]$Req.QueryString["relation"]
       $Installed = [string]$Req.QueryString["installed"]
       $HasAd = [string]$Req.QueryString["hasAd"]
+      $Ata = [string]$Req.QueryString["ata"]
       $Page = 1
       if ($Req.QueryString["page"] -match '^\d+$') { $Page = [int]$Req.QueryString["page"] }
       $PageSize = 50
       if ($Req.QueryString["pageSize"] -match '^\d+$') { $PageSize = [int]$Req.QueryString["pageSize"] }
 
-      $ResJson = [IpcSearchEngine]::SearchJson($Q, $Family, $Plane, $Relation, $Installed, $HasAd, $Page, $PageSize)
+      $ResJson = [IpcSearchEngine]::SearchJson($Q, $Family, $Plane, $Relation, $Installed, $HasAd, $Ata, $Page, $PageSize)
       $Bytes = [System.Text.Encoding]::UTF8.GetBytes($ResJson)
       $Res.ContentType = "application/json; charset=utf-8"
       $Res.ContentLength64 = $Bytes.Length

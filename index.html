@@ -12,7 +12,7 @@
   <link rel="manifest" href="./manifest.webmanifest" />
   <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
   <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
-  <link rel="stylesheet" href="styles.css?v=39" />
+  <link rel="stylesheet" href="styles.css?v=40" />
   <script>
     window.__deferredPwaPrompt = null;
     window.addEventListener("beforeinstallprompt", function (e) {
@@ -265,6 +265,13 @@
           </div>
 
           <div class="form-group">
+            <label for="filterAdAta">Chương ATA (ATA Chapter)</label>
+            <select id="filterAdAta" class="form-control">
+              <option value="ALL">🌐 Tất cả Chương ATA</option>
+            </select>
+          </div>
+
+          <div class="form-group">
             <label for="sortSelect">Sắp xếp</label>
             <select id="sortSelect" class="form-control">
               <option value="applicableFirst">Ưu tiên Applicable lên đầu</option>
@@ -496,6 +503,12 @@
             </select>
           </div>
           <div class="form-group">
+            <label for="filterApplianceAta">Chương ATA (ATA Chapter)</label>
+            <select id="filterApplianceAta" class="form-control">
+              <option value="ALL">🌐 Tất cả Chương ATA</option>
+            </select>
+          </div>
+          <div class="form-group">
             <label for="filterApplianceType">Dòng Tàu Bay</label>
             <select id="filterApplianceType" class="form-control">
               <option value="ALL">Tất cả Dòng tàu (A320 / A321 / A330)</option>
@@ -719,6 +732,49 @@
                 <option value="ALL">Tất cả phụ tùng</option>
                 <option value="2WAY">↔️ 2-Way Interchange (Thay thế 2 chiều)</option>
                 <option value="1WAY">➡️ 1-Way Interchange (Thay thế 1 chiều)</option>
+                <option value="NONE">🚫 Không có Interchange (No Interchange / P/N độc lập)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="filterIpcAta">Chương ATA (ATA Chapter)</label>
+              <select id="filterIpcAta" class="form-control">
+                <option value="ALL">🌐 Tất cả Chương ATA</option>
+                <option value="11">ATA 11 — Placards &amp; Markings (Nhãn &amp; Bảng chỉ dẫn)</option>
+                <option value="21">ATA 21 — Air Conditioning (Điều hòa &amp; Áp suất)</option>
+                <option value="22">ATA 22 — Auto Flight (Lái tự động)</option>
+                <option value="23">ATA 23 — Communications (Liên lạc &amp; Đàm thoại)</option>
+                <option value="24">ATA 24 — Electrical Power (Hệ thống điện)</option>
+                <option value="25">ATA 25 — Equipment / Furnishings (Nội thất &amp; Thiết bị)</option>
+                <option value="26">ATA 26 — Fire Protection (Báo cháy &amp; Dập lửa)</option>
+                <option value="27">ATA 27 — Flight Controls (Điều khiển bay)</option>
+                <option value="28">ATA 28 — Fuel (Nhiên liệu)</option>
+                <option value="29">ATA 29 — Hydraulic Power (Thủy lực)</option>
+                <option value="30">ATA 30 — Ice &amp; Rain Protection (Chống băng tuyết)</option>
+                <option value="31">ATA 31 — Indicating / Recording (Hiển thị &amp; Ghi dữ liệu)</option>
+                <option value="32">ATA 32 — Landing Gear (Bộ càng đáp &amp; Phanh)</option>
+                <option value="33">ATA 33 — Lights (Hệ thống đèn)</option>
+                <option value="34">ATA 34 — Navigation (Dẫn đường &amp; Cảm biến)</option>
+                <option value="35">ATA 35 — Oxygen (Dưỡng khí oxy)</option>
+                <option value="36">ATA 36 — Pneumatic (Khí nén Bleed Air)</option>
+                <option value="38">ATA 38 — Water / Waste (Nước sạch &amp; Xả thải)</option>
+                <option value="49">ATA 49 — Airborne Auxiliary Power (Động cơ phụ APU)</option>
+                <option value="52">ATA 52 — Doors (Hệ thống cửa tàu bay)</option>
+                <option value="53">ATA 53 — Fuselage (Kết cấu thân tàu)</option>
+                <option value="54">ATA 54 — Nacelles / Pylons (Vỏ &amp; Giá treo động cơ)</option>
+                <option value="55">ATA 55 — Stabilizers (Cánh đuôi ngang/đứng)</option>
+                <option value="56">ATA 56 — Windows (Kính chắn gió &amp; Cửa sổ)</option>
+                <option value="57">ATA 57 — Wings (Kết cấu cánh)</option>
+                <option value="71">ATA 71 — Power Plant (Cụm động cơ)</option>
+                <option value="72">ATA 72 — Engine (Động cơ lõi / Turbine / Fan)</option>
+                <option value="73">ATA 73 — Engine Fuel &amp; Control (Điều khiển nhiên liệu động cơ)</option>
+                <option value="74">ATA 74 — Ignition (Đánh lửa động cơ)</option>
+                <option value="75">ATA 75 — Air (Khí làm mát động cơ)</option>
+                <option value="76">ATA 76 — Engine Controls (Hệ thống tay ga)</option>
+                <option value="77">ATA 77 — Engine Indicating (Thông số động cơ)</option>
+                <option value="78">ATA 78 — Exhaust (Ống xả &amp; Đảo chiều Reverser)</option>
+                <option value="79">ATA 79 — Engine Oil (Dầu bôi trơn động cơ)</option>
+                <option value="80">ATA 80 — Starting (Khởi động động cơ)</option>
               </select>
             </div>
 
@@ -1465,6 +1521,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=56"></script>
+  <script src="app.js?v=57"></script>
 </body>
 </html>
