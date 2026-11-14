@@ -5780,9 +5780,9 @@ ${bodyRows}
       let planesHtml = `<span style="color:var(--text-muted);font-size:12px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
       const allPlanes = (part.planes && part.planes.length > 0) ? part.planes : (part.samplePlanes || []);
       if (allPlanes.length > 0) {
-        const planeItems = allPlanes.map(p => `<span style="font-family:monospace;font-size:11.5px;color:#93c5fd;font-weight:600;">${escapeHtml(p)}</span>`).join(`<span style="color:rgba(255,255,255,0.25);margin:0 4px;">,</span> `);
+        const planeItems = allPlanes.map(p => `<span style="font-family:monospace;font-size:12px;color:#93c5fd;font-weight:600;">${escapeHtml(p)}</span>`).join(`<span style="color:rgba(255,255,255,0.25);margin:0 4px;">,</span> `);
         planesHtml = `
-          <div style="font-size:11.5px;line-height:1.7;padding:8px 12px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:6px;max-height:85px;overflow-y:auto;word-break:break-word;">
+          <div style="font-size:12px;line-height:1.75;word-break:break-word;max-height:180px;overflow-y:auto;padding:2px 0;">
             ${planeItems}
           </div>
         `;
@@ -5843,12 +5843,21 @@ ${bodyRows}
             ${refsHtml}
           </div>
 
-          <!-- Section 1: Aircraft Installation -->
+          <!-- Section 1: Aircraft Installation (Collapsible) -->
           <div>
-            <h4 style="font-size:14px;font-weight:700;color:#93c5fd;margin-bottom:8px;">
-              ✈️ Danh Sách Tàu Bay Lắp Đặt Trên Đội Bay VJC (${part.planeCount || 0} tàu)
-            </h4>
-            ${planesHtml}
+            <details style="background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.08);border-radius:6px;overflow:hidden;" ontoggle="const ind = this.querySelector('.plane-toggle-arrow'); if (ind) ind.textContent = this.open ? 'Thu gọn ▲' : 'Bấm xem danh sách ▼';">
+              <summary style="cursor:pointer;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;user-select:none;outline:none;background:rgba(255,255,255,0.03);list-style:none;transition:background 0.2s ease;" onmouseover="this.style.background='rgba(59,130,246,0.1)';" onmouseout="this.style.background='rgba(255,255,255,0.03)';">
+                <span style="font-size:13.5px;font-weight:700;color:#93c5fd;display:inline-flex;align-items:center;gap:8px;">
+                  ✈️ Danh Sách Tàu Bay Lắp Đặt Trên Đội Bay VJC (${part.planeCount || 0} tàu)
+                </span>
+                <span class="plane-toggle-arrow" style="font-size:12px;color:#60a5fa;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+                  Bấm xem danh sách ▼
+                </span>
+              </summary>
+              <div style="padding:10px 14px;border-top:1px solid rgba(255,255,255,0.06);background:rgba(0,0,0,0.15);">
+                ${planesHtml}
+              </div>
+            </details>
           </div>
 
           <!-- Section 2: Interchange Relationships -->

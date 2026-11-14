@@ -939,7 +939,8 @@ body.light-mode .superseded-dropdown summary {
   background: #fef3c7;
 }
 
-.superseded-dropdown summary::-webkit-details-marker {
+.superseded-dropdown summary::-webkit-details-marker,
+details summary::-webkit-details-marker {
   display: none;
 }
 
