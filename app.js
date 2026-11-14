@@ -5584,6 +5584,329 @@ ${bodyRows}
     });
   }
 
+  function getIpcShardKey(pn) {
+    if (!pn) return "_";
+    const clean = String(pn).trim().toUpperCase().replace(/[^0-9A-Z]/g, "_");
+    if (!clean) return "_";
+    // Tier 3 (4 chars) for ultra-dense families: D25, D57, D53, F25, F53
+    if (/^(D25|D57|D53|F25|F53)/.test(clean)) {
+      return clean.slice(0, Math.min(4, clean.length));
+    }
+    // Tier 2 (3 chars) for dense families: D2, D5, F2, F5, NAS, MS2, ABS
+    if (/^(D2|D5|F2|F5|NAS|MS2|ABS)/.test(clean)) {
+      return clean.slice(0, Math.min(3, clean.length));
+    }
+    // Tier 1 (2 chars) for standard
+    return clean.slice(0, Math.min(2, clean.length));
+  }
+
+  function renderIpcPartModalContent(part, isPreliminary) {
+    const modal = document.getElementById("ipcPartDetailModal");
+    const elTitle = document.getElementById("modalIpcPartTitle");
+    const elDesc = document.getElementById("modalIpcPartDesc");
+    const elMfr = document.getElementById("modalIpcPartMfr");
+    const elBadge = document.getElementById("modalIpcPartInstalledBadge");
+    const elBody = document.getElementById("modalIpcPartBody");
+    if (!modal || !elBody || !part) return;
+
+    elTitle.textContent = part.pn;
+    elDesc.textContent = part.desc || "Không có mô tả";
+    if (elMfr) elMfr.textContent = `MFR: ${part.mfr || "---"}`;
+
+    if (elBadge) {
+      if (part.installed) {
+        elBadge.className = "badge badge-success";
+        elBadge.textContent = `✅ Đã lắp trên đội bay (${part.planeCount || 0} tàu)`;
+      } else {
+        elBadge.className = "badge";
+        elBadge.style.background = "rgba(255,255,255,0.08)";
+        elBadge.style.color = "var(--text-muted)";
+        elBadge.textContent = "🚫 Chưa lắp / Phụ tùng spare";
+      }
+    }
+
+    // Build Interchange Table (Unified into 2-Way / 1-Way Interchange)
+    let icRows = `<tr><td colspan="6" style="text-align:center;padding:16px;color:var(--text-muted);">Không có dữ liệu thay thế (Interchange) trong IPC.</td></tr>`;
+    let distinctIcCount = 0;
+    if (part.interchanges && part.interchanges.length > 0) {
+      const groups = new Map();
+      for (const ic of part.interchanges) {
+        const pnKey = (ic.icPn || "").trim().toUpperCase();
+        if (!pnKey) continue;
+        if (!groups.has(pnKey)) groups.set(pnKey, []);
+        groups.get(pnKey).push(ic);
+      }
+
+      const mergedList = [];
+      for (const [pnKey, group] of groups.entries()) {
+        let hasExplicit1WayReason = false;
+        const reasons = new Set();
+        const locations = new Set();
+        let desc = "";
+        let mfr = "";
+        let incCode = "";
+
+        for (const item of group) {
+          const inc = (item.inc || "").trim();
+          const reason = (item.reason || "").trim();
+          const loc = (item.loc || "").trim();
+
+          if (isStrict1WayReason(reason)) {
+            hasExplicit1WayReason = true;
+          }
+
+          if (!incCode && inc) incCode = inc;
+          if (!desc && item.icDesc) desc = item.icDesc;
+          if (!mfr && item.icMfr) mfr = item.icMfr;
+          if (reason && reason !== "No condition stated in IPC" && !reason.toLowerCase().includes("reverse of a spare")) {
+            reasons.add(reason);
+          }
+          if (loc && loc !== "---") {
+            loc.split(/,\s*/).forEach(l => { if (l.trim()) locations.add(l.trim()); });
+          }
+        }
+
+        const is2Way = !hasExplicit1WayReason;
+        let finalRel = is2Way ? "2-Way" : "1-Way";
+        let finalReason = Array.from(reasons).join(" | ");
+        if (!finalReason) {
+          finalReason = "No restriction stated in IPC";
+        }
+        let finalLoc = Array.from(locations).join(", ");
+
+        mergedList.push({
+          is2Way: is2Way,
+          rel: finalRel,
+          icPn: group[0].icPn,
+          icDesc: desc || group[0].icDesc,
+          icMfr: mfr || group[0].icMfr,
+          reason: finalReason,
+          loc: finalLoc || "---",
+          inc: incCode ? `${incCode} (${is2Way ? "2-Way" : "1-Way"})` : (is2Way ? "2-WAY" : "1-WAY")
+        });
+      }
+
+      distinctIcCount = mergedList.length;
+
+      icRows = mergedList.map((ic) => {
+        const badgeBg = ic.is2Way ? "rgba(16,185,129,0.18)" : "rgba(234,179,8,0.18)";
+        const badgeBorder = ic.is2Way ? "rgba(16,185,129,0.45)" : "rgba(234,179,8,0.45)";
+        const badgeColor = ic.is2Way ? "#34d399" : "#fbbf24";
+        const icon = ic.is2Way ? "↔️" : "➡️";
+
+        return `
+          <tr>
+            <td style="vertical-align:top;">
+              <span class="badge" style="background:${badgeBg};border:1px solid ${badgeBorder};color:${badgeColor};font-size:11.5px;font-weight:800;padding:3px 7px;white-space:nowrap;">
+                ${icon} ${escapeHtml(ic.rel)}
+              </span>
+            </td>
+            <td style="vertical-align:top;">
+              <code style="font-size:13px;font-weight:800;color:#c084fc;">${escapeHtml(ic.icPn)}</code>
+            </td>
+            <td style="font-size:12px;vertical-align:top;font-weight:600;color:#fff;">${escapeHtml(ic.icDesc || "---")}</td>
+            <td style="font-size:11.5px;vertical-align:top;"><span class="badge badge-standard">${escapeHtml(ic.icMfr || "---")}</span></td>
+            <td style="font-size:11.5px;color:var(--text-secondary);word-break:break-word;vertical-align:top;line-height:1.35;">
+              ${escapeHtml(ic.reason)}
+            </td>
+            <td style="font-size:11px;text-align:center;vertical-align:top;">
+              <span class="badge" style="background:rgba(255,255,255,0.06);font-size:11px;font-weight:700;">${escapeHtml(ic.inc)}</span>
+            </td>
+          </tr>
+        `;
+      }).join("");
+    } else if (isPreliminary && (part.interchangeCount || 0) > 0) {
+      icRows = `<tr><td colspan="6" style="text-align:center;padding:16px;color:var(--text-muted);"><div style="display:inline-block;animation:spin 1s linear infinite;margin-right:6px;">⏳</div> Đang tải bảng quan hệ thay thế (${part.interchangeCount} part)...</td></tr>`;
+    }
+
+    // Build Matched ADs Table
+    let adRows = `<tr><td colspan="4" style="text-align:center;padding:16px;color:var(--text-muted);">Part Number này hiện không có Airworthiness Directive (AD) nào quy định trực tiếp.</td></tr>`;
+    if (part.matchedAds && part.matchedAds.length > 0) {
+      adRows = part.matchedAds.map((a) => {
+        const isEasa = a.auth === "EASA";
+        const flag = isEasa ? "🇪🇺 EASA" : "🇺🇸 FAA";
+        return `
+          <tr class="clickable-ad-row"
+              onclick="window.viewAdFromIpc('${escapeHtml(a.id)}', '${escapeHtml(part.pn)}')"
+              style="cursor:pointer;"
+              onmouseover="this.style.background='rgba(59,130,246,0.12)';"
+              onmouseout="this.style.background='';"
+              title="Nhấp vào hàng để xem toàn văn hồ sơ AD"
+          >
+            <td>
+              <strong style="color:${isEasa ? "#34d399" : "#93c5fd"};font-size:13px;">
+                ${escapeHtml(a.num)}
+              </strong>
+            </td>
+            <td><span class="badge badge-standard">${flag}</span></td>
+            <td style="font-size:12px;">${escapeHtml(a.eff || "---")}</td>
+            <td style="text-align:right;">
+              <span style="color:#60a5fa;font-size:12px;font-weight:700;">Xem AD ➜</span>
+            </td>
+          </tr>
+        `;
+      }).join("");
+    } else if (isPreliminary && (part.adCount || 0) > 0) {
+      adRows = `<tr><td colspan="4" style="text-align:center;padding:16px;color:var(--text-muted);"><div style="display:inline-block;animation:spin 1s linear infinite;margin-right:6px;">⏳</div> Đang kiểm tra chi tiết các AD liên quan...</td></tr>`;
+    }
+
+    // Build Planes List
+    let planesHtml = `<span style="color:var(--text-muted);font-size:12px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
+    const allPlanes = (part.planes && part.planes.length > 0) ? part.planes : (part.samplePlanes || []);
+    if (allPlanes.length > 0) {
+      const planeItems = allPlanes.map(p => `<span style="font-family:monospace;font-size:12px;color:#93c5fd;font-weight:600;">${escapeHtml(p)}</span>`).join(`<span style="color:rgba(255,255,255,0.25);margin:0 4px;">,</span> `);
+      const loadingMore = (isPreliminary && (part.planeCount || 0) > allPlanes.length)
+        ? `<div style="font-size:11.5px;color:var(--text-muted);margin-top:6px;font-style:italic;">⏳ Đang tải toàn bộ danh sách ${part.planeCount} tàu...</div>`
+        : "";
+      planesHtml = `
+        <div style="font-size:12px;line-height:1.75;word-break:break-word;max-height:180px;overflow-y:auto;padding:2px 0;">
+          ${planeItems}
+          ${loadingMore}
+        </div>
+      `;
+    }
+
+    // Build IPC References List
+    let refsHtml = `<span style="color:var(--text-muted);font-size:12.5px;">Chưa có dữ liệu vị trí IPC trong cơ sở dữ liệu.</span>`;
+    const allRefs = (part.ipcRefs && part.ipcRefs.length > 0) ? part.ipcRefs : (part.ipcRef ? [part.ipcRef] : []);
+    if (allRefs.length > 0) {
+      const rBadges = allRefs.map(r => `
+        <code style="background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.4);color:#67e8f9;font-size:12px;font-weight:700;padding:3px 8px;border-radius:4px;">
+          📍 ${escapeHtml(r)}
+        </code>
+      `).join("");
+      refsHtml = `
+        <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;max-height:100px;overflow-y:auto;padding:6px;background:rgba(255,255,255,0.02);border-radius:6px;">
+          ${rBadges}
+        </div>
+      `;
+    }
+
+    elBody.innerHTML = `
+      <div style="display:flex;flex-direction:column;gap:18px;">
+        
+        <!-- Summary Grid -->
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;background:rgba(255,255,255,0.03);padding:14px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);">
+          <div>
+            <div style="font-size:11.5px;color:var(--text-secondary);">Dòng Tàu Áp Dụng</div>
+            <div style="font-size:13.5px;font-weight:700;color:#fff;margin-top:2px;">
+              ${(part.families || []).join(", ") || "---"}
+            </div>
+          </div>
+          <div>
+            <div style="font-size:11.5px;color:var(--text-secondary);">Số Vị Trí Lắp (Line Items)</div>
+            <div style="font-size:13.5px;font-weight:700;color:#c084fc;margin-top:2px;">
+              ${part.lineItems || 0} dòng trong Components
+            </div>
+          </div>
+          <div>
+            <div style="font-size:11.5px;color:var(--text-secondary);">Số Lượng Part Thay Thế</div>
+            <div style="font-size:13.5px;font-weight:700;color:#34d399;margin-top:2px;">
+              ${distinctIcCount || part.interchangeCount || 0} Part thay thế (2-Way / 1-Way)
+            </div>
+          </div>
+          <div>
+            <div style="font-size:11.5px;color:var(--text-secondary);">Số Hồ Sơ AD Khớp</div>
+            <div style="font-size:13.5px;font-weight:700;color:#fbbf24;margin-top:2px;">
+              ${(part.matchedAds && part.matchedAds.length) || part.adCount || 0} Airworthiness Directives
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 0: IPC Reference -->
+        <div>
+          <h4 style="font-size:14px;font-weight:700;color:#67e8f9;margin-bottom:8px;">
+            📍 Vị Trí Tra Cứu IPC (IPC Reference / ATA - Figure - Item)
+          </h4>
+          ${refsHtml}
+        </div>
+
+        <!-- Section 1: Aircraft Installation (Collapsible) -->
+        <div>
+          <details style="background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.08);border-radius:6px;overflow:hidden;" ontoggle="const ind = this.querySelector('.plane-toggle-arrow'); if (ind) ind.textContent = this.open ? 'Thu gọn ▲' : 'Bấm xem danh sách ▼';">
+            <summary style="cursor:pointer;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;user-select:none;outline:none;background:rgba(255,255,255,0.03);list-style:none;transition:background 0.2s ease;" onmouseover="this.style.background='rgba(59,130,246,0.1)';" onmouseout="this.style.background='rgba(255,255,255,0.03)';">
+              <span style="font-size:13.5px;font-weight:700;color:#93c5fd;display:inline-flex;align-items:center;gap:8px;">
+                ✈️ Danh Sách Tàu Bay Lắp Đặt Trên Đội Bay VJC (${part.planeCount || 0} tàu)
+              </span>
+              <span class="plane-toggle-arrow" style="font-size:12px;color:#60a5fa;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
+                Bấm xem danh sách ▼
+              </span>
+            </summary>
+            <div style="padding:10px 14px;border-top:1px solid rgba(255,255,255,0.06);background:rgba(0,0,0,0.15);">
+              ${planesHtml}
+            </div>
+          </details>
+        </div>
+
+        <!-- Section 2: Interchange Relationships -->
+        <div>
+          <h4 style="font-size:14px;font-weight:700;color:#c084fc;margin-bottom:8px;">
+            🔄 Bảng Quan Hệ Thay Thế (Interchange Relationships) Trong IPC
+          </h4>
+          <div class="table-responsive" style="max-height:280px;overflow-y:auto;border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
+            <table class="ad-table" id="tableIpcModalInterchange">
+              <thead>
+                <tr>
+                  <th style="width:14%;" title="Interchange Relationship">
+                    <span class="col-full">Relation</span><span class="col-compact">Rel</span>
+                  </th>
+                  <th style="width:20%;" title="Interchange Part Number">
+                    <span class="col-full">Interchange P/N</span><span class="col-compact">Part #</span>
+                  </th>
+                  <th style="width:22%;" title="Description">
+                    <span class="col-full">Description</span><span class="col-compact">Desc</span>
+                  </th>
+                  <th style="width:8%;" title="Manufacturer Code">MFR</th>
+                  <th style="width:29%;" title="Condition / Technical Reason">
+                    <span class="col-full">Condition / Reason</span><span class="col-compact">Reason</span>
+                  </th>
+                  <th style="width:7%;text-align:center;" title="Interchangeability Code">INC</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${icRows}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Section 3: Matched ADs -->
+        <div>
+          <h4 style="font-size:14px;font-weight:700;color:#fbbf24;margin-bottom:8px;">
+            ⚠️ Airworthiness Directives (AD) Related to Part Number &amp; Interchange
+          </h4>
+          <div class="table-responsive" style="border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
+            <table class="ad-table" id="tableIpcModalAds">
+              <thead>
+                <tr>
+                  <th style="width:28%;">AD Number</th>
+                  <th style="width:18%;">Authority</th>
+                  <th style="width:34%;">Effective Date</th>
+                  <th style="width:20%;text-align:center;">Action</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${adRows}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    `;
+
+    // Wire AD click handlers in modal
+    elBody.querySelectorAll(".btn-open-ad-from-ipc").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const adId = btn.getAttribute("data-adid");
+        if (adId && typeof openAdModal === "function") {
+          if (modal) modal.classList.remove("open");
+          openAdModal(adId);
+        }
+      });
+    });
+  }
+
   window.openIpcDetailModal = openIpcDetailModal;
   async function openIpcDetailModal(pn) {
     window.openIpcDetailModal = openIpcDetailModal;
@@ -5597,338 +5920,90 @@ ${bodyRows}
     if (!modal || !elBody) return;
 
     modal.classList.add("open");
-    elTitle.textContent = pn;
-    elDesc.textContent = "Đang tải dữ liệu chi tiết cấu hình lắp và quan hệ interchange...";
-    elBody.innerHTML = `
-      <div style="text-align:center;padding:40px;color:var(--text-muted);">
-        <div style="display:inline-block;animation:spin 1s linear infinite;margin-right:8px;">⏳</div>
-        Đang tra cứu cơ sở dữ liệu IPC cho Part Number ${escapeHtml(pn)}...
-      </div>
-    `;
+    const cleanPn = (pn || "").trim();
+
+    // Check if we already have the full part in memory cache
+    const shardKey = getIpcShardKey(cleanPn);
+    let cachedPart = null;
+    if (window.ipcShardCache && window.ipcShardCache[shardKey]) {
+      cachedPart = window.ipcShardCache[shardKey][cleanPn] || window.ipcShardCache[shardKey][cleanPn.toUpperCase()];
+      if (!cachedPart) {
+        const u = cleanPn.toUpperCase();
+        for (const k in window.ipcShardCache[shardKey]) {
+          if (k.toUpperCase() === u) { cachedPart = window.ipcShardCache[shardKey][k]; break; }
+        }
+      }
+    }
+
+    if (cachedPart) {
+      // 0ms instant render full part!
+      renderIpcPartModalContent(cachedPart, false);
+      return;
+    }
+
+    // Instant preliminary pre-render from search catalog (0ms UI response)
+    let preliminary = null;
+    if (ipcState.parts && ipcState.parts.length > 0) {
+      preliminary = ipcState.parts.find(p => (p.pn || "").toUpperCase() === cleanPn.toUpperCase());
+    }
+    if (!preliminary && window.ipcCatalogStatic && window.ipcCatalogStatic.length > 0) {
+      preliminary = window.ipcCatalogStatic.find(p => (p.pn || "").toUpperCase() === cleanPn.toUpperCase());
+    }
+
+    if (preliminary) {
+      renderIpcPartModalContent(preliminary, true);
+    } else {
+      elTitle.textContent = pn;
+      elDesc.textContent = "Đang tải dữ liệu chi tiết cấu hình lắp và quan hệ interchange...";
+      elBody.innerHTML = `
+        <div style="text-align:center;padding:40px;color:var(--text-muted);">
+          <div style="display:inline-block;animation:spin 1s linear infinite;margin-right:8px;">⏳</div>
+          Đang tra cứu cơ sở dữ liệu IPC cho Part Number ${escapeHtml(pn)}...
+        </div>
+      `;
+    }
 
     try {
-      let part = null;
+      let fullPart = null;
       if (!isStaticHost) {
         try {
-          const res = await fetch(getIpcApiUrl(`/api/ipc/part-detail?pn=${encodeURIComponent(pn)}`));
-          if (res.ok) part = await res.json();
+          const res = await fetch(getIpcApiUrl(`/api/ipc/part-detail?pn=${encodeURIComponent(cleanPn)}`));
+          if (res.ok) fullPart = await res.json();
         } catch (e) {}
       }
 
-      // Fallback to static shard
-      if (!part) {
-        const cleanPn = (pn || "").trim();
-        let shardKey = cleanPn.length > 0 ? cleanPn[0].toUpperCase() : "_";
-        if (!/^[0-9A-Z]$/.test(shardKey)) shardKey = "_";
-
+      // Static shard fallback
+      if (!fullPart) {
+        if (!window.ipcShardCache) window.ipcShardCache = {};
         if (!window.ipcShardCache[shardKey]) {
           const res = await fetch(`./db/ipc-details/${shardKey}.json`);
           if (!res.ok) throw new Error(`HTTP ${res.status} khi tải chi tiết phụ tùng`);
           window.ipcShardCache[shardKey] = await res.json();
         }
-        part = window.ipcShardCache[shardKey][cleanPn] || null;
+        fullPart = window.ipcShardCache[shardKey][cleanPn] || window.ipcShardCache[shardKey][cleanPn.toUpperCase()];
+        if (!fullPart) {
+          const u = cleanPn.toUpperCase();
+          for (const k in window.ipcShardCache[shardKey]) {
+            if (k.toUpperCase() === u) { fullPart = window.ipcShardCache[shardKey][k]; break; }
+          }
+        }
       }
 
-      if (!part) {
-        elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Không tìm thấy thông tin chi tiết cho Part Number ${escapeHtml(pn)}.</div>`;
+      // Ensure modal has not been navigated away to another part
+      const currentTitle = document.getElementById("modalIpcPartTitle");
+      if (currentTitle && currentTitle.textContent !== pn && currentTitle.textContent !== cleanPn) {
         return;
       }
 
-      elTitle.textContent = part.pn;
-      elDesc.textContent = part.desc || "Không có mô tả";
-      if (elMfr) elMfr.textContent = `MFR: ${part.mfr || "---"}`;
-
-      if (elBadge) {
-        if (part.installed) {
-          elBadge.className = "badge badge-success";
-          elBadge.textContent = `✅ Đã lắp trên đội bay (${part.planeCount || 0} tàu)`;
-        } else {
-          elBadge.className = "badge";
-          elBadge.style.background = "rgba(255,255,255,0.08)";
-          elBadge.style.color = "var(--text-muted)";
-          elBadge.textContent = "🚫 Chưa lắp / Phụ tùng spare";
-        }
+      if (fullPart) {
+        renderIpcPartModalContent(fullPart, false);
+      } else if (!preliminary) {
+        elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Không tìm thấy thông tin chi tiết cho Part Number ${escapeHtml(pn)}.</div>`;
       }
-
-      // Build Interchange Table (Unified into 2-Way / 1-Way Interchange)
-      let icRows = `<tr><td colspan="7" style="text-align:center;padding:16px;color:var(--text-muted);">Không có dữ liệu thay thế (Interchange) trong IPC.</td></tr>`;
-      let distinctIcCount = 0;
-      if (part.interchanges && part.interchanges.length > 0) {
-        // Group by interchange part number (icPn) to unify 2-Way / 1-Way relations
-        const groups = new Map();
-        for (const ic of part.interchanges) {
-          const pnKey = (ic.icPn || "").trim().toUpperCase();
-          if (!pnKey) continue;
-          if (!groups.has(pnKey)) groups.set(pnKey, []);
-          groups.get(pnKey).push(ic);
-        }
-
-        const mergedList = [];
-        for (const [pnKey, group] of groups.entries()) {
-          let hasExplicit1WayReason = false;
-          const reasons = new Set();
-          const locations = new Set();
-          let desc = "";
-          let mfr = "";
-          let incCode = "";
-
-          for (const item of group) {
-            const inc = (item.inc || "").trim();
-            const reason = (item.reason || "").trim();
-            const loc = (item.loc || "").trim();
-            const rUpper = reason.toUpperCase();
-
-            // Chỉ coi là 1-Way khi có lý do kỹ thuật cấm tuyệt đối 1 chiều (không có điều kiện đảo ngược)
-            if (isStrict1WayReason(reason)) {
-              hasExplicit1WayReason = true;
-            }
-
-            if (!incCode && inc) incCode = inc;
-            if (!desc && item.icDesc) desc = item.icDesc;
-            if (!mfr && item.icMfr) mfr = item.icMfr;
-            if (reason && reason !== "No condition stated in IPC" && !reason.toLowerCase().includes("reverse of a spare")) {
-              reasons.add(reason);
-            }
-            if (loc && loc !== "---") {
-              loc.split(/,\s*/).forEach(l => { if (l.trim()) locations.add(l.trim()); });
-            }
-          }
-
-          // Không có lý do rõ ràng thì đều là 2-Way Interchange
-          const is2Way = !hasExplicit1WayReason;
-
-          let finalRel = is2Way ? "2-Way" : "1-Way";
-          let finalReason = Array.from(reasons).join(" | ");
-          if (!finalReason) {
-            finalReason = "No restriction stated in IPC";
-          }
-          let finalLoc = Array.from(locations).join(", ");
-
-          mergedList.push({
-            is2Way: is2Way,
-            rel: finalRel,
-            icPn: group[0].icPn,
-            icDesc: desc || group[0].icDesc,
-            icMfr: mfr || group[0].icMfr,
-            reason: finalReason,
-            loc: finalLoc || "---",
-            inc: incCode ? `${incCode} (${is2Way ? "2-Way" : "1-Way"})` : (is2Way ? "2-WAY" : "1-WAY")
-          });
-        }
-
-        distinctIcCount = mergedList.length;
-
-        icRows = mergedList.map((ic) => {
-          const badgeBg = ic.is2Way ? "rgba(16,185,129,0.18)" : "rgba(234,179,8,0.18)";
-          const badgeBorder = ic.is2Way ? "rgba(16,185,129,0.45)" : "rgba(234,179,8,0.45)";
-          const badgeColor = ic.is2Way ? "#34d399" : "#fbbf24";
-          const icon = ic.is2Way ? "↔️" : "➡️";
-
-          return `
-            <tr>
-              <td style="vertical-align:top;">
-                <span class="badge" style="background:${badgeBg};border:1px solid ${badgeBorder};color:${badgeColor};font-size:11.5px;font-weight:800;padding:3px 7px;white-space:nowrap;">
-                  ${icon} ${escapeHtml(ic.rel)}
-                </span>
-              </td>
-              <td style="vertical-align:top;">
-                <code style="font-size:13px;font-weight:800;color:#c084fc;">${escapeHtml(ic.icPn)}</code>
-              </td>
-              <td style="font-size:12px;vertical-align:top;font-weight:600;color:#fff;">${escapeHtml(ic.icDesc || "---")}</td>
-              <td style="font-size:11.5px;vertical-align:top;"><span class="badge badge-standard">${escapeHtml(ic.icMfr || "---")}</span></td>
-              <td style="font-size:11.5px;color:var(--text-secondary);word-break:break-word;vertical-align:top;line-height:1.35;">
-                ${escapeHtml(ic.reason)}
-              </td>
-              <td style="font-size:11px;text-align:center;vertical-align:top;">
-                <span class="badge" style="background:rgba(255,255,255,0.06);font-size:11px;font-weight:700;">${escapeHtml(ic.inc)}</span>
-              </td>
-            </tr>
-          `;
-        }).join("");
-      }
-
-      // Build Matched ADs Table
-      let adRows = `<tr><td colspan="4" style="text-align:center;padding:16px;color:var(--text-muted);">Part Number này hiện không có Airworthiness Directive (AD) nào quy định trực tiếp.</td></tr>`;
-      if (part.matchedAds && part.matchedAds.length > 0) {
-        adRows = part.matchedAds.map((a) => {
-          const isEasa = a.auth === "EASA";
-          const flag = isEasa ? "🇪🇺 EASA" : "🇺🇸 FAA";
-          return `
-            <tr class="clickable-ad-row"
-                onclick="window.viewAdFromIpc('${escapeHtml(a.id)}', '${escapeHtml(part.pn)}')"
-                style="cursor:pointer;"
-                onmouseover="this.style.background='rgba(59,130,246,0.12)';"
-                onmouseout="this.style.background='';"
-                title="Nhấp vào hàng để xem toàn văn hồ sơ AD"
-            >
-              <td>
-                <strong style="color:${isEasa ? "#34d399" : "#93c5fd"};font-size:13px;">
-                  ${escapeHtml(a.num)}
-                </strong>
-              </td>
-              <td><span class="badge badge-standard">${flag}</span></td>
-              <td style="font-size:12px;">${escapeHtml(a.eff || "---")}</td>
-              <td style="text-align:right;">
-                <span style="color:#60a5fa;font-size:12px;font-weight:700;">Xem AD ➜</span>
-              </td>
-            </tr>
-          `;
-        }).join("");
-      }
-
-      // Build Planes List
-      let planesHtml = `<span style="color:var(--text-muted);font-size:12px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
-      const allPlanes = (part.planes && part.planes.length > 0) ? part.planes : (part.samplePlanes || []);
-      if (allPlanes.length > 0) {
-        const planeItems = allPlanes.map(p => `<span style="font-family:monospace;font-size:12px;color:#93c5fd;font-weight:600;">${escapeHtml(p)}</span>`).join(`<span style="color:rgba(255,255,255,0.25);margin:0 4px;">,</span> `);
-        planesHtml = `
-          <div style="font-size:12px;line-height:1.75;word-break:break-word;max-height:180px;overflow-y:auto;padding:2px 0;">
-            ${planeItems}
-          </div>
-        `;
-      }
-
-      // Build IPC References List
-      let refsHtml = `<span style="color:var(--text-muted);font-size:12.5px;">Chưa có dữ liệu vị trí IPC trong cơ sở dữ liệu.</span>`;
-      const allRefs = (part.ipcRefs && part.ipcRefs.length > 0) ? part.ipcRefs : (part.ipcRef ? [part.ipcRef] : []);
-      if (allRefs.length > 0) {
-        const rBadges = allRefs.map(r => `
-          <code style="background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.4);color:#67e8f9;font-size:12px;font-weight:700;padding:3px 8px;border-radius:4px;">
-            📍 ${escapeHtml(r)}
-          </code>
-        `).join("");
-        refsHtml = `
-          <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;max-height:100px;overflow-y:auto;padding:6px;background:rgba(255,255,255,0.02);border-radius:6px;">
-            ${rBadges}
-          </div>
-        `;
-      }
-
-      elBody.innerHTML = `
-        <div style="display:flex;flex-direction:column;gap:18px;">
-          
-          <!-- Summary Grid -->
-          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;background:rgba(255,255,255,0.03);padding:14px;border-radius:8px;border:1px solid rgba(255,255,255,0.08);">
-            <div>
-              <div style="font-size:11.5px;color:var(--text-secondary);">Dòng Tàu Áp Dụng</div>
-              <div style="font-size:13.5px;font-weight:700;color:#fff;margin-top:2px;">
-                ${(part.families || []).join(", ") || "---"}
-              </div>
-            </div>
-            <div>
-              <div style="font-size:11.5px;color:var(--text-secondary);">Số Vị Trí Lắp (Line Items)</div>
-              <div style="font-size:13.5px;font-weight:700;color:#c084fc;margin-top:2px;">
-                ${part.lineItems || 0} dòng trong Components
-              </div>
-            </div>
-            <div>
-              <div style="font-size:11.5px;color:var(--text-secondary);">Số Lượng Part Thay Thế</div>
-              <div style="font-size:13.5px;font-weight:700;color:#34d399;margin-top:2px;">
-                ${distinctIcCount || part.interchangeCount || 0} Part thay thế (2-Way / 1-Way)
-              </div>
-            </div>
-            <div>
-              <div style="font-size:11.5px;color:var(--text-secondary);">Số Hồ Sơ AD Khớp</div>
-              <div style="font-size:13.5px;font-weight:700;color:#fbbf24;margin-top:2px;">
-                ${part.adCount || 0} Airworthiness Directives
-              </div>
-            </div>
-          </div>
-
-          <!-- Section 0: IPC Reference -->
-          <div>
-            <h4 style="font-size:14px;font-weight:700;color:#67e8f9;margin-bottom:8px;">
-              📍 Vị Trí Tra Cứu IPC (IPC Reference / ATA - Figure - Item)
-            </h4>
-            ${refsHtml}
-          </div>
-
-          <!-- Section 1: Aircraft Installation (Collapsible) -->
-          <div>
-            <details style="background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.08);border-radius:6px;overflow:hidden;" ontoggle="const ind = this.querySelector('.plane-toggle-arrow'); if (ind) ind.textContent = this.open ? 'Thu gọn ▲' : 'Bấm xem danh sách ▼';">
-              <summary style="cursor:pointer;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;user-select:none;outline:none;background:rgba(255,255,255,0.03);list-style:none;transition:background 0.2s ease;" onmouseover="this.style.background='rgba(59,130,246,0.1)';" onmouseout="this.style.background='rgba(255,255,255,0.03)';">
-                <span style="font-size:13.5px;font-weight:700;color:#93c5fd;display:inline-flex;align-items:center;gap:8px;">
-                  ✈️ Danh Sách Tàu Bay Lắp Đặt Trên Đội Bay VJC (${part.planeCount || 0} tàu)
-                </span>
-                <span class="plane-toggle-arrow" style="font-size:12px;color:#60a5fa;font-weight:600;display:inline-flex;align-items:center;gap:4px;">
-                  Bấm xem danh sách ▼
-                </span>
-              </summary>
-              <div style="padding:10px 14px;border-top:1px solid rgba(255,255,255,0.06);background:rgba(0,0,0,0.15);">
-                ${planesHtml}
-              </div>
-            </details>
-          </div>
-
-          <!-- Section 2: Interchange Relationships -->
-          <div>
-            <h4 style="font-size:14px;font-weight:700;color:#c084fc;margin-bottom:8px;">
-              🔄 Bảng Quan Hệ Thay Thế (Interchange Relationships) Trong IPC
-            </h4>
-            <div class="table-responsive" style="max-height:280px;overflow-y:auto;border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
-              <table class="ad-table" id="tableIpcModalInterchange">
-                <thead>
-                  <tr>
-                    <th style="width:14%;" title="Interchange Relationship">
-                      <span class="col-full">Relation</span><span class="col-compact">Rel</span>
-                    </th>
-                    <th style="width:20%;" title="Interchange Part Number">
-                      <span class="col-full">Interchange P/N</span><span class="col-compact">Part #</span>
-                    </th>
-                    <th style="width:22%;" title="Description">
-                      <span class="col-full">Description</span><span class="col-compact">Desc</span>
-                    </th>
-                    <th style="width:8%;" title="Manufacturer Code">MFR</th>
-                    <th style="width:29%;" title="Condition / Technical Reason">
-                      <span class="col-full">Condition / Reason</span><span class="col-compact">Reason</span>
-                    </th>
-                    <th style="width:7%;text-align:center;" title="Interchangeability Code">INC</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  ${icRows}
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <!-- Section 3: Matched ADs -->
-          <div>
-            <h4 style="font-size:14px;font-weight:700;color:#fbbf24;margin-bottom:8px;">
-              ⚠️ Airworthiness Directives (AD) Related to Part Number &amp; Interchange
-            </h4>
-            <div class="table-responsive" style="border:1px solid rgba(255,255,255,0.08);border-radius:6px;">
-              <table class="ad-table" id="tableIpcModalAds">
-                <thead>
-                  <tr>
-                    <th style="width:28%;">AD Number</th>
-                    <th style="width:18%;">Authority</th>
-                    <th style="width:34%;">Effective Date</th>
-                    <th style="width:20%;text-align:center;">Action</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  ${adRows}
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-        </div>
-      `;
-
-      // Wire AD click handlers in modal
-      elBody.querySelectorAll(".btn-open-ad-from-ipc").forEach((btn) => {
-        btn.addEventListener("click", () => {
-          const adId = btn.getAttribute("data-adid");
-          if (adId && typeof openAdModal === "function") {
-            if (modal) modal.classList.remove("open");
-            openAdModal(adId);
-          }
-        });
-      });
     } catch (err) {
-      elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Lỗi khi tải chi tiết phụ tùng: ${escapeHtml(err.message)}</div>`;
+      if (!preliminary) {
+        elBody.innerHTML = `<div style="padding:20px;color:#fca5a5;">Lỗi khi tải chi tiết phụ tùng: ${escapeHtml(err.message)}</div>`;
+      }
     }
   }
 
