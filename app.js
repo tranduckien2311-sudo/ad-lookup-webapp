@@ -5777,17 +5777,13 @@ ${bodyRows}
       }
 
       // Build Planes List
-      let planesHtml = `<span style="color:var(--text-muted);font-size:12.5px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
+      let planesHtml = `<span style="color:var(--text-muted);font-size:12px;">Part chưa được lắp đặt trên tàu bay nào trong 146 cấu hình IPC.</span>`;
       const allPlanes = (part.planes && part.planes.length > 0) ? part.planes : (part.samplePlanes || []);
       if (allPlanes.length > 0) {
-        const pBadges = allPlanes.map(p => `
-          <span class="badge" style="background:rgba(59,130,246,0.18);border:1px solid rgba(59,130,246,0.45);color:#93c5fd;font-size:12px;padding:3px 8px;">
-            ✈️ ${escapeHtml(p)}
-          </span>
-        `).join("");
+        const planeItems = allPlanes.map(p => `<span style="font-family:monospace;font-size:11.5px;color:#93c5fd;font-weight:600;">${escapeHtml(p)}</span>`).join(`<span style="color:rgba(255,255,255,0.25);margin:0 4px;">,</span> `);
         planesHtml = `
-          <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;max-height:120px;overflow-y:auto;padding:6px;background:rgba(255,255,255,0.02);border-radius:6px;">
-            ${pBadges}
+          <div style="font-size:11.5px;line-height:1.7;padding:8px 12px;background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:6px;max-height:85px;overflow-y:auto;word-break:break-word;">
+            ${planeItems}
           </div>
         `;
       }
