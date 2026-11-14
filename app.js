@@ -3245,9 +3245,16 @@
     makeBars("chartAta", Object.entries(ataMap).slice(0, 8), total, "var(--accent-amber)");
   }
 
+  let navFromPart = false;
+  window.lastPartViewContext = null;
+
   // Open Detail Modal: Displays 100% Verbatim Text + Official PDF for Current (EASA/FAA side) and any Superseded AD!
   async function openAdModal(adId, supIdx = null, adSide = null) {
     if (!adId) return;
+    if (!navFromPart) {
+      window.lastPartViewContext = null;
+    }
+    navFromPart = false;
     let ad = adList.find((x) => x.id === adId);
     if (!ad) {
       const q = String(adId).trim().toLowerCase();
@@ -3297,6 +3304,20 @@
 
     const isViewingSup = Boolean(activeSupObj);
     const isApp = ad.applicabilityStatus === "Applicable";
+
+    const backContainer = document.getElementById("modalBackToPartContainer");
+    if (backContainer) {
+      if (window.lastPartViewContext && window.lastPartViewContext.pn) {
+        const pnEsc = escapeHtml(window.lastPartViewContext.pn);
+        backContainer.innerHTML = `
+          <button type="button" class="btn btn-primary btn-sm no-print" onclick="window.goBackToPartDetail()" style="display:inline-flex;align-items:center;gap:6px;background:linear-gradient(135deg,#2563eb,#1d4ed8);border-color:#3b82f6;color:#fff;font-weight:700;font-size:12px;padding:5px 12px;border-radius:6px;box-shadow:0 2px 8px rgba(37,99,235,0.4);">
+            ◀ Quay lại Vật Tư (P/N: ${pnEsc})
+          </button>
+        `;
+      } else {
+        backContainer.innerHTML = "";
+      }
+    }
 
     document.getElementById("modalBadges").innerHTML = `
       ${
@@ -3484,7 +3505,24 @@
       viewingDoc.effectiveDate || "-"
     }\n\n${viewingDoc.summary || ""}`;
 
+    const partBackBanner = (window.lastPartViewContext && window.lastPartViewContext.pn)
+      ? `
+        <div style="background:linear-gradient(135deg,rgba(59,130,246,0.18),rgba(147,51,234,0.15));border:1px solid rgba(59,130,246,0.5);border-radius:8px;padding:9px 14px;margin-bottom:14px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+          <div style="display:flex;align-items:center;gap:8px;">
+            <span style="font-size:15px;">🧰</span>
+            <span style="font-size:13px;color:#bfdbfe;">
+              Hồ sơ AD quy định cho Part Number: <strong style="color:#fff;font-family:monospace;font-size:14px;">${escapeHtml(window.lastPartViewContext.pn)}</strong>
+            </span>
+          </div>
+          <button type="button" class="btn btn-primary btn-sm" onclick="window.goBackToPartDetail()" style="display:inline-flex;align-items:center;gap:6px;background:#2563eb;border-color:#3b82f6;color:#fff;font-weight:700;font-size:12px;padding:4px 12px;box-shadow:0 2px 6px rgba(37,99,235,0.35);">
+            ◀ Quay lại linh kiện P/N: ${escapeHtml(window.lastPartViewContext.pn)}
+          </button>
+        </div>
+      `
+      : "";
+
     document.getElementById("modalBodyContent").innerHTML = `
+      ${partBackBanner}
       ${switcherHtml}
 
       <!-- 1. Key Identification & Effective Date Grid -->
@@ -4712,26 +4750,32 @@ ${bodyRows}
             ? `<div style="display:flex;flex-direction:column;gap:8px;">` +
               adsList
                 .map((a) => `
-                  <div style="display:flex;justify-content:space-between;align-items:center;padding:8px 12px;background:rgba(255,255,255,0.04);border-radius:6px;border:1px solid rgba(255,255,255,0.08);flex-wrap:wrap;gap:8px;">
-                    <div>
-                      <div style="display:flex;align-items:center;gap:6px;">
+                  <div class="appliance-ad-clickable-card"
+                       onclick="window.viewAdFromAppliance('${escapeHtml(a.adId || '')}', '${escapeHtml(item.pn)}')"
+                       style="cursor:pointer;display:flex;justify-content:space-between;align-items:center;padding:12px 14px;background:rgba(255,255,255,0.04);border-radius:8px;border:1px solid rgba(59,130,246,0.35);transition:all 0.2s ease;flex-wrap:wrap;gap:10px;"
+                       onmouseover="this.style.background='rgba(59,130,246,0.14)';this.style.borderColor='#3b82f6';"
+                       onmouseout="this.style.background='rgba(255,255,255,0.04)';this.style.borderColor='rgba(59,130,246,0.35)';"
+                       title="Nhấp vào khung để xem toàn văn hồ sơ AD này"
+                  >
+                    <div style="flex:1;min-width:240px;">
+                      <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
                         <span class="badge ${ (a.authority || "").includes("EASA") ? "badge-easa" : "badge-faa" }">${escapeHtml(a.authority || "AD")}</span>
-                        <strong style="color:#60a5fa;font-size:13.5px;">${escapeHtml(a.adNumber)}</strong>
+                        <strong style="color:#60a5fa;font-size:14px;">${escapeHtml(a.adNumber)}</strong>
                         <span style="font-size:12px;color:var(--accent-emerald);font-family:monospace;margin-left:6px;">Eff: ${escapeHtml(a.effectiveDate || "—")}</span>
                       </div>
-                      <div style="font-size:12.5px;color:#fff;margin-top:4px;">${escapeHtml(a.subject || "")}</div>
+                      <div style="font-size:12.5px;color:#fff;margin-top:5px;line-height:1.4;">${escapeHtml(a.subject || "")}</div>
                     </div>
-                    <div style="display:flex;gap:6px;">
+                    <div style="display:flex;align-items:center;gap:8px;">
                       ${
                         a.pdfUrl
-                          ? `<a href="${escapeHtml(a.pdfUrl)}" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="border-color:rgba(16,185,129,0.5);color:#34d399;font-size:11.5px;padding:4px 9px;">
+                          ? `<a href="${escapeHtml(a.pdfUrl)}" target="_blank" rel="noopener" onclick="event.stopPropagation();" class="btn btn-outline btn-sm" style="border-color:rgba(16,185,129,0.5);color:#34d399;font-size:11.5px;padding:4px 9px;">
                               📄 Bản PDF ↗
                             </a>`
                           : ""
                       }
-                      <button class="btn btn-primary btn-sm" onclick="window.viewAdFromAppliance('${escapeHtml(a.adId || '')}')" style="font-size:11.5px;padding:4px 9px;">
-                        👁️ Mở AD Modal
-                      </button>
+                      <span style="color:#93c5fd;font-size:12.5px;font-weight:700;display:inline-flex;align-items:center;gap:4px;">
+                        Xem hồ sơ AD ➜
+                      </span>
                     </div>
                   </div>
                 `)
@@ -4785,10 +4829,37 @@ ${bodyRows}
 
   window.viewApplianceDetail = openApplianceModal;
   window.openAdModal = openAdModal;
-  window.viewAdFromAppliance = function (adId) {
+
+  window.viewAdFromAppliance = function (adId, pn) {
+    navFromPart = true;
+    window.lastPartViewContext = { source: "appliance", pn: pn || "" };
     const appModal = document.getElementById("applianceDetailModal");
     if (appModal) appModal.classList.remove("open");
     openAdModal(adId);
+  };
+
+  window.viewAdFromIpc = function (adId, pn) {
+    navFromPart = true;
+    window.lastPartViewContext = { source: "ipc", pn: pn || "" };
+    const ipcModal = document.getElementById("ipcPartDetailModal");
+    if (ipcModal) ipcModal.classList.remove("open");
+    openAdModal(adId);
+  };
+
+  window.goBackToPartDetail = function () {
+    const ctx = window.lastPartViewContext;
+    if (!ctx || !ctx.pn) return;
+    const adModal = document.getElementById("adDetailModal");
+    if (adModal) adModal.classList.remove("open");
+    if (ctx.source === "ipc") {
+      if (typeof openIpcDetailModal === "function") {
+        openIpcDetailModal(ctx.pn);
+      }
+    } else {
+      if (typeof openApplianceModal === "function") {
+        openApplianceModal(ctx.pn);
+      }
+    }
   };
 
   function exportAppliancesToExcel() {
@@ -5683,7 +5754,13 @@ ${bodyRows}
           const isEasa = a.auth === "EASA";
           const flag = isEasa ? "🇪🇺 EASA" : "🇺🇸 FAA";
           return `
-            <tr>
+            <tr class="clickable-ad-row"
+                onclick="window.viewAdFromIpc('${escapeHtml(a.id)}', '${escapeHtml(part.pn)}')"
+                style="cursor:pointer;"
+                onmouseover="this.style.background='rgba(59,130,246,0.12)';"
+                onmouseout="this.style.background='';"
+                title="Nhấp vào hàng để xem toàn văn hồ sơ AD"
+            >
               <td>
                 <strong style="color:${isEasa ? "#34d399" : "#93c5fd"};font-size:13px;">
                   ${escapeHtml(a.num)}
@@ -5691,10 +5768,8 @@ ${bodyRows}
               </td>
               <td><span class="badge badge-standard">${flag}</span></td>
               <td style="font-size:12px;">${escapeHtml(a.eff || "---")}</td>
-              <td>
-                <button class="btn btn-outline btn-sm btn-open-ad-from-ipc" data-adid="${escapeHtml(a.id)}" style="font-size:11.5px;padding:3px 8px;">
-                  🔍 Xem Hồ Sơ AD
-                </button>
+              <td style="text-align:right;">
+                <span style="color:#60a5fa;font-size:12px;font-weight:700;">Xem AD ➜</span>
               </td>
             </tr>
           `;

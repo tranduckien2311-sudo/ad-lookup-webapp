@@ -1272,7 +1272,10 @@
           <div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:4px;" id="modalBadges"></div>
           <h2 style="font-size:17px;font-weight:800;overflow-wrap:anywhere;word-break:break-word;" id="modalTitle">AD Detail</h2>
         </div>
-        <button class="btn btn-outline btn-sm no-print" id="btnCloseDetailModal" style="flex-shrink:0;white-space:nowrap;">✕ Đóng</button>
+        <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+          <div id="modalBackToPartContainer"></div>
+          <button class="btn btn-outline btn-sm no-print" id="btnCloseDetailModal" style="flex-shrink:0;white-space:nowrap;">✕ Đóng</button>
+        </div>
       </div>
       <div class="modal-body" id="modalBodyContent"></div>
       <div class="modal-footer no-print">
@@ -1535,6 +1538,6 @@
   <div class="toast-container" id="toastContainer"></div>
 
   <script src="data.js"></script>
-  <script src="app.js?v=61"></script>
+  <script src="app.js?v=62"></script>
 </body>
 </html>
